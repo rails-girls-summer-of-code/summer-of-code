@@ -13,6 +13,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    overflow-x: hidden;
 }
 
 ::-moz-selection {
@@ -67,9 +68,19 @@ body {
 
 
 .header-container,
-.footer-container {
-    background: #cb3500;
+.footer-container,
+.arrow-white {
+    background-color: #de390c;
 }
+.header-container ul,
+.footer-container ul {
+    margin: 0;
+    padding: 0;
+}
+.footer-container { padding-bottom: 5em }
+.footer-container .nav-meta a { color: white; font-weight: normal; text-decoration: none }
+.footer-container .nav-meta a:hover { text-decoration: underline; }
+.footer-container h4 { font-weight: normal; margin: 3em 0 2em; }
 
 .main div.button {
   padding: 20px;
@@ -82,7 +93,7 @@ body {
   -webkit-box-shadow: 1px 1px 1px 1px rgba(100, 100, 100, 0.2);
   box-shadow: 1px 1px 1px 1px rgba(100, 100, 100, 0.2);
 }
-
+/*
 .yellow {
   background: rgba(237, 232, 141, 0.2); 
   background-image: -webkit-gradient(linear, 0%, 0%, 0% 100%, from(#ffffff), to(rgba(237, 232, 141, 0.2)));
@@ -150,7 +161,7 @@ body {
   color: #e58b82;
   font-weight: bold;
 }
-
+*/
 #below_header {
   width: 100%;
   overflow: hidden;
@@ -208,27 +219,99 @@ div.button {
 }
 
 a {
-  color: #cb3500;
-  text-decoration: none;
-  font-weight: bold;
-  
-  -webkit-transition: color 0.5s ease;
-  -moz-transition: color 0.5s ease;
-  -ms-transition: color 0.5s ease;
-  -o-transition: color 0.5s ease;
-  transition: color 0.5s ease;
-}
-
-a:hover {
   color: #000;
+  text-decoration: underline;
+  -webkit-transition: color 0.1s ease;
+  -moz-transition: color 0.1s ease;
+  -ms-transition: color 0.1s ease;
+  -o-transition: color 0.1s ease;
+  transition: color 0.1s ease;
+}
+a:hover {
+  color: #ee4214;
 }
 
 h1,
 h2,
 h3,
 .button h3 {
-  font-family: 'Share Tech Mono', sans-serif;	
+  /*font-family: 'Share Tech Mono', sans-serif;	*/
+  text-transform: capitalize;
 }
+h2 {
+    color: #ee4214;
+    margin: 1.5em 0 1.5em;
+    font-size: 2.5em;
+    line-height: 1;
+}
+ul {
+     list-style-type: circle;
+}
+
+/* ============
+    SPRITES
+   ============ */
+
+.logo, .arrow-white, .arrow-red {
+    background-image: url(../img/sprite.png);
+    background-repeat: no-repeat;
+    text-indent: 99em;
+    overflow: hidden;
+}
+.logo {
+    background-position: 0px -393px;
+    margin: 1em 0em 0em;
+    width: 310px;
+    height: 150px;
+}
+.social-media ul {
+    margin-top: 1em;
+    padding: .4em 1em .2em;
+    width: 10em;
+    background: rgba(255, 255, 255, 0.6);
+    list-style-type: none;
+    border-radius: 8px;
+}
+.social-media ul li {
+    float: left;
+    margin-right: .5em;
+}
+.arrow-white, .arrow-red {
+    width: 7em;
+    height: 2.7em;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.arrow-white {
+    background-position: 25px -183px;
+}
+.arrow-red {
+    background-color: white;
+    background-position: 25px -220px;
+}
+
+/* ==========================================================================
+   PARALLAX ELEMENTS
+   ========================================================================== */
+.container {
+    min-height: 25em;
+    padding-bottom: 4em;
+}
+.slide1, .slide3 {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.slide1 {
+    background-image: url(../img/workshop2_small.jpg);
+    border-bottom: solid 1em #a1c1e8;
+}
+.slide3 {
+    background-image: url(../img/workshop1_small.jpg);
+    border-bottom: solid 1em #e68d85;
+}
+
 
 /* ==========================================================================
    Media Queries
@@ -255,7 +338,18 @@ h3,
 /* ============
     WIDE: Menu
    ============ */
-
+   .logo {
+       background-position: 0px -260px;
+       margin: 1em 0em 3em;
+       width: 520px;
+       height: 150px;
+   }
+   .slide1 {
+       background-image: url(../img/workshop2.jpg);
+   }
+   .slide3 {
+       background-image: url(../img/workshop1.jpg);
+   }
     .title {
         float: left;
         margin-top: 57px;
@@ -267,7 +361,7 @@ h3,
     }
 
     .summer_of_code img {
-      width: 100%;    	
+      width: 100%;
     }
 
 /* ============
@@ -291,6 +385,12 @@ h3,
     Maximal Width
    =============== */
 
+   .logo {
+       background-position: 0px 0px;
+       margin: 2em 0em 3em;
+       width: 680px;
+       height: 180px;
+   }
     .wrapper {
         width: 1026px; /* 1140px - 10% for margins */
         margin: 0 auto;
