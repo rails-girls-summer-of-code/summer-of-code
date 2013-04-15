@@ -11,4 +11,21 @@ $(document).ready(function() {
         $(window).stellar();
     }
 
+    $('.scroll').click(function(e) {
+        var self = $(this);
+        e.preventDefault();
+        var ziel = self.parent().find('.wrapper');
+
+        console.log(ziel.offset());
+        // $('html,body').animate({
+        //     scrollTop: ziel.offsetTop()
+        // }, 2000);
+    })
+    $('.accordion').accordion({
+        heightStyle: "content",
+        icons: {
+          "header": "accordion-header",
+          "activeHeader": "accordion-header-active"
+        }
+    });
 });

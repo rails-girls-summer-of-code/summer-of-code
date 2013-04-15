@@ -10,8 +10,7 @@
         <title>Rails Girls - Summer of Code 2013</title>
         <meta name="description" content="Rails Girls Summer of Code 2013">
         <meta name="viewport" content="width=device-width">
-
-        <link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
 
@@ -20,59 +19,60 @@
     <body>
         <div class="header-container">
             <header class="wrapper clearfix">
-                <div class="social-media clearfix">
-                    <ul class="clearfix">
-                        <li class="icon-twitter"><a href="#">Twitter</a></li>
-                        <li class="icon-github"><a href="#">Github</a></li>
+                <a href="index.html" class=""><h1 class="logo-nav ir">Rails Girls Summer of Code</h1></a>
+                <nav class="nav-primary clearfix">
+                    <ul>
+                        <li><a href="">Projects wanted!</a></li>
+                        <li><a href="faq.html">FAQ</a></li>
+                        <li><a href="">Contact</a></li>
                     </ul>
-                </div>
-                <h1 class="title logo"><a href="#" class="ir">Rails Girls Summer of Code</a></h1>
+                </nav>
             </header>
         </div>
-        <div class="container slide1" data-stellar-background-ratio="0.6">
-            <div class=" wrapper clearfix">
-                <div class="arrow-white">&darr;</div>
-            </div> 
-        </div>
-        <div class="container slide2">
-            <div class=" wrapper clearfix">
-                <h2>women go open source</h2>
-                <p><strong>RailsGirls Summer of Code wants to help engage Open Source community newbies in projects</strong>. Just like in Google Summer of Code and Ruby Summer of Code, students will be paid so they're free to work on Open Source projects for a few months. Unlike those programs, the RailsGirls Summer of Code is not about creating sophisticated, high-end code that very few people code write, but rather <strong>cool small projects that are perfect for involving newbies</strong>.</p>
-                <p><strong>If you run an Open Source project, <a href="#" title="to the contact form">get in touch with us now!</a></strong></p>
-            </div> 
-        </div>
-        <div class="container slide3" data-stellar-background-ratio="0.6">
-            <div class=" wrapper clearfix">
-                <div class="arrow-red">&darr;</div>
+        <section class="main">
+            <div class="container slide0" >
+                <div class="wrapper clearfix intro">
+                    <h1 class="logo ir clearfix">Rails Girls Summer of Code</h1>
+                    <h2>offers RailsGirls students stipends to get into open source software projects</h2>
+                </div> 
+            </div>
+            <div class="container slide1" data-stellar-background-ratio="0.6">
+                <div class="wrapper clearfix">
+                    <div class="arrow-white"><a href="#slide2" class="scroll"></a></div>
+                </div> 
+            </div>
+            <div class="container slide2" id="slide2">
+                <div class="wrapper clearfix">
+                    <h2>Women go Open Source</h2>
+                    <p>RailsGirls Summer of Code helps RailsGirls students get into Open Source.</p>
+                    <p>Just like in Google Summer of Code and Ruby Summer of Code, students will be paid so they're free to work on Open Source projects for a few months. Unlike those programs, the RailsGirls Summer of Code is about helping students to further expand their knowledge and skills by contributing to a great Open Source project (rather than producing highly sophisticated code).</p>
+                    <p>If you have an idea for an Open Source project that would fit, get in touch with us now!</p>
+                </div> 
+            </div>
+            <div class="container slide3" data-stellar-background-ratio="0.6">
+                <div class="wrapper clearfix">
+                    <div class="arrow-red"><a href="#slide4" class="scroll"></a></div>
 
-            </div> 
-        </div>
-        <div class="container slide4">
-            <div class=" wrapper clearfix">
-                <h2>Projects wanted!</h2>
-                <p>The <strong>ideal project</strong> for the Rails Girls Summer of code is something <strong>simple and cool</strong> you always wanted to have, but never got around to do. In other words, it...</p>
-                <ul>
-                    <li>...is not crucial to your project, but you just love to see it get done</li>
-                    <li>...is simple enough that a beginner will be able to complete it in a time-frame of three months or less</li>
-                    <li>...could be anything that <strong>helps you</strong>: Bug fixing, implementing small features, documentation, design, etc - anything that allows the student to both <strong>apply her experience and grow with the challenge</strong>.</li>
-                    <li>...consists of several smaller sub-goals or follow-up <strong>goals that can be adjusted to the progress of the student</strong></li>
-                </ul>
-                <p>Each project needs to <strong>provide a mentor</strong>, who will help the student get up to speed with the project and provide feedback and direction. Mentors will be supported by coaches (experienced developers not necessarily involved in the specific Open Source project, but instead located in the city where the student is based), so the work-load for a mentor is limited. </p>
-            </div> 
-        </div>
-
+                </div> 
+            </div>
+            <div class="container slide4" id="slide4">
+                <div class="wrapper clearfix">
+                    <h2>Projects wanted!</h2>
+                    <p>The ideal project for the RailsGirls Summer of Code defines a goal that:</p>
+                    <ul>
+                        <li>can be considered a valuable, significant contribution</li>
+                        <li>is simple enough that a beginner will be able to complete it in a time frame of three months or less</li>
+                    </ul>
+                    <p>Each project needs to provide a mentor, who will help the student get up to speed with the project and provide feedback and direction. Mentors will be supported by coaches (developers based in the same city as the student, helping them to accomplish their tasks), so the workload for a mentor is limited.</p>
+                    <a href="" class="button">Register your project now!</a>
+                </div> 
+            </div>
+        </section> <!-- / .main -->
         <div class="footer-container">
             <footer class="wrapper">
-                <div class="social-media clearfix">
-                    <ul class="clearfix">
-                        <li class="icon-twitter"><a href="#">Twitter</a></li>
-                        <li class="icon-github"><a href="#">Github</a></li>
-                    </ul>
-                </div>
-                <h4>&copy; Rails Girls 2013</h4>
+                <p>&copy; Rails Girls 2013</p>
                 <nav class="nav-meta">
                     <ul>
-                        <li><a href="#">Contact</a></li>
                         <li><a href="#">Imprint</a></li>
                     </ul>
                 </nav>
@@ -81,6 +81,7 @@
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <script src="js/vendor/jquery-ui-1.10.2.custom.min.js"></script>
         <script src="js/vendor/jquery.stellar.js"></script>
 
         <script src="js/main.js"></script>
