@@ -74,11 +74,15 @@ textarea {
   right: 0;
   height: 4.1em;
   background-color: rgba(176, 39, 9, 0.8);
+  transition: all .5s ease;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transistion: all .5s ease;
 }
 .logo-nav {
   margin: 0;
   padding: 0;
-  float: left;
+  float: left
 }
 .nav-primary {
   float: right;
@@ -91,7 +95,7 @@ textarea {
   margin: 1.3em 0;
   padding: 0 0 0 1.5em;
 }
-.nav-primary ul li a{
+.nav-primary ul li a {
   padding: 1em 0em 1em;
   color: white;
   text-decoration: none;
@@ -99,13 +103,24 @@ textarea {
 .nav-primary ul li a:hover {
   text-decoration: underline;
 }
+/* Prepare styles for Scroll Effect */
+.no-scroll {
+ position: relative;
+ /*transform: translateY(-100%);
+ -webkit-transform: translateY(-100%);
+ -moz-transform: translateY(-100%);*/
+ background-color: #de390c;
+}
+.no-scroll .logo-nav {
+ background-image: none;
+}
 .content {
   padding-top: 4em;
   padding-bottom: 5em;
 }
 .content h3 {
   color: #f14215;
-  cursor: pointer;
+  /*cursor: pointer;*/
 }
 .accordion h3:before {
 /*  content: "";
@@ -159,8 +174,8 @@ a.button {
   -webkit-box-shadow: 1px 1px 1px 1px rgba(100, 100, 100, 0.2);
   box-shadow: 1px 1px 1px 1px rgba(100, 100, 100, 0.2);*/
   
-  -webkit-box-shadow: inset 0px 5px 30px 0px #fd8a47;
-  box-shadow: inset 0px 5px 30px 0px #fd8a47;
+  -webkit-box-shadow: inset 0px 10px 30px 0px rgba(176, 39, 9, 0.8);;
+  box-shadow: inset 0px 10px 30px 0px rgba(176, 39, 9, 0.8);;
 }
 .button:hover {
   color: white;
@@ -171,7 +186,7 @@ a.button {
     color: white;
 }
 .intro {
-  padding-top: 10em;
+  padding-top: 3em;
 }
 .intro h1 {
   margin: 0;
@@ -190,7 +205,9 @@ a.button {
 .main {
 
 }
-
+.main article {
+  width: 100%;
+}
 .main article h1 {
     font-size: 2em;
 }
@@ -222,16 +239,12 @@ aside {
 }
 
 a {
-  color: #000;
-  text-decoration: underline;
-/*  -webkit-transition: color 0.1s ease;
-  -moz-transition: color 0.1s ease;
-  -ms-transition: color 0.1s ease;
-  -o-transition: color 0.1s ease;
-  transition: color 0.1s ease;*/
+  color: #f14215;
+  text-decoration: none;
 }
 a:hover {
   color: #f14215;
+  text-decoration: underline;
 }
 
 h1,
@@ -323,7 +336,7 @@ ul {
    ========================================================================== */
 .container {
     min-height: 25em;
-    padding-bottom: 4em;
+    padding-bottom: 0em;
 }
 .slide1, .slide3 {
     -webkit-background-size: cover;
@@ -372,6 +385,7 @@ ul {
        width: 520px;
        height: 150px;
    }
+
    .slide1 {
        background-image: url(../img/workshop2.jpg);
    }
@@ -398,12 +412,12 @@ ul {
 
     .main article {
         float: left;
-        width: 57%;
+        width: 65%;
     }
 
     .main aside {
         float: right;
-        width: 28%;
+        width: 35%;
     }
 }
 
@@ -420,7 +434,11 @@ ul {
    }
     .wrapper {
         width: 1026px; /* 1140px - 10% for margins */
-        margin: 0 auto;
+        margin: 0 auto 3em;
+    }
+    .intro {
+      margin-bottom: 0em;
+      height: 22em;
     }
 }
 
