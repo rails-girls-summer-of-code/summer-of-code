@@ -1,4 +1,4 @@
-RailsGirls Summer of Code
+Rails Girls Summer of Code
 =========================
 
 Just getting started ...
