@@ -230,7 +230,7 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
 
 .button:active {
   text-decoration: none;
-  position: relative; top: 3px;
+  position: relative; top: 5px;
   -webkit-box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
   -moz-box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
   box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
