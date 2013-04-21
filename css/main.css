@@ -2,6 +2,16 @@
    HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
    ========================================================================== */
 
+@font-face {
+    font-family: 'Interstate';
+    src: url('fonts/interstate_mono-webfont.eot');
+    src: url('fonts/interstate_mono-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/interstate_mono-webfont.woff') format('woff'),
+         url('fonts/interstate_mono-webfont.ttf') format('truetype'),
+         url('fonts/interstate_mono-webfont.svg#interstate_monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 html,
 button,
 input,
@@ -56,6 +66,7 @@ textarea {
 .wrapper {
     width: 90%;
     margin: 0 5%;
+    overflow: hidden;
 }
 
 /* ===================
@@ -67,6 +78,14 @@ textarea {
 .arrow-white {
     background-color: #de390c;
 }
+/* smaller pages */
+.page .header-container {
+  position: static;
+  height: auto;
+  background-color: rgba(176, 39, 9, 0.9);
+}
+
+/* index */
 .header-container {
   position: fixed;
   top:0;
@@ -82,13 +101,10 @@ textarea {
 .logo-nav {
   margin: 0;
   padding: 0;
-  float: left
 }
-.nav-primary {
-  float: right;
-}
+
 .nav-primary ul {
-  text-align: right;
+  text-align: center;
 }
 .nav-primary ul li {
   display: inline-block;
@@ -96,13 +112,20 @@ textarea {
   padding: 0 0 0 1.5em;
 }
 .nav-primary ul li a {
-  padding: 1em 0em 1em;
+  padding: 1em 0em 1.6em;
   color: white;
   text-decoration: none;
 }
-.nav-primary ul li a:hover {
-  text-decoration: underline;
+.nav-primary ul li a.current-page {
+  background-image: url(../img/sprites/nav_active_arrow.png);
+  background-repeat: no-repeat;
+  background-position: 0px 42px;
 }
+.page-projects .nav-primary ul li a.current-page { background-position: 46px 42px; }
+.page-faq .nav-primary ul li a.current-page { background-position: 1px 42px; }
+.page-contact .nav-primary ul li a.current-page { background-position: 16px 42px; }
+
+
 /* Prepare styles for Scroll Effect */
 .no-scroll {
  position: relative;
@@ -112,37 +135,58 @@ textarea {
  background-color: #de390c;
 }
 .no-scroll .logo-nav {
- background-image: none;
-}
-.content {
-  padding-top: 4em;
-  padding-bottom: 5em;
+  display: none;
 }
 .content h3 {
-  color: #f14215;
-  /*cursor: pointer;*/
+  color: #de390c;
+  font-size: 1.4em;
 }
-.accordion h3:before {
-/*  content: "";
+.accordion h3:hover {
+  cursor: pointer;
+}
+.ui-accordion-header:focus {
+  outline: none;
+}
+.ui-accordion-header:before {
+  content: "";
   display: inline-block;
-  padding: .3em .5em;
+  padding: .7em 1.5em;
+  margin-right: .5em;
+  background-image: url(../img/sprites/faq_arrow_down.png);
+  background-position: 19px 10px;
+  background-repeat: no-repeat;
   background-color: #de390c;
-  width: 60px;
-  height: 20px;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 4px;
-  margin-right: 1em;
-  margin-top: 1em;*/
+  border-radius: 6px;
 }
-.ui-accordion-header-active {
-  color: blue;
+.ui-accordion-header:hover:before {
+  content: "";
+  display: inline-block;
+  margin-right: .5em;
+  background-image: url(../img/sprites/faq_arrow_down_red.png);
+  background-position: 19px 10px;
+  background-repeat: no-repeat;
+  background-color: #de390c;
+  border-radius: 5px;
 }
-.accordion-header {
-  background-position: 0px -560px;
+.ui-accordion-header-active:before {
+    content: "";
+    display: inline-block;
+    margin-right: .5em;
+    background-image: url(../img/sprites/faq_arrow_up.png);
+    background-position: 19px 8px;
+    background-repeat: no-repeat;
+    background-color: #de390c;
+    border-radius: 5px;
 }
-.accordion-header-active {
-  background-position: 0px -520px;
+.ui-accordion-header-active:hover:before {
+    content: "";
+    display: inline-block;
+    margin-right: .5em;
+    background-image: url(../img/sprites/faq_arrow_up_red.png);
+    background-position: 19px 8px;
+    background-repeat: no-repeat;
+    background-color: #de390c;
+    border-radius: 5px;
 }
 
 .header-container ul,
@@ -150,7 +194,7 @@ textarea {
     margin: 0;
     padding: 0;
 }
-.footer-container { min-height: 10em; padding-bottom: 5em; padding-top: 2em }
+.footer-container { min-height: 10em; padding-bottom: 5em; padding-top: 2em; clear: both; }
 .footer-container .nav-meta a { color: white; font-weight: normal; text-decoration: none }
 .footer-container .nav-meta a:hover { text-decoration: underline; }
 .footer-container p {padding: 0; margin: 0}
@@ -207,6 +251,7 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
 }
 .intro {
   padding-top: 3em;
+  overflow: hidden;
 }
 .intro h1 {
   margin: 0;
@@ -271,7 +316,7 @@ h1,
 h2,
 h3,
 .button h3 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Interstate', sans-serif;
 }
 h2 {
     color: #f14215;
@@ -288,16 +333,26 @@ ul {
     color: red;
     padding-right: 0.5em;
 }
+.content {
+  width: 100%;
+  float: none;
+}
+.sidebar {
+  width: 100%;
+  float: none;
+}
 /* ============
     SPRITES
    ============ */
 
-.logo-nav , .logo, .arrow-white, .arrow-red, .accordion-header, .accordion-header-active {
+/*.logo-nav , .logo, .arrow-white, .arrow-red, .accordion-header, .accordion-header-active {
     background-image: url(../img/sprite.png);
     background-repeat: no-repeat;
-}
+}*/
 .logo-nav {
-  background-position: 0px -207px;
+  background-image: url(../img/sprites/logo_subnavi.png);
+  background-repeat: no-repeat;
+  background-position: 0px 7px;
   width: 210px;
   height: 58px;
   text-indent: 100%;
@@ -311,12 +366,12 @@ ul {
   height: 58px;
 }
 .logo {
-    background-position: 0px 0px;
+    background-image: url(../img/sprites/logo_subnavi.png);
+    background-repeat: no-repeat;
+    background-position: 0px 40px;
     margin: 1em 0em 0em;
-    width: 310px;
-    height: 150px;
-}
-.logo {
+    width: 320px;
+    height: 100px;
     text-indent: 99em;
     overflow: hidden;
 }
@@ -339,11 +394,15 @@ ul {
     border-bottom-right-radius: 8px;
 }
 .arrow-white {
-    background-position: 25px -424px;
+    background-image: url(../img/sprites/arrow_down.png);
+    background-repeat: no-repeat;
+    background-position: 28px 5px;
 }
 .arrow-red {
+    background-image: url(../img/sprites/arrow_down_red.png);
+    background-repeat: no-repeat;
     background-color: white;
-    background-position: 25px -499px;
+    background-position: 28px 5px;
 }
 .arrow-white a, .arrow-red a {
   padding: 1.5em 3.5em;
@@ -351,12 +410,31 @@ ul {
   overflow: hidden;
 }
 
+/* SCRIBBLES */
+
+.scribble1, .scribble2, .scribble3, .scribble4, .scribble5, .scribble6 {
+  background-image: url(../img/scribbles.png);
+  background-repeat: no-repeat;
+  min-width: 200px;
+  min-height: 250px;
+  margin-top: 0;
+}
+.scribble1 { background-position: 100px 0px; }
+.scribble2 { background-position: 70px -250px; }
+.scribble3 { background-position: 70px -500px; }
+.scribble4 { background-position: 70px -750px; }
+.scribble5 { background-position: 70px -1000px; }
+.scribble6 { background-position: 70px -1250px; }
+
 /* ==========================================================================
    PARALLAX ELEMENTS
    ========================================================================== */
 .container {
     min-height: 25em;
     padding-bottom: 0em;
+}
+.container.slide0 {
+  min-height: 18em;
 }
 .slide1, .slide3 {
     -webkit-background-size: cover;
@@ -392,6 +470,13 @@ ul {
     .summer_of_code img {
       width: 80%;
     }
+    .logo {
+       background-image: url(../img/sprites/logo_start.png);
+       background-position: 0px 0px;
+        margin: 1em 0em 3em;
+        width: 675px;
+        height: 165px;
+    }
 }
 
 @media only screen and (min-width: 768px) {
@@ -401,9 +486,11 @@ ul {
     WIDE: Menu
    ============ */
    .logo {
+      background-image: url(../img/sprites/logo_start.png);
+      background-position: 0px 0px;
        margin: 1em 0em 3em;
-       width: 520px;
-       height: 150px;
+       width: 675px;
+       height: 165px;
    }
 
    .slide1 {
@@ -439,6 +526,31 @@ ul {
         float: right;
         width: 35%;
     }
+
+    .content {
+      width: 60%;
+      float: left;
+    }
+    .sidebar {
+      width: 25%;
+      float: right;
+    }
+    .scribble1 { margin-top: 50px; }
+    .scribble2 {}
+    .scribble3 { margin-top: 100px; }
+    .scribble4 { margin-top: 200px; }
+    .scribble5 { margin-top: 20px; }
+    .scribble6 { background-position: 70px -1250px; }
+
+    .nav-primary { float: right; }
+    .nav-primary ul { text-align: right; }
+    .header-container { height: 4.1em; }
+    .logo-nav { float: left; }
+
+    .no-scroll .logo-nav {
+      /*display: block;*/
+    }
+    .container.slide0 { min-height: 25em; }
 }
 
 @media only screen and (min-width: 1140px) {

@@ -18,19 +18,19 @@ $(document).ready(function() {
 			e.preventDefault();
 			
 			$('html,body').animate({
-					scrollTop: $(aim).offset().top
+					scrollTop: $(aim).offset().top - 80
 			}, 1500);
 	})
 /**
  * Accordion on the faq
  */
-	// $('.accordion').accordion({
-	// 	heightStyle: "content",
-	// 	icons: {
-	// 		"header": "accordion-header",
-	// 		"activeHeader": "accordion-header-active"
-	// 	}
-	// });
+	$('.accordion').accordion({
+		heightStyle: "content",
+		icons: {
+			"header": "accordion-header",
+			"activeHeader": "accordion-header-active"
+		}
+	});
 
 /**
  * Show/ hide navbar
