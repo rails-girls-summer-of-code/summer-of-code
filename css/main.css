@@ -341,6 +341,11 @@ ul {
   width: 100%;
   float: none;
 }
+.fullwidth {
+  width: 100%;
+  float: none;
+  clear: both;
+}
 /* ============
     SPRITES
    ============ */
