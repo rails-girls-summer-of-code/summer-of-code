@@ -105,6 +105,8 @@ textarea {
 
 .nav-primary ul {
   text-align: center;
+  position: relative;
+  top: 5px;
 }
 .nav-primary ul li {
   display: inline-block;
@@ -157,6 +159,7 @@ textarea {
   background-repeat: no-repeat;
   background-color: #de390c;
   border-radius: 6px;
+  vertical-align: bottom;
 }
 .ui-accordion-header:hover:before {
   content: "";
@@ -533,11 +536,11 @@ ul {
     }*/
 
     .content {
-      width: 60%;
+      width: 65%;
       float: left;
     }
     .sidebar {
-      width: 30%;
+      width: 35%;
       float: right;
     }
     /*.scribble1 { margin-top: 50px; }
