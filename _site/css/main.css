@@ -111,13 +111,8 @@ textarea {
   text-decoration: none;
 }
 .nav-primary ul li a.current-page {
-  background-image: url(../img/sprites/nav_active_arrow.png);
-  background-repeat: no-repeat;
-  background-position: 0px 42px;
+  text-decoration: underline;
 }
-.page-projects .nav-primary ul li a.current-page { background-position: 46px 42px; }
-.page-faq .nav-primary ul li a.current-page { background-position: 1px 42px; }
-.page-contact .nav-primary ul li a.current-page { background-position: 16px 42px; }
 
 
 /* Prepare styles for Scroll Effect */
@@ -479,6 +474,17 @@ ul {
         width: 675px;
         height: 165px;
     }
+    .nav-primary ul li a.current-page {
+      background-image: url(../img/sprites/nav_active_arrow.png);
+      background-repeat: no-repeat;
+      background-position: 0px 42px;
+      text-decoration: none;
+    }
+    .page-students .nav-primary ul li a.current-page { background-position: 20px 42px; }
+    .page-sponsors .nav-primary ul li a.current-page { background-position: 20px 42px; }
+    .page-projects .nav-primary ul li a.current-page { background-position: 15px 42px; }
+    .page-faq .nav-primary ul li a.current-page { background-position: 1px 42px; }
+    .page-contact .nav-primary ul li a.current-page { background-position: 16px 42px; }
 }
 
 @media only screen and (min-width: 768px) {
