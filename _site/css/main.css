@@ -318,10 +318,16 @@ h2 {
 ul {
      list-style-type: none;
 }
+.container ul li {
+  list-style-position: inside;
+}
 .container ul li:before {
     content: '\2022 ';
-    color: red;
+    position: absolute;
     padding-right: 0.5em;
+    margin-bottom: 14em;
+    margin-left: -.7em;
+    color: red;
 }
 .content {
   width: 100%;
