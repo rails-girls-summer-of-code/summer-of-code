@@ -342,6 +342,15 @@ ul {
   float: none;
   clear: both;
 }
+.related {
+	margin-bottom: 5em;
+	padding-top: .5em;
+	padding-bottom: 1em;
+	text-align: left;
+}
+.related ul li:before {
+	content: '';
+}
 /* ============
     SPRITES
    ============ */
@@ -491,6 +500,7 @@ ul {
     .page-projects .nav-primary ul li a.current-page { background-position: 15px 42px; }
     .page-faq .nav-primary ul li a.current-page { background-position: 1px 42px; }
     .page-contact .nav-primary ul li a.current-page { background-position: 16px 42px; }
+
 }
 
 @media only screen and (min-width: 768px) {
@@ -542,12 +552,15 @@ ul {
     }*/
 
     .content {
-      width: 65%;
+      width: 62%;
       float: left;
     }
     .sidebar {
-      width: 35%;
+      width: 33%;
       float: right;
+    }
+    .related {
+        text-align: right;
     }
     /*.scribble1 { margin-top: 50px; }
     .scribble2 {}
