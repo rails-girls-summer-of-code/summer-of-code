@@ -185,10 +185,11 @@ textarea {
     margin: 0;
     padding: 0;
 }
-.footer-container { min-height: 10em; padding-bottom: 5em; padding-top: 2em; clear: both; }
+.footer-container { min-height: 10em; padding-bottom: 1em; padding-top: 2em; clear: both; }
 .footer-container .nav-meta a { color: white; font-weight: normal; text-decoration: none }
 .footer-container .nav-meta a:hover { text-decoration: underline; }
-.footer-container p {padding: 0; margin: 0}
+.footer-container p {position: absolute; bottom: 0; right: 0; padding: 0; margin: 0; float: right; text-align: right;}
+.footer-container .wrapper {position: relative; min-height: 20em;}
 
 a.button {
   display: inline-block;
@@ -270,7 +271,7 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
 
 .footer-container footer {
     color: white;
-    padding-top: 10px;
+    padding-top: 1em;
 }
 
 /* ===============
@@ -469,6 +470,27 @@ ul {
     margin: 2em 0;
     padding: 0 3.5em;
     text-indent: -3.5em;
+}
+/* ==========================================================================
+   Sponsors
+   ========================================================================== */
+.sponsors {
+
+}
+.sponsors div {
+    display: inline-block;
+    width: 20%;
+    height: 4.5em;
+    opacity: .5;
+    transition: opacity 200ms linear;
+    -webkit-transition: opacity 200ms linear;
+    -moz-transition: opacity 200ms linear;
+}
+.sponsors div:hover, .sponsors div:active {
+    opacity: 1;
+}
+.sponsors .github {
+    background: url(../img/sponsors/GitHub_Logo.png);
 }
 
 /* ==========================================================================
