@@ -743,6 +743,10 @@ ul {
   color: white;
 }
 
+.container ul.donation-plans li {
+  padding-top: 20px;
+}
+
 .container ul.donation-plans p {
   text-align: left;
 }
