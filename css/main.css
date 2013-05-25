@@ -716,6 +716,48 @@ ul {
     *zoom: 1;
 }
 
+.donation-plans {
+  float: left;
+}
+
+.container ul.donation-plans {
+  width: 1024px;
+  margin-bottom: 40px;
+}
+
+.container ul.donation-plans li {
+  display: inline-block;
+  width: 200px;
+  height: 300px;
+  vertical-align: top;
+  list-style: none;
+  border: 1px solid rgb(34, 34, 34);
+  border-radius: 4px;
+  padding: 5px 10px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.container ul.donation-plans li:before {
+  content: "";
+  color: white;
+}
+
+.container ul.donation-plans p {
+  text-align: left;
+}
+
+#sponsoring {
+  position: relative;
+}
+
+.donate-button {
+  position: absolute;
+  bottom: 30px;
+  text-align: center;
+  width: 200px;
+}
+
 /* ==========================================================================
    Print styles
    ========================================================================== */
