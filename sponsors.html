@@ -48,13 +48,16 @@ current: sponsors
               </li>
             </ul>
 
+            <form id="stripe-form" method="post" action="https://misty-cloud-1233.herokuapp.com">
+            </form>
+
             <p>
               German business or a European business without VAT ID? <a href="#" id="toggle-vat">Add VAT</a>.
             </p>
 
             <div class="custom-donation">
               <strong>Donate a custom amount!</strong>
-              <form>
+              <form onsubmit="return false">
                 <input type="number" id="custom-donation-amount" placeholder="50.00" step="10.00"/>
                 <a href="#" class="donate-button button" data-custom="true" data-name="Custom">Donate Now</a>
               </form>
@@ -78,7 +81,7 @@ current: sponsors
     var self = $(this);
     var token = function(res){
       var $input = $('<input type=hidden name=stripeToken />').val(res.id);
-      $('form').append($input).submit();
+      $('form#stripe-form').append($input).submit();
     };
 
     var amount = 0;
@@ -101,6 +104,7 @@ current: sponsors
       address:     true,
       amount:      amount,
       currency:    'usd',
+      name: 'Rails Girls Summer of Code',
       description: 'Rails Girls Summer of Code: ' + self.attr('data-name') + ' Sponsorship',
       panelLabel:  'Pay Now',
       token:       token
