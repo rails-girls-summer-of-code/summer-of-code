@@ -48,6 +48,10 @@ current: sponsors
               </li>
             </ul>
 
+            <p>
+              German business or a European business without VAT ID? <a href="#" id="toggle-vat">Add VAT</a>.
+            </p>
+
             <div class="custom-donation">
               <strong>Donate a custom amount!</strong>
               <form>
@@ -87,7 +91,11 @@ current: sponsors
     } else {
       amount = self.attr('data-amount');
     }
-    console.log(amount)
+
+    if (document.include_vat) {
+      amount = amount * 1.19;
+    }
+
     StripeCheckout.open({
       key:         '',
       address:     true,
@@ -97,6 +105,12 @@ current: sponsors
       panelLabel:  'Pay Now',
       token:       token
     });
+
+    return false;
+  });
+
+  $('#toggle-vat').click(function() {
+    document.include_vat = !document.include_vat;
 
     return false;
   });
