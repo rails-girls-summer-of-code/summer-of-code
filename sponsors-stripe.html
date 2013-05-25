@@ -99,7 +99,7 @@ current: sponsors
       var $input = $('<input type=hidden name=stripeToken />').val(res.id);
       var $amount = $('<input type=hidden name=amount />').val(amount);
       var $donation_package = $('<input type=hidden name=package />').val(donation_package);
-      $('form#stripe-form').append($input).append($amount).append($donation_package)submit();
+      $('form#stripe-form').append($input).append($amount).append($donation_package).submit();
     };
 
     StripeCheckout.open({
