@@ -222,7 +222,8 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
 
 .button:active {
   text-decoration: none;
-  position: relative; top: 5px;
+  position: relative;
+  top: 5px;
   -webkit-box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
   -moz-box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
   box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
@@ -721,20 +722,21 @@ ul {
 }
 
 .container ul.donation-plans {
-  width: 1024px;
+  width: 1124px;
   margin-bottom: 40px;
+  padding-left: 0px;
 }
 
 .container ul.donation-plans li {
   display: inline-block;
-  width: 200px;
+  width: 210px;
   height: 300px;
   vertical-align: top;
   list-style: none;
   border: 1px solid rgb(34, 34, 34);
   border-radius: 4px;
-  padding: 5px 10px;
-  margin-right: 20px;
+  padding: 5px 15px;
+  margin-right: 15px;
   text-align: center;
 }
 
@@ -755,11 +757,29 @@ ul {
   position: relative;
 }
 
-.donate-button {
+ul.donation-plans .donate-button {
   position: absolute;
-  bottom: 30px;
+  bottom: 0px;
   text-align: center;
-  width: 200px;
+  width: 180px;
+  margin-bottom: 15px;
+}
+
+.donate-button.button {
+  font-size: 1em;
+  padding: 15px;
+}
+
+ul.donation-plans a.button:active {
+  position: inherit;
+}
+
+.custom-donation input[type=number] {
+  height: 50px;
+  padding: 0px 10px;
+  font-size: 24px;
+  width: 120px;
+  margin-right: 20px;
 }
 
 /* ==========================================================================
