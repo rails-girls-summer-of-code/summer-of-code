@@ -112,6 +112,11 @@ current: sponsors
   $('#toggle-vat').click(function() {
     document.include_vat = !document.include_vat;
 
+    if (document.include_vat) {
+      $(this).text('Remove VAT');
+    } else {
+      $(this).text('Add VAT')
+    }
     return false;
   });
 </script>
