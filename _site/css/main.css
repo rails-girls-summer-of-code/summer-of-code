@@ -222,7 +222,8 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
 
 .button:active {
   text-decoration: none;
-  position: relative; top: 5px;
+  position: relative;
+  top: 5px;
   -webkit-box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
   -moz-box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
   box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
@@ -288,7 +289,7 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
 
 aside p,
 aside h2 {
-  margin: 0px;  
+  margin: 0px;
 }
 
 aside {
@@ -506,7 +507,7 @@ ul {
     .summer_of_code {
       float: left;
     }
-    
+
     .summer_of_code img {
       width: 80%;
     }
@@ -563,7 +564,7 @@ ul {
         float: left;
         margin-top: 57px;
     }
-    
+
     .summer_of_code {
       float: right;
       margin-right: 52px;
@@ -714,6 +715,73 @@ ul {
 
 .clearfix {
     *zoom: 1;
+}
+
+.donation-plans {
+  float: left;
+}
+
+.container ul.donation-plans {
+  width: 1124px;
+  margin-bottom: 40px;
+  padding-left: 0px;
+}
+
+.container ul.donation-plans li {
+  display: inline-block;
+  position: relative;
+  width: 210px;
+  height: 300px;
+  vertical-align: top;
+  list-style: none;
+  border: 1px solid rgb(34, 34, 34);
+  border-radius: 4px;
+  padding: 5px 15px;
+  margin-right: 15px;
+  text-align: center;
+}
+
+.container ul.donation-plans li:before {
+  content: "";
+  color: white;
+}
+
+.container ul.donation-plans li {
+  padding-top: 20px;
+}
+
+.container ul.donation-plans p {
+  text-align: left;
+}
+
+#sponsoring {
+  position: relative;
+}
+
+ul.donation-plans .donate-button {
+  position: absolute;
+  bottom: 0px;
+  left: 15px;
+  text-align: center;
+  width: 180px;
+  margin-bottom: 15px;
+}
+
+.donate-button.button {
+  font-size: 1em;
+  padding: 15px;
+}
+
+ul.donation-plans a.button:active {
+  position: inherit;
+}
+
+.custom-donation input[type=number] {
+  height: 50px;
+  padding: 0px 10px;
+  font-size: 24px;
+  width: 120px;
+  margin-right: 20px;
 }
 
 /* ==========================================================================

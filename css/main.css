@@ -289,7 +289,7 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
 
 aside p,
 aside h2 {
-  margin: 0px;  
+  margin: 0px;
 }
 
 aside {
@@ -507,7 +507,7 @@ ul {
     .summer_of_code {
       float: left;
     }
-    
+
     .summer_of_code img {
       width: 80%;
     }
@@ -564,7 +564,7 @@ ul {
         float: left;
         margin-top: 57px;
     }
-    
+
     .summer_of_code {
       float: right;
       margin-right: 52px;
@@ -729,6 +729,7 @@ ul {
 
 .container ul.donation-plans li {
   display: inline-block;
+  position: relative;
   width: 210px;
   height: 300px;
   vertical-align: top;
@@ -760,6 +761,7 @@ ul {
 ul.donation-plans .donate-button {
   position: absolute;
   bottom: 0px;
+  left: 15px;
   text-align: center;
   width: 180px;
   margin-bottom: 15px;

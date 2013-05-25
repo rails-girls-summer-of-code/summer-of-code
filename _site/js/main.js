@@ -38,6 +38,7 @@ $(document).ready(function() {
 	$(function() {
 
 		var header = $('.intro h2');
+    if (header.length == 0) return;
 		var height = header.height();
 		var pos = Math.floor(header.position().top);
 		var scroll = height + pos;
