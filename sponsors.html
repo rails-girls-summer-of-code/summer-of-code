@@ -4,6 +4,9 @@ title: Sponsors
 class: page page-sponsors
 current: sponsors
 ---
+<script src="https://checkout.stripe.com/v2/checkout.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+
 <section class="main container">
     <div class="wrapper clearfix">
         <article class="content">
@@ -11,32 +14,55 @@ current: sponsors
             <p>Rails Girls Summer of Code will pay the selected students 1500 USD per month for a three months period, so they can dedicate themselves to their Open Source projects full-time. As a sponsor, you will be crucial to make that happen.</p>
             <p>Rails Girls Summer of Code is all about the community. You will support it as a global project, so your sponsorship will enter a budget pool from which the selected students will be paid.</p>
             <p>If you are willing to support us, here is what we offer:</p>
-            <ul>
-                <li><strong>Bronze - 5,000 USD</strong> = logo on the website, lots of tweet love from the community.</li>
-                <li><strong>Silver - 10,000 USD</strong> = same as bronze, but with a bigger logo on the website and a quote or testimonial from your company in the press kit.</li>
-                <li><strong>Gold - 15,000 USD</strong> = same as silver, plus your logo in presentations about Rails Girls Summer of Code.</li>
-                <li><strong>Platinum - 20,000 USD</strong> = same as gold + Konstantin Haase wears a T-shirt from your company at a conference and mentions why.</li>
-                <li><strong>Diamond</strong> - Match the combined contributions of all other sponsors = personalized and special perks, please get in touch with us.</li>
-                
+            <ul class="donation-plans" id="sponsoring">
+              <li><strong>Bronze - 5,000 USD</strong>
+                <p>
+                  Your logo on our website, lots of tweet love from the community.
+                </p>
+
+                <a href="#" class="donate-button button" data-amount="500000" data-name="Bronze">Become a Sponsor!</a>
+              </li>
+              <li><strong>Silver - 10,000 USD</strong>
+                <p>
+                  Same as bronze, but with a bigger logo on the website and a quote or testimonial from your company in the press kit.
+                </p>
+
+                <a href="#" class="donate-button button" data-amount="1000000" data-name="Silver">Become a Sponsor!</a>
+              </li>
+              <li><strong>Gold - 15,000 USD</strong>
+                <p>
+                  Same as silver, plus your logo in presentations about Rails Girls Summer of Code.
+                </p>
+
+                <a href="#" class="donate-button button" data-amount="1500000" data-name="Gold">Become a Sponsor!</a>
+              </li>
+              <li><strong>Platinum - 20,000 USD</strong>
+                <p>
+                  Same as gold + <a href="http://github.com/rkh">Konstantin Haase</a> (Maintainer of Sinatra and Ruby
+                  Hero) wears a T-shirt from your company at a conference and mentions why.
+                </p>
+
+                <div class="donate-wrapper">
+                  <a href="#" class="donate-button button" data-amount="2000000" data-name="Platinum">Become a Sponsor!</a>
+                </div>
+              </li>
             </ul>
-            <p>Donation of smaller amounts if you are in the USA </p>
-            <pre> 
-                  Bank name: Congressional Bank
-                  Address: 2101 K St NW, Washington DC, 20037
-                  Routing number: 055003418
-                  Account number: 9030004734
-                        
-            </pre>
-            <p>Donation of smaller amounts if you are in Europe </p>
-            <pre>
-                Name: Travis CI GmbH
-                BIC : WELADED1PMB
-                IBAN: DE37160500001000937166
-                Bank: Mittelbrandenburgische Sparkasse Potsdam
-                BLZ  :16050000
-                Num : 1000937166  
-                
-            </pre>
+
+            <form id="stripe-form" method="post" action="https://misty-cloud-1233.herokuapp.com">
+            </form>
+
+            <p>
+              German business or a European business without VAT ID? <a href="#" id="toggle-vat">Add VAT</a>.
+            </p>
+
+            <div class="custom-donation">
+              <strong>Donate a custom amount!</strong>
+              <form onsubmit="return false">
+                <input type="number" id="custom-donation-amount" placeholder="50.00" step="10.00"/>
+                <a href="#" class="donate-button button" data-custom="true" data-name="Custom">Donate Now</a>
+              </form>
+            </p>
+
             <p>Logos on the website will be sorted by amount and date. Please read the information on VAT and tax deductibility in the FAQ if you are contributing from within the EU and especially from Germany.</p>
             <p>It is also possible to sponsor a lower amount, we will be happy about it as well. Should you wish, we could put your name in the thank you list.</p>
             <p>Doesn't this sound awesome? Please, drop us a line at <a href="mailto: summer-of-code@railsgirls.com" title="mail to the sponsor-team">summer-of-code@railsgirls.com</a> and mention the magic code "Sponsor" in the subject line. We will get back to you shortly with more details.</p>
@@ -49,3 +75,56 @@ current: sponsors
         </aside>
     </div>
 </section> <!-- / .main -->
+
+<script>
+  $('.donate-button').click(function(){
+    var self = $(this);
+    var amount = 0;
+    if (self.attr('data-custom')) {
+      amount = $('#custom-donation-amount').val();
+      if (amount === "") {
+        amount = 50;
+      }
+      amount = amount * 100;
+    } else {
+      amount = self.attr('data-amount');
+    }
+
+    if (document.include_vat) {
+      amount = amount * 1.19;
+    }
+    var donation_package = self.attr('data-name');
+
+    var token = function(res){
+      var $input = $('<input type=hidden name=stripeToken />').val(res.id);
+      var $amount = $('<input type=hidden name=amount />').val(amount);
+      var $donation_package = $('<input type=hidden name=package />').val(donation_package);
+      $('form#stripe-form').append($input).append($amount).append($donation_package)submit();
+    };
+
+    StripeCheckout.open({
+      key:         '',
+      address:     true,
+      amount:      amount,
+      currency:    'usd',
+      name: 'Rails Girls Summer of Code',
+      description: 'Rails Girls Summer of Code: ' + donation_package + ' Sponsorship',
+      panelLabel:  'Pay Now',
+      token:       token
+    });
+
+    return false;
+  });
+
+  $('#toggle-vat').click(function() {
+    document.include_vat = !document.include_vat;
+
+    if (document.include_vat) {
+      $(this).text('Remove VAT');
+    } else {
+      $(this).text('Add VAT')
+    }
+    return false;
+  });
+</script>
+
