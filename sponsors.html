@@ -93,11 +93,13 @@ current: sponsors
     if (document.include_vat) {
       amount = amount * 1.19;
     }
+    var donation_package = self.attr('data-name');
 
     var token = function(res){
       var $input = $('<input type=hidden name=stripeToken />').val(res.id);
       var $amount = $('<input type=hidden name=amount />').val(amount);
-      $('form#stripe-form').append($input).append($amount).submit();
+      var $donation_package = $('<input type=hidden name=package />').val(donation_package);
+      $('form#stripe-form').append($input).append($amount).append($donation_package)submit();
     };
 
     StripeCheckout.open({
@@ -106,7 +108,7 @@ current: sponsors
       amount:      amount,
       currency:    'usd',
       name: 'Rails Girls Summer of Code',
-      description: 'Rails Girls Summer of Code: ' + self.attr('data-name') + ' Sponsorship',
+      description: 'Rails Girls Summer of Code: ' + donation_package + ' Sponsorship',
       panelLabel:  'Pay Now',
       token:       token
     });
