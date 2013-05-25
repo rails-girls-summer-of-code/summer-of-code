@@ -79,11 +79,6 @@ current: sponsors
 <script>
   $('.donate-button').click(function(){
     var self = $(this);
-    var token = function(res){
-      var $input = $('<input type=hidden name=stripeToken />').val(res.id);
-      $('form#stripe-form').append($input).submit();
-    };
-
     var amount = 0;
     if (self.attr('data-custom')) {
       amount = $('#custom-donation-amount').val();
@@ -98,6 +93,12 @@ current: sponsors
     if (document.include_vat) {
       amount = amount * 1.19;
     }
+
+    var token = function(res){
+      var $input = $('<input type=hidden name=stripeToken />').val(res.id);
+      var $amount = $('<input type=hidden name=amount />').val(amount);
+      $('form#stripe-form').append($input).append($amount).submit();
+    };
 
     StripeCheckout.open({
       key:         '',
