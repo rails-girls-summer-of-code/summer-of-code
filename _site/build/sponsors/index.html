@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <link rel="shortcut icon" href="favicon.ico">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title> Sponsors |  Rails Girls Summer of Code</title>
+        <meta name="description" content="Rails Girls Summer of Code 2013">
+        <meta name="viewport" content="width=device-width">
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="/css/normalize.min.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/donations.css">
+
+        <script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="/js/vendor/jquery-1.9.1.min.js"></script>
+        <script src="/js/vendor/date.format.js"></script>
+        <script src="/js/donations.js"></script>
+        <script src="/js/pagination.js"></script>
+    </head>
+    <body class="page page-sponsors">
+        <div class="header-container ">
+            <header class="wrapper clearfix">
+                <a href="/" class=""><h1 class="logo-nav ir">Rails Girls Summer of Code</h1></a>
+                <nav class="nav-primary clearfix">
+                    <ul>
+                        <li><a href="/students" >Students</a></li>
+                        <li><a href="/sponsors" class="current-page">Sponsors</a></li>
+                        <li><a href="/projects" >Projects</a></li>
+                        <li><a href="/faq" >FAQ</a></li>
+                        <li><a href="/contact" >Contact</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+
+        <script src="https://checkout.stripe.com/v2/checkout.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+
+<section class="main container">
+  <div class="wrapper clearfix">
+    <article class="content">
+      <h2>Sponsors</h2>
+
+      <p>Rails Girls Summer of Code will pay the selected students 1500 USD per month for a three months period, so they can dedicate themselves to their Open Source projects full-time. As a sponsor, you will be crucial to make that happen.</p>
+      <p>Rails Girls Summer of Code is all about the community. You will support it as a global project, so your sponsorship will enter a budget pool from which the selected students will be paid.</p>
+      <p>If you are willing to support us, here is what we offer:</p>
+
+      <form id="stripe-form" method="post" action="https://campaign.railsgirlssummerofcode.org/donations/checkout">
+  <input type=hidden name=stripe_card_token />
+  <input type=hidden name=amount />
+  <input type=hidden name=package />
+</form>
+
+<ul class="donation-plans" id="sponsoring">
+  <li>
+    <strong>Bronze - 2,500 USD</strong>
+    <p>
+      Your logo on our website, lots of tweet love from the community.
+    </p>
+    <a href="#" class="donate-button button" data-amount="2500" data-name="Bronze">Become a Sponsor</a>
+  </li>
+  <li>
+    <strong>Silver - 5,000 USD</strong>
+    <p>
+      Same as Bronze, but with a bigger logo and your testimonial in the press kit.
+    </p>
+    <a href="#" class="donate-button button" data-amount="5000" data-name="Silver">Become a Sponsor</a>
+  </li>
+  <li>
+    <strong>Gold - 10,000 USD</strong>
+    <p>
+      Same as Silver. Plus: your logo in presentations about Rails Girls Summer of Code.
+    </p>
+    <a href="#" class="donate-button button" data-amount="10000" data-name="Gold">Become a Sponsor</a>
+  </li>
+  <li>
+    <strong>Platinum - 15,000 USD</strong>
+    <p>
+      Same as Gold. And <a href="http://github.com/rkh">Konstan- tin</a><sup>1</sup> wears your T-shirt at a conference & explains why.
+    </p>
+    <a href="#" class="donate-button button" data-amount="15000" data-name="Platinum">Become a Sponsor</a>
+  </li>
+</ul>
+
+<p class="footnote"><sup>1</sup> <a href="http://github.com/rkh">Konstantin Haase</a>: Travis CI core member, Sinatra maintainer and Ruby Hero 2012</p>
+
+
+
+      <p>You can also contribute a <strong>custom amount</strong> through <a href="/campaign">our crowdfunding</a> campaign and be listed on our website.</p>
+
+      <p>Logos and links on the website will be sorted by amount and date. Please read the information on VAT and tax deductibility in the FAQ if you are contributing from within the EU and especially from Germany.</p>
+
+      <p>We are also continuously working on additional ideas that haven't been finalized yet, such as cross-promotions with podcasters, newsletters and blogs. More info coming soon.</p>
+
+      <p>If you happen to have other ideas or if you're missing something on this list, please get in touch: <a href="mailto: summer-of-code@railsgirls.com" title="mail to the sponsor-team">summer-of-code@railsgirls.com</a></p>
+
+      <p>If you prefer to transfer the money directly you can use one of the following bank accounts. Please mention "RailsGirls Summer of Code" in the subject.</p>
+
+      <h4>German bank account</h4>
+      <dl class="bank">
+        <dt>Name</dt><dd>Travis CI GmbH</dd>
+        <dt>BIC</dt><dd>WELADED1PMB</dd>
+        <dt>IBAN</dt><dd>DE37160500001000937166</dd>
+        <dt>Bank</dt><dd>Mittelbrandenburgische Sparkasse Potsdam</dd>
+        <dt>BLZ</dt><dd>16050000</dd>
+        <dt>Num</dt><dd>1000937166</dd>
+      </dl>
+
+      <h4>US bank account</h4>
+      <dl class="bank">
+          <dt>Name</dt><dd>Jumpstart Labs</dd>
+          <dt>Bank</dt><dd>Congressional Bank</dd>
+          <dt>Address</dt><dd>2101 K St NW, Washington DC, 20037</dd>
+          <dt>Routing no</dt><dd>055003418</dd>
+          <dt>Account no</dt><dd>9030004734</dd>
+      </dl>
+
+      <p>We are looking forward to having you on board as a sponsor!</p>
+
+    </article>
+    <aside class="sidebar">
+        <div class="scribble8"></div>
+    </aside>
+  </div>
+</section> <!-- / .main -->
+
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <div class="sponsors silver">
+                    <h3>Sponsored by</h3>
+                    <a href="http://github.com" target="_blank"><div class="github"></div></a>
+                </div>
+                <p class="sidebar">&copy; Rails Girls 2013</p>
+            </footer>
+        </div> <!-- #footer-container -->
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <script src="/js/vendor/jquery-ui-1.10.2.custom.min.js"></script>
+        <script src="/js/vendor/jquery.stellar.js"></script>
+
+        <script src="/js/main.js"></script>
+
+        <script>
+            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+    </body>
+</html>
