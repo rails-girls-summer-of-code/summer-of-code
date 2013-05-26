@@ -20,21 +20,21 @@ current: sponsors
           <p>
             Your logo on our website, lots of tweet love from the community.
           </p>
-          <a href="#" class="donate-button button" data-amount="500000" data-name="Bronze">Become a Sponsor!</a>
+          <a href="#" class="donate-button button" data-amount="5000" data-name="Bronze">Become a Sponsor!</a>
         </li>
         <li>
           <strong>Silver - 10,000 USD</strong>
           <p>
             Same as bronze, but with a bigger logo on the website and a quote or testimonial from your company in the press kit.
           </p>
-          <a href="#" class="donate-button button" data-amount="1000000" data-name="Silver">Become a Sponsor!</a>
+          <a href="#" class="donate-button button" data-amount="10000" data-name="Silver">Become a Sponsor!</a>
         </li>
         <li>
           <strong>Gold - 15,000 USD</strong>
           <p>
             Same as silver, plus your logo in presentations about Rails Girls Summer of Code.
           </p>
-          <a href="#" class="donate-button button" data-amount="1500000" data-name="Gold">Become a Sponsor!</a>
+          <a href="#" class="donate-button button" data-amount="15000" data-name="Gold">Become a Sponsor!</a>
         </li>
         <li>
           <strong>Platinum - 20,000 USD</strong>
@@ -42,11 +42,11 @@ current: sponsors
             Same as gold + <a href="http://github.com/rkh">Konstantin Haase</a> (Maintainer of Sinatra and Ruby
             Hero) wears a T-shirt from your company at a conference and mentions why.
           </p>
-          <a href="#" class="donate-button button" data-amount="2000000" data-name="Platinum">Become a Sponsor!</a>
+          <a href="#" class="donate-button button" data-amount="20000" data-name="Platinum">Become a Sponsor!</a>
         </li>
       </ul>
 
-      <form id="stripe-form" method="post" action="http://localhost:3000/donations/checkout">
+      <form id="stripe-form" method="post" action="https://rgsoc-campaign.herokuapp.com/donations/checkout">
         <input type=hidden name=stripe_card_token />
         <input type=hidden name=amount />
         <input type=hidden name=package />
@@ -94,7 +94,7 @@ current: sponsors
       $('input[name="package"]').val(package);
       $('form#stripe-form').submit();
     };
-    var description = package + ' Sponsorship';
+    var description = package == 'Custom' ? 'Your donation' : package + ' Sponsorship';
 
     StripeCheckout.open({
       key:         'pk_test_1z7JS6h82UpmSL1gzmrRKxAa',
