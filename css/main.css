@@ -51,6 +51,22 @@ textarea {
     resize: vertical;
 }
 
+.bank dt {
+  float: left;
+  clear: left;
+  width: 100px;
+  text-align: right;
+  font-weight: bold;
+  color: #666;
+}
+.bank dt:after {
+  content: ":";
+}
+.bank dd {
+  margin: 0 0 0 110px;
+  padding: 0 0 0.5em 0;
+}
+
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
    ========================================================================== */
@@ -193,7 +209,7 @@ textarea {
 
 a.button {
   display: inline-block;
-  margin: 2em 1em 2em 0;
+  margin: 2em 1em 0 0;
   padding: 20px;
   background-color: #e53f05;
   color: white;
@@ -731,7 +747,7 @@ ul {
   display: inline-block;
   position: relative;
   width: 210px;
-  height: 300px;
+  /* height: 300px; */
   vertical-align: top;
   list-style: none;
   border: 1px solid rgb(34, 34, 34);
@@ -759,9 +775,10 @@ ul {
 }
 
 ul.donation-plans .donate-button {
-  position: absolute;
-  bottom: 0px;
-  left: 15px;
+  /* position: absolute; */
+  /* bottom: 0px; */
+  /* left: 15px; */
+  margin: 0 auto;
   text-align: center;
   width: 180px;
   margin-bottom: 15px;
@@ -776,12 +793,24 @@ ul.donation-plans a.button:active {
   position: inherit;
 }
 
+.custom-donation {
+  margin-bottom: 3em;
+}
+
+.custom-donation .button {
+  margin-top: 0;
+}
+
 .custom-donation input[type=number] {
   height: 50px;
   padding: 0px 10px;
   font-size: 24px;
   width: 120px;
   margin-right: 20px;
+}
+
+.footnote {
+  font-size: 90%;
 }
 
 /* ==========================================================================
