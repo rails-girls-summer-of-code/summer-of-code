@@ -72,6 +72,10 @@
   margin-left: 5px;
   background-image: url(/images/icons/recurring.png);
 }
+#thanks-folks table a {
+  color: #666;
+  text-decoration: underline;
+}
 #thanks-folks table img {
   width: 35px;
   height: 35px;
