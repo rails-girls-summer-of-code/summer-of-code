@@ -17,12 +17,6 @@ permalink: campaign/
       <p>Rails Girls Summer of Code will pay the selected students 1500 USD per month for a three months period, so they can dedicate themselves to their Open Source projects full-time. For this we are looking for your support.</p>
       <p>Rails Girls Summer of Code is all about the community. You will support it as a global project, so your donations and sponsorships will enter a budget pool from which the selected students will be paid.</p>
 
-      <form id="stripe-form" method="post" action="https://campaign.railsgirlssummerofcode.org/donations/checkout">
-        <input type=hidden name=stripe_card_token />
-        <input type=hidden name=amount />
-        <input type=hidden name=package />
-      </form>
-
       <h3>Please donate!</h3>
 
       <form onsubmit="return false" class="custom-donation">
@@ -31,37 +25,8 @@ permalink: campaign/
       </form>
 
       <h3>Become a sponsor!</h3>
-      <ul class="donation-plans" id="sponsoring">
-        <li>
-          <strong>Bronze - 2,500 USD</strong>
-          <p>
-            Your logo on our website, lots of tweet love from the community.
-          </p>
-          <a href="#" class="donate-button button" data-amount="2500" data-name="Bronze">Become a Sponsor</a>
-        </li>
-        <li>
-          <strong>Silver - 5,000 USD</strong>
-          <p>
-            Same as Bronze, but with a bigger logo and your testimonial in the press kit.
-          </p>
-          <a href="#" class="donate-button button" data-amount="5000" data-name="Silver">Become a Sponsor</a>
-        </li>
-        <li>
-          <strong>Gold - 10,000 USD</strong>
-          <p>
-            Same as Silver. Plus: your logo in presentations about Rails Girls Summer of Code.
-          </p>
-          <a href="#" class="donate-button button" data-amount="10000" data-name="Gold">Become a Sponsor</a>
-        </li>
-        <li>
-          <strong>Platinum - 15,000 USD</strong>
-          <p>
-            Same as Gold. And <a href="http://github.com/rkh">Konstan- tin</a><sup>1</sup> wears your T-shirt at a conference & explains why.
-          </p>
-          <a href="#" class="donate-button button" data-amount="15000" data-name="Platinum">Become a Sponsor</a>
-        </li>
-      </ul>
-      <p class="footnote"><sup>1</sup> Travis CI core member, Sinatra maintainer and Ruby Hero 2012</p>
+      {% include sponsor_packages.html %}
+      <p>Find out more about our <a href="/sponsors">sponsors packages</a>.
 
       <section id="thanks-folks">
         <h2>Thank you!</h2>

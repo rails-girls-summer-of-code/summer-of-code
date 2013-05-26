@@ -79,7 +79,7 @@ $(document).ready(function() {
     var description = package == 'Custom' ? 'Your donation' : package + ' Sponsorship';
 
     StripeCheckout.open({
-      key:         'pk_test_1z7JS6h82UpmSL1gzmrRKxAa',
+      key:         'pk_test_oqAFNUozwz75eFQdaTyKojFt',
       address:     false,
       amount:      amount,
       currency:    'usd',

@@ -51,16 +51,21 @@ textarea {
     resize: vertical;
 }
 
+.bank {
+  padding: 1em 0 0.5em 1em;
+  font-size: 0.9em;
+  background-color: #f6f6f6;
+}
 .bank dt {
   float: left;
   clear: left;
   width: 100px;
-  text-align: right;
+  text-align: left;
   font-weight: bold;
   color: #666;
 }
 .bank dt:after {
-  content: ":";
+  /* content: ":"; */
 }
 .bank dd {
   margin: 0 0 0 110px;
