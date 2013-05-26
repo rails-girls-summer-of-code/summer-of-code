@@ -74,7 +74,7 @@ textarea {
 .page .header-container {
   position: static;
   height: auto;
-  background-color: rgba(176, 39, 9, 0.9);
+  background-color: rgb(222, 57, 12, 1);
 }
 
 /* index */
@@ -84,7 +84,7 @@ textarea {
   left: 0;
   right: 0;
   height: 4.1em;
-  background-color: rgba(176, 39, 9, 0.8);
+  background-color: rgba(222, 57, 12, .9);
   transition: all .5s ease;
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
