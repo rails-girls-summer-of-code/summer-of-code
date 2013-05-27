@@ -48,11 +48,11 @@
 }
 #thanks-folks table .github {
   margin-left: 8px;
-  background-image: url(/images/icons/github.png);
+  background-image: url(/img/icons/github.png);
 }
 #thanks-folks table .twitter {
   margin-left: 5px;
-  background-image: url(/images/icons/twitter.png);
+  background-image: url(/img/icons/twitter.png);
 }
 #thanks-folks table .package {
   float: left;
