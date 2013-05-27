@@ -19,9 +19,12 @@
   padding: 5px;
   white-space: nowrap;
 }
+#thanks-folks table td:nth-child(5),
+#thanks-folks table td:last-child {
+  font-size: 0.9em;
+}
 #thanks-folks table td:last-child {
   white-space: normal;
-  font-size: 0.9em;
 }
 #thanks-folks table col.col-gravatar {
   width: 45px;
