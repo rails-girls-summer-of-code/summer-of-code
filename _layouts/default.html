@@ -4,22 +4,23 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
-        <link rel="shortcut icon" href="favicon.ico">
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{% if page.title %} {{ page.title }} | {% endif %} Rails Girls Summer of Code</title>
-        <meta name="description" content="Rails Girls Summer of Code 2013">
-        <meta name="viewport" content="width=device-width">
-        <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="/css/normalize.min.css">
-        <link rel="stylesheet" href="/css/main.css">
-        <link rel="stylesheet" href="/css/donations.css">
-
         <script>
           if(location.hostname == 'railsgirlsberlin.github.io') {
             location.href = 'http://railsgirlssummerofcode.org'
           }
         </script>
+
+        <title>{% if page.title %} {{ page.title }} | {% endif %} Rails Girls Summer of Code</title>
+        <link rel="shortcut icon" href="favicon.ico">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="Rails Girls Summer of Code 2013">
+        <meta name="viewport" content="width=device-width">
+
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="/css/normalize.min.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/donations.css">
 
         <script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
         <script src="/js/vendor/jquery-1.9.1.min.js"></script>
@@ -62,14 +63,16 @@
         <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
         <script src="/js/vendor/jquery-ui-1.10.2.custom.min.js"></script>
         <script src="/js/vendor/jquery.stellar.js"></script>
-
         <script src="/js/main.js"></script>
 
         <script>
-            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-            s.parentNode.insertBefore(g,s)}(document,'script'));
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-41237864-1', 'railsgirlssummerofcode.org');
+          ga('send', 'pageview');
         </script>
     </body>
 </html>

@@ -96,6 +96,7 @@ textarea {
   position: static;
   height: auto;
   background-color: rgb(222, 57, 12, 1);
+  /* background-color: rgba(211, 54, 11, 1); */
 }
 
 /* index */
@@ -106,6 +107,7 @@ textarea {
   right: 0;
   height: 4.1em;
   background-color: rgba(222, 57, 12, .9);
+  /* background-color: rgba(211, 54, 11, .9); */
   transition: all .5s ease;
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
