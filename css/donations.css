@@ -42,16 +42,16 @@
   display: inline-block;
   overflow: hidden;
   width: 16px;
-  height: 18px;
+  height: 26px;
   text-indent: 16px;
-  background: no-repeat center 2px;
+  background: no-repeat left center;
 }
 #thanks-folks table .github {
   margin-left: 8px;
   background-image: url(/img/icons/github.png);
 }
 #thanks-folks table .twitter {
-  margin-left: 5px;
+  margin-left: 6px;
   background-image: url(/img/icons/twitter.png);
 }
 #thanks-folks table .package {

@@ -64,14 +64,14 @@ $.extend(Donation.prototype, {
   render: function() {
     var row, value, _i, _len, _ref;
     row = $('<tr></tr>');
-    _ref = this.values();
+    _ref = this.cells();
     for (_i = 0, _len = _ref.length; _i < _len; _i++) {
-      value = _ref[_i];
-      row.append($('<td>' + value + '</td>'));
+      cell = _ref[_i];
+      row.append(cell);
     }
     return row;
   },
-  values: function() {
+  cells: function() {
     var name, _i, _len, _ref, _results;
     _ref = ['gravatar', 'links', 'amount', 'package', 'date', 'comment'];
     _results = [];
@@ -82,46 +82,62 @@ $.extend(Donation.prototype, {
     return _results;
   },
   gravatar: function() {
-    return '<img src="' + (this.data.gravatar_url || 'http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e') + '">';
+    var src = this.data.gravatar_url || 'http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e';
+    var img = $('<img>').attr('src', src);
+    return $('<td></td>').append(img);
   },
   links: function() {
-    return [this.name(), this.github(), this.twitter()].compact().join('');
+    var links = [this.name(), this.github(), this.twitter()].compact();
+    var cell = $('<td></td>');
+    for (_i = 0, _len = links.length; _i < _len; _i++) {
+      tag = links[_i];
+      cell.append(tag);
+    }
+    return cell;
   },
   name: function() {
     if (this.data.homepage) {
-      return "<a href=\"" + this.data.homepage + "\">" + this.data.name + "</a>";
+      return $('<a></a>').attr('href', this.data.homepage).text(this.data.name);
     } else {
-      return this.data.name;
+      return $('<span></span>').text(this.data.name);
     }
   },
   github: function() {
     if (this.data.github_handle) {
-      return "<a href=\"https://github.com/" + this.data.github_handle + "\" class=\"github\">" + this.data.github_handle + "</a>";
+      var href = "https://github.com/" + this.data.github_handle;
+      var text = this.data.github_handle;
+      return $('<a class="github"></a>').attr('href', href).text(text);
     }
   },
   twitter: function() {
     if (this.data.twitter_handle) {
-      return "<a href=\"https://twitter.com/" + this.data.twitter_handle + "\" class=\"twitter\">" + this.data.twitter_handle + "</a>";
+      var href = "https://twitter.com/" + this.data.twitter_handle;
+      var text = this.data.twitter_handle;
+      return $('<a class="twitter"></a>').attr('href', href).text(text);
     }
   },
   amount: function() {
-    return '$' + this.data.amount;
+    return $('<td></td>').text('$' + this.data.amount);
   },
-  "package": function() {
-    return ("<span class=\"package " + this.data.package + "\">" + (this.data["package"].camelize()) + "</span>") + this.subscription();
+  package: function() {
+    var text = this.data["package"].camelize();
+    var classes = "package " + this.data.package;
+    var package = $('<span></span>').attr('class', classes).text(text); // + this.subscription();
+    return $('<td></td>').append(package);
   },
   subscription: function() {
+    var tag = $('<span></span>');
     if (this.data.subscription) {
-      return '<span class="subscription" title="subscription">yes</span>';
-    } else {
-      return '';
+      tag.attr('class', 'subscription').attr('title', 'subscription').text('yes');
     }
+    return tag;
   },
   date: function() {
-    return new Date(this.data.created_at).format('mediumDate');
+    var date = new Date(this.data.created_at).format('mediumDate');
+    return $('<td></td>').text(date);
   },
   comment: function() {
-    return this.data.comment || '';
+    return $('<td></td>').text(this.data.comment || '');
   }
 });
 
