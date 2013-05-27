@@ -206,11 +206,11 @@ textarea {
     margin: 0;
     padding: 0;
 }
-.footer-container { min-height: 10em; padding-bottom: 1em; padding-top: 2em; clear: both; }
+.footer-container { padding-bottom: 1em; padding-top: 2em; clear: both; }
 .footer-container .nav-meta a { color: white; font-weight: normal; text-decoration: none }
 .footer-container .nav-meta a:hover { text-decoration: underline; }
-.footer-container p {position: absolute; bottom: 0; right: 0; padding: 0; margin: 0; float: right; text-align: right;}
-.footer-container .wrapper {position: relative; min-height: 20em;}
+.footer-container p { margin-top: 4em; font-size: 0.9em; }
+.footer-container .wrapper {position: relative; }
 
 a.button {
   display: inline-block;
@@ -295,7 +295,10 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
     color: white;
     padding-top: 1em;
 }
-
+.footer-container footer a {
+  color: white;
+  text-decoration: underline;
+}
 /* ===============
     ALL: IE Fixes
    =============== */
@@ -497,22 +500,23 @@ ul {
    Sponsors
    ========================================================================== */
 .sponsors {
-
+  margin-top: 2em;
 }
-.sponsors div {
-    display: inline-block;
-    width: 50%;
-    height: 4.5em;
-    opacity: .5;
-    transition: opacity 200ms linear;
-    -webkit-transition: opacity 200ms linear;
-    -moz-transition: opacity 200ms linear;
+.sponsors a {
+  display: inline-block;
+  width: 15em;
+  height: 4.5em;
+  border-radius: 5px;
+  margin-right: 1em;
 }
-
+.sponsors a:last-child {
+  margin-right: 0;
+}
 .sponsors .github {
-    background: url(../img/sponsors/GitHub_Logo.png);
+    background: url(../img/sponsors/GitHub_Logo.png) center top;
     background-size: contain;
     background-repeat: no-repeat;
+    background-color: white;
 }
 
 /* ==========================================================================
