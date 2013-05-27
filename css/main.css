@@ -123,16 +123,26 @@ textarea {
 }
 .nav-primary ul li {
   display: inline-block;
-  margin: 1.3em 0;
-  padding: 0 0 0 1.5em;
+  margin: 1em 0 0 0;
 }
 .nav-primary ul li a {
-  padding: 1em 0em 1.6em;
+  display: inline-block;
+  height: 48px;
   color: white;
   text-decoration: none;
 }
 .nav-primary ul li a.current-page {
   text-decoration: underline;
+}
+.nav-primary ul li:last-child:after {
+  content: none;
+}
+.nav-primary ul li:after {
+  content: '';
+  display: inline-block;
+  height: 20px;
+  width: 40px;
+  background: url(/img/star.png) 16px 8px no-repeat;
 }
 
 
@@ -539,21 +549,16 @@ ul {
     .logo {
        background-image: url(../img/sprites/logo_start.png);
        background-position: 0px 0px;
-        margin: 1em 0em 3em;
-        width: 675px;
-        height: 165px;
+       margin: 1em 0em 3em;
+       width: 675px;
+       height: 165px;
     }
     .nav-primary ul li a.current-page {
       background-image: url(../img/sprites/nav_active_arrow.png);
       background-repeat: no-repeat;
-      background-position: 0px 42px;
+      background-position: center 32px;
       text-decoration: none;
     }
-    .page-students .nav-primary ul li a.current-page { background-position: 20px 42px; }
-    .page-sponsors .nav-primary ul li a.current-page { background-position: 20px 42px; }
-    .page-projects .nav-primary ul li a.current-page { background-position: 15px 42px; }
-    .page-faq .nav-primary ul li a.current-page { background-position: 1px 42px; }
-    .page-contact .nav-primary ul li a.current-page { background-position: 16px 42px; }
 
 /* ====================
     INTERMEDIATE: Sponsors
