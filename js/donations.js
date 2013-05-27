@@ -96,10 +96,11 @@ $.extend(Donation.prototype, {
     return cell;
   },
   name: function() {
+    var name = this.data.name || this.data.twitter_handle || this.data.github_handle || 'Anonymous';
     if (this.data.homepage) {
-      return $('<a></a>').attr('href', this.data.homepage).text(this.data.name);
+      return $('<a></a>').attr('href', this.data.homepage).text(name);
     } else {
-      return $('<span></span>').text(this.data.name);
+      return $('<span></span>').text(name);
     }
   },
   github: function() {
