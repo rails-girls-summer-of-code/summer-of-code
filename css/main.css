@@ -801,6 +801,8 @@ ul.donation-plans .donate-button {
 }
 
 .donate-button.button {
+  position: relative;
+  top: -2px;
   font-size: 1em;
   padding: 15px;
 }
