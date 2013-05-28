@@ -10,10 +10,15 @@
 #thanks-folks table tr {
   border-color: #ddd;
   border-width: 1px 0;
-  background-color: #F2F4F9;
+  background-color: white;
+}
+#thanks-folks table tr td.sum {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 1.1em;
 }
 #thanks-folks table tr:nth-child(even) {
-  background-color: white;
+  background-color: #F2F4F9;
 }
 #thanks-folks table td {
   padding: 5px;
