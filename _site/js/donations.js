@@ -1,4 +1,4 @@
-var Donation, Donations;
+var Donation, DonationSum, Donations;
 
 String.prototype.camelize = function() {
   return this.slice(0, 1).toUpperCase() + this.slice(1);
@@ -45,17 +45,25 @@ $.extend(Donations.prototype, {
   },
   render: function(page) {
     var record, _i, _len, _results;
+    var _sum = 0;
     this.clear();
     _results = [];
     for (_i = 0, _len = page.length; _i < _len; _i++) {
       record = page[_i];
+      _sum += record.amount;
       _results.push(this.tbody.append(new Donation(record).render()));
     }
+    this.tbody.prepend(new DonationSum(_sum).render());
     return _results;
   }
 });
 
 Donation = function(data) {
+  this.data = data;
+  return this;
+};
+
+DonationSum = function(data) {
   this.data = data;
   return this;
 };
@@ -139,6 +147,16 @@ $.extend(Donation.prototype, {
   },
   comment: function() {
     return $('<td></td>').text(this.data.comment || '');
+  }
+});
+
+$.extend(DonationSum.prototype, {
+  render: function() {
+    var row, cell;
+    row = $('<tr></tr>');
+    cell = '<td colspan="6" class="sum">A total of $' + this.data + ' have been donated so far!</td>'
+    row.append(cell);
+    return row;
   }
 });
 
