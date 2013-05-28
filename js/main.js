@@ -15,10 +15,12 @@ $(document).ready(function() {
  */
 	$('.scroll').click(function(e) {
 			var aim = $(this).attr('href');
+      var step = parseInt($(this).attr('data-step'));
 			e.preventDefault();
 
+      console.log(Math.pow(6, step))
 			$('html,body').animate({
-					scrollTop: $(aim).offset().top - 80
+					scrollTop: $(aim).offset().top - 120 + Math.pow(8, step)
 			}, 1500);
 	})
 /**
