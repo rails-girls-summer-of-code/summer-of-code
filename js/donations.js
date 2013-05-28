@@ -154,7 +154,7 @@ $.extend(DonationSum.prototype, {
   render: function() {
     var row, cell;
     row = $('<tr></tr>');
-    cell = '<td colspan="6" class="sum">A total of $' + this.data + ' have been donated so far!</td>'
+    cell = '<td colspan="6" class="sum">A total of <strong>$' + this.data + '</strong> have been donated so far!</td>'
     row.append(cell);
     return row;
   }
