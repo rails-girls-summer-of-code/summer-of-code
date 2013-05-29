@@ -834,10 +834,6 @@ ul.donation-plans a.button:active {
   margin-top: 0px;
   color: #bbb;
 }
-.stripe-note a {
-  color: #bbb;
-  text-decoration: underline;
-}
 /* ==========================================================================
    Print styles
    ========================================================================== */
