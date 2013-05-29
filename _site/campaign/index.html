@@ -12,6 +12,7 @@
 
         <title> Campaign |  Rails Girls Summer of Code</title>
         <link rel="shortcut icon" href="favicon.ico">
+        <link rel="icon" href="favicon.ico">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="description" content="Rails Girls Summer of Code 2013">
@@ -34,7 +35,7 @@
                 <a href="/" class=""><h1 class="logo-nav ir">Rails Girls Summer of Code</h1></a>
                 <nav class="nav-primary clearfix">
                     <ul>
-                        <li><a href="/campaign" class="current-page">Campaign</a></li>
+                        <li><a href="/campaign" class="current-page">Donate Now!</a></li>
                         <li><a href="/students" >Students</a></li>
                         <li><a href="/sponsors" >Sponsors</a></li>
                         <li><a href="/projects" >Projects</a></li>
@@ -53,18 +54,23 @@
     <article>
       <div class="scribble8" style="float:right"></div>
 
-      <h2>Campaign</h2>
-      <p>Rails Girls Summer of Code will pay the selected students 1500 USD per month for a three months period, so they can dedicate themselves to their Open Source projects full-time. For this we are looking for your support.</p>
-      <p>Rails Girls Summer of Code is all about the community. You will support it as a global project, so your donations and sponsorships will enter a budget pool from which the selected students will be paid.</p>
+      <h2>Help us raise <b>$50,000</b> by June 7 2013!</h2>
 
-      <h3>Please donate!</h3>
+      <h3>This will help support <b>10</b> Rails Girls students to work on Open Source projects</h3>
+
+      <p>For every <b>$5,000</b> raised, we can support <b>one student</b>.</p>
 
       <form onsubmit="return false" class="custom-donation">
-        <input type="number" id="custom-donation-amount" placeholder="75.00" step="25.00" min="1.00"/>
+        <input type="number" id="custom-donation-amount" placeholder="75.00" step="25.00"/>
         <a href="#" class="donate-button button" data-custom="true" data-name="Custom">Donate Now</a>
+        <p class="stripe-note"><small>Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a></small></p>
       </form>
 
-      <h3>Become a sponsor!</h3>
+      <p>Rails Girls Summer of Code is all about enabling women work full-time on writing fantastic code for<br/>Open Source projects over the course of three months.</p>
+      <p>We can only make this happen with your amazing support. Your donation enables us to pay every<br/>student $5,000 during the Summer of Code. </p>
+      <p>For more information on Summer of Code, please see our <a href="/faq">FAQ</a>.</p>
+
+      <h3>Become An Awesome Sponsor Now!</h3>
       <form id="stripe-form" method="post" action="https://campaign.railsgirlssummerofcode.org/donations/checkout">
   <input type=hidden name=stripe_card_token />
   <input type=hidden name=amount />
@@ -73,39 +79,43 @@
 
 <ul class="donation-plans" id="sponsoring">
   <li>
-    <strong>Bronze - 2,500 USD</strong>
+    <strong>Bronze - 1,000 USD</strong>
     <p>
       Your logo on our website, lots of tweet love from the community.
     </p>
-    <a href="#" class="donate-button button" data-amount="2500" data-name="Bronze">Become a Sponsor</a>
+    <a href="#" class="donate-button button" data-amount="1000" data-name="Bronze">Become a Sponsor</a>
   </li>
   <li>
-    <strong>Silver - 5,000 USD</strong>
+    <strong>Silver - 2,500 USD</strong>
     <p>
       Same as Bronze, but with a bigger logo and your testimonial in the press kit.
     </p>
-    <a href="#" class="donate-button button" data-amount="5000" data-name="Silver">Become a Sponsor</a>
+    <a href="#" class="donate-button button" data-amount="2500" data-name="Silver">Become a Sponsor</a>
   </li>
   <li>
-    <strong>Gold - 10,000 USD</strong>
+    <strong>Gold - 5,000 USD</strong>
     <p>
       Same as Silver. Plus: your logo in presentations about Rails Girls Summer of Code.
     </p>
-    <a href="#" class="donate-button button" data-amount="10000" data-name="Gold">Become a Sponsor</a>
+    <a href="#" class="donate-button button" data-amount="5000" data-name="Gold">Become a Sponsor</a>
   </li>
   <li>
-    <strong>Platinum - 15,000 USD</strong>
+    <strong>Platinum - 10,000 USD</strong>
     <p>
       Same as Gold. And <a href="http://github.com/rkh">Konstan- tin</a><sup>1</sup> wears your T-shirt at a conference & explains why.
     </p>
-    <a href="#" class="donate-button button" data-amount="15000" data-name="Platinum">Become a Sponsor</a>
+    <a href="#" class="donate-button button" data-amount="10000" data-name="Platinum">Become a Sponsor</a>
   </li>
 </ul>
+
+<p class="stripe-note"><small>Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a></small></p>
+
+<p>For bigger packages please <a href="mailto:summer-of-code@railsgirls.com">get in touch</a>!
 
 <p class="footnote"><sup>1</sup> <a href="http://github.com/rkh">Konstantin Haase</a>: Travis CI core member, Sinatra maintainer and Ruby Hero 2012, speaks at many <a href="http://lanyrd.com/profile/konstantinhaase/">conferences</a></p>
 
 
-      <p>Find out more about our <a href="/sponsors">sponsors packages</a>.
+      <p>Find out more about our <a href="/sponsors">sponsoring packages</a>.
 
       <section id="thanks-folks">
         <h2>Thank you!</h2>

@@ -755,7 +755,6 @@ ul {
 
 .container ul.donation-plans {
   width: 1124px;
-  margin-bottom: 40px;
   padding-left: 0px;
 }
 
@@ -801,6 +800,8 @@ ul.donation-plans .donate-button {
 }
 
 .donate-button.button {
+  position: relative;
+  top: -3px;
   font-size: 1em;
   padding: 15px;
 }
@@ -810,7 +811,7 @@ ul.donation-plans a.button:active {
 }
 
 .custom-donation {
-  margin-bottom: 3em;
+  margin-bottom: 1em;
 }
 
 .custom-donation .button {
@@ -829,6 +830,14 @@ ul.donation-plans a.button:active {
   font-size: 90%;
 }
 
+.stripe-note {
+  margin-top: 0px;
+  color: #bbb;
+}
+.stripe-note a {
+  color: #bbb;
+  text-decoration: underline;
+}
 /* ==========================================================================
    Print styles
    ========================================================================== */
