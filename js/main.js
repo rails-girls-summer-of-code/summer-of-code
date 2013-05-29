@@ -68,7 +68,7 @@ $(document).ready(function() {
     } else {
       amount = self.attr('data-amount');
     }
-    amount = amount * 100;
+    amount = Math.abs(amount * 100);
 
     var package = self.attr('data-name');
 
