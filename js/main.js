@@ -55,7 +55,13 @@ $(document).ready(function() {
 				}
 			}
 		})
-	})
+	});
+
+  $(function() {
+    if(location.hostname == 'localhost') {
+      $('#stripe-form').attr('action', 'http://localhost:3000/donations/checkout');
+    }
+  });
 
   $('.donate-button').click(function(){
     var self = $(this);
@@ -81,7 +87,7 @@ $(document).ready(function() {
     var description = package == 'Custom' ? 'Your donation' : package + ' Sponsorship';
 
     StripeCheckout.open({
-      key:         'pk_live_yCtxaMJZgFa64UQKWEVsrL5h',
+      key:         location.hostname == 'localhost' ? 'pk_test_oqAFNUozwz75eFQdaTyKojFt' : 'pk_live_yCtxaMJZgFa64UQKWEVsrL5h',
       address:     false,
       amount:      amount,
       currency:    'usd',

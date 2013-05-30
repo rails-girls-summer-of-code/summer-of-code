@@ -1,4 +1,6 @@
-var Donation, DonationSum, Donations;
+var Donation, Donations, Stats;
+
+var ENV = document.location.hostname == 'localhost' ? 'development' : 'production';
 
 String.prototype.camelize = function() {
   return this.slice(0, 1).toUpperCase() + this.slice(1);
@@ -20,14 +22,13 @@ Donations = function(table, pagination) {
 };
 
 $.extend(Donations, {
-  ENV: document.location.hostname == 'localhost' ? 'development' : 'production',
   URLS: {
     production:  'http://campaign.railsgirlssummerofcode.org/donations.json',
     development: 'http://localhost:3000/donations.json'
   },
-  COUNT: 100
+  COUNT: 1
 });
-Donations.URL = Donations.URLS[Donations.ENV];
+Donations.URL = Donations.URLS[ENV];
 
 $.extend(Donations.prototype, {
   load: function() {
@@ -45,25 +46,17 @@ $.extend(Donations.prototype, {
   },
   render: function(page) {
     var record, _i, _len, _results;
-    var _sum = 0;
     this.clear();
     _results = [];
     for (_i = 0, _len = page.length; _i < _len; _i++) {
       record = page[_i];
-      _sum += record.amount;
       _results.push(this.tbody.append(new Donation(record).render()));
     }
-    this.tbody.prepend(new DonationSum(_sum).render());
     return _results;
   }
 });
 
 Donation = function(data) {
-  this.data = data;
-  return this;
-};
-
-DonationSum = function(data) {
   this.data = data;
   return this;
 };
@@ -126,7 +119,11 @@ $.extend(Donation.prototype, {
     }
   },
   amount: function() {
-    return $('<td></td>').text('$' + this.data.amount);
+    var amount = $('<td></td>')
+    if(this.data.amount) {
+      amount.text('$' + this.data.amount);
+    }
+    return amount;
   },
   package: function() {
     var text = this.data["package"].camelize();
@@ -150,13 +147,33 @@ $.extend(Donation.prototype, {
   }
 });
 
-$.extend(DonationSum.prototype, {
-  render: function() {
-    var row, cell;
-    row = $('<tr></tr>');
-    cell = '<td colspan="6" class="sum">A total of <strong>$' + this.data + '</strong> has been donated so far!</td>'
-    row.append(cell);
-    return row;
+Stats = function(element) {
+  this.element = element;
+  this.load();
+  return this;
+};
+
+$.extend(Stats, {
+  URLS: {
+    production:  'http://campaign.railsgirlssummerofcode.org/donations/stats.json',
+    development: 'http://localhost:3000/donations/stats.json'
+  },
+  COUNT: 100
+});
+Stats.URL = Stats.URLS[ENV];
+
+$.extend(Stats.prototype, {
+  load: function() {
+    var _this = this;
+    $.ajax({
+      url: Stats.URL,
+      crossDomain: true,
+      success: this.render
+    });
+  },
+  render: function(data) {
+    console.log(data)
+    $('.total', this.element).text('$' + data.total);
   }
 });
 
@@ -164,6 +181,10 @@ $(function() {
   $.fn.donations = function() {
     return new Donations(this);
   };
+  $.fn.stats = function() {
+    return new Stats(this);
+  };
   $('#donations').donations();
+  $('#thanks-folks .stats').stats();
 });
 

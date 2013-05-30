@@ -1,7 +1,9 @@
 #thanks-folks {
   position: relative;
 }
-
+#thanks-folks h2 {
+  margin: 1em 0 0 0;
+}
 #thanks-folks table {
   width: 100%;
   margin-top: 1em;
@@ -12,7 +14,7 @@
   border-width: 1px 0;
   background-color: white;
 }
-#thanks-folks table tr td.sum {
+#thanks-folks table tr td.stats {
   padding-top: 15px;
   padding-bottom: 15px;
   font-size: 1.1em;
