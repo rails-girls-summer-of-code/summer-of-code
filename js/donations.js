@@ -172,7 +172,7 @@ $.extend(Stats.prototype, {
     });
   },
   render: function(data) {
-    $('.total', this.element).text('$' + (data.total / 100));
+    $('.total', this.element).text('$' + Math.round(data.total / 100));
   }
 });
 
