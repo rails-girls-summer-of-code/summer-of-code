@@ -122,6 +122,8 @@ $.extend(Donation.prototype, {
     var amount = $('<td></td>')
     if(this.data.amount) {
       amount.text('$' + this.data.amount);
+    } else {
+      amount.text('n/a');
     }
     return amount;
   },
