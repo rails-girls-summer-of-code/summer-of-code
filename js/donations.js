@@ -142,7 +142,7 @@ $.extend(Donation.prototype, {
     return tag;
   },
   date: function() {
-    var date = new Date(this.data.created_at).format('mmm d yyyy, h:mmtt');
+    var date = new Date(this.data.created_at).format('mmm d yyyy, h:MMtt');
     return $('<td></td>').text(date);
   },
   comment: function() {
