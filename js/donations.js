@@ -26,7 +26,7 @@ $.extend(Donations, {
     production:  'http://campaign.railsgirlssummerofcode.org/donations.json',
     development: 'http://localhost:3000/donations.json'
   },
-  COUNT: 1
+  COUNT: 100
 });
 Donations.URL = Donations.URLS[ENV];
 
@@ -172,8 +172,7 @@ $.extend(Stats.prototype, {
     });
   },
   render: function(data) {
-    console.log(data)
-    $('.total', this.element).text('$' + data.total);
+    $('.total', this.element).text('$' + (data.total / 100));
   }
 });
 
