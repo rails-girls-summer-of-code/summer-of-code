@@ -187,5 +187,9 @@ $(function() {
   };
   $('#donations').donations();
   $('#thanks-folks .stats').stats();
+
+  if(document.location.hash == '#sponsors') {
+    document.body.scrollTop = $("#sponsors").position().top;
+  }
 });
 
