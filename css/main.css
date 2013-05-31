@@ -512,24 +512,30 @@ ul {
    Sponsors
    ========================================================================== */
 .sponsors {
-  margin-top: 2em;
 }
 .sponsors a {
   display: inline-block;
-  width: 15em;
-  height: 4.5em;
   border-radius: 5px;
   margin-right: 1em;
+  margin-bottom: 1em;
+  background: white center center no-repeat;
+  background-size: contain;
 }
 .sponsors a:last-child {
   margin-right: 0;
 }
-.sponsors .github {
-    background: url(../img/sponsors/GitHub_Logo.png) center top;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-color: white;
+.sponsors.bigger a {
+  width: 320px; /* 640 * 262 */
+  height: 131px;
 }
+.sponsors.bronze a {
+  width: 184px; /* 368 * 150 */
+  height: 75px;
+}
+.sponsors .github    { background-image: url(../img/sponsors/github.png); }
+.sponsors .envato    { background-image: url(../img/sponsors/envato.png); }
+.sponsors .dockyard  { background-image: url(../img/sponsors/dockyard.png); }
+.sponsors .confreaks { background-image: url(../img/sponsors/confreaks.png); }
 
 /* ==========================================================================
    Media Queries
