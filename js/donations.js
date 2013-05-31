@@ -123,7 +123,7 @@ $.extend(Donation.prototype, {
     if(this.data.amount) {
       amount.text('$' + this.data.amount);
     } else {
-      amount.text('n/a');
+      amount.text('hidden');
     }
     return amount;
   },
