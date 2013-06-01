@@ -77,6 +77,14 @@
   -o-border-radius: 8px;
   border-radius: 8px;
 }
+#thanks-folks table .package.custom {
+  display: none;
+}
+/* #thanks-folks table .package.platinum { background-color: #479B2A; } */
+/* #thanks-folks table .package.gold     { background-color: #74FC44; } */
+/* #thanks-folks table .package.silver   { background-color: #9CFD7A; } */
+/* #thanks-folks table .package.bronze   { background-color: #D7FFCA; } */
+
 #thanks-folks table .subscription {
   float: left;
   margin-left: 5px;

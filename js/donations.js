@@ -128,10 +128,11 @@ $.extend(Donation.prototype, {
     return amount;
   },
   package: function() {
-    var text = this.data["package"].camelize();
-    var classes = "package " + this.data.package;
-    var package = $('<span></span>').attr('class', classes).text(text); // + this.subscription();
-    return $('<td></td>').append(package);
+    var package = this.data.package || '';
+    var text = package.camelize();
+    var classes = 'package ' + package.toLowerCase();
+    var tag = $('<span></span>').attr('class', classes).text(text); // + this.subscription();
+    return $('<td></td>').append(tag);
   },
   subscription: function() {
     var tag = $('<span></span>');
