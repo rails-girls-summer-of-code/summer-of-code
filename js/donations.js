@@ -26,7 +26,7 @@ $.extend(Donations, {
     production:  'http://campaign.railsgirlssummerofcode.org/donations.json',
     development: 'http://localhost:3000/donations.json'
   },
-  COUNT: 100
+  COUNT: 30
 });
 Donations.URL = Donations.URLS[ENV];
 
