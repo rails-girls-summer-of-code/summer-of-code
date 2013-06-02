@@ -391,6 +391,10 @@ ul {
 .related ul li:before {
 	content: '';
 }
+
+.teaser-video {
+  margin-top: 70px;
+}
 /* ============
     SPRITES
    ============ */
