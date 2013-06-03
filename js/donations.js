@@ -37,6 +37,8 @@ $.extend(Donations.prototype, {
       url: Donations.URL,
       crossDomain: true,
       success: function(collection) {
+        _this.addIndexes(collection);
+        collection = collection.sort(_this.sort.bind(this));
         return _this.pagination = new Pagination(_this, $('.pagination', _this.tbody.parent()), collection, Donations.COUNT);
       }
     });
@@ -53,6 +55,38 @@ $.extend(Donations.prototype, {
       _results.push(this.tbody.append(new Donation(record).render()));
     }
     return _results;
+  },
+  addIndexes: function(collection) {
+    for(var i = 0; i < collection.length; i++) {
+      collection[i].index = i;
+    }
+  },
+  sort: function(lft, rgt) {
+    if(lft.package != 'Custom' && lft.package != 'Custom') {
+      return this.sortByAmount(lft, rgt);
+    } else if(lft.package == 'Custom' && lft.package == 'Custom') {
+      return this.sortByAmount(lft, rgt);
+    } else {
+      return this.sortByIndex(lft, rgt);
+    }
+  },
+  sortByAmount: function(lft, rgt) {
+    if(lft.amount > rgt.amount) {
+      return -1;
+    } else if(rgt.amount > lft.amount) {
+      return 1;
+    } else {
+      return 0;
+    }
+  },
+  sortByIndex: function(lft, rgt) {
+    if(lft.index > rgt.index) {
+      return -1;
+    } else if(rgt.index > lft.index) {
+      return 1;
+    } else {
+      return 0;
+    }
   }
 });
 
