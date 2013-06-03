@@ -536,11 +536,13 @@ ul {
   width: 184px; /* 368 * 150 */
   height: 75px;
 }
-.sponsors .github    { background-image: url(../img/sponsors/github.png); }
-.sponsors .envato    { background-image: url(../img/sponsors/envato.png); }
-.sponsors .innoq     { background-image: url(../img/sponsors/innoq.png); }
-.sponsors .dockyard  { background-image: url(../img/sponsors/dockyard.png); }
-.sponsors .confreaks { background-image: url(../img/sponsors/confreaks.png); }
+.sponsors .github     { background-image: url(../img/sponsors/github.png); }
+.sponsors .envato     { background-image: url(../img/sponsors/envato.png); }
+.sponsors .innoq      { background-image: url(../img/sponsors/innoq.png); }
+.sponsors .dockyard   { background-image: url(../img/sponsors/dockyard.png); }
+.sponsors .confreaks  { background-image: url(../img/sponsors/confreaks.png); }
+.sponsors .wooga      { background-image: url(../img/sponsors/wooga.png); }
+.sponsors .soundcloud { background-image: url(../img/sponsors/soundcloud.png); }
 
 /* ==========================================================================
    Media Queries
