@@ -37,8 +37,8 @@ $.extend(Donations.prototype, {
       url: Donations.URL,
       crossDomain: true,
       success: function(collection) {
-        _this.addIndexes(collection);
-        collection = collection.sort(_this.sort.bind(this));
+        // _this.addIndexes(collection);
+        // collection = collection.sort(_this.sort);
         return _this.pagination = new Pagination(_this, $('.pagination', _this.tbody.parent()), collection, Donations.COUNT);
       }
     });
@@ -70,7 +70,7 @@ $.extend(Donations.prototype, {
       return this.sortByIndex(lft, rgt);
     }
   },
-  sortByAmount: function(lft, rgt) {
+  var sortByAmount = function(lft, rgt) {
     if(lft.amount > rgt.amount) {
       return -1;
     } else if(rgt.amount > lft.amount) {
