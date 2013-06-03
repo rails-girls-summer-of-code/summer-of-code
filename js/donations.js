@@ -70,15 +70,15 @@ $.extend(Donations.prototype, {
       return this.sortByIndex(lft, rgt);
     }
   },
-  var sortByAmount = function(lft, rgt) {
-    if(lft.amount > rgt.amount) {
-      return -1;
-    } else if(rgt.amount > lft.amount) {
-      return 1;
-    } else {
-      return 0;
-    }
-  },
+  // var sortByAmount = function(lft, rgt) {
+  //   if(lft.amount > rgt.amount) {
+  //     return -1;
+  //   } else if(rgt.amount > lft.amount) {
+  //     return 1;
+  //   } else {
+  //     return 0;
+  //   }
+  // },
   sortByIndex: function(lft, rgt) {
     if(lft.index > rgt.index) {
       return -1;
