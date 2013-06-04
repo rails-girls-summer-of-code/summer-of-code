@@ -464,7 +464,10 @@ ul {
   overflow: hidden;
 }
 
-/* SCRIBBLES */
+
+/* ==========================================================================
+   SCRIBBLES
+   ========================================================================== */
 
 .scribble1, .scribble2, .scribble3, .scribble4, .scribble5, .scribble6, .scribble7, .scribble8 {
   background-image: url(../img/scribbles.png);
@@ -481,6 +484,11 @@ ul {
 .scribble6 { background-position: 70px -1250px; }
 .scribble7 { background-position: 70px -1500px; }
 .scribble8 { background-position: 70px -1750px; }
+
+/*  Allign scribble with video */
+.index .scribble1 {
+	margin-top: 5em;
+}
 
 /* ==========================================================================
    PARALLAX ELEMENTS
@@ -512,6 +520,7 @@ ul {
     padding: 0 3.5em;
     text-indent: -3.5em;
 }
+
 /* ==========================================================================
    Sponsors
    ========================================================================== */
@@ -543,6 +552,15 @@ ul {
 .sponsors .confreaks  { background-image: url(../img/sponsors/confreaks.png); }
 .sponsors .wooga      { background-image: url(../img/sponsors/wooga.png); }
 .sponsors .soundcloud { background-image: url(../img/sponsors/soundcloud.png); }
+
+/* ==========================================================================
+   Teaser Video
+   ========================================================================== */
+
+.teaser-video {
+	margin-bottom: 3em;
+}
+
 
 /* ==========================================================================
    Media Queries
@@ -644,12 +662,6 @@ ul {
     .related {
         text-align: right;
     }
-    /*.scribble1 { margin-top: 50px; }
-    .scribble2 {}
-    .scribble3 { margin-top: 100px; }
-    .scribble4 { margin-top: 200px; }
-    .scribble5 { margin-top: 20px; }
-    .scribble6 { background-position: 70px -1250px; }*/
 
     .nav-primary { float: right; }
     .nav-primary ul { text-align: right; }
