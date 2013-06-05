@@ -537,14 +537,23 @@ ul {
 .sponsors a:last-child {
   margin-right: 0;
 }
-.sponsors.bigger a {
+.sponsors.platinum a {
   width: 320px; /* 640 * 262 */
+  height: 181px;
+}
+.sponsors.gold a {
+  width: 320px;
   height: 131px;
+}
+.sponsors.silver a {
+  width: 235px;
+  height: 93px;
 }
 .sponsors.bronze a {
   width: 184px; /* 368 * 150 */
   height: 75px;
 }
+.sponsors ._37signals { background-image: url(../img/sponsors/37signals.png); }
 .sponsors .confreaks  { background-image: url(../img/sponsors/confreaks.png); }
 .sponsors .dockyard   { background-image: url(../img/sponsors/dockyard.png); }
 .sponsors .envato     { background-image: url(../img/sponsors/envato.png); }
