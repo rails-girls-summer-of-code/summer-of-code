@@ -553,18 +553,21 @@ ul {
   width: 184px; /* 368 * 150 */
   height: 75px;
 }
-.sponsors ._37signals { background-image: url(../img/sponsors/37signals.png); }
-.sponsors .confreaks  { background-image: url(../img/sponsors/confreaks.png); }
-.sponsors .dockyard   { background-image: url(../img/sponsors/dockyard.png); }
-.sponsors .envato     { background-image: url(../img/sponsors/envato.png); }
-.sponsors .github     { background-image: url(../img/sponsors/github.png); }
-.sponsors .innoq      { background-image: url(../img/sponsors/innoq.png); }
-.sponsors .jumpstart  { background-image: url(../img/sponsors/jumpstart.png); }
-.sponsors .pivotal    { background-image: url(../img/sponsors/pivotal.png); }
-.sponsors .soundcloud { background-image: url(../img/sponsors/soundcloud.png); }
-.sponsors .shopify    { background-image: url(../img/sponsors/shopify.png); }
-.sponsors .wimdu      { background-image: url(../img/sponsors/wimdu.png); }
-.sponsors .wooga      { background-image: url(../img/sponsors/wooga.png); }
+.sponsors ._37signals  { background-image: url(../img/sponsors/37signals.png); }
+.sponsors .bendyworks  { background-image: url(../img/sponsors/bendyworks.png); }
+.sponsors .confreaks   { background-image: url(../img/sponsors/confreaks.png); }
+.sponsors .dockyard    { background-image: url(../img/sponsors/dockyard.png); }
+.sponsors .envato      { background-image: url(../img/sponsors/envato.png); }
+.sponsors .github      { background-image: url(../img/sponsors/github.png); }
+.sponsors .innoq       { background-image: url(../img/sponsors/innoq.png); }
+.sponsors .honeybadger { background-image: url(../img/sponsors/honeybadger.png); }
+.sponsors .jumpstart   { background-image: url(../img/sponsors/jumpstart.png); }
+.sponsors .pivotal     { background-image: url(../img/sponsors/pivotal.png); }
+.sponsors .soundcloud  { background-image: url(../img/sponsors/soundcloud.png); }
+.sponsors .shopify     { background-image: url(../img/sponsors/shopify.png); }
+.sponsors .upworthy    { background-image: url(../img/sponsors/upworthy.png); }
+.sponsors .wimdu       { background-image: url(../img/sponsors/wimdu.png); }
+.sponsors .wooga       { background-image: url(../img/sponsors/wooga.png); }
 
 
 /* ==========================================================================
