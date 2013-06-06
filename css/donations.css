@@ -102,10 +102,6 @@
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
   border-radius: 3px;
-  -webkit-box-shadow: 1px 1px 3px #dddddd;
-  -moz-box-shadow: 1px 1px 3px #dddddd;
-  -o-box-shadow: 1px 1px 3px #dddddd;
-  box-shadow: 1px 1px 3px #dddddd;
 }
 #thanks-folks .sidenote {
   top: 80px;
