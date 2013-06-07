@@ -554,13 +554,16 @@ ul {
   height: 75px;
 }
 .sponsors ._37signals  { background-image: url(../img/sponsors/37signals.png); }
+.sponsors .anynines    { background-image: url(../img/sponsors/anynines.png); }
 .sponsors .aupair      { background-image: url(../img/sponsors/aupair.png); }
 .sponsors .bendyworks  { background-image: url(../img/sponsors/bendyworks.png); }
 .sponsors .codegram    { background-image: url(../img/sponsors/codegram.png); }
 .sponsors .confreaks   { background-image: url(../img/sponsors/confreaks.png); }
 .sponsors .dockyard    { background-image: url(../img/sponsors/dockyard.png); }
+.sponsors .engineyard  { background-image: url(../img/sponsors/engineyard.png); }
 .sponsors .envato      { background-image: url(../img/sponsors/envato.png); }
 .sponsors .github      { background-image: url(../img/sponsors/github.png); }
+.sponsors .groupon     { background-image: url(../img/sponsors/groupon.png); }
 .sponsors .innoq       { background-image: url(../img/sponsors/innoq.png); }
 .sponsors .honeybadger { background-image: url(../img/sponsors/honeybadger.png); }
 .sponsors .jumpstart   { background-image: url(../img/sponsors/jumpstart.png); }
