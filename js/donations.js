@@ -37,8 +37,8 @@ $.extend(Donations.prototype, {
       url: Donations.URL,
       crossDomain: true,
       success: function(collection) {
-        // _this.addIndexes(collection);
-        // collection = collection.sort(_this.sort);
+        _this.addIndexes(collection);
+        collection = collection.sort(_this.sort);
         return _this.pagination = new Pagination(_this, $('.pagination', _this.tbody.parent()), collection, Donations.COUNT);
       }
     });
@@ -62,30 +62,31 @@ $.extend(Donations.prototype, {
     }
   },
   sort: function(lft, rgt) {
-    if(lft.package != 'Custom' && lft.package != 'Custom') {
-      return this.sortByAmount(lft, rgt);
-    } else if(lft.package == 'Custom' && lft.package == 'Custom') {
-      return this.sortByAmount(lft, rgt);
-    } else {
-      return this.sortByIndex(lft, rgt);
+    
+    var sortByAmount = function(lft, rgt) {
+        if(lft.amount > rgt.amount) {
+           return -1;
+         } else if(rgt.amount > lft.amount) {
+           return 1;
+         } else {
+           return 0;
+         }
+      };
+
+    var sortByIndex = function(lft, rgt) {
+      if(lft.index > rgt.index) {
+        return 1;
+      } else if(rgt.index > lft.index) {
+        return -1;
+      } else {
+        return 0;
+      }
     }
-  },
-  // var sortByAmount = function(lft, rgt) {
-  //   if(lft.amount > rgt.amount) {
-  //     return -1;
-  //   } else if(rgt.amount > lft.amount) {
-  //     return 1;
-  //   } else {
-  //     return 0;
-  //   }
-  // },
-  sortByIndex: function(lft, rgt) {
-    if(lft.index > rgt.index) {
-      return -1;
-    } else if(rgt.index > lft.index) {
-      return 1;
+
+    if(lft.package != 'Custom' || rgt.package != 'Custom') {
+      return sortByAmount(lft, rgt);
     } else {
-      return 0;
+      return sortByIndex(lft, rgt);
     }
   }
 });
