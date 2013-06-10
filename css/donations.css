@@ -109,6 +109,7 @@
 
 #empty-row {
   height: 50px;
+  background-color: white !important; 
 }
 
 .pagination {
