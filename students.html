@@ -21,12 +21,38 @@ permalink: students/
                 map.addLayer(wms);
                 map.zoomToMaxExtent();
 
-                var vectorLayer = new OpenLayers.Layer.Vector("Overlay");
-                var feature = new OpenLayers.Feature.Vector(
-                    new OpenLayers.Geometry.Point(-71, 42),
-                    {some:'data'},
-                    {'strokeWidth': 5, 'strokeColor': '#ff0000', graphicHeight: 21, graphicWidth: 16});
-                    vectorLayer.addFeatures(feature);
+                var mapData = {
+                    "Berlin": {
+                        count: 27,
+                        x: 53,
+                        y: 13
+                    },
+                    "San Francisco":{
+                        count: 7,
+                        x: 68,
+                        y: 89
+                    }
+                }
+
+                var pinStyle = new OpenLayers.StyleMap({
+                    pointRadius: '${count}',
+                    fillColor: "#ff0000",
+                    strokeWidth: 1,
+                    strokeColor: "#666666"
+                });
+
+                var vectorLayer = new OpenLayers.Layer.Vector("Overlay", { styleMap: pinStyle});
+
+                function addMarkerToLayer(vectorLayer, data) {
+                    var point = new OpenLayers.Geometry.Point(data.x, data.y);
+                    var marker = new OpenLayers.Feature.Vector(point, {count: data.count});
+                    vectorLayer.addFeatures(marker);
+                }
+
+                for(var city in mapData){
+                    addMarkerToLayer(vectorLayer, mapData[city]);
+                }
+   
                 map.addLayer(vectorLayer);
             </script>
 
