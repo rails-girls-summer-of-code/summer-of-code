@@ -39,7 +39,6 @@ $.extend(Donations.prototype, {
       success: function(collection) {
         _this.addIndexes(collection);
         collection.sort(_this.sort);
-        console.log(collection);
         return _this.pagination = new Pagination(_this, $('.pagination', _this.tbody.parent()), collection, Donations.COUNT);
       }
     });
