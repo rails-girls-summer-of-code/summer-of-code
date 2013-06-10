@@ -6,6 +6,9 @@ current: students
 permalink: students/
 ---
 <script src="http://openlayers.org/api/OpenLayers.js"></script>
+<script defer="defer" src="/js/map.js"></script>
+<script src="/js/cities.js"></script>
+
 
 <section class="main container">
     <div class="wrapper clearfix">
@@ -14,47 +17,7 @@ permalink: students/
             <p>Student registrations for Rails Girls Summer of Code closed the <strong>7th of June.</strong> 
             We received applications from all over the world!</p>
             <div style="width:650px; height:400px" id="map"></div>
-            <script defer="defer" type="text/javascript">
-                var map = new OpenLayers.Map('map');
-                var wms = new OpenLayers.Layer.WMS( "OpenLayers WMS",
-                "http://vmap0.tiles.osgeo.org/wms/vmap0", {layers: 'basic'} );
-                map.addLayer(wms);
-                map.zoomToMaxExtent();
-
-                var mapData = {
-                    "Berlin": {
-                        count: 27,
-                        x: 53,
-                        y: 13
-                    },
-                    "San Francisco":{
-                        count: 7,
-                        x: 68,
-                        y: 89
-                    }
-                }
-
-                var pinStyle = new OpenLayers.StyleMap({
-                    pointRadius: '${count}',
-                    fillColor: "#ff0000",
-                    strokeWidth: 1,
-                    strokeColor: "#666666"
-                });
-
-                var vectorLayer = new OpenLayers.Layer.Vector("Overlay", { styleMap: pinStyle});
-
-                function addMarkerToLayer(vectorLayer, data) {
-                    var point = new OpenLayers.Geometry.Point(data.x, data.y);
-                    var marker = new OpenLayers.Feature.Vector(point, {count: data.count});
-                    vectorLayer.addFeatures(marker);
-                }
-
-                for(var city in mapData){
-                    addMarkerToLayer(vectorLayer, mapData[city]);
-                }
-   
-                map.addLayer(vectorLayer);
-            </script>
+           
 
             <p>Details about who and how to apply are still printed below for those who may be interested in applying in the future.</p>
             
