@@ -107,6 +107,9 @@
   top: 80px;
 }
 
+#empty-row {
+  height: 50px;
+}
 
 .pagination {
   position: absolute;
