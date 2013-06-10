@@ -53,6 +53,9 @@ $.extend(Donations.prototype, {
     for (_i = 0, _len = page.length; _i < _len; _i++) {
       record = page[_i];
       _results.push(this.tbody.append(new Donation(record).render()));
+      if (record.package != "Custom" && page[_i + 1] && page[_i + 1].package == "Custom") {
+        _results.push(this.tbody.append($('<tr id="empty-row"><td></td></tr>')));
+      }
     }
     return _results;
   },
