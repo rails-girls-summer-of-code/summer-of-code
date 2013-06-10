@@ -38,7 +38,8 @@ $.extend(Donations.prototype, {
       crossDomain: true,
       success: function(collection) {
         _this.addIndexes(collection);
-        collection = collection.sort(_this.sort);
+        collection.sort(_this.sort);
+        console.log(collection);
         return _this.pagination = new Pagination(_this, $('.pagination', _this.tbody.parent()), collection, Donations.COUNT);
       }
     });
@@ -67,6 +68,12 @@ $.extend(Donations.prototype, {
   sort: function(lft, rgt) {
     
     var sortByAmount = function(lft, rgt) {
+      if(lft.amount === undefined) {
+        return 1;
+      } 
+      if(rgt.amount === undefined) {
+        return -1;
+      }
         if(lft.amount > rgt.amount) {
            return -1;
          } else if(rgt.amount > lft.amount) {
