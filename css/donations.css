@@ -107,15 +107,11 @@
   top: 80px;
 }
 
-#empty-row {
-  height: 50px;
-  background-color: white !important; 
-}
 
 .pagination {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 67px;
+  right: 370px;
 }
 .pagination span.first {
   display: none;
