@@ -27,4 +27,5 @@ for(var city in mapData){
 
 map.addLayer(vectorLayer);
 map.zoomTo(2);
-map.setCenter(new OpenLayers.LonLat(53, 13))
+// map.setCenter(new OpenLayers.LonLat(53, 13)) //Eu Asia Aust.
+map.setCenter(new OpenLayers.LonLat(-6, 13)) //US EU Asia.
