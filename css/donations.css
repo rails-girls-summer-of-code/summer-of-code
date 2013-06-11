@@ -114,7 +114,7 @@
 .pagination {
   position: absolute;
   top: 67px;
-  right: 370px;
+  right: 0px;
 }
 .pagination span.first {
   display: none;
