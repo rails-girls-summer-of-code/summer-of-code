@@ -52,9 +52,13 @@ $.extend(Donations.prototype, {
     _results = [];
     for (_i = 0, _len = page.length; _i < _len; _i++) {
       record = page[_i];
+      console.log(!page[_i - 1])
+      if (record.package != "Custom" && !page[_i - 1]) {
+        _results.push(this.tbody.append($('<tr class="empty-row"><td colspan="6" class="stats">Sponsors</td></tr>')));
+      }
       _results.push(this.tbody.append(new Donation(record).render()));
       if (record.package != "Custom" && page[_i + 1] && page[_i + 1].package == "Custom") {
-        _results.push(this.tbody.append($('<tr id="empty-row"><td></td></tr>')));
+        _results.push(this.tbody.append($('<tr class="empty-row"><td colspan="6" class="stats">Individiual Donators</td></tr>')));
       }
     }
     return _results;

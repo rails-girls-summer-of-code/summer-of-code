@@ -106,8 +106,11 @@
 #thanks-folks .sidenote {
   top: 80px;
 }
-
-
+.heading {
+  height: 50px; 
+  background-color: white !important;
+  color: rgb(241, 66, 21);
+}
 .pagination {
   position: absolute;
   top: 67px;
