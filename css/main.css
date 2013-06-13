@@ -134,6 +134,7 @@ textarea {
   top:0;
   left: 0;
   right: 0;
+  z-index: 99;
   height: 4.1em;
   background-color: rgba(222, 57, 12, .9);
   /* background-color: rgba(211, 54, 11, .9); */
