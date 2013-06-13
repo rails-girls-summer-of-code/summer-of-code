@@ -5,18 +5,20 @@ layout: default
 
 <section class="main container">
   <div class="wrapper clearfix">
+    
+
+    
+
+    <article class="content">
     <h1>{{ page.title }}</h1>
-
-    <p class='meta'>
-      {% if page.twitter %}
-        <a href='http://twitter.com/{{ page.twitter }}'>{{ page.author }}</a>,
-      {% else %}
-        {{ page.author }},
-      {% endif %}
-      <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%B %-d, %Y" }}</time>
-    </p>
-
-    <article>
+      <p class='meta'>
+        {% if page.twitter %}
+          <a href='http://twitter.com/{{ page.twitter }}'>{{ page.author }}</a>,
+        {% else %}
+          {{ page.author }},
+        {% endif %}
+        <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%B %-d, %Y" }}</time>
+      </p>
       {{ content }}
     </article>
   </div>
