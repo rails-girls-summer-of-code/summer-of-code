@@ -6,8 +6,8 @@ layout: default
 
 <section class="main container">
   <div class="wrapper clearfix">
-    <article>
-      {% for post in site.posts %}
+    {% for post in site.posts %}
+      <article>
         <h1><a href="{{post.url}}">{{post.title}}</a></h1>
 
         <p class='meta'>
@@ -20,8 +20,7 @@ layout: default
         </p>
 
         {{ post.content }}
-      {% endfor %}
-    </article>
-    <hr/>
+      </article>
+    {% endfor %}
   </div>
 </section>
