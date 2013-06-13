@@ -72,6 +72,30 @@ textarea {
   padding: 0 0 0.5em 0;
 }
 
+.blog h1 {
+  color: #666;
+}
+.blog .meta {
+  font-size: 0.9em;
+  font-style: italic;
+}
+.blog .meta a {
+  color: #666;
+  text-decoration: underline;
+}
+.blog pre {
+  margin-top: 1em;
+  padding: 1em 1.5em;
+  line-height: 1.5em;
+  border: 1px solid rgb(170, 170, 170);
+  background: rgb(246, 246, 246);
+  border-bottom-left-radius: 8px 8px;
+  border-bottom-right-radius: 8px 8px;
+  border-top-left-radius: 8px 8px;
+  border-top-right-radius: 8px 8px;
+  color: #666;
+}
+
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
    ========================================================================== */
@@ -891,6 +915,8 @@ ul.donation-plans a.button:active {
   color: #bbb;
   text-decoration: underline;
 }
+
+
 /* ==========================================================================
    Print styles
    ========================================================================== */

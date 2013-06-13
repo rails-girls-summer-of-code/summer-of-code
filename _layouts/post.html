@@ -1,0 +1,40 @@
+---
+class: page blog
+layout: default
+---
+
+<section class="main container">
+  <div class="wrapper clearfix">
+    <h1>{{ page.title }}</h1>
+
+    <p class='meta'>
+      {% if page.twitter %}
+        <a href='http://twitter.com/{{ page.twitter }}'>{{ page.author }}</a>,
+      {% else %}
+        {{ page.author }},
+      {% endif %}
+      <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%B %-d, %Y" }}</time>
+    </p>
+
+    <article>
+      {{ content }}
+    </article>
+  </div>
+</section>
+
+<!--
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /*
+    var disqus_shortname = 'travisci';
+    var disqus_identifier = '{{ page.permalink }}';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+   */
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+-->
