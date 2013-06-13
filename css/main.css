@@ -95,6 +95,11 @@ textarea {
   border-top-right-radius: 8px 8px;
   color: #666;
 }
+.blog article {
+  padding-bottom: 2em;
+  margin-bottom: 3em;
+  border-bottom: 1px solid #ccc;
+}
 
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template

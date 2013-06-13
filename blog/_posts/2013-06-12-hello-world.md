@@ -1,7 +1,7 @@
 ---
 title: Hello, Rails Girls World!
 layout: post
-created_at: Sat Jun 13 2013
+created_at: Sat Jun 12 2013
 permalink: blog/hello_world
 author: Sven
 twitter: svenfuchs
