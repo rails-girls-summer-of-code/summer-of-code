@@ -15,7 +15,7 @@ likely to make a real difference.
 
 We are proud to say that we have received 80 applications from over 140
 students from <a href="http://railsgirlssummerofcode.org/students">all over the world</a>.
-Amongst them some are outstandingly well prepared, some come with an amazing
+Among them some are outstandingly well prepared, some come with an amazing
 support network from coaches and local communities, some include outright
 moving personal stories.
 
@@ -105,6 +105,3 @@ We can't wait for this!
 
 
 **Thank you so much for your wonderful applications!**
-
-
-
