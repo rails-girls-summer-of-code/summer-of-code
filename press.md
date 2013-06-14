@@ -4,17 +4,17 @@ Rails Girls Summer of Code funds women from around the world to work full-time f
 
 * For more information read our FAQ
 * See Rails Girls in action in our Campaign Video
-* Learn more about Rails Girls Berlin and Rails Girls 
+* Learn more about Rails Girls Berlin and Rails Girls
 
 #### Interview Opportunities
 
-The Rails Girls Summer of Code community is home to dozens of students, coaches, developers and sponsors dedicated to the Rails Girls mission of making technology more approachable for girls and women. Contact us to discuss a variety of topics, including: 
+The Rails Girls Summer of Code community is home to dozens of students, coaches, developers and sponsors dedicated to the Rails Girls mission of making technology more approachable for girls and women. Contact us to discuss a variety of topics, including:
 
-* Women in Technology, especially computer programming 
+* Women in Technology, especially computer programming
 * Open Education Movement
 * Informal Education and Coaching
 * Open-Source Software
-* Rails Girls Community 
+* Rails Girls Community
 
 Rails Girls Summer of Code Organizers [link to come, when we have it]
 
@@ -38,16 +38,15 @@ Rails Girls Summer of Code Organizers [link to come, when we have it]
 #### Rails Girls Summer of Code in the News
 
 <div class="teaser-video">
-                    <!-- This version of the embed code is no longer supported. Learn more: https://vimeo.com/help/faq/embedding -->
-                    <object width="100%" height="400">
-                        <param name="allowfullscreen" value="true" />
-                        <param name="allowscriptaccess" value="always" />
-                        <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=67004430&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=de390c&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" />
-                        <embed src="http://vimeo.com/moogaloop.swf?clip_id=67004430&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=de390c&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="100%" height="400"></embed>
-                    </object>
-                </div>
+  <object width="100%" height="400">
+    <param name="allowfullscreen" value="true" />
+    <param name="allowscriptaccess" value="always" />
+    <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=67004430&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=de390c&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" />
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=67004430&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=de390c&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="100%" height="400"></embed>
+  </object>
+</div>
 
-* Press Release June 13, 2013: [International Rails Girls Summer of Code Gets Women into Open Source](url-to-pressrelease) 
+* Press Release June 13, 2013: [International Rails Girls Summer of Code Gets Women into Open Source](url-to-pressrelease)
 * [What exactly is “Open Source” (and why does it need more women)?]()
 * [Rails Girls Press](url)
 
@@ -74,7 +73,7 @@ Rails Girls Summer of Code Organizers [link to come, when we have it]
 
 <img src="https://f.cloud.github.com/assets/1711357/653144/5e3a31ae-d4ce-11e2-99d0-f5e12c886196.jpg" title="A big (Friday-)Hug from Rails Girls Brussels" height="150px">
 
-#### Logo 
+#### Logo
 
 <img src="https://f.cloud.github.com/assets/1711357/654199/91f17762-d4f3-11e2-8a59-bf7aa888dab0.jpg" title="Logo" height="150px">
 
