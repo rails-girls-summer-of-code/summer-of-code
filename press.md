@@ -45,5 +45,35 @@ Rails Girls Summer of Code Organizers [link to come, when we have it]
 
 #### Photos
 
+![railsgirlstokyo_rainbow](https://f.cloud.github.com/assets/1711357/653139/5e1f3188-d4ce-11e2-9f96-9518ebb7f721.jpg)
+Coding at Rails Girls Kyoto 
+
 ![linda](https://f.cloud.github.com/assets/1711357/653102/70f37298-d4cd-11e2-9a44-ab9683bf9521.jpg)
+Linda Liuka, Co-Founder of Rails Girls, at Rails Girls Helsinki 
+
+![railsgirlsams_pillow](https://f.cloud.github.com/assets/1711357/653145/5e3a00e4-d4ce-11e2-9fc0-e780adadf2bd.jpg)
+Getting into code in Amsterdam
+
+![duanacoaching 1](https://f.cloud.github.com/assets/1711357/653137/5e1c48b0-d4ce-11e2-8d9d-5fdb851edb95.jpg)
+Coach Duana Stanley (middle) and two students getting into code 
+
+![konstantincoaching](https://f.cloud.github.com/assets/1711357/653138/5e1db182-d4ce-11e2-9f85-e6da4257bc05.jpg)
+Ruby Hero Konstantin Haase coaching a student 
+
+
+![railsgirlsams_overview](https://f.cloud.github.com/assets/1711357/653140/5e2bc876-d4ce-11e2-9446-2b4a12f30070.jpg)
+Rails Girls Amsterdam 2012 Workshop 
+
+![railsgirlhelsinki_talk](https://f.cloud.github.com/assets/1711357/653141/5e28ecdc-d4ce-11e2-80ee-e11f6eab2cf9.jpg)
+Talk at Rails Girls Helsinki
+
+![railsgirlsbrazil_listen](https://f.cloud.github.com/assets/1711357/653142/5e2ebb44-d4ce-11e2-949c-98c25a445bad.jpg)
+Women learning to code at Rails Girls Brazil
+
+![railsgirlstokyo_started](https://f.cloud.github.com/assets/1711357/653143/5e386874-d4ce-11e2-8bfe-685cd553d133.jpg)
+Getting started in Tokyo 
+
+![brussels](https://f.cloud.github.com/assets/1711357/653144/5e3a31ae-d4ce-11e2-99d0-f5e12c886196.jpg)
+A big (Friday-)Hug from Rails Girls Brussels 
+
 
