@@ -45,5 +45,5 @@ Rails Girls Summer of Code Organizers [link to come, when we have it]
 
 #### Photos
 
-Coding at Rails Girls Kyoto 
+![linda](https://f.cloud.github.com/assets/1711357/653102/70f37298-d4cd-11e2-9a44-ab9683bf9521.jpg)
 
