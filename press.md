@@ -63,28 +63,28 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 
 #### Photos
 
+(click on a photo for a high resolution version)
 
-<img src="https://f.cloud.github.com/assets/1711357/653139/5e1f3188-d4ce-11e2-9f96-9518ebb7f721.jpg" title="Coding at Rails Girls Kyoto" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653139/5e1f3188-d4ce-11e2-9f96-9518ebb7f721.jpg"><img src="https://f.cloud.github.com/assets/1711357/653139/5e1f3188-d4ce-11e2-9f96-9518ebb7f721.jpg" title="Coding at Rails Girls Kyoto" height="150px"></a>
 
-<img src="https://f.cloud.github.com/assets/1711357/653102/70f37298-d4cd-11e2-9a44-ab9683bf9521.jpg" title="Linda Liukas, Co-Founder of Rails Girls, at Rails Girls Helsinki" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653102/70f37298-d4cd-11e2-9a44-ab9683bf9521.jpg"><img src="https://f.cloud.github.com/assets/1711357/653102/70f37298-d4cd-11e2-9a44-ab9683bf9521.jpg" title="Linda Liukas, Co-Founder of Rails Girls, at Rails Girls Helsinki" height="150px"></a>
 
-<img src="https://f.cloud.github.com/assets/1711357/653145/5e3a00e4-d4ce-11e2-9fc0-e780adadf2bd.jpg" title="Getting into code in Amsterdam" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653145/5e3a00e4-d4ce-11e2-9fc0-e780adadf2bd.jpg"><img src="https://f.cloud.github.com/assets/1711357/653145/5e3a00e4-d4ce-11e2-9fc0-e780adadf2bd.jpg" title="Getting into code in Amsterdam" height="150px"></a>
 
-<img src="https://f.cloud.github.com/assets/1711357/653137/5e1c48b0-d4ce-11e2-8d9d-5fdb851edb95.jpg" title="Coach Duana Stanley (middle) and two students getting into code" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653137/5e1c48b0-d4ce-11e2-8d9d-5fdb851edb95.jpg"><img src="https://f.cloud.github.com/assets/1711357/653137/5e1c48b0-d4ce-11e2-8d9d-5fdb851edb95.jpg" title="Coach Duana Stanley (middle) and two students getting into code" height="150px"></a>
 
-<img src="https://f.cloud.github.com/assets/1711357/653141/5e28ecdc-d4ce-11e2-80ee-e11f6eab2cf9.jpg" title="Talk at Rails Girls Helsinki" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653141/5e28ecdc-d4ce-11e2-80ee-e11f6eab2cf9.jpg"><img src="https://f.cloud.github.com/assets/1711357/653141/5e28ecdc-d4ce-11e2-80ee-e11f6eab2cf9.jpg" title="Talk at Rails Girls Helsinki" height="150px"></a>
 
-<img src="https://f.cloud.github.com/assets/1711357/653138/5e1db182-d4ce-11e2-9f85-e6da4257bc05.jpg" title="Ruby Hero Konstantin Haase coaching a student" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653138/5e1db182-d4ce-11e2-9f85-e6da4257bc05.jpg"><img src="https://f.cloud.github.com/assets/1711357/653138/5e1db182-d4ce-11e2-9f85-e6da4257bc05.jpg" title="Ruby Hero Konstantin Haase coaching a student" height="150px"></a>
 
-<img src="https://f.cloud.github.com/assets/1711357/653140/5e2bc876-d4ce-11e2-9446-2b4a12f30070.jpg" title="Rails Girls Amsterdam 2012 Workshop" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653140/5e2bc876-d4ce-11e2-9446-2b4a12f30070.jpg"><img src="https://f.cloud.github.com/assets/1711357/653140/5e2bc876-d4ce-11e2-9446-2b4a12f30070.jpg" title="Rails Girls Amsterdam 2012 Workshop" height="150px"></a>
 
-<img src="https://f.cloud.github.com/assets/1711357/653142/5e2ebb44-d4ce-11e2-949c-98c25a445bad.jpg" title="Women learning to code at Rails Girls Brazil" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653142/5e2ebb44-d4ce-11e2-949c-98c25a445bad.jpg"><img src="https://f.cloud.github.com/assets/1711357/653142/5e2ebb44-d4ce-11e2-949c-98c25a445bad.jpg" title="Women learning to code at Rails Girls Brazil" height="150px"></a>
 
-<img src="https://f.cloud.github.com/assets/1711357/653143/5e386874-d4ce-11e2-8bfe-685cd553d133.jpg" title="Getting started in Tokyo" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653143/5e386874-d4ce-11e2-8bfe-685cd553d133.jpg"><img src="https://f.cloud.github.com/assets/1711357/653143/5e386874-d4ce-11e2-8bfe-685cd553d133.jpg" title="Getting started in Tokyo" height="150px"></a>
 
-<img src="https://f.cloud.github.com/assets/1711357/653144/5e3a31ae-d4ce-11e2-99d0-f5e12c886196.jpg" title="A big (Friday-)Hug from Rails Girls Brussels" height="150px">
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/653144/5e3a31ae-d4ce-11e2-99d0-f5e12c886196.jpg"><img src="https://f.cloud.github.com/assets/1711357/653144/5e3a31ae-d4ce-11e2-99d0-f5e12c886196.jpg" title="A big (Friday-)Hug from Rails Girls Brussels" height="150px"></a>
 
 #### Logo
 
-<img src="https://f.cloud.github.com/assets/1711357/654199/91f17762-d4f3-11e2-8a59-bf7aa888dab0.jpg" title="Logo" height="150px">
-
+<a target="_blank" href="https://f.cloud.github.com/assets/1711357/654199/91f17762-d4f3-11e2-8a59-bf7aa888dab0.jpg"><img src="https://f.cloud.github.com/assets/1711357/654199/91f17762-d4f3-11e2-8a59-bf7aa888dab0.jpg" title="Logo" height="150px"></a>
