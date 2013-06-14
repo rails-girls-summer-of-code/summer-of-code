@@ -1,3 +1,13 @@
+---
+layout: page
+title: Press
+class: page page-projects
+current: press
+permalink: press/
+---
+
+## Press Room
+
 ### About Rails Girls Summer of Code
 
 Rails Girls Summer of Code funds women from around the world to work full-time for 3 months on open-source software project. Modeled after Google Summer of Code, but with a focus on beginners and women wanting to go into programming full-time, this is the first ever event of its kind, aiming to get women involved in open-source.
@@ -16,7 +26,7 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 * Open-Source Software
 * Rails Girls Community
 
-Rails Girls Summer of Code Organizers [link to come, when we have it]
+<!-- Rails Girls Summer of Code Organizers (link to come, when we have it) -->
 
 #### Rails Girls Student Applicant Quotes
 
