@@ -37,7 +37,15 @@ Rails Girls Summer of Code Organizers [link to come, when we have it]
 
 #### Rails Girls Summer of Code in the News
 
-<embed Vimeo campaign video> here 
+<div class="teaser-video">
+                    <!-- This version of the embed code is no longer supported. Learn more: https://vimeo.com/help/faq/embedding -->
+                    <object width="100%" height="400">
+                        <param name="allowfullscreen" value="true" />
+                        <param name="allowscriptaccess" value="always" />
+                        <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=67004430&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=de390c&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" />
+                        <embed src="http://vimeo.com/moogaloop.swf?clip_id=67004430&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=de390c&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="100%" height="400"></embed>
+                    </object>
+                </div>
 
 * Press Release June 13, 2013: [International Rails Girls Summer of Code Gets Women into Open Source](url-to-pressrelease) 
 * [What exactly is “Open Source” (and why does it need more women)?]()
