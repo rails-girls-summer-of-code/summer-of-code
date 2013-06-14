@@ -68,5 +68,5 @@ Rails Girls Summer of Code Organizers [link to come, when we have it]
 
 #### Logo 
 
-<img src="https://f.cloud.github.com/assets/1711357/654199/91f17762-d4f3-11e2-8a59-bf7aa888dab0.jpg" alt="Logo" height="150px">
+<img src="https://f.cloud.github.com/assets/1711357/654199/91f17762-d4f3-11e2-8a59-bf7aa888dab0.jpg" title="Logo" height="150px">
 
