@@ -74,7 +74,8 @@ Women learning to code at Rails Girls Brazil
 ![railsgirlstokyo_started](https://f.cloud.github.com/assets/1711357/653143/5e386874-d4ce-11e2-8bfe-685cd553d133.jpg)
 Getting started in Tokyo 
 
-![brussels](https://f.cloud.github.com/assets/1711357/653144/5e3a31ae-d4ce-11e2-99d0-f5e12c886196.jpg)
+<img src="(https://f.cloud.github.com/assets/1711357/653144/5e3a31ae-d4ce-11e2-99d0-f5e12c886196.jpg" alt="brussels" style="width: 200px;"/>
+
 <br>A big (Friday-)Hug from Rails Girls Brussels 
 
 
