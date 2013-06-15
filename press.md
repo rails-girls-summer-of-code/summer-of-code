@@ -65,7 +65,7 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 
 <img src="https://f.cloud.github.com/assets/1711357/653139/5e1f3188-d4ce-11e2-9f96-9518ebb7f721.jpg" title="Coding at Rails Girls Kyoto" height="150px">
 
-<img src="https://f.cloud.github.com/assets/1711357/653102/70f37298-d4cd-11e2-9a44-ab9683bf9521.jpg" title="Linda Liuka, Co-Founder of Rails Girls, at Rails Girls Helsinki" height="150px">
+<img src="https://f.cloud.github.com/assets/1711357/653102/70f37298-d4cd-11e2-9a44-ab9683bf9521.jpg" title="Linda Liukas, Co-Founder of Rails Girls, at Rails Girls Helsinki" height="150px">
 
 <img src="https://f.cloud.github.com/assets/1711357/653145/5e3a00e4-d4ce-11e2-9fc0-e780adadf2bd.jpg" title="Getting into code in Amsterdam" height="150px">
 
