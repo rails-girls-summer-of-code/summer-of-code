@@ -12,9 +12,9 @@ permalink: press/
 
 Rails Girls Summer of Code funds women from around the world to work full-time for 3 months on open-source software project. Modeled after Google Summer of Code, but with a focus on beginners and women wanting to go into programming full-time, this is the first ever event of its kind, aiming to get women involved in open-source.
 
-* For more information read our FAQ
-* See Rails Girls in action in our Campaign Video
-* Learn more about Rails Girls Berlin and Rails Girls
+* For more information read our [FAQ](http://railsgirlssummerofcode.org/faq/)
+* See Rails Girls in action in our <a href="#campaign-video">Campaign Video</a>
+* Learn more about [Rails Girls Berlin](http://railsgirlsberlin.de/) and [Rails Girls](http://railsgirls.com/)
 
 #### Interview Opportunities
 
@@ -46,6 +46,7 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 *“At Groupon we have groups like Women in Engineering and Employee Resource Groups like Women@Groupon and Pride@Groupon because we want to foster diversity at work, especially in the Tech Scene. Having heard great things about the Ruby Community and Rails Girls, we felt that this RG SoC initiative was one that aligned with our own core values and one that would definitely going to help increase the women and diversity quota in IT. We want to further encourage such projects and show women that there is lots of support for them! Keep up the great work and happy to support dreams coming true!”* -- Sebastian Dietrich, Groupon
 
 #### Rails Girls Summer of Code in the News
+<a name="campaign-video"></a>
 
 <div class="teaser-video">
   <object width="100%" height="400">
