@@ -57,8 +57,8 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 </div>
 
 * Press Release June 13, 2013: [International Rails Girls Summer of Code Gets Women into Open Source](url-to-pressrelease)
-* [What exactly is “Open Source” (and why does it need more women)?]()
-* [Rails Girls Press](url)
+* [What exactly is “Open Source” (and why does it need more women)?](http://blog.railsgirls.com/post/51878746081/what-exactly-is-open-source-and-why-does-it-need)
+* [Rails Girls Press](http://railsgirls.com/press)
 
 #### Photos
 
