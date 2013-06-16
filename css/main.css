@@ -410,11 +410,12 @@ ul {
 .sidebar {
   width: 100%;
   float: none;
+  text-align: right;
 }
-.sidebar-blog .button {
+.sidebar-blog .button, .sidebar .button {
   margin: 0;
 }
-.sidebar-blog .rss {
+.sidebar-blog .rss, .sidebar .rss {
   border-top: solid .1em lightgray;
   margin-top: 5em;
   padding-top: 2em;
@@ -719,7 +720,7 @@ ul {
       float: left;
     }
     .sidebar {
-      width: 33%;
+      width: 27%;
       float: right;
     }
     .content-blog {

@@ -24,7 +24,7 @@ layout: default
       <aside class="sidebar-blog">
         <div>
           <h3>Help us support more students!</h3>
-          <a href="http://localhost:4000/campaign/" class="button">Donate Now!</a>
+          <a href="/campaign/" class="button">Donate Now!</a>
         </div>
         <div class="rss">
           <a href="/blog.xml"><img src="/img/icons/rss.png" alt="RSS icon"></a>
