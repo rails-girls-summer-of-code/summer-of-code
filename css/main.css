@@ -110,6 +110,10 @@ textarea {
     margin: 0 5%;
     overflow: hidden;
 }
+.wrapper-blog {
+  width: 90%;
+  margin: 0 5%;
+}
 
 /* ===================
     ALL: Orange Theme
@@ -407,6 +411,15 @@ ul {
   width: 100%;
   float: none;
 }
+.sidebar-blog .button {
+  margin: 0;
+}
+.sidebar-blog .rss {
+  border-top: solid .1em lightgray;
+  margin-top: 5em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
 .fullwidth {
   width: 100%;
   float: none;
@@ -701,16 +714,6 @@ ul {
     WIDE: Main
    ============ */
 
-/*    .main article {
-        float: left;
-        width: 65%;
-    }
-
-    .main aside {
-        float: right;
-        width: 35%;
-    }*/
-
     .content {
       width: 65%;
       float: left;
@@ -718,6 +721,18 @@ ul {
     .sidebar {
       width: 33%;
       float: right;
+    }
+    .content-blog {
+      width: 60%;
+      overflow: auto;
+    }
+    .sidebar-blog {
+      position: absolute;
+      top: 9em;
+      right: 0;
+      width: 27%;
+      margin-right: 2em;
+      text-align: right;
     }
     .related {
         text-align: right;
@@ -757,10 +772,22 @@ ul {
         width: 1026px; /* 1140px - 10% for margins */
         margin: 0 auto 3em;
     }
+    .wrapper-blog {
+      position: relative;
+      width: 1026px; /* 1140px - 10% for margins */
+      margin: 0 auto 3em;
+    }
+    .sidebar-blog {
+      top: 0;
+      right: 0;
+      margin-right: 0em;
+      margin-top: 0em;
+    }
     .intro {
       margin-bottom: 0em;
       height: 22em;
     }
+
 
 /* ====================
     Maximal: Sponsors
