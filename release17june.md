@@ -3,7 +3,7 @@ layout: page
 title: Press Release 17 June
 class: page page-projects
 current: release17june
-permalink: press/release17june
+permalink: press/release17june/
 ---
 
 ## Press Release
@@ -29,6 +29,7 @@ Rails Girls Summer of Code has received applications from over 140 students in 1
 The first students [have been announced](http://railsgirlssummerofcode.org/students/) and more students will be accepted on a rolling basis as the crowdfunding campaign continues. 
 
 To learn more about Rails Girls Summer of Code visit: [http://www.railsgirlssummerofcode.org](http://www.railsgirlssummerofcode.org)
+
 To support Rails Girls Summer of Code, donate at: [http://www.railsgirlssummerofcode.org/campaign](http://www.railsgirlssummerofcode.org/campaign). 
 
 ---
@@ -39,6 +40,8 @@ Rails Girls Summer of Code is a new program launching in the Summer of 2013 mode
 Rails Girls aims to open up technology and make it more approachable for women.
 [http://www.railsgirls.com](http://www.railsgirls.com )
 
-For interviews with students, Rails Girls Summer of Code organizers or sponsors, please contact: Anika Lindtner at <mailto:press@railsgirlssummerofcode.com>. Also visit our press kit at [http://www.railsgirlssummerofcode.org/press-kit](http://www.railsgirlssummerofcode.org/press-kit). 
+For interviews with students, Rails Girls Summer of Code organizers or sponsors, please contact: Anika Lindtner at <press@railsgirlssummerofcode.com>. 
+
+Also visit our press kit at [http://www.railsgirlssummerofcode.org/press](http://www.railsgirlssummerofcode.org/press). 
 
 
