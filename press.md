@@ -98,4 +98,4 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 <p>
 </article>
 </div>  
-</section> <!-- / .main -->
+</section> 
