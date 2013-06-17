@@ -2,7 +2,7 @@
 layout: page
 title: Press Release 17 June
 class: page page-projects
-current: pressrelease
+current: release17june
 permalink: press/release17june
 ---
 
@@ -31,7 +31,7 @@ The first students [have been announced](http://railsgirlssummerofcode.org/stude
 To learn more about Rails Girls Summer of Code visit: [http://www.railsgirlssummerofcode.org](http://www.railsgirlssummerofcode.org)
 To support Rails Girls Summer of Code, donate at: [http://www.railsgirlssummerofcode.org/campaign](http://www.railsgirlssummerofcode.org/campaign). 
 
-###
+---
 
 Rails Girls Summer of Code is a new program launching in the Summer of 2013 modeled after Google Summer of Code, which aims to bring more women into open source software projects. 
 [http://www.railsgirlssummerofcode.org](http://www.railsgirlssummerofcode.org)
