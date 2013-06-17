@@ -6,9 +6,6 @@ current: press
 permalink: press/
 ---
 
-<section class="main container">
-    <div class="wrapper">
-        <article class="content">
           
 
 ## Press Room
@@ -96,6 +93,3 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 
 <a target="_blank" href="https://f.cloud.github.com/assets/1711357/654199/91f17762-d4f3-11e2-8a59-bf7aa888dab0.jpg"><img src="https://f.cloud.github.com/assets/1711357/654199/91f17762-d4f3-11e2-8a59-bf7aa888dab0.jpg" title="Logo" height="150px"></a>
 <p>
-</article>
-</div>  
-</section> 
