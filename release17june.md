@@ -40,7 +40,7 @@ Rails Girls Summer of Code is a new program launching in the Summer of 2013 mode
 Rails Girls aims to open up technology and make it more approachable for women.
 [http://www.railsgirls.com](http://www.railsgirls.com )
 
-For interviews with students, Rails Girls Summer of Code organizers or sponsors, please contact: Anika Lindtner at [summer-of-code@railsgirls.com](summer-of-code@railsgirls.com). 
+For interviews with students, Rails Girls Summer of Code organizers or sponsors, please contact: Anika Lindtner at [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com). 
 
 Also visit our press kit at [http://www.railsgirlssummerofcode.org/press](http://www.railsgirlssummerofcode.org/press). 
 
