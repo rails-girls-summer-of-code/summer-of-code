@@ -98,7 +98,7 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 
    </article>
         <aside class="sidebar">
-            <div class="scribble4"></div>
-        </aside>
-    </div>
+               </aside>
+     </div>
+  
 </section> <!-- / .main -->
