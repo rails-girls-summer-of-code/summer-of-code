@@ -12,7 +12,7 @@ permalink: press/release17june/
 
 #### 17 June 2013, Berlin
 
-This summer Rails Girls Berlin will host the first-ever International Rails Girls Summer of Code. The program will fund women from around the world to work full-time on open source software projects. The program is modelled after the Google Summer of Code, but instead focuses on beginners and women wanting to go into programming full-time. Rails Girls Summer of Code is the first ever event of its kind that aims to get women involved in open source.
+This summer Rails Girls Berlin will host the first-ever International Rails Girls Summer of Code. The program will fund women from around the world to work full-time on open source software projects. The program is modelled after the Google Summer of Code, but instead focuses on beginners and women wanting to go into programming full-time. Rails Girls Summer of Code is the first ever event of its kind that aims to get women involved in open source. It commences 1 July, 2013 and runs for 3 months.
 
 “At the beginning, I just thought programming was something for guys,” said Nina Breznik, a Rails Girls student from Slovenia, who now lives in Berlin. “Rails Girls opened my eyes and helped me realize that it's not too late to learn. Rails Girls Summer of Code is my chance to make my developing dreams a reality.”
 
