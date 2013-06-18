@@ -12,13 +12,13 @@ permalink: press/release17june/
 
 #### 17 June 2013, Berlin
 
-This summer Rails Girls Berlin will host the first-ever International Rails Girls Summer of Code. The program will fund women from around the world to work full-time on open source software projects. The program is modelled after the Google Summer of Code, but instead focuses on beginners and women wanting to go into programming full-time. Rails Girls Summer of Code is the first ever event of its kind that aims to get women involved in open source. It commences 1 July, 2013 and runs for 3 months.
+This summer Rails Girls will stage the first-ever International Rails Girls Summer of Code. The program will fund women around the world to work full-time on open source software projects. The program is modelled after the Google Summer of Code, but instead focuses on beginners and women wanting to go into programming full-time. Rails Girls Summer of Code is the first ever event of its kind that aims to get women involved in open source. It commences 1 July, 2013 and runs for 3 months.
 
 “At the beginning, I just thought programming was something for guys,” said Nina Breznik, a Rails Girls student from Slovenia, who now lives in Berlin. “Rails Girls opened my eyes and helped me realize that it's not too late to learn. Rails Girls Summer of Code is my chance to make my developing dreams a reality.”
 
-Rails Girls Berlin is an all-volunteer chapter of the international Rails Girls organisation. Using a crowdfunding platform, 100% of the program will be paid for by sponsors and individuals from all over the world. The campaign recently raised $80,000 in just 12 days, already surpassing its original $50,000 goal. 
+Using a crowdfunding platform, 100% of the program will be paid for by sponsors and individuals from all over the world. The campaign recently raised $80,000 in just 12 days, already surpassing its original $50,000 goal. 
 
-“We’re thrilled at the support Rails Girls Summer of Code has gotten, both in terms of the money donated and the commitment from full-time developers to coach and mentor applicants,” said Henrietta Kekäläinen, Member of the global Rails Girls Team. “At first we thought the program would only be able to support three or four pairs of students, but now it looks like we’ll be able to support many more than this. The response we’ve had has been fantastic.”
+“We’re thrilled at the support Rails Girls Summer of Code has received, both in terms of the money donated and the commitment from full-time developers to coach and mentor applicants,” said Henrietta Kekäläinen, Member of the global Rails Girls Team. “At first we thought the program would only be able to support three or four pairs of students, but now it looks like we’ll be able to support many more than this. The response we’ve had has been fantastic.”
 
 In addition to picking a project, applicants had to find a coach in order to apply. These coaches will provide both the office space and daily guidance needed for students to progress. From California to London and India to Brazil, experienced, full-time developers have volunteered their time and resources to support more women making the jump into the tech movement. 
 
