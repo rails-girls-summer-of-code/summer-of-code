@@ -9,7 +9,7 @@ twitter: langziehohr
 
 
 <a target="_blank" href="https://f.cloud.github.com/assets/1711357/678318/9af6e1a2-d931-11e2-9c7e-f9fc36677bc4.jpg"><img src="https://f.cloud.github.com/assets/1711357/678318/9af6e1a2-d931-11e2-9c7e-f9fc36677bc4.jpg" title="summer" height="500px"></a>
-
+<div align="left"><font size="1px"><font color="#CAD4D4">image: polyvalentimago.tumblr.com</font></font></div>
 It's getting really warm outside in Berlin. And Rails Girls Summer of Code is getting closer and closer!
 
 ### Team Number 10
