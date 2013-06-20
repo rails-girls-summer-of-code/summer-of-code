@@ -1,5 +1,5 @@
 ---
-title: New Teams On Board! &#x2693;
+title: New Teams On Board! 
 layout: post
 created_at: Thu Jun 20 2013
 permalink: blog/new-teams-on-board
