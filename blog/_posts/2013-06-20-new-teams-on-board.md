@@ -32,7 +32,7 @@ Also, we are thrilled that the following students have registered as volunteerin
 2. Carolina García & Julia Döring 
 3. Hannah Winter
 4. Hélène Martin
-5. María del Carmen Berros García & Maša Dobrina
+5. María del Carmen Berros García
 6. Melanie Murray & Tina Kumar 
 7. Michelle Brideau & Nicky Owen Victoria Martinez & Hester van Wijk
 8. Oana Sipos & Maria Iloaie 
