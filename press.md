@@ -6,8 +6,6 @@ current: press
 permalink: press/
 ---
 
-          
-
 ## Press Room
 
 ### About Rails Girls Summer of Code
