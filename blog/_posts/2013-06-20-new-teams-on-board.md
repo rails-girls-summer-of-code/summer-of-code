@@ -1,5 +1,5 @@
 ---
-title: New Teams On Board! 
+title: New Teams On Board!
 layout: post
 created_at: Thu Jun 20 2013
 permalink: blog/new-teams-on-board
@@ -15,7 +15,7 @@ It's getting really warm outside in Berlin. And Rails Girls Summer of Code is ge
 ### Team Number 10
 
 We are super happy to announce that with the support from [Front Foot] (http://www.frontfoot.com.au/), [Readmill](http://readmill.com), [Gnip] (http://gnip.com) and with [Soundcloud] (http://soundcloud.com) becoming a gold sponsor plus extra donations from our amazing community[\*](#duana) ... we can now offer
-another sponsored team-spot for RGSoC! 
+another sponsored team-spot for RGSoC!
 
 And that spot goes to this amazing team:
 
@@ -28,37 +28,35 @@ wonderful to have you!
 
 Also, we are thrilled that the following students have registered as volunteering teams!
 
-1. Aileen Alba & Candy Jimenez 
-2. Carolina García & Julia Döring 
+1. Aileen Alba & Candy Jimenez
+2. Carolina García & Julia Döring
 3. Hannah Winter
 4. Hélène Martin
 5. María del Carmen Berros García
-6. Melanie Murray & Tina Kumar 
+6. Melanie Murray & Tina Kumar
 7. Michelle Brideau & Nicky Owen Victoria Martinez & Hester van Wijk
-8. Oana Sipos & Maria Iloaie 
+8. Oana Sipos & Maria Iloaie
 9. Tam Eastley& Susanne Dewein
 10. Prithvi Venkateshmurthy
 
 *(listed alphabetically)*
 
 This is so awesome! We will do everything that we can to support you with all
-our <3.
+our &lt;3.
 
 Hopefully, many more students will follow and we can have a really great
 Summer of Code together. Let us know if you want to join as a volunteering
 team: [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
 
-We are so happy that you are joining RGSoC and we are looking forward to a fantastic time. 
+We are so happy that you are joining RGSoC and we are looking forward to a fantastic time.
 May the ☼ be always with you!
-
-
 
 --
 
 <a id="duana"></a>
 #### Help Duana get off coffee
 
+<img src="http://s3itch.svenfuchs.com/duana-20130620-001216.jpg" title="duana" height="140px">
 
-<img src="http://s3itch.svenfuchs.com/duana-20130620-001216.jpg" title="duana" height="140px"><br>
 Here's the full [conversation](https://twitter.com/starkcoffee/status/346923737288937472) :)
 
