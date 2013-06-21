@@ -21,7 +21,7 @@ permalink: things-to-do/
 
 Here is a list of things that we would like you to do during the program:
 
-* Post brief status [updates on your team log](/tools/team-log) daily.
+* Post brief status [updates on your team log](/team-log) daily.
 
 * Write up at least one, maybe two blog posts for the Rails Girls Summer of
   Code blog throughout the program. You can write whatever post you like, include
