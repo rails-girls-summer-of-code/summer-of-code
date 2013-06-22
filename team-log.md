@@ -88,7 +88,7 @@ team log updates are an important part of this.
 ### Is the team log optional?
 
 All that said, we feel we can not stipulate keeping this log, but we do very
-**highly recommend** it. If you have a strong reason for why you cannot do
+**highly recommend** it. If you have a very strong reason for why you cannot do
 this, please get in touch with us.
 
 ### What now?
