@@ -96,4 +96,5 @@ someone with solid Rails dev skills could take this over. Any takers?
 
 
 If you'd like to help with any of these then please raise your hands by
-posting to our [community mailing list](https://groups.google.com/groups/rails-girls-summer-of-code-community) :)
+tweeting at [RailsGirlsSoC](http://twitter.com/railsgirlssoc) or posting to our 
+[community mailing list](https://groups.google.com/groups/rails-girls-summer-of-code-community) :)
