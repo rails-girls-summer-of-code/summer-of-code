@@ -55,7 +55,7 @@ someone with solid Rails dev skills could take this over.
 
 If you'd want to know more or like to help, ping us here:
 [RailsGirlsSoC](http://twitter.com/railsgirlssoc) or here
-[community mailing list](https://groups.google.com/groups/rails-girls-summer-of-code-community).
+[community mailing list](mailto:rails-girls-summer-of-code-community@googlegroups.com).
 
 There will not only be lots and lots of karma points, but also love and maybe even cake&confetti for helping out ;)
 
