@@ -113,8 +113,10 @@
 }
 .pagination {
   position: absolute;
-  top: 67px;
   right: 0px;
+}
+thead .pagination {
+  top: 67px;
 }
 .pagination span.first {
   display: none;
