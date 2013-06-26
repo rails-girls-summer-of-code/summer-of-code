@@ -28,7 +28,7 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 
 <!-- Rails Girls Summer of Code Organizers (link to come, when we have it) -->
 
-#### Rails Girls Student Applicant Quotes
+### Rails Girls Student Applicant Quotes
 
 “When I decided to become a developer, I spent months with online tutorials, Coursera and Code Academy. I was learning basics, but couldn’t imagine working on anything significant. Other Rails Girls and I were all thinking the same thing – **project groups and online tools are great, but how can I make the next jump? Rails Girls Summer of Code is that chance. Women like me will be able to work full-time, learn to code, and at the same time make meaningful contribution to the world of open-source.**” -- *Laura, USA*
 
@@ -37,7 +37,7 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 
 “When I was a kid I wanted to try out everything I could - from gymnastics, scouts, music school to basketball, languages and even sewing. I couldn't decide what to study so I took languages and political sciences, but I felt like something was still missing. **When I heard about the opportunity to try programming, I knew that was it. I love problem solving and somehow I realized that half of my brain was awake again!** At the beginning, I just thought programming was something for guys. Rails girls opened my eyes. I thought I was the only one thinking like this, but when I saw there are a lot of us, I felt relieved and realized that it's not too late to learn. I joined Rails Girls 8 months ago and I am amazed that my love for programming is just getting stronger and stronger. **I'm excited to apply to Summer of Code because this is my chance to make my developing dreams a reality.**” -- *Nina, Slovenia*
 
-#### Rails Girls Summer of Code Sponsors Quotes
+### Rails Girls Summer of Code Sponsors Quotes
 
 *"Rails Girls Summer of Code is a concrete initiative to get more women coding professionally. 140 applicants means 140 potential women software engineers entering our industry. That’s 140 new and different perspectives to tackling engineering challenges. And 140 more role models for women in technology. We can’t wait!"* Duana Stanley, Soundcloud
 
@@ -47,7 +47,7 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 
 *“At Groupon we have groups like Women in Engineering and Employee Resource Groups like Women@Groupon and Pride@Groupon because we want to foster diversity at work, especially in the Tech Scene. Having heard great things about the Ruby Community and Rails Girls, we felt that this RG SoC initiative was one that aligned with our own core values and one that would definitely going to help increase the women and diversity quota in IT. We want to further encourage such projects and show women that there is lots of support for them! Keep up the great work and happy to support dreams coming true!”* -- Sebastian Dietrich, Groupon
 
-#### Rails Girls Summer of Code in the News
+### Rails Girls Summer of Code in the News
 <a name="campaign-video"></a>
 
 <div class="teaser-video">
@@ -65,7 +65,7 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 * [What exactly is “Open Source” (and why does it need more women)?](http://blog.railsgirls.com/post/51878746081/what-exactly-is-open-source-and-why-does-it-need)
 * [Rails Girls Press](http://railsgirls.com/press)
 
-#### Photos
+### Photos
 
 (click on a photo for a high resolution version)
 
