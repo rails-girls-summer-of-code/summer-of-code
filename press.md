@@ -39,6 +39,8 @@ The Rails Girls Summer of Code community is home to dozens of students, coaches,
 
 #### Rails Girls Summer of Code Sponsors Quotes
 
+*"Rails Girls Summer of Code is a concrete initiative to get more women coding professionally. 140 applicants means 140 potential women software engineers entering our industry. That’s 140 new and different perspectives to tackling engineering challenges. And 140 more role models for women in technology. We can’t wait!"* Duana Stanley, Soundcloud
+
 *“We are constantly working on increasing our female quota and believe that projects like RG SoC do great in supporting women to start coding, bringing technology to more people and even more women into tech jobs.”* -- Maike Kronenberg, Wooga
 
 *“The open-source community relies on a small number of individuals to power the work and businesses of thousands. Getting more great developers involved in the hard projects is critical to everyone's success. I can't wait to see what kind of progress the RailsGirls SoC participants can make in building features and solving problems the rest of us are scared of!"* -- Jeff Casimir, Jumpstartlab
