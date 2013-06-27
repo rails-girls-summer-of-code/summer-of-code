@@ -27,8 +27,12 @@ layout: default
           <a href="/campaign/" class="button">Donate Now!</a>
         </div>
         <div class="rss">
-		<h3> Subscribe to our feed </h3>
+          <h3> Subscribe to our feed </h3>
           <a href="/blog.xml"><img src="/img/icons/rss.png" alt="RSS icon"> RSS Feed</a>
+        </div>
+        <div>
+          <h3>Team blogs</h3>
+          <ul class="blogroll"></ul>
         </div>
       </aside>
   </div>

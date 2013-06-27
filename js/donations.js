@@ -52,10 +52,9 @@ $.extend(Donations.prototype, {
     _results = [];
     for (_i = 0, _len = page.length; _i < _len; _i++) {
       record = page[_i];
-      console.log(!page[_i - 1])
       if (record.package != "Custom" && !page[_i - 1]) {
         _results.push(this.tbody.append($('<tr class="heading"><td colspan="6" class="stats">Sponsors</td></tr>')));
-      } 
+      }
       _results.push(this.tbody.append(new Donation(record).render()));
       if (record.package != "Custom" && page[_i + 1] && page[_i + 1].package == "Custom") {
         _results.push(this.tbody.append($('<tr class="heading"><td colspan="6" class="stats">Individiual Donors</td></tr>')));
@@ -69,22 +68,21 @@ $.extend(Donations.prototype, {
     }
   },
   sort: function(lft, rgt) {
-    
     var sortByAmount = function(lft, rgt) {
       if(lft.amount === undefined) {
         return 1;
-      } 
+      }
       if(rgt.amount === undefined) {
         return -1;
       }
-        if(lft.amount > rgt.amount) {
-           return -1;
-         } else if(rgt.amount > lft.amount) {
-           return 1;
-         } else {
-           return 0;
-         }
-      };
+      if(lft.amount > rgt.amount) {
+        return -1;
+      } else if(rgt.amount > lft.amount) {
+        return 1;
+      } else {
+        return 0;
+      }
+    };
 
     var sortByIndex = function(lft, rgt) {
       if(lft.index > rgt.index) {

@@ -392,16 +392,11 @@ h2 {
 ul {
      list-style-type: none;
 }
-.container ul li {
-  list-style-position: inside;
+.container li {
+  list-style-type: disc;
 }
-.container ul li:before {
-    content: '\2022 ';
-    position: absolute;
-    padding-right: 0.5em;
-    margin-bottom: 14em;
-    margin-left: -.7em;
-    color: red;
+.container aside li {
+  list-style-type: none;
 }
 .content {
   width: 100%;
@@ -877,7 +872,7 @@ ul {
   width: 210px;
   /* height: 300px; */
   vertical-align: top;
-  list-style: none;
+  list-style-type: none;
   border: 1px solid rgb(34, 34, 34);
   border-radius: 4px;
   padding: 5px 15px;
