@@ -508,7 +508,7 @@ ul {
    SCRIBBLES
    ========================================================================== */
 
-.scribble1, .scribble2, .scribble3, .scribble4, .scribble5, .scribble6, .scribble7, .scribble8 {
+.scribble1, .scribble2, .scribble3, .scribble4, .scribble5, .scribble6, .scribble7, .scribble8, .scribble9 {
   background-image: url(../img/scribbles.png);
   background-repeat: no-repeat;
   min-width: 200px;
@@ -523,6 +523,7 @@ ul {
 .scribble6 { background-position: 70px -1250px; }
 .scribble7 { background-position: 70px -1500px; }
 .scribble8 { background-position: 70px -1750px; }
+.scribble9 { background-position: 70px -2000px; }
 
 /*  Allign scribble with video */
 .index .scribble1 {
