@@ -3,6 +3,7 @@ title: Rails Girls Summer of Code teams announced
 layout: post
 created_at: Sat Jun 12 2013
 permalink: blog/rails-girls-summer-of-code-teams-announced
+current: blog
 author: Anika
 twitter: langziehohr
 ---

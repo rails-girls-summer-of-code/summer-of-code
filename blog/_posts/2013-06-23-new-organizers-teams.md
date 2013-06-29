@@ -3,11 +3,12 @@ title: "Please join: new organizers teams"
 layout: post
 created_at: Thu Jun 23 2013
 permalink: blog/new-organizers-teams
+current: blog
 author: Rails Girls Summer of Code organizers
 twitter: railsgirlssoc
 ---
 
-Got some spare time and a knack for PR, community management, Sponsoring or Coding? Awesome!  
+Got some spare time and a knack for PR, community management, Sponsoring or Coding? Awesome!
 We could use some helpful hands and can offer a wonderful summer of experience and of course [cat gifs](#cats) ;)
 
 Part of the reason is that [Sven] (http://twitter.com/svenfuchs) will have to step back from working on Rails
@@ -41,7 +42,7 @@ the world about how the teams are doing, whats going on and share some nice stor
 This team takes care of the website and makes sure it stays up to date with the
 progress of RGSoC.
 The team is still looking for someone with design skills and others who'd
-like to help out. 
+like to help out.
 
 
 ### 5. Teams App
@@ -50,7 +51,7 @@ The app should be mostly done before July, but might need updating once in a
 while.
 
 Sven can still take care of this for the time being, but it would be cool if
-someone with solid Rails dev skills could take this over. 
+someone with solid Rails dev skills could take this over.
 
 
 If you'd want to know more or like to help, ping us here:

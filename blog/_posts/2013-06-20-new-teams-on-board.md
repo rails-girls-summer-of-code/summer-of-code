@@ -3,6 +3,7 @@ title: New Teams On Board!
 layout: post
 created_at: Thu Jun 20 2013
 permalink: blog/new-teams-on-board
+current: blog
 author: Anika
 twitter: langziehohr
 ---

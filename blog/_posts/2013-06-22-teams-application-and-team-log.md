@@ -3,6 +3,7 @@ title: Teams application and the team log
 layout: post
 created_at: Thu Jun 22 2013
 permalink: blog/teams-application-and-team-log
+current: blog
 author: Sven
 twitter: svenfuchs
 ---

@@ -2,6 +2,7 @@
 title: Rails Girls Summer of Code Blog
 class: page blog
 layout: default
+current: blog
 ---
 
 <section class="main container">
