@@ -12,7 +12,7 @@ Got some spare time and a knack for PR, community management, Sponsoring or Codi
 We could use some helpful hands and can offer a wonderful summer of experience and of course [cat gifs](#cats) ;)
 
 Part of the reason is that [Sven] (http://twitter.com/svenfuchs) will have to step back from working on Rails
-Girls Summer of Code a little bit starting July and focussing on [Travis] (http://travis.org)
+Girls Summer of Code a little bit starting July and focussing on [Travis] (http://travis-ci.org)
 again. During the first weeks he will still be available about half-time and
 [Anika] (http://twitter.com/langziehohr) will continue to be available full-time, sponsored by Travis.
 
