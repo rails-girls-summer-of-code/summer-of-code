@@ -3,9 +3,12 @@ layout: default
 title: How to find projects
 class: page page-howto
 permalink: find-projects/
+current: students
 ---
 <section class="main container">
     <div class="wrapper clearfix">
+        {% include students_sidebar.html %}
+
         <article class="content">
             <h2>{{page.title}}</h2>
             <p>Ask on Twitter! Post on Facebook. Email developers you know. Use all the communication channels you know :)</p>
@@ -29,21 +32,6 @@ permalink: find-projects/
             	<li>Working on a well-known project (Rails, Rubinius, Sinatra, Travis CI) might be a little bit harder at first (so you might need some more patience and learn more). But it also gives you instant recognition and visibility. This may sound scary at first, but once you feel more comfortable with being visible it gives you a myriad of opportunities that you otherwise wouldn't even have thought about. Imagine you'd be the first RailsGirls student to actually commit something (even if very small) to Ruby on Rails, the entire Ruby community would know about you in no time. That opens up fantastic opportunities and chances. :)</li>
             </ul>
             <p>So, in general we might recommend joining existing projects: it's easier, and your chances to be successful will be higher, but new projects aren't excluded. And if this is what you want to do, then go ahead and explain how you plan to make it a successful, fantastic 3 months in your application :)</p>
-
-            <h4>See also</h4>
-            <ul>
-              <li><a href="/students" title="">Students</a></li>
-              <li><a href="/find-coaches" title="How to find coaches">How to find coaches</a></li>
-            </ul>
         </article>
-        <aside class="sidebar">
-        	<div class="related">
-        		<h3>See also</h3>
-            <ul>
-              <li><a href="/students" title="">Students</a></li>
-              <li><a href="/find-coaches" title="How to find coaches">How to find coaches</a></li>
-            </ul>
-        	</div>
-        </aside>
     </div>
 </section> <!-- / .main -->

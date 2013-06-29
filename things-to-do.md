@@ -4,18 +4,10 @@ title: Things to do
 class: page page-students-todo
 current: things-to-do
 permalink: things-to-do/
+current: students
 ---
 
-<aside class="sidebar">
-  <div class="related">
-    <h3>Students</h3>
-    <ul>
-      <li><a href="/things-to-do" title="Things to do">Things to do</a></li>
-      <li><a href="/team-log" title="Team Log">Team Log</a></li>
-      <li><a href="/tools" title="Tools">Tools</a></li>
-    </ul>
-  </div>
-</aside>
+{% include students_sidebar.html %}
 
 ## Things To Do
 

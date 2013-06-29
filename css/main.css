@@ -366,6 +366,10 @@ aside {
   margin-top: 50px;
 }
 
+aside a.current {
+  font-weight: bold;
+}
+
 a {
   color: #f14215;
   text-decoration: none;
