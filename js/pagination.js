@@ -15,14 +15,14 @@ $.extend(window.Pagination.prototype, {
   setup: function(keys) {
     var _this = this;
     return $.each(keys, function(ix, key) {
-      return $('a.' + key, _this.element).click(function() {
+      return $('a.' + key, _this.element).click(function(event) {
+        event.preventDefault();
         return _this.onClick(key);
       });
     });
   },
   onClick: function(key) {
     this[key]();
-    this.update();
     return false;
   },
   first: function() {

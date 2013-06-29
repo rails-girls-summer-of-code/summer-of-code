@@ -1,6 +1,7 @@
 var Donation, Donations, Stats;
 
-var ENV = document.location.hostname == 'localhost' ? 'development' : 'production';
+// var ENV = document.location.hostname == 'localhost' ? 'development' : 'production';
+var ENV = 'production';
 
 String.prototype.camelize = function() {
   return this.slice(0, 1).toUpperCase() + this.slice(1);
@@ -48,19 +49,18 @@ $.extend(Donations.prototype, {
   },
   render: function(page) {
     var record, _i, _len, _results;
-    this.clear();
-    _results = [];
+    var tbody = $('<tbody></tbody>');
     for (_i = 0, _len = page.length; _i < _len; _i++) {
       record = page[_i];
       if (record.package != "Custom" && !page[_i - 1]) {
-        _results.push(this.tbody.append($('<tr class="heading"><td colspan="6" class="stats">Sponsors</td></tr>')));
+        tbody.append($('<tr class="heading"><td colspan="6" class="stats">Sponsors</td></tr>'));
       }
-      _results.push(this.tbody.append(new Donation(record).render()));
+      tbody.append(new Donation(record).render());
       if (record.package != "Custom" && page[_i + 1] && page[_i + 1].package == "Custom") {
-        _results.push(this.tbody.append($('<tr class="heading"><td colspan="6" class="stats">Individiual Donors</td></tr>')));
+        tbody.append($('<tr class="heading"><td colspan="6" class="stats">Individiual Donors</td></tr>'));
       }
     }
-    return _results;
+    this.tbody.html(tbody.html());
   },
   addIndexes: function(collection) {
     for(var i = 0; i < collection.length; i++) {
