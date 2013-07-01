@@ -1,7 +1,7 @@
 ---
 title: First day of Summer!
 layout: post
-created_at: Thu Jun 20 2013
+created_at: Mon Jul 01 2013
 permalink: blog/first-day-of-summer
 current: blog
 author: Anika
