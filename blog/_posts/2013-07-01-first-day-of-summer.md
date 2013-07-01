@@ -13,7 +13,7 @@ It's finally arrived! It's 1st of July and the Summer of Code start's in 3â€¦.2â
 ![pistols_2](https://f.cloud.github.com/assets/1711357/730793/9730e962-e25c-11e2-9f50-19ae3f086644.png)
 
 
-HAPPY SUMMER OF CODE EVERYBODY! We are so happy to have [you all](teams.railsgirlssummerofcode.org) on board and we are so much looking forward to spending a fantastic summer with you. We couldn't be more excited! <3 <3 <3
+HAPPY SUMMER OF CODE EVERYBODY! We are so happy to have [you all](http://teams.railsgirlssummerofcode.org) on board and we are so much looking forward to spending a fantastic summer with you. We couldn't be more excited! <3 <3 <3
 
 
 To make this wonderful day even better, we are proud to announce this wonderful news with you:
@@ -29,7 +29,7 @@ They will produce a limited Rails Girls Edition of unisex Nerdies and donate all
 --
 more:
 
-Two teams have alreadyy blogged - Read about their first day:
+Two teams have already blogged - Read about their first day:
 
 [http://inchworms.net/blog/2013-07-01-first-day-of-school/](http://inchworms.net/blog/2013-07-01-first-day-of-school/)
 
