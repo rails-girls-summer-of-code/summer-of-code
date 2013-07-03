@@ -62,7 +62,8 @@ plan to aggregate information from there, too.
 #### Just ask!
 
 You can always find us on IRC for quick questions or issues:
-[#rgsoc on irc.freenode.net](irc://irc.freenode.net#rgsoc)
+[#rgsoc on irc.freenode.net](irc://irc.freenode.net#rgsoc).
+
 Read more about how to use and set up IRC: [https://github.com/rails-girls-summer-of-code/summer-of-code/wiki/IRC](https://github.com/rails-girls-summer-of-code/summer-of-code/wiki/IRC)
 
 If you think something is unclear or should be improved, or if you find a
