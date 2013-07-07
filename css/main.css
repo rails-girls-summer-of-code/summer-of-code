@@ -414,10 +414,10 @@ ul {
 .sidebar-blog .button, .sidebar .button {
   margin: 0;
 }
-.sidebar-blog .rss, .sidebar .rss {
+.sidebar-blog .rss, .sidebar .rss, .sidebar-blog .teamblogs, .sidebar-blog .support {
   border-top: solid .1em lightgray;
-  margin-top: 5em;
-  padding-top: 2em;
+  margin-top: 2em;
+  padding-top: 1em;
   padding-bottom: 2em;
 }
 .fullwidth {
