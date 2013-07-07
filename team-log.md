@@ -2,7 +2,7 @@
 layout: page
 title: The Team Log
 class: page page-students-team-log
-current: team-log
+current-sub: team-log
 permalink: team-log/
 current: students
 ---

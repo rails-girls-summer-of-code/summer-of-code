@@ -2,7 +2,7 @@
 layout: page
 title: Rails Girls Summer of Code Tools
 class: page page-students-tools
-current: tools
+current-sub: tools
 permalink: tools/
 current: students
 ---

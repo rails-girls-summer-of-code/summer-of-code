@@ -2,7 +2,7 @@
 layout: page
 title: Things to do
 class: page page-students-todo
-current: things-to-do
+current-sub: things-to-do
 permalink: things-to-do/
 current: students
 ---
