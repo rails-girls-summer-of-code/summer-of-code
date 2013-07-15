@@ -10,9 +10,7 @@ twitter: _tyranja_
 
 Hej Everbody,
 
-**We are the inchworms** and we took that name because the coding process for us is like crawling inch by inch. Also we like this video: 
-
-<iframe width="480" height="360" src="//www.youtube.com/embed/cyasgr9mn3s?rel=0" frameborder="0" allowfullscreen></iframe>
+**We are the inchworms** and we took that name because the coding process for us is like crawling inch by inch. Also we like this [video](https://www.youtube.com/watch?v=cyasgr9mn3s).
 
 We have been working with Rails Girls Summer of Code for two weeks now and here is a short review... 
 
