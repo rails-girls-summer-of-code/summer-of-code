@@ -10,9 +10,9 @@ twitter: _tyranja_
 
 Hej Everbody,
 
-**We are the inchworms** and we took that name because the coding process for us is like crawling inch by inch. Also we like this [video](https://www.youtube.com/watch?v=cyasgr9mn3s).
+**We are the inchworms** and we chose that name because the coding process for us is like crawling inch by inch. Also we like this [video](https://www.youtube.com/watch?v=cyasgr9mn3s).
 
-We have been working with Rails Girls Summer of Code for two weeks now and here is a short review... 
+We've been working with Rails Girls Summer of Code for two weeks now and here is a short review... 
 
 In the first week we tried and managed to get the hang of the Ruby framework Sinatra. And in the second we were busy with screencasting our newly acquired knowledge for other beginners. The first week went pretty fast, the second was a bit exhausting because we had to review and redo everything on a Mac with an older version of Ruby (previosly we both worked with Ubuntu). But also we learned a lot! Primarily how to cope with failure.
 
