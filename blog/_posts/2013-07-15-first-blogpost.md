@@ -10,6 +10,8 @@ twitter: _tyranja_
 
 Hej Everbody,
 
+**We are the inchworms** and we took that name, because the coding process for us is like crawling inch by inch and we like the [video](https://www.youtube.com/watch?v=cyasgr9mn3s)
+
 We are working in Rails Girls Summer of Code for two weeks now and here is a short review. In the first week we tried and managed to get the hang of the ruby framework Sinatra. And in the second we were busy with screencasting our newly acquired knowledge for other beginners. The first week went pretty fast, the second was a bit exhausting because we had to review and redo everything on a mac with an older version of ruby. Previosly we both worked with ubuntu. But also we learned a lot! Primarily how to cope with failure.
 
 **We're both in the rubymosters project group**, where we meet once a week and learn how to code. It was there where we first heard about the Rails Girls Summer of Code. Since we both enjoyed learning how to code so much, we thought RGSoC would be fantastic to participate in as we could spend every day, not just one evening a week, learning. 
