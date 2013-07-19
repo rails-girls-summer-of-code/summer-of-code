@@ -8,6 +8,7 @@ author: Anika
 twitter: langziehohr
 ---
 
+<<<<<<< HEAD
 
 I guess you are as excited as we are about our teams, right?
 So from now on every week we'll present a team to you that will tell us a little bit about themselves, what awesome stuff they are up to and how things are going.
@@ -15,3 +16,14 @@ Later today we are beginning with the Berlin based <a href="http://inchworms.net
 <img src="inchworms.gif" height="230"> <img src="inchworms.jpeg" height="230px">
 
 
+=======
+I guess you are as curious as we are about our teams, right?
+
+So from now on every week we'll present a team to you that will tell us a little bit about themselves, what awesome stuff they are up to and how things are going.
+
+Later today we are beginning with the Berlin based <a href="http://inchworms.net/blog/">Team Inchworms</a>. Stay tuned to learn more about Sinatra, what Carla and Anja's happiest moment was so far and how they came to their team name.
+
+<img src="/img/inchworms.gif" height="230">
+
+<img src="/img/inchworms.jpeg" height="230px">
+>>>>>>> 60cb83289550a9f38f04321c2da169326b6bb74a
