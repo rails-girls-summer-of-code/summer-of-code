@@ -99,5 +99,13 @@ $(document).ready(function() {
 
     return false;
   });
+  
+  // Mobile navigation toggle
+  //$('.nav-primary > ul').addClass('hidden');
+  $('.hamburger').click(function() {
+    $('.nav-primary > ul').toggle('hidden');
+    console.log('click');
+  });
+
 
 });
