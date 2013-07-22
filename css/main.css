@@ -513,7 +513,7 @@ ul {
    ========================================================================== */
 
 .scribble1, .scribble2, .scribble3, .scribble4, .scribble5,
-.scribble6, .scribble7, .scribble8, .scribble9, .scribble10, 
+.scribble6, .scribble7, .scribble8, .scribble9, .scribble10,
 .scribble11, .scribble12, .scribble13, .scribble14, .scribble15,
 .scribble16, .scribble17, .scribble18 {
   background-image: url(../img/scribbles.png);
@@ -634,6 +634,7 @@ ul {
 .sponsors .soundcloud  { background-image: url(../img/sponsors/soundcloud.png); }
 .sponsors .shopify     { background-image: url(../img/sponsors/shopify.png); }
 .sponsors .supadupa    { background-image: url(../img/sponsors/supadupa.png); }
+.sponsors .travis      { background-image: url(../img/sponsors/travis.png); }
 .sponsors .tilde       { background-image: url(../img/sponsors/tilde.png); }
 .sponsors .upworthy    { background-image: url(../img/sponsors/upworthy.png); }
 .sponsors .wimdu       { background-image: url(../img/sponsors/wimdu.png); }
