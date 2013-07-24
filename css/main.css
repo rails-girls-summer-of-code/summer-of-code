@@ -24,7 +24,7 @@ html {
 }
 body {
     font-size: 1em;
-    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    font: 16px/26px Interstate, Helvetica Neue, Arial;
     overflow-x: hidden;
 }
 ::-moz-selection {
@@ -71,8 +71,12 @@ textarea {
   margin: 0 0 0 110px;
   padding: 0 0 0.5em 0;
 }
+/* =====================================================
+    BLOG
+  ====================================================== */
 
 .blog h1 {
+  line-height: 1;
   color: #666;
 }
 .blog .meta {
@@ -101,6 +105,19 @@ textarea {
   border-bottom: 1px solid #ccc;
 }
 
+.blog-teaser {
+
+}
+.blog-teaser h3 {
+  text-transform: uppercase;
+}
+.blog-teaser .teaser-date {
+  border-top: solid 1px lightgray;
+  color: lightgray;
+  width: 13em;
+  padding-top: .6em;
+}
+
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
    ========================================================================== */
@@ -108,6 +125,9 @@ textarea {
 .wrapper {
     width: 90%;
     margin: 0 5%;
+}
+.index .wrapper {
+  margin-bottom: 0;
 }
 .wrapper-blog {
   width: 90%;
@@ -118,10 +138,12 @@ textarea {
     ALL: Orange Theme
    =================== */
 
-.slide0,
 .footer-container,
 .arrow-white {
     background-color: rgba(222, 57, 12, 1);
+}
+.index .header-container {
+  padding-bottom: .6em;
 }
 /* smaller pages */
 .page .header-container {
@@ -132,11 +154,11 @@ textarea {
 
 /* index */
 .header-container {
-  position: fixed;
+  /*position: fixed;
   top:0;
   left: 0;
   right: 0;
-  z-index: 99;
+  z-index: 99;*/
   background-color: rgba(222, 57, 12, 1);
   /* background-color: rgba(211, 54, 11, .9); */
   transition: all .5s ease;
@@ -180,17 +202,87 @@ textarea {
   border-top: solid rgba(222, 57, 12, 0.9) .2em;
   border-bottom: double rgba(222, 57, 12, 0.9) .5em;
 }
-/* Prepare styles for Scroll Effect */
-.no-scroll {
- position: relative;
- /*transform: translateY(-100%);
- -webkit-transform: translateY(-100%);
- -moz-transform: translateY(-100%);*/
- background-color: #de390c;
+.keyvisual {
+  position: relative;
+  top: -70px;
+  z-index: -1;
+  height: 39em;
+  background: url(../img/workshop1.jpg) 0 -50px;
 }
-.no-scroll .logo-nav {
-  display: none;
+.hero {
+  margin-left: 7em;
+  padding-left: 7em;
+  margin-right: 7em;
+  padding-right: 7em;
+  min-height: 24em;
+  text-align: center;
+  background: url(../img/scribbles-frontpage.png) no-repeat;
 }
+.hero-sub {
+  color: #380c01;
+  font-weight: bold;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+.hero-sub:before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 49%;
+  margin-top: -3em;
+  width: 48px;
+  height: 35px;
+  z-index: 80;
+  background: url(../img/squiggly-line.png) no-repeat;
+}
+.hero-claim {
+  font-size: 18px;
+  color: #dc3a0c;
+  margin-top: 1em;
+}
+.hero h1 {
+  font-size: 75px;
+  margin-bottom: 0em;
+}
+.hero h2 {
+  font-size: 43px;
+  margin-bottom: .7em;
+}
+.hero h1, .hero h2 {
+  color: #dc3a0c;
+  text-shadow: 3px 3px #fce2c1;
+}
+.star-red {
+  display: inline-block;
+  width: 15px;
+  height: 14px;
+  margin: 0 1.3em;
+  background: url(../img/star-red.png) no-repeat;
+}
+
+/* ===================
+    New page layout
+   =================== */
+.content h1, .content h2, .content h3, .content h4 {
+  color: #370d01;
+}
+.wrapper.main {
+  overflow: auto;
+  margin-bottom: 5em;
+}
+.main .content {
+  margin-bottom: 2em;
+  border-top: 4px solid #dc3a0c;
+}
+
+
+
+
+
+/* ===================
+    FAQ Accordion
+   =================== */
+
 .content h3 {
   color: #de390c;
   font-size: 1.4em;
@@ -307,33 +399,9 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
 .title {
     color: white;
 }
-.intro {
-  padding-top: 3em;
-  overflow: hidden;
-}
-.intro h1 {
-  margin: 0;
-}
-.intro h2 {
-  font-family: Interstate, Helvetica;
-  font-size: 18px;
-  color: white;
-  letter-spacing: 1px;
-}
-
 /* ==============
     MOBILE: Main
    ============== */
-
-/*.main {
-
-}
-.main article {
-  width: 100%;
-}
-*/.main article h1 {
-    font-size: 2em;
-}
 
 .footer-container footer {
     color: white;
@@ -354,11 +422,6 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-aside p,
-aside h2 {
-  margin: 0px;
-}
 
 aside {
   margin-top: 50px;
@@ -384,15 +447,21 @@ h3,
   font-family: 'Interstate', sans-serif;
   font-weight: normal;
 }
+
+h1 {
+  font-size: 2.5em;
+}
 h2 {
-    color: #f14215;
-    margin: .8em 0 1.1em;
-    font-size: 2.5em;
-    font-weight: normal;
-    line-height: 1;
+  margin: .8em 0 1.1em;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1;
+}
+h3 {
+  font-size: 1.7em;
 }
 ul {
-     list-style-type: none;
+  list-style-type: none;
 }
 .container li {
   list-style-type: disc;
@@ -404,10 +473,14 @@ ul {
   width: 100%;
   float: none;
 }
+/* ===============
+    SIDEBARS
+   =============== */
+
 .sidebar {
   width: 100%;
   float: none;
-  text-align: right;
+  margin-top: 0;
 }
 .sidebar-blog .button, .sidebar .button {
   margin: 0;
@@ -417,6 +490,16 @@ ul {
   margin-top: 2em;
   padding-top: 1em;
   padding-bottom: 2em;
+}
+.sidebar h2, .sidebar h3 {
+  color: #390d00;
+}
+.frontpage-sidebar {
+  border-top: solid 4px #dc3a0c;
+}
+.frontpage-sidebar .blogroll {
+  margin: 0;
+  padding: 0;
 }
 .fullwidth {
   width: 100%;
@@ -433,17 +516,10 @@ ul {
 	content: '';
 }
 
-.teaser-video {
-  margin-top: 70px;
-}
 /* ============
     SPRITES
    ============ */
 
-/*.logo-nav , .logo, .arrow-white, .arrow-red, .accordion-header, .accordion-header-active {
-    background-image: url(../img/sprite.png);
-    background-repeat: no-repeat;
-}*/
 .logo-nav {
   background-image: url(../img/sprites/logo_subnavi.png);
   background-repeat: no-repeat;
@@ -638,14 +714,6 @@ ul {
 .sponsors .wooga       { background-image: url(../img/sponsors/wooga.png); }
 
 
-/* ==========================================================================
-   Teaser Video
-   ========================================================================== */
-
-.teaser-video {
-	margin-bottom: 3em;
-}
-
 
 /* ==========================================================================
    Media Queries
@@ -839,10 +907,6 @@ ul {
       right: 0;
       margin-right: 0em;
       margin-top: 0em;
-    }
-    .intro {
-      margin-bottom: 0em;
-      height: 22em;
     }
 
 

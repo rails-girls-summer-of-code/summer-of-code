@@ -1,0 +1,71 @@
+---
+layout: default
+current: index
+class: index
+---
+<section class="main">
+    <div class="container slide0" >
+        <div class="wrapper clearfix intro">
+          <h1 style="float: right; text-align: right; font-size: 36px; display: inline; margin-top: 100px;
+            background-color: white; padding: 20px; border-radius: 10px;">
+            <a href="/campaign" style="text-decoration: none;">Donate Now!</a>
+          </h1>
+            <h1 class="logo ir clearfix">Rails Girls Summer of Code</h1>
+            <h2>helps Rails Girls students to get into open source software projects</h2>
+        </div>
+    </div>
+    <div class="container slide1" data-stellar-background-ratio="0.6">
+        <div class="wrapper clearfix">
+            <div class="arrow-white"><a href="#slide2" data-step="1" class="scroll"></a></div>
+        </div>
+    </div>
+    <div class="container slide2" id="slide2">
+        <div class="wrapper clearfix">
+            <article class="content">
+                <h2>Women go Open Source</h2>
+                <div class="teaser-video">
+                    <!-- This version of the embed code is no longer supported. Learn more: https://vimeo.com/help/faq/embedding -->
+                    <object width="100%" height="400">
+                        <param name="allowfullscreen" value="true" />
+                        <param name="allowscriptaccess" value="always" />
+                        <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=67004430&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=de390c&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" />
+                        <embed src="http://vimeo.com/moogaloop.swf?clip_id=67004430&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=de390c&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="100%" height="400"></embed>
+                    </object>
+                </div>
+                <p>Rails Girls Summer of Code helps Rails Girls students get into Open Source.</p>
+                <p>Just like in Google Summer of Code and Ruby Summer of Code, students will be paid so they're free to work on Open Source projects for a few months. Unlike those programs, the Rails Girls Summer of Code is about helping students to further expand their knowledge and skills by contributing to a great Open Source project (rather than producing highly sophisticated code).</p>
+                <a href="/students" class="button" title="to the student page">Apply as a student!</a>
+                <a href="/sponsors" class="button" title="to the sponsor instructions">Become a sponsor!</a>
+            </article>
+            <aside class="sidebar">
+                <div class="scribble1"></div>
+            </aside>
+        </div>
+    </div>
+    <div class="container slide3" data-stellar-background-ratio="0.6">
+        <div class="wrapper clearfix">
+            <div class="arrow-red"><a href="#slide4" class="scroll" data-step="2"></a></div>
+        </div>
+    </div>
+    <div class="container slide4" id="slide4">
+        <div class="wrapper clearfix">
+            <article class="content">
+                <h2>Projects wanted!</h2>
+                <p>The ideal project for the Rails Girls Summer of Code defines a goal that:</p>
+                <ul>
+                    <li>can be considered a valuable, significant contribution</li>
+                    <li>is simple enough that a beginner will be able to complete it in a time frame of three months or less</li>
+                </ul>
+                <p>Each project needs to provide a mentor, who will help the student get up to speed with the project and provide feedback and direction. Mentors will be supported by coaches (developers based in the same city as the student, helping them to accomplish their tasks), so the workload for a mentor is limited.</p>
+                <p>If you have an idea for an Open Source project that would fit, get in touch with us now!</p>
+                <a href="https://docs.google.com/forms/d/1hXZ1-pShKo33OaviSlbwY3mVr0ttQTTbuNCXHSQNh4U/" class="button" title="to the project registration">Register your project!</a>
+            </article>
+            <aside class="sidebar">
+                <div class="scribble2"></div>
+                <div class="scribble3"></div>
+            </aside>
+        </div>
+    </div>
+
+</section> <!-- / .main -->
+
