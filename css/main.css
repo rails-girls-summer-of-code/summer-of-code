@@ -212,7 +212,14 @@ textarea {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
+}
+.keyvisual:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  background: url(../img/wavy-border.png) repeat-x;
+  height: 55px;
+  width: 100%;
 }
 .hero {
   margin-left: 7em;
