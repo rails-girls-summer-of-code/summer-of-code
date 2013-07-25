@@ -207,7 +207,12 @@ textarea {
   top: -70px;
   z-index: -1;
   height: 39em;
-  background: url(../img/workshop1.jpg) 0 -50px;
+  background: url(../img/workshop1.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
 }
 .hero {
   margin-left: 7em;
