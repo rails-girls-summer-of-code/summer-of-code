@@ -24,7 +24,7 @@ html {
 }
 body {
     font-size: 1em;
-    font: 16px/26px Interstate, Helvetica Neue, Arial;
+    font: 16px/26px Helvetica Neue, Arial;
     overflow-x: hidden;
 }
 ::-moz-selection {
@@ -232,7 +232,7 @@ textarea {
 }
 .hero-sub {
   color: #380c01;
-  font-weight: bold;
+  font-family: 'Interstate', sans-serif;
   font-size: 22px;
   text-transform: uppercase;
 }
