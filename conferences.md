@@ -35,11 +35,17 @@ current: students
 
 ## Go to a conference!
 
-For Rails Girls Summer of Code we have been able to secure some amazing offerings from
-some of the best tech conferences in the Ruby world for you.
+At Rails Girls Summer of Code you work hard and learn new stuff every day, for
+3 months, a summer full of love and code.
 
-Most conferences offer free tickets, which is really fantastic, but some of
-them will even cover flights and accomodation for you!
+To make this an even more complete experience for you we'd like you to join a
+nice conference. Enjoy the great vibe, learn new things from the talks,
+meet fantastic people and get to know the lovely community!
+
+For this we have been offered no less than **55 free tickets** at some of the best
+Ruby conferences on 3 different continents for you.  Most conferences offer
+free tickets, which is really fantastic, but some of them will even cover
+**flights and accomodation** for you. And all of them are very worth visiting!
 
 All of these conferences want to be as accessible as possible to a everyone.
 They will do their best to make you feel comfortable and welcome. Some of them
