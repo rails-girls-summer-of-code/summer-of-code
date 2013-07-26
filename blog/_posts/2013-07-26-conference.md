@@ -10,8 +10,10 @@ twitter: RailsGirlsSoc
 
 
 <img src="https://f.cloud.github.com/assets/1711357/862757/f30569be-f5fa-11e2-97ee-1b32a3da5138.png" width="700">
-*time to meet the crowd*
-_____
+
+*time to meet the crowd*  &hearts;
+
+
 
 At Rails Girls Summer of Code you work hard and learn new stuff every day, for
 3 months, a summer full of love and code.
