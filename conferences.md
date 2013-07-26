@@ -133,10 +133,11 @@ We do have a few, strong recommendations for you though :)
 
 People will love that. Most conference organizers can reserve a special, short
 slot for you and they will do their best to support you with your talk. And it
-will be a fantastic experience for yourself, too. When Debbie spontaneously
-gave a short lightning at Euruko in Athens in front of a 700 people audience,
-she was super nervous, but also did incredibly well. Everyone noticed how brave
-it was for her to do this and she was the proudest person ever afterwards.
+will be a fantastic experience for yourself, too. When one of our Berlin Rails
+Girls students spontaneously gave a short lightning at Euruko in Athens in
+front of a 700 people audience, she was super nervous, but also did incredibly
+well. Everyone noticed how brave it was for her to do this and she received an
+amazing applause for it. Afterwards she was the proudest person ever :)
 
 This is also an opportunity to give back to the program and especially our
 fantastic sponsors who deserve getting this kind of attention.
