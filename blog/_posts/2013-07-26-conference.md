@@ -22,13 +22,12 @@ To make this an even more complete experience for you we'd like you to join a
 nice conference. Enjoy the great vibe, learn a few new things from the talks, chat with fantastic people and get to know the loely community!
 
 
-For this we have been offered no less than 55 free tickets at fantastic
+For this we have been offered no less than **55 free tickets** at fantastic
 conferences on 3 different continents for you. On top of that some conferences
-even include free flights and hotel, too. And all of them are very worth
+even include **free flights and hotel**, too. And all of them are very worth
 visiting!
 
-Everyone who has applied for Rails Girls Summer of Code as a student can apply
-for this, no matter if your application has been selected.
+**Everyone** who has applied for Rails Girls Summer of Code as a student **can apply for this**, no matter if your application has been selected.
 
-Please read more here: http://railsgirlssummerofcode.org/conferences and apply
+Please read more here: [http://railsgirlssummerofcode.org/conferences](http://railsgirlssummerofcode.org/conferences and apply) and apply
 until Monday, 12:00 pm CET.
