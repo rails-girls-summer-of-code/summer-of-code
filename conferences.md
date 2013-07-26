@@ -93,7 +93,7 @@ based in US, too.
 | ------------------------------------------------------------ | ----------| ------------------------ | ------------------------------------------ | ------------------ |
 | [Distill](https://distill.engineyard.com/)                   | 08-09.08. | USA, San Francisco       | 2 free tickets, hotel                      | @distill           |
 | [Madison Ruby](http://madisonruby.org/)                      | 22-24.08. | USA, Madison             | 2 free tickets                             | @MadisonRuby       |
-| [Strangeloop](https://thestrangeloop.com/)                   | 18-20.09. | USA, St Louis            | 2 free tickets, flights/hotel              | @strangeloop_stl   |
+| [Strange Loop](https://thestrangeloop.com/)                   | 18-20.09. | USA, St Louis            | 2 free tickets, flights/hotel              | @strangeloop_stl   |
 | [Wicked Good Ruby](http://wickedgoodruby.com/)               | 12-13.10. | USA, Boston              | 5 free tickets                             | @WickedGoodRuby    |
 | [FutureStack](http://futurestack.io/)                        | 24-25.10. | USA, San Francisco       | 1 free ticket, flight/accom                | #futurestack       |
 
