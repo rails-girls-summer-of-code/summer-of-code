@@ -207,7 +207,7 @@ textarea {
   top: -70px;
   z-index: -1;
   height: 39em;
-  background: url(../img/workshop1.jpg) no-repeat center center; 
+  background: url(../img/workshop1.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -680,7 +680,7 @@ ul {
   margin-right: 0;
 }
 .sponsors.platinum a {
-  width: 320px; /* 640 * 262 */
+  width: 320px;
   height: 181px;
 }
 .sponsors.gold a {
@@ -692,8 +692,13 @@ ul {
   height: 93px;
 }
 .sponsors.bronze a {
-  width: 184px; /* 368 * 150 */
+  width: 184px;
   height: 75px;
+}
+.sponsors.scholarship a {
+  width: 151px;
+  height: 61px;
+  background-size: 151px;
 }
 .sponsors ._37signals  { background-image: url(../img/sponsors/37signals.png); }
 .sponsors .anynines    { background-image: url(../img/sponsors/anynines.png); }
@@ -725,6 +730,22 @@ ul {
 .sponsors .upworthy    { background-image: url(../img/sponsors/upworthy.png); }
 .sponsors .wimdu       { background-image: url(../img/sponsors/wimdu.png); }
 .sponsors .wooga       { background-image: url(../img/sponsors/wooga.png); }
+
+.sponsors .arrrrcamp       { background-image: url(../img/confs/arrrrcamp.png); }
+.sponsors .devcon          { background-image: url(../img/confs/devcon.png); }
+.sponsors .distill         { background-image: url(../img/confs/distill.png); }
+.sponsors .dotrb           { background-image: url(../img/confs/dotrb.png); }
+.sponsors .eurucamp        { background-image: url(../img/confs/eurucamp.png); }
+.sponsors .futurestack     { background-image: url(../img/confs/futurestack.png); }
+.sponsors .jrubyconfeu     { background-image: url(../img/confs/jrubyconfeu.png); }
+.sponsors .madisonruby     { background-image: url(../img/confs/madisonruby.png); }
+.sponsors .railsisrael     { background-image: url(../img/confs/railsisrael.png); }
+.sponsors .rubyshift       { background-image: url(../img/confs/rubyshift.png); }
+.sponsors .rupy            { background-image: url(../img/confs/rupy.png); }
+.sponsors .socoded         { background-image: url(../img/confs/socoded.png); }
+.sponsors .startech        { background-image: url(../img/confs/startech.png); }
+.sponsors .strangeloop     { background-image: url(../img/confs/strangeloop.png); }
+.sponsors .wickedgoodruby  { background-image: url(../img/confs/wickedgoodruby.png); }
 
 
 

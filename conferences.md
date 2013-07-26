@@ -62,7 +62,7 @@ there probably will be many left-over tickets, we will do a second raffle for
 volunteering teams and then everyone else.
 
 Please note that all of the flights are meant to be *not* intercontinental.
-E.g. if the conference is in US, then flights can be covered as long as you're
+E.g. if the conference is in US, then flights can be covered if you're
 based in US, too.
 
 #### Europe and Israel
