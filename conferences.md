@@ -39,8 +39,10 @@ At Rails Girls Summer of Code you work hard and learn new stuff every day, for
 3 months, a summer full of love and code.
 
 To make this an even more complete experience for you we'd like you to join a
-nice conference. Enjoy the great vibe, learn new things from the talks,
-meet fantastic people and get to know the lovely community!
+nice conference:
+
+**Enjoy the great vibe, learn new things from the talks,
+meet fantastic people and get to know the lovely community!**
 
 For this we have been offered no less than **55 free tickets** at some of the best
 Ruby conferences on 3 different continents for you.  Most conferences offer
@@ -106,7 +108,7 @@ based in US, too.
 Just pick all the twitter handles (or hash tags) for the conferences and tweet something like:
 
 <div class="tweet">
-  #rgsocconfs I'd like to attend @jrubyconfeu, @eurucamp, @rubyshift, @rupy!
+  Hey @railsgirlssoc, I'd like to attend @jrubyconfeu, @eurucamp, @rubyshift, @rupy! #rgsocconfs
 </div>
 
 Apply for as many conferences as you like, even if you can only go to one. This
