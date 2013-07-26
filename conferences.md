@@ -83,7 +83,7 @@ based in US, too.
 | [RubyShift 2013](http://rubyshift.org/)                      | 27-28.09. | Ukraine, Kiev            | 9 free tickets, 2 flights/hotel            | @rubyshift         |
 | [ArrrrCamp 7](http://2013.arrrrcamp.be/)                     | 03-04.10. | Belgium, Ghent           | 1 free ticket                              | @arrrrcamp         |
 | [Rails Israel](http://railsisrael2013.events.co.il/)         | 09.10.    | Israel, Tel Aviv         | 10 free tickets                            | #RailsIL           |
-| [DevCon TLV](http://devcon-oct13.events.co.il/)              | 14.10.    | Israel, Tel Aviv         | 10 free tickets                            | #DevconTLV         |
+| [DevCon TLV](http://devcon-oct13.events.co.il/)              | 10.10.    | Israel, Tel Aviv         | 10 free tickets                            | #DevconTLV         |
 | [RUPY](http://13.rupy.eu/)                                   | 11-14.10. | Hungary, Budapest        | 2 free tickets, part flight/hotel          | @RuPy              |
 | [DotRB](http://www.dotrb.eu/)                                | 18.10.    | France, Paris            | free tickets                               | @dotRBeu           |
 
