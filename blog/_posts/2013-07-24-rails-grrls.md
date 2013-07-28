@@ -10,7 +10,7 @@ twitter: _railsgrrls_
 
 We are Laura and Nicole, a.k.a. [Team Rails Grrls](http://railsgrrls.tumblr.com). We started our Summer of Code in Mid-June at the Soundcloud HQ office in Berlin. 
 
-<img src ="/img/railsgrrlsteam-best.jpg" alt="Laura and Nicole's first day" width="400">
+<img src ="https://f.cloud.github.com/assets/1711357/868424/ae3cadf2-f79d-11e2-9dbd-333bb6d1697e.png" alt="Laura, Nicole and coach Duana" width="400">
 
 
 After the first few weeks of getting more familiar with Ruby, Rails and programming concepts in general, last week we couldn’t wait to get started with our first project, the [Rails Apps Learners Directory](https://github.com/mokus80/learners_directory). So far, we’ve set up an authentication system through GitHub and added a rating feature (without using a gem!).
