@@ -809,45 +809,54 @@ ul {
     position: relative;
     top: 5px;*/
   }
-  .nav-primary > ul li > ul {
-    display: none;
-  }
-  .nav-primary > ul li:hover ul {
-    display: block;
-    background-color: rgba(222, 57, 12, 1);
-    position: absolute;
-    z-index: 92;
-    left: -.5em;
-  }
-  .nav-primary > ul li:hover ul li {
-    display: block;
-    padding-left: .9em;
-  }
-  .nav-primary > ul li {
+  .nav-primary > ul > li {
     display: inline-block;
   }
-  .nav-primary > ul li a {
+  .nav-primary > ul > li a {
     display: inline-block;
     width: auto;
     border: none;
   }
-  .nav-primary ul li:after {
+  .nav-primary > ul > li:after {
     content: '';
     display: inline-block;
     height: 20px;
-    width: 38px;
+    width: 40px;
     background: url(/img/star.png) 16px 8px no-repeat;
   }
-  .nav-primary > ul li a:hover {
+  .nav-primary > ul > li:last-of-type:after {
+    display: none;
+  }
+  .nav-primary > ul > li a:hover {
     background-color: transparent;
     text-decoration: underline;
   }
-  .nav-primary ul li a.current-page {
+  .nav-primary > ul > li a.current-page {
     background-image: url(../img/sprites/nav_active_arrow.png);
     background-repeat: no-repeat;
     background-position: center 41px;
     text-decoration: none;
     padding-bottom: 1.2em;
+  }
+  .nav-primary > ul > li > ul {
+    display: none;
+  }
+  .nav-primary > ul > li:hover ul {
+    display: block;
+    background-color: rgba(222, 57, 12, 1);
+    position: absolute;
+    z-index: 99;
+    margin-left: -2em;
+  }
+  .nav-primary > ul > li:hover ul li {
+    display: block;
+    text-align: left;
+  }
+  .nav-primary > ul > li:hover a.current-page {
+    background-image: none;
+  }
+  .nav-primary > ul > li li a {
+    padding: 0.5em 2em;
   }
    .slide1 {
        background-image: url(../img/workshop2.jpg);
