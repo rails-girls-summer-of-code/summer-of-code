@@ -852,7 +852,7 @@ ul {
     display: block;
     text-align: left;
   }
-  .nav-primary > ul > li:hover a.current-page {
+  .nav-primary > ul > li:first-of-type:hover a.current-page {
     background-image: none;
   }
   .nav-primary > ul > li li a {
