@@ -8,12 +8,12 @@ author: Tam and Susanne
 twitter: _highwaytorails_
 ---
 
-**We are team Highway to Rails.** We chose the name because of the ACDC song “Highway to Hell”. When you replace the word “hell” with “rails”, it really sounds like we’re doing something incredibly exciting, which, of course, we are!
+**We are team [Highway to Rails](http://teams.railsgirlssummerofcode.org/teams/14).** We chose the name because of the ACDC song “Highway to Hell”. When you replace the word “hell” with “rails”, it really sounds like we’re doing something incredibly exciting, which, of course, we are!
 
-“Don't need reason, don't need rhyme
-Ain't nothing I would rather do
-Going down, party time
-My friends are gonna be there too
+“Don't need reason, don't need rhyme<br>
+Ain't nothing I would rather do<br>
+Going down, party time<br>
+My friends are gonna be there too<br>
 I'm on the highway to RAILS.”
 
 We heard about RGSoC first and foremost on twitter, but we’re also members of a weekly Rails Girls project group in Berlin, so news quickly spread. We applied because we’re both at a sort of turning point in our lives: we want to change career paths, we’re interested in coding and technology, and it sounds like fun. 
