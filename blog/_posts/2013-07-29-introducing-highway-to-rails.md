@@ -1,7 +1,7 @@
 ---
 title: Introducing team Highway to Rails
 layout: post
-created_at: Thurs July 25 2013
+created_at: Mon July 29 2013
 permalink: blog/introducing-highway-to-rails
 current: blog
 author: Tam and Susanne
