@@ -32,7 +32,7 @@ twitter: langziehohr
   }
 </style>
 
-Huraay!
+Hooray!
 
 As you know, we rolled up our sleeves to get you some
 [free conf tickets](http://railsgirlssummerofcode.org/conference/) to make your summer even better and send you out into the
