@@ -81,7 +81,7 @@ based in US, too.
 | [eurucamp](http://2013.eurucamp.org/)                        | 16-18.08. | Germany, Berlin          | 2 free tickets                             | @eurucamp          |
 | [SoCoded](http://socoded.com/)                               | 19-20.09. | Germany, Hamburg         | 2 free tickets                             | @socodedconf       |
 | [RubyShift 2013](http://rubyshift.org/)                      | 27-28.09. | Ukraine, Kiev            | 9 free tickets, 2 flights/hotel            | @rubyshift         |
-| [ArrrrCamp 7](http://2013.arrrrcamp.be/)                     | 03-04.10. | Belgium, Ghent           | 2 free ticket                              | @arrrrcamp         |
+| [ArrrrCamp 7](http://www.arrrrcamp.be/)                      | 03-04.10. | Belgium, Ghent           | 2 free ticket                              | @arrrrcamp         |
 | [Rails Israel](http://railsisrael2013.events.co.il/)         | 09.10.    | Israel, Tel Aviv         | 3 free tickets                             | #RailsIL           |
 | [DevCon TLV](http://devcon-oct13.events.co.il/)              | 10.10.    | Israel, Tel Aviv         | 3 free tickets                             | #DevconTLV         |
 | [RUPY](http://13.rupy.eu/)                                   | 11-14.10. | Hungary, Budapest        | 2 free tickets, part flight/hotel          | @RuPy              |
