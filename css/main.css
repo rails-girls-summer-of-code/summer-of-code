@@ -117,6 +117,13 @@ textarea {
   width: 13em;
   padding-top: .6em;
 }
+.blog-share {
+  margin: 4em 0;
+}
+.blog-share-widget {
+  display: inline-block;
+  margin-right: 1em;
+}
 
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template

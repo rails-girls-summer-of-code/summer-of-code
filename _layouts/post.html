@@ -5,7 +5,6 @@ layout: default
 
 <section class="main container">
   <div class="wrapper-blog clearfix">
-
     <article class="content">
     <h1>{{ page.title }}</h1>
       <p class='meta'>
@@ -17,7 +16,24 @@ layout: default
         <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%B %-d, %Y" }}</time>
       </p>
       {{ content }}
-       <div id="disqus_thread"></div>
+      <div class="blog-share">
+        <div class="blog-share-widget">
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://railsgirlssummerofcode.org/{{ page.permalink }}" data-via="RailsGirlsSoC " data-lang="en" data-related="anywhereTheJavascriptAPI" data-count="vertical">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+        <div class="blog-share-widget">
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+          <div class="fb-like" data-href="http://railsgirlssummerofcode.org/{{ page.permalink }}" data-send="false" data-layout="box_count" data-width="450" data-show-faces="false" data-font="arial"></div>
+        </div>
+      </div>
+      <div id="disqus_thread"></div>
       <script type="text/javascript">
           /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
           var disqus_shortname = 'rgsoc'; // required: replace example with your forum shortname
