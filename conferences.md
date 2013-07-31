@@ -44,7 +44,7 @@ nice conference:
 **Enjoy the great vibe, learn new things from the talks,
 meet fantastic people and get to know the lovely community!**
 
-For this we have been offered no less than **55 free tickets** at some of the best
+For this we have been offered no less than **49 free tickets** at some of the best
 Ruby conferences on 3 different continents for you.  Most conferences offer
 free tickets, which is really fantastic, but some of them will even cover
 **flights and accomodation** for you. And all of them are very worth visiting!
