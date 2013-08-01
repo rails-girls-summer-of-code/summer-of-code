@@ -35,7 +35,7 @@ twitter: langziehohr
 Hooray!
 
 As you know, we rolled up our sleeves to get you some
-[free conference tickets](http://railsgirlssummerofcode.org/blog/conference/) to make your summer even better and send you out into the
+[free conference tickets](http://railsgirlssummerofcode.org/conferences/) to make your summer even better and send you out into the
 coding community.
 
 We have been offered no less than **49 free tickets** at some of the best Ruby
