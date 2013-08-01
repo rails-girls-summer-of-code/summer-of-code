@@ -35,15 +35,15 @@ twitter: langziehohr
 Hooray!
 
 As you know, we rolled up our sleeves to get you some
-[free conf tickets](http://railsgirlssummerofcode.org/conference/) to make your summer even better and send you out into the
+[free conference tickets](http://railsgirlssummerofcode.org/blog/conference/) to make your summer even better and send you out into the
 coding community.
 
 We have been offered no less than **49 free tickets** at some of the best Ruby
-conferences on 3 different continents for you. Most conferences offer free
+conferences on 3 different continents. Most conferences offer free
 tickets, which is really fantastic, but some of them will even cover flights
-and accomodation for you. And all of them are very worth visiting!
+and accomodation for you. And all of them are really worth visiting!
 
-You are invited you to come, talk, mingle and meet some of the most awesome
+You are invited you to attend, talk, mingle and meet some of the most awesome
 members of our community.
 
 #### A very warm thank you to all of these amazing conferences!
@@ -67,13 +67,13 @@ members of our community.
   <a href="http://wickedgoodruby.com/">           &hearts; Wicked Good Ruby</a>
 </p>
 
-You've sent us your [wish lists](https://twitter.com/search?q=rgsocconfs&src=typd).
-We made our brains fume by thinking about how implement it and and our
-conference raffle fairy has written some code.  If you want to look in our
+You sent us your [wish lists](https://twitter.com/search?q=rgsocconfs&src=typd).
+We made our brains fume by thinking about how to implement the raffle and and our
+conference raffle fairy has written some code.  If you want to look at our
 cards you can find the logic behind all this
 [here](https://github.com/rails-girls-summer-of-code/rgsoc-teams/blob/master/lib/confs.rb)
-The gist of it: We made sure that everybody who applied had a good chance for a ticket and
-nobody came away empty-handed, and we've applied the rules announce on our
+The gist of it: We made sure that everybody who applied had a good chance of winning a ticket and that 
+nobody came away empty-handed. We also applied the rules announced on our
 [conferences page](http://railsgirlssummerofcode.org/conferences).
 
 Now heeeeere you can watch how winners were picked. Make sure to watch it
@@ -135,8 +135,8 @@ Here come the winners:
 
 We are so grateful for all those fantastic conference organizers pulling all
 these free tickets out of their magic hats for you. And we couldn't be more
-happy for you: You get to go to fantastic conferences and in most cases even
-meet other RGSoC students and rock these conference days!
+happy: You get to go to fantastic conferences and in most cases 
+meet other RGSoC students to rock the conference days with!
 
 Oh, how we wish we could be there too and see you all spread your wings and
 fly into the community ... but we hope, you'll keep us in the loop and tell
