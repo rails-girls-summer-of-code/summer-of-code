@@ -129,7 +129,7 @@ Here come the winners:
 | RailsIL           | 09.10.    | Tam Eastley         | Highway to Rails | #RailsIL         |
 | RailsIL           | 09.10.    | Susanne Dewein      | Highway to Rails | #RailsIL         |
 
-<p style="font-size: 0.8em;">&#42;) flights covered</p>
+<p style="font-size: 0.8em;">&#42;) domestic flights covered</p>
 
 ## Congratulations!
 
