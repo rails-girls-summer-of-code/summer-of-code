@@ -2,7 +2,7 @@
 title: "Week review:  Hammertime, Twitter lists and heavy conferencing"
 layout: post
 created_at: Sat Aug 03 2013
-permalink: blog/
+permalink: blog/hammertime
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
