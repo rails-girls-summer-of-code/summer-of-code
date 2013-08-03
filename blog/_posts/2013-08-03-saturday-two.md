@@ -45,7 +45,7 @@ We are blown away by all these witty, smart and funny articles all the teams are
 
 ##RubyRubyRubyRuby!
 
-Thanks to mentor Andy, everybody spent some minutes, hours, days addicted on this:
+Thanks to RGSoC mentor [Andy](http://teams.railsgirlssummerofcode.org/users/115), everybody spent some minutes, hours, days addicted on this:
 
 <a href="https://www.bloc.io/ruby-warrior#/"><img src="http://defendingdiaspora.files.wordpress.com/2013/07/ruby-warriors1.png" alt="everybody is obsessed with ruby warrior" width="550"></a>
 
