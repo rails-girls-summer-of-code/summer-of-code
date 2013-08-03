@@ -49,7 +49,7 @@ Thanks to RGSoC mentor [Andy](http://teams.railsgirlssummerofcode.org/users/115)
 
 <a href="https://www.bloc.io/ruby-warrior#/"><img src="http://defendingdiaspora.files.wordpress.com/2013/07/ruby-warriors1.png" alt="everybody is obsessed with ruby warrior" width="550"></a>
 
-And now, you are infected, too muhahahahar. Warrior.attack!
+We bet in a minute you'll be infected, too. Warrior.attack!
 
 
 Have a ruby weekend!
