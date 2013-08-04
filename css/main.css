@@ -79,6 +79,13 @@ textarea {
   line-height: 1;
   color: #666;
 }
+.blog .announce {
+  margin: 1em 0;
+  padding: 1em 1.5em;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
 .blog .meta {
   font-size: 0.9em;
   font-style: italic;
@@ -474,7 +481,7 @@ h2 {
   margin: .8em 0 1.1em;
   font-size: 2em;
   font-weight: normal;
-  line-height: 1;
+  line-height: 1.5;
 }
 h3 {
   font-size: 1.7em;
