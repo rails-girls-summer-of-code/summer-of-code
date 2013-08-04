@@ -10,7 +10,7 @@ twitter: theophani
 
 <div class="announce">
   We are so happy to announce that <a href="https://twitter.com/theophani">Tiffany Conroy</a>
-  poured all of her wisdom into this article for you.
+  poured her wisdom into this article for you.
   Tiffany, interaction designer and developer at
   <a href="http://soundcloud.com">Soundcloud</a>, started the project
   <a href="http://weareallaweso.me">weareallawesome</a>
