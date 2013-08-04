@@ -2,7 +2,7 @@
 title: "How to give a talk"
 layout: post
 created_at: Sun Aug 04 2013
-permalink: blog/hammertime
+permalink: blog/talk
 current: blog
 author: Tiffany
 twitter: theophani
