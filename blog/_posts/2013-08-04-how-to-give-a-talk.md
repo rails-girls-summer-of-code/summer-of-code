@@ -20,7 +20,7 @@ twitter: theophani
   practical tips on how to make good slides.
 </div>
 
-### A simple formula for talking about your project
+## A simple formula for talking about your project
 On an opening slide, have your name(s) and Twitter handle(s).
 Introduce yourself using 30 words or less. You don’t have to mention RailsGirls.
 Using one or two slides and less than 2 minutes, explain the problem that your project addresses.
