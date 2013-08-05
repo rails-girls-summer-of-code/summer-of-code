@@ -21,6 +21,7 @@ textarea {
 }
 html {
   font-size: 18px;
+  overflow-x: hidden;
 }
 body {
     font-size: 1em;
@@ -110,6 +111,9 @@ textarea {
   padding-bottom: 2em;
   margin-bottom: 3em;
   border-bottom: 1px solid #ccc;
+}
+.post article {
+  border-bottom: none;
 }
 
 .blog-teaser {
@@ -293,8 +297,8 @@ textarea {
   overflow: auto;
   margin-bottom: 5em;
 }
-.main .content {
-  margin-bottom: 2em;
+.index .main .content {
+  margin-bottom: 4em;
   border-top: 4px solid #dc3a0c;
 }
 
@@ -518,6 +522,7 @@ ul {
   color: #390d00;
 }
 .frontpage-sidebar {
+  margin-bottom: 4em;
   border-top: solid 4px #dc3a0c;
 }
 .frontpage-sidebar .blogroll {
@@ -925,6 +930,9 @@ ul {
       margin-right: 2em;
       text-align: right;
     }
+    .blog .content {
+      min-height: 134em;
+    }
     .related {
         text-align: right;
     }
@@ -974,7 +982,9 @@ ul {
       margin-right: 0em;
       margin-top: 0em;
     }
-
+    .blog .content {
+      min-height: 115em;
+    }
 
 /* ====================
     Maximal: Sponsors
