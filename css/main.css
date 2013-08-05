@@ -17,7 +17,7 @@ button,
 input,
 select,
 textarea {
-    color: #222;
+    color: #380c01;
 }
 html {
   font-size: 18px;
@@ -133,6 +133,10 @@ textarea {
   width: 90%;
   margin: 0 5%;
 }
+.wrapper.main {
+  overflow: auto;
+  margin-bottom: 5em;
+}
 
 .header-container {
   transition: all .5s ease;
@@ -191,6 +195,11 @@ textarea {
 /* ===================
     Frontpage
    =================== */
+
+.index .main .content {
+  margin-bottom: 4em;
+  border-top: 4px solid #de390c;
+}
 .keyvisual {
   position: relative;
   top: -70px;
@@ -259,22 +268,6 @@ textarea {
 }
 
 /* ===================
-    New page layout
-   =================== */
-
-.content h1, .content h2, .content h3, .content h4 {
-  color: #370d01;
-}
-.wrapper.main {
-  overflow: auto;
-  margin-bottom: 5em;
-}
-.index .main .content {
-  margin-bottom: 4em;
-  border-top: 4px solid #de390c;
-}
-
-/* ===================
     FAQ Accordion
    =================== */
 
@@ -291,50 +284,36 @@ textarea {
 .ui-accordion-header:focus {
   outline: none;
 }
-.ui-accordion-header:before {
+.ui-accordion-header:before,
+.ui-accordion-header-active:before {
   content: "";
   display: inline-block;
   padding: .7em 1.5em;
   margin-right: .5em;
-  background-image: url(../img/sprites/faq_arrow_down.png);
   background-position: 19px 10px;
   background-repeat: no-repeat;
   background-color: #de390c;
-  border-radius: 6px;
   vertical-align: bottom;
 }
-.ui-accordion-header:hover:before {
-  content: "";
-  display: inline-block;
-  margin-right: .5em;
-  background-image: url(../img/sprites/faq_arrow_down_red.png);
+.ui-accordion-header:before {
+  background-image: url(../img/sprites/faq_arrow_down.png);
   background-position: 19px 10px;
-  background-repeat: no-repeat;
+  border-radius: 6px;
+}
+.ui-accordion-header:hover:before {
+  background-image: url(../img/sprites/faq_arrow_down_red.png);
   background-color: #de390c;
   border-radius: 5px;
 }
 .ui-accordion-header-active:before {
-    content: "";
-    display: inline-block;
-    margin-right: .5em;
     background-image: url(../img/sprites/faq_arrow_up.png);
     background-position: 19px 8px;
-    background-repeat: no-repeat;
-    background-color: #de390c;
     border-radius: 5px;
 }
 .ui-accordion-header-active:hover:before {
-    content: "";
-    display: inline-block;
     position: relative;
-    margin-right: .5em;
     background-image: url(../img/sprites/faq_arrow_up_red.png);
-    background-position: 19px 8px;
-    background-repeat: no-repeat;
-    background-color: #de390c;
-    border-radius: 5px;
 }
-
 
 /* ===================
     Buttons (Call to action) 
@@ -385,21 +364,12 @@ a.button {
     color: white;
 }
 
-
-aside {
-  margin-top: 50px;
-}
-
-aside a.current {
-  font-weight: bold;
-}
-
 a {
-  color: #f14215;
+  color: #de390c;
   text-decoration: none;
 }
 a:hover {
-  color: #f14215;
+  color: #de390c;
   text-decoration: underline;
 }
 
@@ -468,6 +438,9 @@ ul {
   width: 100%;
   float: none;
   margin-top: 0;
+}
+.sidebar a.current {
+  font-weight: bold;
 }
 .sidebar-blog .button, .sidebar .button {
   margin: 0;
@@ -895,14 +868,13 @@ ul.donation-plans a.button:active {
        width: 680px;
        height: 180px;
    }
-    .wrapper {
+    .wrapper,
+    .wrapper-blog {
         width: 1026px; /* 1140px - 10% for margins */
         margin: 0 auto 3em;
     }
     .wrapper-blog {
       position: relative;
-      width: 1026px; /* 1140px - 10% for margins */
-      margin: 0 auto 3em;
     }
     .sidebar-blog {
       top: 0;
@@ -934,19 +906,16 @@ ul.donation-plans a.button:active {
     white-space: nowrap;
     text-indent: 100%;
 }
-
 .ir:before {
     content: "";
     display: block;
     width: 0;
     height: 150%;
 }
-
 .hidden {
     display: none !important;
     visibility: hidden;
 }
-
 .visuallyhidden {
     border: 0;
     clip: rect(0 0 0 0);
@@ -957,7 +926,6 @@ ul.donation-plans a.button:active {
     position: absolute;
     width: 1px;
 }
-
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
     clip: auto;
@@ -967,21 +935,17 @@ ul.donation-plans a.button:active {
     position: static;
     width: auto;
 }
-
 .invisible {
     visibility: hidden;
 }
-
 .clearfix:before,
 .clearfix:after {
     content: " ";
     display: table;
 }
-
 .clearfix:after {
     clear: both;
 }
-
 .clearfix {
     *zoom: 1;
 }
@@ -991,68 +955,68 @@ ul.donation-plans a.button:active {
    ========================================================================== */
 
 @media print {
-    * {
-        background: transparent !important;
-        color: #000 !important; /* Black prints faster: h5bp.com/s */
-        box-shadow: none !important;
-        text-shadow: none !important;
-    }
+  * {
+      background: transparent !important;
+      color: #000 !important; /* Black prints faster: h5bp.com/s */
+      box-shadow: none !important;
+      text-shadow: none !important;
+  }
 
-    a,
-    a:visited {
-        text-decoration: underline;
-    }
+  a,
+  a:visited {
+      text-decoration: underline;
+  }
 
-    a[href]:after {
-        content: " (" attr(href) ")";
-    }
+  a[href]:after {
+      content: " (" attr(href) ")";
+  }
 
-    abbr[title]:after {
-        content: " (" attr(title) ")";
-    }
+  abbr[title]:after {
+      content: " (" attr(title) ")";
+  }
 
-    /*
-     * Don't show links for images, or javascript/internal links
-     */
+  /*
+   * Don't show links for images, or javascript/internal links
+   */
 
-    .ir a:after,
-    a[href^="javascript:"]:after,
-    a[href^="#"]:after {
-        content: "";
-    }
+  .ir a:after,
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+      content: "";
+  }
 
-    pre,
-    blockquote {
-        border: 1px solid #999;
-        page-break-inside: avoid;
-    }
+  pre,
+  blockquote {
+      border: 1px solid #999;
+      page-break-inside: avoid;
+  }
 
-    thead {
-        display: table-header-group; /* h5bp.com/t */
-    }
+  thead {
+      display: table-header-group; /* h5bp.com/t */
+  }
 
-    tr,
-    img {
-        page-break-inside: avoid;
-    }
+  tr,
+  img {
+      page-break-inside: avoid;
+  }
 
-    img {
-        max-width: 100% !important;
-    }
+  img {
+      max-width: 100% !important;
+  }
 
-    @page {
-        margin: 0.5cm;
-    }
+  @page {
+      margin: 0.5cm;
+  }
 
-    p,
-    h2,
-    h3 {
-        orphans: 3;
-        widows: 3;
-    }
+  p,
+  h2,
+  h3 {
+      orphans: 3;
+      widows: 3;
+  }
 
-    h2,
-    h3 {
-        page-break-after: avoid;
-    }
+  h2,
+  h3 {
+      page-break-after: avoid;
+  }
 }
