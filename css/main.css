@@ -51,6 +51,12 @@ fieldset {
 textarea {
     resize: vertical;
 }
+/* ===============
+    ALL: IE Fixes
+   =============== */
+.ie7 .title {
+    padding-top: 20px;
+}
 
 /* =====================================================
     BLOG
@@ -95,18 +101,14 @@ textarea {
 .post article {
   border-bottom: none;
 }
-
-.blog-teaser {
-
-}
 .blog-teaser h3 {
   text-transform: uppercase;
 }
 .blog-teaser .teaser-date {
-  border-top: solid 1px lightgray;
-  color: lightgray;
   width: 13em;
   padding-top: .6em;
+  border-top: solid 1px lightgray;
+  color: lightgray;
 }
 .blog-share {
   margin: 4em 0;
@@ -132,10 +134,13 @@ textarea {
   margin: 0 5%;
 }
 
-/* ===================
-    ALL: Orange Theme
-   =================== */
-
+.header-container {
+  transition: all .5s ease;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transistion: all .5s ease;
+}
+.header-container,
 .footer-container,
 .arrow-white {
     background-color: #de390c;
@@ -143,27 +148,10 @@ textarea {
 .index .header-container {
   padding-bottom: .6em;
 }
-/* smaller pages */
-.page .header-container {
-  position: static;
-  background-color: rgb(222, 57, 12, 1);
-  /* background-color: rgba(211, 54, 11, 1); */
-}
 
-/* index */
-.header-container {
-  /*position: fixed;
-  top:0;
-  left: 0;
-  right: 0;
-  z-index: 99;*/
-  background-color: #de390c;
-  /* background-color: rgba(211, 54, 11, .9); */
-  transition: all .5s ease;
-  -webkit-transition: all .5s ease;
-  -moz-transition: all .5s ease;
-  -o-transistion: all .5s ease;
-}
+/* ===================
+    Main navigation
+   =================== */
 .logo-nav {
   margin: 0;
   padding: 0;
@@ -183,23 +171,26 @@ textarea {
   background-color: rgba(182, 57, 12, 1)
 }
 .hamburger {
-  width: 2.5em;
-  height: 2.5em;
   position: absolute;
   top: 1em;
   right: 1em;
+  width: 2.5em;
+  height: 2.5em;
   background-color: white;
   cursor: pointer;
 }
 .hamburger i {
   display: block;
-  margin: auto;
-  margin-top: .8em;
+  margin: .8em auto 0;
   width: 1.3em;
   height: .15em;
   border-top: solid rgba(222, 57, 12, 0.9) .2em;
   border-bottom: double rgba(222, 57, 12, 0.9) .5em;
 }
+
+/* ===================
+    Frontpage
+   =================== */
 .keyvisual {
   position: relative;
   top: -70px;
@@ -215,9 +206,9 @@ textarea {
   content: '';
   position: absolute;
   bottom: 0;
-  background: url(../img/wavy-border.png) repeat-x;
   height: 55px;
   width: 100%;
+  background: url(../img/wavy-border.png) repeat-x;
 }
 .hero {
   min-height: 24em;
@@ -231,8 +222,8 @@ textarea {
 }
 .hero-sub:before {
   content: "";
-  display: block;
   position: absolute;
+  display: block;
   left: 44%;
   margin-top: -3em;
   width: 48px;
@@ -282,7 +273,6 @@ textarea {
   margin-bottom: 4em;
   border-top: 4px solid #de390c;
 }
-
 
 /* ===================
     FAQ Accordion
@@ -345,17 +335,12 @@ textarea {
     border-radius: 5px;
 }
 
-.header-container ul,
-.footer-container ul {
-    margin: 0;
-    padding: 0;
-}
-.footer-container { padding-bottom: 1em; padding-top: 2em; clear: both; }
-.footer-container .nav-meta a { color: white; font-weight: normal; text-decoration: none }
-.footer-container .nav-meta a:hover { text-decoration: underline; }
-.footer-container p { margin-top: 4em; font-size: 0.9em; }
-.footer-container .wrapper {position: relative; }
 
+/* ===================
+    Buttons (Call to action) 
+   =================== */
+/* credits for button effect go to
+http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-and-rgba */
 a.button {
   display: inline-block;
   margin: 2em 1em 0 0;
@@ -373,18 +358,12 @@ a.button {
   border-radius: 10px;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
 }
-
-/* credits for button effect go to
-http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-and-rgba */
-
 .button:hover {
   text-decoration: none;
   color: white;
   -webkit-box-shadow: inset 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
   box-shadow: inset 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
-
 }
-
 .button:active {
   text-decoration: none;
   position: relative;
@@ -393,7 +372,6 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
   -moz-box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
   box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
 }
-
 .button:active:after {
   content: "";
   width: 100%;
@@ -403,33 +381,10 @@ http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-a
   bottom: -1px;
   left: 0;
 }
-
 .title {
     color: white;
 }
-/* ==============
-    MOBILE: Main
-   ============== */
 
-.footer-container footer {
-    color: white;
-    padding-top: 1em;
-}
-.footer-container footer a {
-  color: white;
-  text-decoration: underline;
-}
-/* ===============
-    ALL: IE Fixes
-   =============== */
-
-.ie7 .title {
-    padding-top: 20px;
-}
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
 
 aside {
   margin-top: 50px;
@@ -481,6 +436,30 @@ ul {
   width: 100%;
   float: none;
 }
+
+/* ===============
+    HEADER FOOTER
+   =============== */
+
+.header-container ul {
+  margin: 0;
+  padding: 0;
+}
+.footer-container { 
+  padding-bottom: 1em; 
+  padding-top: 2em; 
+  clear: both; 
+}
+.footer-container .wrapper {
+  position: relative;
+  color: white;
+  padding-top: 1em;
+}
+.footer-container .wrapper a {
+  color: white;
+  text-decoration: underline;
+}
+
 /* ===============
     SIDEBARS
    =============== */
@@ -556,41 +535,6 @@ ul {
     text-indent: 99em;
     overflow: hidden;
 }
-.social-media ul {
-    margin-top: 1em;
-    padding: .4em 1em .2em;
-    width: 10em;
-    background: rgba(255, 255, 255, 0.6);
-    list-style-type: none;
-    border-radius: 8px;
-}
-.social-media ul li {
-    float: left;
-    margin-right: .5em;
-}
-.arrow-white, .arrow-red {
-    width: 7em;
-    height: 2.7em;
-    border-bottom-left-radius: 8px;
-    border-bottom-right-radius: 8px;
-}
-.arrow-white {
-    background-image: url(../img/sprites/arrow_down.png);
-    background-repeat: no-repeat;
-    background-position: 28px 5px;
-}
-.arrow-red {
-    background-image: url(../img/sprites/arrow_down_red.png);
-    background-repeat: no-repeat;
-    background-color: white;
-    background-position: 28px 5px;
-}
-.arrow-white a, .arrow-red a {
-  padding: 1.5em 3.5em;
-  text-indent: 99em;
-  overflow: hidden;
-}
-
 
 /* ==========================================================================
    SCRIBBLES
@@ -642,7 +586,6 @@ ul {
   width: 100%;
   padding-left: 0px;
 }
-
 .container ul.donation-plans li {
   display: inline-block;
   position: relative;
@@ -657,53 +600,40 @@ ul {
   margin-bottom: 2em;
   text-align: center;
 }
-
 .container ul.donation-plans li:before {
   content: "";
   color: white;
 }
-
 .container ul.donation-plans li {
   padding-top: 20px;
 }
-
 .container ul.donation-plans p {
   text-align: left;
 }
-
 #sponsoring {
   position: relative;
 }
-
 ul.donation-plans .donate-button {
-  /* position: absolute; */
-  /* bottom: 0px; */
-  /* left: 15px; */
   margin: 0 auto;
   text-align: center;
   width: 180px;
   margin-bottom: 15px;
 }
-
 .donate-button.button {
   position: relative;
   top: -3px;
   font-size: 1em;
   padding: 15px;
 }
-
 ul.donation-plans a.button:active {
   position: inherit;
 }
-
 .custom-donation {
   margin-bottom: 1em;
 }
-
 .custom-donation .button {
   margin-top: 0;
 }
-
 .custom-donation input[type=number] {
   height: 50px;
   padding: 0px 10px;
@@ -711,11 +641,9 @@ ul.donation-plans a.button:active {
   width: 120px;
   margin-right: 20px;
 }
-
 .footnote {
   font-size: 90%;
 }
-
 .stripe-note {
   margin-top: 0px;
   color: #bbb;
@@ -726,12 +654,9 @@ ul.donation-plans a.button:active {
 }
 
 
-
 /* ==========================================================================
    Sponsors
    ========================================================================== */
-.sponsors {
-}
 .sponsors a {
   display: inline-block;
   border-radius: 5px;
@@ -814,14 +739,10 @@ ul.donation-plans a.button:active {
 
 
 /* ==========================================================================
-   Media Queries
+   Media Queries ----- 480px
    ========================================================================== */
 
 @media only screen and (min-width: 480px) {
-
-/* ====================
-    INTERMEDIATE: Menu
-   ==================== */
 
     .summer_of_code {
       float: left;
@@ -842,39 +763,35 @@ ul.donation-plans a.button:active {
     .hero-sub:before {
       left: 49%;
     }
-/* ====================
-    INTERMEDIATE: Sponsors
-   ==================== */
-
     .sponsors div {
         width: 33%;
     }
 
 }
 
+/* ==========================================================================
+   Media Queries ----- 768px
+   ========================================================================== */
 @media only screen and (min-width: 768px) {
 
-
-/* ============
-    WIDE: Menu
-   ============ */
-   .logo {
-      background-image: url(../img/sprites/logo_start.png);
-      background-position: 0px 0px;
-      margin: 1em 0em 3em;
-      width: 675px;
-      height: 165px;
-   }
-   .hero {
+  .logo {
+    background-image: url(../img/sprites/logo_start.png);
+    background-position: 0px 0px;
+    margin: 1em 0em 3em;
+    width: 675px;
+    height: 165px;
+  }
+  .logo-nav { float: left; }
+  .hero {
     margin-left: -3em;
     padding-left: 7em;
     margin-right: -3em;
     padding-right: 8em;
     background: url(../img/scribbles-frontpage.png) no-repeat scroll 52% 0% transparent;
-   }
-   .hamburger {
+  }
+  .hamburger {
     display: none;
-   }
+  }
   .nav-primary > ul {
     display: block;
     position: relative;
@@ -905,21 +822,21 @@ ul.donation-plans a.button:active {
     text-decoration: underline;
   }
   .nav-primary > ul > li a.current-page {
+    padding-bottom: 1.2em;
     background-image: url(../img/sprites/nav_active_arrow.png);
     background-repeat: no-repeat;
     background-position: center 41px;
     text-decoration: none;
-    padding-bottom: 1.2em;
   }
   .nav-primary > ul > li > ul {
     display: none;
   }
   .nav-primary > ul > li:hover ul {
-    display: block;
-    background-color: #de390c;
     position: absolute;
+    display: block;
     z-index: 99;
     margin-left: -2em;
+    background-color: #de390c;
   }
   .nav-primary > ul > li:hover ul li {
     display: block;
@@ -931,85 +848,47 @@ ul.donation-plans a.button:active {
   .nav-primary > ul > li li a {
     padding: 0.5em 2em;
   }
-   .slide1 {
-       background-image: url(../img/workshop2.jpg);
-   }
-   .slide3 {
-       background-image: url(../img/workshop1.jpg);
-   }
-    .title {
-        float: left;
-        margin-top: 57px;
-    }
 
-    .summer_of_code {
-      float: right;
-      margin-right: 52px;
-    }
-
-    .summer_of_code img {
-      width: 100%;
-    }
-
-/* ============
-    WIDE: Main
-   ============ */
-
-    .content {
-      width: 65%;
-      float: left;
-    }
-    .sidebar {
-      width: 27%;
-      float: right;
-    }
-    .content-blog {
-      width: 60%;
-      overflow: auto;
-    }
-    .sidebar-blog {
-      position: absolute;
-      top: 9em;
-      right: 0;
-      width: 27%;
-      margin-right: 2em;
+  .content {
+    width: 65%;
+    float: left;
+  }
+  .sidebar {
+    width: 27%;
+    float: right;
+  }
+  .content-blog {
+    width: 60%;
+    overflow: auto;
+  }
+  .sidebar-blog {
+    position: absolute;
+    top: 9em;
+    right: 0;
+    width: 27%;
+    margin-right: 2em;
+    text-align: right;
+  }
+  .blog .content {
+    min-height: 134em;
+  }
+  .related {
       text-align: right;
-    }
-    .blog .content {
-      min-height: 134em;
-    }
-    .related {
-        text-align: right;
-    }
+  }
 
-    .nav-primary { float: right; }
-    .nav-primary ul { text-align: right; }
-    /*.header-container { height: 4.1em; }*/
-    .logo-nav { float: left; }
+  .page-campaign .scribble8 {
+    float: right;
+  }
 
-    .no-scroll .logo-nav {
-      /*display: block;*/
-    }
-    .container.slide0 { min-height: 25em; }
-
-    .page-campaign .scribble8 {
-      float: right;
-    }
-
-/* ====================
-    WIDE: Sponsors
-   ==================== */
-
-    .sponsors div {
-        width: 33%;
-    }
+  .sponsors div {
+      width: 33%;
+  }
 }
 
+/* ==========================================================================
+   Media Queries ----- 1140px
+   ========================================================================== */
 @media only screen and (min-width: 1140px) {
-
-/* ===============
-    Maximal Width
-   =============== */
 
    .logo {
        margin: 2em 0em 3em;
@@ -1034,10 +913,6 @@ ul.donation-plans a.button:active {
     .blog .content {
       min-height: 115em;
     }
-
-/* ====================
-    Maximal: Sponsors
-   ==================== */
 
     .sponsors div {
         width: 20%;
