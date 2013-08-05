@@ -158,7 +158,7 @@ textarea {
 
 .footer-container,
 .arrow-white {
-    background-color: rgba(222, 57, 12, 1);
+    background-color: #de390c;
 }
 .index .header-container {
   padding-bottom: .6em;
@@ -177,7 +177,7 @@ textarea {
   left: 0;
   right: 0;
   z-index: 99;*/
-  background-color: rgba(222, 57, 12, 1);
+  background-color: #de390c;
   /* background-color: rgba(211, 54, 11, .9); */
   transition: all .5s ease;
   -webkit-transition: all .5s ease;
@@ -262,7 +262,7 @@ textarea {
 }
 .hero-claim {
   font-size: 18px;
-  color: #dc3a0c;
+  color: #de390c;
   margin-top: 1em;
 }
 .hero h1 {
@@ -276,7 +276,7 @@ textarea {
   line-height: 42px;
 }
 .hero h1, .hero h2 {
-  color: #dc3a0c;
+  color: #de390c;
   text-shadow: 3px 3px #fce2c1;
 }
 .star-red {
@@ -290,6 +290,7 @@ textarea {
 /* ===================
     New page layout
    =================== */
+
 .content h1, .content h2, .content h3, .content h4 {
   color: #370d01;
 }
@@ -299,20 +300,20 @@ textarea {
 }
 .index .main .content {
   margin-bottom: 4em;
-  border-top: 4px solid #dc3a0c;
+  border-top: 4px solid #de390c;
 }
-
-
-
 
 
 /* ===================
     FAQ Accordion
    =================== */
 
-.content h3 {
+.page-faq h3 {
+  margin: 2em 0;
+  padding: 0 3.5em;
   color: #de390c;
   font-size: 1.4em;
+  text-indent: -3.5em;
 }
 .accordion h3:hover {
   cursor: pointer;
@@ -523,7 +524,7 @@ ul {
 }
 .frontpage-sidebar {
   margin-bottom: 4em;
-  border-top: solid 4px #dc3a0c;
+  border-top: solid 4px #de390c;
 }
 .frontpage-sidebar .blogroll {
   margin: 0;
@@ -650,38 +651,7 @@ ul {
 }
 
 /* ==========================================================================
-   PARALLAX ELEMENTS
-   ========================================================================== */
-.container {
-    min-height: 25em;
-    padding-bottom: 0em;
-}
-.container.slide0 {
-  min-height: 18em;
-}
-.slide1, .slide3 {
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    min-height: 30em;
-}
-.slide1 {
-    background-image: url(../img/workshop2_small.jpg);
-
-}
-.slide3 {
-    background-image: url(../img/workshop1_small.jpg);
-
-}
-.page-faq h3 {
-    margin: 2em 0;
-    padding: 0 3.5em;
-    text-indent: -3.5em;
-}
-
-/* ==========================================================================
-   Campaign styles
+   Campaign styles: ;
    ========================================================================== */
 
 .donation-plans {
@@ -966,7 +936,7 @@ ul.donation-plans a.button:active {
   }
   .nav-primary > ul > li:hover ul {
     display: block;
-    background-color: rgba(222, 57, 12, 1);
+    background-color: #de390c;
     position: absolute;
     z-index: 99;
     margin-left: -2em;
