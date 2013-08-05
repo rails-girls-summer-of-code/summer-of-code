@@ -533,6 +533,7 @@ ul {
   width: 100%;
   float: none;
   clear: both;
+  margin-bottom: 3em;
 }
 .related {
 	margin-bottom: 5em;
