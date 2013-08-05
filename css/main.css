@@ -236,13 +236,8 @@ textarea {
   width: 100%;
 }
 .hero {
-  margin-left: 7em;
-  padding-left: 7em;
-  margin-right: 7em;
-  padding-right: 7em;
   min-height: 24em;
   text-align: center;
-  background: url(../img/scribbles-frontpage.png) no-repeat;
 }
 .hero-sub {
   color: #380c01;
@@ -254,7 +249,7 @@ textarea {
   content: "";
   display: block;
   position: absolute;
-  left: 49%;
+  left: 44%;
   margin-top: -3em;
   width: 48px;
   height: 35px;
@@ -269,10 +264,12 @@ textarea {
 .hero h1 {
   font-size: 75px;
   margin-bottom: 0em;
+  line-height: 67px
 }
 .hero h2 {
   font-size: 43px;
   margin-bottom: .7em;
+  line-height: 42px;
 }
 .hero h1, .hero h2 {
   color: #dc3a0c;
@@ -786,7 +783,12 @@ ul {
        width: 675px;
        height: 165px;
     }
-
+    .hero h1, .hero h2 {
+      line-height: 30px;f
+    }
+    .hero-sub:before {
+      left: 49%;
+    }
 /* ====================
     INTERMEDIATE: Sponsors
    ==================== */
@@ -809,6 +811,13 @@ ul {
       margin: 1em 0em 3em;
       width: 675px;
       height: 165px;
+   }
+   .hero {
+    margin-left: -3em;
+    padding-left: 7em;
+    margin-right: -3em;
+    padding-right: 8em;
+    background: url(../img/scribbles-frontpage.png) no-repeat scroll 52% 0% transparent;
    }
    .hamburger {
     display: none;
