@@ -482,6 +482,10 @@ ul {
   padding: 0;
   border-top: solid 4px #de390c;
 }
+.blog .newsletter {
+  padding: 1em 0 2em;
+  border-top: solid 1px lightgray;
+}
 
 /* ============
     SPRITES
