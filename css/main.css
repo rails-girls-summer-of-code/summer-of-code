@@ -477,6 +477,11 @@ ul {
 .related ul li:before {
 	content: '';
 }
+.newsletter {
+  margin: 4em 0 0;
+  padding: 0;
+  border-top: solid 4px #de390c;
+}
 
 /* ============
     SPRITES
