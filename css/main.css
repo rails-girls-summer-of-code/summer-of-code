@@ -329,36 +329,34 @@ a.button {
   text-decoration: none;
   font-size: 1.2em;
   font-weight: normal;
+  font-family: Interstate;
   -webkit-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
   box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
-  border-radius: 10px;
-  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
 }
 .button:hover {
+  color: white;
+  text-decoration: none;
+}
+.button:active {
   text-decoration: none;
   color: white;
   -webkit-box-shadow: inset 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
   box-shadow: inset 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
-.button:active {
-  text-decoration: none;
-  position: relative;
-  top: 5px;
-  -webkit-box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
-  -moz-box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
-  box-shadow: inset 0px -3px 1px rgba(255, 255, 255, 1), inset 0 0px 3px rgba(0, 0, 0, 0.9);
+.button:hover .icon-star-white {
+  opacity: 1;
 }
-.button:active:after {
-  content: "";
-  width: 100%;
-  height: 3px;
-  background: #fff;
-  position: absolute;
-  bottom: -1px;
-  left: 0;
+.icon-star-white {
+  display: inline-block;
+  width: 13px;
+  height: 12px;
+  margin: 0em .2em .1em .6em;
+  opacity: 0;
+  background-image: url(/img/star.png);
 }
 .title {
     color: white;
