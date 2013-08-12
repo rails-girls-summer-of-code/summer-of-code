@@ -16,7 +16,9 @@ For some of us last week started like this:
 But there’s nothing that couldn’t be sweetened with a delicious lunch. And thus started another week full of monster coding and learning many and more new things. 
 
 <img src="https://f.cloud.github.com/assets/1711357/946049/16a70bf6-0326-11e3-8861-0f4a6add5fdb.jpg" width="500">
-
+<br>
+<font color="grey" size="2px"><i>Some wonderful people from the Rails Girls universe (Berlin, Brno, Rotterdam and RGSoC)</i>
+</font>
 
 ###Happy Conferencing
 
