@@ -21,33 +21,39 @@ Wiktoria
 <p style="text-align: right">
 3.06.2013<br />
 Heja hej,<br />
-That would be awesome, but I’ve got to find some job for the holidays. Poor students, you get it ;) So maybe one evening in the week together? try to code or sth?</p>
+That would be awesome, but I’ve got to find some job for the holidays. Poor students, you get it ;) So maybe one evening in the week together? try to code or sth?<br />
+Alicja</p>
 
 3.06.2013<br />
-That sounds great! But I’ve sth better :D Why don’t we take part in Rails Girls Summer of Code? I’ve heard about it at <a href="http://www.railsberry.com/">Railsberry</a> and the idea is more than coool :) We will work together on an open-source project :) Maybe even with <a href="https://twitter.com/agnessa480">Agnieszka Figiel</a>, who gave talk at Railsberry :) BTW, I met her a few days earlier while <a href="http://railsgirls.com/krakow2013">Rails Girls Kraków</a> - she coached as well as I did.
+That sounds great! But I’ve sth better :D Why don’t we take part in Rails Girls Summer of Code? I’ve heard about it at <a href="http://www.railsberry.com/">Railsberry</a> and the idea is more than coool :) We will work together on an open-source project :) Maybe even with <a href="https://twitter.com/agnessa480">Agnieszka Figiel</a>, who gave talk at Railsberry :) BTW, I met her a few days earlier while <a href="http://railsgirls.com/krakow2013">Rails Girls Kraków</a> - she coached as well as I did.<br />
+Wiktoria
 
 <p style="text-align: right">
 4.06.2013<br />
-it’s in pairs, isn’t it? Wiktoria, you know that I love you, but you know as well that I’m not on THAT level on programming. Not for such a big project. And the thing is that I don’t want to spoil it, to crush your thing. I can help you if I know sth, but you should look for someone else. I’m not the best person for RGSoC.</p>
+it’s in pairs, isn’t it? Wiktoria, you know that I love you, but you know as well that I’m not on THAT level on programming. Not for such a big project. And the thing is that I don’t want to spoil it, to crush your thing. I can help you if I know sth, but you should look for someone else. I’m not the best person for RGSoC.<br />
+Alicja</p>
 
 4.06.2013<br />
-No, Alicja, no. You’re great and it is also said, that it’s for beginners, so the goal is to learn. We can do it!
+No, Alicja, no. You’re great and it is also said, that it’s for beginners, so the goal is to learn. We can do it!<br />
+Wiktoria
 
 <p style="text-align: center"><i>
 //and here several mails W: We can do it! A: Noooo... My skills suck, no waaaay....<br />
 // Finally...</i></p>
 
 4.06<br />
-Can I just apply for yuo and me? Please? Time is short.
+Can I just apply for yuo and me? Please? Time is short.<br />
+Wiktoria
 
 <p style="text-align: right">
 5.06<br />
-OK.
+OK.<br />
+Alicja
 </p>
 6.06.2013<br />
-I sent it! We’ll see. If yes - cool, if not - cool.
+I sent it! We’ll see. If yes - cool, if not - cool.<br />
+Wiktoria
 </div>
-<br />
 <br />
 
 <div class="content">
