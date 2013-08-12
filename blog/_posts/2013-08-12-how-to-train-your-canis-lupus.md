@@ -14,7 +14,7 @@ twitter: wdalach
 <div class="mails">
 3.06.2013<br />
 Hej, Alicja!<br />
-do you have any plans for the Summer? maybe you would like to learn something?
+Do you have any plans for the Summer? maybe you would like to learn something?
 Hugs and kisses,<br />
 Wiktoria
 
