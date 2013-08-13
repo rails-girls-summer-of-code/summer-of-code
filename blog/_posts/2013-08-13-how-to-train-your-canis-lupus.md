@@ -56,13 +56,11 @@ Wiktoria
 </div>
 <br />
 
-<div class="content">
 
-  :)
 
-  ...and that was how the stoty begins :) We got the opportunity to work on the Species+ project. Its goal is to create a nice and readable visualization for endangered species in Poland , based on the UNEP-WCMC api.<br />
+...and that was how the stoty begins :) We got the opportunity to work on the Species+ project. Its goal is to create a nice and readable visualization for endangered species in Poland , based on the UNEP-WCMC api.<br />
 
-  Things we’ve learned so far:
+Things we’ve learned so far:
   <ul>
     <li> error messages don’t bite.</li>
     <li> don’t panic! and ask your friends around you (don’t code alone!) </li>
@@ -70,11 +68,9 @@ Wiktoria
     <li> community rocks! People want to help you. Gratuitously. For love. Having no buisiness.</li>
     <li> if you want to do something, and you think “no, it’s not possible”, it means you simply didn’t dig through a documentation or Google uncle enough. </li>
   </ul>
+<strong> Making it short: RASP! (read, ask, StackOverflow, post) </strong>
 
-  <strong> Making it short: RASP! (read, ask, StackOverflow, post) </strong>
-
-
-  <div class="happy_moments">
+<div class="happy_moments">
     <h3> Happy moments: </h3>
 
     Wiktoria: I’ve had many happy moments so far. The first one - when we got accepted for being Rails Girls coaches in Poznań :) Then came hard times on parser, and when it finally put out what we wanted I was very happy! Wining tickets for dotRB conference made my week. And my little triumph - when I explained, like a pro, a Java programmer, what Ruby is and where can be used :)
@@ -96,4 +92,4 @@ Wiktoria
     I would solve the travelling salesman problem.
   </div>
 
-</div>
+

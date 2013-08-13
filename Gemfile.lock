@@ -23,8 +23,11 @@ GEM
       safe_yaml (~> 0.7.0)
     kramdown (1.0.2)
     liquid (2.5.0)
+    lolize (0.0.3)
+      paint (~> 0.8.3)
     maruku (0.6.1)
       syntax (>= 1.0.0)
+    paint (0.8.6)
     posix-spawn (0.3.6)
     pygments.rb (0.5.0)
       posix-spawn (~> 0.3.6)
@@ -43,6 +46,7 @@ DEPENDENCIES
   geocoder
   jekyll (= 1.0.2)
   liquid (= 2.5.0)
+  lolize
   maruku (= 0.6.1)
   rdiscount (= 1.6.8)
   redcarpet (= 2.2.2)
