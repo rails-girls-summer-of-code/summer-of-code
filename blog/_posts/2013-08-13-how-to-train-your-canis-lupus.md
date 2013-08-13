@@ -7,7 +7,7 @@ current: blog
 author: Alicja and Wiktoria
 twitter: wdalach
 ---
-<img src="https://dl.dropboxusercontent.com/u/29030168/rgsoc_team.gif" alt="Species_plus_team" />
+<img src="https://dl.dropboxusercontent.com/u/29030168/rgsoc_team.gif" alt="Species_plus_team" width="500">
 <br />
 <br />
 
