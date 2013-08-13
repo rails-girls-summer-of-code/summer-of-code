@@ -90,6 +90,14 @@ Things we’ve learned so far:
     <br />
     Wiktoria:
     I would solve the travelling salesman problem.
-  </div>
 
+  
 
+</br></br>
+<font color="grey" size="2px"><i>Follow Team Species+ on Twitter: 
+    <a href="http://twitter.com/wdalach">@wdalach</a>
+     <a href="http://twitter.com/bike_lover_ka">@bike_lover_ka</a> and 
+    read their <a href="http://dalach.blogspot.com/search/label/RGSoC">blog</a>.</i>
+</font>
+    
+</div>
