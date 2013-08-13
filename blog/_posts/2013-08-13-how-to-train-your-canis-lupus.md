@@ -1,7 +1,7 @@
 ---
 title: How to train your Canis lupus
 layout: post
-created_at: Mon Aug 12 2013
+created_at: Mon Aug 13 2013
 permalink: blog/how-to-train-your-canis-lupus
 current: blog
 author: Alicja and Wiktoria
