@@ -1,8 +1,8 @@
 --
-title: Get your nerd on!
+title: "Get your nerd on!"
 layout: post
 created_at: Fri Aug 16 2013
-permalink: blog/nerdie
+permalink: blog/get-your-nerd-on
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
