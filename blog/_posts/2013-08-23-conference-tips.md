@@ -27,7 +27,7 @@ So here we have a small conference prep package for you! We stuffed it with the 
 Lucas Pinto: *"My biggest tip would be not to be shy and go talk to people, make connections. A lot of people go to conferences not for the talks but mostly to meet fellow devs. It is always very inspiring and you always meet nice people. So if you come in gang, try not to stick with them 100% of the time plus it is easy to find an opener at a conf "hey, where do you come from, are you here alone/with your company, who do you work for, do you know the city well, etc. etc."*
 
 
-Anika Lindtner: *"Most important for me was to keep in mind, that the people around are eager to get to know you, too. Conferences are great for meeting people and mingle. Always check out the hashtag for the conference, so you'll stay in the loop with what's happening. Have your phone always with you and do a lot of funny friday-hug-pics. It's a great way to spread the joy, have some fun with others - and it's a super cool souvenir. Oh and don't forget this last thing: Enjoy yourself! \<3"*
+Anika Lindtner: *"Most important for me was to keep in mind, that the people around are eager to get to know you, too. Conferences are great for meeting people and mingle. Always check out the hashtag for the conference, so you'll stay in the loop with what's happening. Have your phone always with you and do a lot of funny friday-hug-pics. It's a great way to spread the joy, have some fun with others - and it's a super cool souvenir. Oh and don't forget this last thing: Enjoy yourself!"*
 
 
 &#9733; [8 ways to rock a tech conference](http://skillcrush.com/2012/10/10/8-ways-to-rock-a-tech-conference-how-to-network-your-butt-off-or-how-to-make-new-friends-while-at-a-conference/) by Scillcrush
