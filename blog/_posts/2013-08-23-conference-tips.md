@@ -2,7 +2,7 @@
 title: "How to go to a conference"
 layout: post
 created_at: Fri Aug 23 2013
-permalink: blog/how-to-go-to-a-conference
+permalink: blog/conference-tips
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
