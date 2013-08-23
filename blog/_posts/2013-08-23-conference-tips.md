@@ -9,7 +9,7 @@ twitter: railsgirlssoc
 ---
 
 
-The fist time is always special. And the time after that. And the time after that.
+The first time is always special. And the time after that. And the time after that.
 Going to a conference - and maybe even giving a talk - can be loads of fun, scary, exhilarating and exhausting together.
 
 So here we have a small conference prep package for you! We stuffed it with the best tips & tricks especially on how to give great talks and in general how to make these couple of (conference)days to the best of your life.
