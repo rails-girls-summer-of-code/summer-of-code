@@ -53,7 +53,7 @@ Test running your talk by your friends or (if you have the chance) a local ruby 
 AND: don't do a live demo unless you're absolutely certain it (/ wifi) will work / you pre-recorded it (cook show style)."*
 
 
-&#9733; **How to give a great talk** by Caroline Drucker 
+&#9733; **How to give great talks** by Caroline Drucker 
 
 <object width="560" height="315"><param name="movie" value="//www.youtube.com/v/2H36kbMMrZo?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/2H36kbMMrZo?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
