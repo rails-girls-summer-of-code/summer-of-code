@@ -10,7 +10,7 @@ twitter: s_jain1107 and pallavi_shastry
 
 We are Pallavi and Sakshi [Team Diasbits](http://defendingdiaspora.wordpress.com/). We started our summer of code. The name Diasbits, as we are contributing a bit to [diaspora*](https://github.com/diaspora/diaspora), the privacy-aware, decentralized social network. Also, Diasbits, came to our mind as assembling bits of diaspora* to enhance it's developement.
 
-<img src ="/img/20130804_172547 (copy).jpg" alt="Pallavi and Sakshi together in Bangalore" width = "500">
+<img src ="/img/20130804_172547 (copy).jpg" alt="Pallavi and Sakshi together in Bangalore" width = "500" height = "300">
 
 **Sakshi:** I had started coding in Ruby a few months before I got to know about RGSoC. The Rails Girls Summer of Code was introduced to me by our coach Arihant. I applied for RGSoC to get in touch with the open source and do wonders.
 
@@ -22,8 +22,8 @@ So far, we have been able to finish our project on [Rails Girls Rails App Genera
 
 The mid-July to mid-August, was a period of workshops, seminars, meetings, interactions and what not. :) We attended the Rails Girls workshop, Mysore, Rails Girls event, Bangalore, Jaipur Ruby users group meetup, FSMK (Blender sessions, 9 days workshop).
 
-<img src ="/img/2013-07-21 10.20.41.jpg" alt="Mysore Rails Workshop" width = "500">
-<img src ="/img/Bangalore_workshop.jpg" alt="Rails Girls Event, Bangalore" width = "500">
+<img src ="/img/2013-07-21 10.20.41.jpg" alt="Mysore Rails Workshop" width = "500" height = "300">
+<img src ="/img/Bangalore_workshop.jpg" alt="Rails Girls Event, Bangalore" width = "500" height = "300">
 
 
 
