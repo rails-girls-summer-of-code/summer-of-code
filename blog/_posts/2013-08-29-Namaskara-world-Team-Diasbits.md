@@ -8,7 +8,7 @@ author: Sakshi and Pallavi
 twitter: s_jain1107 and pallavi_shastry
 ---
 
-We are Pallavi and Sakshi [Team Diasbits](http://defendingdiaspora.wordpress.com/). We started our summer of code. The name Diasbits, as we are contributing a bit to [diaspora*](https://github.com/diaspora/diaspora), the privacy-aware, decentralized social network. Also, Diasbits, came to our mind as assembling bits of diaspora* to enhance its developement.
+We are Pallavi and Sakshi [Team Diasbits](http://defendingdiaspora.wordpress.com/). The name Diasbits, as we are contributing a bit to [diaspora*](https://github.com/diaspora/diaspora), the privacy-aware, decentralized social network. Also, Diasbits, came to our mind as assembling bits of diaspora* to enhance its developement.
 
 <img src ="https://f.cloud.github.com/assets/4617609/1040803/1b694b66-0fc1-11e3-941f-cca6b365c978.jpg" alt="Pallavi and Sakshi together in Bangalore" width = "500" height = "400">
 
