@@ -718,6 +718,14 @@ ul.donation-plans a.button:active {
 .sponsors .cssconf         { background-image: url(../img/confs/cssconf.png); }
 
 
+.nerdies img {
+  width: 100%;
+  height: auto;
+}
+.blog .nerdies {
+  margin: 2em 0 3em;
+}
+
 
 /* ==========================================================================
    Media Queries ----- 480px
