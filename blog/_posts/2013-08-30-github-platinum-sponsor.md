@@ -1,7 +1,7 @@
 ---
 title: Meet our Platinum Spoonsor: GitHub
 layout: post
-created_at: Tue August 27 2013
+created_at: Fri August 30 2013
 permalink: blog/github-platinum-sponsor
 current: blog
 author: Alexandra
