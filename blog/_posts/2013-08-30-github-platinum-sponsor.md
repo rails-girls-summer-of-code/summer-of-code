@@ -12,8 +12,8 @@ Hands up, who hasn't heard of GitHub? We probably won't see that many raising th
  
 
 
-<a href="github.com"> 
-		<img src="../img/sponsors/octocat.png" alt="Octocat GitHub logo" title="Octocat" width="300px" align="left">
+<a href="http://github.com"> 
+		<img src="https://f.cloud.github.com/assets/1711357/1057737/8276498e-117a-11e3-9737-d548ef46f0f6.png" alt="Octocat GitHub logo" title="Octocat" width="300px" align="left">
 </a>
 
 
