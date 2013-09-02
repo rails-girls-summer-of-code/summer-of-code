@@ -250,14 +250,20 @@ textarea {
   margin-bottom: 0em;
   line-height: 67px
 }
-.hero h2 {
+.hero h2, .hero-title {
   font-size: 43px;
   margin-bottom: .7em;
   line-height: 42px;
 }
-.hero h1, .hero h2 {
+.hero h1, .hero h2, .hero-title {
   color: #de390c;
   text-shadow: 3px 3px #fce2c1;
+}
+.hero-title {
+  margin-bottom: .3em;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
 }
 .star-red {
   display: inline-block;
@@ -265,6 +271,12 @@ textarea {
   height: 14px;
   margin: 0 1.3em;
   background: url(../img/star-red.png) no-repeat;
+}
+.sponsors-starrow {
+  width: 435px;
+  height: 19px;
+  display: inline-block;
+  background: url(../img/starsrow.png) no-repeat;
 }
 
 /* ===================
@@ -726,6 +738,27 @@ ul.donation-plans a.button:active {
   margin: 2em 0 3em;
 }
 
+.sponsors-intro {
+  margin-bottom: 5em;
+}
+.sponsors-list ul {
+  padding: 0; 
+  margin: 2em 0 3em;
+  border-top: 1px solid lightgray;
+}
+.sponsors-list li {
+  overflow: auto;
+  clear: both;
+  list-style-type: none;
+  border-bottom: 1px solid lightgray;
+}
+.center-helper {
+  text-align: center;
+}
+.sponsors-logo {
+  padding: 1em 0;
+}
+
 
 /* ==========================================================================
    Media Queries ----- 480px
@@ -871,6 +904,14 @@ ul.donation-plans a.button:active {
 
   .sponsors div {
       width: 33%;
+  }
+  .sponsors-logo {
+    float: left;
+    width: 20%;
+  }
+  .sponsors-text {
+    float: right;
+    width: 65%;
   }
 }
 
