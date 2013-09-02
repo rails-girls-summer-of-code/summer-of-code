@@ -30,7 +30,6 @@ The mid-July to mid-August, was a period of workshops, seminars, meetings, inter
 
 Currently, we are working on a few diaspora* issues and features like
 [adding an ignore user icon on the profile page of a user](https://github.com/diaspora/diaspora/pull/4417#issuecomment-23010511), 
-<br>
 [adopt a pull request](https://github.com/diaspora/diaspora/issues/4340).
 
 We chose to work for Rails Girls App Generator as it seemed to be easy for the beginners and diaspora* because it gives us immense exposure to open source and to the concept of decentralization of data.  
