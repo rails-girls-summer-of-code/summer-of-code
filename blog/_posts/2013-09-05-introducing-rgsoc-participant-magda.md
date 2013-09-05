@@ -12,4 +12,4 @@ If I could code anything in the world I would bootstrap my lucrative startup. Th
 A big thanks to the people who rescued me from beginer frustration and helped me understand what is going on: Bartek, John, Chris, Mateusz - you saved my passion for coding. Thank you!
 
 
-              ![magda](https://f.cloud.github.com/assets/2530057/1087488/77357efc-1619-11e3-81c4-ed2baa290a64.jpg)
+           ![magda](https://f.cloud.github.com/assets/2530057/1087488/77357efc-1619-11e3-81c4-ed2baa290a64.jpg)
