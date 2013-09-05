@@ -1,5 +1,5 @@
 Hi, I'm Magda. This is my coding story.
-![lipenco's contributions](https://f.cloud.github.com/assets/2530057/1087318/a430166a-1614-11e3-8e46-cefa27c40820.png)
+[![lipenco's contributions](https://f.cloud.github.com/assets/2530057/1087318/a430166a-1614-11e3-8e46-cefa27c40820.png)](https://github.com/lipenco)
 
 For me coding is freedom. Freedom from the corporate world, from being tied to one city, from an office, from a 9 to 5 lifestyle, and most importantly - freedom TO be creative. This is why I started coding - to be able to live the life I've dreamed about without resigning from my professional aspirations while expressing my creativity.
 
@@ -11,3 +11,5 @@ If I could code anything in the world I would bootstrap my lucrative startup. Th
 
 A big thanks to the people who rescued me from beginer frustration and helped me understand what is going on: Bartek, John, Chris, Mateusz - you saved my passion for coding. Thank you!
 
+
+              ![magda](https://f.cloud.github.com/assets/2530057/1087488/77357efc-1619-11e3-81c4-ed2baa290a64.jpg)
