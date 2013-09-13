@@ -1,7 +1,7 @@
 ---
 title: Introducing Team NewRosies
 layout: post
-created_at: Thu September 23 2013
+created_at: Thu September 12 2013
 permalink: blog/introducing-team-newrosies
 current: blog
 author: Laura and Adriana
