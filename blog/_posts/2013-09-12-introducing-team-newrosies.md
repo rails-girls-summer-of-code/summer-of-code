@@ -11,7 +11,7 @@ Hello, we are Laura and Adriana, two college students from Colombia and we are t
 
 **¿Why New Rosies?** We call us New Rosies in honor of the group of women programmers in World War II whose story is told in detail in the documentary "Top Secret Rosies" and like them we want to contribute in the field of computer sciences and programming.
 
-<img src ="https://f.cloud.github.com/assets/1772544/1136108/52df3234-1c2f-11e3-8a76-71b6d42ace70.jpg" alt="Laura and Adriana">
+<img src ="https://f.cloud.github.com/assets/1772544/1136108/52df3234-1c2f-11e3-8a76-71b6d42ace70.jpg" alt="Laura and Adriana" width="600">
 
 
 We heard about RGSoC from Guillermo and Roberto, our current mentor and coach whom we thanks for giving us all the tools needed and the knowledge acquired in this summer and specially for working with us during this months while we were developing the project, **Conductor**. 
