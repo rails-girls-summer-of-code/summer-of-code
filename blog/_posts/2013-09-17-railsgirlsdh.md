@@ -17,7 +17,9 @@ I gave a talk about our program, Travis' role, our teams and the wonderful thing
 
 <img src="https://f.cloud.github.com/assets/1711357/1151148/300f2376-1ef6-11e3-87a1-fc1e095c6cc2.jpg" width="600">
 
-My favorite moment was, when I met Nila, who was helping with the event. She told me that the Rails Girls Workshop she attended actually changed her life. She jumped and had a whole carrier turn and now - after only 6 months - she works in an IT firm coing more and more. It always feels so wonderful to meet somebody who benefited from something you helped with and to see these Rails Girls stories popping up all over the world and of course especially here in the program always makes me kinda sentimental. &hearts; 
+My favorite moment was when I met Nila. She was helping with the event and told me that the Rails Girls Workshop she attended 6 months ago actually changed her life. 
+
+She jumped and had a whole carrier turn and now she works in an IT firm coing more and more. It always feels so wonderful to meet somebody who benefited from something you helped with. To see these Rails Girls stories popping up all over the world always makes me kinda sentimental. &hearts; 
 
 All in all a wonderful weekend.
 Big eyed students, the beach, wiking hats, [not much sleep](https://www.facebook.com/photo.php?fbid=221011044689440&set=a.221011031356108.1073741829.213104192146792&type=3&theater), hagleslag and lots of beginning coding stories.
