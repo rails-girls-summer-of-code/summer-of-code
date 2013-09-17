@@ -11,7 +11,7 @@ twitter: langziehohr
 The story of Rails Girls Summer of code is just crazy, amazing, inspiring and actually hard to believe (the idea stated only in May this year and now we are actually doing this!). So to tell other people about this, other Rails Girls students who are just at the beginning of falling in love with Rails, I visited [Rails Girls The Hague](https://www.facebook.com/RailsGirlsTheHague). 
 
 Our organizer and lovely dutchie [Floor](twitter.com/floordrees) organized the whole thing and it was super nice!
-The talks were also pretty inspiring and went from [resources to keep on coding](http://prezi.com/vlkcx9gdmnf0/how-to-get-in/), a [Github introduction](https://github.com/FloorD/RG_TH_talks/tree/master/abangratz/github2) and our Supervisor [Andy](twitter.com/pxlpnk) talked about [this Open Source thing](https://github.com/FloorD/RG_TH_talks/tree/master/open_source) and how to contribute.
+The talks were also pretty inspiring and went from [resources to keep on coding](http://prezi.com/vlkcx9gdmnf0/how-to-get-in/), a [Github introduction](https://github.com/FloorD/RG_TH_talks/tree/master/abangratz/github2) and our supervisor & mentor [Andy](twitter.com/pxlpnk) talked about [this Open Source thing](https://github.com/FloorD/RG_TH_talks/tree/master/open_source) and how to contribute.
 
 I gave a talk about our program, Travis' role, our teams and the wonderful things that are going on in our Summer of Code. Here you can check out [my slides](https://github.com/FloorD/RG_TH_talks/tree/master/Rails%20Girls%20Summer%20of%20Code). *(Spoiler altert: it includes more than one cute gif!)*
 
