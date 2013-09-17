@@ -24,9 +24,11 @@ She jumped and had a whole carrier turn and now she works in an IT firm coding m
 All in all a wonderful weekend.
 Big eyed students, the beach, wiking hats, [not much sleep](https://www.facebook.com/photo.php?fbid=221011044689440&set=a.221011031356108.1073741829.213104192146792&type=3&theater), hagleslag and lots of beginning coding stories.
 
+<a href="http://www.flickr.com/photos/floordrees/sets/72157635561868894/">PICTURE TIME!</a>
+<br>
+
 <img src="https://f.cloud.github.com/assets/1711357/1151266/2c067516-1ef8-11e3-83d8-720cee299651.png" width="300">
 <img src="https://f.cloud.github.com/assets/1711357/1151257/009d6ba0-1ef8-11e3-9088-12e4c7353d0e.png" width="300">
-
 
 So if you have a Rails Girls event near you - visit them, give a talk and spread the word. It's magical.
 
