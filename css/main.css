@@ -734,8 +734,17 @@ ul.donation-plans a.button:active {
   width: 100%;
   height: auto;
 }
+.index .nerdies {
+  padding-bottom: 3em;
+  border-bottom: 4px solid rgb(222, 57, 12);
+}
 .blog .nerdies {
   margin: 2em 0 3em;
+  border-bottom: solid 1px lightgray;
+}
+.nerdies p {
+  line-height: 1.5;
+  font-size: 14px;
 }
 
 .sponsors-intro {
