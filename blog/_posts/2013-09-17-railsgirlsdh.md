@@ -22,7 +22,7 @@ My favorite moment was when I met Nila. She was helping with the event and told 
 She jumped and had a whole carrier turn and now she works in an IT firm coding more and more. It always feels so wonderful to meet somebody who benefited from something you helped with. To see these Rails Girls stories popping up all over the world always makes me kinda sentimental. &hearts; 
 
 All in all a wonderful weekend.
-Big eyed students, the beach, wiking hats, [not much sleep](https://www.facebook.com/photo.php?fbid=221011044689440&set=a.221011031356108.1073741829.213104192146792&type=3&theater), hagleslag and lots of beginning coding stories.
+Big eyed students, the beach, viking hats, [not much sleep](https://www.facebook.com/photo.php?fbid=221011044689440&set=a.221011031356108.1073741829.213104192146792&type=3&theater), hagelslag and lots of beginning coding stories.
 
 <a href="http://www.flickr.com/photos/floordrees/sets/72157635561868894/">PICTURE TIME!</a>
 <br>
