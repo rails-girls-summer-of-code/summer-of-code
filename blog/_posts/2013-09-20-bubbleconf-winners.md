@@ -20,6 +20,8 @@ Our friends at <a href="http://www.phusion.nl/">Phusion</a> and <a href="http://
 
 HAVE FUN at BubbleConf!
 
-<img src="https://f.cloud.github.com/assets/1711357/1180760/4f9c965c-21fc-11e3-8ee1-05cb4e56f854.jpg" width="500" alt="Charis Rooda"/>
+<img src="https://f.cloud.github.com/assets/1711357/1180760/4f9c965c-21fc-11e3-8ee1-05cb4e56f854.jpg" width="500"/>
+<br>
+<font size="2px">Charis Roda</font>
 
 *If you want to make sure to get a ticket for BubbleConf, you can also buy one via http://bubbleconf.com. Students only pay EU 60 (incl. VAT) per ticket, and Standard Tickets are EU 300 (incl. VAT) a piece. For Rails Girls members however, we’re able to provide a nearly 50% discount on the Standard Ticket pricing, making them EU 160 (incl. VAT) per ticket. You can order these tickets via https://bubbleconf2013.paydro.net/event/bubbleconf-2013/railsgirls!*
