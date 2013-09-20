@@ -1,14 +1,14 @@
 ---
 title: And the BubbleConf tickets go to...
 layout: post
-created_at: Fri 20 Sep 2013
+created_at: Fri 20 September 2013
 permalink: blog/BubbleConf_winners
 current: blog
 author: Floor
 twitter: floordrees
 ---
 
-<div class="announce">Our friends at [Phusion](http://www.phusion.nl/) and [Nedap](http://www.nedap.com/nl/) announced on Wednesday that they're giving away tickets to [Bubbleconf](http://railsgirlssummerofcode.org/blog/Bubbleconf_tickets/) to Rails Girls (Summer of Code) alumni & supporters! We had a jury go through the crazy pictures you guys tweeted. And the winners are:</div>
+Our friends at <a href="http://www.phusion.nl/">Phusion</a> and <a href="http://www.nedap.com/nl/">Nedap</a> announced on Wednesday that they're giving away tickets to <a href="http://railsgirlssummerofcode.org/blog/Bubbleconf_tickets/">Bubbleconf</a> to Rails Girls (Summer of Code) alumni & supporters! We had a jury go through the crazy pictures you guys tweeted. And the winners are: 
 
 [Aneliya Evtimova](http://www.twitter.com/AneliyaE)  
 [Moniek Kuipers](http://www.twitter.com/MoInRotterdam)  
@@ -20,6 +20,6 @@ twitter: floordrees
 
 HAVE FUN at BubbleConf!
 
-<img src="https://f.cloud.github.com/assets/1711357/1180760/4f9c965c-21fc-11e3-8ee1-05cb4e56f854.jpg" width="500" />
+<img src="https://f.cloud.github.com/assets/1711357/1180760/4f9c965c-21fc-11e3-8ee1-05cb4e56f854.jpg" width="500" alt="Charis Rooda"/>
 
-If you want to make sure to get a ticket for BubbleConf, you can also buy one via http://bubbleconf.com. Students only pay EU 60 (incl. VAT) per ticket, and Standard Tickets are EU 300 (incl. VAT) a piece. For Rails Girls members however, we’re able to provide a nearly 50% discount on the Standard Ticket pricing, making them EU 160 (incl. VAT) per ticket. You can order these tickets via https://bubbleconf2013.paydro.net/event/bubbleconf-2013/railsgirls!
+*If you want to make sure to get a ticket for BubbleConf, you can also buy one via http://bubbleconf.com. Students only pay EU 60 (incl. VAT) per ticket, and Standard Tickets are EU 300 (incl. VAT) a piece. For Rails Girls members however, we’re able to provide a nearly 50% discount on the Standard Ticket pricing, making them EU 160 (incl. VAT) per ticket. You can order these tickets via https://bubbleconf2013.paydro.net/event/bubbleconf-2013/railsgirls!*
