@@ -2,7 +2,7 @@
 title: Summer of Conferences
 layout: post
 created_at: Sat 21 September 2013
-permalink: blog/Summer_of_Conferences
+permalink: blog/Summer_of
 current: blog
 author: Floor
 twitter: floordrees
