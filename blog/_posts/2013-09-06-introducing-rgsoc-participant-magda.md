@@ -15,11 +15,11 @@ For me coding is freedom. Freedom from the corporate world, from being tied to o
 
 Rails Girls Summer of Code was the best thing that could happen on my way to ultimate nerdiness. I have chosen [impress.js](https://github.com/bartaz/impress.js/) , one of the most starred open source projects on GitHub. Impress.js was created by my awesome, dedicated mentor, Bartek. It is a JavasScript framework for building presentations using an HTML5 canvas. That means a lot of JavaScript. As an aspiring front end developer it has been a perfect project for me.
 
-For the last two months I had the opportunity to write some juicy JS code. I was developing new features for impress.js - plugins for automatically generated layouts, substeps and more. And then came the idea to create an application for end users to create presentations. I created a [Rails application that generates the code](http://impress-builder.herokuapp.com/) for a presentation based on the user's choices. The prototype is already working, but my imagination for additonal features is endless. Luckily, I still have some time to make it more awesome. You con read about the progress on [my blog](http://lipen.co/til/).
+For the last two months I had the opportunity to write some juicy JS code. I was developing new features for impress.js - plugins for automatically generated layouts, substeps and more. And then came the idea to create an application for end users to create presentations. I created a [Rails application that generates the code](http://impress-builder.herokuapp.com/) for a presentation based on the user's choices. The prototype is already working, but my imagination for additional features is endless. Luckily, I still have some time to make it more awesome. You can read about the progress on [my blog](http://lipen.co/til/).
 
 If I could code anything in the world I would bootstrap my lucrative startup. This is not a dream, it's a plan :).
 
-A big thanks to the people who rescued me from beginer frustration and helped me understand what is going on: Bartek, John, Chris, Mateusz - you saved my passion for coding. Thank you!
+A big thanks to the people who rescued me from beginner frustration and helped me understand what is going on: Bartek, John, Chris, Mateusz - you saved my passion for coding. Thank you!
 
 
 ![magda](https://f.cloud.github.com/assets/2530057/1087531/3e114f74-161a-11e3-8b3a-755126b72dc2.jpg)
