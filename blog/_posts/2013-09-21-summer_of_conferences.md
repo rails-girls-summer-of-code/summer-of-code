@@ -19,7 +19,7 @@ Learn & hack for 2 days at [SoCoded](http://socoded.com/), with top notch intern
 
 ###BubbleConf
 **September 27, Amsterdam**  
-[BubbleConf](http://www.bubbleconf.com/) aims to inspire you to reach for the stars. It’s about Design, Technology, and above all Entrepreneurship. And: [Henrietta](https://twitter.com/PHenriettaK) - part of the global Rails Girls team - and yours truly share a speaking slot!  
+[BubbleConf](http://www.bubbleconf.com/) aims to inspire you to reach for the stars. It’s about Design, Technology, and above all Entrepreneurship. And: [Henrietta](https://twitter.com/PHenriettaK) - part of the global Rails Girls team - and yours truly share a speaking slot! Also [Anika](http://twitter.com/langziehoht) will pour all her Rails Girls Summer of Code story telling qualities into a lightning talk.
 
 ###Ruby Shift
 **September 27—28, Kiev**  
