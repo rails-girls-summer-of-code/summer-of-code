@@ -5,7 +5,7 @@ created_at: Mon September 23 2013
 permalink: blog/37-signals-gold-sponsor
 current: blog
 author: Cristina
-twitter: 
+twitter: cristinasantamarina
 ---
 
 [37signals](http://37signals.com) creates and maintains web-based applications for collaboration, project management, and information sharing. In their own words, they build ‘frustration-free web-based apps for collaboration, sharing information, and making decisions.’ They proudly work backed by their customers and buyers and without any external funding. 
