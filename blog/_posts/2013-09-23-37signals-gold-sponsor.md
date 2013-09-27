@@ -1,5 +1,5 @@
 ---
-title: "37 Signals -- RGSoC Gold Sponsor"
+title: "Say HI to 37 Signals - RGSoC Gold Sponsor"
 layout: post
 created_at: Mon September 23 2013
 permalink: blog/37-signals-gold-sponsor
@@ -11,7 +11,7 @@ twitter:
 [37signals](http://37signals.com) creates and maintains web-based applications for collaboration, project management, and information sharing. In their own words, they build ‘frustration-free web-based apps for collaboration, sharing information, and making decisions.’ They proudly work backed by their customers and buyers and without any external funding. 
 
 <a href="http://37signals.com"> 
-		<img src="https://raw.github.com/rails-girls-summer-of-code/summer-of-code/gh-pages/img/sponsors/37signals.png" alt="37 Signals logo" title="37 Signals" width="320px" align="left">
+		<img src="https://raw.github.com/rails-girls-summer-of-code/summer-of-code/gh-pages/img/sponsors/37signals.png" alt="37 Signals logo" title="37 Signals" width="290px" align="left">
 </a>
 
 But beyond developing applications to help us get things done, they maintain a popular [company blog](http://37signals.com/svn) and job board, write insightful books, and their developers contribute regularly to various [open source projects](http://37signals.com/opensource).
