@@ -1,5 +1,5 @@
 ---
-title: Team Bundler
+title: Meet Team Bundler
 layout: post
 created_at: Friday September 27 2013
 permalink: blog/team-bundler
@@ -7,6 +7,7 @@ current: blog
 author: Jen and Joyce
 twitter: RGSoCBundler
 ---
+<img src="https://f.cloud.github.com/assets/1711357/1235067/bbcc9eb4-2998-11e3-9f57-326bbeb8bd14.png" width="600">
 
 Way back in April our coach, Jessica, had organized Rails Girls LA. Jen was coaching and Joyce was in attendance. Joyce really connected with her pair and coach while Jen was inspired by the new crew of women. 
 
