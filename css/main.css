@@ -328,7 +328,7 @@ textarea {
 }
 
 /* ===================
-    Buttons (Call to action) 
+    Buttons (Call to action)
    =================== */
 /* credits for button effect go to
 http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-and-rgba */
@@ -425,10 +425,10 @@ ul {
   margin: 0;
   padding: 0;
 }
-.footer-container { 
-  padding-bottom: 1em; 
-  padding-top: 2em; 
-  clear: both; 
+.footer-container {
+  padding-bottom: 1em;
+  padding-top: 2em;
+  clear: both;
 }
 .footer-container .wrapper {
   position: relative;
@@ -728,6 +728,7 @@ ul.donation-plans a.button:active {
 .sponsors .strangeloop     { background-image: url(../img/confs/strangeloop.png); }
 .sponsors .wickedgoodruby  { background-image: url(../img/confs/wickedgoodruby.png); }
 .sponsors .cssconf         { background-image: url(../img/confs/cssconf.png); }
+.sponsors .roguerails      { background-image: url(../img/confs/roguerails.png); }
 
 
 .nerdies img {
@@ -751,7 +752,7 @@ ul.donation-plans a.button:active {
   margin-bottom: 5em;
 }
 .sponsors-list ul {
-  padding: 0; 
+  padding: 0;
   margin: 2em 0 3em;
   border-top: 1px solid lightgray;
 }
