@@ -11,9 +11,9 @@ twitter: langziehohr
 Some of our teams are still rocking their projects, some have already finished, but this doesn't mean the coding needs to be over. There are some opportunities! We got offers for internships from companies: 
 [Amazon OpsWorks](http://aws.amazon.com/de/opsworks/) and [and-is](http://www.and-is.de/) a.k.a. Aupair World  offered each 2 spots. Which is pret-ty cool! 
 
-###Stundents
+###Students
 
-If you are interested these two, drop us a line!
+If you are interested in these two, drop us a line!
 Also - and this is the important part - please rock on and start looking for opportunities. Be active!
 Look around and ask your local communites to help you. Get involved with your local user groups, start or join a study group, help to coach newcomers. You already know your coaches and mentors, who can surely recommend something to you. There are so many wonderful companies out there who would be glad to have enthusiastic coders like you at their side. We will try to help you in any way to turn your summer into something more!
 
