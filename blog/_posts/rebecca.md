@@ -1,7 +1,7 @@
 ---
 title: "Behind the scenes with: Rebecca"
 layout: post
-created_at: Wed 16 Oct 2013
+created_at: THu 16 Oct 2013
 permalink: blog/rebecca
 current: blog
 author: Anika
