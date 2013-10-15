@@ -1,7 +1,7 @@
 ---
 title: Meet our Silver Sponsors!
 layout: post
-created_at: Tue Oct 8 2013
+created_at: Thur Oct 17 2013
 permalink: blog/silver-sponsors-pt-1
 current: blog
 author: Tam
