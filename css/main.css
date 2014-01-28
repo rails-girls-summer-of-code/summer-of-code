@@ -332,8 +332,9 @@ textarea {
    =================== */
 /* credits for button effect go to
 http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-and-rgba */
+
+a.mainbutton,
 a.button {
-  display: inline-block;
   margin: 2em 1em 0 0;
   padding: 20px;
   background-color: #e53f05;
@@ -349,10 +350,13 @@ a.button {
   -moz-border-radius: 10px;
   border-radius: 5px;
 }
+
+.mainbutton:hover,
 .button:hover {
   color: white;
   text-decoration: none;
 }
+.mainbutton:active,
 .button:active {
   text-decoration: none;
   color: white;
@@ -361,6 +365,7 @@ a.button {
 }
 .button:hover .icon-star-white {
   opacity: 1;
+
 }
 .icon-star-white {
   display: inline-block;
@@ -370,6 +375,22 @@ a.button {
   opacity: 0;
   background-image: url(/img/star.png);
 }
+
+a.mainbutton {
+  font-size: 1.8em; 
+}
+
+a.button {
+  display: inline-block;
+}
+
+.centerbutton {
+text-align: center;
+position: relative;
+top: 18em;
+z-index: 2;
+}
+
 .title {
     color: white;
 }
