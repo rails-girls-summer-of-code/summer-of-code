@@ -1,7 +1,7 @@
 ---
 title: "Great news for the Open Source scene and Rails Girls"
 layout: post
-created_at: Mon Nov 25
+created_at: Mon Nov 25 2013
 permalink: blog/travis-foundation
 current: blog
 author: RGSoC Team
