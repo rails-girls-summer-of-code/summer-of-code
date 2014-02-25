@@ -124,7 +124,7 @@ textarea {
 
 .wrapper {
     width: 90%;
-    margin: 0 5%;
+    margin: 5%;
 }
 .index .wrapper {
   margin-bottom: 0;
@@ -509,7 +509,6 @@ ul {
 	content: '';
 }
 .newsletter {
-  margin: 4em 0 0;
   padding: 0;
   border-top: solid 4px #de390c;
 }
@@ -759,7 +758,6 @@ ul.donation-plans a.button:active {
 }
 .index .nerdies {
   padding-bottom: 3em;
-  border-bottom: 4px solid rgb(222, 57, 12);
 }
 .blog .nerdies {
   margin: 2em 0 3em;
@@ -841,6 +839,7 @@ ul.donation-plans a.button:active {
     padding-left: 7em;
     margin-right: -3em;
     padding-right: 8em;
+    padding-top: 3em;
     background: url(../img/scribbles-frontpage.png) no-repeat scroll 52% 0% transparent;
   }
   .hamburger {
