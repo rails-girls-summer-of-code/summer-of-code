@@ -44,7 +44,7 @@ $(document).ready(function() {
     var description = package == 'Custom' ? 'Your donation' : package + ' Sponsorship';
 
     StripeCheckout.open({
-      key:         location.hostname == 'localhost' ? 'pk_test_oqAFNUozwz75eFQdaTyKojFt' : 'pk_live_yCtxaMJZgFa64UQKWEVsrL5h',
+      key:         location.hostname == 'localhost' ? 'pk_test_RUBGjkgJ0PCjuCQ1VaUCwKM2' : 'pk_test_RUBGjkgJ0PCjuCQ1VaUCwKM2',
       address:     false,
       amount:      amount,
       currency:    'usd',
@@ -56,7 +56,7 @@ $(document).ready(function() {
 
     return false;
   });
-  
+
   // Mobile navigation toggle
   //$('.nav-primary > ul').addClass('hidden');
   $('.hamburger').click(function() {

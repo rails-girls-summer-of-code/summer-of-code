@@ -124,7 +124,7 @@ textarea {
 
 .wrapper {
     width: 90%;
-    margin: 0 5%;
+    margin: 5%;
 }
 .index .wrapper {
   margin-bottom: 0;
@@ -328,12 +328,13 @@ textarea {
 }
 
 /* ===================
-    Buttons (Call to action) 
+    Buttons (Call to action)
    =================== */
 /* credits for button effect go to
 http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-and-rgba */
+
+a.mainbutton,
 a.button {
-  display: inline-block;
   margin: 2em 1em 0 0;
   padding: 20px;
   background-color: #e53f05;
@@ -349,10 +350,13 @@ a.button {
   -moz-border-radius: 10px;
   border-radius: 5px;
 }
+
+.mainbutton:hover,
 .button:hover {
   color: white;
   text-decoration: none;
 }
+.mainbutton:active,
 .button:active {
   text-decoration: none;
   color: white;
@@ -361,6 +365,7 @@ a.button {
 }
 .button:hover .icon-star-white {
   opacity: 1;
+
 }
 .icon-star-white {
   display: inline-block;
@@ -370,6 +375,22 @@ a.button {
   opacity: 0;
   background-image: url(/img/star.png);
 }
+
+a.mainbutton {
+  font-size: 1.8em; 
+}
+
+a.button {
+  display: inline-block;
+}
+
+.centerbutton {
+text-align: center;
+position: relative;
+top: 18em;
+z-index: 2;
+}
+
 .title {
     color: white;
 }
@@ -425,10 +446,10 @@ ul {
   margin: 0;
   padding: 0;
 }
-.footer-container { 
-  padding-bottom: 1em; 
-  padding-top: 2em; 
-  clear: both; 
+.footer-container {
+  padding-bottom: 1em;
+  padding-top: 2em;
+  clear: both;
 }
 .footer-container .wrapper {
   position: relative;
@@ -488,7 +509,6 @@ ul {
 	content: '';
 }
 .newsletter {
-  margin: 4em 0 0;
   padding: 0;
   border-top: solid 4px #de390c;
 }
@@ -728,6 +748,8 @@ ul.donation-plans a.button:active {
 .sponsors .strangeloop     { background-image: url(../img/confs/strangeloop.png); }
 .sponsors .wickedgoodruby  { background-image: url(../img/confs/wickedgoodruby.png); }
 .sponsors .cssconf         { background-image: url(../img/confs/cssconf.png); }
+.sponsors .roguerails      { background-image: url(../img/confs/roguerails.png); }
+.sponsors .bubbleconf      { background-image: url(../img/confs/bubbleconf.png); }
 
 
 .nerdies img {
@@ -736,7 +758,6 @@ ul.donation-plans a.button:active {
 }
 .index .nerdies {
   padding-bottom: 3em;
-  border-bottom: 4px solid rgb(222, 57, 12);
 }
 .blog .nerdies {
   margin: 2em 0 3em;
@@ -751,7 +772,7 @@ ul.donation-plans a.button:active {
   margin-bottom: 5em;
 }
 .sponsors-list ul {
-  padding: 0; 
+  padding: 0;
   margin: 2em 0 3em;
   border-top: 1px solid lightgray;
 }
@@ -818,6 +839,7 @@ ul.donation-plans a.button:active {
     padding-left: 7em;
     margin-right: -3em;
     padding-right: 8em;
+    padding-top: 3em;
     background: url(../img/scribbles-frontpage.png) no-repeat scroll 52% 0% transparent;
   }
   .hamburger {
