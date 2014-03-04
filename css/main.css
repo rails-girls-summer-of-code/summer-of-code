@@ -285,10 +285,8 @@ textarea {
 
 .page-faq h3 {
   margin: 2em 0;
-  padding: 0 3.5em;
   color: #de390c;
   font-size: 1.4em;
-  text-indent: -3.5em;
 }
 .accordion h3:hover {
   cursor: pointer;
