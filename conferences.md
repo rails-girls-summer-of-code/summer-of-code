@@ -44,7 +44,9 @@ nice conference:
 **Enjoy the great vibe, learn new things from the talks,
 meet fantastic people and get to know the lovely community!**
 
-For this we have been offered no less than **49 free tickets** at some of the best
+We're already busy getting in touch with conferences in order to support this year's students in joining the community. So stay tuned!
+
+<!-- For this we have been offered no less than **49 free tickets** at some of the best
 Ruby conferences on 3 different continents for you.  Most conferences offer
 free tickets, which is really fantastic, but some of them will even cover
 **flights and accomodation** for you. And all of them are very worth visiting!
@@ -202,6 +204,4 @@ eligible to it.
 Generally scholarships are meant for newcomers, they're supposed to raise the
 diversity of a conference. Usually that won't apply to coaches and mentors.
 Should there be any leftover tickets then you could talk to particular
-conferences.
-
-
+conferences. -->

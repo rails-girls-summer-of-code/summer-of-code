@@ -11,22 +11,21 @@ current: students
 
 ## Things To Do
 
-Here is a list of things that we would like you to do during the program:
+The Rails Girls Summer of Code is about supporting the students on their way into the Open Source community. Besides coding, this also includes getting the word out and meeting other developers. Here is a list of activities that are part of the program and will help you entering the community:
 
-* Post brief status [updates on your team log](/team-log) daily.
 
-* Write up at least one, maybe two blog posts for the Rails Girls Summer of
-  Code blog throughout the program. You can write whatever post you like, include
-  creative ideas, ... as long as it's related to your amazing work on your
-  project :)
+* Focus on your work.
 
-* Visit your local developers user groups, hackdays, community events, etc. so
-  you get to connect with your local community.
+* Post brief, but daily [status updates on your team log](/team-log).
+
+* Write up at least one, maybe two blog posts on the [Rails Girls Summer of
+  Code blog](/blog). You can write whatever type of post you like, text, images, a video, ... This is up to you as long as it's related to your amazing work on your project :)
+
+* Visit your local developers user groups, hackdays, community events, etc. This will get you 
+  connected with your local community.
 
 * Give at least one lightning talk at a conference, local user group, Rails
   Girls (or similar) workshop.
-
-* Focus on your work.
 
 * Use all the support channels and ask all the questions that you have!
 
@@ -45,12 +44,10 @@ Obviously you should spend the precious work time that you have focussing on you
 work. But we'd also like you to get in touch with the community vis-a-vis, if
 possible, so you get a feeling for that vibe, too.
 
-Maybe you schedule visiting evening events like local Ruby user group meetings
-once a month, and then visit a conference that is close to your place soon
-after the program.
+For example, you can schedule visiting evening events like the local Ruby user group. User groups usually happen once a month. After the Summer of Code is over, we recommend to visit a conference that is close to your place.
 
-We recommend to plan for giving at least a brief lightning talk at any such event,
-too, so you get to share the love and practice speaking in front of bunch of
+We highly recommend to plan for giving at least a brief lightning talk at any such event,
+too, so you get to share the love and practice speaking in front of a bunch of
 people :)
 
 Don't feel too scared about presenting your work and experience at such events!
