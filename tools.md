@@ -64,13 +64,11 @@ in the background. -->
 
 ### GitHub for to-dos and project specific discussions
 
-[GitHub](http://github.com) is probably the most used common tool for developers today. Everybody
-knows and understands how to use it. It is not only fantastic for sharing
-code. GitHub issues also make one of the nicest places to discuss things
+[GitHub](http://github.com) is probably the most used common tool for developers today. It is not only fantastic for sharing code. GitHub issues also make one of the nicest places to discuss things
 (not only code!).
 
 We recommend you use GitHub Issues as much as possible for keeping track of
-to-dos and having general discussions about your project.
+to-dos and having general discussions about your project. If you are a new to Github, checkout some of their tutorials e.g. [on youtube](http://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw). 
 
 
 <!-- ### Community mailing list for general questions
