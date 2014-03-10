@@ -68,7 +68,7 @@ in the background. -->
 (not only code!).
 
 We recommend you use GitHub Issues as much as possible for keeping track of
-to-dos and having general discussions about your project. If you are a new to Github, checkout some of their tutorials e.g. [on youtube](http://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw). 
+to-dos and having general discussions about your project. If you are a new to GitHub, checkout some of their tutorials e.g. [on youtube](http://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw). 
 
 
 <!-- ### Community mailing list for general questions
