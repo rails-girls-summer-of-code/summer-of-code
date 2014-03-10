@@ -11,7 +11,11 @@ current: students
 
 ## Tools
 
-For Rails Girls Summer of Code we are going to use the following tools.
+In the process of organizing this year's Summer of Code, we also review the tools and services used last year to keep track of the team's activities, keep in touch with each other, support channels, etc. We will provide you with all the details well in advance. 
+
+As a first step, you can already get aquainted with Github. 
+
+<!-- For Rails Girls Summer of Code we are going to use the following tools.
 
 We've picked IRC, GitHub and GoogleGroups, tools which are
 used very widely in the Ruby community, because:
@@ -55,12 +59,12 @@ Coaches and organizers will have highlight words set up for these terms, so
 their IRC client will notify them with an alert. If you don't use these
 highlight words they might miss your questions for quite a while because
 they might be looking at another channel or even have the IRC client window
-in the background.
+in the background. -->
 
 
 ### GitHub for to-dos and project specific discussions
 
-GitHub is probably the most used common tool for developers today. Everybody
+[GitHub](http://github.com) is probably the most used common tool for developers today. Everybody
 knows and understands how to use it. It is not only fantastic for sharing
 code. GitHub issues also make one of the nicest places to discuss things
 (not only code!).
@@ -69,14 +73,14 @@ We recommend you use GitHub Issues as much as possible for keeping track of
 to-dos and having general discussions about your project.
 
 
-### Community mailing list for general questions
+<!-- ### Community mailing list for general questions
 
 We will continue to use our
 [community mailing-list](http://groups.google.com/group/rails-girls-summer-of-code-community)
 to reach everyone involved at Rails Girls Summer of Code.
 
 We recommend you post to this list for meta discussions and general questions
-about Rails Girls Summer of Code.
+about Rails Girls Summer of Code. -->
 
 
 ### Email us for personal questions
