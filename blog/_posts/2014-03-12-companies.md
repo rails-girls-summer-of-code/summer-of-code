@@ -42,7 +42,8 @@ talks, mentions in our press kit and newsletters, blog posts dedicated to
 sponsors, lots of tweet love from the community ... and Konstantin Haase
 wearing your T-shirt and mentioning you as a sponsor at a conference.
 
-Want to be one of our early-bird sponsors? Get in touch with us: [email?]
+Want to be one of our early-bird sponsors? Get in touch with us:
+[summer-of-code@gmail.org](mailto:summer-of-code@gmail.org)
 
 ## 2. Coaching companies
 
@@ -71,7 +72,7 @@ team's chances of winning a sponsored seat by helping them prepare an
 outstanding application.
 
 If you have the ability to be a 'Coaching Company' we'd love to hear from you:
-[email?]
+[summer-of-code@gmail.org](mailto:summer-of-code@gmail.org)
 
 ## 3. Supporting organizers
 
@@ -89,6 +90,5 @@ honesty, and will be vetted to ensure they will make terrific use of a paid
 position.
 
 If you are interested in this new initiative, then please get in touch:
-[email?]
-
+[summer-of-code@gmail.org](mailto:summer-of-code@gmail.org)
 
