@@ -24,16 +24,19 @@ as Sponsors, Coaching companies and/or in financially supporting organizers.
 
 ## 1. Sponsors
 
-While our fundraising campaign will officially begin on [date], sponsors who
-sign up early will get a significant amount of exposure, and publicity.
+While we are going to open our fundraising campaign as soon as possible,
+sponsors who sign up early will get a significant amount of exposure, and
+publicity, since their logo will already be on the website when the hype goes
+off on Twitter.
 
 Sponsors are listed on the site not only according to the size of their
 donation, but also their sign up date. Our sponsorship packages will remain the
 same as they were in 2013, giving you the opportunity to choose your desired
-package early! Take a look at last year's packages [here].
+package early! Take a look at last year's packages
+[here](http://2013.railsgirlssummerofcode.org/campaign).
 
 Sponsor logos will be listed and linked via the Rails Girls Summer of Code
-homepage and on the dedicated 'Sponsors' page, with a blurb text that you are
+homepage and on the dedicated "Sponsors" page, with a blurb text that you are
 free to choose.
 
 Other perks of sponsorship include: getting your swag in goody bags which are
@@ -71,7 +74,7 @@ ranked applications will be selected. However, you can greatly improve your
 team's chances of winning a sponsored seat by helping them prepare an
 outstanding application.
 
-If you have the ability to be a 'Coaching Company' we'd love to hear from you:
+If you have the ability to be a "Coaching Company" we'd love to hear from you:
 [summer-of-code@gmail.org](mailto:summer-of-code@gmail.org)
 
 ## 3. Supporting organizers
