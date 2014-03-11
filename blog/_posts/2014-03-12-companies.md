@@ -57,7 +57,7 @@ help them. We are looking to formalize this support into an option for
 interested companies this year.
 
 A great examples from 2013 is
-[SoundCloud](http://railsgirlssummerofcode.org/blog/soundcloud-gold-sponsor),
+[SoundCloud](http://blog.soundcloud.com/2013/07/19/rails-girls-summer-of-code-welcoming-nicole-and-laura),
 who sponsored RGSoC, and provided coaching resource for one student team at
 their Berlin developer office.
 
