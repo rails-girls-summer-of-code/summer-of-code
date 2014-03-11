@@ -16,7 +16,7 @@ on a full-time basis, sponsored by the community and our company sponsors. A
 significant amount of those students went on to present at conferences, and
 meetups, as well as moved onto their own coding projects!
 
-Preparations for this year's instalment of SoC have begun, and we’re looking
+Preparations for this year's instalment of RGSoC have begun, and we’re looking
 for companies to support this incredible program in 2014.
 
 This year we have three options for companies to join and support the program;
@@ -51,12 +51,15 @@ Want to be one of our early-bird sponsors? Get in touch with us:
 ## 2. Coaching companies
 
 Some of last year's most successful student teams have been supported greatly
-by local ‘coaching companies’, who have given them a place to work in their
-offices and a pool of coaches to help them. We are looking to formalize this
-support into an option for interested companies this year.
+by local [coaching companies](http://railsgirlssummerofcode.org/coaching-companies),
+who have given them a place to work in their offices and a pool of coaches to
+help them. We are looking to formalize this support into an option for
+interested companies this year.
 
-A great examples from 2013 is SoundCloud, who sponsored SoC, and provided
-coaching resource for one student team at their Berlin developer office.
+A great examples from 2013 is
+[SoundCloud](http://railsgirlssummerofcode.org/blog/soundcloud-gold-sponsor),
+who sponsored RGSoC, and provided coaching resource for one student team at
+their Berlin developer office.
 
 Their developers were put into a coaching pool and alloted a certain amount of
 time to coach the students. Students presented their work during company
@@ -69,10 +72,10 @@ if they'd be interested in coaching a team of two students onsite.
 
 There's one condition to this option: Students CANNOT be picked upfront.
 
-Student applications will be rated based on the set criteria, and the best
-ranked applications will be selected. However, you can greatly improve your
-team's chances of winning a sponsored seat by helping them prepare an
-outstanding application.
+[Student applications](http://railsgirlssummerofcode.org/application-guide/)
+will be rated based on the set criteria, and the best ranked applications will
+be selected. However, you can greatly improve your team's chances of winning a
+sponsored seat by helping them prepare an outstanding application.
 
 If you have the ability to be a "Coaching Company" we'd love to hear from you:
 [summer-of-code@gmail.org](mailto:summer-of-code@gmail.org)
@@ -80,13 +83,13 @@ If you have the ability to be a "Coaching Company" we'd love to hear from you:
 ## 3. Supporting organizers
 
 A mammoth amount of work  goes into organizing Rails Girls Summer of Code, and
-a vast majority of it is done by volunteers. With the program set to grow in
-2014, we would like to provide at least one paid position for an SoC Orga Team
-Member to dedicate themselves to Summer of Code organizational activities.
+a vast majority of it is done by volunteers. We would like to provide another
+paid position for an RGSoC Orga Team Member to dedicate themselves to Summer of
+Code organizational activities part- or fulltime.
 
-A great example of financially supporting organizers is Travis CI, which
-supports Rails Girls Summer of Code by paying Anika Lindtner to work on the
-program, through the Travis Foundation.
+A great example of financially supporting organizers is [Travis CI](http://travis-ci.com),
+who support Rails Girls Summer of Code by paying Anika Lindtner to work on the
+program, through the [Travis Foundation](http://foundation.travis-ci.com).
 
 The sponsored organizer will have displayed a track record of reliability and
 honesty, and will be vetted to ensure they will make terrific use of a paid
