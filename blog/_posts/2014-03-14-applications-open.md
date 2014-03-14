@@ -31,11 +31,11 @@ Happy applying everyone! Let's get this summer started.
 
 --
 
-Application Guide: http://railsgirlssummerofcode.org/application-guide/
+Application Guide: [railsgirlssummerofcode.org/application-guide/](http://railsgirlssummerofcode.org/application-guide/)
 
-Projects examples: http://railsgirlssummerofcode.org/blog/where-to-start/
+Projects examples: [railsgirlssummerofcode.org/blog/where-to-start/](http://railsgirlssummerofcode.org/blog/where-to-start/)
 
-Apply here: http://teams.railsgirlssummerofcode.org/application
+Apply here: [teams.railsgirlssummerofcode.org/application](http://teams.railsgirlssummerofcode.org/application)
 
 
 
