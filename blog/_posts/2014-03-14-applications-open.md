@@ -10,7 +10,7 @@ twitter: RailsGirlsSoc
 
 It's Friday and we are in love: With this we are officially opening the applications for Rails Girls Summer of Code 2014! 
 
-####The applications will be open until April 24th, 12 PM CET.
+####The applications will be open until May 2nd, 12 PM CET.
 
 This is the timeline we are aiming for:
 
