@@ -45,6 +45,7 @@ Coaches do not have to be experts on the team's project, but they need to
 Should a coach not be available to help with an issue, students can also reach
 out to remote coaches (see below).
 
+
 ##### Mentor
 
 Mentors are experts on the Open Source project the team is working on. Ideally
@@ -52,7 +53,8 @@ they are decision makers, or work closely with decision makers, so they can set
 general goals, give directions and provide feedback.
 
 Since students will be supported by coaches in their day-to-day work, the
-workload for mentors is limited.
+workload for mentors is limited. This said, mentors can also assume the role of
+a coach themselves.
 
 
 #### Support Roles
@@ -77,6 +79,9 @@ the [Team log](/team-log)), motivate and cheer them up.
 
 In rare cases there may be the need to escalate issues to the organizers
 team, e.g. when a team has stopped working.
+
+A supervisor can be responsible for more than one team and it is indeed
+encouraged to minimize the organizational overhead.
 
 
 ##### Organizer
