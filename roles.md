@@ -15,8 +15,8 @@ During the program people take on the following roles.
 
 #### Main Roles
 
-Rails Girls Summer of Code centers around teams. An ideal team has a pair or
-students, one or many coaches and a project expert, called mentor.
+Rails Girls Summer of Code centers around teams. An ideal team has a pair of
+students, one or more coaches and a project expert, called mentor.
 
 ##### Student
 
@@ -33,7 +33,7 @@ students to learn and accomplish their project tasks on a daily basis.
 
 Ideally students and coaches share the same office space.
 
-Since coaching takes time coaches often will team up and take turns. Sometimes
+Since coaching takes time, coaches often will team up and take turns. Sometimes
 companies will allow employees to spend a limited amount of time on coaching
 during business hours.
 
@@ -42,14 +42,14 @@ Coaches do not have to be experts on the team's project, but they need to
 * be able to support their student's learning process
 * be skilled to understand the project and the mentor's directions
 
-Should a coach not be available to help with an issue students can also reach
+Should a coach not be available to help with an issue, students can also reach
 out to remote coaches (see below).
 
 ##### Mentor
 
 Mentors are experts on the Open Source project the team is working on. Ideally
 they are decision makers, or work closely with decision makers, so they can set
-general goals, give directions and feedback.
+general goals, give directions and provide feedback.
 
 Since students will be supported by coaches in their day-to-day work, the
 workload for mentors is limited.
