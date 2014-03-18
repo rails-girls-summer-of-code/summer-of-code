@@ -72,7 +72,7 @@ Some companies have a policy in place that allows developers to work on Open Sou
 or other beneficial projects, during business hours. If you do, ask your team
 if they'd be interested in coaching a team of two students onsite.
 
-There's one condition to this option: Students CANNOT be picked upfront.
+There's one condition to this option: Students cannot be picked upfront.
 
 [Student applications](http://railsgirlssummerofcode.org/application-guide/)
 will be rated based on the set criteria, and the best ranked applications will
