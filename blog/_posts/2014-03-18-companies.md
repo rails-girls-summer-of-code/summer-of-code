@@ -58,7 +58,7 @@ who have given them a place to work in their offices and a pool of coaches to
 help them. We are looking to formalize this support into an option for
 interested companies this year.
 
-A great examples from 2013 is
+A great example from 2013 is
 [SoundCloud](http://blog.soundcloud.com/2013/07/19/rails-girls-summer-of-code-welcoming-nicole-and-laura),
 who sponsored RGSoC, and provided coaching resource for one student team at
 their Berlin developer office.
@@ -68,7 +68,7 @@ time to coach the students. Students presented their work during company
 meetings, and met with other staff members during lunch breaks. There were a
 number of other companies who provided similar setups with great success, too.
 
-Some companies have policy in place to allow developers to work on Open Source,
+Some companies have a policy in place that allows developers to work on Open Source,
 or other beneficial projects, during business hours. If you do, ask your team
 if they'd be interested in coaching a team of two students onsite.
 
