@@ -20,7 +20,10 @@ Preparations for this year's instalment of RGSoC have begun, and we’re looking
 for companies to support this incredible program in 2014.
 
 This year we have three options for companies to join and support the program;
-as Sponsors, Coaching companies and/or in financially supporting organizers.
+as 
++ Sponsors, 
++ Coaching companies and/or 
++ financially supporting organizers
 
 ## 1. Sponsors
 
