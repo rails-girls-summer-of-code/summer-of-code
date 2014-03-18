@@ -1,7 +1,7 @@
 ---
 title: "3 Ways Your Company Can Support Rails Girls Summer of Code 2014"
 layout: post
-created_at: Thur Mar 13 2014
+created_at: Tue Mar 18 2014
 permalink: blog/2014
 current: blog
 author: Sara
