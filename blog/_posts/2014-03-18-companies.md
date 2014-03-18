@@ -2,7 +2,7 @@
 title: "3 Ways Your Company Can Support Rails Girls Summer of Code 2014"
 layout: post
 created_at: Tue Mar 18 2014
-permalink: blog/companies
+permalink: blog/2014-03-18-three-ways-your-company-can-support-rgsoc
 current: blog
 author: Sara
 twitter: RailsGirlsSoc
@@ -77,7 +77,7 @@ be selected. However, you can greatly improve your team's chances of winning a
 sponsored seat by helping them prepare an outstanding application.
 
 If you have the ability to be a "Coaching Company" we'd love to hear from you:
-[summer-of-code@gmail.org](mailto:summer-of-code@gmail.org)
+[summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
 
 ## 3. Supporting organizers
 
@@ -90,12 +90,12 @@ A great example of financially supporting organizers is [Travis CI](http://travi
 who support Rails Girls Summer of Code by paying Anika Lindtner to work on the
 program, through the [Travis Foundation](http://foundation.travis-ci.com).
 
-Another wonderful company is anynines who are [supporting Floor Drees]() to organize this year's edition.
+Another wonderful company is [anynines](http://www.anynines.com/) who are [supporting Floor Drees to help organize]() this year's edition.
 
 The sponsored organizer will have displayed a track record of reliability and
 honesty, and will be vetted to ensure they will make terrific use of a paid
 position.
 
 If you are interested in this new initiative, then please get in touch:
-[summer-of-code@gmail.org](mailto:summer-of-code@gmail.org)
+[summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
 
