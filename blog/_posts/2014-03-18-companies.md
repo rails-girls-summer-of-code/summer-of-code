@@ -75,7 +75,7 @@ if they'd be interested in coaching a team of two students onsite.
 Please keep in mind that student applications cannot be selected upfront and
 being backed by a Coaching Company is not a guarantee for them to be accepted:
 
-[Student applications](http://railsgirlssummerofcode.org/application-guide/)will be rated based on the set criteria, and the best ranked applications will be selected. However, you can greatly improve your
+[Student applications](http://railsgirlssummerofcode.org/application-guide/) will be rated based on the set criteria, and the best ranked applications will be selected. However, you can greatly improve your
 team’s chances of getting a sponsored seat by helping them prepare an
 outstanding application.
 
