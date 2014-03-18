@@ -239,11 +239,17 @@ textarea {
   height: 35px;
   z-index: 80;
   background: url(../img/squiggly-line.png) no-repeat;
+
 }
 .hero-claim {
   font-size: 18px;
   color: #de390c;
   margin-top: 1em;
+}
+.hero-claim2 {
+  font-size: 18px;
+  margin-top: 1em;
+
 }
 .hero h1 {
   font-size: 75px;
