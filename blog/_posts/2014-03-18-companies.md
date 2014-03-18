@@ -90,7 +90,7 @@ A great example of financially supporting organizers is [Travis CI](http://travi
 who support Rails Girls Summer of Code by paying Anika Lindtner to work on the
 program, through the [Travis Foundation](http://foundation.travis-ci.com).
 
-Another wonderful company is [anynines](http://www.anynines.com/) who are [supporting Floor Drees to help organize]() this year's edition.
+Another wonderful company is [anynines](http://www.anynines.com/) who are [supporting Floor Drees to help organize](http://blog.anynines.com/we-are-proud-to-support-rails-girls-summer-of-code/) this year's edition.
 
 The sponsored organizer will have displayed a track record of reliability and
 honesty, and will be vetted to ensure they will make terrific use of a paid
