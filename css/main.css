@@ -271,6 +271,20 @@ textarea {
   text-transform: uppercase;
   text-align: center;
 }
+.list-redstar {
+  padding: 0;
+}
+.list-redstar li {
+  margin-bottom: .3em;
+}
+.list-redstar li:before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 14px;
+  margin: 0 .8em;
+  background: url(../img/star-red.png) no-repeat;
+}
 .star-red {
   display: inline-block;
   width: 15px;
@@ -480,7 +494,13 @@ ul {
 .sidebar-blog .button, .sidebar .button {
   margin: 0;
 }
-.sidebar-blog .rss, .sidebar .rss, .sidebar-blog .teamblogs, .sidebar-blog .supportscibble {
+.sidebar-content {
+  margin-bottom: 4em;
+}
+.sidebar-blog .rss,
+.sidebar .rss,
+.sidebar-blog .teamblogs,
+.sidebar-blog .supportscibble {
   border-top: solid .1em lightgray;
   margin-top: 2em;
   padding-top: 1em;
