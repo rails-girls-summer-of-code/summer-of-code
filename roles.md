@@ -85,3 +85,24 @@ The organizers team takes care of running the program as a whole. They
 make sure everything runs smoothly, sponsors are happy and the world gets
 to know about the amazing progress the student teams make.
 
+
+#### Other Roles
+
+##### Sponsors
+
+By donating money to this program but most of the time not being involved
+actively sponsors take on a supporting actors role, but quite obviously a very
+importing one: They essentially pay for students so they are able to
+participate in this program.
+
+##### Coaching Companies
+
+With this role we are trying to formalize a very successful concept from last
+year: Companies that fully host a students team and allow employees to coach
+them. You can find out more about this here: [Coaching Companies](/coaching-companies).
+
+
+
+
+
+
