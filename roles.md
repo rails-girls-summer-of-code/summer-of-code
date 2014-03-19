@@ -2,9 +2,9 @@
 layout: page
 title: Rails Girls Summer of Code - Roles
 class: page page-roles
+permalink: /about/roles/
+current: about
 current-sub: roles
-permalink: roles/
-current: roles
 ---
 
 Rails Girls Summer of Code is run by a community of volunteers, and supported
