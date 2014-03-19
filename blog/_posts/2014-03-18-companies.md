@@ -60,7 +60,7 @@ interested companies this year.
 
 A great example from 2013 is
 [SoundCloud](http://blog.soundcloud.com/2013/07/19/rails-girls-summer-of-code-welcoming-nicole-and-laura),
-who sponsored RGSoC, and provided coaching resource for one student team at
+who sponsored RGSoC and provided coaching resources for two student teams at
 their Berlin developer office.
 
 Their developers were put into a coaching pool and alloted a certain amount of
