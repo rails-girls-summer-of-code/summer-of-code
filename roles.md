@@ -11,7 +11,7 @@ current-sub: roles
 <article>
 <p>All the world's a stage, and here at Rails Girls Summer of Code there are many roles to be played.
 
-If you're new to the Summer of Code, and have no idea where you fit into the program, take a look at this list of roles. 
+If you're new to the Summer of Code, and have no idea where you fit into the program, take a look at this list of roles.
 
 We've made this a handy starting point to help you understand who does what, and where you might fit based on your skill set</p>
 </article>
@@ -22,7 +22,7 @@ We've made this a handy starting point to help you understand who does what, and
             <li><a href="#2">Student</a></li>
             <li><a href="#3">Coach</a></li>
             <li><a href="#4">Mentor</a></li>
-        </ul>     
+        </ul>
      <li><a href="#5">Support and Organization</a></li>
         <ul>
             <li><a href="#6">Remote Coach</a></li>
@@ -34,7 +34,7 @@ We've made this a handy starting point to help you understand who does what, and
             <li><a href="10">Sponsor</a></li>
             <li><a href="11">Coaching Company</a></li>
             <li><a href="12">You</a></li>
-        </ul>      
+        </ul>
 </ul>
 
 
@@ -108,13 +108,13 @@ encouraged to ease to organizational workload.</p>
 
 
 <h2><a name="#8">Organizer</a></h2>
-<p>Organizers are a pretty multi-skilled bunch. They are developers, designers, content writers, community manager and business owners all volunteering their time. They keep the website up, sponsors rolling in, and generally keeping everything rolling. Organizers are the ones who answer your emails, select applicants, monitor the social feeds and generally contribute their unique skill set to an aspect of the organizational workload.</p> 
+<p>Organizers are a pretty multi-skilled bunch. They are developers, designers, content writers, community manager and business owners all volunteering their time. They keep the website up, sponsors rolling in, and generally keeping everything rolling. Organizers are the ones who answer your emails, select applicants, monitor the social feeds and generally contribute their unique skill set to an aspect of the organizational workload.</p>
 </article>
 
 <article>
 <h1><a name="#9">Financial</a></h1>
 <p>Without the financial support of generous (and also incredibly amazing) donors, Rails Girls Summer of Code simply could not take place! Here's to the bacon-makers!</p>
- 
+
 
 <h2><a name="#10">Sponsors</a></h2>
 <p>Sponsors make it possible for Rails Girls Summer of Code to create a paid program for participants. Sponsors are sourced from all over the world, and represent an entire cross section of industry. While Sponsors receive a great deal of publicity and public exposure in return for their generous donations (usually a package) but most of the time not being involved
@@ -131,10 +131,3 @@ them. You can find out more about this initiative here: [Coaching Companies](/co
 <p>Our crowd funding campaign is vitally important to Summer of Code. Your donation goes directly to participants, and makes a big difference to how many can be accepted. If your company can't sponsor an entire package, they can still donate via our crowd sourcing campaign.</p>
 </article>
 </article>
-
-
-
-
-
-
-
