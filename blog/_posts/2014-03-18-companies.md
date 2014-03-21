@@ -35,8 +35,8 @@ off on Twitter.
 Sponsors are listed on the site not only according to the size of their
 donation, but also their sign up date. Our sponsorship packages will remain the
 same as they were in 2013, giving you the opportunity to choose your desired
-package early! Take a look at last year's packages
-[here](http://2013.railsgirlssummerofcode.org/campaign).
+package early! Take a look at the packages we are planning to offer
+[here](http://railsgirlssummerofcode.org/sponsors/).
 
 Sponsor logos will be listed and linked via the Rails Girls Summer of Code
 homepage and on the dedicated "Sponsors" page, with a blurb text that you are
