@@ -60,14 +60,14 @@ community.
 
 ### Platinum
 
-* Everything from the Bronze package.
+* Everything from the Gold package.
 * You get a bigger logo and will be listed in the top section of the package
   sponsors (sorted by confirmed date of sponsorship).
 * Plus: Your company will be added to a "Hall of Fame" page (see below)
 
 ### Gold
 
-* Everything from the Bronze package.
+* Everything from the Silver package.
 * You get a bigger logo and will be listed higher up on these pages.
 * Plus: your logo in presentations about RGSoC (see below).
 
