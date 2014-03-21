@@ -22,7 +22,7 @@ We don't really know about tax laws everywhere in the world but according to
 our tax advisor: "Contributions and payments to Rails Girls Summer of Code are
 not deductible as charitable contributions for federal income tax purposes.
 However, they may be deductible under other provisions of the Internal Revenue
-Code (for US) or your local tax authority's advice."</p>
+Code (for US) or your local tax authority's advice."
 
 A word about VAT. Sorry to bother you - we'll keep a long story short. If
 you're not from Europe (to be precise - from the EU) you can skip this. For all
@@ -32,7 +32,7 @@ will show a field to ask for your VAT ID. If you have one please enter it -
 otherwise your contribution will be reduced by 19% VAT. You come from Germany?
 We will show you a field to ask if VAT is a recoverable tax for you. If so, we
 will add the 19% VAT to your contribution and ask you to complete your address
-data.</p>
+data.
 
 ###{#unknown} Question answered here?
 
