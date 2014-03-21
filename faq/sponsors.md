@@ -11,7 +11,6 @@ permalink: /faq/sponsors/
 ## FAQ: Sponsors
 
 * [What about VAT and tax deduction for my donations?](#vat-taxes)
-* [Question answered here?](#unknown)
 * [What happens you don't reach your goal or RGSoC gets cancelled?](#rgsoc-cancelled)
 * [What happens to any left-over budget from the 2014 Summer of Code?](#left-over-budget)
 
@@ -33,11 +32,13 @@ We will show you a field to ask if VAT is a recoverable tax for you. If so, we
 will add the 19% VAT to your contribution and ask you to complete your address
 data.
 
+<!--
 ###{#unknown} Question answered here?
 
 Summer of Code will offer a reduced amount of spots to students. We currently
 account for raising 5000 USD per student. E.g. if we raise 30,000 USD we will
 have enough budget to fund 6 students.
+-->
 
 ###{#rgsoc-cancelled} What happens you don't reach your goal or RGSoC gets cancelled?
 
