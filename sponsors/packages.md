@@ -3,7 +3,7 @@ layout: default
 title: Sponsors
 class: page page-sponsors
 current: sponsors
-permalink: sponsors/packages
+permalink: sponsors/packages/
 ---
 
 ## Sponsor Packages
