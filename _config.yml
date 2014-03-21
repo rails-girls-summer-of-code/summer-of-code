@@ -1,2 +1,3 @@
 safe: true
 permalink: /:title
+relative_permalinks: false
