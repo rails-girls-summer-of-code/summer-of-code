@@ -2,12 +2,17 @@
 class: page
 layout: default
 ---
-
 <section class="main container">
   <div class="wrapper clearfix">
-    <article>
+    <article class="content">
       {{ content }}
     </article>
+    {% if page.sidebar == "faq" %}
+      {% include faq_sidebar.html %}
+    {% endif %}
+    {% if page.scribble %}
+      {% include scribble_aside.html %}
+    {% endif %}
   </div>
 </section>
 
