@@ -25,7 +25,7 @@ Code (for US) or your local tax authority's advice."
 A word about VAT. Sorry to bother you - we'll keep a long story short. If
 you're not from Europe (to be precise - from the EU) you can skip this. For all
 the others: we have to struggle with the odd EU VAT regulations for the above
-mentioned packages. During you fill out the form and entered an EU country we
+mentioned packages. While you fill out the form and entered an EU country we
 will show a field to ask for your VAT ID. If you have one please enter it -
 otherwise your contribution will be reduced by 19% VAT. You come from Germany?
 We will show you a field to ask if VAT is a recoverable tax for you. If so, we
