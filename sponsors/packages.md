@@ -61,8 +61,7 @@ community.
 ### Platinum
 
 * Everything from the Gold package.
-* You get a bigger logo and will be listed in the top section of the package
-  sponsors (sorted by confirmed date of sponsorship).
+* You get a bigger logo and will be listed in the topmost sponsors section.
 * Plus: Your company will be added to a "Hall of Fame" page (see below)
 
 ### Gold
