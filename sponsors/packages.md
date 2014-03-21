@@ -85,11 +85,12 @@ community.
 * Lots of tweet love, hype and buzz from the community.
 
 
-We also offer a Diamond package. If you are interested please get in touch.
+We also offer a Diamond package. If you are interested please [get in touch](mailto:
+summer-of-code@railsgirls.com).
 
 Logos and links on the website will be sorted by package size and date.
 
-Please also see the [Sponsors section](/faq#sponsors) in our FAQ.  If you have
+Please also see the [Sponsors section](/faq/sponsors/) in our FAQ.  If you have
 any questions, comments, or don't feel this list quite represents what you have
 to offer, please get in touch: <a href="mailto:
 summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.
