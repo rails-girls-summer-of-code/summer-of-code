@@ -1,11 +1,11 @@
 ---
 layout: page
-title: FAQ
+title: "FAQ: Students"
 class: page page-faq
 current: students-faq
 sidebar: faq
 scribble: scribble5
-permalink: /students/faq/
+permalink: /faq/students/
 ---
 
 ## FAQ: Students

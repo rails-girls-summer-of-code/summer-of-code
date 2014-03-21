@@ -1,20 +1,19 @@
 ---
 layout: page
-title: FAQ
+title: "FAQ: Sponsors"
 class: page page-faq
 current: sponsor-faq
 sidebar: faq
 scribble: scribble5
-permalink: /sponsors/faq/
+permalink: /faq/sponsors/
 ---
 
 ## FAQ: Sponsors
 
-* [I'm sponsoring. What about VAT and tax deduction for my donations?](#vat-taxes)
+* [What about VAT and tax deduction for my donations?](#vat-taxes)
 * [Question answered here?](#unknown)
 * [What happens you don't reach your goal or RGSoC gets cancelled?](#rgsoc-cancelled)
 * [What happens to any left-over budget from the 2014 Summer of Code?](#left-over-budget)
-
 
 ###{#vat-taxes} What about VAT and tax deduction for my donations?
 

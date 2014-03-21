@@ -1,29 +1,10 @@
 <aside class="sidebar">
-    <div class="related">
-        <h3>See also</h3>
-        <ul>
-            <li><a href="/faq"      title="Main FAQ"                   {% if page.url == '/faq/'      %}class="current"{% endif %}>Main FAQ</a>
-            </li>
-            <li><a href="/student-faq"      title="Student's FAQ"                   {% if page.url == '/student-faq/'      %}class="current"{% endif %}>Student's FAQ</a>
-            </li>
-            <li><a href="/sponsor-faq"  title="Sponsor's FAQ"               {% if page.url == '/sponsor-faq/'  %}class="current"{% endif %}>Sponsor's FAQ</a>
-            </li>
-             <!-- <li><a href="/helper-faq"      title="Helper's FAQ"                   {% if page.url == '/orga-faq/'      %}class="current"{% endif %}>Helper's FAQ</a>
-            </li>-->
-            <!-- <li><a href="/find-coaches"  title="How to find coaches"        {% if page.url == '/find-coaches/'  %}class="current"{% endif %}>How to find coaches</a></li>
-            <li><a href="/find-projects" title="How to find projects"       {% if page.url == '/find-projects/' %}class="current"{% endif %}>How to find projects</a></li>
-            <li><a href="/projects"      title="How to submit your project" {% if page.url == '/projects/'      %}class="current"{% endif %}>Submit your project</a></li> -->
-        </ul>
-    </div>
-   <!--   <div {% if page.current-sub == 'tools' %} class="scribble11" {% endif %}
-    {% if page.current-sub == 'team-log' %} class="scribble15" {% endif %}
-    {% if page.current-sub == 'things-to-do' %} class="scribble16" {% endif %}
-    {% if page.current-sub == 'find-coaches' %} class="scribble17" {% endif %}
-    {% if page.current-sub == 'find-projects' %} class="scribble18" {% endif %}
-    {% if page.current-sub == 'students' %} class="scribble12" {% endif %}
-    ></div>-->
+  <div class="related">
+    <h3>See also</h3>
+    <ul>
+      <li><a href="/faq"          {% if page.url == '/faq/'          %}class="current"{% endif %}>Main FAQ</a></li>
+      <li><a href="/faq/students" {% if page.url == '/faq/students/' %}class="current"{% endif %}>Student's FAQ</a></li>
+      <li><a href="/faq/sponsors" {% if page.url == '/faq/sponsors/' %}class="current"{% endif %}>Sponsor's FAQ</a></li>
+    </ul>
+  </div>
 </aside>
-
-
-
-
