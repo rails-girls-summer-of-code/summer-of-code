@@ -395,7 +395,7 @@ a.button {
 }
 
 a.mainbutton {
-  font-size: 1.8em; 
+  font-size: 1.8em;
 }
 
 a.button {
@@ -633,7 +633,6 @@ ul {
   border-radius: 4px;
   padding: 5px 15px;
   margin-right: 15px;
-  margin-bottom: 2em;
   text-align: center;
 }
 .container ul.donation-plans li:before {
@@ -642,6 +641,9 @@ ul {
 }
 .container ul.donation-plans li {
   padding-top: 20px;
+}
+.container ul.donation-plans h4 {
+  margin: 0 0 1em 0;
 }
 .container ul.donation-plans p {
   text-align: left;

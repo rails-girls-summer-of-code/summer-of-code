@@ -4,7 +4,7 @@ layout: default
 ---
 <section class="main container">
   <div class="wrapper clearfix">
-    <article class="content">
+    <article class="{% if page.sidebar %}content{% endif %}">
       {{ content }}
     </article>
     {% if page.sidebar == "faq" %}
