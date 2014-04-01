@@ -3,6 +3,7 @@ layout: page
 title: Sponsors
 class: page page-sponsors
 current: sponsors
+stripe: true
 permalink: /sponsors/packages/
 ---
 
