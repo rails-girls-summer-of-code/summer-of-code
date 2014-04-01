@@ -802,7 +802,7 @@ ul.donation-plans a.button:active {
   margin: 2em 0 3em;
   border-top: 1px solid lightgray;
 }
-.sponsors-list li {
+.sponsors-list ul li {
   overflow: auto;
   clear: both;
   list-style-type: none;
