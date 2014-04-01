@@ -3,7 +3,7 @@ layout: page
 title: Campaign
 class: page page-campaign
 current: campaign
-stripe: true
+stripe: yes
 permalink: campaign/test/
 ---
 
