@@ -109,7 +109,8 @@
 .heading {
   height: 50px;
   background-color: white !important;
-  color: rgb(241, 66, 21) !important;
+  color: #666;
+  font-weight: bold;
 }
 .pagination {
   position: absolute;
