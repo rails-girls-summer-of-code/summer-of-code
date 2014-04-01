@@ -2,17 +2,6 @@
 
 $(document).ready(function() {
 
-/**
- * Accordion on the faq
- */
-	$('.accordion').accordion({
-		heightStyle: "content",
-		icons: {
-			"header": "accordion-header",
-			"activeHeader": "accordion-header-active"
-		}
-	});
-
 /* Donation Campaign */
   $(function() {
     if(location.hostname == 'localhost') {
