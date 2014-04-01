@@ -32,8 +32,11 @@ $(document).ready(function() {
     };
     var description = package == 'Custom' ? 'Your donation' : package + ' Sponsorship';
 
+    var stripe_key_live_mode = '';
+    var stripe_key_test_mode = 'pk_test_RUBGjkgJ0PCjuCQ1VaUCwKM2';
+
     StripeCheckout.open({
-      key:         location.hostname == 'localhost' ? 'pk_test_RUBGjkgJ0PCjuCQ1VaUCwKM2' : 'pk_test_RUBGjkgJ0PCjuCQ1VaUCwKM2',
+      key:         stripe_key_test_mode,
       address:     false,
       amount:      amount,
       currency:    'usd',
