@@ -230,9 +230,10 @@ textarea {
 }
 .keyvisual {
   position: relative;
-  top: -70px;
+  top: -30px;
   z-index: -1;
-  height: 39em;
+  height: 36em;
+  margin-bottom: 3em;
   background: url(https://f.cloud.github.com/assets/1711357/2420922/6127dfa0-ab7a-11e3-90b1-da630fdbc6e9.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -645,7 +646,7 @@ ul {
   top: -2px;
 }
 .custom-donation input[type=number] {
-  width: 120px;
+  width: 110px;
   height: 50px;
   padding: 0px 10px;
   margin-right: 0.5em;
@@ -896,7 +897,7 @@ ul {
   display: inline-block;
   width: 15px;
   height: 14px;
-  margin: 0 .8em;
+  margin: 0 .8em 0 0;
   background: url(../img/star-red.png) no-repeat;
 }
 .sponsors-container {
@@ -1038,6 +1039,7 @@ ul {
   .sidebar {
     width: 27%;
     float: right;
+    font-size: 0.9em;
   }
   .content-blog {
     width: 60%;
