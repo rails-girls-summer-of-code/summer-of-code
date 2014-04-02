@@ -280,20 +280,6 @@ textarea {
   text-transform: uppercase;
   text-align: center;
 }
-.list-redstar {
-  padding: 0;
-}
-.list-redstar li {
-  margin-bottom: .3em;
-}
-.list-redstar li:before {
-  content: "";
-  display: inline-block;
-  width: 15px;
-  height: 14px;
-  margin: 0 .8em;
-  background: url(../img/star-red.png) no-repeat;
-}
 .star-red {
   display: inline-block;
   width: 15px;
@@ -736,6 +722,21 @@ ul.donation-plans a.button:active {
   height: 61px;
   background-size: 151px;
 }
+.supporting-organizer:after {
+  content: "supporting organizer";
+  position: absolute;
+  top: 0.3em;
+  right: -5em;
+  width: 9em;
+  padding: .5em 3em;
+  font-size: 12px;
+  color: white;
+  line-height: 1.2;
+  background-color: lightgray;
+  transform: rotate(32deg);
+  -moz-transform: rotate(32deg);
+  -webkit-transform: rotate(32deg);
+}
 .sponsors ._37signals  { background-image: url(../img/sponsors/37signals.png); }
 .sponsors .anynines    { background-image: url(../img/sponsors/anynines_banner.png); }
 .sponsors .aupair      { background-image: url(../img/sponsors/aupair.png); }
@@ -822,6 +823,20 @@ ul.donation-plans a.button:active {
 }
 .sponsors-logo {
   padding: 1em 0;
+}
+.list-redstar {
+  padding: 0;
+}
+.list-redstar li {
+  margin-bottom: .3em;
+}
+.list-redstar li:before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 14px;
+  margin: 0 .8em;
+  background: url(../img/star-red.png) no-repeat;
 }
 
 
