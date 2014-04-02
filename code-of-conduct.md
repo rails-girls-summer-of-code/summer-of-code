@@ -84,9 +84,10 @@ She bloggs since 2006, e.g. for spreeblick.com and started kleinerdrei.org, a co
 <img src="/img/jenmyers.jpg" width="300">
 <p>Jen Myers is a web designer/developer and part of the instructor team at Dev Bootcamp in Chicago. In 2011, she founded the Columbus, Ohio chapter of Girl Develop It, an organization that provides introductory coding classes aimed at women, and currently works with Girl Develop It Chicago as a teacher and advisor. She speaks regularly about design, development and diversity, and focuses on finding new ways to make both technology and technology education accessible to everyone. She also is a single mother to an eight-year-old daughter who keeps her busy teaching HTML, playing video games and constantly learning.</p>
 
-+ Uta Caroline Sommer (external), [contact](uta.caroline.sommer@gmail.com) 
++ Uta Sommer (external), [contact](uta.caroline.sommer@gmail.com) 
 <img src="/img/utasommer.png" height="100px"/>
-<p></p>
+<p>Uta Sommer obtained a Bachelor’s degree in History and Gender Studies, just finished her Master in Gender Studies at Humboldt-University in Berlin and is currently planning her Ph.D. project. During her studies she was actively involved in the student representative group where she, amongst other things, worked as a student counselor.</p>
+
 
 + Anika Lindtner, [contact](mailto:anika@travis-ci.org)
 <img src="/img/anikalindtner.png" width="300">
