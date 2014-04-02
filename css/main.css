@@ -30,6 +30,7 @@ body {
 }
 section.main {
   margin-top: 2em;
+  overflow: auto;
 }
 ::-moz-selection {
   background: #b3d4fc;
@@ -157,6 +158,7 @@ textarea {
 }
 .header-container,
 .footer-container,
+.sponsors-container,
 .arrow-white {
     background-color: #de390c;
 }
@@ -279,20 +281,6 @@ textarea {
   font-size: 2rem;
   text-transform: uppercase;
   text-align: center;
-}
-.list-redstar {
-  padding: 0;
-}
-.list-redstar li {
-  margin-bottom: .3em;
-}
-.list-redstar li:before {
-  content: "";
-  display: inline-block;
-  width: 15px;
-  height: 14px;
-  margin: 0 .8em;
-  background: url(../img/star-red.png) no-repeat;
 }
 .star-red {
   display: inline-block;
@@ -704,8 +692,38 @@ ul.donation-plans a.button:active {
 /* ==========================================================================
    Sponsors
    ========================================================================== */
+
+.sponsors-container {
+  margin-top: 5em;
+  padding-top: 2em;
+}
+
+.sponsors-container h1 {
+  margin-bottom: 2em;
+  font-size: 26px;
+  color: white;
+  text-align: center;
+}
+.sponsors-container .wrapper {
+  margin-bottom: 0;
+}
+
+.align-left {
+  text-align: left;
+}
+.sponsors {
+  margin-bottom: 2em;
+  text-align: center;
+}
+.sponsors-logo {
+  position: relative;
+  overflow: hidden;
+  margin: 1em 0;
+}
 .sponsors a {
+  position: relative;
   display: inline-block;
+  overflow: hidden;
   border-radius: 5px;
   margin-right: 1em;
   margin-bottom: 0.8em;
@@ -736,8 +754,23 @@ ul.donation-plans a.button:active {
   height: 61px;
   background-size: 151px;
 }
+.supporting-organizer:after {
+  content: "supporting organizer";
+  position: absolute;
+  top: 0.3em;
+  right: -5em;
+  width: 9em;
+  padding: .5em 3em;
+  font-size: 12px;
+  color: white;
+  line-height: 1.2;
+  background-color: lightgray;
+  transform: rotate(32deg);
+  -moz-transform: rotate(32deg);
+  -webkit-transform: rotate(32deg);
+}
 .sponsors ._37signals  { background-image: url(../img/sponsors/37signals.png); }
-.sponsors .anynines    { background-image: url(../img/sponsors/anynines_banner.png); }
+.sponsors .anynines    { background-image: url(../img/sponsors/anynines.png); }
 .sponsors .aupair      { background-image: url(../img/sponsors/aupair.png); }
 .sponsors .bendyworks  { background-image: url(../img/sponsors/bendyworks.png); }
 .sponsors .codegram    { background-image: url(../img/sponsors/codegram.png); }
@@ -748,7 +781,7 @@ ul.donation-plans a.button:active {
 .sponsors .envato      { background-image: url(../img/sponsors/envato.png); }
 .sponsors .github      { background-image: url(../img/sponsors/github.png); }
 .sponsors .gnip        { background-image: url(../img/sponsors/gnip.png); }
-.sponsors .google      { background-image: url(../img/sponsors/google.png); }
+.sponsors .google      { background-image: url(../img/sponsors/google-2014.png); }
 .sponsors .groupon     { background-image: url(../img/sponsors/groupon.png); }
 .sponsors .innoq       { background-image: url(../img/sponsors/innoq.png); }
 .sponsors .honeybadger { background-image: url(../img/sponsors/honeybadger.png); }
@@ -761,7 +794,7 @@ ul.donation-plans a.button:active {
 .sponsors .soundcloud  { background-image: url(../img/sponsors/soundcloud.png); }
 .sponsors .shopify     { background-image: url(../img/sponsors/shopify.png); }
 .sponsors .supadupa    { background-image: url(../img/sponsors/supadupa.png); }
-.sponsors .travis      { background-image: url(../img/sponsors/travis.png); }
+.sponsors .travis      { background-image: url(../img/sponsors/travis-2014.png); }
 .sponsors .tilde       { background-image: url(../img/sponsors/tilde.png); }
 .sponsors .upworthy    { background-image: url(../img/sponsors/upworthy.png); }
 .sponsors .wimdu       { background-image: url(../img/sponsors/wimdu.png); }
@@ -821,7 +854,34 @@ ul.donation-plans a.button:active {
   text-align: center;
 }
 .sponsors-logo {
-  padding: 1em 0;
+  margin: 1em 0;
+}
+.list-redstar {
+  padding: 0;
+}
+.list-redstar li {
+  margin-bottom: .3em;
+}
+.list-redstar li:before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 14px;
+  margin: 0 .8em;
+  background: url(../img/star-red.png) no-repeat;
+}
+.sponsors-container {
+  padding-top: 2em;
+}
+
+.sponsors-container h1 {
+  margin-bottom: 2em;
+  font-size: 26px;
+  color: white;
+  text-align: center;
+}
+.sponsors-container .wrapper {
+  margin-bottom: 0;
 }
 
 
@@ -974,7 +1034,7 @@ ul.donation-plans a.button:active {
   }
   .sponsors-logo {
     float: left;
-    width: 20%;
+    width: 32%;
   }
   .sponsors-text {
     float: right;
