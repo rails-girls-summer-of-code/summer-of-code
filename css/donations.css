@@ -91,6 +91,9 @@
   background-image: url(/images/icons/recurring.png);
 }
 #thanks-folks table a {
+  display: inline-block;
+  height: 26px;
+  vertical-align: middle;
   color: #666;
   text-decoration: underline;
 }
