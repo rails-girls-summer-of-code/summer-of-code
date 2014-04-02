@@ -1,3 +1,4 @@
 safe: true
 permalink: /:title
 relative_permalinks: false
+markdown: kramdown
