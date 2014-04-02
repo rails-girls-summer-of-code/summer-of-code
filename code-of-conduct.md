@@ -73,9 +73,28 @@ We have set up a trust committee that consist of both people involved with organ
 ###Trust Committee 
 
 + Anne Wizorek (external), [contact](mailto:anne.wizorek@gmail.com)
+<img src="/img/annewizorek.png" width="300">
+
+<p>Anne Wizorek lives in the Internet and Berlin, where she works as a Digital Media Consultant.
+
+She bloggs since 2006, e.g. for spreeblick.com and started kleinerdrei.org, a collective Blog project about Policits, Pop and Feminism. She campaigns both off- and online for gender equality and is former co-organizer of re:publica and of the first Berlin SlutWalk. She initiated #aufschrei, which was used in the german twitter scene to share sexist experiences. </p>
+
 + Jen Myers (external), [contact](mailto:jen@jenmyers.net)
-+ Uta Caroline Sommer (external), [contact](uta.caroline.sommer@gmail.com) 
+
+<img src="/img/jenmyers.jpg" width="300">
+<p>Jen Myers is a web designer/developer and part of the instructor team at Dev Bootcamp in Chicago. In 2011, she founded the Columbus, Ohio chapter of Girl Develop It, an organization that provides introductory coding classes aimed at women, and currently works with Girl Develop It Chicago as a teacher and advisor. She speaks regularly about design, development and diversity, and focuses on finding new ways to make both technology and technology education accessible to everyone. She also is a single mother to an eight-year-old daughter who keeps her busy teaching HTML, playing video games and constantly learning.</p>
+
++ Uta Sommer (external), [contact](uta.caroline.sommer@gmail.com) 
+<img src="/img/utasommer.png" height="100px"/>
+<p>Uta Sommer obtained a Bachelor’s degree in History and Gender Studies, just finished her Master in Gender Studies at Humboldt-University in Berlin and is currently planning her Ph.D. project. During her studies she was actively involved in the student representative group where she, amongst other things, worked as a student counselor.</p>
+
+
 + Anika Lindtner, [contact](mailto:anika@travis-ci.org)
+<img src="/img/anikalindtner.png" width="300">
+<p>Anika Lindtner was born and raised in Berlin, studied Linguistics and Gender Studies. She works at Travis CI and runs the Travis Foundation that wants to make Open Source even better, e.g. fostering diversity in Open Source and Tech in general. Anika co-founded Rails Girls Berlin and this is the second edition of Rails Girls Summer of Code, which she is involved as a core organizer. </p>
+
+
+
 + Sven Fuchs, [contact](mailto:me@svenfuchs.com) 
 
 
