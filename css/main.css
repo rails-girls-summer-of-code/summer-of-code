@@ -714,6 +714,36 @@ ul.donation-plans a.button:active {
 .align-left {
   text-align: left;
 }
+#sponsors ul {
+  margin: 0;
+  padding: 0;
+}
+#sponsors li {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+#sponsors h4 {
+  position: absolute;
+  left: -25px;
+  margin: 0;
+  text-align: right;
+  text-transform: capitalize;
+  font-size: 0.8em;
+  font-weight: normal;
+  color: #ddd;
+  transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  transform-origin: left top;
+  -o-transform-origin: left top;
+  -ms-transform-origin: left top;
+  -moz-transform-origin: left top;
+  -webkit-transform-origin: left top;
+}
 .sponsors {
   margin-bottom: 2em;
 }
@@ -735,41 +765,41 @@ ul.donation-plans a.button:active {
 .sponsors a:last-child {
   margin-right: 0;
 }
+#sponsors .platinum h4 {
+  top: 175px;
+}
 .sponsors.platinum a {
   width: 320px;
   height: 181px;
+}
+#sponsors .gold h4 {
+  top: 125px;
 }
 .sponsors.gold a {
   width: 320px;
   height: 131px;
 }
+#sponsors .silver h4 {
+  top: 87px;
+}
 .sponsors.silver a {
   width: 235px;
   height: 93px;
+}
+#sponsors .bronze h4 {
+  top: 70px;
 }
 .sponsors.bronze a {
   width: 184px;
   height: 75px;
 }
-.sponsors.scholarship a {
+#sponsors .conferences h4 {
+  top: 60px;
+}
+.sponsors.conferences a {
   width: 151px;
   height: 61px;
   background-size: 151px;
-}
-.supporting-organizer:after {
-  content: "supporting organizer";
-  position: absolute;
-  top: 0.3em;
-  right: -5em;
-  width: 9em;
-  padding: .5em 3em;
-  font-size: 12px;
-  color: white;
-  line-height: 1.2;
-  background-color: lightgray;
-  transform: rotate(32deg);
-  -moz-transform: rotate(32deg);
-  -webkit-transform: rotate(32deg);
 }
 .sponsors .badge:after {
   font-family: Helvetica Neue, Arial, sans-serif;
