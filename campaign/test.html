@@ -8,15 +8,7 @@ sponsors: yes
 permalink: campaign/test/
 ---
 
-<form id="stripe-form" method="post" action="https://campaign.railsgirlssummerofcode.org/donations/checkout">
-  <input type="hidden" name="stripe_card_token" />
-  <input type="hidden" name="amount" />
-  <input type="hidden" name="package" />
-</form>
-
 <h2>Please support Rails Girls Summer of Code 2014!</h2>
-
-<!-- <aside class="sidebar"> <img src="/img/scribbles/scribble_coins3.png" width="300 px"></aside> -->
 
 <p>
   Rails Girls Summer of Code offers three-months full time scholarships to
@@ -58,28 +50,7 @@ permalink: campaign/test/
   Or go ahead and sign up as a sponsor right now:
 </p>
 
-<ul class="donation-plans" id="sponsoring">
-  <li>
-    <h4>Platinum: 10000 USD</h4>
-    <a href="#" class="donate-button button" data-amount="10000" data-name="Platinum">Become a Sponsor</a>
-  </li>
-  <li>
-    <h4>Gold: 5000 USD</h4>
-    <a href="#" class="donate-button button" data-amount="5000" data-name="Gold">Become a Sponsor</a>
-  </li>
-  <li>
-    <h4>Silver: 2500 USD</h4>
-    <a href="#" class="donate-button button" data-amount="2500" data-name="Silver">Become a Sponsor</a>
-  </li>
-  <li>
-    <h4>Bronze: 1000 USD</h4>
-    <a href="#" class="donate-button button" data-amount="1000" data-name="Bronze">Become a Sponsor</a>
-  </li>
-</ul>
-
-<p class="stripe-note">
-  Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a>
-</p>
+{% include sponsor_packages.html %}
 
 <section id="thanks-folks">
   <h2>Thank you so much!</h2>

@@ -161,7 +161,7 @@ textarea {
 .footer-container,
 .sponsors-container,
 .arrow-white {
-    background-color: #de390c;
+  background-color: #C4220D;
 }
 .index .header-container {
 }
@@ -211,7 +211,7 @@ textarea {
 
 .index .main .content {
   margin-bottom: 4em;
-  border-top: 4px solid #de390c;
+  border-top: 4px solid #D82222;
 }
 .keyvisual {
   position: relative;
@@ -256,7 +256,7 @@ textarea {
 }
 .hero-claim {
   font-size: 18px;
-  color: #de390c;
+  color: #C4220D;
   margin-top: 1em;
 }
 .hero-claim2 {
@@ -274,8 +274,8 @@ textarea {
   line-height: 42px;
 }
 .hero h1, .hero h2, .hero-title {
-  color: #de390c;
-  text-shadow: 3px 3px #fce2c1;
+  color: #C4220D;
+  text-shadow: 3px 3px #fcd6c1;
 }
 .hero-title {
   margin-bottom: .3em;
@@ -303,7 +303,7 @@ textarea {
 
 .page-faq h3 {
   margin: 2em 0;
-  color: #de390c;
+  color: #D82222;
   font-size: 1.4em;
 }
 .accordion h3:hover {
@@ -320,7 +320,7 @@ textarea {
   margin-right: .5em;
   background-position: 19px 10px;
   background-repeat: no-repeat;
-  background-color: #de390c;
+  background-color: #D82222;
   vertical-align: bottom;
 }
 .ui-accordion-header:before {
@@ -330,7 +330,7 @@ textarea {
 }
 .ui-accordion-header:hover:before {
   background-image: url(../img/sprites/faq_arrow_down_red.png);
-  background-color: #de390c;
+  background-color: #D82222;
   border-radius: 5px;
 }
 .ui-accordion-header-active:before {
@@ -346,64 +346,19 @@ textarea {
 /* ===================
     Buttons (Call to action)
    =================== */
-/* credits for button effect go to
-http://inspectelement.com/tutorials/create-a-slick-css3-button-with-box-shadow-and-rgba */
 
-a.mainbutton,
-a.button {
-  margin: 2em 1em 0 0;
-  padding: 20px;
-  background-color: #e53f05;
+.button {
+  display: inline-block;
+  padding: 1em 1em;
   color: white;
-  text-decoration: none;
-  font-size: 1.2em;
-  font-weight: normal;
-  -webkit-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
-  -moz-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
-  box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 5px;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: #D82222;
 }
-
-.mainbutton:hover,
 .button:hover {
   color: white;
   text-decoration: none;
-}
-.mainbutton:active,
-.button:active {
-  text-decoration: none;
-  color: white;
-  -webkit-box-shadow: inset 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
-  box-shadow: inset 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
-}
-.button:hover .icon-star-white {
-  opacity: 1;
-
-}
-.icon-star-white {
-  display: inline-block;
-  width: 13px;
-  height: 12px;
-  margin: 0em .2em .1em .6em;
-  opacity: 0;
-  background-image: url(/img/star.png);
-}
-
-a.mainbutton {
-  font-size: 1.8em;
-}
-
-a.button {
-  display: inline-block;
-}
-
-.centerbutton {
-text-align: center;
-position: relative;
-top: 18em;
-z-index: 2;
+  background-color: #f00e0e;
 }
 
 .title {
@@ -411,11 +366,11 @@ z-index: 2;
 }
 
 a {
-  color: #de390c;
+  color: #D82222;
   text-decoration: none;
 }
 a:hover {
-  color: #de390c;
+  color: #D82222;
   text-decoration: underline;
 }
 
@@ -509,7 +464,7 @@ ul {
 }
 .frontpage-sidebar {
   margin-bottom: 4em;
-  border-top: solid 4px #de390c;
+  border-top: solid 4px #D82222;
 }
 .frontpage-sidebar .blogroll {
   margin: 0;
@@ -532,7 +487,7 @@ ul {
 }
 .newsletter {
   padding: 0;
-  border-top: solid 4px #de390c;
+  border-top: solid 4px #D82222;
 }
 .blog .newsletter {
   padding: 1em 0 2em;
@@ -613,16 +568,16 @@ ul {
    Campaign styles: ;
    ========================================================================== */
 
-.donation-plans {
+#sponsor-packages {
   float: left;
 }
 
-.container ul.donation-plans {
+#sponsor-packages {
   width: 100%;
   margin-bottom: 0.5em;
   padding-left: 0px;
 }
-.container ul.donation-plans li {
+#sponsor-packages li {
   display: inline-block;
   position: relative;
   width: 210px;
@@ -635,49 +590,49 @@ ul {
   margin-right: 15px;
   text-align: center;
 }
-.container ul.donation-plans li:before {
+#sponsor-packages li:last-child {
+  margin-right: 0;
+}
+#sponsor-packages li:before {
   content: "";
   color: white;
 }
-.container ul.donation-plans li {
+#sponsor-packages li {
   padding-top: 20px;
 }
-.container ul.donation-plans h4 {
+#sponsor-packages h4 {
   margin: 0 0 1em 0;
+  color: #444;
 }
-.container ul.donation-plans p {
+#sponsor-packages p {
   text-align: left;
 }
-#sponsoring {
+#sponsor-packages {
   position: relative;
 }
-ul.donation-plans .donate-button {
+#sponsor-packages .button {
+  display: block;
   margin: 0 auto;
   text-align: center;
   width: 180px;
   margin-bottom: 15px;
 }
-.donate-button.button {
-  position: relative;
-  top: -3px;
-  font-size: 1em;
-  padding: 15px;
-}
-ul.donation-plans a.button:active {
+#sponsor-packages a.button:active {
   position: inherit;
 }
 .custom-donation {
   margin-bottom: 0.5em;
 }
 .custom-donation .button {
-  margin-top: 0;
+  position: relative;
+  top: -2px;
 }
 .custom-donation input[type=number] {
+  width: 120px;
   height: 50px;
   padding: 0px 10px;
+  margin-right: 0.5em;
   font-size: 24px;
-  width: 120px;
-  margin-right: 20px;
 }
 .footnote {
   font-size: 90%;
@@ -991,7 +946,7 @@ ul.donation-plans a.button:active {
     padding-left: 7em;
     margin-right: -3em;
     padding-right: 8em;
-    padding-top: 3em;
+    /* padding-top: 3em; */
     background: url(../img/scribbles-frontpage.png) no-repeat scroll 52% 0% transparent;
   }
   .hamburger {
@@ -1042,7 +997,7 @@ ul.donation-plans a.button:active {
     display: block;
     z-index: 99;
     margin-left: -2em;
-    background-color: #de390c;
+    background-color: #C4220D;
   }
   .nav-primary > ul > li:hover ul li {
     display: block;
@@ -1132,7 +1087,7 @@ ul.donation-plans a.button:active {
     .sponsors div {
         width: 20%;
     }
-    .container ul.donation-plans {
+    #sponsor-packages {
       width: 105%;
       padding-left: 0px;
     }

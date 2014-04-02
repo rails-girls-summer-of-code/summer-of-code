@@ -63,7 +63,12 @@
     </header>
     </div>
 
+
     {{ content }}
+
+    {% if page.stripe %}
+      {% include stripe_form.html %}
+    {% endif %}
 
     <div class="footer-container">
       <footer id="sponsors" class="wrapper">

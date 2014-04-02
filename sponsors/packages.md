@@ -29,34 +29,7 @@ Twitter, Facebook, blogs or at conferences and local developers meet ups. It’s
 a great blend of marketing, and genuinely contributing to the development
 community.
 
-<form id="stripe-form" method="post" action="https://campaign.railsgirlssummerofcode.org/donations/checkout">
-  <input type="hidden" name="stripe_card_token" />
-  <input type="hidden" name="amount" />
-  <input type="hidden" name="package" />
-</form>
-
-<ul class="donation-plans" id="sponsoring">
-  <li>
-    <h4>Platinum: 10000 USD</h4>
-    <a href="#" class="donate-button button" data-amount="10000" data-name="Platinum">Become a Sponsor</a>
-  </li>
-  <li>
-    <h4>Gold: 5000 USD</h4>
-    <a href="#" class="donate-button button" data-amount="5000" data-name="Gold">Become a Sponsor</a>
-  </li>
-  <li>
-    <h4>Silver: 2500 USD</h4>
-    <a href="#" class="donate-button button" data-amount="2500" data-name="Silver">Become a Sponsor</a>
-  </li>
-  <li>
-    <h4>Bronze: 1000 USD</h4>
-    <a href="#" class="donate-button button" data-amount="1000" data-name="Bronze">Become a Sponsor</a>
-  </li>
-</ul>
-
-<p class="stripe-note">
-  <small>Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a></small>
-</p>
+{% include sponsor_packages.html %}
 
 
 ### Platinum

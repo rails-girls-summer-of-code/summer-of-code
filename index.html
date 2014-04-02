@@ -60,9 +60,11 @@ class: index
             <div class="blog-teaser">
                 <h3><a href="/{{latest_post.permalink}}">{{ latest_post.title }}</a></h3>
                 <div class="teaser-date">Posted on {{ latest_post.created_at }}</div>
-                <div class="teaser-content">{{ latest_post.content }}</div>
+                {{ latest_post.content }}
+                <p>
+                  <a href="/blog" class="button" title="to our blog">Read more on our blog! <i class="icon-star-white"></i></a>
+                </p>
             </div>
-            <a href="/blog" class="button" title="to our blog">Read more on our blog! <i class="icon-star-white"></i></a>
         </div>
     </article>
 
