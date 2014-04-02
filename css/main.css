@@ -788,13 +788,13 @@ ul {
   -webkit-transform: rotate(45deg);
 }
 .sponsors .lead-support:after {
-  content: "Lead support + Organization";
+  content: "Lead support + organization";
   top: 19px;
   right: -36px;
   width: 70px;
 }
 .sponsors .support:after {
-  content: "Support + Organization";
+  content: "Support + organization";
   top: 11px;
   right: -44px;
   width: 70px;
