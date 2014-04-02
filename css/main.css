@@ -161,7 +161,7 @@ textarea {
 .footer-container,
 .sponsors-container,
 .arrow-white {
-  background-color: #C4220D;
+  background-color: #D82222;
 }
 .index .header-container {
 }
@@ -459,8 +459,10 @@ ul {
   padding-top: 1em;
   padding-bottom: 2em;
 }
-.sidebar h2, .sidebar h3 {
-  color: #390d00;
+.sidebar h1,
+.sidebar h2,
+.sidebar h3 {
+  /* color: #D82222; */
 }
 .frontpage-sidebar {
   margin-bottom: 4em;
@@ -997,7 +999,7 @@ ul {
     display: block;
     z-index: 99;
     margin-left: -2em;
-    background-color: #C4220D;
+    background-color: #D82222;
   }
   .nav-primary > ul > li:hover ul li {
     display: block;
