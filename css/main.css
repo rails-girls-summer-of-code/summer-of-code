@@ -184,6 +184,9 @@ textarea {
   border-bottom: white 1px solid;
   text-decoration: none;
 }
+.nav-primary > ul > li > a {
+  text-transform: uppercase;
+}
 .nav-primary ul li a:hover {
   background-color: rgba(182, 57, 12, 1)
 }
