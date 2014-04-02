@@ -32,7 +32,7 @@ $(document).ready(function() {
     };
     var description = package == 'Custom' ? 'Your donation' : package + ' Sponsorship';
 
-    var stripe_key_live_mode = 'sk_live_Qju63CUnWplrtTkge8n6A1wW';
+    var stripe_key_live_mode = 'pk_live_CDQ1VjqbJHkFUm1qOGzeMI30';
     var stripe_key_test_mode = 'pk_test_RUBGjkgJ0PCjuCQ1VaUCwKM2';
 
     StripeCheckout.open({
