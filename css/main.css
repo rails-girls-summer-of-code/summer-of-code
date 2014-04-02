@@ -176,19 +176,31 @@ textarea {
 .nav-primary > ul {
   display: none;
 }
+.nav-primary ul li {
+  position: relative;
+}
 .nav-primary ul li a {
   display: inline-block;
   width: 100%;
-  padding: .5em 0;
+  padding: 1em 1em;
   color: white;
   border-bottom: white 1px solid;
   text-decoration: none;
+  white-space: nowrap;
 }
 .nav-primary > ul > li > a {
+  margin-right: 1em;
   text-transform: uppercase;
+}
+.nav-primary > ul > li:last-child > a {
+  margin-right: 0;
 }
 .nav-primary ul li a:hover {
   background-color: rgba(182, 57, 12, 1)
+  text-decoration: none;
+}
+.nav-primary > ul > li li a {
+  padding: 1em 2em;
 }
 .hamburger {
   position: absolute;
@@ -961,8 +973,8 @@ ul {
     display: block;
     position: relative;
     width: auto;
-    margin-top: .8em;
     float: right;
+    margin-top: 7px;
   }
   .nav-primary > ul > li {
     display: inline-block;
@@ -976,10 +988,13 @@ ul {
   }
   .nav-primary > ul > li:after {
     content: '';
+    position: absolute;
     display: inline-block;
-    height: 20px;
+    top: 19px;
+    right: -27px;
     width: 40px;
-    background: url(/img/star.png) 16px 8px no-repeat;
+    height: 20px;
+    background: url(/img/star.png) top left no-repeat;
   }
   .nav-primary > ul > li:last-of-type:after {
     display: none;
@@ -1001,7 +1016,8 @@ ul {
     position: absolute;
     display: block;
     z-index: 99;
-    margin-left: -2em;
+    min-width: 110px;
+    margin-left: -1em;
     background-color: #D82222;
   }
   .nav-primary > ul > li:hover ul li {
@@ -1011,8 +1027,8 @@ ul {
   .nav-primary > ul > li:first-of-type:hover a.current-page {
     background-image: none;
   }
-  .nav-primary > ul > li li a {
-    padding: 0.5em 2em;
+  .nav-primary .strong {
+    color: #FFFF65;
   }
 
   .content {
