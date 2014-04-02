@@ -18,7 +18,8 @@
         <meta name="description" content="Rails Girls Summer of Code 2013">
         <meta name="viewport" content="width=device-width">
 
-        <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Gentium+Basic:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="/css/normalize.min.css">
         <link rel="stylesheet" href="/css/main.css">
         <link rel="stylesheet" href="/css/donations.css">
@@ -35,36 +36,33 @@
         <script src="/js/blogroll.js"></script>
     </head>
     <body class="{{ page.class }}">
-        <div class="header-container {% if page.current == 'index' %}no-scroll{% endif %}">
-            <header class="wrapper clearfix">
-                <a href="/" class=""><h1 class="logo-nav ir">Rails Girls Summer of Code</h1></a>
-                <nav class="nav-primary clearfix">
-                    <div class="hamburger"><i></i></div>
-                    <ul>
-                        <li><a href="/about" {% if page.current == 'about' %}class="current-page"{% endif %}>About</a>
-                            <ul>
-                                <li><a href="/press" {% if page.current == 'press' %}class="current-page"{% endif %}>Press</a></li>
-                                <li><a href="/faq" {% if page.current == 'faq' %}class="current-page"{% endif %}>FAQ</a></li>
-                                <li><a href="/roles" {% if page.current == 'roles' %}class="current-page"{% endif %}>Roles</a></li>
-                            </ul>
-                        </li>
-
-                        <li><a href="/blog" {% if page.current == 'blog' %}class="current-page"{% endif %}>Blog</a></li>
-                        <li><a href="#" {% if page.current == 'get-involved' %}class="current-page"{% endif %}>Get Involved</a>
-                            <ul>
-                                <li><a href="/coaching" {% if page.current == 'coaching' %}class="current-page"{% endif %}>Become a Coach</a></li>
-                                <li><a href="/coaching-companies" {% if page.current == 'faq' %}class="current-page"{% endif %}>Coaching Company</a></li>
-                                <li><a href="/sponsors" {% if page.current == 'sponsors' %}class="current-page"{% endif %}>Be a Sponsor</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="/application-guide" {% if page.current == 'application-guide' %}class="current-page"{% endif %}>Application Guide</a></li>
-
-                        <li><a href="http://teams.railsgirlssummerofcode.org/application">Apply NOW!</a></li>
-
-                    </ul>
-                </nav>
-            </header>
-        </div>
+      <div class="header-container {% if page.current == 'index' %}no-scroll{% endif %}">
+      <header class="wrapper clearfix">
+        <a href="/" class=""><h1 class="logo-nav ir">Rails Girls Summer of Code</h1></a>
+        <nav class="nav-primary clearfix">
+          <ul>
+            <li>
+              <a href="/about" {% if page.current == 'about' %}class="current-page"{% endif %}>About</a>
+              <ul>
+                <li><a href="/press" {% if page.current == 'press' %}class="current-page"{% endif %}>Press</a></li>
+                <li><a href="/faq" {% if page.current == 'faq' %}class="current-page"{% endif %}>FAQ</a></li>
+                <li><a href="/roles" {% if page.current == 'roles' %}class="current-page"{% endif %}>Roles</a></li>
+              </ul>
+            </li>
+            <li><a href="/blog" {% if page.current == 'blog' %}class="current-page"{% endif %}>Blog</a></li>
+            <li><a href="#" {% if page.current == 'get-involved' %}class="current-page"{% endif %}>Get Involved</a>
+            <ul>
+              <li><a href="/coaching" {% if page.current == 'coaching' %}class="current-page"{% endif %}>Become a Coach</a></li>
+              <li><a href="/coaching-companies" {% if page.current == 'faq' %}class="current-page"{% endif %}>Coaching Company</a></li>
+              <li><a href="/sponsors" {% if page.current == 'sponsors' %}class="current-page"{% endif %}>Be a Sponsor</a></li>
+            </ul>
+            </li>
+            <li><a href="/application-guide" {% if page.current == 'application-guide' %}class="current-page"{% endif %}>Application Guide</a></li>
+            <li><a href="http://teams.railsgirlssummerofcode.org/application">Apply Now!</a></li>
+          </ul>
+        </nav>
+      </header>
+      </div>
 
         {{ content }}
 

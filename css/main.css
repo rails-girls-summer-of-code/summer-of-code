@@ -24,32 +24,39 @@ html {
   overflow-x: hidden;
 }
 body {
-    font-size: 1em;
-    font: 16px/26px Helvetica Neue, Arial;
-    overflow-x: hidden;
+  font-size: 0.9em;
+  font-family: OpenSans, Helvetica Neue, Arial;
+  overflow-x: hidden;
+}
+section.main {
+  margin-top: 2em;
 }
 ::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
+  background: #b3d4fc;
+  text-shadow: none;
 }
 ::selection {
-    background: #b3d4fc;
-    text-shadow: none;
+  background: #b3d4fc;
+  text-shadow: none;
 }
 p {
-  line-height: 1.7;
-  margin: 1.6em 0 1.2em
+  /* line-height: 1.7; */
+  /* margin: 1.6em 0 1.2em */
+  line-height: 170%;
+}
+p + ul {
+  margin-top: 2em;
 }
 img {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 fieldset {
-    border: 0;
-    margin: 0;
-    padding: 0;
+  border: 0;
+  margin: 0;
+  padding: 0;
 }
 textarea {
-    resize: vertical;
+  resize: vertical;
 }
 /* ===============
     ALL: IE Fixes
@@ -63,8 +70,11 @@ textarea {
   ====================================================== */
 
 .blog h1 {
-  line-height: 1;
-  color: #666;
+  /* line-height: 120%; */
+  color: #444;
+}
+.blog h1 a {
+  color: #444;
 }
 .blog .announce {
   margin: 1em 0;
@@ -123,8 +133,8 @@ textarea {
    ========================================================================== */
 
 .wrapper {
-    width: 90%;
-    margin: 5%;
+  width: 90%;
+  margin: 0 5%;
 }
 .index .wrapper {
   margin-bottom: 0;
@@ -139,6 +149,7 @@ textarea {
 }
 
 .header-container {
+  height: 66px;
   transition: all .5s ease;
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
@@ -150,7 +161,6 @@ textarea {
     background-color: #de390c;
 }
 .index .header-container {
-  padding-bottom: .6em;
 }
 
 /* ===================
@@ -225,9 +235,9 @@ textarea {
 }
 .hero-sub {
   color: #380c01;
-  font-family: 'Interstate', sans-serif;
   font-size: 18px;
   text-transform: uppercase;
+  font-weight: 600;
 }
 .hero-sub:before {
   content: "";
@@ -249,7 +259,6 @@ textarea {
 .hero-claim2 {
   font-size: 18px;
   margin-top: 1em;
-
 }
 .hero h1 {
   font-size: 75px;
@@ -360,7 +369,6 @@ a.button {
   text-decoration: none;
   font-size: 1.2em;
   font-weight: normal;
-  font-family: Interstate;
   -webkit-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
   box-shadow: inset 0px -3px 1px rgba(0, 0, 0, 0.45), 0px 2px 2px rgba(0, 0, 0, 0.25);
@@ -426,21 +434,22 @@ h1,
 h2,
 h3,
 .button h3 {
-  font-family: 'Interstate', sans-serif;
   font-weight: normal;
+  color: #444;
 }
 
 h1 {
   font-size: 2.5em;
 }
 h2 {
-  margin: .8em 0 1.1em;
+  /* margin: 1em 0 0.5em; */
   font-size: 2em;
   font-weight: normal;
   line-height: 1.5;
 }
 h3 {
-  font-size: 1.7em;
+  /* margin: 1em 0 0.5em; */
+  font-size: 1.6em;
 }
 ul {
   list-style-type: none;
@@ -885,6 +894,8 @@ ul.donation-plans a.button:active {
     display: inline-block;
     width: auto;
     border: none;
+    font-size: 0.9em;
+    padding-bottom: 1.2em;
   }
   .nav-primary > ul > li:after {
     content: '';
@@ -900,8 +911,7 @@ ul.donation-plans a.button:active {
     background-color: transparent;
     text-decoration: underline;
   }
-  .nav-primary > ul > li a.current-page {
-    padding-bottom: 1.2em;
+  .nav-primary > ul > li > a.current-page:after {
     background-image: url(../img/sprites/nav_active_arrow.png);
     background-repeat: no-repeat;
     background-position: center 41px;
@@ -985,7 +995,9 @@ ul.donation-plans a.button:active {
     .wrapper,
     .wrapper-blog {
         width: 1026px; /* 1140px - 10% for margins */
-        margin: 0 auto 3em;
+        margin-left: auto;
+        margin-right: auto;
+        /* margin: 0 auto 3em; */
     }
     .wrapper-blog {
       position: relative;
