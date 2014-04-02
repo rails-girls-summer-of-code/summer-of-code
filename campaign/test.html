@@ -1,40 +1,73 @@
 ---
-layout: default
+layout: page
 title: Campaign
 class: page page-campaign
 current: campaign
 stripe: yes
+sponsors: yes
 permalink: campaign/test/
 ---
-<div class="main container">
-  <div class="wrapper clearfix">
+
 <form id="stripe-form" method="post" action="https://campaign.railsgirlssummerofcode.org/donations/checkout">
   <input type="hidden" name="stripe_card_token" />
   <input type="hidden" name="amount" />
   <input type="hidden" name="package" />
 </form>
 
-<h2>Ready, set, donate!</h2>
+<h2>Please support Rails Girls Summer of Code 2014!</h2>
 
-<aside class="sidebar"> <img src="/img/scribbles/scribble_coins3.png" width="300 px">
-    </aside>
+<!-- <aside class="sidebar"> <img src="/img/scribbles/scribble_coins3.png" width="300 px"></aside> -->
 
-<p>Rails Girls Summer of Code works towards more diversity in Open Source, by subsidising programming newcomers to work on Open Source projects. In donating you help us fund their scholarships.
+<!--
+<p>
+  Rails Girls Summer of Code works towards more diversity in Open Source, by
+  subsidising programming newcomers to work on Open Source projects. In donating
+  you help us fund their scholarships.
 </p>
 <br><br>
+-->
+<p>
+  Rails Girls Summer of Code offers three-months full time scholarships to
+  programming newcomers. Last year's Summer of Code has been a raging success.
+  This year, we will make another Summer full of Code happen <strong>with your
+  help!</strong>
+</p>
+
+
+<h3>
+  Please support us!
+</h3>
 
 <p class="custom-donation">
   <input type="number" id="custom-donation-amount" placeholder="75.00" min="0" step="25.00"/>
-  <a href="#" class="donate-button button" data-custom="true" data-name="Custom">Donate Now <i class="icon-star-white"></i></a>
+  <a href="#" class="donate-button button" data-custom="true" data-name="Custom">
+    Donate Now <i class="icon-star-white"></i>
+  </a>
 </p>
 
-<p>Our goal is to <strong>support 10 teams</strong> (i.e. 20 Rails Girls students) to work full-time on their projects – changing the face of tech, one woman at a time.</p>
+<p class="stripe-note">
+  Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a>
+</p>
 
-<h3>Become An Amazing Sponsor Now!</h3>
+<p>
+  We aim to <strong>support 20 students</strong> (10 pairs) to work full-time,
+  expanding their knowledge and coding skills by contributing to a great Open
+  Source project &mdash; changing the face of Open Source, one woman at a time.
+</p>
 
-   <p>To support our mission in bigger steps, your company can choose between these shiny packages. <a href="/sponsors/packages">Check out what's in it</a>! </p>
+<h3>Become a Sponsor!</h3>
 
-   <ul class="donation-plans" id="sponsoring">
+<p>
+  To support our mission in bigger steps, please ask your company to become a sponsor.
+  You can find all the details about our <a href="/sponsors/packages">Sponsor Packages</a>.
+  If you have any questions please don't hesitate to <a href="mailto:summer-of-code@railsgirls.com.">email us</a>.
+</p>
+
+<p>
+  Or go ahead and sign up as a sponsor right now:
+</p>
+
+<ul class="donation-plans" id="sponsoring">
   <li>
     <h4>Platinum: 10000 USD</h4>
     <a href="#" class="donate-button button" data-amount="10000" data-name="Platinum">Become a Sponsor</a>
@@ -54,11 +87,11 @@ permalink: campaign/test/
 </ul>
 
 <p class="stripe-note">
-  <small>Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a></small>
+  Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a>
 </p>
 
 <section id="thanks-folks">
-  <h3>Thank you so much!</h3>
+  <h2>Thank you so much!</h2>
   <table id="donations">
     <colgroup>
       <col class="col-gravatar"></col>
@@ -117,16 +150,5 @@ permalink: campaign/test/
       </tr>
     </tfoot>
   </table>
+  <p>This community is just amazing. Thank you so much!</p>
 </section>
-</div>
-</div>
-    {% if page.sidebar == "faq" %}
-      {% include faq_sidebar.html %}
-    {% endif %}
-    {% if page.scribble %}
-      {% include scribble_aside.html %}
-    {% endif %}
-  </div>
-</section>
-{% include sponsors_footer.html %}
-

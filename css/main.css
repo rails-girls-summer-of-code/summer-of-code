@@ -30,6 +30,7 @@ body {
 }
 section.main {
   margin-top: 2em;
+  margin-bottom: 3em;
   overflow: auto;
 }
 ::-moz-selection {
@@ -618,6 +619,7 @@ ul {
 
 .container ul.donation-plans {
   width: 100%;
+  margin-bottom: 0.5em;
   padding-left: 0px;
 }
 .container ul.donation-plans li {
@@ -665,7 +667,7 @@ ul.donation-plans a.button:active {
   position: inherit;
 }
 .custom-donation {
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 .custom-donation .button {
   margin-top: 0;
@@ -682,6 +684,7 @@ ul.donation-plans a.button:active {
 }
 .stripe-note {
   margin-top: 0px;
+  font-size: 0.8em;
   color: #bbb;
 }
 .stripe-note a {
@@ -699,11 +702,10 @@ ul.donation-plans a.button:active {
   padding-top: 2em;
 }
 
-.sponsors-container h1 {
+#sponsors h3 {
   margin-bottom: 2em;
   font-size: 26px;
   color: white;
-  text-align: center;
 }
 .sponsors-container .wrapper {
   margin-bottom: 0;
@@ -714,7 +716,6 @@ ul.donation-plans a.button:active {
 }
 .sponsors {
   margin-bottom: 2em;
-  text-align: center;
 }
 .sponsors-logo {
   position: relative;
@@ -769,6 +770,31 @@ ul.donation-plans a.button:active {
   transform: rotate(32deg);
   -moz-transform: rotate(32deg);
   -webkit-transform: rotate(32deg);
+}
+.sponsors .badge:after {
+  font-family: Helvetica Neue, Arial, sans-serif;
+  text-align: center;
+  position: absolute;
+  color: #FFF;
+  line-height: 1;
+  padding: 1px 30px 4px 30px;
+  font-size: 9px;
+  background-color: #BBB;
+  transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+.sponsors .lead-support:after {
+  content: "Lead support + Organization";
+  top: 19px;
+  right: -36px;
+  width: 70px;
+}
+.sponsors .support:after {
+  content: "Support + Organization";
+  top: 11px;
+  right: -44px;
+  width: 70px;
 }
 .sponsors ._37signals  { background-image: url(../img/sponsors/37signals.png); }
 .sponsors .anynines    { background-image: url(../img/sponsors/anynines.png); }
