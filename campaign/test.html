@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Campaign
 class: page page-campaign
 current: campaign
@@ -119,3 +119,96 @@ permalink: campaign/test/
 </section>
 </div>
 </div>
+=======
+
+
+<section class="main container">
+  <div class="wrapper clearfix">
+    <article class="{% if page.sidebar %}content{% endif %}">
+      <form id="stripe-form" method="post" action="https://campaign.railsgirlssummerofcode.org/donations/checkout">
+        <input type="hidden" name="stripe_card_token" />
+        <input type="hidden" name="amount" />
+        <input type="hidden" name="package" />
+      </form>
+
+      <p class="custom-donation">
+        <input type="number" id="custom-donation-amount" placeholder="75.00" min="0" step="25.00"/>
+        <a href="#" class="donate-button button" data-custom="true" data-name="Custom">Donate Now <i class="icon-star-white"></i></a>
+      </p>
+
+      <p class="_stripe-note">
+        Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a>
+      </p>
+
+      <section id="thanks-folks">
+        <h2>Thank you!</h2>
+        <table id="donations">
+          <colgroup>
+            <col class="col-gravatar"></col>
+            <col class="col-name"></col>
+            <col class="col-amount"></col>
+            <col class="col-package"></col>
+            <col class="col-date"></col>
+            <col class="col-comment"></col>
+          </colgroup>
+          <thead>
+            <tr>
+              <td colspan="6" class="stats">A total of <strong class="total"></strong> has been donated so far!</td>
+            </tr>
+            <tr>
+              <td class='pagination' colspan='5'>
+                <span class='page'>Page: <span class='current-page'>1</span><span>/</span><span class='last-page'></span></span>
+                <span class='sep'>&middot;</span>
+                <span class='first'>First</span>
+                <a class='first' href='#'>First</a>
+                <span class='sep'>&middot;</span>
+                <span class='previous'>Previous</span>
+                <a class='previous' href='#'>Previous</a>
+                <span class='sep'>&middot;</span>
+                <span class='next'>Next</span>
+                <a class='next' href='#'>Next</a>
+                <span class='sep'>&middot;</span>
+                <span class='last'>Last</span>
+                <a class='last' href='#'>Last</a>
+                <span class='sep'>&middot;</span>
+                <a class='all' href='#'>See all</a>
+                <a class='paged' href='#'>See less</a>
+              </td>
+            </tr>
+          </thead>
+          <tbody></tbody>
+          <tfoot>
+            <tr>
+              <td class='pagination' colspan='6'>
+                <span class='page'>Page: <span class='current-page'>1</span><span>/</span><span class='last-page'></span></span>
+                <span class='sep'>&middot;</span>
+                <span class='first'>First</span>
+                <a class='first' href='#'>First</a>
+                <span class='sep'>&middot;</span>
+                <span class='previous'>Previous</span>
+                <a class='previous' href='#'>Previous</a>
+                <span class='sep'>&middot;</span>
+                <span class='next'>Next</span>
+                <a class='next' href='#'>Next</a>
+                <span class='sep'>&middot;</span>
+                <span class='last'>Last</span>
+                <a class='last' href='#'>Last</a>
+                <span class='sep'>&middot;</span>
+                <a class='all' href='#'>See all</a>
+                <a class='paged' href='#'>See less</a>
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+      </section>
+    </article>
+    {% if page.sidebar == "faq" %}
+      {% include faq_sidebar.html %}
+    {% endif %}
+    {% if page.scribble %}
+      {% include scribble_aside.html %}
+    {% endif %}
+  </div>
+</section>
+{% include _sponsors_footer.html %}
+
