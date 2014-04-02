@@ -6,24 +6,58 @@ current: campaign
 stripe: yes
 permalink: campaign/test/
 ---
-
+<!-- <div class="main container">
+  <div class="wrapper clearfix"> -->
+    <aside class="sidebar"> <img src="/img/scribbles/scribble_coins3.png" width="300 px">
+    </aside>
 <form id="stripe-form" method="post" action="https://campaign.railsgirlssummerofcode.org/donations/checkout">
   <input type="hidden" name="stripe_card_token" />
   <input type="hidden" name="amount" />
   <input type="hidden" name="package" />
 </form>
 
+<h2>Ready, set, donate!</h2> 
+
+<p>Rails Girls Summer of Code works towards more diversity in Open Source, by subsidising programming newcomers to work on Open Source projects. In donating you help us fund their scholarships. 
+</p>
+<br><br>
+
 <p class="custom-donation">
   <input type="number" id="custom-donation-amount" placeholder="75.00" min="0" step="25.00"/>
   <a href="#" class="donate-button button" data-custom="true" data-name="Custom">Donate Now <i class="icon-star-white"></i></a>
 </p>
 
-<p class="_stripe-note">
-  Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a>
+<p>Our goal is to <strong>support 10 teams</strong> (i.e. 20 Rails Girls students) to work full-time on their projects – changing the face of tech, one woman at a time.</p>
+
+<h3>Become An Amazing Sponsor Now!</h3>
+
+   <p>To support our mission in bigger steps, your company can choose between these shiny packages. <a href="/sponsors/packages">Check out what's in it</a>! </p>
+
+   <ul class="donation-plans" id="sponsoring">
+  <li>
+    <h4>Platinum: 10000 USD</h4>
+    <a href="#" class="donate-button button" data-amount="10000" data-name="Platinum">Become a Sponsor</a>
+  </li>
+  <li>
+    <h4>Gold: 5000 USD</h4>
+    <a href="#" class="donate-button button" data-amount="5000" data-name="Gold">Become a Sponsor</a>
+  </li>
+  <li>
+    <h4>Silver: 2500 USD</h4>
+    <a href="#" class="donate-button button" data-amount="2500" data-name="Silver">Become a Sponsor</a>
+  </li>
+  <li>
+    <h4>Bronze: 1000 USD</h4>
+    <a href="#" class="donate-button button" data-amount="1000" data-name="Bronze">Become a Sponsor</a>
+  </li>
+</ul>
+
+<p class="stripe-note">
+  <small>Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a></small>
 </p>
 
 <section id="thanks-folks">
-  <h2>Thank you!</h2>
+  <h3>Thank you so much!</h3>
   <table id="donations">
     <colgroup>
       <col class="col-gravatar"></col>
@@ -83,3 +117,5 @@ permalink: campaign/test/
     </tfoot>
   </table>
 </section>
+</div>
+</div>

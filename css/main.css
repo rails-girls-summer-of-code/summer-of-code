@@ -613,6 +613,7 @@ ul {
 .scribble16 { background-position: 30px -3750px; }
 .scribble17 { background-position: 30px -4000px; }
 .scribble18 { background-position: 30px -4250px; }
+.scribble_coins3 { background-image: url(../img/scribble_coins3.png) }
 
 /*  Allign scribble with video */
 .index .scribble1 {
