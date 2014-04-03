@@ -235,8 +235,7 @@ $.extend(Stats.prototype, {
 });
 
 var Progress = function(element, stats) {
-  this.goal_element = $('.goal', this.element);
-  this.completed_element = $('.completed', this.element);
+  this.element = element;
   this.stats = stats;
   this.render();
 }
@@ -248,17 +247,28 @@ $.extend(Progress, {
 
 $.extend(Progress.prototype, {
   render: function() {
+    this.goal_element = $('<div class="goal"></div>');
+    this.completed_element = $('<div class="completed"></div>');
+    this.element.append(this.goal_element).append(this.completed_element);
+
     for (var i = 0; i < this.item_count(); i++) {
-      this.goal_element.append($('<i class="fa fa-laptop fa-2x"></i>'));
-      this.completed_element.append($('<i class="fa fa-laptop fa-2x"></i>'));
+      this.goal_element.append($('<i></i>'));
+      this.completed_element.append($('<i></i>'));
     }
+
     this.completed_element.width(this.completed_width());
   },
   completed_percent: function() {
     return parseInt(this.stats.total()) / Progress.GOAL * 100;
   },
   completed_width: function() {
-    return parseInt(this.completed_element.width() / this.completed_percent());
+    return parseInt(this.total_width() * this.completed_percent() / 100);
+  },
+  total_width: function() {
+    return this.item_count() * this.item_width();
+  },
+  item_width: function() {
+    return $('i', this.goal_element).outerWidth();
   },
   item_count: function() {
     return parseInt(Progress.GOAL / Progress.PER_ITEM);

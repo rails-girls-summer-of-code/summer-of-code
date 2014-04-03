@@ -171,19 +171,105 @@ tfoot .pagination {
 
 #campaign-progress {
   position: relative;
-  height: 32px;
 }
 #campaign-progress i {
+  position: relative;
   display: inline-block;
-  margin-right: 4px;
+  width: 60px;
+  height: 60px;
 }
+#campaign-progress i:before {
+  display: inline-block;
+  content: "\f007";
+  font-size: 68px;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#campaign-progress i:after {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: inline-block;
+  content: "\f007";
+  font-size: 55px;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* #campaign-progress i:nth-child(1):before { */
+/*   content: "\f08a" */
+/* } */
+/* #campaign-progress i:nth-child(2):before { */
+/*   content: "\f109" */
+/* } */
+/* #campaign-progress i:nth-child(3):before { */
+/*   content: "\f000" */
+/* } */
+/* #campaign-progress i:nth-child(4):before { */
+/*   content: "\f004" */
+/* } */
+/* #campaign-progress i:nth-child(5):before { */
+/*   content: "\f0ac" */
+/* } */
+/* #campaign-progress i:nth-child(6):before { */
+/*   content: "\f0f4" */
+/* } */
+/* #campaign-progress i:nth-child(7):before { */
+/*   content: "\f086" */
+/* } */
+/* #campaign-progress i:nth-child(8):before { */
+/*   content: "\f0c2" */
+/* } */
+/* #campaign-progress i:nth-child(9):before { */
+/*   content: "\f185" */
+/* } */
+/* #campaign-progress i:nth-child(10):before { */
+/*   content: "\f118" */
+/* } */
+/* #campaign-progress i:nth-child(11):before { */
+/*   content: "\f0c3" */
+/* } */
+/* #campaign-progress i:nth-child(12):before { */
+/*   content: "\f164" */
+/* } */
+/* #campaign-progress i:nth-child(13):before { */
+/*   content: "\f0c2" */
+/* } */
+/* #campaign-progress i:nth-child(14):before { */
+/*   content: "\f007" */
+/* } */
+/* #campaign-progress i:nth-child(15):before { */
+/*   content: "\f091" */
+/* } */
+/* #campaign-progress i:nth-child(16):before { */
+/*   content: "\f085" */
+/* } */
+/* #campaign-progress i:nth-child(17):before { */
+/*   content: "\f0c2" */
+/* } */
+/* #campaign-progress i:nth-child(18):before { */
+/*   content: "\f109" */
+/* } */
+/* #campaign-progress i:nth-child(19):before { */
+/*   content: "\f086" */
+/* } */
+/* #campaign-progress i:nth-child(20):before { */
+/*   content: "\f004" */
+/* } */
+
 #campaign-progress .goal i {
   color: #ccc;
 }
 #campaign-progress .completed {
   position: absolute;
   top: 0;
-  height: 32px;
   overflow: hidden;
   white-space: nowrap;
 }
