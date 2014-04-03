@@ -3,7 +3,7 @@ layout: page
 title: "FAQ: Sponsors"
 class: page page-faq
 current: sponsor-faq
-sidebar: faq
+sidebar: content
 scribble: scribble5
 permalink: /faq/sponsors/
 ---

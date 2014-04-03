@@ -2,18 +2,20 @@
 layout: page
 title: Rails Girls Summer of Code Tools
 class: page page-students-tools
+sidebar: content
 current-sub: tools
-permalink: tools/
+permalink: /students/tools/
 current: students
 ---
 
-{% include students_sidebar.html %}
-
 ## Tools
 
-In the process of organizing this year's Summer of Code, we also review the tools and services used last year to keep track of the team's activities, keep in touch with each other, support channels, etc. We will provide you with all the details well in advance. 
+In the process of organizing this year's Summer of Code, we also review the
+tools and services used last year to keep track of the team's activities, keep
+in touch with each other, support channels, etc. We will provide you with all
+the details well in advance.
 
-As a first step, you can already get aquainted with Github. 
+As a first step, you can already get aquainted with Github.
 
 <!-- For Rails Girls Summer of Code we are going to use the following tools.
 
@@ -64,21 +66,24 @@ in the background. -->
 
 ### GitHub for to-dos and project specific discussions
 
-[GitHub](http://github.com) is probably the most used common tool for developers today. It is not only fantastic for sharing code. GitHub issues also make one of the nicest places to discuss things
-(not only code!).
+[GitHub](http://github.com) is probably the most used common tool for
+developers today. It is not only fantastic for sharing code. GitHub issues also
+make one of the nicest places to discuss things (not only code!).
 
 We recommend you use GitHub Issues as much as possible for keeping track of
-to-dos and having general discussions about your project. If you are a new to GitHub, checkout some of their tutorials e.g. [on youtube](http://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw). 
+to-dos and having general discussions about your project. If you are a new to
+GitHub, checkout some of their tutorials e.g. [on
+youtube](http://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw).
 
 
-<!-- ### Community mailing list for general questions
+### Community mailing list for general questions
 
 We will continue to use our
 [community mailing-list](http://groups.google.com/group/rails-girls-summer-of-code-community)
 to reach everyone involved at Rails Girls Summer of Code.
 
 We recommend you post to this list for meta discussions and general questions
-about Rails Girls Summer of Code. -->
+about Rails Girls Summer of Code.
 
 
 ### Email us for personal questions

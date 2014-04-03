@@ -457,6 +457,9 @@ ul {
   float: none;
   margin-top: 0;
 }
+.sidebar .border {
+  border-top: solid 4px #D82222;
+}
 .sidebar a.current {
   font-weight: bold;
 }
@@ -482,7 +485,6 @@ ul {
 }
 .frontpage-sidebar {
   margin-bottom: 4em;
-  border-top: solid 4px #D82222;
 }
 .frontpage-sidebar .blogroll {
   margin: 0;
@@ -504,8 +506,8 @@ ul {
 	content: '';
 }
 .newsletter {
+  margin-bottom: 2em;
   padding: 0;
-  border-top: solid 4px #D82222;
 }
 .blog .newsletter {
   padding: 1em 0 2em;
@@ -1029,7 +1031,7 @@ ul {
     background-image: none;
   }
   .nav-primary .strong {
-    color: #FFFF65;
+    /* color: #FFFF65; */
   }
 
   .content {

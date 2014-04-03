@@ -3,7 +3,8 @@ layout: page
 title: Conferences
 class: page page-students-conferences
 current-sub: conferences
-permalink: conferences/
+sidebar: content
+permalink: /students/conferences/
 current: students
 ---
 
@@ -30,8 +31,6 @@ current: students
     border-radius: 10px;
   }
 </style>
-
-{% include students_sidebar.html %}
 
 ## Go to a conference!
 

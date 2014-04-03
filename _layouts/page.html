@@ -7,8 +7,8 @@ layout: default
     <article class="{% if page.sidebar %}content{% endif %}">
       {{ content }}
     </article>
-    {% if page.sidebar == "faq" %}
-      {% include faq_sidebar.html %}
+    {% if page.sidebar == "content" %}
+      {% include content_sidebar.html %}
     {% endif %}
     {% if page.scribble %}
       {% include scribble_aside.html %}

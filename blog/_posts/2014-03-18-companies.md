@@ -19,10 +19,11 @@ meetups, as well as moved onto their own coding projects!
 Preparations for this year's instalment of RGSoC have begun, and we’re looking
 for companies to support this incredible program in 2014.
 
-This year we have three options for companies to join and support the program;
-as 
-+ Sponsors, 
-+ Coaching companies and/or 
+This year we have three options for companies to join and support the program
+as:
+
++ Sponsors,
++ Coaching companies and/or
 + financially supporting organizers
 
 ## 1. Sponsors
@@ -75,9 +76,10 @@ if they'd be interested in coaching a team of two students onsite.
 Please keep in mind that student applications cannot be selected upfront and
 being backed by a Coaching Company is not a guarantee for them to be accepted:
 
-[Student applications](http://railsgirlssummerofcode.org/application-guide/) will be rated based on the set criteria, and the best ranked applications will be selected. However, you can greatly improve your
-team’s chances of getting a sponsored seat by helping them prepare an
-outstanding application.
+[Student applications](http://railsgirlssummerofcode.org/students/application)
+will be rated based on the set criteria, and the best ranked applications will
+be selected. However, you can greatly improve your team’s chances of getting a
+sponsored seat by helping them prepare an outstanding application.
 
 
 If you have the ability to be a "Coaching Company" we'd love to hear from you:

@@ -4,15 +4,9 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
   <head>
-    <script>
-      if(location.hostname == 'railsgirlsberlin.github.io') {
-        location.href = 'http://railsgirlssummerofcode.org'
-      }
-    </script>
-
     <title>{% if page.title %} {{ page.title }} | {% endif %} Rails Girls Summer of Code</title>
-    <link rel="shortcut icon" href="favicon.png">
-    <link rel="icon" href="favicon.ico">
+    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="icon" href="/favicon.ico">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="description" content="Rails Girls Summer of Code 2013">
@@ -44,20 +38,20 @@
           <a href="/about" {% if page.current == 'about' %}class="current-page"{% endif %}>About</a>
           <ul>
             <li><a href="/faq" {% if page.current == 'faq' %}class="current-page"{% endif %}>FAQ</a></li>
-            <li><a href="/roles" {% if page.current == 'roles' %}class="current-page"{% endif %}>Roles</a></li>
-            <li><a href="/press" {% if page.current == 'press' %}class="current-page"{% endif %}>Press</a></li>
-            <li><a href="/code-of-conduct" {% if page.current == 'code-of-conduct' %}class="current-page"{% endif %}>Code of Conduct</a></li>
+            <li><a href="/about/roles" {% if page.current == 'roles' %}class="current-page"{% endif %}>Roles</a></li>
+            <li><a href="/about/press" {% if page.current == 'press' %}class="current-page"{% endif %}>Press</a></li>
+            <li><a href="/about/code-of-conduct" {% if page.current == 'code-of-conduct' %}class="current-page"{% endif %}>Code of Conduct</a></li>
           </ul>
         </li>
         <li><a href="/blog" {% if page.current == 'blog' %}class="current-page"{% endif %}>Blog</a></li>
         <li><a href="#" {% if page.current == 'get-involved' %}class="current-page"{% endif %}>Get Involved</a>
         <ul>
-          <li><a href="/coaching" {% if page.current == 'coaching' %}class="current-page"{% endif %}>Become a Coach</a></li>
-          <li><a href="/coaching-companies" {% if page.current == 'faq' %}class="current-page"{% endif %}>Coaching Company</a></li>
+          <li><a href="/guide/coaching" {% if page.current == 'coaching' %}class="current-page"{% endif %}>Become a Coach</a></li>
+          <li><a href="/guide/coaching-company" {% if page.current == 'coaching-company' %}class="current-page"{% endif %}>Coaching Company</a></li>
           <li><a href="/sponsors/packages" {% if page.current == 'sponsors' %}class="current-page"{% endif %}>Become a Sponsor</a></li>
         </ul>
         </li>
-        <li><a href="/application-guide" {% if page.current == 'application-guide' %}class="current-page"{% endif %}>Apply Now</a></li>
+        <li><a href="/students/application" {% if page.current == 'application-guide' %}class="current-page"{% endif %}>Apply Now</a></li>
         <li><a href="/campaign" class="strong" {% if page.current == 'campaign' %}class="current-page"{% endif %}>Please donate!</a></li>
       </ul>
     </nav>
@@ -79,8 +73,8 @@
         <p style="clear: both">
           &hearts; artwork by <a href="http://www.ejaculesc.com/" target="_blank">Rebecca Conrad<a> <br>
           &copy; <a href="http://railsgirls.com">Rails Girls</a> 2014
-          &mdash; <a href="/code-of-conduct">Code of Conduct </a> |
-          <a href="/imprint/">Imprint</a>
+          &mdash; <a href="/about/code-of-conduct">Code of Conduct </a> |
+          <a href="/about/imprint">Imprint</a>
         </p>
       </footer>
     </div>

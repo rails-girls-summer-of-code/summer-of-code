@@ -3,7 +3,7 @@ layout: page
 title: "FAQ: Students"
 class: page page-faq
 current: students-faq
-sidebar: faq
+sidebar: content
 scribble: scribble5
 permalink: /faq/students/
 ---

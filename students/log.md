@@ -2,12 +2,11 @@
 layout: page
 title: The Team Log
 class: page page-students-team-log
+sidebar: content
 current-sub: team-log
-permalink: team-log/
+permalink: /students/log/
 current: students
 ---
-
-{% include students_sidebar.html %}
 
 ## Keep a daily team log
 

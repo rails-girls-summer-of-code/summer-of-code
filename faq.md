@@ -3,7 +3,7 @@ layout: page
 title: FAQ
 class: page page-faq
 current: faq
-sidebar: faq
+sidebar: content
 scribble: scribble5
 permalink: faq/
 ---
