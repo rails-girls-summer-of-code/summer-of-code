@@ -27,7 +27,10 @@ Last year, our dear friends at SoundCloud offered coaching and space to our stud
 
 [Chad](https://twitter.com/chadfowler) coincidentally is also a member of the organizing team behind Rails Girls Summer of Code.   
 
-**Collis** Ta'eed, Envato is also super excited to offer some help to future Rails Girls students in Down Under: *"We have [a lovely creative office in the heart of Melbourne](http://inside.envato.com/envato-office-tour/) with plenty of desks, and we can offer some coaching support ready to go"*
+**Wouter de Vos**, CTO at Springest NL: 
+*“As a learning company, we love this opportunity to share our knowledge and help people find their dream. We think it is opportunities like these that build towards a more equal environment in the developer community, and we are proud to be a part of it.”*  
+
+**Collis Ta'eed** from Envato is also super excited to offer some help to future Rails Girls students in Down Under: *"We have [a lovely creative office in the heart of Melbourne](http://inside.envato.com/envato-office-tour/) with plenty of desks, and we can offer some coaching support ready to go"*
 
 Envato is also one of our Early Bird sponsors. And they have some [great video tutorials about Ruby](http://hub.tutsplus.com/search?utf8=%E2%9C%93&search%5Bkeywords%5D=Ruby&button=). Just saying.   
  
