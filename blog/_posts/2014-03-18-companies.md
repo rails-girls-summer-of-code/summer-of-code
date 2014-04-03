@@ -54,7 +54,7 @@ Want to be one of our early-bird sponsors? Get in touch with us:
 ## 2. Coaching companies
 
 Some of last year's most successful student teams have been supported greatly
-by local [coaching companies](http://railsgirlssummerofcode.org/coaching-companies),
+by local [coaching companies](http://railsgirlssummerofcode.org/guide/coaching-company),
 who have given them a place to work in their offices and a pool of coaches to
 help them. We are looking to formalize this support into an option for
 interested companies this year.

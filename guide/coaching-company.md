@@ -3,7 +3,7 @@ layout: page
 title: Coaching Companies
 class: page page-faq
 sidebar: content
-current: coaching-companies
+current: coaching-company
 permalink: /guide/coaching-company/
 
 ---
