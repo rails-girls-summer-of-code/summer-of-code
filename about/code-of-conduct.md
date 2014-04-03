@@ -114,20 +114,17 @@ misunderstood, discriminated against, disrespected etc.
 
 ## Trust Committee
 
-+ Anne Wizorek (external), [contact](mailto:anne.wizorek@gmail.com)
-<img src="/img/annewizorek.png" width="300">
 
-Anne Wizorek lives in the Internet and Berlin, where she works as a Digital Media Consultant.
+<img src="/img/annewizorek.png" style="align:left;display:inline;padding-right:8px;" width="200px"/>
 
-She bloggs since 2006, e.g. for spreeblick.com and started kleinerdrei.org, a
-collective Blog project about Policits, Pop and Feminism. She campaigns both
+Anne Wizorek lives in the Internet and Berlin, where she works as a Digital Media Consultant. She blogs since 2006, e.g. for spreeblick.com and started kleinerdrei.org, a
+collective Blog project about Politics, Pop and Feminism. She campaigns both
 off- and online for gender equality and is former co-organizer of re:publica
 and of the first Berlin SlutWalk. She initiated #aufschrei, which was used in
-the german twitter scene to share sexist experiences.
+the german twitter scene to share sexist experiences.  
++ Anne Wizorek (external), [contact](mailto:anne.wizorek@gmail.com)
 
-+ Jen Myers (external), [contact](mailto:jen@jenmyers.net)
-
-<img src="/img/jenmyers.jpg" width="300">
+<img src="/img/jenmyers.jpg" style="align:left;display:inline;padding-right:8px;" width="200px"/>
 
 Jen Myers is a web designer/developer and part of the instructor team at Dev
 Bootcamp in Chicago. In 2011, she founded the Columbus, Ohio chapter of Girl
@@ -138,28 +135,32 @@ focuses on finding new ways to make both technology and technology education
 accessible to everyone. She also is a single mother to an eight-year-old
 daughter who keeps her busy teaching HTML, playing video games and constantly
 learning.
++ Jen Myers (external), [contact](mailto:jen@jenmyers.net)
 
-+ Uta Sommer (external), [contact](uta.caroline.sommer@gmail.com)
 
-<img src="/img/utasommer.png" height="100px"/>
+<img src="/img/uti.png" style="align:left;display:inline;padding-right:8px;"  width="200px"/>
 
 Uta Sommer obtained a Bachelor’s degree in History and Gender Studies, just
 finished her Master in Gender Studies at Humboldt-University in Berlin and is
 currently planning her Ph.D. project. During her studies she was actively
 involved in the student representative group where she, amongst other things,
 worked as a student counselor.
++ Uta Sommer (external), [contact](uta.caroline.sommer@gmail.com)
 
-+ Anika Lindtner, [contact](mailto:anika@travis-ci.org)
-
-<img src="/img/anikalindtner.png" width="300">
+<img src="/img/anikalindtner.png" style="align:left;display:inline;padding-right:8px;"  width="200px"/>
 
 Anika Lindtner was born and raised in Berlin, studied Linguistics and Gender
 Studies. She works at Travis CI and runs the Travis Foundation that wants to
 make Open Source even better, e.g. fostering diversity in Open Source and Tech
 in general. Anika co-founded Rails Girls Berlin and this is the second edition
 of Rails Girls Summer of Code, which she is involved as a core organizer.
++ Anika Lindtner, [contact](mailto:anika@travis-ci.org)
 
-+ Sven Fuchs, [contact](mailto:me@svenfuchs.com)
+<img src="/img/sven.jpg" style="align:left;display:inline;padding-right:8px;"  width="200px"/>
+
+Sven Fuchs is a builder. He might have lost his moustache but he remains one of the public figures for Travis-CI and front-man of Rails Girls Summer of Code.
+Sven is the silent listening type.
++ Sven Fuchs, [contact](mailto:me@svenfuchs.com)  
 
 This Code of Conduct is distributed under a
 [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/)
