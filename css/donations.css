@@ -168,3 +168,25 @@ tfoot .pagination {
 .pagination:not(.paged) *:not(.paged) {
   display: none !important;
 }
+
+#campaign-progress {
+  position: relative;
+  height: 32px;
+}
+#campaign-progress i {
+  display: inline-block;
+  margin-right: 4px;
+}
+#campaign-progress .goal i {
+  color: #ccc;
+}
+#campaign-progress .completed {
+  position: absolute;
+  top: 0;
+  height: 32px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+#campaign-progress .completed i {
+  color: #D82222;
+}

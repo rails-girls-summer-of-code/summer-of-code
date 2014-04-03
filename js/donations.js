@@ -198,8 +198,10 @@ $.extend(Donation.prototype, {
 
 Stats = function(element) {
   this.element = element;
+  this.defer = $.Deferred();
+  this.defer.promise(this);
   this.load();
-  return this;
+  return this.defer;
 };
 
 $.extend(Stats, {
@@ -217,13 +219,52 @@ $.extend(Stats.prototype, {
     $.ajax({
       url: Stats.URL,
       crossDomain: true,
-      success: this.render
+      success: $.proxy(function(data) {
+        this.data = data;
+        this.render();
+        this.defer.resolve('loaded', this);
+      }, this)
     });
   },
-  render: function(data) {
-    $('.total', this.element).text('$' + Math.round(data.total / 100));
+  render: function() {
+    $('.total', this.element).text('$' + this.total());
+  },
+  total: function () {
+    return Math.round(this.data.total / 100);
   }
 });
+
+var Progress = function(element, stats) {
+  this.goal_element = $('.goal', this.element);
+  this.completed_element = $('.completed', this.element);
+  this.stats = stats;
+  this.render();
+}
+
+$.extend(Progress, {
+  GOAL: 100000,
+  PER_ITEM: 5000
+});
+
+$.extend(Progress.prototype, {
+  render: function() {
+    for (var i = 0; i < this.item_count(); i++) {
+      this.goal_element.append($('<i class="fa fa-laptop fa-2x"></i>'));
+      this.completed_element.append($('<i class="fa fa-laptop fa-2x"></i>'));
+    }
+    this.completed_element.width(this.completed_width());
+  },
+  completed_percent: function() {
+    return parseInt(this.stats.total()) / Progress.GOAL * 100;
+  },
+  completed_width: function() {
+    return parseInt(this.completed_element.width() / this.completed_percent());
+  },
+  item_count: function() {
+    return parseInt(Progress.GOAL / Progress.PER_ITEM);
+  },
+});
+
 
 $(function() {
   $.fn.donations = function() {
@@ -232,7 +273,13 @@ $(function() {
   $.fn.stats = function() {
     return new Stats(this);
   };
-  $('#donations').donations();
-  $('#thanks-folks .stats').stats();
-});
+  $.fn.campaign_progress = function(stats) {
+    return new Progress(this, stats);
+  };
+  var donations = $('#donations').donations();
+  var stats = $('.stats').stats();
 
+  stats.done('loaded', function(event, stats) {
+    $('#campaign-progress').campaign_progress(stats);
+  });
+});
