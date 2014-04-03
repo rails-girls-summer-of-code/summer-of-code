@@ -152,7 +152,7 @@ program.
 This role is a formalization of a very successful concept from last year:
 Companies that fully host a students team for the duration of their project and
 allow employees to coach them. You can find out more about this initiative
-here: [Coaching Companies](/coaching-companies). Sponsors can be coaching
+here: [Coaching Companies](/guide/coaching-companies). Sponsors can be coaching
 companies too, as well as vice versa
 
 <h3 id="you">You</h3>
