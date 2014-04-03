@@ -11,10 +11,9 @@ permalink: /about/code-of-conduct/
 
 1. [Purpose](#purpose)
 2. [Welcoming environment](#expected)
-3. [Expected Behavior](#behaviour)
-3. [Expected Behavior](#behaviour)
-4. [Unacceptable Behavior](#consequences)
-5. [Consequences of Unacceptable Behavior](#unacceptable)
+3. [Expected Behavior](#expected)
+4. [Unacceptable Behavior](#unacceptable)
+5. [Consequences of Unacceptable Behavior](#consequences)
 6. [If You Witness or Are Subject to Unacceptable Behavior](#witness)
 7. [Scope](#scope)
 8. [Contact and Trust Committee](#contact)
