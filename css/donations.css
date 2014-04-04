@@ -91,7 +91,7 @@
   margin-left: 5px;
   background-image: url(/images/icons/recurring.png);
 }
-#thanks-folks table a {
+#thanks-folks tbody a {
   display: inline-block;
   height: 26px;
   vertical-align: middle;
@@ -120,7 +120,7 @@
   position: absolute;
   right: 0px;
 }
-table#donations .pagination a {
+.pagination a {
   height: auto;
   vertical-align: initial;
 }
@@ -166,10 +166,10 @@ tfoot .pagination {
 .pagination.last_page a.last {
   display: none;
 }
-table#donations .pagination.paged a.paged {
+.pagination.paged a.paged {
   display: none;
 }
-table#donations .pagination:not(.paged) *:not(.paged) {
+.pagination:not(.paged) *:not(.paged) {
   display: none !important;
 }
 
