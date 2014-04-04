@@ -1074,9 +1074,7 @@ ul {
     margin-right: 2em;
     text-align: right;
   }
-  .blog .content {
-    min-height: 135em;
-  }
+
   .related {
       text-align: right;
   }
@@ -1123,9 +1121,6 @@ ul {
       right: 0;
       margin-right: 0em;
       margin-top: 0em;
-    }
-    .blog .content {
-      min-height: 140em;
     }
 
     .sponsors div {
