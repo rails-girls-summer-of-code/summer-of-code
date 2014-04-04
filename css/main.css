@@ -29,6 +29,7 @@ body {
   overflow-x: hidden;
 }
 section.main {
+  width: 100%;
   margin-top: 2em;
   margin-bottom: 3em;
   overflow: auto;
@@ -553,6 +554,13 @@ ul {
     overflow: hidden;
 }
 
+/* ====== media ====== */
+.media {margin: 2em 0;}
+.media, .bd {overflow:hidden; _overflow:visible; zoom:1;}
+.media .bd p { margin-top: 0; }
+.media .img img{display:block;}
+.media .imgExt{float:right; margin-left: 10px;}
+
 /* ==========================================================================
    SCRIBBLES
    ========================================================================== */
@@ -961,6 +969,8 @@ ul {
    Media Queries ----- 768px
    ========================================================================== */
 @media only screen and (min-width: 768px) {
+
+  .media .img {float:left; margin-right: 10px;}
 
   .logo {
     background-image: url(../img/sprites/logo_start.png);
