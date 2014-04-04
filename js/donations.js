@@ -227,7 +227,7 @@ $.extend(Stats.prototype, {
     });
   },
   render: function() {
-    $('.total', this.element).text(this.total() + 'USD');
+    $('.total', this.element).text(this.total() + ' USD');
   },
   total: function () {
     return Math.round(this.data.total / 100);
