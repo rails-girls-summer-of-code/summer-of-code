@@ -175,7 +175,8 @@ tfoot .pagination {
 
 #campaign-progress {
   position: relative;
-  width: 800px;
+  display: inline-block;
+  /* width: 800px; */
   border: 1px solid #CCC;
   border-radius: 5px;
   height: 60px;
@@ -184,7 +185,7 @@ tfoot .pagination {
 #campaign-progress i {
   position: relative;
   display: inline-block;
-  width: 80px;
+  width: 74px;
   height: 60px;
 }
 #campaign-progress i:before {
@@ -192,8 +193,8 @@ tfoot .pagination {
   content: "\f007";
   position: absolute;
   display: inline-block;
-  left: 10px;
-  font-size: 56px;
+  left: 8px;
+  font-size: 51px;
   font-family: FontAwesome;
   font-style: normal;
   font-weight: normal;
@@ -205,9 +206,9 @@ tfoot .pagination {
   content: "\f007";
   position: absolute;
   display: inline-block;
-  top: 8px;
-  left: 39px;
-  font-size: 44px;
+  top: 10px;
+  left: 34px;
+  font-size: 40px;
   font-family: FontAwesome;
   font-style: normal;
   font-weight: normal;
