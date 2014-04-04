@@ -132,6 +132,8 @@ could do with your support.
 
 <h2 id="q6">How To Become A Coaching Company</h2>
 
+First, register yourself and your coaches here: <a href="http://teams.railsgirlssummerofcode.org">teams.railsgirlssummerofcode.org</a>
+
 A good starting point is to reach out your local
 <a href="http://railsgirls.com/">Rails Girls chapter</a>, and development
 communities such as your local Ruby groups.

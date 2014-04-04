@@ -198,6 +198,8 @@ $.extend(Donation.prototype, {
 
 Stats = function(element) {
   this.element = element;
+  this.defer = $.Deferred();
+  this.defer.promise(this);
   this.load();
   return this;
 };
@@ -217,13 +219,69 @@ $.extend(Stats.prototype, {
     $.ajax({
       url: Stats.URL,
       crossDomain: true,
-      success: this.render
+      success: $.proxy(function(data) {
+        this.data = data;
+        this.render();
+        this.defer.resolve('loaded', this);
+      }, this)
     });
   },
-  render: function(data) {
-    $('.total', this.element).text('$' + Math.round(data.total / 100));
+  render: function() {
+    $('.total', this.element).text(this.total() + ' USD');
+  },
+  total: function () {
+    return Math.round(this.data.total / 100);
   }
 });
+
+var Progress = function(element) {
+  this.element = element;
+  this.render();
+}
+
+$.extend(Progress, {
+  GOAL: 100000,
+  PER_ITEM: 10000
+});
+
+$.extend(Progress.prototype, {
+  render: function() {
+    this.goal_element = $('<div class="goal"></div>');
+    this.completed_element = $('<div class="completed"></div>');
+    this.element.append(this.goal_element).append(this.completed_element);
+
+    for (var i = 0; i < this.item_count(); i++) {
+      this.goal_element.append($('<i></i>'));
+    }
+  },
+  render_progress: function(stats) {
+    this.stats = stats;
+    // console.log('total_width', this.total_width())
+    // console.log('item_width', this.item_width())
+    // console.log('completed_percent', this.completed_percent())
+    // console.log('completed_width', this.completed_width())
+    for (var i = 0; i < this.item_count(); i++) {
+      this.completed_element.append($('<i></i>'));
+    }
+    this.completed_element.width(this.completed_width());
+  },
+  completed_percent: function() {
+    return parseInt(this.stats.total()) / Progress.GOAL * 100;
+  },
+  completed_width: function() {
+    return parseInt(this.total_width() * this.completed_percent() / 100);
+  },
+  total_width: function() {
+    return this.item_count() * this.item_width();
+  },
+  item_width: function() {
+    return $('i', this.goal_element).outerWidth();
+  },
+  item_count: function() {
+    return parseInt(Progress.GOAL / Progress.PER_ITEM);
+  },
+});
+
 
 $(function() {
   $.fn.donations = function() {
@@ -232,7 +290,14 @@ $(function() {
   $.fn.stats = function() {
     return new Stats(this);
   };
-  $('#donations').donations();
-  $('#thanks-folks .stats').stats();
+  $.fn.campaign_progress = function(stats) {
+    return new Progress(this, stats);
+  };
+  var donations = $('#donations').donations();
+  var stats = $('.stats').stats();
+  var progress = $('#campaign-progress').campaign_progress();
+console.log(stats.defer)
+  stats.defer.done('loaded', function(event) {
+    progress.render_progress(stats);
+  });
 });
-

@@ -168,3 +168,59 @@ tfoot .pagination {
 .pagination:not(.paged) *:not(.paged) {
   display: none !important;
 }
+
+#campaign-progress {
+  position: relative;
+  width: 800px;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+  height: 60px;
+  overflow: hidden;
+}
+#campaign-progress i {
+  position: relative;
+  display: inline-block;
+  width: 80px;
+  height: 60px;
+}
+#campaign-progress i:before {
+  top: 5px;
+  content: "\f007";
+  position: absolute;
+  display: inline-block;
+  left: 10px;
+  font-size: 56px;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#campaign-progress i:after {
+  content: "\f007";
+  position: absolute;
+  display: inline-block;
+  top: 8px;
+  left: 39px;
+  font-size: 44px;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#campaign-progress .goal i {
+  color: #ccc;
+}
+#campaign-progress .completed {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  background-color: #EEE;
+}
+#campaign-progress .completed i {
+  color: #D82222;
+}

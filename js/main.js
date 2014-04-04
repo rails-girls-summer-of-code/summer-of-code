@@ -55,6 +55,4 @@ $(document).ready(function() {
     $('.nav-primary > ul').toggle('hidden');
     console.log('click');
   });
-
-
 });
