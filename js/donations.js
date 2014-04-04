@@ -201,7 +201,7 @@ Stats = function(element) {
   this.defer = $.Deferred();
   this.defer.promise(this);
   this.load();
-  return this.defer;
+  return this;
 };
 
 $.extend(Stats, {
@@ -227,16 +227,15 @@ $.extend(Stats.prototype, {
     });
   },
   render: function() {
-    $('.total', this.element).text('USD ' + this.total());
+    $('.total', this.element).text(this.total() + 'USD');
   },
   total: function () {
     return Math.round(this.data.total / 100);
   }
 });
 
-var Progress = function(element, stats) {
+var Progress = function(element) {
   this.element = element;
-  this.stats = stats;
   this.render();
 }
 
@@ -253,14 +252,17 @@ $.extend(Progress.prototype, {
 
     for (var i = 0; i < this.item_count(); i++) {
       this.goal_element.append($('<i></i>'));
+    }
+  },
+  render_progress: function(stats) {
+    this.stats = stats;
+    // console.log('total_width', this.total_width())
+    // console.log('item_width', this.item_width())
+    // console.log('completed_percent', this.completed_percent())
+    // console.log('completed_width', this.completed_width())
+    for (var i = 0; i < this.item_count(); i++) {
       this.completed_element.append($('<i></i>'));
     }
-
-    console.log('total_width', this.total_width())
-    console.log('item_width', this.item_width())
-    console.log('completed_percent', this.completed_percent())
-    console.log('completed_width', this.completed_width())
-
     this.completed_element.width(this.completed_width());
   },
   completed_percent: function() {
@@ -293,8 +295,9 @@ $(function() {
   };
   var donations = $('#donations').donations();
   var stats = $('.stats').stats();
-
-  stats.done('loaded', function(event, stats) {
-    $('#campaign-progress').campaign_progress(stats);
+  var progress = $('#campaign-progress').campaign_progress();
+console.log(stats.defer)
+  stats.defer.done('loaded', function(event) {
+    progress.render_progress(stats);
   });
 });
