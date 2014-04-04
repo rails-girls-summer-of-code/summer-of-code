@@ -166,10 +166,10 @@ tfoot .pagination {
 .pagination.last_page a.last {
   display: none;
 }
-.pagination.paged a.paged {
+table#donations .pagination.paged a.paged {
   display: none;
 }
-.pagination:not(.paged) *:not(.paged) {
+table#donations .pagination:not(.paged) *:not(.paged) {
   display: none !important;
 }
 
