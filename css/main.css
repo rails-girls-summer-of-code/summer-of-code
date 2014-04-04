@@ -60,6 +60,14 @@ fieldset {
 textarea {
   resize: vertical;
 }
+.heart:after {
+  content: "\f004";
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 /* ===============
     ALL: IE Fixes
    =============== */
