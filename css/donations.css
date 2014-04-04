@@ -91,7 +91,7 @@
   margin-left: 5px;
   background-image: url(/images/icons/recurring.png);
 }
-#thanks-folks table a {
+#thanks-folks tbody a {
   display: inline-block;
   height: 26px;
   vertical-align: middle;
@@ -119,6 +119,10 @@
 .pagination {
   position: absolute;
   right: 0px;
+}
+.pagination a {
+  height: auto;
+  vertical-align: initial;
 }
 thead .pagination {
   top: 67px;
