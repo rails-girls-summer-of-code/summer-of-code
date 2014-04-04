@@ -175,12 +175,14 @@ tfoot .pagination {
 #campaign-progress i {
   position: relative;
   display: inline-block;
-  width: 60px;
+  width: 90px;
   height: 60px;
 }
 #campaign-progress i:before {
-  display: inline-block;
   content: "\f007";
+  position: absolute;
+  display: inline-block;
+  left: 5px;
   font-size: 68px;
   font-family: FontAwesome;
   font-style: normal;
@@ -190,11 +192,11 @@ tfoot .pagination {
   -moz-osx-font-smoothing: grayscale;
 }
 #campaign-progress i:after {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  display: inline-block;
   content: "\f007";
+  position: absolute;
+  display: inline-block;
+  top: 2px;
+  left: 41px;
   font-size: 55px;
   font-family: FontAwesome;
   font-style: normal;

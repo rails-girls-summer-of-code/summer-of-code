@@ -242,7 +242,7 @@ var Progress = function(element, stats) {
 
 $.extend(Progress, {
   GOAL: 100000,
-  PER_ITEM: 5000
+  PER_ITEM: 10000
 });
 
 $.extend(Progress.prototype, {
@@ -255,6 +255,11 @@ $.extend(Progress.prototype, {
       this.goal_element.append($('<i></i>'));
       this.completed_element.append($('<i></i>'));
     }
+
+    console.log('total_width', this.total_width())
+    console.log('item_width', this.item_width())
+    console.log('completed_percent', this.completed_percent())
+    console.log('completed_width', this.completed_width())
 
     this.completed_element.width(this.completed_width());
   },
