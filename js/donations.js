@@ -27,7 +27,13 @@ $.extend(Donations, {
     production:  'http://campaign.railsgirlssummerofcode.org/donations.json',
     development: 'http://localhost:3000/donations.json'
   },
-  COUNT: 50
+  COUNT: 50,
+  PACKAGES: {
+    'Platinum': 10000,
+    'Gold':      5000,
+    'Silver':    2500,
+    'Bronze':    1000
+  }
 });
 Donations.URL = Donations.URLS[ENV];
 
@@ -38,7 +44,7 @@ $.extend(Donations.prototype, {
       url: Donations.URL,
       crossDomain: true,
       success: function(collection) {
-        _this.addIndexes(collection);
+        _this.normalize_data(collection);
         collection.sort(_this.sort);
         return _this.pagination = new Pagination(_this, $('.pagination', _this.tbody.parent()), collection, Donations.COUNT);
       }
@@ -62,9 +68,14 @@ $.extend(Donations.prototype, {
     }
     this.tbody.html(tbody.html());
   },
-  addIndexes: function(collection) {
+  normalize_data: function(collection) {
     for(var i = 0; i < collection.length; i++) {
-      collection[i].index = i;
+      var item = collection[i];
+      item.index = i;
+      if(item.amount === undefined) {
+        item.hidden = true
+        item.amount = Donations.PACKAGES[item.package];
+      }
     }
   },
   sort: function(lft, rgt) {
@@ -166,7 +177,7 @@ $.extend(Donation.prototype, {
   },
   amount: function() {
     var amount = $('<td></td>')
-    if(this.data.amount) {
+    if(this.data.amount && !this.data.hidden) {
       amount.text('$' + this.data.amount);
     } else {
       amount.text('hidden');
@@ -296,7 +307,7 @@ $(function() {
   var donations = $('#donations').donations();
   var stats = $('.stats').stats();
   var progress = $('#campaign-progress').campaign_progress();
-console.log(stats.defer)
+
   stats.defer.done('loaded', function(event) {
     progress.render_progress(stats);
   });
