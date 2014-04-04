@@ -120,6 +120,10 @@
   position: absolute;
   right: 0px;
 }
+table#donations .pagination a {
+  height: auto;
+  vertical-align: initial;
+}
 thead .pagination {
   top: 67px;
 }
