@@ -1,7 +1,7 @@
 ---
 title: "8 Scholarships in 7 days - One week of crowd funding"
 layout: post
-created_at: Wed 9 April 2014
+created_at: Wed April 9 2014
 permalink: blog/one-week-of-crowd-funding
 current: blog
 author: RGSoC team
@@ -11,7 +11,7 @@ twitter: RailsGirlsSoc
 
 Wow, it's been only one week since we [kicked off our crowd funding campaign](http://railsgirlssummerofcode.org/campaign/) and we already have so much to tell! 
 
-The historical moment was April 3rd, 12:00 CET, when we tweeted about it for the first time:
+The historical moment was April 3rd, 12:01 CET, when we tweeted about it for the first time:
 
 <img src="https://cloud.githubusercontent.com/assets/1711357/2660446/2f17d992-c020-11e3-9d6e-180e61c0de11.png" width="500">
 
