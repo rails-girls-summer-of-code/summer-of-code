@@ -24,7 +24,7 @@ The whole team has bee so happy about this campaign! We [just can't hide it](htt
 
 <img src="https://cloud.githubusercontent.com/assets/1711357/2660426/f192f4ee-c01f-11e3-9192-6a004432093f.png" width="700">
 
-And these 7 days truly have been something to jump around about: 
+And these 7 days truly have been something to jump around about for all of us.
 
 + We funded 8 students in 7 days, 
 
