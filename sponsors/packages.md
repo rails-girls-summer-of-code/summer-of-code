@@ -97,3 +97,8 @@ Starting this year we will list information about each year's instalment
 on a "Hall of Fame" page: Teams participating, projects completed, success
 stories to be told. This page will also include each year's Platinum (and
 bigger) sponsors.
+
+### Sponsorship Guidelines
+
+Rails Girls Summer of Code is here to support women on their way into Open Source.<br>
+Please see our [Sponsorship Guidelines](/about/sponsorship-guidelines/) for further information on how we stand behind our values. 

@@ -4,7 +4,7 @@ title: Sponsorship Guidelines
 class: page page-sponsorship
 current: faq
 sidebar: content
-permalink: sponsorship-guidelines/
+permalink: /about/sponsorship-guidelines/
 ---
 
 ##Sponsorship Guidelines
@@ -17,10 +17,10 @@ The image and track record of the sponsoring companies should not conflict with 
 
 If there are conflicts with our values, we will discuss them on a case by case basis and take action where necessary. We review along the following principles:
 
-Does the company reflect the values of Rails Girls and Rails Girls Summer of Code?
-Do they have a strong track record in supporting women in technology?
-Do they have a good track record in the community, as a fair employer?
-Do they have a background of supporting Rails Girls events and/or groups before, during or after workshops?
-Does the company show a sincere and sustainable effort in handling and overcoming a situation which conflicts with our values?
++ Does the company reflect the values of Rails Girls and Rails Girls Summer of Code?
++ Do they have a strong track record in supporting women in technology?
++ Do they have a good track record in the community, as a fair employer?
++ Do they have a background of supporting Rails Girls events and/or groups before, during or after workshops?
++ Does the company show a sincere and sustainable effort in handling and overcoming a situation which conflicts with our values?
 
 This can also mean rejecting a company as a sponsor, as we have done before and might do in the future.
