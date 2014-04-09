@@ -1,8 +1,8 @@
 ---
 title: "8 Scholarships in 7 days - One week of crowd funding"
 layout: post
-created_at: Thur Apr 10 2014
-permalink: blog/2014-04-01-one-week-of-crowd-funding
+created_at: Wed 9 April 2014
+permalink: blog/one-week-of-crowd-funding
 current: blog
 author: RGSoC team
 twitter: RailsGirlsSoc
