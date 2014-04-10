@@ -1,8 +1,8 @@
 ---
 title: "8 Scholarships in 7 days - One week of crowd funding"
 layout: post
-created_at: Wed April 9 2014
-permalink: blog/one-week-of-crowd-funding
+created_at: Wed April 10 2014
+permalink: blog/2014-04-10-one-week-of-crowd-funding
 current: blog
 author: RGSoC team
 twitter: RailsGirlsSoc
@@ -16,7 +16,7 @@ The historical moment was April 3rd, 12:01 CET, when we tweeted about it for the
 <img src="https://cloud.githubusercontent.com/assets/1711357/2660446/2f17d992-c020-11e3-9d6e-180e61c0de11.png" width="500">
 
 
-First, thank you all for being amazing supporters of our mission and making our dream of more women in Open Source come true more day by day! This is really moving. And while others can't stop high fiving about this, running around with a big smile in their faces or buying chocolate for everyone, some couldn't stand still anymore.
+First, thank you all for being amazing supporters of our mission and making our dream of more women in Open Source come true more day by day! This is really moving. Haven't donated yet? Do eet now and join all the other wonderful people: [railsgirlssummerofcode.org/campaign/](http://railsgirlssummerofcode.org/campaign/)! And while others can't stop high fiving about this, running around with a big smile in their faces or buying chocolate for everyone, some couldn't stand still anymore.
 
 ##WE JUST CAN'T HIDE IT
 
