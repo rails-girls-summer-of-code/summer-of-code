@@ -40,16 +40,14 @@ Questions? Hop on to our [Rails Girls Summer of Code Campfire Chat](https://rail
 
 #### Mail
 
-To help with the organizing of Rails Girls SoC, please join our
-[Google Group](https://groups.google.com/forum/?fromgroups#!forum/rails-girls-summer-of-code).
++ *Organizing*: To help with the organizing of Rails Girls SoC, please join our
+[Organizing mailing list](https://groups.google.com/forum/?fromgroups#!forum/rails-girls-summer-of-code). 
 
-For more information regarding project ideas, coaching, sponsoring or
++ *Students*: For more information regarding project ideas, coaching, sponsoring or
 participating as a student, please join our
-[Community mailing list](https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-communit://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community)
+[Community mailing list](https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community). For questions only concerning organizers, write us an email to [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
 
-Or simply write an email to [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
++ *Social Media* Follow Rails Girls Summer of Code on [Twitter](https://twitter.com/RailsGirlsSoC) and find us on [Facebook](https://www.facebook.com/pages/Rails-Girls-Summer-of-Code/620914904656191).
 
-Follow Rails Girls Summer of Code on [Twitter](https://twitter.com/RailsGirlsSoC).
-
-And of course we are also on [GitHub](https://github.com/rails-girls-summer-of-code).
++ *Social Coding* And of course we are also on [GitHub](https://github.com/rails-girls-summer-of-code).
 
