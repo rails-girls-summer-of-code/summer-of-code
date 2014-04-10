@@ -15,6 +15,7 @@ permalink: faq/
 * [Who is running this?](#who-runs-rgsoc)
 * [Who can participate as a student?](#eligibility)
 * [Where will RGSoC take place?](#location)
+* [I have more questions!](#more)
 
 
 ###{#what-is-rgsoc} What is Rails Girls Summer of Code?
@@ -62,4 +63,10 @@ We will try to help find coaches as near as possible to a students location to
 avoid the student having to accomodate herself in a different city. Ideally
 coaches can provide a desk at their own workplace so students can sit next to
 them, ask questions and get support.
+
+###{#more} I have more questions!
+
+Find the contact details here: [Contact](/about).
+
+
 

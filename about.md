@@ -34,7 +34,11 @@ We want to provide a safe space for everyone involved. Please read our
 
 ### Get in touch
 
+#### Chat
+
 Questions? Hop on to our [Rails Girls Summer of Code Campfire Chat](https://railsgirlssummerofcode.campfirenow.com/da52f) and talk to us! See you in there.
+
+#### Mail
 
 To help with the organizing of Rails Girls SoC, please join our
 [Google Group](https://groups.google.com/forum/?fromgroups#!forum/rails-girls-summer-of-code).
@@ -47,5 +51,5 @@ Or simply write an email to [summer-of-code@railsgirls.com](mailto:summer-of-cod
 
 Follow Rails Girls Summer of Code on [Twitter](https://twitter.com/RailsGirlsSoC).
 
-An of course we are also on [GitHub](https://github.com/rails-girls-summer-of-code).
+And of course we are also on [GitHub](https://github.com/rails-girls-summer-of-code).
 
