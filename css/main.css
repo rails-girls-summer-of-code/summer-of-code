@@ -811,6 +811,12 @@ ul {
   right: -36px;
   width: 70px;
 }
+.sponsors .founding-support:after {
+  content: "Founding support";
+  top: 19px;
+  right: -36px;
+  width: 70px;
+}
 .sponsors .support:after {
   content: "Support + organization";
   top: 11px;
