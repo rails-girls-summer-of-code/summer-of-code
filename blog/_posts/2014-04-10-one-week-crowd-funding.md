@@ -30,7 +30,7 @@ And these 7 days truly have been something to jump around about for all of us.
 
 + got 110 retweets of our announcement tweets, 
 
-+ had 2.233 website visits,  
++ had 2.233 website visits within 4 hours,  
 
 + have 64 individual donors, (we found two Tobias', two Patrick's, two Jeremy's in there),
 
