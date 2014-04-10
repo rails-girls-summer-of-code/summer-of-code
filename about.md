@@ -32,7 +32,9 @@ We want to provide a safe space for everyone involved. Please read our
 [Code of Conduct](/code-of-conduct).
 
 
-### Stay in touch
+### Get in touch
+
+Questions? Hop on to our [Rails Girls Summer of Code Campfire Chat](https://railsgirlssummerofcode.campfirenow.com/da52f) and talk to us! See you in there.
 
 To help with the organizing of Rails Girls SoC, please join our
 [Google Group](https://groups.google.com/forum/?fromgroups#!forum/rails-girls-summer-of-code).
