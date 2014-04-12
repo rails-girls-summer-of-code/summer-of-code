@@ -63,7 +63,7 @@ $.extend(Donations.prototype, {
       }
       tbody.append(new Donation(record).render());
       if (record.package != "Custom" && page[_i + 1] && page[_i + 1].package == "Custom") {
-        tbody.append($('<tr class="heading"><td colspan="6" class="stats">Individiual Donors</td></tr>'));
+        tbody.append($('<tr class="heading"><td colspan="6" class="stats">Individual Donors</td></tr>'));
       }
     }
     this.tbody.html(tbody.html());
