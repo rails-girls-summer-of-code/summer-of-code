@@ -29,7 +29,7 @@ community.
 Make help make Open Source a better place for everyone.
 
 We want to provide a safe space for everyone involved. Please read our
-[Code of Conduct](/code-of-conduct).
+[Code of Conduct](/about/code-of-conduct).
 
 
 ### Get in touch
