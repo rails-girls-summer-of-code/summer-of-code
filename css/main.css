@@ -850,8 +850,9 @@ ul {
 .sponsors .planio       { background-image: url(../img/sponsors/planio.png); }
 .sponsors .rackspace    { background-image: url(../img/sponsors/rackspace.png); }
 .sponsors .readmill     { background-image: url(../img/sponsors/readmill.png); }
-.sponsors .soundcloud   { background-image: url(../img/sponsors/soundcloud.png); }
 .sponsors .shopify      { background-image: url(../img/sponsors/shopify.png); }
+.sponsors .site5        { background-image: url(../img/sponsors/site5.png); }
+.sponsors .soundcloud   { background-image: url(../img/sponsors/soundcloud.png); }
 .sponsors .supadupa     { background-image: url(../img/sponsors/supadupa.png); }
 .sponsors .tealeaf      { background-image: url(../img/sponsors/tealeaf.png); }
 .sponsors .travis       { background-image: url(../img/sponsors/travis-2014.png); }
@@ -859,6 +860,9 @@ ul {
 .sponsors .upworthy     { background-image: url(../img/sponsors/upworthy.png); }
 .sponsors .wimdu        { background-image: url(../img/sponsors/wimdu.png); }
 .sponsors .wooga        { background-image: url(../img/sponsors/wooga.png); }
+.sponsors .zweitag      { background-image: url(../img/sponsors/zweitag.png); }
+.sponsors .de_messe     { background-image: url(../img/sponsors/de_messe.png); }
+
 
 .sponsors .arrrrcamp       { background-image: url(../img/confs/arrrrcamp.png); }
 .sponsors .devcon          { background-image: url(../img/confs/devcon.png); }
