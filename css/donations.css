@@ -191,9 +191,9 @@ tfoot .pagination {
 
 #campaign-progress .goal i {
   /*color: #ccc;*/
-  background-image: url(../img/icons/teamicon-grey.png);
-  background-size: 80%;
-  background-position: 5px 0px;
+  background-image: url(../img/icons/teamicon_grey.svg);
+  background-size: 100%;
+  background-position: 0;
   background-repeat: no-repeat;
   opacity: .5;
 }
@@ -206,8 +206,8 @@ tfoot .pagination {
 }
 #campaign-progress .completed i {
   /*color: #D82222;*/
-  background-image: url(../img/icons/teamicon-red.png);
+  background-image: url(../img/icons/teamicon_red.svg);
   background-repeat: no-repeat;
-  background-size: 80%;
-  background-position: 5px 0px;
+  background-size: 100%;
+  background-position: 0;
 }
