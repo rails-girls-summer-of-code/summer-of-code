@@ -188,36 +188,14 @@ tfoot .pagination {
   width: 74px;
   height: 60px;
 }
-#campaign-progress i:before {
-  top: 5px;
-  content: "\f007";
-  position: absolute;
-  display: inline-block;
-  left: 8px;
-  font-size: 51px;
-  font-family: FontAwesome;
-  font-style: normal;
-  font-weight: normal;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-#campaign-progress i:after {
-  content: "\f007";
-  position: absolute;
-  display: inline-block;
-  top: 10px;
-  left: 34px;
-  font-size: 40px;
-  font-family: FontAwesome;
-  font-style: normal;
-  font-weight: normal;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+
 #campaign-progress .goal i {
-  color: #ccc;
+  /*color: #ccc;*/
+  background-image: url(../img/icons/teamicon_grey.svg);
+  background-size: 100%;
+  background-position: 0;
+  background-repeat: no-repeat;
+  opacity: .5;
 }
 #campaign-progress .completed {
   position: absolute;
@@ -227,5 +205,9 @@ tfoot .pagination {
   background-color: #EEE;
 }
 #campaign-progress .completed i {
-  color: #D82222;
+  /*color: #D82222;*/
+  background-image: url(../img/icons/teamicon_red.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0;
 }
