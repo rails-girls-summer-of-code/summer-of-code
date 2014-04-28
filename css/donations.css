@@ -192,8 +192,8 @@ tfoot .pagination {
 #campaign-progress .goal i {
   /*color: #ccc;*/
   background-image: url(../img/icons/teamicon-grey.png);
-  background-size: 100%;
-  background-position: 0px -7px;
+  background-size: 80%;
+  background-position: 5px 0px;
   background-repeat: no-repeat;
   opacity: .5;
 }
@@ -208,6 +208,6 @@ tfoot .pagination {
   /*color: #D82222;*/
   background-image: url(../img/icons/teamicon-red.png);
   background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: 0px -7px;
+  background-size: 80%;
+  background-position: 5px 0px;
 }
