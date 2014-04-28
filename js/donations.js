@@ -308,6 +308,8 @@ $(function() {
   var stats = $('.stats').stats();
   var progress = $('#campaign-progress').campaign_progress();
 
+  console.log(progress);
+
   stats.defer.done('loaded', function(event) {
     progress.render_progress(stats);
   });
