@@ -2,7 +2,7 @@
 title: "Final Spurt is ON! Help us fund the last 4 teams!"
 layout: post
 created_at: Tue April 29 2014
-permalink: blog/2014-04-12-a-lot-happened
+permalink: blog/2014-04-29-final-spurt-is-on
 current: blog
 author: RGSoC
 twitter: railsgirlssoc
