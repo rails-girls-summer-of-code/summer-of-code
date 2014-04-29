@@ -13,9 +13,11 @@ Hi there! As the end of the application process is just around the corner (May 2
 
 <a href="http://railsgirlssummerofcode.org/campaign/"><img src="/img/rgsoc_beggars_small.png" width="600"></a>
 
+[Donate now](http://railsgirlssummerofcode.org/campaign/)!
+
 So let's see what happened in the last 27 days. We’ve updated our progress bar, with the help of our designer [Rebecca](http://railsgirlssummerofcode.org/blog/rebecca/) and we love it:
 <br><br>
-<img src="/img/progress_bar.png" width="600">
+<a href="http://railsgirlssummerofcode.org/campaign/"><img src="/img/progress_bar.png" width="600"></a>
 <br><br>
 
 … and as you can see we are halfway on the road to support 20 students (10 teams) to work on a Open Source project of their choosing this summer. [Help us fund those last teams!](http://railsgirlssummerofcode.org/campaign/)
