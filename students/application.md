@@ -10,8 +10,7 @@ permalink: /students/application/
 
 <h1>How to Apply?</h1>
 
-Applications for Rails Girls Summer of Code are open until <strong>May, 2nd
-2014!</strong>
+Applications for Rails Girls Summer of Code are open until <strong>May 2nd, 2014, 23:59 UTC</strong>!
 
 This guide gives you all the information about what you will need when applying
 for Summer of Code.  Take a look to ensure you know about all the components of
