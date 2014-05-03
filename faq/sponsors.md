@@ -14,7 +14,7 @@ permalink: /faq/sponsors/
 * [What happens if you don't reach your goal or RGSoC gets cancelled?](#rgsoc-cancelled)
 * [What happens to any left-over budget from the 2014 Summer of Code?](#left-over-budget)
 
-###{#vat-taxes} What about VAT and tax deduction for my donations?
+### What about VAT and tax deduction for my donations? {#vat-taxes}
 
 We don't really know about tax laws everywhere in the world but according to
 our tax advisor: "Contributions and payments to Rails Girls Summer of Code are
@@ -33,21 +33,21 @@ will add the 19% VAT to your contribution and ask you to complete your address
 data.
 
 <!--
-###{#unknown} Question answered here?
+### Question answered here? {#unknown}
 
 Summer of Code will offer a reduced amount of spots to students. We currently
 account for raising 5000 USD per student. E.g. if we raise 30,000 USD we will
 have enough budget to fund 6 students.
 -->
 
-###{#rgsoc-cancelled} What happens if you don't reach your goal or RGSoC gets cancelled?
+### What happens if you don't reach your goal or RGSoC gets cancelled? {#rgsoc-cancelled}
 
 If for some reason the Summer of Code can't go ahead as planned, donors will be
 offered a refund of their donation. Alternatively you can decide to have your
 donation go to the Rails Girls organization to share your donation with other,
 future Rails Girls events across the globe.
 
-###{#left-over-budget} What happens to any left-over budget from the 2013 Summer of Code?
+### What happens to any left-over budget from the 2013 Summer of Code? {#left-over-budget}
 
 Any money left over from the campaign will be saved for next year's Rails Girls
 Summer of Code. Should there be no Summer of Code in 2015, the Rails Girls

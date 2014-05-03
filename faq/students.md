@@ -19,7 +19,7 @@ permalink: /faq/students/
 * [What does an ideal project goal look like?](#ideal-project)
 
 
-###{#eligibility} Who can participate as a student?
+### Who can participate as a student? {#eligibility}
 
 We're looking for women who have participated in any Rails Girls, RailsBridge,
 or similar newcomer workshop, have participate in a Ruby/Rails study group, or
@@ -32,7 +32,7 @@ This initiative is focused on bringing more women into the world of open
 source. Men are not excluded however women are given priority.
 
 
-###{#worldwide} Where will Rails Girls Summer of Code take place?
+### Where will Rails Girls Summer of Code take place? {#worldwide}
 
 Planet earth.
 
@@ -45,12 +45,12 @@ provide a desk at their own workplace so students can sit next to them, ask
 questions and get support.
 
 
-###{#stipends} How much money will students receive?
+### How much money will students receive? {#stipends}
 
 1500 USD per month, for a period of three months.
 
 
-###{#fulltime} Are students required to work full-time for all of the three months?
+### Are students required to work full-time for all of the three months? {#fulltime}
 
 In order to immerse themselves and make a significant contribution to an Open
 Source project, we recommend that they do. However, if you feel you could
@@ -58,7 +58,7 @@ achieve these ends working on a more limited time-frame, please explain in your
 application how you will make things work regardless, and we will consider your
 points.
 
-###{#criteria} What if I don't fit all the criteria stated on the student page?
+### What if I don't fit all the criteria stated on the student page? {#criteria}
 
 The criteria are not minimal standards, but rather recommendations for what we
 consider to be important for successful participation in a project. That said,
@@ -70,12 +70,12 @@ coach and student in the same location), but have found a way around this,
 please explain that to us in your application. We will consider your points and
 if convinced, give you a point for the criterion anyway.
 
-###{#continuity} How will you make sure that the students participate continuously in their projects?
+### How will you make sure that the students participate continuously in their projects? {#continuity}
 
 We will require some reporting on progress, most probably a combination of
 informal (e.g. blog posts about lessons learned) and more formal reporting.
 
-###{#ideal-project} What does an ideal project goal look like?
+### What does an ideal project goal look like? {#ideal-project}
 
 Please have a look at our application guide for an in-depth explanation of what
 a good project goal looks like.
