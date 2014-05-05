@@ -9,12 +9,10 @@ twitter: starkcoffee
 ---
 
 
-We are hackers who believe strongly in RailsGirls Summer of Code, and to help raise money to get the last 3 teams
-(or more!) sponsored, we hacked together http://givie.io.
+We have raised an amazing amount so far but we have so many great applications and every donation counts! We wanted a way to help raise money to get the last 3 teams (or more!) sponsored, so we created http://givie.io.
 
 It’s a pretty simple concept: you create a campaign, decide on a fun pledge you would be willing to do 
-if you get enough backers, and BAM! Start spreading the word. Givie redirects your supporters to the 
-RailsGirls Summer of Code site, and after they have donated, the number of backers on your campaign gets updated.
+if you get enough backers, and BAM! Start spreading the word amongst your friends, family colleagues, anyone really and let them know why this is important. Givie redirects your supporters to the RailsGirls Summer of Code site, and after they have donated, the number of backers on your campaign gets updated.
 
 The idea for Givie came from Duana’s personal campaign last year when she promised to go one month without 
 coffee if she could get 20 people to donate to RailsGirls Summer of Code. For someone whose twitter name 
