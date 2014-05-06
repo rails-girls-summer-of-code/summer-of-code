@@ -8,10 +8,12 @@ author: RGSoC Team
 twitter: railsgirlssoc
 ---
 
-After 60 hours of rating ~100 applications for 7 spots, we now are proud to say: we made the first step. We selected the first 7 teams and will let them know throughout the day via email and ask if they accept. BUT, this means that we still have 3 spots for teams left that could be accepted, given that we fund them.
+After 60 hours of rating ~100 applications for 7 spots, we now are proud to say: we made the first step. We selected the first 7 teams and will notify them know throughout the day via email. BUT this means, we still have 3 spots for teams left, which could be accepted, provided that we get funding for them. 
 
 <a href="http://railsgirlssummerofcode.org/campaign/"><img src="/img/3seatsleft.png" width="650"></a>
 
-We are currently at 73k which means that we still need 17k to fund the last seats. So please help us fund them and make us able to take on three other wonderful teams and make their dreams of a summer of code come true. 
+We are currently at 74 k, that means we still need only 16k to fund those last seats. So please help us fund them and make us able to take on 3 other wonderful teams, and make their dreams of a Summer of Code come true. 
 
-In short: If you haven't heard from us, don't lose hope! We still have 3 team spots left! So let's [help fund them](http://railsgirlssummerofcode.org/campaign/) and start another summer with 10 awesome teams!
+In short: If you haven't heard from us: don't lose hope. We still have 3 team spots left!
+
+So let's [help fund them](http://railsgirlssummerofcode.org/campaign/) and start another summer with 10 awesome teams!
