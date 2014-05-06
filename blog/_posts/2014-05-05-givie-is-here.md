@@ -4,12 +4,12 @@ layout: post
 created_at: Mon May 5 2014
 permalink: blog/2014-05-05-givie-is-here
 current: blog
-author: Duana
-twitter: starkcoffee
+author: RGSoC Team
+twitter: railsgirlssoc
 ---
 
 
-We have raised an amazing amount so far but we have so many great applications and every donation counts! We wanted a way to help raise money to get the last 3 teams (or more!) sponsored, so we created http://givie.io.
+We have raised an amazing amount so far but we have so many great applications and every donation counts! We wanted a way to help raise money to get the last 3 teams (or more!) sponsored, so we created [http://givie.io.](http://givie.io.)
 
 It’s a pretty simple concept: you create a campaign, decide on a fun pledge you would be willing to do 
 if you get enough backers, and BAM! Start spreading the word amongst your friends, family colleagues, anyone really and let them know why this is important. Givie redirects your supporters to the RailsGirls Summer of Code site, and after they have donated, the number of backers on your campaign gets updated.
@@ -25,7 +25,7 @@ Duana sent this tweet out a few weeks ago, and fellow Australians-in-Berlin Marc
 
 Please check it out, create campaigns, and help us fund more women for Summer of Code 2014! 
 
-http://givie.io
+[http://givie.io](http://givie.io.)
 
 Oh and we'd love to get your feedback! Email us at <a href="mailto:hello@givie.io">hello@givie.io</a> or tweet <a href="https://twitter.com/givieapp">@givieapp</a>.
 
