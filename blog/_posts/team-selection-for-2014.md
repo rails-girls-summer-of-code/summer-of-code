@@ -2,7 +2,7 @@
 title: "Team Selection for 2014"
 layout: post
 created_at: 
-permalink: blog/2014-05-07-team-selection-2014
+permalink: blog/team-selection
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
