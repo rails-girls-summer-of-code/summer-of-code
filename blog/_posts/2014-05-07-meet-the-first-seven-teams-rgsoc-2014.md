@@ -18,7 +18,7 @@ the teams:
 [Diaspora*](https://diasporafoundation.org/), at their Coaching Company
 [NIRD](http://nird.us/).
 [Renee Hendricksen](https://github.com/reneedv) (RailsBridge)
-will their primary coach and Rails Girls veteran
+will be their primary coach, and Rails Girls veteran
 [Kerri Miller](https://github.com/kerrizor)
 will help out. Fun fact:
 [Lisa Passing](https://github.com/lislis) and
@@ -38,9 +38,9 @@ team last year, just like
 [Guillermo Iguaran](https://github.com/guilleiguaran)
 from the Rails Core team, will assist them.
 
-**Ute Mayer and Magdalena Frankiewicz** will work at the office of their
-Coaching Company [Asquera](http://asquera.de/) in Berlin, Germany, coding on
-[Padrino](http://padrinorb.com/). They will be supported by their coaches
+**Ute Mayer and Magdalena Frankiewicz** will work at their
+Coaching Company [Asquera](http://asquera.de/)'s office in Berlin, Germany, coding on
+[Padrino](http://padrinorb.com/). They will be supported by a great team of coaches:
 [Jan Schulte](https://github.com/schultyy),
 [Florian Gilcher](https://github.com/skade),
 [Ernesto Miguez](https://github.com/emig),
@@ -48,7 +48,7 @@ Coaching Company [Asquera](http://asquera.de/) in Berlin, Germany, coding on
 [Kacper Bielecki](https://github.com/kazjote).
 [Bodo Tasche](https://github.com/bitboxer) will be their mentor.
 
-**Cathy Nangini and Qian Zhou** from Helsinki, Finland will work a port of
+**Cathy Nangini and Qian Zhou** from Helsinki, Finland will work on a port of
 [Liquid Feedback](http://liquidfeedback.org/) to Rails/Ember. Check out the proposal
 [here](https://github.com/rails-girls-summer-of-code/projects/issues/13).
 They will be supported by their coaches
