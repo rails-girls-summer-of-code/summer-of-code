@@ -91,7 +91,7 @@ an application that helps you learn sign language, supported by the entire
 [Macedonian Ruby User Group](https://twitter.com/mk_rug) (no kidding!).
 [Dalibor Nasevic](https://github.com/dalibor) will act as both their
 lead coach and mentor. Check out the project propsal
-[here](https://github.com/rails-girls-summer-of-code/projects/issue[here,
+[here](https://github.com/rails-girls-summer-of-code/projects/issue),
 
 **Karolina Kamińska and Magdalena Niedźwiecka** from Warsaw will work on the
 [Species+](https://github.com/rails-girls-summer-of-code/projects/issues/14)
