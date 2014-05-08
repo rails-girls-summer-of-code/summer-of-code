@@ -64,7 +64,7 @@ See [here](https://github.com/rails-girls-summer-of-code/projects/issues/2)
 for their project proposal.
 [Maren Heltsche](https://github.com/zaziemo) and
 [Anja](https://github.com/tyranja),
-Rails Girls Summer of Code 2013 alumnis are their mentors.
+Rails Girls Summer of Code 2013 alumni, are their mentors.
 Both are active at [Ruby Monsters](https://github.com/rubymonsters)
 who built [speakerinnen](http://speakerinnen.org/) as a learning project.
 [Chad Fowler](http://chadfowler.com),
