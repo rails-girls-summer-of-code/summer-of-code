@@ -14,7 +14,7 @@ days deciding which teams will spend their summer coding on a number of
 outstanding Open Source projects. Without further ado, we'd like you to meet
 the teams:
 
-**Utah Kate Newman and Lyz Ellis** will code on
+**Utah Kate Newman and Lyz Ellis** from Seattle, USA, will code on
 [Diaspora*](https://diasporafoundation.org/), at their Coaching Company
 [NIRD](http://nird.us/).
 [Renee Hendricksen](https://github.com/reneedv) (RailsBridge)
@@ -39,7 +39,7 @@ team last year, just like
 from the Rails Core team, will assist them.
 
 **Ute Mayer and Magdalena Frankiewicz** will work at the office of their
-Coaching Company [Asquera](http://asquera.de/) in Berlin, coding on
+Coaching Company [Asquera](http://asquera.de/) in Berlin, Germany, coding on
 [Padrino](http://padrinorb.com/). They will be supported by their coaches
 [Jan Schulte](https://github.com/schultyy),
 [Florian Gilcher](https://github.com/skade),
@@ -64,9 +64,9 @@ See [here](https://github.com/rails-girls-summer-of-code/projects/issues/2)
 for their project proposal.
 [Maren Heltsche](https://github.com/zaziemo) and
 [Anja](https://github.com/tyranja),
-both Rails Girls Summer of Code 2013 alumnis and active at
-[Ruby Monsters](https://github.com/rubymonsters)
-are their mentors.
+Rails Girls Summer of Code 2013 alumnis are their mentors.
+Both are active at [Ruby Monsters](https://github.com/rubymonsters)
+who built [speakerinnen](http://speakerinnen.org/) as a learning project.
 [Chad Fowler](http://chadfowler.com),
 [Duncan Davidson](http://duncandavidson.com),
 [Ryan Levick](https://github.com/rylev),
@@ -93,10 +93,10 @@ an application that helps you learn sign language, supported by the entire
 lead coach and mentor. Check out the project propsal
 [here]( https://github.com/rails-girls-summer-of-code/projects/issues/23).
 
-**Karolina Kamińska and Magdalena Niedźwiecka** from Warsaw will work on the
+**Karolina Kamińska and Magdalena Niedźwiecka** from Warsaw, Poland, will work on the
 [Species+](https://github.com/rails-girls-summer-of-code/projects/issues/14)
 project at their Coaching Company
-[Rebased](http://www.rebased.pl/), in Poland.
+[Rebased](http://www.rebased.pl/).
 [Piotr Szotkowski](https://twitter.com/chastell) and
 [Tomasz Stachewicz](https://twitter.com/_tomash), both frequent Rails Girls
 coaches, will support them as their coaches.
