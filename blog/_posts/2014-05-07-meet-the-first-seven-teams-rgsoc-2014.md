@@ -58,7 +58,7 @@ at their Coaching Company, [FlowDock](https://www.flowdock.com/).
 [Oliver Barnes](https://github.com/oliverbarnes)
 from São Paulo will act as their mentor.
 
-**Sarah Haselbauer and Edna Rosen** will work on making
+**Sarah Haselbauer and Edna Kropp** will work on making
 [speakerinnen](http://speakerinnen.org/) even more awesome.
 See [here](https://github.com/rails-girls-summer-of-code/projects/issues/2)
 for their project proposal.
