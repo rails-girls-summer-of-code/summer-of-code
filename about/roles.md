@@ -29,6 +29,7 @@ might fit based on your skill set.
     <a href="#support">Support and Organization</a>
     <ul>
       <li><a href="#remote_coach">Remote Coach</a></li>
+      <li><a href="#speaker_coach">Speaker Coach</a></li>
       <li><a href="#supervisor">Supervisor</a></li>
       <li><a href="#organizer">Organizer</a></li>
     </ul>
@@ -103,6 +104,17 @@ the roles, doing up the play bills.
 <h3 id="remote_coach">Remote Coach</h3>
 
 Remote Coaches are available for help in a central, public chatroom.
+
+<h3 id="speaker_coach">Speaker Coach</h3>
+
+If you participate in Rails Girls Summer of Code you'll be asked to give a
+lightning talk at a conference (we'll be able to provide some free conference
+tickets, sometimes even full scholarships), at a Rails Girls workshop or your
+local developers meetup.
+
+For this we can put you in touch with experienced conference speakers who
+will review and work with you on your slides, and ideally can meet with you
+to practice your talk with you.
 
 <h3 id="supervisor">Supervisor</h3>
 
