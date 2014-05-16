@@ -252,7 +252,7 @@ var Progress = function(element) {
 
 $.extend(Progress, {
   TEAMS_COUNT: 10,
-  GOAL:  89000,
+  GOAL:  88000,
   // PER_ITEM: 90000
 });
 
