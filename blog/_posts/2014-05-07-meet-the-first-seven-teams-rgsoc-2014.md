@@ -49,7 +49,7 @@ Coaching Company [Asquera](http://asquera.de/)'s office in Berlin, Germany, codi
 [Bodo Tasche](https://github.com/bitboxer) will be their mentor.
 
 **Cathy Nangini and Qian Zhou** from Helsinki, Finland will work on a port of
-[Liquid Feedback](http://liquidfeedback.org/) to Rails/Ember. Check out the proposal
+[Liquid Feedback](http://liquidfeedback.org/) to Grape/Ember. Check out the proposal
 [here](https://github.com/rails-girls-summer-of-code/projects/issues/13).
 They will be supported by their coaches
 [Miika Pihjala](https://github.com/zonpantli) and
