@@ -11,7 +11,7 @@ permalink: /sponsors/packages/
 
 Rails Girls Summer of Code subsidises programming newcomers to learn and work
 on Open Source projects from July to September each year, and endows accepted
-students with USD 1500 per month, for three months.
+students with up to USD 1500 per month, for three months.
 
 By providing this stipend, we enable students to dedicate themselves to their
 Open Source learning projects full-time. As a sponsor, you are a crucial part of
@@ -101,4 +101,4 @@ bigger) sponsors.
 ### Sponsorship Guidelines
 
 Rails Girls Summer of Code is here to support women on their way into Open Source.<br>
-Please see our [Sponsorship Guidelines](/about/sponsorship-guidelines/) for further information on how we stand behind our values. 
+Please see our [Sponsorship Guidelines](/about/sponsorship-guidelines/) for further information on how we stand behind our values.

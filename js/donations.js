@@ -251,8 +251,9 @@ var Progress = function(element) {
 }
 
 $.extend(Progress, {
-  GOAL: 100000,
-  PER_ITEM: 10000
+  TEAMS_COUNT: 10,
+  GOAL:  89000,
+  // PER_ITEM: 90000
 });
 
 $.extend(Progress.prototype, {
@@ -261,7 +262,7 @@ $.extend(Progress.prototype, {
     this.completed_element = $('<div class="completed"></div>');
     this.element.append(this.goal_element).append(this.completed_element);
 
-    for (var i = 0; i < this.item_count(); i++) {
+    for (var i = 0; i < Progress.TEAMS_COUNT; i++) {
       this.goal_element.append($('<i></i>'));
     }
   },
@@ -271,7 +272,7 @@ $.extend(Progress.prototype, {
     // console.log('item_width', this.item_width())
     // console.log('completed_percent', this.completed_percent())
     // console.log('completed_width', this.completed_width())
-    for (var i = 0; i < this.item_count(); i++) {
+    for (var i = 0; i < Progress.TEAMS_COUNT; i++) {
       this.completed_element.append($('<i></i>'));
     }
     this.completed_element.width(this.completed_width());
@@ -283,14 +284,14 @@ $.extend(Progress.prototype, {
     return parseInt(this.total_width() * this.completed_percent() / 100);
   },
   total_width: function() {
-    return this.item_count() * this.item_width();
+    return Progress.TEAMS_COUNT * this.item_width();
   },
   item_width: function() {
     return $('i', this.goal_element).outerWidth();
   },
-  item_count: function() {
-    return parseInt(Progress.GOAL / Progress.PER_ITEM);
-  },
+  // item_count: function() {
+  //   return parseInt(Progress.GOAL / Progress.PER_ITEM);
+  // },
 });
 
 

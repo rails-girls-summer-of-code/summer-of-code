@@ -47,7 +47,7 @@ questions and get support.
 
 ### How much money will students receive? {#stipends}
 
-1500 USD per month, for a period of three months.
+Up to 1500 USD per month, for a period of three months.
 
 
 ### Are students required to work full-time for all of the three months? {#fulltime}
