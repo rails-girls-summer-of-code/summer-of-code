@@ -9,7 +9,7 @@ twitter: RailsGirlsSoc
 ---
 
 It's time to celebrate! After a great spurt in the campaign and with the incredible support of our students we're happy to announce: We are able to fund 10 teams again this year \o/. 
-After you've met the [first seven teams](http://railsgirlssummerofcode.org/blog/2014-05-07-meet-the-first-seven-teams-rgsoc-2014) a while back, say hi to the remaining three teams of this year's Rails Girls Summer of Code. 
+After you've met the [first seven teams](http://railsgirlssummerofcode.org/blog/2014-05-07-meet-the-first-seven-teams-rgsoc-2014) a while back, say hi to the remaining three sponsored teams of this year's Rails Girls Summer of Code. 
 
 But wait! There's more. We also shout a big hello to this year's volunteer teams. We're stoked to see that much enthusiasm!
 
@@ -81,4 +81,4 @@ at reading.
 will be their main coach, and 
 [Paul Hinze](https://github.com/phinze) will provide additional support.
 
-Last, but not least there will be a 5th volunteering team. However, we're still tweaking on some lose ends and will hopefully announce them soon. 
+Last, but not least there will be a 5th volunteering team from Berlin, which cannot be announcded just yet. Stay tuned :) 
