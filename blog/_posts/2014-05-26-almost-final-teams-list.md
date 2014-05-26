@@ -81,4 +81,4 @@ at reading.
 will be their main coach, and 
 [Paul Hinze](https://github.com/phinze) will provide additional support.
 
-Last, but not least there will be a 5th volunteering team from Berlin, which cannot be announcded just yet. Stay tuned :) 
+Last, but not least there will be a 5th volunteering team from Berlin, which cannot be announced just yet. Stay tuned :) 
