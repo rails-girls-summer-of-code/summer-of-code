@@ -20,9 +20,9 @@ participants, having the exposure to a productive work environment and ready
 access to coaches, can really mean the difference between a life changing, or
 stressful Summer of Code experience.
 
-Here’s where you (and your company) come in. Being a coaching company is not
+Here's where you (and your company) come in. Being a coaching company is not
 only super rewarding for your developers and team, it is also a great way to
-show your support for the Open Source communtiy and local dev structures.
+show your support for the Open Source and your local developers community.
 
 
 * <a href="#q1">Why Should I Be A Coaching Company?</a>
@@ -76,7 +76,7 @@ developers could make a good coaching company. That really is it. Great
 examples for Coaching Companies from 2013 include SoundCloud, Absolventa, and
 Travis CI.
 
-Some coaching companies have supported participants who already work for their
+Some Coaching Companies have supported participants who already work for their
 company. Companies who want to host a team of their own employees should make
 sure they state this in their application, so we know you have a specific team
 you would like to support.
@@ -111,7 +111,7 @@ attend conferences and meetups.
 * Coaching companies can't demand their teams be chosen.
 
 Teams who don't get a sponsored seat, but still want to participate and work on
-their projectcalled volunteer teams.
+their project are called volunteer teams.
 
 So what if you don't have a team you want to support? If you want to offer your
 company to potential participants, drop us a line, or register your company by
