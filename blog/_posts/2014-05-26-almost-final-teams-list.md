@@ -1,7 +1,7 @@
 ---
 title: "(Almost) Final List of Teams"
 layout: post
-created_at: Wed May 26 2015
+created_at: Wed May 26 2014
 permalink: blog/almost-final-team-list
 current: blog
 author: RGSoC Team
