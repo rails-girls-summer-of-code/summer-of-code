@@ -39,7 +39,7 @@ team last year, just like
 from the Rails Core team, will assist them.
 
 **Ute Mayer and Magdalena Frankiewicz** will work at the offices of their
-Coaching Companies [Asquera](http://asquera.de/) and [SponsorPay](http://http://www.sponsorpay.com/) in Berlin, Germany, coding on
+Coaching Companies [Asquera](http://asquera.de/) and [SponsorPay](http://www.sponsorpay.com/) in Berlin, Germany, coding on
 [Padrino](http://padrinorb.com/). They will be supported by a great team of coaches:
 [Jan Schulte](https://github.com/schultyy),
 [Florian Gilcher](https://github.com/skade),
