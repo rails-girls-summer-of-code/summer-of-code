@@ -2,7 +2,6 @@
    HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
    ========================================================================== */
 
-
 html,
 button,
 input,
@@ -175,12 +174,17 @@ textarea {
   margin: 0;
   padding: 0;
 }
-.nav-primary > ul {
-  display: none;
+/* toggle */
+.header-container.is-open { height: auto; }
+.header-container.is-open .nav-primary > ul {
+  display: block;
+  height: 300px;
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
-.nav-primary ul li {
-  position: relative;
-}
+.nav-primary > ul { display: none; }
+/* /toggle */
+.nav-primary ul li { position: relative; }
 .nav-primary ul li a {
   display: inline-block;
   width: 100%;
@@ -346,18 +350,15 @@ a:hover {
   text-decoration: underline;
 }
 
-
 h1 {
   font-size: 2.5em;
 }
 h2 {
-  /* margin: 1em 0 0.5em; */
   font-size: 2em;
   font-weight: normal;
   line-height: 1.5;
 }
 h3 {
-  /* margin: 1em 0 0.5em; */
   font-size: 1.6em;
 }
 .list { line-height: 1.5; }
@@ -387,13 +388,6 @@ h3 {
   text-transform: uppercase;
 }
 
-
-/*.container ul li {
-  list-style-type: disc;
-}
-.container aside ul li {
-  list-style-type: none;
-}*/
 .content {
   width: 100%;
   padding: 0 .5em;
@@ -969,8 +963,56 @@ h3 {
     /* padding-top: 3em; */
     background: url(../img/scribbles-frontpage.png) no-repeat scroll 52% 0% transparent;
   }
-  .hamburger {
-    display: none;
+  .nav-primary > ul {
+    margin-top: 5em;
+  }
+
+  .content {
+    width: 65%;
+    float: left;
+  }
+  .sidebar {
+    width: 27%;
+    float: right;
+    font-size: 0.9em;
+  }
+  .content-blog {
+    width: 60%;
+    overflow: auto;
+  }
+  .sidebar-blog {
+    position: absolute;
+    top: 9em;
+    right: 0;
+    width: 27%;
+    margin-right: 2em;
+  }
+  .related {
+      text-align: right;
+  }
+  .page-campaign .scribble8 {
+    float: right;
+  }
+
+  .sponsors div {
+      width: 33%;
+  }
+  .sponsors-logo {
+    float: left;
+    width: 32%;
+  }
+  .sponsors-text {
+    float: right;
+    width: 65%;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  /* toggle */
+  .hamburger { display: none; }
+  .header-container.is-open .nav-primary > ul {
+    display: block;
+    height: auto 
   }
   .nav-primary > ul {
     display: block;
@@ -1030,48 +1072,7 @@ h3 {
   .nav-primary > ul > li:first-of-type:hover a.current-page {
     background-image: none;
   }
-  .nav-primary .strong {
-    /* color: #FFFF65; */
-  }
-
-  .content {
-    width: 65%;
-    float: left;
-  }
-  .sidebar {
-    width: 27%;
-    float: right;
-    font-size: 0.9em;
-  }
-  .content-blog {
-    width: 60%;
-    overflow: auto;
-  }
-  .sidebar-blog {
-    position: absolute;
-    top: 9em;
-    right: 0;
-    width: 27%;
-    margin-right: 2em;
-  }
-  .related {
-      text-align: right;
-  }
-  .page-campaign .scribble8 {
-    float: right;
-  }
-
-  .sponsors div {
-      width: 33%;
-  }
-  .sponsors-logo {
-    float: left;
-    width: 32%;
-  }
-  .sponsors-text {
-    float: right;
-    width: 65%;
-  }
+  /* /toggle */
 }
 
 /* ==========================================================================
@@ -1130,12 +1131,8 @@ h3 {
     width: 0;
     height: 150%;
 }
-.hidden {
-    display: none !important;
-    visibility: hidden;
-}
-.invisible {
-    visibility: hidden;
+.is-hidden {
+    display: none;
 }
 .clearfix:before,
 .clearfix:after {
