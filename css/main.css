@@ -2,16 +2,7 @@
    HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
    ========================================================================== */
 
-@font-face {
-    font-family: 'Interstate';
-    src: url('fonts/interstate_mono-webfont.eot');
-    src: url('fonts/interstate_mono-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/interstate_mono-webfont.woff') format('woff'),
-         url('fonts/interstate_mono-webfont.ttf') format('truetype'),
-         url('fonts/interstate_mono-webfont.svg#interstate_monoregular') format('svg');
-    font-weight: 300;
-    font-style: normal;
-}
+
 html,
 button,
 input,
@@ -21,6 +12,7 @@ textarea {
 }
 html {
   font-size: 18px;
+  font-weight: 300;
   overflow-x: hidden;
 }
 body {
@@ -368,16 +360,16 @@ h3 {
   /* margin: 1em 0 0.5em; */
   font-size: 1.6em;
 }
-ul {
-  list-style-type: none;
-}
 .list { line-height: 1.5; }
 .list .fa {
   width: 1em;
   text-align: center;
   margin-right: 0.5em;
 }
-.list--none { padding: 0; }
+.list--none {
+  padding: 0;
+  list-style-type: none;
+}
 .list--none li,
 .list--dl dd {
   margin: 0;
@@ -389,14 +381,19 @@ ul {
 .list--dl dd {
   margin-bottom: 2em;
 }
+.list--nested ul { margin: .5em 0 2em; }
+.list--nested > li > a {
+  font-weight: 500;
+  text-transform: uppercase;
+}
 
 
-.container ul li {
+/*.container ul li {
   list-style-type: disc;
 }
 .container aside ul li {
   list-style-type: none;
-}
+}*/
 .content {
   width: 100%;
   padding: 0 .5em;
@@ -437,8 +434,11 @@ ul {
 }
 .sidebar .border { border-top: solid 4px #D82222; }
 .sidebar a.current { font-weight: bold; }
-.sidebar .button { margin: 0; }
 .sidebar-content { margin-bottom: 4em; }
+.sidebar-content h4 {
+  text-transform: uppercase;
+  font-weight: 500;
+}
 
 .frontpage-sidebar {
   margin-bottom: 4em;
