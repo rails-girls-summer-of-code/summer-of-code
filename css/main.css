@@ -22,6 +22,7 @@ textarea {
 html {
   font-size: 18px;
   overflow-x: hidden;
+  font-weight: 300;
 }
 body {
   font-size: 0.9em;
@@ -43,9 +44,7 @@ section.main {
   text-shadow: none;
 }
 p {
-  /* line-height: 1.7; */
-  /* margin: 1.6em 0 1.2em */
-  line-height: 170%;
+   line-height: 1.7; 
 }
 p + ul {
   margin-top: 2em;
@@ -323,52 +322,6 @@ textarea {
 }
 
 /* ===================
-    FAQ Accordion
-   =================== */
-
-.page-faq h3 {
-  margin: 2em 0;
-  color: #D82222;
-  font-size: 1.4em;
-}
-.accordion h3:hover {
-  cursor: pointer;
-}
-.ui-accordion-header:focus {
-  outline: none;
-}
-.ui-accordion-header:before,
-.ui-accordion-header-active:before {
-  content: "";
-  display: inline-block;
-  padding: .7em 1.5em;
-  margin-right: .5em;
-  background-position: 19px 10px;
-  background-repeat: no-repeat;
-  background-color: #D82222;
-  vertical-align: bottom;
-}
-.ui-accordion-header:before {
-  background-image: url(../img/sprites/faq_arrow_down.png);
-  background-position: 19px 10px;
-  border-radius: 6px;
-}
-.ui-accordion-header:hover:before {
-  background-image: url(../img/sprites/faq_arrow_down_red.png);
-  background-color: #D82222;
-  border-radius: 5px;
-}
-.ui-accordion-header-active:before {
-    background-image: url(../img/sprites/faq_arrow_up.png);
-    background-position: 19px 8px;
-    border-radius: 5px;
-}
-.ui-accordion-header-active:hover:before {
-    position: relative;
-    background-image: url(../img/sprites/faq_arrow_up_red.png);
-}
-
-/* ===================
     Buttons (Call to action)
    =================== */
 
@@ -423,6 +376,26 @@ h3 {
 ul {
   list-style-type: none;
 }
+.list { line-height: 1.5; }
+.list .fa {
+  width: 1em;
+  text-align: center;
+  margin-right: 0.5em;
+}
+.list--none { padding: 0; }
+.list--none li,
+.list--dl dd {
+  margin: 0;
+}
+.list--dl dt {
+  margin-bottom: .2em;
+  font-weight: 400;
+}
+.list--dl dd {
+  margin-bottom: 2em;
+}
+
+
 .container ul li {
   list-style-type: disc;
 }
@@ -466,38 +439,13 @@ ul {
   float: none;
   margin-top: 0;
 }
-.sidebar .border {
-  border-top: solid 4px #D82222;
-}
-.sidebar a.current {
-  font-weight: bold;
-}
-.sidebar-blog .button, .sidebar .button {
-  margin: 0;
-}
-.sidebar-content {
-  margin-bottom: 4em;
-}
-.sidebar-blog .rss,
-.sidebar .rss,
-.sidebar-blog .teamblogs,
-.sidebar-blog .supportscibble {
-  border-top: solid .1em lightgray;
-  margin-top: 2em;
-  padding-top: 1em;
-  padding-bottom: 2em;
-}
-.sidebar h1,
-.sidebar h2,
-.sidebar h3 {
-  /* color: #D82222; */
-}
+.sidebar .border { border-top: solid 4px #D82222; }
+.sidebar a.current { font-weight: bold; }
+.sidebar .button { margin: 0; }
+.sidebar-content { margin-bottom: 4em; }
+
 .frontpage-sidebar {
   margin-bottom: 4em;
-}
-.frontpage-sidebar .blogroll {
-  margin: 0;
-  padding: 0;
 }
 .fullwidth {
   width: 100%;
@@ -961,6 +909,15 @@ ul {
   margin-bottom: 0;
 }
 
+/* New blog design June '14 */
+.sidebar-blog h3 { font-size: 20px; }
+.sidebar-blog section {
+  padding: 0 0 2em;
+  border-bottom: 4px solid #d82222;
+}
+.sidebar-blog section:last-child { border: none; }
+.sidebar-blog .twitter { margin-bottom: 2em; }
+
 
 /* ==========================================================================
    Media Queries ----- 480px
@@ -1100,7 +1057,6 @@ ul {
     right: 0;
     width: 27%;
     margin-right: 2em;
-    text-align: right;
   }
 
   .related {
