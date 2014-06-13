@@ -913,7 +913,7 @@ ul {
 }
 .sidebar-blog section:last-child { border: none; }
 .sidebar-blog .twitter { margin-bottom: 2em; }
-
+.twitter iframe { width: 100% !important; }
 
 /* ==========================================================================
    Media Queries ----- 480px
