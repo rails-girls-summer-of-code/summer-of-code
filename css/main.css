@@ -387,12 +387,44 @@ h3 {
   font-weight: 500;
   text-transform: uppercase;
 }
+.list--team {
+  overflow: auto;
+  padding: 0;
+}
+.list--team li {
+  padding: 0;
+  margin-bottom: 3em;
+  text-align: center;
+}
+.list--team figure img {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+/*
+ * Team grid
+ */
+
+.Grid--5 li {
+  display: inline-block;
+  width: 14%;
+  min-width: 130px;
+  margin-right: 6%;
+}
+.Grid--5 li:nth-child(5n) {
+  margin-right: 0;
+}
 
 .content {
   width: 100%;
   padding: 0 .5em;
   float: none;
 }
+
+.color--red {
+  color: #D82222;
+}
+
 
 /* ===============
     HEADER FOOTER
