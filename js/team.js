@@ -48,7 +48,7 @@ TeamMembers.prototype = {
 				$.each(val.roles, function(kr, vr) {
 					if(vr.name === v) {
 						output += '<li><figure><img src="'+ val.avatar_url +'" alt="">';
-						output += '</figure><figcaption><p>'+ val.name +'<br>';
+						output += '</figure><figcaption><p>'+ val.name_or_handle +'<br>';
 						output += '<a href="//twitter.com/'+ val.twitter_handle +'"><i class="fa fa-twitter"></i>'+ val.twitter_handle +'</a><br>';
 						output += '<a href="//github.com/'+ val.github_handle +'"><i class="fa fa-github"></i>'+ val.github_handle +'</a></p></figcaption></li>';
 					}
