@@ -18,6 +18,7 @@ TeamMembers.prototype = {
 				this.queryData = data;
 				self.getRolesFromData(this.queryData);
 				self.buildPage(this.queryData);
+				$('.is-loading').removeClass('is-loading');
 
 			}).fail(function() {
 				console.log('That didn\'t work. Maybe a CORS thing?');
@@ -37,26 +38,34 @@ TeamMembers.prototype = {
 		var self = this;
 		var output = '';
 		var avatar = '';
+		// necessary to check because some organisers
+		// have the same role twice
+		var prevRole = '';
+		var prevUser = '';
 		$.each(this.roles, function(k, v) {
 			output += '<h2 class="color--red">'+ self.capitalizePluralize(v) +'</h2>';
 			output += '<ul class="list--none list--team Grid--5">';
 			$.each(data, function(key, val) {
 				$.each(val.roles, function(kr, vr) {
-					if(vr.name === v) {
-						if(val.avatar_url === null) {
-							avatar = '/img/default-avatar.jpg';
-						} else {
-							avatar = val.avatar_url;
+					if(vr.name === v ) {
+						if(prevRole !== vr.name || prevUser !== val.name_or_handle) {
+							if(val.avatar_url === null) {
+								avatar = '/img/default-avatar.jpg';
+							} else {
+								avatar = val.avatar_url;
+							}
+							output += '<li><figure><img src="'+ avatar +'" alt="">';
+							output += '</figure><figcaption><p>'+ val.name_or_handle +'<br>';
+							output += '<a href="//github.com/'+ val.github_handle +'"><i class="fa fa-github"></i>'+ val.github_handle +'</a><br>';
+							if(val.twitter_handle !== null) {
+								output += '<a href="//twitter.com/'+ val.twitter_handle +'"><i class="fa fa-twitter"></i>'+ val.twitter_handle +'</a><br>';
+							} else {
+								output += '<a href="//twitter.com/'+ val.twitter_handle +'"></a><br>';
+							}
+							output += '</p></figcaption></li>';
 						}
-						output += '<li><figure><img src="'+ avatar +'" alt="">';
-						output += '</figure><figcaption><p>'+ val.name_or_handle +'<br>';
-						output += '<a href="//github.com/'+ val.github_handle +'"><i class="fa fa-github"></i>'+ val.github_handle +'</a><br>';
-						if(val.twitter_handle !== null) {
-							output += '<a href="//twitter.com/'+ val.twitter_handle +'"><i class="fa fa-twitter"></i>'+ val.twitter_handle +'</a><br>';
-						} else {
-							output += '<a href="//twitter.com/'+ val.twitter_handle +'"></a><br>';
-						}
-						output += '</p></figcaption></li>';
+						prevRole = vr.name;
+						prevUser = val.name_or_handle;
 					}
 				});
 			});

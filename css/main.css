@@ -401,9 +401,7 @@ h3 {
   border-radius: 50%;
   overflow: hidden;
 }
-.list--team i {
-  margin-right: .2em;
-}
+.list--team i { margin-right: .2em; }
 
 /*
  * Team grid
@@ -415,9 +413,7 @@ h3 {
   min-width: 130px;
   margin-right: 2%;
 }
-.Grid--5 li:nth-child(5n) {
-  margin-right: 0;
-}
+.Grid--5 li:nth-child(5n) { margin-right: 0; }
 
 .content {
   width: 100%;
@@ -425,8 +421,16 @@ h3 {
   float: none;
 }
 
-.color--red {
-  color: #D82222;
+.color--red { color: #D82222; }
+
+.page-team article {
+  min-height: 15em;
+}
+.page-team article { min-height: 15em; }
+.page-team article.is-loading {
+  background-image: url('/img/ajax-loader.gif');
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 
