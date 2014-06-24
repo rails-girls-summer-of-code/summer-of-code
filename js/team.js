@@ -49,8 +49,8 @@ TeamMembers.prototype = {
 					if(vr.name === v) {
 						output += '<li><figure><img src="'+ val.avatar_url +'" alt="">';
 						output += '</figure><figcaption><p>'+ val.name +'<br>';
-						//output += '<a href="#"><i class="fa fa-twitter"></i>'+ val.twitter +'</a><br>';
-						output += '<a href="#"><i class="fa fa-github"></i>'+ val.github_handle +'</a></p></figcaption></li>';
+						output += '<a href="//twitter.com/'+ val.twitter_handle +'"><i class="fa fa-twitter"></i>'+ val.twitter_handle +'</a><br>';
+						output += '<a href="//github.com/'+ val.github_handle +'"><i class="fa fa-github"></i>'+ val.github_handle +'</a></p></figcaption></li>';
 					}
 				});
 			});
