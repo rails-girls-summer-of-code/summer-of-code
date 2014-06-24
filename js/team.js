@@ -6,8 +6,8 @@ var TeamMembers = function() {
 
 TeamMembers.prototype = {
 
-	//queryUrl: 'http://teams.railsgirlssummerofcode.org/contributors.json',
-	queryUrl: '/js/teamdata.json',
+	queryUrl: 'http://teams.railsgirlssummerofcode.org/contributors.json',
+	//queryUrl: '/js/teamdata.json',
 	queryData: {},
 	roles: [],
 
@@ -41,13 +41,19 @@ TeamMembers.prototype = {
 	buildPage: function(data) {
 		var self = this;
 		var output = '';
+		var avatar = '';
 		$.each(this.roles, function(k, v) {
 			output += '<h2 class="color--red">'+ self.capitalizePluralize(v) +'</h2>';
 			output += '<ul class="list--none list--team Grid--5">';
 			$.each(data, function(key, val) {
 				$.each(val.roles, function(kr, vr) {
 					if(vr.name === v) {
-						output += '<li><figure><img src="'+ val.avatar_url +'" alt="">';
+						if(val.avatar_url === null) {
+							avatar = '/img/default-avatar.jpg';
+						} else {
+							avatar = val.avatar_url;
+						}
+						output += '<li><figure><img src="'+ avatar +'" alt="">';
 						output += '</figure><figcaption><p>'+ val.name_or_handle +'<br>';
 						output += '<a href="//twitter.com/'+ val.twitter_handle +'"><i class="fa fa-twitter"></i>'+ val.twitter_handle +'</a><br>';
 						output += '<a href="//github.com/'+ val.github_handle +'"><i class="fa fa-github"></i>'+ val.github_handle +'</a></p></figcaption></li>';
