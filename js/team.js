@@ -6,8 +6,8 @@ var TeamMembers = function() {
 
 TeamMembers.prototype = {
 
-	queryUrl: 'http://teams.railsgirlssummerofcode.org/contributors.json',
-	//queryUrl: '/js/teamdata.json',
+	//queryUrl: 'http://teams.railsgirlssummerofcode.org/contributors.json',
+	queryUrl: '/js/teamdata.json',
 	queryData: {},
 	roles: [],
 
