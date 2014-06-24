@@ -55,8 +55,13 @@ TeamMembers.prototype = {
 						}
 						output += '<li><figure><img src="'+ avatar +'" alt="">';
 						output += '</figure><figcaption><p>'+ val.name_or_handle +'<br>';
-						output += '<a href="//twitter.com/'+ val.twitter_handle +'"><i class="fa fa-twitter"></i>'+ val.twitter_handle +'</a><br>';
-						output += '<a href="//github.com/'+ val.github_handle +'"><i class="fa fa-github"></i>'+ val.github_handle +'</a></p></figcaption></li>';
+						output += '<a href="//github.com/'+ val.github_handle +'"><i class="fa fa-github"></i>'+ val.github_handle +'</a><br>';
+						if(val.twitter_handle !== null) {
+							output += '<a href="//twitter.com/'+ val.twitter_handle +'"><i class="fa fa-twitter"></i>'+ val.twitter_handle +'</a><br>';
+						} else {
+							output += '<a href="//twitter.com/'+ val.twitter_handle +'"></a><br>';
+						}
+						output += '</p></figcaption></li>';
 					}
 				});
 			});
