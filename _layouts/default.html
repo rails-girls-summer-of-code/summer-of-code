@@ -12,11 +12,11 @@
     <meta name="description" content="Rails Girls Summer of Code 2014">
     <meta name="viewport" content="width=device-width">
 
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/normalize.min.css">
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/donations.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
     <link rel="alternate" type="application/atom+xml" href="http://railsgirlssummerofcode.org/blog.xml"/>
 
     {% if page.stripe %}
@@ -34,6 +34,7 @@
     <header class="wrapper clearfix">
     <a href="/" class=""><h1 class="logo-nav ir">Rails Girls Summer of Code</h1></a>
     <nav class="nav-primary clearfix">
+      <div class="hamburger"><i></i></div>
       <ul>
         <li>
           <a href="/about" {% if page.current == 'about' %}class="current-page"{% endif %}>About</a>
