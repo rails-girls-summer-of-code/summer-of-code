@@ -10,14 +10,13 @@ current: blog
     {% for post in site.posts %}
       <article class="content">
         <h1><a href="{{post.url}}">{{post.title}}</a></h1>
-
         <p class='meta'>
+          Posted on <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ post.created_at | date: "%B %-d, %Y" }}</time> by 
           {% if post.twitter %}
-            <a href='http://twitter.com/{{ post.twitter }}'>{{ post.author }}</a>,
+            <a href='http://twitter.com/{{ post.twitter }}'>{{ post.author }}</a>
           {% else %}
-            {{ post.author }},
+            {{ page.author }},
           {% endif %}
-          <time datetime="{{ post.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ post.created_at | date: "%B %-d, %Y" }}</time>
         </p>
         {{ post.content }}
       </article>
