@@ -8,7 +8,7 @@ author: Floor
 twitter: RailsGirlsSoc
 ---
 
-[We recently announced](blog/2014-06-19-tealeaf-helpdesk/) how a bunch of awesome Tealeaf students and alumni will help this year's Rails Girls Summer of Code participants get the answers-they-need. Today we are excited to share that [Hashrocket](http://hashrocket.com/) will also be joining our helpdesk team on [Campfire](https://railsgirlssummerofcode.campfirenow.com/33c5b). Committing to 10 hours per week for the entire span of the program, at least one Hashrocketeer will hang out in our support room between 14:00 and 22:00 UTC - every day!
+[We recently announced](http://railsgirlssummerofcode.org/blog/2014-06-19-tealeaf-helpdesk/) how a bunch of awesome Tealeaf students and alumni will help this year's Rails Girls Summer of Code participants get the answers-they-need. Today we are excited to share that [Hashrocket](http://hashrocket.com/) will also be joining our helpdesk team on [Campfire](https://railsgirlssummerofcode.campfirenow.com/33c5b). Committing to 10 hours per week for the entire span of the program, at least one Hashrocketeer will hang out in our support room between 14:00 and 22:00 UTC - every day!
 
 [Joshua - Josh - Davey](https://twitter.com/joshuadavey) from Hashrocket on their involvement:
 *"Rails Girls Summer of Code is something we've been following, and we are really happy to be a part of the program this year. We're excited to help the students learn more about Rails and see the cool projects that come out of the program."*
