@@ -8,15 +8,16 @@ TeamMembers.prototype = {
 
 	queryUrl: 'http://teams.railsgirlssummerofcode.org/contributors.json',
 	queryData: {},
-	roles: [],
+	// for dynamic roles
+	//roles: [],
+	roles: [ "organizer", "supervisor", "coach", "mentor" ],
 
 	init: function() {
 		var self = this;
 		$.get(this.queryUrl)
 			.done(function(data) {
-				//console.log(data);
 				this.queryData = data;
-				self.getRolesFromData(this.queryData);
+				//self.getRolesFromData(this.queryData);
 				self.buildPage(this.queryData);
 				$('.is-loading').removeClass('is-loading');
 
