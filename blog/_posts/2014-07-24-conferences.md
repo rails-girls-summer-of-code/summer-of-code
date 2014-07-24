@@ -20,10 +20,13 @@ Since some of them already take place mid-program, we decided to do an early raf
 
 We need you to tweet using your Rails Girls Summer of Code team Twitter account which conferences (find out their twitter handles on their websites) you'd like to attend - ordered by 1st choice, 2nd choice etc. - followed by mentioning @railsgirlssoc, so that we are sure to get your tweet. 
 
-*Hey @Railsgirlssoc We would love to attend @arrrrcamp, @eurucamp and @rulu. 
+These are two examples, how this could look like:
+
+###Hey @Railsgirlssoc We would love to attend @arrrrcamp, @eurucamp and @rulu. 
 (and alternatively add #wishfulthinking #LOL). 
 
-*Our Conf Wishlist for this summer: @SteelCityRuby and @frozenrails via @Railsgirlssoc.*
+
+###Our Conf Wishlist for this summer: @SteelCityRuby and @frozenrails via @Railsgirlssoc.
 
 By sending the tweet you automatically take part in the competition. Make sure you send your tweet by Monday July 25 12:00 (AM) CEST. We'll announce the winners shortly after.
 
