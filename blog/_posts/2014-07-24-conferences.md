@@ -44,7 +44,7 @@ August 1-3
 Berlin, Germany
 2 tickets
 
-[**Burlington Ruby Conference**](http://2014.eurucamp.org/)
+[**Burlington Ruby Conference**](http://burlingtonrubyconference.com/)
 August 1-3
 Burlington, VT
 4 tickets
