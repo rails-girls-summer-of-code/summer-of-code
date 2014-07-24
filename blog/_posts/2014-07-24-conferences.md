@@ -1,7 +1,7 @@
 ---
 title: "Get your ticket to one (or more!) of these great conferences"
 layout: post
-created_at: Thu May 22 2014
+created_at: Thu Jul 24 2014
 permalink: blog/2014-07-24-conferences
 current: blog
 author: Floor
