@@ -18,7 +18,7 @@ Since some of them already take place mid-program, we decided to do an early raf
 
 **How to get your hands on those awesome tickets**
 
-We need you to tweet using your Rails Girls Summer of Code team Twitter account which conferences (find out their twitter handles on their websites) you'd like to attend - ordered by 1st choice, 2nd choice etc. - **be sure to mention [@Railsgirlssoc](http://twitter.com/railsgirlssoc)**, so that we can see your tweet and take it into the raffle. 
+We need you to tweet which conferences (find out their twitter handles on their websites) you'd like to attend - ordered by 1st choice, 2nd choice etc. - **be sure to mention [@Railsgirlssoc](http://twitter.com/railsgirlssoc)**, so that we can see your tweet and take it into the raffle. 
 
 These are two examples, how this could look like:
 
@@ -26,7 +26,7 @@ These are two examples, how this could look like:
 (and alternatively add #wishfulthinking #LOL). 
 
 
-###Our Conf Wishlist for this summer: @SteelCityRuby and @frozenrails via @Railsgirlssoc.
+###My Conf Wishlist for this summer: @SteelCityRuby and @frozenrails via @Railsgirlssoc.
 
 By sending the tweet you automatically take part in the competition. Make sure you send your tweet by **Monday July 28 12:00 (AM) CEST**. We'll announce the winners shortly after.
 
