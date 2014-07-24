@@ -28,7 +28,7 @@ These are two examples, how this could look like:
 
 ###Our Conf Wishlist for this summer: @SteelCityRuby and @frozenrails via @Railsgirlssoc.
 
-By sending the tweet you automatically take part in the competition. Make sure you send your tweet by Monday July 25 12:00 (AM) CEST. We'll announce the winners shortly after.
+By sending the tweet you automatically take part in the competition. Make sure you send your tweet by **Monday July 28 12:00 (AM) CEST**. We'll announce the winners shortly after.
 
 You can choose from any of the below mentioned conferences. Please keep in mind, that these tickets don't include travel costs or accomodation, so better chose a conference near you or one where you could afford a travel to.
 
