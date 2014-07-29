@@ -1,0 +1,20 @@
+Team Species+ says hello!
+
+Hi everyone :-) It's time for our short introduction. Team Species plus are: Karolina Kaminska and Magdalena Niedzwiecka. 
+
+Karolina was studying Hungarian language at the University of Warsaw. She knows 5 other foreign languages apart of Hungarian. She's also interested in computer graphics and wide variety of different things. But when she attended the second edition of Rails Girls Warsaw last year, she finally fell in love with web development. In order to participate in RGSoC she quitted her job.
+
+Magdalena graduated in journalism at the University of Warsaw. Until quite recently she was working as a PR officer in one of the Warsaw PR agencies. She was specializing in running PR projects for IT companies. Her first experiences with coding took place this year at the end of February - it was Rails Girls Warsaw workshop. Since then she does her best to learn.
+
+Last but not least - we both are mothers :-)
+
+OK, and now a few words about our project. 
+
+Species+ is web service for accessing key information on species of global concern. It's based on CITES database (here you can find out what CITES is), but uses CMS data as well - everything in order to protect endangered species of animals. 
+
+Species+ has over 20 thousand visits per month. Our task in project is to analyse users' behaviour. How do they search for species? Do they browse online or download data? Which bits of species information are most often accessed? After we abstract these data, we're going to create  a tool for making the information more readable. 
+
+To find out more about users' behaviour, we use ahoy_matey gem. At the moment we have to add ahoy tracking to Species + API requests.
+
+Let's be honest - our project is not easy. During the relatively short time we have to learn some PostgreSQL & SQL and a lot of Ruby & Java Script. From time to time we are facing problems with various gems & their compatibility with Ruby different versions. Sometimes we feel a little bit overwhelmed, but we know that it's just leaving our comfort zone. And when you left your comfort zone, magic happens. 
+
