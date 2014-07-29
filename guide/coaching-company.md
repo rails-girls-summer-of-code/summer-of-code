@@ -42,6 +42,7 @@ contributor network, and much more. However, one of the best parts of being a
 Coaching Company is the huge amount of organic publicity your company garners.
 
 <br>
+
 <blockquote class="twitter-tweet" lang="en"><a href="https://twitter.com/search?q=%23SoundCloud&amp;src=hash">#SoundCloud</a> is awesome. Not only do they sponsor <a href="https://twitter.com/search?q=%23rgsoc&amp;src=hash">#rgsoc</a> they also give their space &amp; coaches to help us learn <a href="https://twitter.com/search?q=%23ruby&amp;src=hash">#ruby</a>.Thank you, <a href="https://twitter.com/SoundCloud">@SoundCloud</a>&mdash; Nina Breznik (@ninabreznik) <a href="https://twitter.com/ninabreznik/statuses/362902830358605825">August 1, 2013</a></blockquote>
 <script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -50,6 +51,7 @@ Coaching Company is the huge amount of organic publicity your company garners.
 
 <blockquote class="twitter-tweet" lang="en">Supercool! &lt;3 The talk from <a href="https://twitter.com/RailsGrrls">@RailsGrrls</a> at the <a href="https://twitter.com/SoundCloud">@SoundCloud</a> office is online! <a href="http://t.co/JT2rpsSOy9">http://t.co/JT2rpsSOy9</a> <a href="https://twitter.com/search?q=%23RGSoC&amp;src=hash">#RGSoC</a>&mdash; Rails Girls SoC (@RailsGirlsSoC) <a href="https://twitter.com/RailsGirlsSoC/statuses/371982999614935040">August 26, 2013</a></blockquote>
 <script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br>
 
 Here are some selected blog posts from 2013 to help illustrate what it means to
@@ -150,4 +152,3 @@ on Twitter and we'll retweet and help you connect to students.
 If we didn't cover your question here, then
 <a href="mailto:summer-of-code@railsgirls.com">drop us a line</a>!
 We'd be happy to talk about what you have to offer as a coaching company
-
