@@ -1,6 +1,6 @@
 
 ---
-title: "And the conference tickets go to..."
+title: And the conference tickets go to..
 layout: post
 created_at: Tue July 29 2014
 permalink: blog/2014-07-29-tickets-raffle
