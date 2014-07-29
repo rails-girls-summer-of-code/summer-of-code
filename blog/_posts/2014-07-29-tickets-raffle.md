@@ -32,7 +32,7 @@ IF you ended up empty-handed, don't worry, you will get another shot as **we'll 
 **And now what?**
 Well, now you can all start planning your trips and accommodation. Let us know if we can connect you to the local Rails Girls community to make your stay even more fun. 
 
-Then: enjoy the conference! Additionally, why not amaze the other attendees? We would love for you to share your Summer of Code story and that's why we wrote up some [handy nuggets to help you past your initial stage fright](http://railsgirlssummerofcode.org/blog/2014-07-29-talk-tips/) ;) 
+Then: enjoy the conference! Additionally, why not amaze the other attendees? We would love for you to share your Summer of Code story and that's why we wrote up some [handy nuggets to help you past your initial stage fright](http://railsgirlssummerofcode.org/blog/2014-07-29-talk-tips/). 
 
 ###Thank you to all our round 1 conferences
 
