@@ -10,6 +10,9 @@ twitter: RailsGirlsSoc
 
 All the students turned to Twitter, gave us their [conference](http://railsgirlssummerofcode.org/blog/2014-06-09-conference-tickets/) wishlists and the results are in! *And the conference tickets go to...*
 
+![raffle](https://cloud.githubusercontent.com/assets/1711357/3734491/b7877118-1717-11e4-9b4f-74c5b301eeb5.png)
+
+
 [Team Participate](http://teams.railsgirlssummerofcode.org/teams/6) - FrozenRails
 
 [ARIA Team](http://teams.railsgirlssummerofcode.org/teams/5) - Strangeloop
