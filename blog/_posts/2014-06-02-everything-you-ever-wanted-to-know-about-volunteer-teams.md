@@ -10,7 +10,7 @@ twitter: RailsGirlsSoc
 
 ### Everything you ever wanted to know about volunteer teams
 
-This year, RGSoC has accepted [six volunteer teams](http://railsgirlssummerofcode.org/blog/almost-final-team-list/)  in addition to ten sponsored teams. It’s an exciting development, and you may be wondering, what is a volunteer team, and how do I become one?
+This year, RGSoC has accepted [six volunteer teams](http://railsgirlssummerofcode.org/blog/final-team-list-2014/)  in addition to ten sponsored teams. It’s an exciting development, and you may be wondering, what is a volunteer team, and how do I become one?
 
 Volunteer teams, like sponsored teams were hand picked by the selection committee from the pool of applicants. The chosen teams showed enthusiasm and demonstrated that they have a good level of support. We really wanted these teams in the program, but sadly, we couldn’t sponsor them. Instead of leaving them out completely, we took a leap of faith, and asked if they wanted to do it anyway. Lucky for us, six of them said yes!
 
