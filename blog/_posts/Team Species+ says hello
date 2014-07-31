@@ -10,9 +10,9 @@ Last but not least - we both are mothers :-)
 
 OK, and now a few words about our project. 
 
-<a href="http://speciesplus.net/">Species+</a> is web service for accessing key information on species of global concern. It's based on CITES database (<a href="http://www.cites.org/">here</a> you can find out what CITES is), but uses <a href="http://www.un.org/earthwatch/about/docs/Pdcms.htm">CMS</a> data as well - everything in order to protect endangered species of animals. 
+<a href="http://speciesplus.net/">Species+</a> is a web service for accessing key information on species of global concern. It's based on the CITES database (<a href="http://www.cites.org/">here</a> you can find out what CITES is), but uses <a href="http://www.un.org/earthwatch/about/docs/Pdcms.htm">CMS</a> data as well - everything in order to protect endangered species of animals. 
 
-Species+ has over 20 thousand visits per month. Our task in project is to analyse users' behaviour. How do they search for species? Do they browse online or download data? Which bits of species information are most often accessed? After we abstract these data, we're going to create a tool for making the information more readable. 
+Species+ has over 20 thousand visits per month. Our task in the project is to analyse users' behaviour. How do they search for species? Do they browse online or download data? Which bits of species information are most often accessed? After we abstract these data, we're going to create a tool for making the information more readable. 
 
 To find out more about users' behaviour, we use ahoy_matey gem. At the moment we have to add ahoy tracking to Species + API requests.
 
