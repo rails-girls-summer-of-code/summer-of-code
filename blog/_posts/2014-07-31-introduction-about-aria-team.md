@@ -1,5 +1,5 @@
 ---
-title: Introducing Team ARIA
+title: Introducing ARIA Team
 layout: post
 created_at: Thu July 31 2014
 permalink: blog/about-ariateam
