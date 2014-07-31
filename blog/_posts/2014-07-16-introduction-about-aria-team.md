@@ -8,7 +8,7 @@ author: ARIA Team
 twitter: GirlsARIA
 ---
 
-Hi everybody, we are **Team ARIA ** and we want to say hi! My name is **Melissa Torregrosa**, I am 24 years old, and I’m a graduate in Computer Science. After my graduation I was working in the field of quality assurance and information system audit. I consider myself as an outgoing person, friendly and responsible. **Paola Garcia** is my teammate, she is 25 years old, she's from Barranquilla-Colombia and she’s a graduate in Computer Sciences as well. She was working as a Process Analyst before RGSoC. Her goal this year is to become a Ruby on Rails developer. Currently she spend her time studying and researching technology, and enjoying time with her family.
+Hi everybody, we are the **ARIA Team** and we want to say hi! My name is **Melissa Torregrosa**, I am 24 years old, and I’m a graduate in Computer Science. After my graduation I was working in the field of quality assurance and information system audit. I consider myself as an outgoing person, friendly and responsible. **Paola Garcia** is my teammate, she is 25 years old, she's from Barranquilla-Colombia and she’s a graduate in Computer Sciences as well. She was working as a Process Analyst before RGSoC. Her goal this year is to become a Ruby on Rails developer. Currently she spend her time studying and researching technology, and enjoying time with her family.
 
 We met at the University 5 years ago and there began our friendship. **Guillermo Iguaran** is our Mentor, **Roberto Miranda** and **Laura Garcia** are our coaches. We met Roberto and Guillermo during University and became good friends. Paola and Laura are sisters, and Laura participated in last year's Rails Girls Summer of Code, and through her heard of RGSoC.
 
@@ -28,7 +28,7 @@ The project name is **"Improving Accessibility in Rails through ARIA"**, and we 
 
 As you can see, since we are working with ARIA attributes that's the reason for our name **"ARIA Team"**. We feel really excited with this opportunity and hope that our project will have a positive impact in the software development progress.
 
-_TeamARIA_ .
+_ARIATeam_ .
 --
 
-You can follow team ARIA's process here: [http://ariateam.tumblr.com/](http://ariateam.tumblr.com/) and on [https://twitter.com/girlsaria](twitter).
+You can follow the team's process here: [http://ariateam.tumblr.com/](http://ariateam.tumblr.com/) and on [https://twitter.com/girlsaria](twitter).
