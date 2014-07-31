@@ -1,7 +1,7 @@
 ---
 title: Introducing Team ARIA
 layout: post
-created_at: Fri July 25 2014
+created_at: Thu July 31 2014
 permalink: blog/about-ariateam
 current: blog
 author: ARIA Team
