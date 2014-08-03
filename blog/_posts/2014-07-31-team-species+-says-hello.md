@@ -14,7 +14,7 @@ Magdalena graduated in journalism at the University of Warsaw. Until quite recen
 
 Last but not least - we both are mothers :-)
 
-![Here you can see us with our coaches, Tomasz & Piotr](http://i.imgur.com/I9Cxc0e.jpg)
+![Here you can see us with our coaches, Tomasz & Piotr](http://i.imgur.com/vDcbsMr.jpg)
 
 OK, and now a few words about our project. 
 
