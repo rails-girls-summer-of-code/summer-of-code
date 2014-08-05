@@ -5,6 +5,7 @@ created_at: Tue Aug 05 2014
 permalink: blog/Team-Species+-says-hello
 current: blog
 author: Team Species+
+twitter: RailsGirlsSoc
 ---
 
 
