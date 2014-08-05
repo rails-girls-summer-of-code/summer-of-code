@@ -4,7 +4,7 @@ layout: post
 created_at: Tue Aug 05 2014
 permalink: blog/Team-Species+-says-hello
 current: blog
-author: Karolina and Magdalena
+author: TeamSpecies+
 twitter: RailsGirlsSoc
 ---
 
