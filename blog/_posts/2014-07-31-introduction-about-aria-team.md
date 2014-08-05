@@ -17,7 +17,7 @@ We met at the University 5 years ago and there began our friendship. **Guillermo
 
 ##About our project!
 
-The project name is **"Improving Accessibility in Rails through ARIA"**, and we chose this idea because right now people with disabilities who are working in development software applications have  limitations with the tools they use. Traditional software developer tools weren’t designed with features who are required to be interpreted by assistive technology. 
+The project name is **"Improving Accessibility in Rails through ARIA"**, and we chose this idea because right now people with disabilities who are working in development software applications have  limitations with the tools they use. Traditional software developer tools weren’t designed with features who are required to be interpreted by assistive technology.
 
 ###Our goals are:
 1. To add ARIA attributes to error pages thrown by rails, so that developers with visual disabilities can identify the details of errors.
@@ -31,4 +31,4 @@ As you can see, since we are working with ARIA attributes that's the reason for 
 _ARIATeam_ .
 --
 
-You can follow the team's process here: [http://ariateam.tumblr.com/](http://ariateam.tumblr.com/) and on [https://twitter.com/girlsaria](twitter).
+You can follow the team's process here: [http://ariateam.tumblr.com/](http://ariateam.tumblr.com/) and on [Twitter](https://twitter.com/girlsaria).
