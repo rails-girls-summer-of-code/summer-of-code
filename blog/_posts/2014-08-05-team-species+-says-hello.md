@@ -4,7 +4,7 @@ layout: post
 created_at: Tue Aug 05 2014
 permalink: blog/Team-Species+-says-hello
 current: blog
-author: Karolina and Magdalena
+author: TeamSpecies+
 twitter: RailsGirlsSoc
 ---
 
@@ -15,7 +15,7 @@ Magdalena graduated in journalism at the University of Warsaw. Until quite recen
 
 Last but not least - we both are mothers :-)
 
-![Here you can see us with our coaches, Tomasz & Piotr](http://i.imgur.com/vDcbsMr.jpg)
+ <img src="http://i.imgur.com/vDcbsMr.jpg" width="600" title="Here you can see us with our coaches, Tomasz & Piotr">
 
 OK, and now a few words about our project. 
 
