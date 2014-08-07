@@ -1,7 +1,7 @@
 ---
 title: Spree Girls Winter of Code!
 layout: post
-created_at: Mon Aug 04 2014
+created_at: Thu Aug 07 2014
 permalink: blog/spree-girls-downunder
 current: blog
 author: Spree Girls
@@ -23,7 +23,7 @@ Catherine is a former fashion designer from the UK, who went back to college to 
 
 ![Tracy, Catherine, Croc](http://www.tracecode.com.au/blog/wp-content/uploads/2014/08/group.jpg)
 
-Tracy became exposed to coding while working in Digital Marketing. She met Catherine at one of the many Sydney Ruby events, and both have become actively involved in the community, attending Ruby Conf, Rails Camps, Hack Nights and ending up being mentors at a Rails Girls event. 
+Tracy became exposed to coding while working in Digital Marketing. She met Catherine at one of the many Sydney Ruby events, and both have become actively involved in the community, attending Ruby Conf, Rails Camps, Hack Nights and ending up being mentors at a Rails Girls event.
 
 ###Our Hopes From The Project
 
