@@ -42,6 +42,9 @@ As this is a worldwide program with students all across the globe, we are lookin
 ##### Peru
 * Lima
 
+##### Poland
+* Warsaw
+
 ##### USA
 
 * Atlanta, GA
