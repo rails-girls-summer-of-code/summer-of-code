@@ -52,7 +52,7 @@ Leave your laptop and phone at home, and just head out. After the first few minu
 ### 10. Go wild at an amusement park
 ..because roller-coasters and bumper cars are definitely not just for kids.
 
-### *Studies show that just "hanging around" and doing nothing or only watching tv won't let you feel relaxed. Your brain wants to do things and experience stuff.*
+### *Studies show that just "hanging around" and doing nothing and just lying on the couch all day won't let you feel very relaxed. Your brain wants to do things and experience stuff.*
 
 So make the best out of it, and **enjoy your RGSOC-DAY-OFF**!
 
