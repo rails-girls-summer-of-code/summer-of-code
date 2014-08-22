@@ -1,5 +1,5 @@
 ---
-title: Warning: self-promotion by RapidRailsGirls!
+title: Self-promotion by RapidRailsGirls!
 layout: post
 created_at: Fri Aug 22 2014
 permalink: blog/rapidrailsgirls
@@ -39,7 +39,7 @@ Because we learn at a high pace ;) but also because the project we chose to star
 
 ###Things we would change about the Summer of Code:
 * turn the program into “Winter of Code” :snowflake:. We realized that the current “Summer of Code” :sunny: makes one too excited about coding and thus you spend most of the time in front of a computer, neglecting the beautiful sunshine outside.
-* we would not choose SoundCloud as an office again (this is obviously a lie….). It’s just too fabulous, too cozy, too many goodies for the employees, too good food …. the result being that we’re now totally spoiled.
+* we would not choose SoundCloud as an office again :wink:. It’s just too fabulous, too cozy, too many goodies for the employees, too good food …. the result being that we’re now totally spoiled.
 
 ###Anyways…
 … if you’d like to stay tuned about our Summer Code, check out [our blog](http://rapidrailsgirls.weebly.com/)!
