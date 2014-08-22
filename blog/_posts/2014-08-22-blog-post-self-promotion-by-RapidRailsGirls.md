@@ -24,7 +24,7 @@ Perfect material for a decent developer, don’t you think? :wink:“
 Because we learn at a high pace ;) but also because the project we chose to start with is called RapidFTR. It’s a Ruby on Rails/Android application that lets aid workers collect and share information about unaccompanied children in emergency situations, so they can be reunited with their families. We will help upgrading the current app to version 2.0.
 
 ###Things we learned so far:
-* how to use a Mac (yap, involving terminal commands and funny symbols like '[ ~\ | ${}]' ) .
+* how to use a Mac (yap, involving terminal commands and funny symbols like [ ~\ | ${}] ).
 * how to use Twitter (just have to overcome our general fear of actually using it).
 * learned the English words for all the punctuation marks.
 * the importance of going to conferences - you get free tshirts there!
