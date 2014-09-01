@@ -2,10 +2,10 @@
 title: Team BrowserSpree
 layout: post
 created_at: Mon Sept 01 2014
-permalink: blog/teambrowserspree
+permalink: blog/2014-09-01-teambrowserspree
 current: blog
 author: Team BrowserSpree
-twitter: _browserspree_
+twitter: browserspree
 ---
 
 Hello world, we're team BrowserSpree. We're working on a module to integrate the e-commerce engine Spree into BrowserCMS, a Rails content management system. It's been a challenging, but rewarding, journey so we're excited to share what we've been up to so far.
