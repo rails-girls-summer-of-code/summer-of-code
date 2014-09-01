@@ -1,7 +1,7 @@
 ---
 title: Team BrowserSpree
 layout: post
-created_at: Mon August 25 2014
+created_at: Mon Sept 01 2014
 permalink: blog/teambrowserspree
 current: blog
 author: Team BrowserSpree
