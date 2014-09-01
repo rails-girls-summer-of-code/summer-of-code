@@ -10,7 +10,7 @@ twitter: browserspree
 
 Hello world, we're team BrowserSpree. We're working on a module to integrate the e-commerce engine Spree into BrowserCMS, a Rails content management system. It's been a challenging, but rewarding, journey so we're excited to share what we've been up to so far.
 
-![Team BrowserSpree](http://imgur.com/xnKYURQ.png "Team BrowserSpree")
+<img src="http://imgur.com/xnKYURQ.png" width="700" title= "Team BrowserSpree">
 
 ##Britney's Background##
 
