@@ -18,24 +18,30 @@ Hi, Britney here. I started learning Ruby and Ruby on Rails in May 2013. I atten
 
 
 ##Jam’s Story!##
-![Jam](http://i.imgur.com/8rsQvLH.jpg "Jam")
+
+<img src="http://i.imgur.com/8rsQvLH.jpg" width="700" title= "Jam">
 Hi – I’m Jam! I’m an IT Project Manager by day– and a Fullstack Rails Dev (in the making) by night. A year ago – learning to program never seemed like a possibility. I – of course thought you had to have a Bachelors in Computer Science and be able to solve some complex algorithm in your sleep for someone to actually pay you to do it. The big decision to go for it anyway came to me when was challenged by an employer who said I wasn’t an ”A” player because I didn’t have a technical degree - which challenged me to prove them wrong. If it hadn’t been for Rails Girls DC and the awesome DC Ruby community, I would have never believed I had what it takes to defy that belief. I attended my first Rails Girls Workshop in June of 2013, having no experience whatsoever. A year later, along with Britney  - we planned the June 2014 Rails Girls DC Workshop – which was an amazing experience.  Outside of the -  my loves: West African Dance, Indie Music (all genres), Fashion and reality tv. My goal: to design and build e-commerce for fashion brands. 
 I recently enrolled in Tealeaf Academy which managing that, in addition to RGSoC and my full-time job has totally killed my summer social life – but I’m getting closer to my dream – and that’s all that matters. I’ve finally decided to follow the advice of the masses and create a blog to document my journey to learning design and code, with sprinkles of randomness in between. Follow me @justjamonit/@rbywoo and blog: rbywoo.com
 
 ##Ruby for Good##
-![revolunet logo](http://imgur.com/g97sQcc.png "Ruby for Good")
+
+<img src="http://imgur.com/g97sQcc.png" width="600" title= "Ruby for Good">
+
 The first ever Ruby for Good was a few week ago and it was so cool to see so many rubyists, both new and old get together and work projects to benefit others. Since we could break into teams and work on projects of our choosing - I thought what better chance to work on BCMS 4.0 documentation! Luckily, Craig Riecke agreed! Craig came down Ithaca, NY. He is Rails Developer for Cornell University AND published author - Mastering Dojo. When I first made the announcement that I was working on documentation for BCMS… I knew no one would be interested! After all other teams were building sexy apps in AngularJs, for example! But Craig was looking for change from his day to day - programming. So it was a win-win!
 
 It was so great to work with someone of his skill set and background. He brought a very fresh perspective to the user/developer documentation that allowed us to rewrite and restructure the documentation rather than simply update what was there to include BCMS 4.0 features.
 Check out what we were able to accomplish here. Craig was able to make a lot of progress with the User Documentation, while I dove into the Developer Documentation. The great news is Craig is on board to continue updating the documentation with us going forward!!
 Check some our Twitter <3 from that weekend:
 
-![BrowserCMS Documentation](http://imgur.com/CkBFfiw.png "BrowserCMS documentation")
 
-![Team Pathway Homes](http://i.imgur.com/wmbsWVt.png "Team Pathway Homes")
+<img src="http://imgur.com/CkBFfiw.png" width="600" title= "BrowserCMS documentation">
+
+<img src="http://i.imgur.com/wmbsWVt.png" width="600" title= "Team Pathway Homes">
 
 ##Steel City Ruby##
-![Rails Girls Lightning Talk](http://alwaysbelearning.co/assets/2014/08/rails_girls_talk.jpg "Rails Girls Lightning Talk")
+
+<img src="http://alwaysbelearning.co/assets/2014/08/rails_girls_talk.jpg" width="600" title= "Rails Girls Lightning Talk">
+
 Not long after Ruby for Good, we attended Steel City Ruby Conf in Pittsburgh, Pennsylvania. It was a great opportunity for us to visit another community of developers since we’ve mostly just engaged with the D.C. community and those who visit. We highly recommend the conference to developers of all experience levels. The organizers did a great job of selecting talks that weren’t all highly technical. In fact many of them had more to do with self-reflection and community. We also had the opportunity to give a lightning talk about Rails Girls and Rails Girls Summer of Code. We explained what each was about and our experiences. The feedback we received was very positive and helped us start a lot of conversations with other attendees. We were able to explain in more depth how Rails Girls works and make recommendations about putting on workshops and other strategies to engage local communities. It was the first lightning talk for both of us and we’re looking forward to doing more. Our Ruby Conf schedule is far from over - we have RubyDCamp and Nickel City Ruby right around the corner, in October!
 
 ##Reflecting##
@@ -70,4 +76,4 @@ Start small. When adding a feature, it seemed daunting and often time felt like 
 ##Where to From Here##
 Well we spent the last two weeks diving into Spree and for the last week - we have been tried installing BrowserCMS and Spree in the same Rails app and seeing what breaks. Well - it broke a number of times - but nothing that we couldn't work through. We figured out which version of Spree plays nicely with BCMS and we are on track to fully flesh out user authenticaton, checkout, etc. by the end of the summer!
 
-##We would like to give special hugs and <3 to our coaches, Patrick Peak (@peakpg) and Tanya Bodnya (@tatianabodyna) for all offering their  time to make us better devs. Specaial thanks also to Ncud (@nclud) for letting us use their space!## 
+###We would like to give special hugs and <3 to our coaches, Patrick Peak (@peakpg) and Tanya Bodnya (@tatianabodyna) for all offering their  time to make us better devs. Specaial thanks also to Ncud (@nclud) for letting us use their space!## 
