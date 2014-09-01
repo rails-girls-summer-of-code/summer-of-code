@@ -59,7 +59,7 @@ Specifically, we added the following features:
 - When i view a product, I should see other related products for sale. I should be able to give discounts codes for an author that would last for a 4th of July weekend.
 - We also updated BrowserCMS developer documentation and user guide, thanks to Ruby for Good! Check out what we were able to accomplish here.
 
-##Key Takeways so far##
+##Key Takeaways so far##
 - **Google, Google, Google**
 This can’t be said enough. Not only when it comes to errors but also when you have a feature you are trying to add, or a how do I go about doing ‘x’ ?” question. It was surprising “how much we found out just by using others people questions. Plus, Googling is a required skill to be a developer – right under using Git or knowing the command line. 
 
