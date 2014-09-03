@@ -1,7 +1,7 @@
 ---
 title: Introducing Team Omnia Extares
 layout: post
-created_at: Wed August 27 2014
+created_at: Wed September 03 2014
 permalink: blog/introducing-TeamOmniaExtares
 current: blog
 author: Lyz and Utah
@@ -9,7 +9,7 @@ twitter: lyzellis
 ---
 
 We are Team Omnia Extares. 
-<img src="http://2.bp.blogspot.com/-lg2cE1NytJw/U5o7U6TQKvI/AAAAAAAAAAM/iXaGX4Z2Ruw/s1600/First+Day+Selfie.jpg align="middle" height="300">
+<img src="http://2.bp.blogspot.com/-lg2cE1NytJw/U5o7U6TQKvI/AAAAAAAAAAM/iXaGX4Z2Ruw/s1600/First+Day+Selfie.jpg" align="center" width="600">
 
 Giving ourselves a Latin team name makes us look pretentious. I know you were thinking it. But it's way more awesome than you think.
 
