@@ -16,7 +16,7 @@ We are Akanksha Agrawal and Sana Khan, Information Technology graduates from Col
 
 **Akanksha:** Concept of FOSS was introduced to me by our college's open source group. Attending open source seminars and workshops has always been my passion. I got introduced to Ruby on Rails in the [Rails Girls Pune event](http://blog.joshsoftware.com/2013/08/30/railsgirls-pune-the-gold-and-the-beautiful/). Also attended the [Rails 4.1 Release Party](https://twitter.com/vipulnsward/status/459971085128040448/photo/1) where I met our coaches Nishant Modak, Vipul Amler and Prathamesh Sonpatki. Got fascinated with the language and Rails and applied for Rails Girls Summer of Code so as to start contributing to open source. 
 
-![me_and_sana](https://cloud.githubusercontent.com/assets/2115379/4102379/a91b12dc-3126-11e4-97c2-72be345214be.JPG "me_and_sana")
+<img src="https://cloud.githubusercontent.com/assets/2115379/4102379/a91b12dc-3126-11e4-97c2-72be345214be.JPG" alt="me_and_sana" height="450" width="600">
 
 ### What are we working on
 
@@ -43,7 +43,7 @@ The Json file had too much information for visualization, so we played around wi
 
 Attended [Deccan Ruby Conference](http://www.deccanrubyconf.org/) and gave a lightening talk.
 
-![lightening_talk_image](https://cloud.githubusercontent.com/assets/2115379/4102383/ca4300dc-3126-11e4-9a0b-017ff06a72aa.jpg "Lightening_Talk")
+<img src="https://cloud.githubusercontent.com/assets/2115379/4102383/ca4300dc-3126-11e4-9a0b-017ff06a72aa.jpg" alt="Ligtening_Talk" height="450" width="600">
 
 With inputs from our mentor we started to work on the diff of two heap dumps. We are now working on displaying the instance view in a histogram based visualization representing what percentage of objects are consuming how much memory.
 
