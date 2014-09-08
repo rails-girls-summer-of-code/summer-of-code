@@ -29,7 +29,7 @@ Tickets
 
 *The deadline for claiming your conference ticket is **Tuesday, September 9th** (up until midnight, wherever you are).*
 
-*Winners will be drawn by raffle at 07:00am Berlin time (GMT+2), and informed shortly thereafter*
+*Winners will be drawn by raffle at 07:00(GMT+2) on **Wednesday, September 10th**, and informed shortly thereafter*
 
 
 Scholarships
