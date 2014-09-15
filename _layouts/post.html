@@ -8,7 +8,7 @@ layout: default
     <article class="content">
     <h1>{{ page.title }}</h1>
       <p class='meta'>
-        Posted on <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%B %-d, %Y" }}</time> by 
+        Posted on <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%B %-d, %Y" }}</time> by
         {% if page.twitter %}
           <a href='http://twitter.com/{{ page.twitter }}'>{{ page.author }}</a>
         {% else %}
