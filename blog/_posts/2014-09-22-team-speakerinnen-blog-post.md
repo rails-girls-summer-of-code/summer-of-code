@@ -2,7 +2,7 @@
 title: We are Team Speakerinnen, yeah!
 layout: post
 created_at: Sun Sep 21 2014
-permalink: blog/_posts/2014-09-10-team-speakerinnen
+permalink: blog/2014-09-10-team-speakerinnen
 current: blog
 author: Sarha and Edna
 ---
