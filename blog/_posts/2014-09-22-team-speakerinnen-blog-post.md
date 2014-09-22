@@ -4,7 +4,7 @@ layout: post
 created_at: Sun Sep 21 2014
 permalink: blog/2014-09-10-team-speakerinnen
 current: blog
-author: Sarha and Edna
+author: Team Speakerinnen
 ---
 
 As we are both graduates from technical studies, we have first hand experience of how scarce women in technical studies and jobs are. The Rails Girls Summer of Code has given us the perfect opportunity to have some great first hand experience as developers.
