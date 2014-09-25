@@ -2,7 +2,7 @@
 title: We are Team Speakerinnen, yeah!
 layout: post
 created_at: Sun Sep 21 2014
-permalink: blog/2014-09-10-team-speakerinnen
+permalink: blog/team-speakerinnen-2014
 current: blog
 author: Team Speakerinnen
 ---

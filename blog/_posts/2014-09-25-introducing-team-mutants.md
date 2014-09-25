@@ -2,7 +2,7 @@
 title: Introducing Team Mutants India
 layout: post
 created_at: Thu Sept 25 2014
-permalink: blog/introducing-team-mutants-india
+permalink: blog/introducing-team-mutants-2014
 current: blog
 author: Aayish and Akshata
 twitter: _MutantsTeam_
