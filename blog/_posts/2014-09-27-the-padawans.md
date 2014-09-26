@@ -2,7 +2,7 @@
 title: "A Summer full of Code"
 layout: post
 created_at: Fri Sep 26 2014
-permalink: blog/2014-09-19-code_padawans
+permalink: blog/code_padawans-2014
 current: blog
 author: Code_Padawans
 twitter: code_padawans
