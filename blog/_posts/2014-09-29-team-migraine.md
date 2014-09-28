@@ -34,7 +34,7 @@ Originally our way of working together was through Campfire, but we have now dis
 
 This photo is one of the meetings (to talk about the plan for the app, in Barranco, Lima - Peru)
 
-![coaches_photo](/img/coaches_paez.jpg)
+![coaches_photo](/img/coaches_migraine.jpg)
 
 ## Framework
 
