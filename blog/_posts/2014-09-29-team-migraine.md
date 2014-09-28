@@ -59,5 +59,4 @@ Thanks!
 
 ![gif_alright](/img/seinfeld.gif)
 
-[Blog](http://www.migraine.io)  
-[My repository](https://github.com/migraine-io/migraine-app)4
+Take a look at my [blog](http://www.migraine.io), and project [repository](https://github.com/migraine-io/migraine-app)
