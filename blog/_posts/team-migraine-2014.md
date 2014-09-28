@@ -1,7 +1,7 @@
 ---
 title: Introducing Team Migraine
 layout: post
-created_at: Mon Sept 29d 2014
+created_at: Mon Sept 29 2014
 permalink: blog/introducing-team-migraine
 current: blog
 author: Rocio Paez
