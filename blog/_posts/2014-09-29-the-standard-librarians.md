@@ -1,11 +1,11 @@
 ---
-title: Inchworms break the first ground
+title: The Standard Librarians
 layout: post
-created_at: Mon July 15 2013
-permalink: blog/inchworms
+created_at: Mon September 29 2014
+permalink: blog/thestandardlibrarians
 current: blog
-author: Anika
-twitter: langziehohr
+author: Jen Diamond
+twitter: StdLibrarians
 ---
 
 # The Standard Librarians
