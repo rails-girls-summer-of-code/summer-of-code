@@ -127,7 +127,7 @@ Josh Dzielak from Keen IO on their support:
 
 [innoQ](http://www.innoq.com) offers technology consulting, software development, architecture know-how and trainings and is keen to share.
 
-Phillip Ghadirat, CTO at InnoQ on their support:  
+Phillip Ghadir, CTO at InnoQ on their support:  
 *"We strongly believe that tech careers begin with curiosity and love for programming. We support Rails Girls Summer of Code because we'd like to help the participants to discover their passion for coding like we did ourselves. In the long run, everybody will benefit from increasing diversity in IT."*
 
 <a href="http://www.thoughtworks.com"><img src="/img/sponsors/thoughtworks.png" width="450"></a>
