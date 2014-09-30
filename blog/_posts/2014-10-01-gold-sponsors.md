@@ -1,7 +1,7 @@
 ---
 title: "Google, SoundCloud and Basecamp Take The Gold!"
 layout: post
-created_at: Tue Sep 30 2014
+created_at: Wed Oct 01 2014
 permalink: blog/gold-sponsors-2014
 current: blog
 author: RGSoC Team
