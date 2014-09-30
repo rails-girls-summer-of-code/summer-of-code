@@ -13,7 +13,7 @@ Rails Girls Summer of Code's Bronze sponsors make up the most numerous contingen
 <br />
 <a href="http://www.wooga.com/"><img src="/img/sponsors/wooga.png" width="450"></a>
 
-For social gaming giant [Wooga](http://www.wooga.com/) learning and working go hand in hand. They support (their team to attend to) meetups and conferences.
+For social gaming giant [Wooga](http://www.wooga.com/) learning and working go hand in hand. They support (their team to attend) meetups and conferences.
 
 Maike Kronenberg and Jesper Richter-Reichhelm from Wooga on their support:  
 *"Technology is something that everyone should be able to participate in. There's an increasing amount of attention paid to diversity within tech companies, particuarly when it comes to engineers. The numbers still aren't up to scratch. Projects like RailsGirls will change that."*
@@ -122,8 +122,7 @@ Rebecca Kline from Malwarebytes on their support:
 [Keen IO](http://keen.io) believes that custom analytics shouldn't be a pain in the backend. That's why Keen IO's powerful APIs do the heavy lifting for you. Yay.
 
 Josh Dzielak from Keen IO on their support:  
-*"I met Sven Fuchs (Travis-CI) on a developer evangelism trip to Berlin. He told me all about Rails Girls Summer of Code, and the very next day Keen IO became a sponsor! Why wouldnâ€™t we? Rails Girls SoC is an opportunity for Keen to support several movements weâ€™re passionate about â€“ open source advocacy, mentorship, and the empowerment of women and all less-represented groups in technology. Good luck this summer, coders!I met Sven on a developer evangelism trip to Berlin. He told me all about Rails Girls Summer of Code, and the very next day Keen IO became a sponsor! Why wouldnâ€™t we? Rails Girls SoC is an opportunity for Keen to support several movements weâ€™re passionate about â€“ open source advocacy, mentorship, and the empowerment of women and all less-represented groups in technology. Good luck this summer, coders!"*  
-
+*"I met Sven Fuchs (Travis-CI) on a developer evangelism trip to Berlin. He told me all about Rails Girls Summer of Code, and the very next day Keen IO became a sponsor! Why wouldn't we? Rails Girls SoC is an opportunity for Keen to support several movements we're passionate about: open source advocacy, mentorship, and the empowerment of women and all less-represented groups in technology. Good luck this summer, coders!"*
 <a href="http://www.innoq.com"><img src="/img/sponsors/innoq.png" width="450"></a>
 
 [innoQ](http://www.innoq.com) offers technology consulting, software development, architecture know-how and trainings and is keen to share.
@@ -133,11 +132,12 @@ Phillip Ghadirat, CTO at InnoQ on their support:
 
 <a href="http://www.thoughtworks.com"><img src="/img/sponsors/thoughtworks.png" width="450"></a>
 
-[ThoughtWorks](http://www.thoughtworks.com) is a bunch of passionate technologists. Providing software, pioneering tools and consulting for organizations with ambitious missions, they ....
+[ThoughtWorks](http://www.thoughtworks.com) is a bunch of passionate technologists. Providing software, pioneering tools and consulting for organizations with ambitious missions. Thoughtworks has provided a welcoming workplace for at least one of our former SoC participants.
 
 <a href="http://www.dawanda.com"><img src="/img/sponsors/dawanda.png" width="450"></a>
 
-[Dawanda](http://www.dawanda.com) is no-doubt THE marketplace for unique and handmade items. SOMETHING ABOUT THE KICKOFF PARTY
+[Dawanda](http://www.dawanda.com) is no-doubt THE marketplace for unique and handmade items. Not only were they Bronze Sponsors, they also hosted us for our awesome kickoff BBQ,
+and made sure we got the program off to a great and memorable start!
 
 <a href="http://carnesmedia.com"><img src="/img/sponsors/carnesmedia.png" width="450"></a>
 
@@ -154,19 +154,17 @@ They even wrote [a blog post on Summer of Code](https://www.cloudcontrol.com/blo
 
 <a href="http://paymill.com"><img src="/img/sponsors/paymill.png" width="450"></a>
 
-[Paymill](http://paymill.com)  makes online payments easy.
-Wir bei PAYMILL mÃ¶chten dir die schnellste und einfachste Online-Payment-LÃ¶sung bieten, daran arbeiten wir hier jeden Tag mit Herzblut. Unsere Teammitglieder haben verschiedene HintergrÃ¼nde einschlieÃŸlich: Technik, Wirtschaft, Psychologie uvm.
-Unser internationales Team besteht aus Personen unterschiedlichster Nationen - GroÃŸbritannien, Frankreich, Deutschland, USA, Portugal, Brasilien, Polen, Pakistan und Argentinien.
+[Paymill](http://paymill.com)  makes online payments fast and easy. With a diverse international team, and a passionate drive to bring even more diversity to tech, the wanted to help make Summer of Code of code happen.
 
-JÃ¶rg Sutara, Co-Founder PAYMILL on their support:  
-*"We believe that developer communities help us improving our products through their interaction & curiosity. We support Rails Girls Summer of Code as it is an awesome initiative for awesome people and for the future - weâ€™re wishing all Girls a great time and that you'll never stop being curious!"*
+Jörg Sutara, Co-Founder PAYMILL on their support:  
+*"We believe that developer communities help us in improving our products through their interaction & curiosity. We support Rails Girls Summer of Code as it is an great initiative for awesome people and for the future - we're wishing everyone a great time and that you'll never stop being curious!"*
 
 <a href="http://groupon.com"><img src="/img/sponsors/groupon.png" width="450"></a>
 
 [Groupon](http://groupon.com) needs no introduction.  
 
 Shannon Welling from Groupon on their support:  
-*"Groupon is a company built largely with open source software - from rails, ruby, java, node, and others, we rely heavily on open source technologies to innovate in our daily work and encourage our engineers to give back to the OSS community.  Community matters to us on an internal, local and global scaleâ€”itâ€™s fundamental to our companyâ€™s growth and to the well-being of the world at large which is why we're excited to once again sponsor Rails Girls Summer of Code."*
+*"Groupon is a company built largely with open source software - from rails, ruby, java, node, and others, we rely heavily on open source technologies to innovate in our daily work and encourage our engineers to give back to the OSS community.  Community matters to us on an internal, local and global scale. It's fundamental to our company's growth, and to the well-being of the world at large, which is why we're excited to once again sponsor Rails Girls Summer of Code."*
 
 
 Our bronze sponsors deserve a huge thank you for coming out in number to support Rails Girls Summer of Code.
