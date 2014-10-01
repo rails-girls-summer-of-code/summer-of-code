@@ -1,7 +1,7 @@
 ---
 title: "GitHub and Travis-CI: Our Platinum Sponsors"
 layout: post
-created_at: Tue Sep 30 2014
+created_at: Wed Oct 01 2014
 permalink: blog/platinum-sponsors-2014
 current: blog
 author: RGSoC Team
