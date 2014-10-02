@@ -75,16 +75,18 @@ the moment when we had our first non-coach contributor on github
 
 having this awesome logo <3
 
-<img src="http://code-padawans.de/wp-content/uploads/2014/08/froscon_talk.jpg" align="center" width=„800“>
+<img src="http://code-padawans.de/wp-content/uploads/2014/08/froscon_talk.jpg" align="center" width="600">
+<br />
 giving a keynote  talk about our journey at RedFrogConf
 
-<img src="http://code-padawans.de/wp-content/uploads/2014/08/boat.jpg" align="center" width=„800“>
+<img src="http://code-padawans.de/wp-content/uploads/2014/08/boat.jpg" align="center" width="600">
+<br />
 having a lot of fun together
 
-<img src="http://code-padawans.de/wp-content/uploads/2014/08/baelle.jpg" align="center" width=„800“>
+<img src="http://code-padawans.de/wp-content/uploads/2014/08/baelle.jpg" align="center" width="600">
 
-<img src="http://code-padawans.de/wp-content/uploads/2014/07/haende.jpg" align="center" width=„800“>
-Writing (and deleting) a lot of code
+<img src="http://code-padawans.de/wp-content/uploads/2014/07/haende.jpg" align="center" width="600">
+<br />Writing (and deleting) a lot of code
 
 ##  And then the summer ends…
 There are almost 2 weeks left working on Ataru.
