@@ -99,7 +99,7 @@ Challenge yourself and find your passions.
 ## …but our journey is not finished yet
 The Code_Padawans will still follow the path to become Code_Jedis one day. We will continue with maintaining Ataru and learning to code.
 
-<img src="http://code-padawans.de/wp-content/uploads/2014/09/cf_hire-e1411418779174.jpg" align="center" width=„800“>
+<img src="http://code-padawans.de/wp-content/uploads/2014/09/cf_hire-e1411418779174.jpg" align="center" width="600">
 
 So, if you want to help the Code_Padawans on their way, hire us. :)
 
