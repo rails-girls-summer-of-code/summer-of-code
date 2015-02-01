@@ -13,10 +13,8 @@ permalink: /students/application/
 Applications for Rails Girls Summer of Code will be opened <strong>in March 2015</strong>!
 
 This guide gives you all the information about what you will need when applying
-for Summer of Code.  Take a look to ensure you know about all the components of
-a good application, and use our handy dandy overview links (below), to navigate
-quickly between the sections of this guide. If you have everything you need to
-apply, you can start formulating your application.
+for Summer of Code. Please read this carefully to ensure you know about all the components of
+a good application. 
 
 * <a href="#1">Who is Eligible To Apply?</a>
 * <a href="#2">What Do You Need To Apply?</a>
@@ -35,16 +33,15 @@ apply, you can start formulating your application.
 
 Applications to Rails Girls Summer of Code are open to anyone who:
 
-
 * Self-identifies as female and/or has experiences being socialized as female.
   No-one is excluded from applying on the basis of gender, but people who
   self-identify as female, or have experiences being socialized as female, are
   given preference during selection
-* Has attended one or more <a href="http://railsgirls.com/">Rails Girls</a> workshop or has been involved in other similar initiatives (e.g. RailsBridge, Women Who Code, Black Girls Code...) that started their interest in programming.
+* Has attended one or more **<a href="http://railsgirls.com/">Rails Girls</a> workshop** or has been involved in other similar initiatives (e.g. RailsBridge, Women Who Code, Black Girls Code...) that started their interest in programming.
 * Has significantly expanded their programming skills after a workshop in a
-  study group, or independently, by working on a suitable project. We recommend
-  a year of training or more. We will ask for coding examples.
-* Can spend 3 months of their summer working fulltime on their Open Source project of
+  study group, or independently, by working on a suitable project. **We recommend
+  a year of training or more**. We will ask for coding examples.
+* Can spend 3 months of their summer working **fulltime** on their Open Source project of
   choice.
 
 You **do** not have to be a student at a University to apply, and there are
