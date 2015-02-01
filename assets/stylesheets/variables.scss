@@ -7,6 +7,21 @@ $bootstrap-sass-asset-helper: (twbs-font-path("") != unquote('twbs-font-path("")
 // --------------------------------------------------
 
 
+$white: #fff;
+$red: #D82222;
+$grey: #ddd;
+$deco-font: 'Amatic SC', cursive;
+
+@mixin white-links {
+  color: $white;
+  text-decoration: none;
+}
+
+
+
+
+
+
 //== Colors
 //
 //## Gray and brand colors for use across Bootstrap.
@@ -306,7 +321,7 @@ $screen-md-max:              ($screen-lg-min - 1) !default;
 //** Number of columns in the grid.
 $grid-columns:              12 !default;
 //** Padding between columns. Gets divided in half for the left and right.
-$grid-gutter-width:         30px !default;
+$grid-gutter-width:         0 !default;
 // Navbar collapse
 //** Point at which the navbar becomes uncollapsed.
 $grid-float-breakpoint:     $screen-sm-min !default;
