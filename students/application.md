@@ -10,7 +10,7 @@ permalink: /students/application/
 
 <h1>How to Apply?</h1>
 
-Applications for Rails Girls Summer of Code are open until <strong>May 2nd, 2014, 23:59 UTC</strong>!
+Applications for Rails Girls Summer of Code will be opened <strong>in March 2015</strong>!
 
 This guide gives you all the information about what you will need when applying
 for Summer of Code.  Take a look to ensure you know about all the components of
@@ -40,15 +40,12 @@ Applications to Rails Girls Summer of Code are open to anyone who:
   No-one is excluded from applying on the basis of gender, but people who
   self-identify as female, or have experiences being socialized as female, are
   given preference during selection
-* Has attended one or more <a href="http://railsgirls.com/">Rails Girls</a> (or
-  similar) introductory Ruby workshops or has visited other community events
-  that started their interest in programming.
+* Has attended one or more <a href="http://railsgirls.com/">Rails Girls</a> workshop or has been involved in other similar initiatives (e.g. RailsBridge, Women Who Code, Black Girls Code...) that started their interest in programming.
 * Has significantly expanded their programming skills after a workshop in a
   study group, or independently, by working on a suitable project. We recommend
-  6 months of training or more. We will ask for coding examples.
-* Can spend 3 months of their summer working on their Open Source project of
+  a year of training or more. We will ask for coding examples.
+* Can spend 3 months of their summer working fulltime on their Open Source project of
   choice.
-* Is **not** already a professional software developer.
 
 You **do** not have to be a student at a University to apply, and there are
 certainly no degree or age limitations.
@@ -178,51 +175,33 @@ they will have good ideas. You also can ask on the
 or via @RailsGirlsSoC on Twitter.
 
 Also, here are last year's
-<a href="http://2013.teams.railsgirlssummerofcode.org/teams">teams and their projects</a>.
+<a href="http://2014.teams.railsgirlssummerofcode.org/teams">teams and their projects</a>.
 and some of
-<a href="https://github.com/rails-girls-summer-of-code/summer-of-code/wiki/Project-ideas">last year's project ideas</a>
-to inspire you!
+<a href="https://github.com/rails-girls-summer-of-code/Projects-2014">last year's project ideas</a>. Here you find <a href="https://github.com/rails-girls-summer-of-code/Projects">this year's projects you can apply to</a>. 
+
+If you know an Open Source project you might want to apply to, that is not yet been submitted by their mentor: Please reach out to the mentor and suggest they submit their project to us via the <a href="https://github.com/rails-girls-summer-of-code/Projects">Projects Repository</a>.
 
 <h2 id="9">Lodging Your Application</h2>
 
-**Applications for Rails Girls Summer of Code will open March 14th, and
-close May 2nd, 2014**
+**Applications for Rails Girls Summer of Code will open March 2015**
 
-Only one application will be accepted per team, per project. Please do not
-lodge one per person.
+Only one application will be accepted per team, per project. 
 
 Your team can lodge one application per project that you have a plan for
-working on. As some projects are very competitive, you can hedge your bets by
-lodging an application for each project you would like to work on. This will
-ensure that if spots fill up for one open source project, your team can be
-considered for others you have applied for. Each application for each project
-must be full and complete.
+working on. You can apply for *one* project and add an alternative within the application. 
 
-Lodging multiple applications for different projects, with different team
-combinations is frowned upon. Pick one team, and apply for as many projects as
-you like, but ONLY with that team.
+If you have any queries about this, please <a href="mailto:summer-of-code@railsgirls.com>"contact us</a> before lodging your applications.
 
-If you have any queries about this, please contact us before lodging your
-applications.
-
-While we will try to connect you with a pair and coaches before you apply, we
-cannot do so once you have lodged your application. If you intend to be a part
-of a team, <em>only apply once your have found your pair and coach</em>.
+While we will try to connect you with a pair and coaches before you apply. 
 
 <h2 id="10">Selection and Judging</h2>
 
 Applications will be judged on a case-by-case basis by a group of real human
-beings in the coding community, on an impartial but realistic basis. Your
-chances of success will be the biggest judge of your application, as well as
-how well you fit against all of the criteria outlined in the paragraphs above.
-
-If there are equally well rated applications competing for a scholarship place,
-then a random draw will be performed.
+beings in the coding community, on an impartial but realistic basis. We aim for a divers group of teams for 2015 that consist of different countries, projects, backgrounds and skill level (we have some seats reserved for more experienced teams this year). 
 
 Remember: successful applications are **not** "first in best dressed", but are
-judged on how well they fulfil eligibility criteria. Take your time to create a
-detailed project plan, find your pair (if you intend on having one), coach and
-workspace.
+judged on how well they fulfill eligibility criteria. Take your time to create a
+detailed project plan, find your pair, coach and workspace or <a href="http://railsgirlssummerofcode.org/guide/coaching-company/">coaching company</a>.
 
 Applications lodged after the deadline cannot be considered for judging.
 
