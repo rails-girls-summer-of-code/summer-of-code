@@ -11,9 +11,7 @@ $padding: 20px;
 
   h2 {
     margin: 0;
-
   }
-
 }
 
 .tile {
@@ -50,12 +48,12 @@ $padding: 20px;
   h2 {
     position: relative;
     z-index: 5;
-    font-size: 50px;
+    font-size: 70px;
     font-family: $deco-font;
   }
   p {
     color: $white;
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .tile-hover {
@@ -80,6 +78,7 @@ $padding: 20px;
 
 #tile-students {
   
+  padding-right: 0;
   a {
     min-height: 2 * $single-height + $padding;
     background: {
