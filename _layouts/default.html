@@ -12,11 +12,25 @@
     <meta name="description" content="Rails Girls Summer of Code {{ site.time | date: "%Y" }}">
     <meta name="viewport" content="width=device-width">
     {% if page.author %}<meta name="author" content="{{ page.author }}">{% endif %}
+
+    <!-- OpenGraph stuff; http://ogp.me/ -->
     {% if page.image %}
     <meta property="og:image" content="{{ page.image }}" />
     {% else %}
     <meta property="og:image" content="http://railsgirlssummerofcode.org/img/opengraph_image.png" />
     {% endif %}
+    {% if page.abstract %}<meta property="og:description" content="{{ page.abstract }}" />{% endif %}
+    <meta property="og:site_name" content="Rails Girls Summer of Code" />
+    {% if page.title %}
+      {% assign og_title = page.title %}
+    {% else %}
+      {% assign og_title = "Rails Girls Summer of Code" %}
+    {% endif %}
+    <meta property="og:title" content="{{ og_title }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ og_title }}" />
+    <meta name="twitter:creator" content="RailsGirlsSoC" />
+    {% if page.abstract %}<meta property="twitter:description" content="{{ page.abstract }}" />{% endif %}
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/normalize.min.css">
