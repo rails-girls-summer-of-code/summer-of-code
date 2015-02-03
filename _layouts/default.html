@@ -11,6 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="description" content="Rails Girls Summer of Code {{ site.time | date: "%Y" }}">
     <meta name="viewport" content="width=device-width">
+    {% if page.author %}<meta name="author" content="{{ page.author }}">{% endif %}
     {% if page.image %}
     <meta property="og:image" content="{{ page.image }}" />
     {% else %}
