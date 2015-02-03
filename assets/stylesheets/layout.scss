@@ -15,7 +15,21 @@
   overflow: hidden;
 
   ul {
-    text-align: center;
+    padding: 1em 0 2em;
+    li {
+      padding: .2em 5em;
+    }
+  }
+
+  a {
+    color: $red;
+    &:hover {
+      text-decoration: underline;
+    }
+    &:active,
+    &:focus {
+      outline: 1px dotted;
+    }
   }
 
   &.is-open {
