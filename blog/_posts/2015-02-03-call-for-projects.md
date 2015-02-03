@@ -1,7 +1,7 @@
 ---
 title: "Call for Projects"
 layout: post
-created_at: 
+created_at: Tue Feb 03 2015
 permalink: blog/call-for-projects
 current: blog
 author: RGSoC Team
