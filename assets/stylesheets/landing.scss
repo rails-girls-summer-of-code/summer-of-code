@@ -89,6 +89,25 @@ $padding: 20px;
   }
 }
 
+#tile-coaches {
+  a {
+    background: {
+      image: url(../images/coach.jpg);
+      size: cover;
+      position: center center;
+    }
+  }
+}
+#tile-sponsors {
+  a {
+    background: {
+      image: url(../images/goodypack2014.jpg);
+      size: cover;
+      position: center center;
+    }
+  }
+}
+
 
 .section {
   padding-top: 2rem;
