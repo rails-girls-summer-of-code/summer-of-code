@@ -1,0 +1,129 @@
+
+$single-height: 250px;
+$padding: 20px;
+
+
+.tiles {
+
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding: 2em;
+
+  h2 {
+    margin: 0;
+  }
+}
+
+.tile {
+  position: relative;
+  padding-right: 2rem;
+  margin-bottom: $padding;
+  a {
+    @include white-links;
+    display: block;
+    position: relative;
+    padding: 3rem;
+    background-color: rgba($red, 1);
+    &:before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba($red, 0.7);
+      z-index: 0;
+      opacity: 0;
+      transition: opacity 200ms ease;
+    }
+    &:hover {
+      &:before {
+        opacity: 1;
+      }
+    }
+  }
+  h2 {
+    position: relative;
+    z-index: 5;
+    font-size: 70px;
+    font-family: $deco-font;
+  }
+  p {
+    color: $white;
+    font-size: 20px;
+  }
+
+  .tile-hover {
+    opacity: 0;
+    transform: scale(.8);
+    transform-origin: 50% 50%;
+    transition: all 200ms ease;
+  }
+  a:hover .tile-hover {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+#tile-projects,
+#tile-coaches,
+#tile-sponsors {
+  a {
+    min-height: $single-height;
+  }
+}
+
+#tile-students {
+
+  padding-right: 0;
+  a {
+    min-height: 2 * $single-height + $padding;
+    background: {
+      image: url(../images/workshop1_small.png);
+      size: cover;
+      position: center center;
+    }
+  }
+}
+
+#tile-coaches {
+  a {
+    background: {
+      image: url(../images/coach.jpg);
+      size: cover;
+      position: center center;
+    }
+  }
+}
+#tile-sponsors {
+  a {
+    background: {
+      image: url(../images/goodypack2014.jpg);
+      size: cover;
+      position: center center;
+    }
+  }
+}
+#tile-projects {
+  a {
+    background: {
+      image: url(../images/opensource_project.jpg);
+      size: cover;
+      position: center center;
+    }
+  }
+}
+
+
+.section {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid $grey;
+}
+
+.section--grey {
+  background: $grey;
+}

@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
-gem "geocoder"
+gem 'jekyll', '~> 2.4.0'
+gem 'github-pages', '33'
+gem 'geocoder'
 gem 'lolize', :require => 'lolize/auto'

@@ -8,11 +8,11 @@ current-sub: application
 permalink: /students/application/
 ---
 
-<h1>How to Apply?</h1>
+<!---<h1>How to Apply?</h1>-->
 
-Applications for Rails Girls Summer of Code will be opened <strong>in March 2015</strong>!
+Applications for Rails Girls Summer of Code will be opened <strong>in March 2015</strong>! We are currently working to publish the guide on how to apply as soon as possible for you.
 
-This guide gives you all the information about what you will need when applying
+<!--This guide gives you all the information about what you will need when applying
 for Summer of Code. Please read this carefully to ensure you know about all the components of
 a good application. 
 
@@ -216,4 +216,4 @@ checklist:
 * Find a Workspace
 
 All set? Then go! Apply now here:
-<a href="http://teams.railsgirlssummerofcode.org/application">http://teams.railsgirlssummerofcode.org/application</a>.
+<a href="http://teams.railsgirlssummerofcode.org/application">http://teams.railsgirlssummerofcode.org/application</a>.-->

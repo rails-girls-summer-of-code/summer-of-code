@@ -9,15 +9,15 @@ permalink: /guide/coaching-company/
 ---
 <h1>Coaching Company Guide</h1>
 
-Do you have free space for at least a one to two-person team to work? Do have
-developers passionate about helping newcomers, and working on Open Source?
+Do you have free space for at least a one to two-person team to work? Do you have
+developers passionate about helping newcomers and working on Open Source?
 
 You might just have what it takes to be a coaching company.
 
 When Summer of Code students undertake their scholarship for the summer, they
 need a place to work. While working from home is an option for some
 participants, having the exposure to a productive work environment and ready
-access to coaches, can really mean the difference between a life changing, or
+access to coaches can really mean the difference between a life changing or
 stressful Summer of Code experience.
 
 Here's where you (and your company) come in. Being a coaching company is not
@@ -36,7 +36,7 @@ show your support for the Open Source and your local developers community.
 
 <h2 id="q1">Why Should I Be A Coaching Company?</h2>
 
-There are tonnes of good reasons to be a coaching company; altrusitic
+There are tonnes of good reasons to be a coaching company; altruistic
 fulfillment, the good of the development community, a more diverse Open Source
 contributor network, and much more. However, one of the best parts of being a
 Coaching Company is the huge amount of organic publicity your company garners.
@@ -75,8 +75,8 @@ hires, conference organisers, tech bloggers, journalists and media outlets.
 
 Any company with a respectful, inclusive culture, good internet, and a team of
 developers could make a good coaching company. That really is it. Great
-examples for Coaching Companies from 2013 include SoundCloud, Absolventa, and
-Travis CI.
+examples for Coaching Companies include Absolventa and
+Travis CI (2013), 6Wunderkinder (2014), and SoundCloud (2013, 2014).
 
 Some Coaching Companies have supported participants who already work for their
 company. Companies who want to host a team of their own employees should make
@@ -98,9 +98,9 @@ environment.
 <h2 id="q3">What Does A Coaching Company Do?</h2>
 
 In essence, you give away a piece of space in your office for your team to work
-in, and make sure that team have access to developers to coach them. All of the
+in and make sure that team have access to developers to coach them. All of the
 extras are up to you. You might want your team to present their work at weekly
-team meetings, so you can stay up-to-date on their progress, or support them to
+team meetings so you can stay up-to-date on their progress, or support them to
 attend conferences and meetups.
 
 
@@ -116,20 +116,20 @@ Teams who don't get a sponsored seat, but still want to participate and work on
 their project are called volunteer teams.
 
 So what if you don't have a team you want to support? If you want to offer your
-company to potential participants, drop us a line, or register your company by
+company to potential participants, drop us a line or register your company by
 emailing us: <a
 href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.
 
 <h2 id="q5">Where are Coaching Companies Located?</h2>
 
-Planet earth.
+Planet Earth.
 
 Rails Girls Summer of Code is an international initiative, and our participants
 work on their projects all over the world.
 
 We highly encourage companies from all over the world to get involved. We are
-aiming at having participants from a greater variety of countries in 2014, so
-regardless of your coordinates on planet earth, there is probably a team that
+aiming at having participants from a greater variety of countries in 2015, so
+regardless of your coordinates on planet Earth, there is probably a team that
 could do with your support.
 
 <h2 id="q6">How To Become A Coaching Company</h2>
@@ -151,4 +151,4 @@ on Twitter and we'll retweet and help you connect to students.
 
 If we didn't cover your question here, then
 <a href="mailto:summer-of-code@railsgirls.com">drop us a line</a>!
-We'd be happy to talk about what you have to offer as a coaching company
+We'd be happy to talk about what you have to offer as a coaching company.
