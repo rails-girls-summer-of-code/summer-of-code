@@ -4,3 +4,14 @@ permalink: /:title
 relative_permalinks: false
 sass:
   sass_dir: assets/stylesheets
+gems:
+  - jekyll-archives
+  - jemoji
+jekyll-archives:
+  enabled: 
+    - year
+    - month
+  layout: archive
+  permalinks:
+    year: /archive/:year/
+    month: /archive/:year/:month
