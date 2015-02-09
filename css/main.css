@@ -131,6 +131,9 @@ textarea {
   display: inline-block;
   margin-right: 1em;
 }
+.paginator {
+  text-align: center;
+}
 
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
