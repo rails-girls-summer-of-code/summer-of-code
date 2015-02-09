@@ -70,50 +70,36 @@ $padding: 20px;
 
 #tile-projects,
 #tile-coaches,
-#tile-sponsors {
+#tile-students {
   a {
-    min-height: $single-height;
+    min-height: 2 * $single-height;
+    background: {
+      size: cover;
+      position: center center;
+    }
   }
 }
 
 #tile-students {
-
-  padding-right: 0;
   a {
-    min-height: 2 * $single-height + $padding;
-    background: {
-      image: url(../images/workshop1_small.png);
-      size: cover;
-      position: center center;
-    }
+    background-image: url(../images/workshop1_small.png);
   }
 }
 
 #tile-coaches {
   a {
-    background: {
-      image: url(../images/coach.jpg);
-      size: cover;
-      position: center center;
-    }
+    background-image: url(../images/coach.jpg);
   }
 }
 #tile-sponsors {
   a {
-    background: {
-      image: url(../images/goodypack2014.jpg);
-      size: cover;
-      position: center center;
-    }
+    min-height: $single-height * 1.2;
+    background-image: url(../images/goodypack2014.jpg);
   }
 }
 #tile-projects {
   a {
-    background: {
-      image: url(../images/opensource_project.jpg);
-      size: cover;
-      position: center center;
-    }
+    background-image: url(../images/opensource_project.jpg);
   }
 }
 
