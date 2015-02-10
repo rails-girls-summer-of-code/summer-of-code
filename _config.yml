@@ -5,4 +5,4 @@ relative_permalinks: false
 sass:
   sass_dir: assets/stylesheets
 paginate: 3
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/page/:num"
