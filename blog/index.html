@@ -1,12 +1,12 @@
 ---
 title: Rails Girls Summer of Code Blog
 class: page blog
-layout: default
+layout: bootstrap-page
 current: blog
 ---
 
-<section class="main container">
-  <div class="wrapper-blog">
+<section class="container">
+  <div class="col-md-7">
     {% for post in paginator.posts %}
       <article class="content">
         <h1><a href="{{post.url}}">{{post.title}}</a></h1>
@@ -34,6 +34,8 @@ current: blog
         <span class="next ">next</span>
       {% endif %}
     </div>
+  </div>
+  <div class="col-md-3 col-md-offset-2">
     {% include blog_sidebar.html %}
   </div>
 </section>

@@ -1,10 +1,10 @@
 ---
 class: page blog post
-layout: default
+layout: bootstrap-page
 ---
 
-<section class="main container">
-  <div class="wrapper-blog clearfix">
+<section class="container">
+  <div class="col-md-7">
     <article class="content">
     <h1>{{ page.title }}</h1>
       <p class='meta'>
@@ -48,6 +48,8 @@ layout: default
       <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </article>
+  </div>
+  <div class="col-md-3 col-md-offset-2">
     {% include blog_sidebar.html %}
   </div>
 </section>

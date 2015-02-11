@@ -1,4 +1,11 @@
-
+.logo-small {
+  margin: 1rem 0 0;
+  font-family: $deco-font;
+  text-align: left;
+  a {
+    @include white-links;
+  }
+}
 
 .header {
   background-color: $red;
@@ -13,6 +20,8 @@
   background-color: $white;
   height: 0;
   overflow: hidden;
+  will-change: height;
+  transition: 200ms ease height;
 
   ul {
     padding: 1em 0 2em;
@@ -34,7 +43,7 @@
 
   &.is-open {
     padding-top: 1rem;
-    height: auto;
+    height: 210px;
   }
 }
 
