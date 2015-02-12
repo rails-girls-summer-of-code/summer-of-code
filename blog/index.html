@@ -1,14 +1,14 @@
 ---
 title: Rails Girls Summer of Code Blog
 class: page blog
-layout: bootstrap-page
+layout: bootstrap
 current: blog
 ---
 
-<section class="container">
-  <div class="col-md-7">
+<section class="container content--blog">
+  <div class="col-md-8">
     {% for post in paginator.posts %}
-      <article class="content">
+      <article>
         <h1><a href="{{post.url}}">{{post.title}}</a></h1>
         <p class='meta'>
           Posted on <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ post.created_at | date: "%B %-d, %Y" }}</time> by
@@ -35,7 +35,7 @@ current: blog
       {% endif %}
     </div>
   </div>
-  <div class="col-md-3 col-md-offset-2">
+  <div class="col-md-3 col-md-offset-1">
     {% include blog_sidebar.html %}
   </div>
 </section>

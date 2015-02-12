@@ -4,77 +4,18 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
   <head>
-    <title>{% if page.title %} {{ page.title }} | {% endif %} Rails Girls Summer of Code</title>
-    <link rel="shortcut icon" href="/favicon.png">
-    <link rel="icon" href="/favicon.ico">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="Rails Girls Summer of Code 2015">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="alternate" type="application/atom+xml" href="http://railsgirlssummerofcode.org/blog.xml"/>
-    <link rel="stylesheet" href="{{ "/assets/stylesheets/style.css" | prepend: site.baseurl }}">
 
-    <meta property="og:title" content="Rails Girls Summer of Code 2015" />
-    <meta property="og:url" content="http://railsgirlssummerofcode.org" />
-    <meta property="og:image" content="@todo image" />
+    {% include head.html %}
 
-    {% if page.stripe %}
-    <script src="https://checkout.stripe.com/v2/checkout.js"></script>
-    {% endif %}
-    <script src="{{ site.baseurl }}/assets/javascripts/modernizr-2.8.3-custom.js"></script>
-<!--     <script src="/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="/js/vendor/date.format.js"></script>
-    <script src="/js/donations.js"></script>
-    <script src="/js/pagination.js"></script>
-    <script src="/js/blogroll.js"></script> -->
   </head>
   <body class="{{ page.class }}">
     <div class="container-fluid">
       <header id="header" class="header" role="banner">
-        <div id="header-hidden" class="row header-hidden clearfix">
-          <nav class="container clearfix">
-            <ul class="col-sm-4">
-              <li>About</li>
-              <li><a href="/about/team">Team</a></li>
-              <li><a href="/about/faq">FAQ</a></li>
-              <li><a href="/abut/roles">Roles</a></li>
-              <li><a href="/abut/press">Press</a></li>
-              <li><a href="/abut/code-of-conduct">Code of Conduct</a></li>
-            </ul>
-            <ul class="col-sm-4">
-              <li>Sponsors</li>
-              <li><a href="/sponsors">Sponsors</a></li>
-              <li><a href="/sponsors/packages">Sponsorship Packages</a></li>
-              <li><a href="/about/sponsorship-guidelines">Sponsorship Guidelines</a></li>
-            </ul>
-            <ul class="col-sm-4">
-              <li>Guides</li>
-              <li><a href="/guides/coaching">Coaching</a></li>
-              <li><a href="/guides/projects">Project Mentor</a></li>
-              <li><a href="/guides/coaching-company">Coaching Company</a></li>
-            </ul>
-          </nav>
-        </div>
-        <div class"row">
-          <nav class="header-nav clearfix container">
-            <ul class="col-md-4 col-md-offset-8 hor">
-              <!-- <li><a href="/about" title="">About</a></li> -->
-              <li><a href="/blog" title="">Blog</a></li>
-              <li><a href="/guide/projects/" title="">Submit a Project</a></li>
-              <li><a href="#" title="" class="button-burger" id="nav-toggle">&equiv;</a></li>
-            </ul>
-          </nav>
-        </div>
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 logo">
-            <a href="/" title="">
-              <h1>Rails Girls Summer of Code</h1>
-              <h2>Get Rails Girls students into Open Source!</h2>
-            </a>
-          </div>
-        </div>
+
+        {% include navigation.html %}
+
       </header><!-- /header -->
-      <main role="main">
+      <main role="main" class="content">
 
         {{ content }}
 
@@ -91,59 +32,8 @@
           </div>
         </section> -->
       </main>
-      <footer class="footer" id="footer">
-        <div class="row">
-          <div class="container">
-            <div class="col-sm-3 col-x">
-              <p>&#10084; artwork by <a href="http://www.ejaculesc.com/" target="_blank">Rebecca Conrad</a></p>
-              <p>&copy; <a href="http://railsgirls.com/" title="" target="_blank">Rails Girls</a> 2015</p>
-            </div>
-            <div class="col-sm-3 col-x">
-              <ul>
-                <li>
-                  <a href="/about/imprint/" title="">Imprint</a>
-                </li>
-                <li>
-                  <a href="/about/code-of-conduct/" title="">Code of Conduct</a>
-                </li>
-              </ul>
-            </div>
-            <div class="col-sm-3 col-x">
-              <ul>
-                <li>
-                  <a href="https://twitter.com/RailsGirlsSoC" title="">Twitter</a>
-                </li>
-                <li>
-                  <a href="https://github.com/rails-girls-summer-of-code/summer-of-code" title="">Github</a>
-                </li>
-                <li>
-                  <a href="mailto:" title="">Contact</a>
-                </li>
-              </ul>
-            </div>
-            <div class="col-sm-3 col-x">
-              <ul>
-                <li><a href="http://railsgirls.us7.list-manage.com/subscribe?u=36677d2ea7383a950d149c68b&id=243f532f22" title="">Subscribe to our Newsletter</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </footer>
-    </div>
 
-    <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
-    <!-- <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/bootstrap.js"></script> -->
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/main.js"></script>
-    <!-- <script src="/js/main.js"></script> -->
-
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-41237864-1', 'railsgirlssummerofcode.org');
-      ga('send', 'pageview');
-    </script>
+      {% include footer.html %}
+      
   </body>
 </html>

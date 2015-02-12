@@ -1,3 +1,13 @@
+a {
+  color: $red;
+}
+a:hover,
+a:focus,
+a:active {
+  color: $red;
+  text-decoration: underline;
+}
+
 .logo-small {
   margin: 1rem 0 0;
   font-family: $deco-font;
@@ -9,6 +19,7 @@
 
 .header {
   background-color: $red;
+  line-height: 1.4;
   ul {
     padding: 0;
     margin-bottom: 0;
@@ -24,7 +35,7 @@
   transition: 200ms ease height;
 
   ul {
-    padding: 1em 0 2em;
+    padding: 2em 0 2em;
     li {
       padding: .2em 5em;
     }
@@ -42,7 +53,6 @@
   }
 
   &.is-open {
-    padding-top: 1rem;
     height: 210px;
   }
 }
@@ -110,6 +120,7 @@ a.button-burger {
   overflow: hidden;
   color: $red;
   outline: none;
+  text-decoration: none;
   &:active,
   &:focus {
     outline: none;
@@ -139,6 +150,53 @@ a.button-burger {
   }
   p {
     margin-bottom: 0;
+  }
+}
+
+.content {
+  padding: 4rem 0;
+}
+.sidebar-blog {
+  padding-top: .8em;
+}
+
+.content--blog {
+  .meta {
+    margin: 2em 0;
+    color: $grey;
+    a {
+      color: $grey;
+      text-decoration: underline;
+    }
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
+  article  {
+    padding-bottom: 3em;
+    margin-bottom: 4em;
+    border-bottom: 1px solid $grey;
+  }
+}
+
+.list--archive {
+  li {
+    padding: .2em 0;
+    border-bottom: 1px solid $grey;
+  }
+}
+
+.list--none {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+.list {
+  .fa {
+    width: 1em;
+    text-align: center;
+    margin-right: 0.5em;
   }
 }
 

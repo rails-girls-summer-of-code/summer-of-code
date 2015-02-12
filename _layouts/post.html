@@ -1,11 +1,11 @@
 ---
 class: page blog post
-layout: bootstrap-page
+layout: bootstrap
 ---
 
-<section class="container">
-  <div class="col-md-7">
-    <article class="content">
+<section class="container content--blog content--blog-single">
+  <div class="col-md-8">
+    <article>
     <h1>{{ page.title }}</h1>
       <p class='meta'>
         Posted on <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%B %-d, %Y" }}</time> by
@@ -49,7 +49,7 @@ layout: bootstrap-page
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </article>
   </div>
-  <div class="col-md-3 col-md-offset-2">
+  <div class="col-md-3 col-md-offset-1">
     {% include blog_sidebar.html %}
   </div>
 </section>
