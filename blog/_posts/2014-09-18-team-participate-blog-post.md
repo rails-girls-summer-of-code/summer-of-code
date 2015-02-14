@@ -2,7 +2,7 @@
 title: Time to Meet Team Participate
 layout: post
 created_at: Thu Sep 18 2014
-permalink: blog/meet-team-participate
+permalink: blog/2014-09-18-meet-team-participate
 current: blog
 author: Team Participate
 ---
@@ -12,7 +12,7 @@ Moi, we are [Cathy Nangini](https://github.com/RGSofC-Participate) and [Qian Zho
 an open source system used for internal decision making and policy creation. The platform is built with Ember.js for the front-end and  will use Grape (ruby) for the [API backend](https://github.com/oliverbarnes/participate). [Oliver Barnes](https://github.com/oliverbarnes) is our project mentor, [Miika Pihjala](http://fi.linkedin.com/in/miikapihlaja) and [Mukesh Thakur](http://fi.linkedin.com/in/thakurmukesh) are our coaches, and [Floor Drees](https://twitter.com/FloorDrees) is our project supervisor.
 
 ### Below is our team:
-![team picture](/img/team-participate.jpg)
+![team picture](/img/blog/2014/team-participate.jpg)
 <br />
 *Supervisor Floor Drees (top left); coach Miika Pihjala, coach Mukesh Thakur, RG Qian Zhou, RG Cathy Nangini (bottom); mentor Oliver Barnes (top right)*
 
