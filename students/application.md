@@ -12,6 +12,7 @@ permalink: /students/application/
 
 Applications for Rails Girls Summer of Code will be open <strong>in March 2015</strong>!
 
+<!--
 This guide gives you all the information about what you will need when applying
 for Summer of Code. Please read this carefully to ensure you know about all the requirements of
 a good and complete application. 
@@ -208,5 +209,6 @@ Here is the basic checklist for your application:
 * Find a Workspace
 * Agree to the Requirements for Participating in the Program
 
-<!-- All set? Then go! Apply now here:
-<a href="http://teams.railsgirlssummerofcode.org/application">http://teams.railsgirlssummerofcode.org/application</a>. -->
+All set? Then go! Apply now here:
+<a href="http://teams.railsgirlssummerofcode.org/application">http://teams.railsgirlssummerofcode.org/application</a>. 
+-->
