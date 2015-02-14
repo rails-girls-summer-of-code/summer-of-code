@@ -33,6 +33,6 @@ In the first week we tried and managed to get the hang of the Ruby framework Sin
 
 Anja and Carla
 
-<img src ="/img/twins.jpg" alt="Anja and Carla in front of the Computer" width="400">
+<img src ="/img/blog/2013/inchworms-twins.jpg" alt="Anja and Carla in front of the Computer" width="400">
 
 *image courtesy [@zaziemo](https://twitter.com/zaziemo/status/351742254945280000/photo/1)*

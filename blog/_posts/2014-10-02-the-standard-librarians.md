@@ -10,9 +10,9 @@ twitter: StdLibrarians
 
 # The Standard Librarians
 
-![team picture](/img/stdlib_team.jpg)
+![team picture](/img/blog/2014/meet-standard-librarians-team.jpg)
 
-The core RGSoC team was [Jen Diamond](http://thestandardlibrarians.herokuapp.com/team-bios/jen-diamond) 
+The core RGSoC team was [Jen Diamond](http://thestandardlibrarians.herokuapp.com/team-bios/jen-diamond)
 and [Stephanie Betancourt](http://stephaniebetancourt.com/). We had a lot of friends in
 our study group and other people who wanted to contribute as collaborators so we opened
 up the project to them as well. [Omowale Oniyide](http://thestandardlibrarians.herokuapp.com/team-bios/omowale-oniyide)
@@ -37,7 +37,7 @@ Los Angeles, CA. Midway through we had one member work remotely. The rest of us 
 in person from 4:00 - 9:30pm, Monday through Thursday at Pivotal Labs Los Angeles
 from July to September.
 
-![Mr. Chips and Cuddy the Cat](/img/stdlib-mrchips.jpg)
+![Mr. Chips and Cuddy the Cat](/img/blog/2014/meet-standard-librarians-mrchips.jpg)
 
 ## Solving A Need while Learning Ruby
 
@@ -52,7 +52,7 @@ experiences to the functions of the libraries.
 From developing user profiles, to building features centered around our user’s experience,
 and to creating stories that our users can actually relate to - this was a massive
 project. We are grateful for the amazing support we had from our sponsors and coaches
-at Pivotal Los Angeles, our mentor Pat Maddox, and our story coach Mike Bonifer.  
+at Pivotal Los Angeles, our mentor Pat Maddox, and our story coach Mike Bonifer.
 We had an inception of our project where we broke our ideas down into stories,
 identified our users and created wireframes. Pivotal LA coaches worked with us four
 nights a week from 6-9:30. We worked with a different Pivot each night so we were able
@@ -64,7 +64,7 @@ keep us on a roll with the project. We all know how lucky we were to be able to 
 there and are so incredibly grateful to have had that experience. Not only did we make
 progress with the project but we learned their Agile/XP ways of working.
 
-![The Standard Librarians at Rocky Mountain Ruby](/img/stdlib_on_stage.jpg)
+![The Standard Librarians at Rocky Mountain Ruby](/img/blog/2014/meet-standard-librarians-on_stage.jpg)
 
 ## Rocky Mountain Ruby 2014
 
