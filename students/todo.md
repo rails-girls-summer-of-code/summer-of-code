@@ -55,7 +55,7 @@ A primary goal of Rails Girls Summer of Code is to be inclusive to the all of ou
 We have a [Code of Conduct](/about/code-of-conduct) in place and will again set up a trust committee that consists of both people involved with organizing, and externals. You can contact the person you feel most comfortable reaching out to.
 
 **Orga Team**      
-And if all else fails, we are always here to support you. Send us an email at [mailto:summer-of-code@railsgirls.com](summer-of-code@railsgirls.com) and we'll figure out the rest together. 
+And if all else fails, we are always here to support you. Send us an email at [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com) and we'll figure out the rest together. 
 
 Now there's only one thing left to say: Use all the channels there are and ask all the questions you have! :)
 
@@ -77,13 +77,15 @@ We recommend to either combine the daily log with [a morning standup meeting](ht
 **Time Management**      
 Set up a shared calendar for you and your pair and schedule regular, dedicated times for checking on your schedules. Once a week is minimum. Besides recurring events such as communication to your mentor and supervisor, there will be single social events (see below) that shouldn't get lost.
 
-Below you'll see a sample schedule for one week. It serves as a guide and gives you an impression on how to organize your Summer of Code. 
- (calendar pic)
+Here you'll see a sample schedule for one week. It serves as a guide and gives you an impression on how to organize your Summer of Code.    
+<small>Please be aware: The actual dates will vary. Especially, the calls will depend on how the mentor and the supervisor will have time. Also, RGSoC Social Stuff will sometimes take more, but mostly way less time.</small>
+![sample schedule-01](https://cloud.githubusercontent.com/assets/2246045/6210947/08cf7384-b5d5-11e4-90c0-05a86aa6cd3c.png)
+
 
 **Onboarding Call (Google Hangout)**      
 We will start the program with an Onboarding Call, using Google Hangout.
 
-Please make sure you have a google account so you can join the Hangout. If you have any concerns or questions on this, please contact us at [mailto:summer-of-code@railsgirls.com](summer-of-code@railsgirls.com) before the start of the program.
+Please make sure you have a google account so you can join the Hangout. If you have any concerns or questions on this, please contact us at [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com) before the start of the program.
 
 **Twitter**      
 Please make sure, you have a Twitter account. It can be either your personal one or a team account which you and your pair will be setting up for the program. 
@@ -91,7 +93,7 @@ Please make sure, you have a Twitter account. It can be either your personal one
 We will use Twitter for at least the conference ticket raffle and most likely for other social and fun events. Besides, it's a great place to get news and updates from the RGSoC world. 
 
 **Optional: Your Own Team Blog**      
-If you are a blogger and write about stuff of your interest anyways, whoy not set up a dedicated RGSoC team blog? Or maybe you wanna start blogging for the Summer? We can only support this. But we also state explicitly, that a blog is not mandatory. 
+If you are a blogger and write about stuff of your interest anyways, why not set up a dedicated RGSoC team blog? Or maybe you wanna start blogging for the Summer? We can only support this. But we also state explicitly, that a blog is not mandatory. 
 
 A blog can be a great place for a more general recap of your project work, or reflections about your learning time and experiences, or reports about events you took part…
 
@@ -105,7 +107,9 @@ We ask you as a team to write two blog posts for our central blog. The first wil
 
 **Fun Events**        
 We will come up with a better name for this, promised ;).     
-Inbetween, we'll have special events such as gathering a mixtape of all students, having a dedicated day-off, … 
+During the program, we'll have special events such as gathering a mixtape of all students, having a dedicated day-off, … 
+
+We will announce the events well in advance and, of course, make sure they won't interfere with focussing on your project work all too much ;).
 
 
 <h2 id="conferences">Community Events and Conferences</h2>
