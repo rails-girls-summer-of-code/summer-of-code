@@ -12,7 +12,6 @@ permalink: /students/application/
 
 Applications for Rails Girls Summer of Code will be open <strong>in March 2015</strong>!
 
-<!--
 This guide gives you all the information about what you will need when applying
 for Summer of Code. Please read this carefully to ensure you know about all the requirements of
 a good and complete application. 
@@ -106,7 +105,7 @@ The ideal project should be:
 
 The project plan for the application should contain an end goal along with several subordinate goals and milestones that you and your team pair can use to track your progress against. The core of your project plan, however, shall be a concept of what you want to learn. Pick 2-3 current issues from your preferred project and tell us why you chose them (with regard to your skill level), explain the prospected working steps and what you expect to learn out of working on these issues.
 
-On note on determining issues to work on: Especially in very active Open Source projects it is hardly possible to determine concrete issues that far ahead. Things will change in the time between the application and the actual Summer of Code. Therefore, we are interested in a specific time plan, but even more so in how you approach the aspect of choosing issues. 
+One note on determining issues to work on: Especially in very active Open Source projects it is hardly possible to determine concrete issues that far ahead. Things will change in the time between the application and the actual Summer of Code. Therefore, we are interested in a specific time plan, but even more so in how you approach the aspect of choosing issues. 
 
 It is required to contact the mentor of the project as well as meet with your coaches and team pair to discuss what project you are looking to undertake. Meeting with your coaches is a great way to understand if your goals are realistic, and what your project plan will look like.
 
@@ -146,7 +145,7 @@ Don’t know where to start?  We are collecting project proposals for 2014 in
 
 Talk to your coaches and other people of your local Rails Girls community - they will have good ideas. You also can ask on the <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>, or via <a href="https://www.twitter.com/railsgirlssoc">@RailsGirlsSoC</a> on Twitter.
 
-Also, here are last year's <a href="http://2014.teams.railsgirlssummerofcode.org/teams">teams and their projects</a>, and some of <a href="https://github.com/rails-girls-summer-of-code/Projects-2014">last year's project ideas</a>. Here you find <a href="https://github.com/rails-girls-summer-of-code/Projects">this year's projects you can apply for</a>. 
+Also, here are last year's <a href="http://2014.teams.railsgirlssummerofcode.org/teams">teams and their projects</a>, and some of <a href="https://github.com/rails-girls-summer-of-code/Projects-2014">last year's project ideas</a>. Here you find <a href="https://github.com/rails-girls-summer-of-code/projects/issues?q=is%3Aopen+is%3Aissue+label%3Aaccepted">this year's projects you can apply for</a>. 
 
 If you know an Open Source project you might want to apply for, but has not yet been submitted by their mentor: Please reach out to the mentor and suggest they submit their project to us via the <a href="https://github.com/rails-girls-summer-of-code/Projects">Projects Repository</a>.
 
@@ -209,6 +208,6 @@ Here is the basic checklist for your application:
 * Find a Workspace
 * Agree to the Requirements for Participating in the Program
 
+<!--
 All set? Then go! Apply now here:
-<a href="http://teams.railsgirlssummerofcode.org/application">http://teams.railsgirlssummerofcode.org/application</a>. 
--->
+<a href="http://teams.railsgirlssummerofcode.org/application">http://teams.railsgirlssummerofcode.org/application</a>. -->

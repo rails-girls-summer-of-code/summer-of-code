@@ -6,32 +6,26 @@ current: students
 current-sub: students
 permalink: students/
 ---
-<script src="http://openlayers.org/api/OpenLayers.js"></script>
-<script defer="defer" src="/js/map.js"></script>
-<script src="/js/cities.js"></script>
-
-
 <section class="main container">
     <div class="wrapper clearfix">
         {% include students_sidebar.html %}
 
         <article class="content">
-            <h2>{{page.title}}</h2>
+            <h1>{{page.title}}</h1>
 
-            <p>Student registrations for last year's Rails Girls Summer of Code came from all over the world! As soon as there'll be updates on this year's project groups, you can read about them here.</p>
-            <p>In the meantime, check out these sections for information on what will happen during the Summer of Code.</p>
-            <p><ul>
-              <li><a href="/students/to-do">Things to do</a>: Activities that come along with learning to code.</li>
-              <li><a href="/students/log">Team Log</a>: Keep track of your activities and your learning steps.</li>
-              <li><a href="/students/tools">Tools</a>: Services we'll be using to keep in touch.</li>
-              <li><a href="/students/conferences">Conferences</a>: Join the community, talk about your Summer of Code and get inspired.</li>
-            </ul></p>
-            <p>You can read more about the teams and projects of the 2013 edition of RGSoC <a href="http://2013.railsgirlssummerofcode.org/">here</a>.</p>
-
+            <p>Student applications for this year's Rails Girls Summer of Code will be <strong>open in March 2015</strong>.</p>
+            <p>In the meantime, check out these sections for information about the application process, requirements for participating in the Rails Girls Summer of Code as well as tips and suggestions on how to organize yourselves should you be granted a sholarship.</p>
+            <p>
+              <ul>
+              <li><a href="/students/application">Application Guide</a>: Information about all the requirements for a complete application.</li>
+              <li><a href="/students/todo">Things to do</a>: Activities during the program and suggestions on how to meet the requirements for participating in the Summer of Code. This section also gives you an idea how a Summer of Code will look like.</li>
+              <li><a href="/students/conferences">Conferences</a>: Join the community, talk about your Summer of Code and get inspired. We will again try and provide conference tickets for many events worldwide.</li>
+              </ul>
+            </p>
             <div style="width:650px; height:400px" id="map"></div>
         </article>
         <aside class="sidebar">
             <div class="scribble14"></div>
         </aside>
     </div>
-</section> <!-- / .main -->
+</section>
