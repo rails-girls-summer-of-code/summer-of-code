@@ -9,7 +9,7 @@ permalink: /guide/coaching-company/
 ---
 <h1>Coaching Company Guide</h1>
 
-Do you have free space for at least a one to two-person team to work? Do you have
+Do you have free space for at least a two-person team to work? Do you have
 developers passionate about helping newcomers and working on Open Source?
 
 You might just have what it takes to be a coaching company.
@@ -17,27 +17,27 @@ You might just have what it takes to be a coaching company.
 When Summer of Code students undertake their scholarship for the summer, they
 need a place to work. While working from home is an option for some
 participants, having the exposure to a productive work environment and ready
-access to coaches can really mean the difference between a life changing or
+access to coaches can really make a difference between a life-changing or
 stressful Summer of Code experience.
 
 Here's where you (and your company) come in. Being a coaching company is not
 only super rewarding for your developers and team, it is also a great way to
-show your support for the Open Source and your local developers community.
+show your support for the Open Source and your local developer community.
 
 
-* <a href="#q1">Why Should I Be A Coaching Company?</a>
-* <a href="#q2">What makes Good Coaching Company?</a>
-* <a href="#q3">What Does A Coaching Company Do?</a>
-* <a href="#q4">What Coaching Companies Don't Do</a>
-* <a href="#q5">Where are Coaching Companies Located?</a>
-* <a href="#q6">How to Become a Coaching Company</a>
-* <a href="#q7">I Have More Questions!</a>
+* <a href="#q1">Why should I be a Coaching Company?</a>
+* <a href="#q2">What makes a good Coaching Company?</a>
+* <a href="#q3">What does a Coaching Company do?</a>
+* <a href="#q4">What Coaching Companies don't do</a>
+* <a href="#q5">Where are Coaching Companies located?</a>
+* <a href="#q6">How to become a Coaching Company</a>
+* <a href="#q7">I have more questions!</a>
 
 
-<h2 id="q1">Why Should I Be A Coaching Company?</h2>
+<h2 id="q1">Why should I be a Coaching Company?</h2>
 
 There are tonnes of good reasons to be a coaching company; altruistic
-fulfillment, the good of the development community, a more diverse Open Source
+fulfillment, the good of the developer community, a more diverse Open Source
 contributor network, and much more. However, one of the best parts of being a
 Coaching Company is the huge amount of organic publicity your company garners.
 
@@ -66,14 +66,14 @@ personal recommendations from participants, and mentions at conferences. The
 reach of where you can take your support is really only limited by your
 imagination.
 
-Being a Coaching Company has a very direct affect on the lives and projects of
+Being a Coaching Company has a very direct effect on the lives and projects of
 participants, and makes your company an extremely attractive one to potential
 hires, conference organisers, tech bloggers, journalists and media outlets.
 
 
-<h2 id="q2">What makes a Good Coaching Company?</h2>
+<h2 id="q2">What makes a good Coaching Company?</h2>
 
-Any company with a respectful, inclusive culture, good internet, and a team of
+Any company with a respectful and inclusive culture, good internet, and a team of
 developers could make a good coaching company. That really is it. Great
 examples for Coaching Companies include Absolventa and
 Travis CI (2013), 6Wunderkinder (2014), and SoundCloud (2013, 2014).
@@ -88,14 +88,15 @@ may have them come and go like normal employees in a work day. You could even
 be a co-working space who wants to host a team, and has gathered a roster of
 coaches to help.
 
-There is no one size fits all coaching company, but the one thing they all have
-in common is the inherent value they see in supporting a team in and of itself.
+**We expect coaching companies to host teams in a safe and productive work
+environment**, but other than that, there is no "one size fits all" coaching company. 
+The one thing they all have in common is the inherent value they see in supporting a 
+team in and of itself.
 
-We expect coaching companies to host teams in a safe and productive work
-environment.
 
 
-<h2 id="q3">What Does A Coaching Company Do?</h2>
+
+<h2 id="q3">What does a Coaching Company do?</h2>
 
 In essence, you give away a piece of space in your office for your team to work
 in and make sure that team have access to developers to coach them. All of the
@@ -104,7 +105,7 @@ team meetings so you can stay up-to-date on their progress, or support them to
 attend conferences and meetups.
 
 
-<h2 id="q4">What Coaching Companies Don't Do</h2>
+<h2 id="q4">What Coaching Companies don't do</h2>
 
 * Coaching companies do not provide financial assistance to teams, nor should
   they use remuneration as an incentive to attract a team.
@@ -112,7 +113,7 @@ attend conferences and meetups.
   product.
 * Coaching companies can't demand their teams be chosen.
 
-Teams who don't get a sponsored seat, but still want to participate and work on
+Teams who don't get a sponsored seat but still want to participate and work on
 their project are called volunteer teams.
 
 So what if you don't have a team you want to support? If you want to offer your
@@ -120,7 +121,7 @@ company to potential participants, drop us a line or register your company by
 emailing us: <a
 href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.
 
-<h2 id="q5">Where are Coaching Companies Located?</h2>
+<h2 id="q5">Where are Coaching Companies located?</h2>
 
 Planet Earth.
 
@@ -132,20 +133,18 @@ aiming at having participants from a greater variety of countries in 2015, so
 regardless of your coordinates on planet Earth, there is probably a team that
 could do with your support.
 
-<h2 id="q6">How To Become A Coaching Company</h2>
+<h2 id="q6">How to become a Coaching Company</h2>
 
 First, register yourself and your coaches here: <a href="http://teams.railsgirlssummerofcode.org">teams.railsgirlssummerofcode.org</a>
 
-A good starting point is to reach out your local
-<a href="http://railsgirls.com/">Rails Girls chapter</a>, and development
+A good starting point is to reach out to your local
+<a href="http://railsgirls.com/">Rails Girls chapter</a> and to development
 communities such as your local Ruby groups.
 
 Also send an email to the
 <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>,
-offering your space and coaches. Additionally you can spread the word
-mentioning via
-<a href="http://www.twitter.com/railsgirlsoc">@RailsGirlsSoC</a>
-on Twitter and we'll retweet and help you connect to students.
+offering your space and coaches. Additionally you can spread the word by mentioning us on Twitter 
+(<a href="http://www.twitter.com/railsgirlsoc">@RailsGirlsSoC</a>); we'll retweet and help you connect to students.
 
 <h2 id="q7">I have more questions!</h2>
 
