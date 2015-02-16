@@ -47,7 +47,7 @@ meet fantastic people and get to know the lovely community!**
 
 We highly recommend to plan for giving at least a brief lightning talk at any
 such event, too, so you get to share the love and practice speaking in front of
-a bunch of people :)
+a bunch of people.
 
 Don't feel too scared about presenting your work and experience at such events!
 Of course everyone is (seriously, even experienced, seasoned speakers are).
