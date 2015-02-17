@@ -21,16 +21,17 @@ permalink: /guide/projects/
 
 <h3 id="q1">What is a good project?</h3>
 
-<p>A good Open Source project to propose for RGSoC 2015 is:</p>
+<p>A good Open Source project to propose for RGSoC 2015:</p>
 
 
 <ul>
-<li>established/ developed enough to allow collaboration (beyond the set up phase)
-<li>has a dedicated contact person/ maintainer 
-<li>beginner/junior-friendly (open to newcomers; maintains a inviting, helpful and understanding communication and a non-discriminating environment etc.)
+<li>has an open-source license</li>
+<li>is established/developed enough to allow collaboration (beyond the set-up phase)</li>
+<li>has a dedicated contact person/maintainer</li>
+<li>is beginner/junior-friendly (open to newcomers; maintains a inviting, helpful and understanding communication and a non-discriminating environment etc.)</li>
 </ul>
 
-<p>Projects will be asked to provide a mentor, who will act as experts in the project's domain. However, in their day-to-day work students will be supported by coaches, so the workload for project mentor is limited.</p>
+<p>Projects will be asked to provide a mentor who will act as an expert in the project's domain. However, in their day-to-day work students will be supported by coaches, so the workload for project mentor is limited.</p>
 
 <h3 id="q2">What is a good mentor? What does it entail?</h3>
 
@@ -40,9 +41,9 @@ permalink: /guide/projects/
 
 <p>Being a mentor entails:</p>
 <ul>
-<li>providing guidance and feedback through the summer concerning your project 
-<li>helping the students to apply: help set up a project plan, discussing and suggesting issues/ features to work on 
-<li>being in contact with the whole student team throughout the summer (July-September)
+<li>providing guidance and feedback through the summer concerning your project</li> 
+<li>helping the students to apply: help set up a project plan, discussing and suggesting issues/ features to work on</li> 
+<li>being in contact with the whole student team throughout the summer (July-September)</li>
 </ul>
 
 
@@ -71,8 +72,8 @@ permalink: /guide/projects/
 
 <p>In the proposal you are asked to:</p>
 <ul>
-<li>provide information on the project (description and background)
-<li>suggest issues and features for students to work on which provide a goal that is a valuable contribution to your project
+<li>provide information on the project (description and background)</li>
+<li>suggest issues and features for students to work on which provide a goal that is a valuable contribution to your project</li>
 </ul>
 
 
