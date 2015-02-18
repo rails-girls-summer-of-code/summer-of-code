@@ -38,7 +38,7 @@ section.main {
   text-shadow: none;
 }
 p {
-   line-height: 1.7; 
+   line-height: 1.7;
 }
 p + ul {
   margin-top: 2em;
@@ -75,7 +75,7 @@ textarea {
 
 .wrapper-blog h1 {
   margin: .3em 0 .5em;
-  line-height: 1.3; 
+  line-height: 1.3;
   color: #444;
 }
 .blog h1 a { color: #d82222; }
@@ -779,15 +779,15 @@ h3 {
   position: absolute;
   color: #FFF;
   line-height: 1;
-  padding: 1px 30px 4px 30px;
-  font-size: 9px;
+  padding: 4px 30px 5px 30px;
+  font-size: 12px;
   background-color: #BBB;
   transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
-.sponsors .lead-support:after {
-  content: "Lead support + organization";
+.sponsors .partner:after {
+  content: "Partner";
   top: 19px;
   right: -36px;
   width: 70px;
@@ -1056,7 +1056,7 @@ h3 {
   .hamburger { display: none; }
   .header-container.is-open .nav-primary > ul {
     display: block;
-    height: auto 
+    height: auto
   }
   .nav-primary > ul {
     display: block;
