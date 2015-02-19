@@ -54,7 +54,9 @@ community.
 
 * Your logo will be placed on the footer of our [homepage](/).
 * You will be listed on our [sponsors page](/sponsors), which will be linked
-  to frequently (see last year's [sponsors page](http://2013.railsgirlssummerofcode.org/sponsors-thanks/)).
+  to frequently (see our sponsors pages from
+  [2014](http://2014.railsgirlssummerofcode.org/sponsors) and
+  [2013](http://2013.railsgirlssummerofcode.org/sponsors-thanks)).
 * Your swag included in support packages sent out to all students during the summer (see below).
 * Lots of tweet love, hype and buzz from the community.
 
