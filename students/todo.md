@@ -11,9 +11,8 @@ current: students
 <h1>Things To Do</h1>
 
 The Rails Girls Summer of Code is about supporting the students on their way
-into the Open Source community. Below, you find numerous activities that are part of the program. The suggestions and best practices from former years will help you set up a good working environment and support you in having a successful and fulfilling Summer of Code. 
+into the Open Source community. Below you'll find everything you will need during the summer. The suggestions and best practices from former years will help you set up a good working environment and support you in having a successful and fulfilling Summer of Code. 
 
-While we naturally want you to focus on your coding, the Rails Girls Summer of Code includes getting in touch with the community and spreading the word.
 
 * <a href="#support-network">Your Support Network</a>
 * <a href="#project-setup">Project and Team Setup</a>
@@ -76,15 +75,16 @@ We recommend to either combine the daily log with [a morning standup meeting](ht
 **Time Management**      
 Set up a shared calendar for you and your pair and schedule regular, dedicated times for checking on your schedules. Once a week is minimum. Besides recurring events such as communication to your mentor and supervisor, there will be single social events (see below) that shouldn't get lost.
 
-Here you'll see a sample schedule for one week. It serves as a guide and gives you an impression on how to organize your Summer of Code.    
-<small>Please be aware: The actual dates will vary. Especially, the calls will depend on how the mentor and the supervisor will have time. Also, RGSoC Social Stuff will sometimes take more, but mostly way less time.</small>
+Here you'll see a sample schedule for one week. It serves as a guide and gives you an impression on how to organize your Summer of Code. 
+
+<i>Please be aware: This is just an example. The actual dates will vary. Especially, the calls will depend on how the mentor and the supervisor will have time. Also, RGSoC Social Stuff will sometimes take more, but mostly way less time.</i>
 ![sample schedule-01](https://cloud.githubusercontent.com/assets/2246045/6210947/08cf7384-b5d5-11e4-90c0-05a86aa6cd3c.png)
 
 
 **Onboarding Call (Google Hangout)**      
-We will start the program with an Onboarding Call, using Google Hangout.
+We will start the program with an Onboarding Call, using [Google Hangout](http://www.google.com/+/learnmore/hangouts/).
 
-Please make sure you have a google account so you can join the Hangout. If you have any concerns or questions on this, please contact us at [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com) before the start of the program.
+Please make sure you have a Google account so you can join the Hangout. 
 
 **Twitter**      
 Please make sure, you have a Twitter account. It can be either your personal one or a team account which you and your pair will be setting up for the program. 
@@ -94,12 +94,15 @@ We will use Twitter for at least the conference ticket raffle and most likely fo
 **Optional: Your Own Team Blog**      
 If you are a blogger and write about stuff of your interest anyways, why not set up a dedicated RGSoC team blog? Or maybe you wanna start blogging for the Summer? We can only support this. But we also state explicitly, that a blog is not mandatory. 
 
-A blog can be a great place for a more general recap of your project work, or reflections about your learning time and experiences, or reports about events you took part…
+A blog can be a great place for a more general recap of your project work, or reflections about your learning time and experiences, or reports about events you took part. 
+
+If you have any concerns or questions on these points, please contact us at [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com) before the start of the program.
 
 
 <h2 id="social-events">Social Events and Conferences</h2>      
-Rails Girls Summer of Code is a community-based program. And, of course, we want to tell the community what happens here. Here we also need you. Tell people about what you are doing! As a side effect, you can start giving back to the community right away. Spreading the word will get more and more people known to the program and helps us in reaching out to supporters and contributors in the upcoming years. 
+Rails Girls Summer of Code is a community-based program. And, of course, we want to tell the community what happens here. While we naturally want you to focus on your coding, the Rails Girls Summer of Code includes getting in touch with the community and spreading the word. 
 
+Here we  need you. Tell people about what you are doing! As a side effect, you can start giving back to the community right away. Spreading the word will get more and more people known to the program and helps us in reaching out to supporters and contributors in the upcoming years. 
 
 **Blog Posts for the RGSoC Blog**      
 We ask you as a team to write two blog posts for our central blog. The first will be an introduction (following a questionnaire) and is done at the beginning of July. The second post is due at the end of September and will be a summary of your project experience. You can write in whatever type of post you like, text, images, a video, …
