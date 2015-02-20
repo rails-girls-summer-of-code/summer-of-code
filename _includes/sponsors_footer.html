@@ -1,70 +1,12 @@
 <h3>Sponsored by</h3>
-<!--
-  <li class="spnsors diamond">
-    <h4>Diamond</h4>
-    <a href="" target="_blank" class=""></a>
-  </li>
--->
 <ul>
-  <li class="sponsors platinum">
-    <h4>Partners + Platinum</h4>
-    <a href="https://travis-ci.com/" target="_blank" class="travis badge partner"></a>
-    <a href="https://github.com/" target="_blank" class="github badge partner"></a>
+{% for package in site.data.packages %}
+  <li class="sponsors {{ package.name | downcase }}">
+    <h4>{{ package.name }}</h4>
+    {% for sponsor in package.sponsors %}
+      {% capture classes %}{% if sponsor.partner %}{{ sponsor.id }} badge partner{% else %}{{ sponsor.id }}{% endif %}{% endcapture %}
+      <a href="{{ sponsor.url }}" class="{{ classes }}"></a>
+    {% endfor %}
   </li>
-  <li class="sponsors gold">
-    <h4>Gold</h4>
-    <a href="https://basecamp.com/" target="_blank" class="basecamp"></a>
-    <a href="https://developers.google.com/" target="_blank" class="google"></a>
-    <!--
-    <a href="https://soundcloud.com/" target="_blank" class="soundcloud"></a>
-    -->
-  </li>
-  <li class="sponsors silver">
-    <h4>Silver</h4>
-    <a href="http://turing.io/" target="_blank" class="turing"></a>
-    <!--
-    <a href="http://www.anynines.com/" target="_blank" class="anynines badge support"></a>
-    <a href="http://www.envato.com/" target="_blank" class="envato"></a>
-    <a href="http://www.digitalocean.com/" target="_blank" class="digitalocean"></a>
-    <a href="https://www.engineyard.com/" target="_blank" class="engineyard"></a>
-    <a href="http://orcasnet.com" target="_blank" class="orcasnet"></a>
-    <a href="http://hashrocket.com" target="_blank" class="hashrocket"></a>
-    <a href="http://cognitect.com" target="_blank" class="cognitect"></a>
-    -->
-  </li>
-  <li class="sponsors bronze">
-    <h4>Bronze</h4>
-    <a href="http://www.gotealeaf.com/" target="_blank" class="tealeaf"></a>
-    <!--
-    <a href="http://www.wooga.com/" target="_blank" class="wooga"></a>
-    <a href="https://www.honeybadger.io/" target="_blank" class="honeybadger"></a>
-    <a href="https://plan.io/" target="_blank" class="planio"></a>
-    <a href="http://carbonfive.com/" target="_blank" class="carbonfive"></a>
-    <a href="https://www.articulate.com/" target="_blank" class="articulate"></a>
-    <a href="https://www.shopify.com/" target="_blank" class="shopify"></a>
-    <a href="http://www.nugg.ad/" target="_blank" class="nuggad"></a>
-    <a href="http://www.eng5.com/rails-girls-summer-of-code" target="_blank" class="site5"></a>
-    <a href="http://www.zweitag.de/en" target="_blank" class="zweitag"></a>
-    <a href="http://www.messe.de" target="_blank" class="de_messe"></a>
-    <a href="http://agileanimal.com" target="_blank" class="agileanimal"></a>
-    <a href="http://www.hitfoxgroup.com" target="_blank" class="hitfox"></a>
-    <a href="http://newrelic.com" target="_blank" class="newrelic"></a>
-    <a href="http://www.malwarebytes.org" target="_blank" class="malwarebytes"></a>
-    <a href="http://keen.io" target="_blank" class="keenio"></a>
-    <a href="http://www.innoq.com" target="_blank" class="innoq"></a>
-    <a href="http://www.thoughtworks.com" target="_blank" class="thoughtworks"></a>
-    <a href="http://www.dawanda.com" target="_blank" class="dawanda"></a>
-    <a href="http://carnesmedia.com" target="_blank" class="carnesmedia"></a>
-    <a href="http://www.cloudcontrol.com" target="_blank" class="cloudcontrol"></a>
-    <a href="http://paymill.com" target="_blank" class="paymill"></a>
-    <a href="http://groupon.com" target="_blank" class="groupon"></a>
-    <a href="http://www.toptal.com/ruby-on-rails" target="_blank" class="toptal"></a>
-    -->
-  </li>
-<!--
-  <li class="spnsors conferences">
-    <h4>Conferences</h4>
-    <a href="" target="_blank" class=""></a>
-  </li>
--->
+{% endfor %}
 </ul>

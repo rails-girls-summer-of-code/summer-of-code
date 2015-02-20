@@ -737,9 +737,11 @@ h3 {
 .sponsors a:last-child {
   margin-right: 0;
 }
+#sponsors .partners h4,
 #sponsors .platinum h4 {
   top: 175px;
 }
+.sponsors.partners a,
 .sponsors.platinum a {
   width: 320px;
   height: 181px;
