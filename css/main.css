@@ -734,6 +734,23 @@ h3 {
   background: white center center no-repeat;
   background-size: 100%;
 }
+.sponsors a div {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+  margin: 3px;
+}
+.sponsors a i:before {
+  content: "\f005";
+  display: block;
+  float: right;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-size: 12px;
+  color: #d82222;
+  margin: 3px 4px 3px 0px;
+}
 .sponsors a:last-child {
   margin-right: 0;
 }
@@ -806,6 +823,12 @@ h3 {
   right: -44px;
   width: 70px;
 }
+{% for package site.data.packages %}
+  {% for sponsor package.sponsors %}
+    {{ sponsor.name }}
+  {% endfor %}
+{% endfor %}
+
 .sponsors .anynines     { background-image: url(../img/sponsors/anynines.png); }
 .sponsors .articulate   { background-image: url(../img/sponsors/articulate.png); }
 .sponsors .agileanimal  { background-image: url(../img/sponsors/agileanimal.png); }

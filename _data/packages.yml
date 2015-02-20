@@ -14,6 +14,10 @@
         href="http://foundation.travis-ci.org">Travis Foundation</a>, a non-profit
         organisation which aims to make Open Source an even better place. One of their
         goals is to make Rails Girls Summer of Code a recurring tradition.</p>
+      years:
+        - 2013
+        - 2014
+        - 2015
     - name: GitHub
       id: github
       url: http://github.com
@@ -27,6 +31,10 @@
         code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ
         Hyett to simplify sharing code, GitHub has grown into the largest code host in
         the world.
+      years:
+        - 2013
+        - 2014
+        - 2015
 
 - name: Gold
   title: Gold Sponsors
@@ -35,28 +43,33 @@
       id: basecamp
       url: https://basecamp.com
       text: |-
-        <a href="https://basecamp.com/">Basecamp</a> is the world's #1
-        project management tool. We make it easy for people in different
-        roles with different responsibilities to communicate and work
-        together. <a href="https://basecamp.com/">Basecamp</a> is proud to
-        support Rails Girls Summer of Code 2015 because we believe in
-        fostering a supportive space for women in the open source
-        community. Ruby on Rails is the heart and soul of Basecamp, and we
-        wouldn't exist without contributions from people like the Rails
-        Girls!
+        <a href="https://basecamp.com/">Basecamp</a> is the world's #1 project
+        management tool. We make it easy for people in different roles with different
+        responsibilities to communicate and work together. <a
+        href="https://basecamp.com/">Basecamp</a> is proud to support Rails Girls
+        Summer of Code 2015 because we believe in fostering a supportive space for
+        women in the open source community. Ruby on Rails is the heart and soul of
+        Basecamp, and we wouldn't exist without contributions from people like the
+        Rails Girls!
+      years:
+        - 2013
+        - 2014
+        - 2015
     - name: Google
       id: google
       url: https://developers.google.com
       text: |-
         <a href="https://developers.google.com/open-source/" target="_blank">Google</a>
-        is a multinational corporation
-        specializing in Internet-related services and products. They also
-        are contributing to Open Source whith their own Open Source
-        program. Their Open Source section releases Google-created code,
-        providing vital infrastructure, supporting Open Source
-        organizations, handling internal Open Source compliance, and by
-        running student outreach programs such as Google Summer of Code
-        and Google Code-in.
+        is a multinational corporation specializing in Internet-related services and
+        products. They also are contributing to Open Source whith their own Open Source
+        program. Their Open Source section releases Google-created code, providing
+        vital infrastructure, supporting Open Source organizations, handling internal
+        Open Source compliance, and by running student outreach programs such as Google
+        Summer of Code and Google Code-in.
+      years:
+        - 2013
+        - 2014
+        - 2015
 
 - name: Silver
   title: Silver Sponsors
@@ -64,6 +77,8 @@
     - name: Turing School of Software & Design
       id: turing
       url: http://turing.io
+      years:
+        - 2015
 
 - name: Bronze
   title: Bronze Sponsors
@@ -78,6 +93,9 @@
         building complex production quality web applications. Tealeaf believes in the
         RailsGirls mission, and are strong supporters of diversity in the programming
         industry.
+      years:
+        - 2014
+        - 2015
 
     # - name: Soundcloud
     #   id: soundcloud

@@ -5,7 +5,13 @@
     <h4>{{ package.name }}</h4>
     {% for sponsor in package.sponsors %}
       {% capture classes %}{% if sponsor.partner %}{{ sponsor.id }} badge partner{% else %}{{ sponsor.id }}{% endif %}{% endcapture %}
-      <a href="{{ sponsor.url }}" class="{{ classes }}"></a>
+      <a href="{{ sponsor.url }}" class="{{ classes }}">
+        <div class="years">
+          {% for year in sponsor.years %}
+            <i title="Sponsor in {{ year }}"></i>
+          {% endfor %}
+        </div>
+      </a>
     {% endfor %}
   </li>
 {% endfor %}
