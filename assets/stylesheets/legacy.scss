@@ -38,7 +38,7 @@ section.main {
   text-shadow: none;
 }
 p {
-   line-height: 1.7; 
+   line-height: 1.7;
 }
 p + ul {
   margin-top: 2em;
@@ -75,7 +75,7 @@ textarea {
 
 .wrapper-blog h1 {
   margin: .3em 0 .5em;
-  line-height: 1.3; 
+  line-height: 1.3;
   color: #444;
 }
 .blog h1 a { color: #d82222; }
@@ -1053,7 +1053,7 @@ h3 {
   .hamburger { display: none; }
   .header-container.is-open .nav-primary > ul {
     display: block;
-    height: auto 
+    height: auto
   }
   .nav-primary > ul {
     display: block;
