@@ -204,9 +204,9 @@ Here is the basic checklist for your application:
 * Read this Application Guide carefully
 * Find a Pair
 * Find a Project
-* Find Coaches
-* Find a Workspace
-* Agree to the Requirements for Participating in the Program
+* Find Coaches 
+* Find a Workspace or Coaching Company
+* Agree with Requirements for Participating in the Program
 
 <!--
 All set? Then go! Apply now here:
