@@ -12,7 +12,7 @@
   <section>
     <h3>Latest posts</h3>
     <ul class="list list--none list--archive">
-      {% for post in site.posts offset: 0 limit: 10 %}
+      {% for post in site.posts offset: 0 limit: 5 %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
