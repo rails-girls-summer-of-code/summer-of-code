@@ -1,5 +1,12 @@
   <footer class="footer" id="footer">
     <div class="row">
+      <div class="container" id="sponsors">
+        {% if page.sponsors %}
+          {% include sponsors_footer.html %}
+        {% endif %}
+      </div>
+    </div>
+    <div class="row">
       <div class="container">
         <div class="col-sm-3 col-x">
           <p>&#10084; artwork by <a href="http://www.ejaculesc.com/" target="_blank">Rebecca Conrad</a></p>
