@@ -1,0 +1,42 @@
+<meta charset="utf-8">
+<title>{% if page.title %} {{ page.title }} | {% endif %} Rails Girls Summer of Code</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="description" content="Rails Girls Summer of Code {{ site.time | date: "%Y" }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% if page.author %}<meta name="author" content="{{ page.author }}">{% endif %}
+
+<!-- OpenGraph stuff; http://ogp.me/ -->
+{% if page.image %}
+<meta property="og:image" content="{{ page.image }}" />
+{% else %}
+<meta property="og:image" content="http://railsgirlssummerofcode.org/img/opengraph_image.png" />
+{% endif %}
+{% if page.abstract %}<meta property="og:description" content="{{ page.abstract }}" />{% endif %}
+<meta property="og:site_name" content="Rails Girls Summer of Code" />
+{% if page.title %}
+  {% assign og_title = page.title %}
+{% else %}
+  {% assign og_title = "Rails Girls Summer of Code" %}
+{% endif %}
+<meta property="og:title" content="{{ og_title }}" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="{{ og_title }}" />
+<meta name="twitter:creator" content="RailsGirlsSoC" />
+{% if page.abstract %}<meta property="twitter:description" content="{{ page.abstract }}" />{% endif %}
+
+<link rel="alternate" type="application/atom+xml" href="http://railsgirlssummerofcode.org/blog.xml"/>
+<link rel="shortcut icon" href="/favicon.png">
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="{{ "/assets/stylesheets/style.css" | prepend: site.baseurl }}">
+
+{% if page.stripe %}
+<script src="https://checkout.stripe.com/v2/checkout.js"></script>
+{% endif %}
+<!-- <script src="{{ site.baseurl }}/assets/javascripts/modernizr-2.8.3-custom.js"></script>
+<script src="/js/vendor/jquery-1.9.1.min.js"></script>
+<script src="/js/vendor/date.format.js"></script>
+<script src="/js/donations.js"></script>
+<script src="/js/pagination.js"></script>
+<script src="/js/blogroll.js"></script>
+ -->

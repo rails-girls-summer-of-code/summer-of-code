@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+
+    {% include head.html %}
+
+  </head>
+  <body class="{{ page.class }}">
+    <div class="container-fluid">
+      <header id="header" class="header" role="banner">
+        
+        {% include navigation.html %}
+        
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 logo">
+            <a href="/" title="">
+              <h1>Rails Girls Summer of Code</h1>
+              <h2>Get Rails Girls students into Open Source software projects!</h2>
+            </a>
+          </div>
+        </div>
+      </header><!-- /header -->
+      <main role="main">
+
+        {{ content }}
+
+        {% if page.stripe %}
+          {% include stripe_form.html %}
+        {% endif %}
+
+
+        <!-- <section id="sponsors">
+          <div class="section">
+            <div class="container">
+              
+            </div>
+          </div>
+        </section> -->
+      </main>
+
+      {% include footer.html %}
+
+  </body>
+</html>
