@@ -9,11 +9,22 @@ a:active {
 }
 
 .logo-small {
-  margin: 1rem 0 0;
-  font-family: $deco-font;
-  text-align: left;
+  margin: 0.3rem 0 0;
+  width: 20rem;
+  height: 4.9rem;
+  overflow: hidden;
   a {
-    @include white-links;
+    display: block;
+    height: 100%;
+    width: 100%;
+    background: {
+      image: url(../images/logo.png);
+      repeat: no-repeat;
+      size: cover;
+      position: center center
+    }
+    text-indent: 999%;
+    white-space: nowrap;
   }
 }
 
@@ -33,11 +44,15 @@ a:active {
   overflow: hidden;
   will-change: height;
   transition: 200ms ease height;
-
+  background-color: #d8d8d8;
   ul {
-    padding: 2em 0 2em;
+    padding: 1em 0;
     li {
-      padding: .2em 5em;
+      padding: .2em 0;
+    }
+    li:first-child {
+      margin-bottom: .5em;
+      font-size: 20px;
     }
   }
 
@@ -53,15 +68,17 @@ a:active {
   }
 
   &.is-open {
-    height: 210px;
+    height: auto;
+    padding: 0 1.5em;
+    @media screen and (min-width: $screen-md) {
+      height: 210px;
+      padding: 0;
+    }
   }
 }
 
 .header-nav {
   padding: 0 0 1em;
-  ul {
-    text-align: right;
-  }
   a {
     @include white-links;
     font-size: 16px;
@@ -73,6 +90,15 @@ a:active {
       background: $white;
       color: $red;
     }
+  }
+  a:first-child {
+    padding-left: 0;
+  }
+  li {
+    margin-right: 1.9em;
+  }
+  li:last-child {
+    margin-right: 0;
   }
 }
 
@@ -108,11 +134,10 @@ a:active {
 
 a.button-burger {
   position: relative;
-  width: 2.7rem;
+  width: 3.5rem;
   height: 3.5rem;
   padding: 0;
-  margin-left: 1em;
-  transform: scaleX(1.4) translateY(.5em);
+  transform: translateY(.5em);
   font-size: 24px;
   text-align: center;
   background: $white;
@@ -124,6 +149,20 @@ a.button-burger {
   &:active,
   &:focus {
     outline: none;
+  }
+  .fa {
+    line-height: 1.4;
+  }
+  .fa:last-child {
+    display: none;
+  }
+  &.is-open {
+    .fa:last-child {
+      display: block;
+    }
+    .fa:first-child {
+      display: none;
+    }
   }
 }
 
