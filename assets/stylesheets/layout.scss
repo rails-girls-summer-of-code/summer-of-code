@@ -1,3 +1,8 @@
+
+body {
+  font-weight: 300;
+}
+
 a {
   color: $red;
 }
@@ -91,11 +96,11 @@ a:active {
       color: $red;
     }
   }
-  a:first-child {
+  li:first-child a {
     padding-left: 0;
   }
   li {
-    margin-right: 1.9em;
+    margin-right: 1.7em;
   }
   li:last-child {
     margin-right: 0;
@@ -119,7 +124,6 @@ a:active {
   h2 {
     margin: 1em 0 0;
     font-size: 20px;
-    font-weight: normal;
   }
   a {
     @include white-links;
@@ -195,8 +199,31 @@ a.button-burger {
 .content {
   padding: 4rem 0;
 }
-.sidebar-blog {
+.sidebar-blog,
+.sidebar-content {
   padding-top: .8em;
+}
+.sidebar-content {
+  h4 {
+    font-size: 22px;
+    margin: 1.3em 0 .2em;
+  }
+  .current {
+    position: relative;
+    padding-left: 1em;
+    &:before {
+      content: "";
+      display: inline-block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 0;
+      height: 0;
+      border-top: 10px solid transparent;
+      border-bottom: 10px solid transparent;
+      border-left: 11px solid $red;
+    }
+  }
 }
 
 .content--blog {
@@ -250,5 +277,17 @@ a.button-burger {
 .sidebar-blog {
   p {
     margin-top: 1em
+  }
+}
+
+.button {
+  background: $red;
+  color: $white;
+  border-radius: 5px;
+  padding: .3em 1em;
+  &:hover {
+    text-decoration: none;
+    color: $white;
+    background: darken($red, 10)
   }
 }

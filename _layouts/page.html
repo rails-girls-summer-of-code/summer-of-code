@@ -1,18 +1,17 @@
 ---
 class: page
-layout: default
+layout: bootstrap
 ---
-<section class="main container">
-  <div class="wrapper clearfix">
-    <article class="{% if page.sidebar %}content{% endif %}">
-      {{ content }}
-    </article>
+<div class="container">
+  <article class="col-md-8">
+    {{ content }}
+  </article>
+  <aside class="col-md-3 col-md-offset-1">
     {% if page.sidebar == "content" %}
       {% include content_sidebar.html %}
     {% endif %}
     {% if page.scribble %}
       {% include scribble_aside.html %}
     {% endif %}
-  </div>
-</section>
-
+  </aside>
+</div>
