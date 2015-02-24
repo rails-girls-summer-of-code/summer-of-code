@@ -8,7 +8,7 @@ permalink: sponsors/
 <script src="https://checkout.stripe.com/v2/checkout.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
 
-<section class="main container">
+<section class="main container sponsors">
   <div class="wrapper clearfix">
     <section class="sponsors-intro">
       <p>
@@ -24,13 +24,13 @@ permalink: sponsors/
     </section>
 
     {% for package in site.data.packages %}
-      <section class="sponsors-list sponsors-{{ package.name | downcase}}">
+      <section class="package {{ package.name | downcase }} sponsors-list">
         <h2 class="hero-title">{{package.title}}</h2>
         <div class="center-helper"><div class="sponsors-starrow"></div></div>
         <ul>
           {% for sponsor in package.sponsors %}
-            <li id="{{sponsor.id}}">
-              <div class="sponsors {{ package.name | downcase }} sponsors-logo">
+            <li id="{{ sponsor.id }}">
+              <div class="sponsor sponsors-logo">
                 <a href="{{ sponsor.url }}" class="{{ sponsor.id }}" target="_blank"></a>
               </div>
               <div class="sponsors-text">

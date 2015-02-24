@@ -674,7 +674,7 @@ h3 {
   padding-top: 2em;
 }
 
-#sponsors h3 {
+footer h3 {
   margin-bottom: 2em;
   font-size: 26px;
   color: white;
@@ -686,22 +686,22 @@ h3 {
 .align-left {
   text-align: left;
 }
-#sponsors ul {
+footer ul {
   margin: 0;
   padding: 0;
 }
-#sponsors li {
+footer .package {
   position: relative;
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
-#sponsors ul > li > ul > li {
+footer .package > ul > li {
   display: inline-block;
   margin-right: 1em;
   margin-bottom: 0.8em;
 }
-#sponsors h4 {
+footer .package h4 {
   position: absolute;
   left: -25px;
   margin: 0;
@@ -721,81 +721,85 @@ h3 {
   -moz-transform-origin: left top;
   -webkit-transform-origin: left top;
 }
-.sponsors {
-  margin-bottom: 2em;
-}
 .sponsors-logo {
   position: relative;
   overflow: hidden;
   margin: 1em 0;
 }
-.sponsors a {
+.sponsor > a {
   position: relative;
   display: inline-block;
   overflow: hidden;
+  width: 100%;
+  height: 100%;
   border-radius: 5px;
   background: white center center no-repeat;
   background-size: 100%;
 }
-.sponsors a .years {
+footer .sponsor .years {
   position: absolute;
   bottom: 0;
   right: 0;
   width: 100px;
   margin: 3px;
 }
-.sponsors a i:before {
-  content: "\f005";
-  display: block;
+footer .sponsor .year {
+  display: inline-block;
   float: right;
+  margin: 0 4px 0 0;
+}
+footer .sponsor .year:before {
+  content: "\f005";
   font-family: FontAwesome;
   font-style: normal;
   font-size: 12px;
   color: #d82222;
-  margin: 3px 4px 3px 0px;
 }
-.sponsors a:last-child {
+footer .package .sponsor:last-child {
   margin-right: 0;
 }
-#sponsors .partners h4,
-#sponsors .platinum h4 {
+
+footer .partners h4,
+footer .platinum h4 {
   top: 175px;
 }
-.sponsors.partners a,
-.sponsors.platinum a {
+footer .gold h4 {
+  top: 125px;
+}
+footer .silver h4 {
+  top: 87px;
+}
+footer .bronze h4 {
+  top: 70px;
+}
+footer .conferences h4 {
+  top: 60px;
+}
+
+.package.partners .sponsor,
+.package.platinum .sponsor {
   width: 320px;
   height: 181px;
 }
-#sponsors .gold h4 {
-  top: 125px;
-}
-.sponsors.gold a {
+.package.gold .sponsor {
   width: 320px;
   height: 131px;
 }
-#sponsors .silver h4 {
-  top: 87px;
-}
-.sponsors.silver a {
+.package.silver .sponsor {
   width: 235px;
   height: 93px;
 }
-#sponsors .bronze h4 {
-  top: 70px;
-}
-.sponsors.bronze a {
+.package.bronze .sponsor {
   width: 184px;
   height: 75px;
 }
-#sponsors .conferences h4 {
-  top: 60px;
-}
-.sponsors.conferences a {
+.package.conferences .sponsor {
   width: 151px;
   height: 61px;
   background-size: 151px;
 }
-.sponsors .badge:after {
+
+.package .badge:after {
   font-family: Helvetica Neue, Arial, sans-serif;
   text-align: center;
   position: absolute;
@@ -808,23 +812,91 @@ h3 {
   -moz-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
-.sponsors .partner:after {
+.package .partner:after {
   content: "Partner";
   top: 19px;
   right: -36px;
   width: 70px;
 }
-.sponsors .founding-support:after {
+.package .founding-support:after {
   content: "Founding support";
   top: 19px;
   right: -36px;
   width: 70px;
 }
-.sponsors .support:after {
+.package .support:after {
   content: "Support + organization";
   top: 11px;
   right: -44px;
   width: 70px;
+}
+
+.flip {
+  -webkit-perspective: 1000;
+  perspective: 1000;
+}
+.flip:hover .sponsor {
+  transform: rotateY(180deg);
+}
+.flip .sponsor {
+	position: relative;
+	transition: 0.6s;
+	transform-style: preserve-3d;
+}
+.flip .front,
+.flip .back {
+	position: absolute;
+	top: 0;
+	left: 0;
+  width: 100%;
+	backface-visibility: hidden;
+}
+.flip .front {
+	z-index: 2;
+	transform: rotateY(0deg);
+}
+.flip .back {
+	transform: rotateY(180deg);
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #380c01;
+  font-size: 11pt;
+}
+.flip .back .text {
+  position: relative;
+  overflow: hidden;
+  width: calc(100% - 2em);
+  height: calc(100% - 4em);
+  margin: 1em;
+}
+.flip .back a {
+  color: #380c01;
+}
+.flip .back .read-more {
+  position: absolute;
+  bottom: -3px;
+  right: 1em;
+  padding-left: 3em;
+  background-color: #FFF;
+  background: white;
+  background: -webkit-gradient(linear, left top, right top,	from(rgba(255, 255, 255, 0)), to(white), color-stop(20%, white));
+  background: -moz-linear-gradient(to right, rgba(255, 255, 255, 0), white 20%, white);
+  background: -o-linear-gradient(to right, rgba(255, 255, 255, 0), white 20%, white);
+  background: -ms-linear-gradient(to right, rgba(255, 255, 255, 0), white 20%, white);
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), white 20%, white)
+}
+.flip .back .meta {
+  position: absolute;
+  width: calc(100% - 2em);
+  height: 2em;
+  bottom: 0;
+  margin: 0;
+  padding: 0 1em;
+  border-radius: 0 0 5px 5px;
+  background-color: #ddd;
+  font-size: 0.9em;
 }
 
 .nerdies img {
@@ -926,7 +998,7 @@ h3 {
     .hero-sub:before {
       left: 49%;
     }
-    .sponsors div {
+    footer .package div {
         width: 33%;
     }
 
@@ -986,7 +1058,7 @@ h3 {
     float: right;
   }
 
-  .sponsors div {
+  footer .package div {
       width: 33%;
   }
   .sponsors-logo {
@@ -1097,7 +1169,7 @@ h3 {
       margin-right: 0em;
       margin-top: 0em;
     }
-    .sponsors div {
+    footer .package div {
         width: 20%;
     }
     #sponsor-packages {

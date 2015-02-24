@@ -9,7 +9,7 @@
 
 {% for package in site.data.packages %}
   {% for sponsor in package.sponsors %}
-    .sponsors .{{ sponsor.id }} {
+    .package .{{ sponsor.id }} {
       background-image: url(../../img/sponsors/{{ sponsor.id }}.png);
     }
   {% endfor %}

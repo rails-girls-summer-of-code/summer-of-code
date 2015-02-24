@@ -1,20 +1,44 @@
 <h3>Sponsored by</h3>
 <ul>
 {% for package in site.data.packages %}
-  <li class="sponsors {{ package.name | downcase }}">
+  <li class="package {{ package.name | downcase }}">
     <h4>{{ package.name }}</h4>
     <ul>
     {% for sponsor in package.sponsors %}
-      {% capture classes %}{% if sponsor.partner %}{{ sponsor.id }} badge partner{% else %}{{ sponsor.id }}{% endif %}{% endcapture %}
-      <li>
-        <a href="{{ sponsor.url }}" class="{{ classes }}">
-          <ul class="years">
-            {% for year in sponsor.years %}
-              <li class="year" title="Sponsor in {{ year }}"></li>
-            {% endfor %}
-          </ul>
-        </a>
-      </li>
+      {% if package.name == 'Partners' or package.name == 'Platinum' or package.name == 'Gold' %}
+        <li class="flip">
+          <div class="sponsor">
+            <a href="{{ sponsor.url }}" class="front {{ sponsor.id }} {% if sponsor.partner %}badge partner{% endif %}">
+              <ul class="years">
+                {% for year in sponsor.years %}
+                  <li class="year" title="Sponsor in {{ year }}"></li>
+                {% endfor %}
+              </ul>
+            </a>
+            <div class="back">
+              <p class="text">
+                {{ sponsor.text }}
+                <a href="/sponsors#{{ sponsor.id }}" class="read-more">Read more &hellip;</a>
+              </p>
+              <p class="meta">
+                Sponsored in: {{ sponsor.years | join:', ' }}
+              </p>
+            </div>
+          </div>
+        </li>
+      {% else %}
+        <li>
+          <div class="sponsor">
+            <a href="{{ sponsor.url }}" class="front {{ sponsor.id }} {% if sponsor.partner %}badge partner{% endif %}">
+              <ul class="years">
+                {% for year in sponsor.years %}
+                  <li class="year" title="Sponsor in {{ year }}"></li>
+                {% endfor %}
+              </ul>
+            </a>
+          </div>
+        </li>
+      {% endif %}
     {% endfor %}
     </ul>
   </li>

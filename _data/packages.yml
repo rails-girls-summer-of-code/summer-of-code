@@ -13,7 +13,7 @@
         like Python, Go, PHP, Java, C++ and of course Ruby. They also launched <a
         href="http://foundation.travis-ci.org">Travis Foundation</a>, a non-profit
         organisation which aims to make Open Source an even better place. One of their
-        goals is to make Rails Girls Summer of Code a recurring tradition.</p>
+        goals is to make Rails Girls Summer of Code a recurring tradition.
       years:
         - 2013
         - 2014
@@ -173,7 +173,7 @@
     #     popular social games developers for web and mobile in the world. The company is
     #     based in Berlin and employs over 250 people from 40 nations, working together
     #     on free-to-play games that are enjoyed by around 50 million players per
-    #     month.</p>
+    #     month.
     # - name: Honeybadger
     #   id: honeybadger
     #   url: https://www.honeybadger.io
@@ -195,7 +195,7 @@
     #     member and supporter of the Rails community. With locations in San Francisco
     #     and Santa Monica, Carbon Five enjoys hosting and providing mentorship at hack
     #     nights, tech talks, and workshops. They are excited to sponsor the Rails Girls
-    #     Summer of Code and help pave the path for young women in technology.</p>
+    #     Summer of Code and help pave the path for young women in technology.
     # - name: Articulate
     #   id: articulate
     #   url: https://www.articulate.com
@@ -212,7 +212,7 @@
     #     <a href="http://www.shopify.com/" target="_blank">Shopify</a> helps emerging
     #     small businesses get off the ground and grow into successful companies by
     #     creating great technology and by making it accessible to people that previously
-    #     wouldn't be able to afford it.</p>
+    #     wouldn't be able to afford it.
     # - name: Nuggad
     #   id: nuggad
     #   url: http://www.nugg.ad
@@ -221,7 +221,7 @@
     #     and is Europe's largest targeting platform with cutting edge real-time
     #     technology for audience targeting, efficient brand advertising and data
     #     management. As such, we are very proud to support Rails Girls Summer of Code
-    #     and to help diversify tech!</p>
+    #     and to help diversify tech!
     # - name: Site5
     #   id: site5
     #   url: http://www.eng5.com/rails-girls-summer-of-code
@@ -345,32 +345,32 @@
     #   text: |-
     #     <a href="http://www.bendyworks.com/" target="_blank">Bendyworks</a> is a
     #     software consultancy agency in Madison, and home to a bunch of creative and
-    #     involved programmers and designers.</p>
+    #     involved programmers and designers.
     #   text: |-
     #     <a href="http://www.codegram.com/" target="_blank">Codegram</a> is a passionate
     #     team of developers concerned with both quality and productivity which believes
-    #     that software development is fun when done properly.</p>
+    #     that software development is fun when done properly.
     #   text: |-
     #     <a href="http://www.dockyard.com/" target="_blank">Dockyard</a> is a Ruby on
     #     Rails, PostgreSQL, and Ember.js web application development software
-    #     consultancy based in Boston, MA.</p>
+    #     consultancy based in Boston, MA.
     #   text: |-
     #     a href="http://www.nedap.com/" target="_blank">Nedap</a> is a manufacturer of
     #     intelligent technological solutions for relevant themes. Sufficient food for a
     #     growing population, clean drinking water throughout the world, smart networks
     #     for sustainable energy are just a couple of examples of themes Nedap is working
-    #     on.</p>
+    #     on.
     #   text: |-
     #     <a href="http://pivotallabs.com/" target="_blank">Pivotal Labs</a> has been at
     #     the forefront of agile development for more than two decades building highly
     #     reliable, scalable software for innovative industry leaders and emerging
-    #     companies across a number of industries.</p>
+    #     companies across a number of industries.
     #   text: |-
     #     <a href="http://www.rackspace.com/" target="_blank">Rackspace</a> delivers
     #     enterprise-class hybrid cloud infrastructures to businesses of all sizes and
     #     kinds around the world. It combines public cloud, private cloud, and dedicated
     #     bare metal computing to provide the perfect infrastructure for each customer’s
-    #     specific needs.</p>
+    #     specific needs.
     #   text: |-
     #     <a href="http://www.toptal.com/ruby-on-rails" target="_blank">Toptal</a> Toptal
     #     is a marketplace that provides the highest quality of engineering talent for
@@ -381,10 +381,10 @@
     #     <a href="http://www.wimdu.com/" target="_blank">Wimdu</a> is a leading online
     #     platform offering private accommodation for all tastes and budgets. By
     #     connecting guests and hosts worldwide, Wimdu offers an enjoyable, authentic
-    #     travel experience for those looking for a smart alternative to hotels.</p>
+    #     travel experience for those looking for a smart alternative to hotels.
     #   text: |-
     #     <a href="http://www.upworthy.com/" target="_blank">Upworthy</a> is built on
     #     Rails and a social media machine with a mission: to make important stuff as
-    #     viral as a video of some idiot surfing off his roof.  </p>
+    #     viral as a video of some idiot surfing off his roof.
 
 
