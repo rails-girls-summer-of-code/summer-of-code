@@ -3,16 +3,20 @@
 {% for package in site.data.packages %}
   <li class="sponsors {{ package.name | downcase }}">
     <h4>{{ package.name }}</h4>
+    <ul>
     {% for sponsor in package.sponsors %}
       {% capture classes %}{% if sponsor.partner %}{{ sponsor.id }} badge partner{% else %}{{ sponsor.id }}{% endif %}{% endcapture %}
-      <a href="{{ sponsor.url }}" class="{{ classes }}">
-        <div class="years">
-          {% for year in sponsor.years %}
-            <i title="Sponsor in {{ year }}"></i>
-          {% endfor %}
-        </div>
-      </a>
+      <li>
+        <a href="{{ sponsor.url }}" class="{{ classes }}">
+          <ul class="years">
+            {% for year in sponsor.years %}
+              <li class="year" title="Sponsor in {{ year }}"></li>
+            {% endfor %}
+          </ul>
+        </a>
+      </li>
     {% endfor %}
+    </ul>
   </li>
 {% endfor %}
 </ul>
