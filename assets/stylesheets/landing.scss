@@ -1,115 +1,113 @@
+.landing {
 
-$single-height: 250px;
-$padding: 20px;
-
-
-.tiles {
-
-  margin-top: 2em;
-  margin-bottom: 2em;
-  padding: 2em;
-
-  h2 {
-    margin: 0;
-  }
 }
 
-.tile {
+.keyvisual {
   position: relative;
-  padding-right: 2rem;
-  margin-bottom: $padding;
-  a {
-    @include white-links;
-    display: block;
-    position: relative;
-    padding: 3rem;
-    background-color: rgba($red, 1);
-    &:before {
-      content: '';
-      display: block;
-      position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba($red, 0.7);
-      z-index: 0;
-      opacity: 0;
-      transition: opacity 200ms ease;
-    }
-    &:hover {
-      &:before {
-        opacity: 1;
-      }
-    }
+  min-height: 28em;
+  background: {
+    image: url(../../img/2014.jpg);
+    size: cover;
+    position: center center;
   }
-  h2 {
-    position: relative;
-    z-index: 5;
-    font-size: 70px;
-    font-family: $deco-font;
+
+  .keyvisual-text {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-80%);
+  }
+
+  h1, h3 {
+    color: $white;
+    text-align: center;
+    margin: 0;
+    text-transform: uppercase;
+  }
+  .fa {
+    color: $red;
+    margin: 0 .5em;
+  }
+  h1 {
+    margin-bottom: .5em;
+    font-size: 60px;
+  }
+  h3 {
+    font-size: 30px; 
+  }
+
+}
+
+
+.landing-main {
+  text-align: center;
+
+  a {
+    text-transform: uppercase;
   }
   p {
-    color: $white;
-    font-size: 20px;
-  }
-
-  .tile-hover {
-    opacity: 0;
-    transform: scale(.8);
-    transform-origin: 50% 50%;
-    transition: all 200ms ease;
-  }
-  a:hover .tile-hover {
-    opacity: 1;
-    transform: scale(1);
+    font-size: 18px;
+    line-height: 1.45;
   }
 }
 
-#tile-projects,
-#tile-coaches,
-#tile-students {
+.bg--grey {
+  background-color: $grey;
+}
+
+
+.landing-teasers {
+  margin: 2em 0 3em;
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+}
+.landing-teaser {
+  padding-right: 2rem;
+  &:last-child {
+    padding-right: none;
+  }
+
+  div {
+    padding: 1em;
+  }
   a {
-    min-height: 2 * $single-height;
-    background: {
-      size: cover;
-      position: center center;
+    display: block;
+    min-height: 30rem;
+    background-color: $white;
+    p {
+      color: $black;
+    }
+    &:hover {
+      text-decoration: none;
     }
   }
-}
-
-#tile-students {
-  a {
-    background-image: url(../images/workshop1_small.png);
+  figure {
+    height: 16rem;
+    overflow: hidden;
   }
-}
-
-#tile-coaches {
-  a {
-    background-image: url(../images/coach.jpg);
+  figcaption {
+    display: none;
+    border: solid 1px $white;
   }
-}
-#tile-sponsors {
-  a {
-    min-height: $single-height * 1.2;
-    background-image: url(../images/goodypack2014.jpg);
+  h2 {
+    margin: .2em 0 .5em;
+    font-size: 22px;
   }
-}
-#tile-projects {
-  a {
-    background-image: url(../images/opensource_project.jpg);
+  p {
+    margin-bottom: 0;
+    line-height: 1.45;
   }
 }
 
 
-.section {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  border-top: 1px solid $grey;
+.landing-misc {
+  padding: 1em 0 3em;
 }
 
-.section--grey {
-  background: $grey;
+.bg--white {
+
 }

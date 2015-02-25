@@ -1,10 +1,19 @@
 ---
 ---
 
-@import url(http://fonts.googleapis.com/css?family=Lato:300);
+@import url(http://fonts.googleapis.com/css?family=Lato:400);
 @import "shariff.min";
 @import "bootstrap";
 @import "layout";
 @import "landing";
 @import "donations";
 @import "sponsors";
+@import "team";
+
+{% for package in site.data.packages %}
+  {% for sponsor in package.sponsors %}
+    .sponsors .{{ sponsor.id }} {
+      background-image: url(../../img/sponsors/{{ sponsor.id }}.png);
+    }
+  {% endfor %}
+{% endfor %}

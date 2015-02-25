@@ -5,21 +5,14 @@
 #sponsors {
 
   h3 {
-    margin-bottom: 2em;
-    font-size: 26px;
+    margin-bottom: 1em;
+    font-size: 30px;
     color: $white;
+    text-transform: uppercase;
   }
   h4 {
-    position: absolute;
-    left: -25px;
-    margin: 0;
-    text-align: right;
-    text-transform: capitalize;
-    font-size: 0.8em;
-    font-weight: normal;
-    color: #ddd;
-    transform: rotate(270deg);
-    transform-origin: left top;
+    font-size: 16px;
+    margin-bottom: .5em;
   }
   ul {
     margin: 0;
@@ -30,6 +23,14 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+  }
+
+  li ul li {
+    display: inline-block;
+    margin-right: 2rem;
+    &:last-child {
+      margin-right: 0;
+    }
   }
 
   .partners h4,
@@ -47,7 +48,6 @@
     overflow: hidden;
     border-radius: 5px;
     margin-right: 1em;
-    margin-bottom: 0.8em;
     background: $white center center no-repeat;
     background-size: 100%;
   }
@@ -119,7 +119,6 @@
 }
 
 
-
 #sponsors .gold h4 {
   top: 125px;
 }
@@ -149,81 +148,3 @@
   height: 61px;
   background-size: 151px;
 }
-
-
-.sponsors {
-  .anynines     { background-image: url(../../img/sponsors/anynines.png); }
-  .articulate   { background-image: url(../../img/sponsors/articulate.png); }
-  .agileanimal  { background-image: url(../../img/sponsors/agileanimal.png); }
-  .aupair       { background-image: url(../../img/sponsors/aupair.png); }
-  .basecamp     { background-image: url(../../img/sponsors/basecamp.png); }
-  .bendyworks   { background-image: url(../../img/sponsors/bendyworks.png); }
-  .carbonfive   { background-image: url(../../img/sponsors/carbonfive.png); }
-  .carnesmedia  { background-image: url(../../img/sponsors/carnesmedia.png); }
-  .cloudcontrol { background-image: url(../../img/sponsors/cloudcontrol.png); }
-  .codegram     { background-image: url(../../img/sponsors/codegram.png); }
-  .cognitect    { background-image: url(../../img/sponsors/cognitect.png); }
-  .confreaks    { background-image: url(../../img/sponsors/confreaks.png); }
-  .dawanda      { background-image: url(../../img/sponsors/dawanda.png); }
-  .de_messe     { background-image: url(../../img/sponsors/de_messe.png); }
-  .digitalocean { background-image: url(../../img/sponsors/digitalocean.png); }
-  .dockyard     { background-image: url(../../img/sponsors/dockyard.png); }
-  .engineyard   { background-image: url(../../img/sponsors/engineyard.png); }
-  .envato       { background-image: url(../../img/sponsors/envato.png); }
-  .frontfoot    { background-image: url(../../img/sponsors/frontfoot.png); }
-  .github       { background-image: url(../../img/sponsors/github.png); }
-  .gnip         { background-image: url(../../img/sponsors/gnip.png); }
-  .google       { background-image: url(../../img/sponsors/google-2014.png); }
-  .groupon      { background-image: url(../../img/sponsors/groupon.png); }
-  .hashrocket   { background-image: url(../../img/sponsors/hashrocket.png); }
-  .hitfox       { background-image: url(../../img/sponsors/hitfox.png); }
-  .honeybadger  { background-image: url(../../img/sponsors/honeybadger.png); }
-  .innoq        { background-image: url(../../img/sponsors/innoq.png); }
-  .jumpstart    { background-image: url(../../img/sponsors/jumpstart.png); }
-  .keenio       { background-image: url(../../img/sponsors/keenio.png); }
-  .innoq        { background-image: url(../../img/sponsors/innoq.png); }
-  .malwarebytes { background-image: url(../../img/sponsors/malwarebytes.png); }
-  .nedap        { background-image: url(../../img/sponsors/nedap.png); }
-  .nuggad       { background-image: url(../../img/sponsors/nuggad.png); }
-  .newrelic     { background-image: url(../../img/sponsors/newrelic.png); }
-  .orcasnet     { background-image: url(../../img/sponsors/orcasnet.png); }
-  .paymill      { background-image: url(../../img/sponsors/paymill.png); }
-  .pivotal      { background-image: url(../../img/sponsors/pivotal.png); }
-  .planio       { background-image: url(../../img/sponsors/planio.png); }
-  .rackspace    { background-image: url(../../img/sponsors/rackspace.png); }
-  .readmill     { background-image: url(../../img/sponsors/readmill.png); }
-  .shopify      { background-image: url(../../img/sponsors/shopify.png); }
-  .site5        { background-image: url(../../img/sponsors/site5.png); }
-  .soundcloud   { background-image: url(../../img/sponsors/soundcloud.png); }
-  .supadupa     { background-image: url(../../img/sponsors/supadupa.png); }
-  .tealeaf      { background-image: url(../../img/sponsors/tealeaf.png); }
-  .thoughtworks { background-image: url(../../img/sponsors/thoughtworks.png); }
-  .tilde        { background-image: url(../../img/sponsors/tilde.png); }
-  .toptal       { background-image: url(../../img/sponsors/toptal.png); }
-  .travis       { background-image: url(../../img/sponsors/travis-2014.png); }
-  .turing       { background-image: url(../../img/sponsors/turing.png); }
-  .upworthy     { background-image: url(../../img/sponsors/upworthy.png); }
-  .wimdu        { background-image: url(../../img/sponsors/wimdu.png); }
-  .wooga        { background-image: url(../../img/sponsors/wooga.png); }
-  .zweitag      { background-image: url(../../img/sponsors/zweitag.png); }
-
-  .arrrrcamp       { background-image: url(../../img/confs/arrrrcamp.png); }
-  .devcon          { background-image: url(../../img/confs/devcon.png); }
-  .distill         { background-image: url(../../img/confs/distill.png); }
-  .dotrb           { background-image: url(../../img/confs/dotrb.png); }
-  .eurucamp        { background-image: url(../../img/confs/eurucamp.png); }
-  .futurestack     { background-image: url(../../img/confs/futurestack.png); }
-  .jrubyconfeu     { background-image: url(../../img/confs/jrubyconfeu.png); }
-  .madisonruby     { background-image: url(../../img/confs/madisonruby.png); }
-  .railsisrael     { background-image: url(../../img/confs/railsisrael.png); }
-  .rubyshift       { background-image: url(../../img/confs/rubyshift.png); }
-  .rupy            { background-image: url(../../img/confs/rupy2.png); }
-  .socoded         { background-image: url(../../img/confs/socoded.png); }
-  .startech        { background-image: url(../../img/confs/startech.png); }
-  .strangeloop     { background-image: url(../../img/confs/strangeloop.png); }
-  .wickedgoodruby  { background-image: url(../../img/confs/wickedgoodruby.png); }
-  .cssconf         { background-image: url(../../img/confs/cssconf.png); }
-  .roguerails      { background-image: url(../../img/confs/roguerails.png); }
-  .bubbleconf      { background-image: url(../../img/confs/bubbleconf.png); }
-}
-

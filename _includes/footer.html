@@ -1,12 +1,12 @@
   <footer class="footer" id="footer">
-    <div class="row">
+    <div class="row footer-child">
       <div class="container" id="sponsors">
         {% if page.sponsors %}
           {% include sponsors_footer.html %}
         {% endif %}
       </div>
     </div>
-    <div class="row">
+    <div class="row footer-child">
       <div class="container">
         <div class="col-sm-3 col-x">
           <p>&#10084; artwork by <a href="http://www.ejaculesc.com/" target="_blank">Rebecca Conrad</a></p>
@@ -47,9 +47,13 @@
 
 <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
 <script src="{{ site.baseurl }}/assets/javascripts/shariff.min.js"></script>
+<script src="{{ site.baseurl }}/assets/javascripts/date.format.js"></script>
 <!-- <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/bootstrap.js"></script> -->
 <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/main.js"></script>
-<!-- <script src="/js/main.js"></script> -->
+<script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/team.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/cities.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/donation.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/pagination.js"></script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
