@@ -115,6 +115,15 @@
       years:
         - 2014
         - 2015
+    - name: Keenio
+      id: keenio
+      url: http://keen.io
+      text: |-
+        <a href="http://keen.io/" target="_blank">Keen IO</a> is an analytics API for
+        the modern developer. Use Keen IO to collect JSON events from any source and
+        make charts, graphs, and reports based on the data you've collected. We're a
+        big supporter for equality and diversity initiatives in technology and are very
+        proud to be a part of the Rails Girls Summer of Code program.
 
     # - name: Soundcloud
     #   id: soundcloud
@@ -278,15 +287,6 @@
     #     catch. As a company we are deeply invested in the developer community and
     #     believe brilliant code can change the world. That's why we are proud supporters
     #     of the Rails Girls Summer of Code, its participants, and its mission.
-    # - name: Keenio
-    #   id: keenio
-    #   url: http://keen.io
-    #   text: |-
-    #     <a href="http://keen.io/" target="_blank">Keen IO</a> is an analytics API for
-    #     the modern developer. Use Keen IO to collect JSON events from any source and
-    #     make charts, graphs, and reports based on the data you've collected. We're a
-    #     big supporter for equality and diversity initiatives in technology and are very
-    #     proud to be a part of the Rails Girls Summer of Code program.
     # - name: Innoq
     #   id: innoq
     #   url: http://www.innoq.com
