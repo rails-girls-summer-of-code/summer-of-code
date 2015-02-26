@@ -33,10 +33,7 @@
     {% if page.abstract %}<meta property="twitter:description" content="{{ page.abstract }}" />{% endif %}
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/css/normalize.min.css">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/css/donations.css">
-    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ "/assets/stylesheets/style-2014.css" | prepend: site.baseurl }}">
     <link rel="alternate" type="application/atom+xml" href="http://railsgirlssummerofcode.org/blog.xml"/>
 
     {% if page.stripe %}
@@ -69,7 +66,7 @@
           </ul>
         </li>
         <li><a href="/blog" {% if page.current == 'blog' %}class="current-page"{% endif %}>Blog</a></li>
-        <li><a href="#" {% if page.current == 'get-involved' %}class="current-page"{% endif %}>Get Involved</a>
+        <li><a href="/get-involved" {% if page.current == 'get-involved' %}class="current-page"{% endif %}>Get Involved</a>
         <ul>
           <li><a href="/guide/coaching" {% if page.current == 'coaching' %}class="current-page"{% endif %}>Become a Coach</a></li>
           <li><a href="/guide/projects" {% if page.current == 'projects' %}class="current-page"{% endif %}>Become a Project Mentor</a></li>

@@ -735,12 +735,31 @@ background-size: cover;
   background: white center center no-repeat;
   background-size: 100%;
 }
+.sponsors a div {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+  margin: 3px;
+}
+.sponsors a i:before {
+  content: "\f005";
+  display: block;
+  float: right;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-size: 12px;
+  color: #d82222;
+  margin: 3px 4px 3px 0px;
+}
 .sponsors a:last-child {
   margin-right: 0;
 }
+#sponsors .partners h4,
 #sponsors .platinum h4 {
   top: 175px;
 }
+.sponsors.partners a,
 .sponsors.platinum a {
   width: 320px;
   height: 181px;
@@ -805,6 +824,12 @@ background-size: cover;
   right: -44px;
   width: 70px;
 }
+{% for package site.data.packages %}
+  {% for sponsor package.sponsors %}
+    {{ sponsor.name }}
+  {% endfor %}
+{% endfor %}
+
 .sponsors .anynines     { background-image: url(../img/sponsors/anynines.png); }
 .sponsors .articulate   { background-image: url(../img/sponsors/articulate.png); }
 .sponsors .agileanimal  { background-image: url(../img/sponsors/agileanimal.png); }
@@ -854,6 +879,7 @@ background-size: cover;
 .sponsors .tilde        { background-image: url(../img/sponsors/tilde.png); }
 .sponsors .toptal       { background-image: url(../img/sponsors/toptal.png); }
 .sponsors .travis       { background-image: url(../img/sponsors/travis-2014.png); }
+.sponsors .turing       { background-image: url(../img/sponsors/turing.png); }
 .sponsors .upworthy     { background-image: url(../img/sponsors/upworthy.png); }
 .sponsors .wimdu        { background-image: url(../img/sponsors/wimdu.png); }
 .sponsors .wooga        { background-image: url(../img/sponsors/wooga.png); }

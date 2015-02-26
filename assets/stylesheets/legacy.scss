@@ -38,7 +38,7 @@ section.main {
   text-shadow: none;
 }
 p {
-   line-height: 1.7; 
+   line-height: 1.7;
 }
 p + ul {
   margin-top: 2em;
@@ -75,7 +75,7 @@ textarea {
 
 .wrapper-blog h1 {
   margin: .3em 0 .5em;
-  line-height: 1.3; 
+  line-height: 1.3;
   color: #444;
 }
 .blog h1 a { color: #d82222; }
@@ -130,6 +130,9 @@ textarea {
 .blog-share-widget {
   display: inline-block;
   margin-right: 1em;
+}
+.paginator {
+  text-align: center;
 }
 
 /* ===== Initializr Styles ==================================================
@@ -252,7 +255,7 @@ textarea {
   bottom: 0;
   height: 55px;
   width: 100%;
-  background: url(../img/wavy-border.png) repeat-x;
+  background: url(../../../img/wavy-border.png) repeat-x;
 }
 .hero {
   min-height: 24em;
@@ -273,7 +276,7 @@ textarea {
   width: 48px;
   height: 35px;
   z-index: 80;
-  background: url(../img/squiggly-line.png) no-repeat;
+  background: url(../../../img/squiggly-line.png) no-repeat;
 
 }
 .hero-claim {
@@ -310,13 +313,13 @@ textarea {
   width: 15px;
   height: 14px;
   margin: 0 1.3em;
-  background: url(../img/star-red.png) no-repeat;
+  background: url(../../../img/star-red.png) no-repeat;
 }
 .sponsors-starrow {
   width: 435px;
   height: 19px;
   display: inline-block;
-  background: url(../img/starsrow.png) no-repeat;
+  background: url(../../../img/starsrow.png) no-repeat;
 }
 
 /* ===================
@@ -428,7 +431,7 @@ h3 {
 }
 .page-team article { min-height: 15em; }
 .page-team article.is-loading {
-  background-image: url('/img/ajax-loader.gif');
+  background-image: url('../../../img/ajax-loader.gif');
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -506,7 +509,7 @@ h3 {
    ============ */
 
 .logo-nav {
-  background-image: url(../img/sprites/logo_subnavi.png);
+  background-image: url(../../../img/sprites/logo_subnavi.png);
   background-repeat: no-repeat;
   background-position: 0px 7px;
   width: 210px;
@@ -522,7 +525,7 @@ h3 {
   height: 58px;
 }
 .logo {
-    background-image: url(../img/sprites/logo_subnavi.png);
+    background-image: url(../../../img/sprites/logo_subnavi.png);
     background-repeat: no-repeat;
     background-position: 0px 40px;
     margin: 1em 0em 0em;
@@ -547,7 +550,7 @@ h3 {
 .scribble6, .scribble7, .scribble8, .scribble9, .scribble10,
 .scribble11, .scribble12, .scribble13, .scribble14, .scribble15,
 .scribble16, .scribble17, .scribble18 {
-  background-image: url(../img/scribbles.png);
+  background-image: url(../../../img/scribbles.png);
   background-repeat: no-repeat;
   min-width: 200px;
   min-height: 250px;
@@ -571,7 +574,7 @@ h3 {
 .scribble16 { background-position: 30px -3750px; }
 .scribble17 { background-position: 30px -4000px; }
 .scribble18 { background-position: 30px -4250px; }
-.scribble_coins3 { background-image: url(../img/scribble_coins3.png) }
+.scribble_coins3 { background-image: url(../../../img/scribble_coins3.png) }
 
 /*  Allign scribble with video */
 .index .scribble1 {
@@ -693,6 +696,11 @@ h3 {
   padding: 0;
   list-style-type: none;
 }
+#sponsors ul > li > ul > li {
+  display: inline-block;
+  margin-right: 1em;
+  margin-bottom: 0.8em;
+}
 #sponsors h4 {
   position: absolute;
   left: -25px;
@@ -726,17 +734,34 @@ h3 {
   display: inline-block;
   overflow: hidden;
   border-radius: 5px;
-  margin-right: 1em;
-  margin-bottom: 0.8em;
   background: white center center no-repeat;
   background-size: 100%;
+}
+.sponsors a .years {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+  margin: 3px;
+}
+.sponsors a i:before {
+  content: "\f005";
+  display: block;
+  float: right;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-size: 12px;
+  color: #d82222;
+  margin: 3px 4px 3px 0px;
 }
 .sponsors a:last-child {
   margin-right: 0;
 }
+#sponsors .partners h4,
 #sponsors .platinum h4 {
   top: 175px;
 }
+.sponsors.partners a,
 .sponsors.platinum a {
   width: 320px;
   height: 181px;
@@ -776,15 +801,15 @@ h3 {
   position: absolute;
   color: #FFF;
   line-height: 1;
-  padding: 1px 30px 4px 30px;
-  font-size: 9px;
+  padding: 4px 30px 5px 30px;
+  font-size: 12px;
   background-color: #BBB;
   transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
-.sponsors .lead-support:after {
-  content: "Lead support + organization";
+.sponsors .partner:after {
+  content: "Partner";
   top: 19px;
   right: -36px;
   width: 70px;
@@ -801,80 +826,6 @@ h3 {
   right: -44px;
   width: 70px;
 }
-.sponsors .anynines     { background-image: url(../img/sponsors/anynines.png); }
-.sponsors .articulate   { background-image: url(../img/sponsors/articulate.png); }
-.sponsors .agileanimal  { background-image: url(../img/sponsors/agileanimal.png); }
-.sponsors .aupair       { background-image: url(../img/sponsors/aupair.png); }
-.sponsors .basecamp     { background-image: url(../img/sponsors/basecamp.png); }
-.sponsors .bendyworks   { background-image: url(../img/sponsors/bendyworks.png); }
-.sponsors .carbonfive   { background-image: url(../img/sponsors/carbonfive.png); }
-.sponsors .carnesmedia  { background-image: url(../img/sponsors/carnesmedia.png); }
-.sponsors .cloudcontrol { background-image: url(../img/sponsors/cloudcontrol.png); }
-.sponsors .codegram     { background-image: url(../img/sponsors/codegram.png); }
-.sponsors .cognitect    { background-image: url(../img/sponsors/cognitect.png); }
-.sponsors .confreaks    { background-image: url(../img/sponsors/confreaks.png); }
-.sponsors .dawanda      { background-image: url(../img/sponsors/dawanda.png); }
-.sponsors .de_messe     { background-image: url(../img/sponsors/de_messe.png); }
-.sponsors .digitalocean { background-image: url(../img/sponsors/digitalocean.png); }
-.sponsors .dockyard     { background-image: url(../img/sponsors/dockyard.png); }
-.sponsors .engineyard   { background-image: url(../img/sponsors/engineyard.png); }
-.sponsors .envato       { background-image: url(../img/sponsors/envato.png); }
-.sponsors .frontfoot    { background-image: url(../img/sponsors/frontfoot.png); }
-.sponsors .github       { background-image: url(../img/sponsors/github.png); }
-.sponsors .gnip         { background-image: url(../img/sponsors/gnip.png); }
-.sponsors .google       { background-image: url(../img/sponsors/google-2014.png); }
-.sponsors .groupon      { background-image: url(../img/sponsors/groupon.png); }
-.sponsors .hashrocket   { background-image: url(../img/sponsors/hashrocket.png); }
-.sponsors .hitfox       { background-image: url(../img/sponsors/hitfox.png); }
-.sponsors .honeybadger  { background-image: url(../img/sponsors/honeybadger.png); }
-.sponsors .innoq        { background-image: url(../img/sponsors/innoq.png); }
-.sponsors .jumpstart    { background-image: url(../img/sponsors/jumpstart.png); }
-.sponsors .keenio       { background-image: url(../img/sponsors/keenio.png); }
-.sponsors .innoq        { background-image: url(../img/sponsors/innoq.png); }
-.sponsors .malwarebytes { background-image: url(../img/sponsors/malwarebytes.png); }
-.sponsors .nedap        { background-image: url(../img/sponsors/nedap.png); }
-.sponsors .nuggad       { background-image: url(../img/sponsors/nuggad.png); }
-.sponsors .newrelic     { background-image: url(../img/sponsors/newrelic.png); }
-.sponsors .orcasnet     { background-image: url(../img/sponsors/orcasnet.png); }
-.sponsors .paymill      { background-image: url(../img/sponsors/paymill.png); }
-.sponsors .pivotal      { background-image: url(../img/sponsors/pivotal.png); }
-.sponsors .planio       { background-image: url(../img/sponsors/planio.png); }
-.sponsors .rackspace    { background-image: url(../img/sponsors/rackspace.png); }
-.sponsors .readmill     { background-image: url(../img/sponsors/readmill.png); }
-.sponsors .shopify      { background-image: url(../img/sponsors/shopify.png); }
-.sponsors .site5        { background-image: url(../img/sponsors/site5.png); }
-.sponsors .soundcloud   { background-image: url(../img/sponsors/soundcloud.png); }
-.sponsors .supadupa     { background-image: url(../img/sponsors/supadupa.png); }
-.sponsors .tealeaf      { background-image: url(../img/sponsors/tealeaf.png); }
-.sponsors .thoughtworks { background-image: url(../img/sponsors/thoughtworks.png); }
-.sponsors .tilde        { background-image: url(../img/sponsors/tilde.png); }
-.sponsors .toptal       { background-image: url(../img/sponsors/toptal.png); }
-.sponsors .travis       { background-image: url(../img/sponsors/travis-2014.png); }
-.sponsors .upworthy     { background-image: url(../img/sponsors/upworthy.png); }
-.sponsors .wimdu        { background-image: url(../img/sponsors/wimdu.png); }
-.sponsors .wooga        { background-image: url(../img/sponsors/wooga.png); }
-.sponsors .zweitag      { background-image: url(../img/sponsors/zweitag.png); }
-
-
-.sponsors .arrrrcamp       { background-image: url(../img/confs/arrrrcamp.png); }
-.sponsors .devcon          { background-image: url(../img/confs/devcon.png); }
-.sponsors .distill         { background-image: url(../img/confs/distill.png); }
-.sponsors .dotrb           { background-image: url(../img/confs/dotrb.png); }
-.sponsors .eurucamp        { background-image: url(../img/confs/eurucamp.png); }
-.sponsors .futurestack     { background-image: url(../img/confs/futurestack.png); }
-.sponsors .jrubyconfeu     { background-image: url(../img/confs/jrubyconfeu.png); }
-.sponsors .madisonruby     { background-image: url(../img/confs/madisonruby.png); }
-.sponsors .railsisrael     { background-image: url(../img/confs/railsisrael.png); }
-.sponsors .rubyshift       { background-image: url(../img/confs/rubyshift.png); }
-.sponsors .rupy            { background-image: url(../img/confs/rupy2.png); }
-.sponsors .socoded         { background-image: url(../img/confs/socoded.png); }
-.sponsors .startech        { background-image: url(../img/confs/startech.png); }
-.sponsors .strangeloop     { background-image: url(../img/confs/strangeloop.png); }
-.sponsors .wickedgoodruby  { background-image: url(../img/confs/wickedgoodruby.png); }
-.sponsors .cssconf         { background-image: url(../img/confs/cssconf.png); }
-.sponsors .roguerails      { background-image: url(../img/confs/roguerails.png); }
-.sponsors .bubbleconf      { background-image: url(../img/confs/bubbleconf.png); }
-
 
 .nerdies img {
   width: 100%;
@@ -924,7 +875,7 @@ h3 {
   width: 15px;
   height: 14px;
   margin: 0 .8em 0 0;
-  background: url(../img/star-red.png) no-repeat;
+  background: url(../../../img/star-red.png) no-repeat;
 }
 .sponsors-container {
   padding-top: 2em;
@@ -963,7 +914,7 @@ h3 {
       width: 80%;
     }
     .logo {
-       background-image: url(../img/sprites/logo_start.png);
+       background-image: url(../../../img/sprites/logo_start.png);
        background-position: 0px 0px;
        margin: 1em 0em 3em;
        width: 675px;
@@ -989,7 +940,7 @@ h3 {
   .media .img {float:left; margin-right: 10px;}
 
   .logo {
-    background-image: url(../img/sprites/logo_start.png);
+    background-image: url(../../../img/sprites/logo_start.png);
     background-position: 0px 0px;
     margin: 1em 0em 3em;
     width: 675px;
@@ -1002,7 +953,7 @@ h3 {
     margin-right: -3em;
     padding-right: 8em;
     /* padding-top: 3em; */
-    background: url(../img/scribbles-frontpage.png) no-repeat scroll 52% 0% transparent;
+    background: url(../../../img/scribbles-frontpage.png) no-repeat scroll 52% 0% transparent;
   }
   .nav-primary > ul {
     margin-top: 5em;
@@ -1053,7 +1004,7 @@ h3 {
   .hamburger { display: none; }
   .header-container.is-open .nav-primary > ul {
     display: block;
-    height: auto 
+    height: auto
   }
   .nav-primary > ul {
     display: block;
@@ -1080,7 +1031,7 @@ h3 {
     right: -27px;
     width: 40px;
     height: 20px;
-    background: url(/img/star.png) top left no-repeat;
+    background: url(../../../img/star.png) top left no-repeat;
   }
   .nav-primary > ul > li:last-of-type:after {
     display: none;
@@ -1090,7 +1041,7 @@ h3 {
     text-decoration: underline;
   }
   .nav-primary > ul > li > a.current-page:after {
-    background-image: url(../img/sprites/nav_active_arrow.png);
+    background-image: url(../../../img/sprites/nav_active_arrow.png);
     background-repeat: no-repeat;
     background-position: center 41px;
     text-decoration: none;
@@ -1186,3 +1137,5 @@ h3 {
 .clearfix {
     *zoom: 1;
 }
+
+

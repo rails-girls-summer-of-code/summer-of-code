@@ -43,7 +43,7 @@ Applications to Rails Girls Summer of Code are open to anyone who:
 * Can spend 3 months (July to September 2015) working **fulltime** on their Open Source project of
   choice.
 
-You **do** not have to be a student at a University to apply, and there are
+You do **not** have to be a student at a University to apply, and there are
 certainly no degree or age limitations.
 
 <h2 id="components">What Do You Need to Apply?</h2>
@@ -82,8 +82,8 @@ For more advice on finding a team mate and coach, take a look at the <a hre="#fi
 
 Working at a desk next to your team pair and to your coaches is a great scenario. If you have access to a team of coaches who can share the load it is ideal. You will need an environment beneficial to dedicating yourself to your project for 3 months.
 
-This could be your home, a co-working space, or your current work office. As
-long as you are safe and productive, you can choose where you will work.
+This could be your home, a co-working space, your current work office or a <a href="/guide/coaching-company">Coaching Company</a>. As
+long as you are safe and productive, you can choose where you will work. 
 
 <h3 id="projectplan">A Project Plan</h3>
 
@@ -204,9 +204,9 @@ Here is the basic checklist for your application:
 * Read this Application Guide carefully
 * Find a Pair
 * Find a Project
-* Find Coaches
-* Find a Workspace
-* Agree to the Requirements for Participating in the Program
+* Find Coaches 
+* Find a Workspace or Coaching Company
+* Agree with Requirements for Participating in the Program
 
 <!--
 All set? Then go! Apply now here:
