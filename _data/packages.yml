@@ -57,7 +57,7 @@
         - 2015
     - name: Google
       id: google
-      url: https://developers.google.com
+      url: https://developers.google.com/open-source/
       text: |-
         <a href="https://developers.google.com/open-source/" target="_blank">Google</a>
         is a multinational corporation specializing in Internet-related services and
