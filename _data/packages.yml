@@ -77,6 +77,13 @@
     - name: Turing School of Software & Design
       id: turing
       url: http://turing.io
+      text: |-
+        <a href="http://turing.io/" target="_blank">Turing School of Software &
+        Design</a> offers a seven-month combination of in-depth curriculum and hands-on
+        instruction that turns people from diverse backgrounds into professional
+        developers. Turing is proud to sponsor Rails Girls Summer of Code because we
+        are committed to collaborating with others working to open the world of
+        programming to more great people!
       years:
         - 2015
 
