@@ -509,13 +509,14 @@ h3 {
    ============ */
 
 .logo-nav {
-  background-image: url(../img/sprites/logo_subnavi.png);
-  background-repeat: no-repeat;
-  background-position: 0px 7px;
-  width: 210px;
-  height: 58px;
-  text-indent: 100%;
-  overflow: hidden;
+background-image: url(../img/sprites/logo_subnavi.png);
+background-repeat: no-repeat;
+background-position: 0px 1px;
+width: 200px;
+height: 60px;
+text-indent: 100%;
+overflow: hidden;
+background-size: cover;
 }
 .logo-nav a {
   overflow: hidden;
