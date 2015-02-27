@@ -18,7 +18,7 @@ a:active {
 }
 
 .logo-small {
-  margin: 0.3rem 0 0;
+  margin: 0.9rem 0 0;
   width: 205px;
   height: 50px;
   overflow: hidden;
@@ -27,16 +27,13 @@ a:active {
     height: 100%;
     width: 100%;
     background: {
-      image: url(../images/logo.png);
+      image: url(../../img/sprites/logo_subnavi.png);
       repeat: no-repeat;
       size: cover;
       position: center center
     }
     text-indent: 999%;
     white-space: nowrap;
-  }
-  @media (min-resolution: 150dpi) {
-    a { background-image: url(../images/logo@2x.png); }
   }
 }
 
