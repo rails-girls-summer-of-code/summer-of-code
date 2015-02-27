@@ -464,13 +464,14 @@ h3 {
    ============ */
 
 .logo-nav {
-  background-image: url(../../../img/sprites/logo_subnavi.png);
-  background-repeat: no-repeat;
-  background-position: 0px 7px;
-  width: 210px;
-  height: 58px;
-  text-indent: 100%;
-  overflow: hidden;
+background-image: url(../../../img/sprites/logo_subnavi.png);
+background-repeat: no-repeat;
+background-position: 0px 4px;
+width: 178px;
+height: 58px;
+text-indent: 100%;
+overflow: hidden;
+background-size: cover;
 }
 .logo-nav a {
   overflow: hidden;
@@ -480,14 +481,14 @@ h3 {
   height: 58px;
 }
 .logo {
-    background-image: url(../../../img/sprites/logo_subnavi.png);
-    background-repeat: no-repeat;
-    background-position: 0px 40px;
-    margin: 1em 0em 0em;
-    width: 320px;
-    height: 100px;
-    text-indent: 99em;
-    overflow: hidden;
+background-image: url(../../../img/sprites/logo_subnavi.png);
+background-repeat: no-repeat;
+background-position: 0px 4px;
+width: 178px;
+height: 58px;
+text-indent: 100%;
+overflow: hidden;
+background-size: cover;
 }
 
 /* ====== media ====== */

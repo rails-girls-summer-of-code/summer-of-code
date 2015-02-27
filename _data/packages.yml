@@ -57,7 +57,7 @@
         - 2015
     - name: Google
       id: google
-      url: https://developers.google.com
+      url: https://developers.google.com/open-source/
       text: |-
         <a href="https://developers.google.com/open-source/" target="_blank">Google</a>
         is a multinational corporation specializing in Internet-related services and
@@ -77,6 +77,13 @@
     - name: Turing School of Software & Design
       id: turing
       url: http://turing.io
+      text: |-
+        <a href="http://turing.io/" target="_blank">Turing School of Software &
+        Design</a> offers a seven-month combination of in-depth curriculum and hands-on
+        instruction that turns people from diverse backgrounds into professional
+        developers. Turing is proud to sponsor Rails Girls Summer of Code because we
+        are committed to collaborating with others working to open the world of
+        programming to more great people!
       years:
         - 2015
 
@@ -108,6 +115,15 @@
       years:
         - 2014
         - 2015
+    - name: Keenio
+      id: keenio
+      url: http://keen.io
+      text: |-
+        <a href="http://keen.io/" target="_blank">Keen IO</a> is an analytics API for
+        the modern developer. Use Keen IO to collect JSON events from any source and
+        make charts, graphs, and reports based on the data you've collected. We're a
+        big supporter for equality and diversity initiatives in technology and are very
+        proud to be a part of the Rails Girls Summer of Code program.
 
     # - name: Soundcloud
     #   id: soundcloud
@@ -271,15 +287,6 @@
     #     catch. As a company we are deeply invested in the developer community and
     #     believe brilliant code can change the world. That's why we are proud supporters
     #     of the Rails Girls Summer of Code, its participants, and its mission.
-    # - name: Keenio
-    #   id: keenio
-    #   url: http://keen.io
-    #   text: |-
-    #     <a href="http://keen.io/" target="_blank">Keen IO</a> is an analytics API for
-    #     the modern developer. Use Keen IO to collect JSON events from any source and
-    #     make charts, graphs, and reports based on the data you've collected. We're a
-    #     big supporter for equality and diversity initiatives in technology and are very
-    #     proud to be a part of the Rails Girls Summer of Code program.
     # - name: Innoq
     #   id: innoq
     #   url: http://www.innoq.com
