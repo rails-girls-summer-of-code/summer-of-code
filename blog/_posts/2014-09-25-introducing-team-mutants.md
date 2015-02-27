@@ -16,7 +16,7 @@ Yeah Mutants. We hit upon this name because we're huge fans of X Men :-P We're s
 **Akshata:** I attended Garden City Ruby Conf beginning of this year in January. And from then on meetups, more conferences and blog posts helped me get introduced to Open Source. I came to know of Rails Girls Summer of Code in March and thought of giving it a go. Started learning Rails
 using online tutorials and applied to RGSoC! And you know the rest ;-)
 
-![team picture](/img/mutants-2014.jpg)
+![team picture](/img/blog/2014/introducting-team-mutants.jpg)
 
 ##What we are working on
 

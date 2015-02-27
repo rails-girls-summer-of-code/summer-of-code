@@ -33,10 +33,7 @@
     {% if page.abstract %}<meta property="twitter:description" content="{{ page.abstract }}" />{% endif %}
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/css/normalize.min.css">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/css/donations.css">
-    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ "/assets/stylesheets/style-2014.css" | prepend: site.baseurl }}">
     <link rel="alternate" type="application/atom+xml" href="http://railsgirlssummerofcode.org/blog.xml"/>
 
     {% if page.stripe %}
@@ -68,17 +65,18 @@
           </ul>
         </li>
         <li><a href="/blog" {% if page.current == 'blog' %}class="current-page"{% endif %}>Blog</a></li>
-        <li><a href="#" {% if page.current == 'get-involved' %}class="current-page"{% endif %}>Get Involved</a>
+        <li><a href="/get-involved" {% if page.current == 'get-involved' %}class="current-page"{% endif %}>Get Involved</a>
         <ul>
           <li><a href="/guide/coaching" {% if page.current == 'coaching' %}class="current-page"{% endif %}>Become a Coach</a></li>
           <li><a href="/guide/projects" {% if page.current == 'projects' %}class="current-page"{% endif %}>Become a Project Mentor</a></li>
           <li><a href="/guide/coaching-company" {% if page.current == 'coaching-company' %}class="current-page"{% endif %}>Coaching Company</a></li>
           <li><a href="/sponsors/packages" {% if page.current == 'sponsors' %}class="current-page"{% endif %}>Become a Sponsor</a></li>
+          <li><a href="/guide/supervisors" {% if page.current == 'supervisors' %}class="current-page"{% endif %}>Become a Supervisor</a></li>
         </ul>
         </li>
         <!-- <li><a href="/students/application" {% if page.current == 'application-guide' %}class="current-page"{% endif %}>Apply Now</a></li> -->
-        <li><a href="/students/application" {% if page.current == 'todo' %}class="current-page"{% endif %}>Students</a></li>
-        <li><a href="/guide/projects/" class="strong" {% if page.current == 'campaign' %}class="current-page"{% endif %}>Submit your Open Source project!</a></li>
+        <li><a href="/students" {% if page.current == 'students' %}class="current-page"{% endif %}>Students</a></li>
+        <li><a href="/guide/projects/" class="strong" {% if page.current == 'campaign' %}class="current-page"{% endif %}>CALL FOR PROJECTS!</a></li>
         <!--<li><a href="/campaign" class="strong" {% if page.current == 'campaign' %}class="current-page"{% endif %}>Please donate!</a></li>
         <a href="http://teams.railsgirlssummerofcode.org" class="strong">Teams &rarr;</a></li>-->
       </ul>
@@ -95,7 +93,9 @@
 
     <div class="footer-container">
       <footer id="sponsors" class="wrapper">
-
+        {% if page.sponsors %}
+          {% include sponsors_footer.html %}
+        {% endif %}
         <p style="clear: both">
           &hearts; artwork by <a href="http://www.ejaculesc.com/" target="_blank">Rebecca Conrad<a> <br>
           &copy; <a href="http://railsgirls.com">Rails Girls</a> {{ site.time | date: '%Y' }}
