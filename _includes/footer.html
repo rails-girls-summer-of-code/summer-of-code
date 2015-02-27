@@ -1,6 +1,6 @@
   <footer class="footer" id="footer">
     <div class="row footer-child">
-      <div class="container" id="sponsors">
+      <div class="container sponsor-container" id="sponsors">
         {% if page.sponsors %}
           {% include sponsors_footer.html %}
         {% endif %}
@@ -8,38 +8,22 @@
     </div>
     <div class="row footer-child">
       <div class="container">
-        <div class="col-sm-3 col-x">
-          <p>&#10084; artwork by <a href="http://www.ejaculesc.com/" target="_blank">Rebecca Conrad</a></p>
-          <p>&copy; <a href="http://railsgirls.com/" title="" target="_blank">Rails Girls</a> 2015</p>
-        </div>
-        <div class="col-sm-3 col-x">
-          <ul>
-            <li>
-              <a href="/about/imprint/" title="">Imprint</a>
-            </li>
-            <li>
-              <a href="/about/code-of-conduct/" title="">Code of Conduct</a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-sm-3 col-x">
-          <ul>
-            <li>
-              <a href="https://twitter.com/RailsGirlsSoC" title="">Twitter</a>
-            </li>
-            <li>
-              <a href="https://github.com/rails-girls-summer-of-code/summer-of-code" title="">Github</a>
-            </li>
-            <li>
-              <a href="mailto:" title="">Contact</a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-sm-3 col-x">
-          <ul>
-            <li><a href="http://railsgirls.us7.list-manage.com/subscribe?u=36677d2ea7383a950d149c68b&id=243f532f22" title="">Subscribe to our Newsletter</a></li>
-          </ul>
-        </div>
+        <h3>Get in touch with us</h3>
+        <ul class="list list--none list--hor">
+          <li><a href="/blog.xml"><i class="fa fa-rss"></i> Read our feed</a></li>
+          <li><a href="https://twitter.com/RailsGirlsSoC" target="_blank"><i class="fa fa-twitter"></i> Follow us on Twitter</a></li>
+          <li><a href="https://www.facebook.com/pages/Rails-Girls-Summer-of-Code/620914904656191" target="_blank"><i class="fa fa-facebook"></i> Find us on Facebook</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row footer-child">
+      <div class="container">
+        <p>
+          &copy; <a href="http://railsgirls.com/" title="" target="_blank">Rails Girls</a> 2015 &mdash; 
+          <a href="/about/code-of-conduct/" title="">Code of Conduct</a> | 
+          <a href="/about/sponsorship-guidelines/" title="">Sponsorship Guidelines</a> | 
+          <a href="/about/imprint/" title="">Imprint</a>
+        </p>
       </div>
     </div>
   </footer>

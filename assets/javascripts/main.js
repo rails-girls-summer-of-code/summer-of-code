@@ -55,5 +55,7 @@ $(document).ready(function() {
     $('#nav-toggle').toggleClass('is-open');
   });
 
+  $('.sponsors.partners > ul').append('<li class="sponsors-cta"><h3>The right place to be!</h3><a href="" class="arrow-link">become a sponsor</a></li>');
+
 });
 

@@ -39,16 +39,41 @@
 
 }
 
+.squiggly-line {
+  width: 48px;
+  height: 35px;
+  margin: auto;
+  background: url(../../../img/squiggly-line-transparent.png) no-repeat;
+}
+
+
+.arrow-link {
+  text-transform: uppercase;
+  font-size: 0.9em;
+  &:after {
+    content: "\2192";
+    display: inline-block;
+    margin-left: .5em;
+    vertical-align: top;
+    transition: margin 300ms linear;
+  }
+  &:hover {
+    &:after {
+      margin-left: 1em;
+    }
+  }
+}
 
 .landing-main {
+  padding-top: 2em;
   text-align: center;
-
-  a {
-    text-transform: uppercase;
-  }
+  color: #484848;
   p {
     font-size: 18px;
-    line-height: 1.45;
+    line-height: 1.65;
+  }
+  h2 {
+    margin-top: .5em;
   }
 }
 
@@ -56,14 +81,12 @@
   background-color: $grey;
 }
 
-
 .landing-teasers {
   margin: 2em 0 3em;
   img {
     width: 100%;
     height: auto;
   }
-
 }
 .landing-teaser {
   padding-right: 2rem;
@@ -71,8 +94,23 @@
     padding-right: none;
   }
 
+  &:first-child {
+    position: relative;
+    &:after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: -4em;
+      display: block;
+      width: 33px;
+      height: 44px;
+      background-image: url(../images/bird.png);
+    }
+  }
+
   div {
     padding: 1em;
+    border-top: .2em solid;
   }
   a {
     display: block;
@@ -105,7 +143,32 @@
 
 
 .landing-misc {
-  padding: 1em 0 3em;
+  padding: 2em 0 8em;
+
+  > div:nth-child(2) {
+    padding: 0 2em;
+    border-left: 2px solid $grey;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 22px;
+  }
+  p {
+    text-align: center;
+  }
+  hr {
+    width: 2em;
+    border: red solid 2px;
+  }
+  ul {
+    -moz-columns: 2;
+    columns: 2;
+  }
+  li {
+    margin-bottom: 0.7em;
+  }
 }
 
 .bg--white {

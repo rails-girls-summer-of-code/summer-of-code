@@ -2,8 +2,7 @@
    Sponsors
    ========================================================================== */
 
-#sponsors {
-
+.sponsor-container {
   h3 {
     margin-bottom: 1em;
     font-size: 30px;
@@ -41,7 +40,7 @@
 
 .sponsors {
   margin-bottom: 2em;
-
+  
   a {
     position: relative;
     display: inline-block;
@@ -147,4 +146,28 @@
   width: 151px;
   height: 61px;
   background-size: 151px;
+}
+
+.sponsors-cta {
+  vertical-align: top;
+  height: 182px;
+  padding-top: 2em;
+  overflow: hidden;
+  border: dashed $white 2px;
+  border-radius: 5px;
+  text-align: center;
+  a {
+    width: auto;
+    background: $red;
+    text-transform: uppercase;
+    &:after {
+      color: $white;
+    }
+  }
+  h3 {
+    margin-top: 2.5em;
+    text-transform: none;
+    font-size: 22px;
+  }
+
 }

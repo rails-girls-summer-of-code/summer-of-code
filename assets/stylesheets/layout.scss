@@ -13,23 +13,30 @@ a:active {
   text-decoration: underline;
 }
 
+.color-red {
+  color: $red;
+}
+
 .logo-small {
   margin: 0.3rem 0 0;
-  width: 20rem;
-  height: 4.9rem;
+  width: 205px;
+  height: 50px;
   overflow: hidden;
   a {
     display: block;
     height: 100%;
     width: 100%;
     background: {
-      image: url(../../img/logo.png);
+      image: url(../images/logo.png);
       repeat: no-repeat;
       size: cover;
       position: center center
     }
     text-indent: 999%;
     white-space: nowrap;
+  }
+  @media (min-resolution: 150dpi) {
+    a { background-image: url(../images/logo@2x.png); }
   }
 }
 
@@ -96,7 +103,7 @@ a:active {
     }
   }
   li:first-child a {
-    padding-left: 0;
+    margin-left: -0.5em;
   }
   li {
     margin-right: 1.5em;
@@ -169,6 +176,7 @@ a.button-burger {
 }
 
 .footer {
+  position: relative;
   padding-top: 1rem;
   background-color: $red;
   color: $white;
@@ -191,10 +199,44 @@ a.button-burger {
   p {
     margin-bottom: 0;
   }
+  &:after {
+    content: "";
+    position: absolute;
+    top: -9%;
+    right: 20%;
+    display: block;
+    width: 199px;
+    height: 173px;
+    background-image: url(../images/megaphone.png);
+  }
 }
 .footer-child {
   &:first-child {
-    margin-bottom: 5em;
+    margin-bottom: 2em;
+  }
+  &:nth-child(2) {
+    .container {
+      border-top: 2px solid $white;
+    }
+  }
+  &:last-child {
+    margin-top: 2em;
+    padding: 1em 0;
+  }
+
+  h3 {
+    margin-bottom: 1em;
+  }
+  .list--hor {
+    font-size: 16px;
+    text-transform: uppercase;
+    li {
+      margin-right: 2em;
+    }
+    .fa {
+      margin-right: .3em;
+      font-size: 22px
+    }
   }
 }
 .content {
@@ -230,9 +272,9 @@ a.button-burger {
 .content--blog {
   .meta {
     margin: 2em 0;
-    color: $grey;
+    color: $dark-grey;
     a {
-      color: $grey;
+      color: $dark-grey;
       text-decoration: underline;
     }
   }
@@ -243,14 +285,14 @@ a.button-burger {
   article  {
     padding-bottom: 3em;
     margin-bottom: 4em;
-    border-bottom: 1px solid $grey;
+    border-bottom: 1px solid $dark-grey;
   }
 }
 
 .list--archive {
   li {
     padding: .2em 0;
-    border-bottom: 1px solid $grey;
+    border-bottom: 1px solid $dark-grey;
   }
 }
 
@@ -264,6 +306,11 @@ a.button-burger {
     width: 1em;
     text-align: center;
     margin-right: 0.5em;
+  }
+}
+.list--hor {
+  li {
+    display: inline-block;
   }
 }
 
