@@ -30,7 +30,7 @@ a:active {
       image: url(../../img/sprites/logo_subnavi.png);
       repeat: no-repeat;
       size: cover;
-      position: center center
+      position: -15px center;
     }
     text-indent: 999%;
     white-space: nowrap;
@@ -175,6 +175,7 @@ a.button-burger {
 .footer {
   position: relative;
   padding-top: 1rem;
+  margin-top: 10em;
   background-color: $red;
   color: $white;
   ul {
@@ -335,4 +336,8 @@ a.button-burger {
     color: $white;
     background: darken($red, 10)
   }
+}
+
+main.content {
+  padding: 2em;
 }
