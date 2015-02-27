@@ -6,7 +6,7 @@ var TeamMembers = function() {
 
 TeamMembers.prototype = {
 
-	queryUrl: 'http://teams.railsgirlssummerofcode.org/contributors.json',
+	queryUrl: 'https://teams.railsgirlssummerofcode.org/contributors.json',
 	queryData: {},
 	// for dynamic roles
 	//roles: [],
@@ -23,6 +23,8 @@ TeamMembers.prototype = {
 
 			}).fail(function() {
 				console.log('That didn\'t work. Maybe a CORS thing?');
+			}).always(function() {
+				console.log('fetching team members');
 			});
 	},
 	getRolesFromData: function(data) {
