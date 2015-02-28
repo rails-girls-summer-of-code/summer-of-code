@@ -42,7 +42,7 @@
 .squiggly-line {
   width: 48px;
   height: 35px;
-  margin: auto;
+  margin: 1em auto;
   background: url(../../../img/squiggly-line-transparent.png) no-repeat;
 }
 
@@ -143,11 +143,13 @@
 
 
 .landing-misc {
-  padding: 2em 0 2em;
+  padding: 4em 0 2em;
 
   > div:nth-child(2) {
-    padding: 0 2em;
     border-left: 2px solid $grey;
+  }
+  > div {
+    padding: 0 1.5em;
   }
 
   h3 {
