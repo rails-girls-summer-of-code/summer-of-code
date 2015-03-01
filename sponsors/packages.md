@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: campaign
 title: Sponsors
 class: page page-sponsors
 current: sponsors
+sponsors: yes
 stripe: yes
 permalink: /sponsors/packages/
 ---

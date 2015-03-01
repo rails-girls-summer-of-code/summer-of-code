@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: bootstrap
 title: Sponsors
 class: page page-sponsors
 current: sponsors
+stripe: yes
 permalink: sponsors/
 ---
-<script src="https://checkout.stripe.com/v2/checkout.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
 
 <section class="main container">
   <div class="wrapper clearfix">
@@ -29,11 +28,11 @@ permalink: sponsors/
         <div class="center-helper"><div class="sponsors-starrow"></div></div>
         <ul>
           {% for sponsor in package.sponsors %}
-            <li id="{{sponsor.id}}">
-              <div class="sponsors {{ package.name | downcase }} sponsors-logo">
+            <li id="{{sponsor.id}}" class="row">
+              <div class="sponsors {{ package.name | downcase }} sponsors-logo col-md-4">
                 <a href="{{ sponsor.url }}" class="{{ sponsor.id }}" target="_blank"></a>
               </div>
-              <div class="sponsors-text">
+              <div class="sponsors-text col-md-8">
                 <p>
                   {{ sponsor.text }}
                 </p>

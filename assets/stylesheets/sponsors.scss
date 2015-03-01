@@ -50,6 +50,9 @@
     background: $white center center no-repeat;
     background-size: 100%;
   }
+  a:hover {
+    text-decoration: none;
+  }
 
   a div {
     position: absolute;
@@ -170,4 +173,44 @@
     font-size: 22px;
   }
 
+}
+.hero-title {
+  text-align: center;
+  color: $red;
+  text-transform: uppercase;
+}
+.sponsors-intro {
+  margin-bottom: 5em;
+}
+.sponsors-list ul {
+  padding: 0;
+  margin: 2em 0 3em;
+  border-top: 1px solid lightgray;
+}
+.sponsors-list ul li {
+  overflow: auto;
+  clear: both;
+  list-style-type: none;
+  border-bottom: 1px solid lightgray;
+}
+.center-helper {
+  text-align: center;
+}
+.sponsors-logo {
+  margin: 1em 0;
+}
+.sponsors-container {
+  padding-top: 2em;
+}
+.sponsors-container h1 {
+  margin-bottom: 2em;
+  font-size: 26px;
+  color: white;
+  text-align: center;
+}
+.sponsors-container .wrapper {
+  margin-bottom: 0;
+}
+.sponsors-text {
+  padding-top: 1em;
 }

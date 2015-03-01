@@ -1,0 +1,79 @@
+
+#sponsor-packages {
+  float: left;
+}
+
+#sponsor-packages {
+  width: 100%;
+  margin-bottom: 0.5em;
+  padding-left: 0px;
+}
+#sponsor-packages li {
+  display: inline-block;
+  position: relative;
+  width: 230px;
+  /* height: 300px; */
+  vertical-align: top;
+  list-style-type: none;
+  border: 1px solid rgb(34, 34, 34);
+  border-radius: 4px;
+  padding: 5px 15px;
+  margin-right: 15px;
+  text-align: center;
+}
+#sponsor-packages li:last-child {
+  margin-right: 0;
+}
+#sponsor-packages li:before {
+  content: "";
+  color: white;
+}
+#sponsor-packages li {
+  padding-top: 20px;
+}
+#sponsor-packages h4 {
+  margin: 0 0 1em 0;
+  color: #444;
+}
+#sponsor-packages p {
+  text-align: left;
+}
+#sponsor-packages {
+  position: relative;
+}
+#sponsor-packages .button {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 180px;
+  margin-bottom: 15px;
+}
+#sponsor-packages a.button:active {
+  position: inherit;
+}
+.custom-donation {
+  margin-bottom: 0.5em;
+}
+.custom-donation .button {
+  position: relative;
+  top: -2px;
+}
+.custom-donation input[type=number] {
+  width: 110px;
+  height: 50px;
+  padding: 0px 10px;
+  margin-right: 0.5em;
+  font-size: 24px;
+}
+.footnote {
+  font-size: 90%;
+}
+.stripe-note {
+  margin-top: 0px;
+  font-size: 0.8em;
+  color: #bbb;
+}
+.stripe-note a {
+  color: #bbb;
+  text-decoration: underline;
+}
