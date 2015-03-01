@@ -59,7 +59,7 @@ Summer of Code is dedicated to supporting these students in completing their
 projects, and generally having a great learning experience.
 
 Students also are the <strong>only</strong> people who will be remunerated if
-accepted into the Summer of Code
+accepted into the Summer of Code, unless they are a volunteer team.
 
 <h3 id="coach">Coach</h3>
 
