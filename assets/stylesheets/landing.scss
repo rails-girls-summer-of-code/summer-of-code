@@ -93,7 +93,6 @@
   &:last-child {
     padding-right: none;
   }
-
   &:first-child {
     position: relative;
     &:after {
@@ -121,15 +120,43 @@
     }
     &:hover {
       text-decoration: none;
+      img {
+        transform: scale(1);
+        opacity: .5
+      }
+      figcaption {
+        opacity: 1;
+        transform: translate3d(0px, 0px, 0px) scale(1);
+      }
     }
   }
   figure {
+    position: relative;
     height: 15.9rem;
     overflow: hidden;
+    background-color: $red;
   }
   figcaption {
-    display: none;
-    border: solid 1px $white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 60%;
+    height: 30%;
+    opacity: 0;
+    border: $white solid 2px;
+    padding: 0.4em;
+    text-align: center;
+    color: $white;
+    text-transform: uppercase;
+    transform: translate3d(0px, 20px, 0px) scale(1.1);
+    transition: opacity 200ms linear,  transform 200ms linear;
+  }
+  img {
+    transform: scale(1.1);
+    transition: opacity 200ms linear, transform 200ms linear;
   }
   h2 {
     margin: .2em 0 .5em;
