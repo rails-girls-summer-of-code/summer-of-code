@@ -1,36 +1,35 @@
 ---
 layout: campaign
 title: Sponsors
-class: page page-sponsors
+class: page page-get-involved
 current: sponsors
 sponsors: yes
 stripe: yes
 permalink: /sponsors/packages/
 ---
 
-## Sponsorship Packages
+# Sponsorship Packages
 
 Rails Girls Summer of Code subsidises programming newcomers to learn and work
-on Open Source projects from July to September each year, and endows accepted
-students with up to USD 1500 per month, for three months.
+on Open Source projects from July to September each year. You can help make this
+a reality by sponsoring a package, or partnering with us.
+
+
+{% include sponsor_packages.html %}
+
 
 By providing this stipend, we enable students to dedicate themselves to their
 Open Source learning projects full-time. As a sponsor, you are a crucial part of
 providing the Summer of Code subsidies. Your sponsorship will enter a budget
 pool, from which the selected students will be paid.
 
-Sponsoring Rails Girls Summer of Code will make you feel warmer than a
-unicorn's belly, and fuzzier than the fuzziest tribble! But in all
-seriousness, warm fuzzies are just one nice side-effect you get.
+The program sees a huge amount of publicity from our student teams, coaches and
+organisers: be it on Twitter, Facebook, blogs or at conferences and local developers
+meet ups. It’s a great blend of marketing, and genuinely contributing to the
+development community.
 
-During and even after the program you may experience severe amounts of organic
-PR and marketing without having to lift a finger. The program sees a huge
-amount of publicity from our student teams, coaches and organisers: be it on
-Twitter, Facebook, blogs or at conferences and local developers meet ups. It’s
-a great blend of marketing, and genuinely contributing to the development
-community.
+### Partnership Options
 
-{% include sponsor_packages.html %}
 
 
 ### Platinum
@@ -104,4 +103,4 @@ bigger sponsors.
 ## Sponsorship Guidelines
 
 Rails Girls Summer of Code is here to support women on their way into Open Source.<br>
-Please see our [Sponsorship Guidelines](/about/sponsorship-guidelines/) for further information on how we stand behind our values.
+Please see our [Sponsorship Guidelines](/sponsorship-guidelines/) for further information on how we stand behind our values.
