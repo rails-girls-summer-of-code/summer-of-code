@@ -192,6 +192,7 @@
     border: red solid 2px;
   }
   ul {
+    -webkit-columns: 2;
     -moz-columns: 2;
     columns: 2;
   }
