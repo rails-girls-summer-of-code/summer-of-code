@@ -174,9 +174,8 @@
 
   > div:nth-child(2) {
     border-left: 2px solid $grey;
-  }
-  > div {
-    padding: 0 1.5em;
+    padding: 0 1.5em 2em;
+    margin-left: -0.4em;
   }
 
   h3 {
@@ -192,6 +191,7 @@
     border: red solid 2px;
   }
   ul {
+    -webkit-columns: 2;
     -moz-columns: 2;
     columns: 2;
   }
