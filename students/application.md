@@ -27,6 +27,7 @@ a good and complete application.
 * <a href="#lodge-application">Lodging Your Application</a>
 * <a href="#selection">Selection and Judging</a>
 * <a href="#requirements-program">Requirements During the Program</a>
+* <a href="#volunteer-teams">A Note on Volunteer Teams</a>
 * <a href="#checklist">Before You Apply: The Checklist</a>
 
 
@@ -89,7 +90,7 @@ long as you are safe and productive, you can choose where you will work.
 
 In order to prepare a project plan, you will first need to choose an Open Source project to work on. You can find information in the section <a href="#find-project">"How to Find a Project"</a> below. It is vital for a project to have a mentor who is a central contributor/maintainer of that project and will assist in defining the issues to work on.
 
-The mentor acts as an expert to consult on the project and gives general directions and feedback. Mentors are intimately knowledgeable about the open source project you intend to work on, while coaches are working closely with you and your pair. You can find a project mentor through your coach, or through the community, by contacting project maintainers directly. Mentors may even put forward ideas for teams to work on. 
+The mentor acts as an expert to consult on the project and gives general directions and feedback. Mentors are intimately knowledgeable about the open source project you intend to work on, while coaches are working closely with you and your pair. Mentors may even put forward ideas for teams to work on. 
 
 Next, make yourself known to the Open Source project and the current issues. A project plan can include anything that helps open source, like bug fixing,
 implementing small features, improving documentation, design, etc. The project
@@ -196,6 +197,11 @@ Rails Girls Summer of Code will assist and support you with any of these require
 We strongly advise you to get acquainted with these requirements before and during application time. We will make sure the requirements are complied with and will take steps in case of breaches.
 
 If you have any questions about the requirements, please <a href="mailto:summer-of-code@railsgirls.com">contact us</a>.
+
+<h2 id="volunteer-teams">A Note on Volunteer Teams</h2>
+
+As well as the funded teams, every year the Rails Girls Summer of Code also had a few selected volunteer teams. Volunteer teams are teams that participate in the program without monthly stipend. We expect them to adhere to the same guidelines as funded teams, but other than the stipend, they get the same amount of support from us and are involved in all the other social activities. Because of that, volunteer teams also have to be selected in order to participate; when you fill out your application, you have the possibility to select whether you want to participate as a funded team, a volunteer team, or both. 
+
 
 <h2 id="checklist">Before You Apply: The Checklist</h2>
 
