@@ -12,18 +12,14 @@ After a few months of very diligent work on our Teams App, we've made preparing 
 application for Rails Girls Summer of Code a whole lot more straightforward. Here's the low down on applying in 2015!
 
 ### Check out if you're eligible
-This year, we have made the eligibility criteria for applicants a bit more clear.
+This year, we have made the eligibility criteria for applicants a bit clearer.
 
-As our focus is on providing opportunities for further learning post Rails Girls workshop, we do require that applicants have attended at least a Rails Girls or similiar
-community driven workshop.
+As our focus is on providing opportunities for further learning post Rails Girls workshop, we do require that applicants have attended at least a Rails Girls or similar
+community-driven workshop.
 
 While no one is discouraged from applying on the basis of gender, preference will be given to applicants who identify or have been socialized as female. To see the full criteria
 please [take a look at our application guide](http://railsgirlssummerofcode.org/students/application/#eligibility).
 
-
-While the working language of communications within Rails Girls Summer of Code is
-English, we welcome teams working on projects in any language, provided they can
-find a mentor and coaches.
 
 If you're not sure about any of the eligibility criteria, please [contact us](http://railsgirlssummerofcode.org/about/).
 
@@ -39,11 +35,11 @@ One of the requirements of the Summer of Code is that your are a two-person team
 Establishing a team means not just finding someone else to lodge an application
 with, but someone who you will be able to get along with over three months of
 intense project work. Establishing a team that will be able to deal with and work
-through moments of stress and conflict, will be extremely important to the success
+through moments of stress and conflict will be extremely important to the success
 of your summer. For more about finding a pair, [take a look at our guide](http://railsgirlssummerofcode.org/students/application/#pair)
 
 ### Find a Coach
-Teams will also need to have at least one coach, able to give them active support throughout the summer. While coaches can be approached a number of ways, we have some advice on finding coaches [here](http://railsgirlssummerofcode.org/students/application/#pair), and a blog post on ['Where to Start'](http://railsgirlssummerofcode.org/blog/where-to-start/).
+Teams will also need to have at least one coach who is able to give them active support throughout the summer. While coaches can be approached a number of ways, we have some advice on finding coaches [here](http://railsgirlssummerofcode.org/students/application/#pair), and a blog post on ['Where to Start'](http://railsgirlssummerofcode.org/blog/where-to-start/).
 
 If you want to provide potential coaches with more information on what you will
 need from them over the summer, you can direct them to our [guide for coaches](http://railsgirlssummerofcode.org/guide/coaching/).
@@ -56,7 +52,7 @@ approaching and asking companies for the help over the summer, share with them o
 
 
 ## Select a project
-Thanks to the terrific feedback from last year's teams, mentors, coaches and
+Thanks to the invaluable feedback from last year's teams, mentors, coaches and
 supervisors, we have improved the way students can select a project for their
 application.
 
@@ -77,11 +73,12 @@ extremely helpful as you complete your application.
 
 You now have the ability to save your application as a draft. It may
 not seem like much, but being able to save and go back to your application to add
-coaches, coaching companies, and further clarity to your project goals may be the difference between lodging and amazing or average application.
+coaches, coaching companies, and further clarity to your project goals may be the
+difference between lodging an awesome or average application.
 
 ### Assess your coding level
 We know that trying to outline your coding level can be pretty subjective. Therefore,
-this year's applicaton form contains 'skill level
+this year's application form contains 'skill level
 guidelines' to help guide you in your self-assessment.
 
 While there can still be grey areas in your learning that you will want to tell
