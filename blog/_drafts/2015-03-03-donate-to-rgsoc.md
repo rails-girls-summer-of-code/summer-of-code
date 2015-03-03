@@ -30,18 +30,17 @@ If you want to sponsor a larger amount, take a look at our [sponsor packages](/s
 
 ### Want help out in other ways?
 
-If you are maintainer of an open source project, please consider [submitting it](/guide/projects)
+If you are the maintainer of an open source project, please consider [submitting it](/guide/projects)
  to our list!
 A developer looking for a way to use your coding powers for good? Find out more
- [coaching a team](/guide/coaching)?
+ about [coaching a team](/guide/coaching)?
 
-If you are an organiser whose conference is on during or after the northern Summer of 2015,
+If you are an organizer whose conference is on during or after the northern Summer of 2015,
 why not offer a ticket to your event for our 'ticket giveaway'. [Read about the
 awesome conferences that donated tickets last year!](http://railsgirlssummerofcode.org/blog/2014-06-09-conference-tickets/)
 
 Have a number of other super powers you think we need? Take a look at our [about page](/about) for more
 info about how to get involved.
-
 
 
 [Get on over to our crowd funding page](http://railsgirlssummerofcode.org/campaign/),
