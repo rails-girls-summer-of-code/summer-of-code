@@ -1,7 +1,7 @@
 ---
 title: 2015 Applications Open Today!
 layout: post
-created_at: Sat Feb 12 2015
+created_at: Wed Mar 02 2015
 permalink: blog/2015-applications-open
 current: blog
 author: Anika
