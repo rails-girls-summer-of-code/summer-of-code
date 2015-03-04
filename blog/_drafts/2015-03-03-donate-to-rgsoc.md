@@ -28,7 +28,7 @@ If you want to sponsor a larger amount, take a look at our [sponsor packages](/s
  and [guidelines](/sponsorship-guidelines).
 
 
-### Want help out in other ways?
+### Want to help out in other ways?
 
 If you are the maintainer of an open source project, please consider [submitting it](/guide/projects)
  to our list!
