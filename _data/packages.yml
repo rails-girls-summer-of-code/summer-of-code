@@ -86,6 +86,13 @@
         programming to more great people!
       years:
         - 2015
+    - name: Dawanda
+      id: dawanda
+      url: http://www.dawanda.com
+      text: |-
+        <a href="http://www.dawanda.com" target="_blank">DaWanda</a> is the online
+        marketplace for unique and handmade items. More than 220.000 Designers and
+        creatives offer their one of a kind and limited-edition products for sale.
 
 - name: Bronze
   title: Bronze Sponsors
@@ -306,13 +313,6 @@
     #     think disruptively to deliver technology to address our clients' toughest
     #     challenges, all while seeking to revolutionize the IT industry and create
     #     positive social change.
-    # - name: Dawanda
-    #   id: dawanda
-    #   url: http://www.dawanda.com
-    #   text: |-
-    #     <a href="http://www.dawanda.com" target="_blank">DaWanda</a> is the online
-    #     marketplace for unique and handmade items. More than 220.000 Designers and
-    #     creatives offer their one of a kind and limited-edition products for sale.
     # - name: Carnesmedia
     #   id: carnesmedia
     #   url: http://carnesmedia.com
