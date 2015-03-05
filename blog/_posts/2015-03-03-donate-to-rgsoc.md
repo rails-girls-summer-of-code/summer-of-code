@@ -4,8 +4,8 @@ layout: post
 created_at: Thu Mar 05 2015
 permalink: blog/2015-donations-open
 current: blog
-author: Anika
-twitter: langziehohr
+author: RGSoC Team
+twitter: RailsGirlsSoc
 ---
 
 The Rails Girls Summer of Code crowdfunding campaign
@@ -34,6 +34,8 @@ to get on board with some early sponsorship. Many thanks to our [earlybird spons
 Travis CI, GitHub, SoundCloud, Google Open Source, Basecamp, Turing School of Software and Design, Keen IO,
 Site5, and TeaLeaf Academy for supporting us with their sponsorship before we even opened
 our crowd funding campaign!
+
+![](https://cloud.githubusercontent.com/assets/1711357/6504557/ef18e454-c338-11e4-9b97-4f607273fbb5.png)
 
 To top it off, a number are even coming back for
 their [second](http://2014.railsgirlssummerofcode.org/sponsors/) or [third year](http://2013.railsgirlssummerofcode.org/sponsors-thanks/) of sponsorship! Not only do these early bird sponsors ensure that
