@@ -160,8 +160,19 @@
   text-align: right;
 }
 .sponsors .year {
-  margin-right: .4em;
   vertical-align: top;
+}
+.sponsors.partners .year {
+  margin-right: .3em;
+}
+.sponsors.gold .year {
+  margin-right: .3em;
+}
+.sponsors.silver .year {
+  margin-right: .1em;
+}
+.sponsors.bronze .year {
+  margin-right: 0;
 }
 
 
