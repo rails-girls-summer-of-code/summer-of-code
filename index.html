@@ -1,66 +1,102 @@
 ---
-layout: default
+layout: landing
 current: index
 stripe: yes
 sponsors: yes
 class: index
+permalink: /
 ---
-<section class="">
-  <div class="keyvisual"></div>
-  <section class="hero">
-    <div class="">
-      <div class="squiggly-line"></div>
-      <p class="hero-sub">Jul - Sept 2015 <span class="star-red"></span> Worldwide</p>
-      <h1>Rails Girls</h1>
-      <h2>Summer of Code</h2>
-      <div class="stars-row">
-        <span class="star-red"></span>
-        <span class="star-red"></span>
-        <span class="star-red"></span>
-      </div>
-      <p class="hero-claim">Get Rails Girls students into Open Source!</p>
-      <!-- <p class="hero-claim2">Applications will be opened: 14.03.2014 - 2.05.2014</p>
-    </div> -->
-  </section>
-  <div class="container">
-    <article class="col-md-8 red-border-top">
-      <h2>Welcome to 2015!</h2>
-      <p>
-        Rails Girls Summer of Code started in 2013 and has been a
-        growing success ever since. This year we will be back and hope to make another summer
-        full of code happen with your help!
-      </p>
-      <p>
-        Rails Girls Summer of Code offers three month full-time scholarships to
-        pairs of Rails Girls students, supported by coaches. This community-driven
-        initiative is about learning by doing &mdash; and expanding upon knowledge
-        and coding skills by contributing to a great Open Source project.
-      </p>
-      <p>
-        The Rails Girls Summer of Code program starts on the <strong>1st of July
-        2015</strong> and aims at providing sponsored scholarships to 20 students.
-      </p>
-      <p>
-        This cannot be done without help from our fantastic community.
-        Please consider a <a href="/campaign">donation</a>
-        or help out as a <a href="/guide/coaching">coach</a>,
-        <a href="/guide/coaching-company">coaching company</a> or
-        <a href="mailto:summer-of-code@railsgirls.com">supporting organizer</a>!
-      </p>
-      <div class="red-border-top">
-        <h3>Latest Blog Post</h3>
-        {% assign latest_post = site.posts.first %}
-        <div class="blog-teaser">
-          <h3><a href="/{{latest_post.permalink}}">{{ latest_post.title }}</a></h3>
-          <div class="teaser-date">Posted on {{ latest_post.created_at }}</div>
-          {{ latest_post.content }}
-          <p><a href="/blog" class="button" title="to our blog">Read more on our blog! <i class="icon-star-white"></i></a></p>
-        </div>
-      </div>
-    </article>
-    <aside class="sidebar frontpage-sidebar col-md-3 col-md-offset-1 red-border-top">
-      {% include home_sidebar.html %}
-    </aside>
-  </div>
-</section>
 
+<header class="keyvisual">
+  <div class="keyvisual-text">
+    <h1>Rails Girls Summer of Code</h1>
+    <h3>Jul - Sept 2015 <span class="fa fa-star"></span> Worldwide</h3>
+  </div>
+</header>
+<div class="bg--grey">
+  <div class="container">
+    <div class="row landing-main">
+      <div class="col-md-8 col-md-offset-2">
+        <div class="squiggly-line"></div>
+        <h2>Get Rails Girls students into Open Source!</h2>
+        <p>With our fellowship program we aim to foster diversity in Open Source. Selected teams receive a three-month scholarship to work on Open Source projects of their choice.</p>
+        <p><a href="/about/" class="arrow-link">More about us</a></p>
+      </div>
+    </div>
+    <div class="row landing-teasers">
+      <article class="landing-teaser col-md-3 col-sm-6">
+        <a href="/students/application/">
+          <figure>
+            <img src="/assets/images/tile1.jpg" alt="">
+            <figcaption>Learn more...</figcaption>
+          </figure>
+          <div>
+            <h2>Apply as a team</h2>
+            <p>Take a look at our Application Guide for students.</p>
+          </div>
+        </a>
+      </article>
+      <article class="landing-teaser col-md-3 col-sm-6">
+        <a href="/guide/projects/">
+          <figure>
+            <img src="https://cloud.githubusercontent.com/assets/1711357/6504165/99e97484-c334-11e4-9782-b589094ef7c9.jpg" alt="">
+            <figcaption>Go for it!</figcaption>
+          </figure>
+          <div>
+            <h2>Submit your project</h2>
+            <p>Learn more about mentoring an Open Source project.</p>
+          </div>
+        </a>
+      </article>
+      <article class="landing-teaser col-md-3 col-sm-6">
+        <a href="/guide/coaching/">
+          <figure>
+            <img src="https://f.cloud.github.com/assets/1711357/653137/5e1c48b0-d4ce-11e2-8d9d-5fdb851edb95.jpg" alt="">
+            <figcaption>Read more..</figcaption>
+          </figure>
+          <div>
+            <h2>Coach a team</h2>
+            <p>Help us with your experience and become a coach.</p>
+          </div>
+        </a>
+      </article>
+      <article class="landing-teaser col-md-3 col-sm-6">
+        <a href="/sponsors/packages/">
+          <figure>
+            <img src="https://f.cloud.github.com/assets/1711357/1511866/0cffea00-4abb-11e3-9044-cc5d429cb90b.jpg" alt="">
+            <figcaption>Support us!</figcaption>
+          </figure>
+          <div>
+            <h2>Become a sponsor</h2>
+            <p>Take a look at our packages and perks.</p>
+          </div>
+        </a>
+      </article>
+    </div>
+  </div>
+</div>
+<div class="bg--white">
+<div class="container">
+  <div class="row landing-misc">
+    <div class="col-md-6">
+      <h3>Timeline</h3>
+      <div class="squiggly-line"></div>
+      <ul class="list list--none">
+        <li><span class="fa fa-star color-red"></span> March: Applications open</li>
+        <li><span class="fa fa-star color-red"></span> March: Crowdfunding campaign</li>
+        <li><span class="fa fa-star color-red"></span> 01.04: Applications close</li>
+        <li><span class="fa fa-star color-red"></span> 01.05: Acceptance letters</li>
+        <li><span class="fa fa-star color-red"></span> 01.07: Kickoff RGSoC 2015</li>
+      </ul>
+    </div>
+    <div class="col-md-6">
+      <h3>Help out</h3>
+      <div class="squiggly-line"></div>
+      <p>You can support Rails Girls Summer of Code as a coach, a mentor or as an organizer helping in various areas such as fundraising, editing, working on our sites or helping the students find Open Source projects.</p>
+      <p><a href="mailto:summer-of-code@railsgirls.com" class="arrow-link">Get in touch</a></p>
+    </div>
+  </div>
+</div>
+
+
+</div>
