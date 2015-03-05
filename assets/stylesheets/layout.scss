@@ -1,6 +1,7 @@
 
 body {
   font-weight: 400;
+  overflow-x: hidden;
 }
 
 a {
@@ -200,12 +201,16 @@ a.button-burger {
   &:after {
     content: "";
     position: absolute;
-    top: -9%;
+    top: -7%;
     right: 20%;
     display: block;
-    width: 199px;
-    height: 173px;
-    background-image: url(../images/megaphone.png);
+    width: 175px;
+    height: 150px;
+    background: {
+      repeat: no-repeat;
+      size: cover;
+      image: url(../images/megaphone.png);
+    }
   }
 }
 .footer-child {

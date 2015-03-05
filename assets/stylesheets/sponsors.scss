@@ -150,6 +150,20 @@
   height: 61px;
   background-size: 151px;
 }
+.sponsors a .years {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+  height: 25px;
+  margin-right: 3px;
+  text-align: right;
+}
+.sponsors .year {
+  margin-right: .4em;
+  vertical-align: top;
+}
+
 
 .sponsors-cta {
   vertical-align: top;
