@@ -31,8 +31,8 @@ If you want to sponsor a larger amount, take a look at our [sponsor packages](/s
 
 Over the last few months we've been talking to some of our most ardent supporters
 to get on board with some early sponsorship. Many thanks to our [earlybird sponsors](/sponsors),
-GitHub, SoundCloud, Google Open Source, Basecamp, Turing School of Software and Design, Keen IO,
-Site5, and TeaLeaf Academy for getting on board for sponsorship before we even opened
+Travis CI, GitHub, SoundCloud, Google Open Source, Basecamp, Turing School of Software and Design, Keen IO,
+Site5, and TeaLeaf Academy for supporting us with their sponsorship before we even opened
 our crowd funding campaign!
 
 To top it off, a number are even coming back for
