@@ -262,13 +262,12 @@ a.button-burger {
       content: "";
       display: inline-block;
       position: absolute;
-      top: 0;
+      top: 34%;
       left: 0;
-      width: 0;
-      height: 0;
-      border-top: 10px solid transparent;
-      border-bottom: 10px solid transparent;
-      border-left: 11px solid $red;
+      width: .5em;
+      height: .5em;
+      border-radius: 50%;
+      background-color: $red;
     }
   }
 }
