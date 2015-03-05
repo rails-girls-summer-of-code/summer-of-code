@@ -4,85 +4,14 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
   <head>
-    <title>{% if page.title %} {{ page.title }} | {% endif %} Rails Girls Summer of Code</title>
-    <link rel="shortcut icon" href="/favicon.png">
-    <link rel="icon" href="/favicon.ico">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="Rails Girls Summer of Code {{ site.time | date: "%Y" }}">
-    <meta name="viewport" content="width=device-width">
-    {% if page.author %}<meta name="author" content="{{ page.author }}">{% endif %}
-
-    <!-- OpenGraph stuff; http://ogp.me/ -->
-    {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}" />
-    {% else %}
-    <meta property="og:image" content="http://railsgirlssummerofcode.org/img/opengraph_image.png" />
-    {% endif %}
-    {% if page.abstract %}<meta property="og:description" content="{{ page.abstract }}" />{% endif %}
-    <meta property="og:site_name" content="Rails Girls Summer of Code" />
-    {% if page.title %}
-      {% assign og_title = page.title %}
-    {% else %}
-      {% assign og_title = "Rails Girls Summer of Code" %}
-    {% endif %}
-    <meta property="og:title" content="{{ og_title }}" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{ og_title }}" />
-    <meta name="twitter:creator" content="RailsGirlsSoC" />
-    {% if page.abstract %}<meta property="twitter:description" content="{{ page.abstract }}" />{% endif %}
-
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ "/assets/stylesheets/style-2014.css" | prepend: site.baseurl }}">
-    <link rel="alternate" type="application/atom+xml" href="http://railsgirlssummerofcode.org/blog.xml"/>
-
-    {% if page.stripe %}
-    <script src="https://checkout.stripe.com/v2/checkout.js"></script>
-    {% endif %}
-    <script src="/assets/javascripts/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-    <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
-    <script src="/assets/javascripts/vendor/date.format.js"></script>
-    <script src="/assets/javascripts/donations.js"></script>
-    <script src="/assets/javascripts/pagination.js"></script>
-    <script src="/assets/javascripts/blogroll.js"></script>
+    {% include head.html %}
   </head>
   <body class="{{ page.class }}">
     <div class="header-container {% if page.current == 'index' %}no-scroll{% endif %}">
-    <header class="wrapper clearfix">
-    <a href="/" class=""><h1 class="logo-nav ir">Rails Girls Summer of Code</h1></a>
-    <nav class="nav-primary clearfix">
-      <div class="hamburger"><i></i></div>
-      <ul>
-        <li>
-          <a href="/about" {% if page.current == 'about' %}class="current-page"{% endif %}>About</a>
-          <ul>
-            <li><a href="/about/team" {% if page.current == 'tean' %}class="current-page"{% endif %}>Team</a></li>
-            <li><a href="/about/roles" {% if page.current == 'roles' %}class="current-page"{% endif %}>Roles</a></li>
-            <li><a href="/about/press" {% if page.current == 'press' %}class="current-page"{% endif %}>Press</a></li>
-            <li><a href="/sponsors" {% if page.current == 'sponsors' %}class="current-page"{% endif %}>Sponsors</a></li>
-            <li><a href="/about/code-of-conduct" {% if page.current == 'code-of-conduct' %}class="current-page"{% endif %}>Code of Conduct</a></li>
-          </ul>
-        </li>
-        <li><a href="/blog" {% if page.current == 'blog' %}class="current-page"{% endif %}>Blog</a></li>
-        <li><a href="/get-involved" {% if page.current == 'get-involved' %}class="current-page"{% endif %}>Get Involved</a>
-        <ul>
-          <li><a href="/guide/coaching" {% if page.current == 'coaching' %}class="current-page"{% endif %}>Become a Coach</a></li>
-          <li><a href="/guide/projects" {% if page.current == 'projects' %}class="current-page"{% endif %}>Become a Project Mentor</a></li>
-          <li><a href="/guide/coaching-company" {% if page.current == 'coaching-company' %}class="current-page"{% endif %}>Coaching Company</a></li>
-          <li><a href="/sponsors/packages/" {% if page.current == 'sponsorship' %}class="current-page"{% endif %}>Become a Sponsor</a></li>
-          <li><a href="/guide/supervisors" {% if page.current == 'supervisors' %}class="current-page"{% endif %}>Become a Supervisor</a></li>
-        </ul>
-        </li>
-        <!-- <li><a href="/students/application" {% if page.current == 'application-guide' %}class="current-page"{% endif %}>Apply Now</a></li> -->
-        <li><a href="/students" {% if page.current == 'students' %}class="current-page"{% endif %}>Students</a></li>
-        <li><a href="/guide/projects/" class="strong" {% if page.current == 'campaign' %}class="current-page"{% endif %}>CALL FOR PROJECTS!</a></li>
-        <!--<li><a href="/campaign" class="strong" {% if page.current == 'campaign' %}class="current-page"{% endif %}>Please donate!</a></li>
-        <a href="http://teams.railsgirlssummerofcode.org" class="strong">Teams &rarr;</a></li>-->
-      </ul>
-    </nav>
-    </header>
+    <header id="header" class="header" role="banner">
+      {% include navigation.html %}
+    </header><!-- /header -->
     </div>
-
 
     {{ content }}
 
@@ -90,20 +19,7 @@
       {% include stripe_form.html %}
     {% endif %}
 
-    <div class="footer-container">
-      <footer id="sponsors" class="wrapper">
-        {% if page.sponsors %}
-          {% include sponsors_footer.html %}
-        {% endif %}
-        <p style="clear: both">
-          &hearts; artwork by <a href="http://www.ejaculesc.com/" target="_blank">Rebecca Conrad<a> <br>
-          &copy; <a href="http://railsgirls.com">Rails Girls</a> {{ site.time | date: '%Y' }}
-          &mdash; <a href="/about/code-of-conduct">Code of Conduct </a> |
-          <a href="/about/sponsorship-guidelines/">Sponsorship Guidelines </a> |
-          <a href="/about/imprint">Imprint</a>
-        </p>
-      </footer>
-    </div>
+    {% include footer.html %}
 
     <script src="/js/vendor/jquery-ui-1.10.2.custom.min.js"></script>
     <!-- <script src="/js/vendor/jquery.stellar.js"></script> -->

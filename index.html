@@ -7,8 +7,9 @@ class: index
 ---
 <section class="">
   <div class="keyvisual"></div>
-  <section class="wrapper hero">
+  <section class="hero">
     <div class="">
+      <div class="squiggly-line"></div>
       <p class="hero-sub">Jul - Sept 2015 <span class="star-red"></span> Worldwide</p>
       <h1>Rails Girls</h1>
       <h2>Summer of Code</h2>
@@ -21,8 +22,8 @@ class: index
       <!-- <p class="hero-claim2">Applications will be opened: 14.03.2014 - 2.05.2014</p>
     </div> -->
   </section>
-  <article class="wrapper main">
-    <div class="content">
+  <div class="container">
+    <article class="col-md-8 red-border-top">
       <h2>Welcome to 2015!</h2>
       <p>
         Rails Girls Summer of Code started in 2013 and has been a
@@ -46,20 +47,20 @@ class: index
         <a href="/guide/coaching-company">coaching company</a> or
         <a href="mailto:summer-of-code@railsgirls.com">supporting organizer</a>!
       </p>
-    </div>
-    <aside class="sidebar frontpage-sidebar">
+      <div class="red-border-top">
+        <h3>Latest Blog Post</h3>
+        {% assign latest_post = site.posts.first %}
+        <div class="blog-teaser">
+          <h3><a href="/{{latest_post.permalink}}">{{ latest_post.title }}</a></h3>
+          <div class="teaser-date">Posted on {{ latest_post.created_at }}</div>
+          {{ latest_post.content }}
+          <p><a href="/blog" class="button" title="to our blog">Read more on our blog! <i class="icon-star-white"></i></a></p>
+        </div>
+      </div>
+    </article>
+    <aside class="sidebar frontpage-sidebar col-md-3 col-md-offset-1 red-border-top">
       {% include home_sidebar.html %}
     </aside>
-    <div class="content">
-      <h3>Latest Blog Post</h3>
-      {% assign latest_post = site.posts.first %}
-      <div class="blog-teaser">
-        <h3><a href="/{{latest_post.permalink}}">{{ latest_post.title }}</a></h3>
-        <div class="teaser-date">Posted on {{ latest_post.created_at }}</div>
-        {{ latest_post.content }}
-        <p><a href="/blog" class="button" title="to our blog">Read more on our blog! <i class="icon-star-white"></i></a></p>
-      </div>
-    </div>
-  </article>
+  </div>
 </section>
 

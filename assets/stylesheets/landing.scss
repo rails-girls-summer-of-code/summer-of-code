@@ -200,6 +200,90 @@
   }
 }
 
-.bg--white {
+// to be deleted
 
+.red-border-top {
+  margin-top: 4em;
+  border-top: 4px solid $red;
+}
+
+.keyvisual {
+  position: relative;
+  top: -30px;
+  z-index: -1;
+  height: 36em;
+  margin-bottom: 3em;
+  background: url(https://f.cloud.github.com/assets/1711357/2420922/6127dfa0-ab7a-11e3-90b1-da630fdbc6e9.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.keyvisual:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  height: 55px;
+  width: 100%;
+  background: url(../../../img/wavy-border.png) repeat-x;
+}
+.hero {
+  min-height: 24em;
+  text-align: center;
+  @media (min-width: 780px) {
+    margin-left: -3em;
+    padding-left: 7em;
+    margin-right: -3em;
+    padding-right: 8em;
+    /* padding-top: 3em; */
+    background: url(../../../img/scribbles-frontpage.png) no-repeat scroll 52% 0% transparent;
+  }
+}
+.hero-sub {
+  color: #380c01;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.hero-claim {
+  font-size: 18px;
+  color: #C4220D;
+  margin-top: 1em;
+}
+.hero-claim2 {
+  font-size: 18px;
+  margin-top: 1em;
+}
+.hero h1 {
+  font-size: 75px;
+  margin-bottom: 0em;
+  line-height: 67px
+}
+.hero h2, .hero-title {
+  font-size: 43px;
+  margin-bottom: .7em;
+  line-height: 42px;
+}
+.hero h1, .hero h2, .hero-title {
+  color: #C4220D;
+  text-shadow: 3px 3px #fcd6c1;
+}
+.hero-title {
+  margin-bottom: .3em;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+.star-red {
+  display: inline-block;
+  width: 15px;
+  height: 14px;
+  margin: 0 1.3em;
+  background: url(../../../img/star-red.png) no-repeat;
+}
+.sponsors-starrow {
+  width: 435px;
+  height: 19px;
+  display: inline-block;
+  background: url(../../../img/starsrow.png) no-repeat;
 }
