@@ -54,13 +54,7 @@
     content: "\2192";
     display: inline-block;
     margin-left: .5em;
-    vertical-align: top;
-    transition: margin 300ms linear;
-  }
-  &:hover {
-    &:after {
-      margin-left: 1em;
-    }
+    // transition: margin 300ms linear;
   }
 }
 
