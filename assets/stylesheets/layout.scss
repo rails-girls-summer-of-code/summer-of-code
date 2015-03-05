@@ -93,11 +93,12 @@ a:active {
     font-size: 16px;
     display: block;
     padding: .2em .5em;
-    border-radius: 5px;
-    transition: color 200ms ease, background 200ms ease;
+    //border-radius: 5px;
+    //transition: color 200ms ease, background 200ms ease;
     &:hover {
-      background: $white;
-      color: $red;
+      //background: $white;
+      //color: $red;
+      text-decoration: underline
     }
   }
   li:first-child a {
@@ -261,13 +262,11 @@ a.button-burger {
       content: "";
       display: inline-block;
       position: absolute;
-      top: 0;
+      top: 35%;
       left: 0;
-      width: 0;
-      height: 0;
-      border-top: 10px solid transparent;
-      border-bottom: 10px solid transparent;
-      border-left: 11px solid $red;
+      width: .4em;
+      height: .4em;
+      background-color: $red;
     }
   }
 }
@@ -316,6 +315,11 @@ a.button-burger {
     display: inline-block;
   }
 }
+.list--star {
+  span {
+    margin-right: .3em;
+  }
+}
 
 .paginator {
   text-align: center;
@@ -335,7 +339,7 @@ a.button-burger {
   background: $red;
   color: $white;
   border-radius: 5px;
-  padding: .3em 1em;
+  padding: .9em 1.5em;
   &:hover {
     text-decoration: none;
     color: $white;

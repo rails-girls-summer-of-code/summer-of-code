@@ -146,11 +146,11 @@
     color: $white;
     text-transform: uppercase;
     transform: translate3d(0px, 20px, 0px) scale(1.1);
-    transition: opacity 200ms linear,  transform 200ms linear;
+    transition: all 200ms linear;
   }
   img {
     transform: scale(1.1);
-    transition: opacity 200ms linear, transform 200ms linear;
+    transition: all 200ms linear;
   }
   h2 {
     margin: .2em 0 .5em;
@@ -184,12 +184,17 @@
     width: 2em;
     border: red solid 2px;
   }
-  ul {
-    -webkit-columns: 2;
-    -moz-columns: 2;
-    columns: 2;
-  }
   li {
     margin-bottom: 0.7em;
+  }
+}
+
+.csscolumns {
+  .landing-misc {
+    ul {
+      // -webkit-columns: 2;
+      -moz-columns: 2;
+      columns: 2;
+    }
   }
 }

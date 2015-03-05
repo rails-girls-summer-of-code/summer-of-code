@@ -24,8 +24,9 @@ permalink: sponsors/
 
     {% for package in site.data.packages %}
       <section class="sponsors-list sponsors-{{ package.name | downcase}}">
-        <h2 class="hero-title">{{package.title}}</h2>
-        <div class="center-helper"><div class="sponsors-starrow"></div></div>
+        <div class="row">
+          <h2 class="hero-title col-md-offset-4 col-md-8">{{package.title}}</h2>
+        </div>
         <ul>
           {% for sponsor in package.sponsors %}
             <li id="{{sponsor.id}}" class="row">
