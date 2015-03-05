@@ -1,8 +1,8 @@
 ---
 title: Donate to Rails Girls Summer of Code!
 layout: post
-created_at: Sat Mar 04 2015
-permalink: blog/2015-applications-open
+created_at: Thu Mar 05 2015
+permalink: blog/2015-donations-open
 current: blog
 author: Anika
 twitter: langziehohr
