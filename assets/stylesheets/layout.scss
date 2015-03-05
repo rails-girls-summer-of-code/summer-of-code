@@ -317,6 +317,11 @@ a.button-burger {
     display: inline-block;
   }
 }
+.list--star {
+  span {
+    margin-right: .3em;
+  }
+}
 
 .paginator {
   text-align: center;
