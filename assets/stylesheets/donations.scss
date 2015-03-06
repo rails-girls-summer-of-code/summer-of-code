@@ -97,6 +97,9 @@
   vertical-align: middle;
   color: #666;
   text-decoration: underline;
+  max-width: 200px;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
 }
 #thanks-folks table img {
   width: 35px;
