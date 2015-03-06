@@ -163,14 +163,14 @@ $.extend(Donation.prototype, {
   },
   github: function() {
     if (this.data.github_handle) {
-      var href = "https://github.com/" + this.data.github_handle;
+      var href = this.usernameOrUrl(this.data.github_handle, "https://github.com/");
       var text = this.data.github_handle;
       return $('<a class="github"></a>').attr('href', href).text(text);
     }
   },
   twitter: function() {
     if (this.data.twitter_handle) {
-      var href = "https://twitter.com/" + this.data.twitter_handle;
+      var href = this.usernameOrUrl(this.data.twitter_handle, "https://twitter.com/");
       var text = this.data.twitter_handle;
       return $('<a class="twitter"></a>').attr('href', href).text(text);
     }
@@ -204,6 +204,13 @@ $.extend(Donation.prototype, {
   },
   comment: function() {
     return $('<td></td>').text(this.data.comment || '');
+  },
+  usernameOrUrl: function(data, url) {
+    if (new RegExp(url).test(data)) {
+      return data;
+    } else {
+      return url + data;
+    }
   }
 });
 
