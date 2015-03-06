@@ -33,6 +33,17 @@ $.extend(Donations, {
     'Gold':      5000,
     'Silver':    2500,
     'Bronze':    1000
+  },
+  TRAVIS: {
+    amount: undefined,
+    package: 'Partner',
+    name: 'Travis CI',
+    github_handle: 'travis-ci',
+    twitter_handle: 'travisci',
+    homepage: 'http://travis-ci.com',
+    gravatar_url: '/img/sponsors/travis_avatar.png',
+    comment: 'Proud to sponsor 1.5 fulltime organizer positions',
+    created_at: '2015-01-01T00:00:00Z'
   }
 });
 Donations.URL = Donations.URLS[ENV];
@@ -46,6 +57,7 @@ $.extend(Donations.prototype, {
       success: function(collection) {
         _this.normalize_data(collection);
         collection.sort(_this.sort);
+        collection.unshift(Donations.TRAVIS);
         return _this.pagination = new Pagination(_this, $('.pagination', _this.tbody.parent()), collection, Donations.COUNT);
       }
     });
