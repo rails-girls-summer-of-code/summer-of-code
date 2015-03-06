@@ -29,7 +29,7 @@ $.extend(Donations, {
   },
   COUNT: 50,
   PACKAGES: {
-    'Platinum': 10000,
+    'Platinum':  7500,
     'Gold':      5000,
     'Silver':    2500,
     'Bronze':    1000
