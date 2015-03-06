@@ -155,7 +155,7 @@
       id: ticketsolve
       url: http://www.ticketsolve.com
       years:
-        -2015
+        - 2015
 
     # - name: Anynines
     #   id: anynines
