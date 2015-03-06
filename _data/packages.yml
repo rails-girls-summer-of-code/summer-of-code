@@ -154,6 +154,13 @@
     - name: Ticketsolve
       id: ticketsolve
       url: http://www.ticketsolve.com
+      text: |-
+        <a href="http://www.ticketsolve.com/" target="_blank">Ticketsolve</a>
+        is a cloud based ticketing, reporting and box office software used by over 170+
+        arts centres, venues, theatres, festivals and tourist attractions across the UK
+        and Ireland. We are first and foremost a technology company, and are proud to
+        support the Rails Girls Summer of Code program, and their goals to promote
+        diversity and equality in technology.
       years:
         - 2015
 
