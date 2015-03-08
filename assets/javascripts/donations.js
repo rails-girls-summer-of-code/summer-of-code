@@ -271,7 +271,7 @@ var Progress = function(element) {
 
 $.extend(Progress, {
   TEAMS_COUNT: 10,
-  GOAL:  88000,
+  GOAL:  100000,
   // PER_ITEM: 90000
 });
 
@@ -327,8 +327,6 @@ $(function() {
   var donations = $('#donations').donations();
   var stats = $('.stats').stats();
   var progress = $('#campaign-progress').campaign_progress();
-
-  console.log(progress);
 
   stats.defer.done('loaded', function(event) {
     progress.render_progress(stats);
