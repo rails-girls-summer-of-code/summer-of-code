@@ -73,7 +73,7 @@ hires, conference organisers, tech bloggers, journalists and media outlets.
 
 <h2 id="q2">What makes a good Coaching Company?</h2>
 
-Any company with a respectful and inclusive culture, good internet, and a team of
+Any company with a respectful and inclusive culture, desk space, good internet, and a team of
 developers could make a good coaching company. That really is it. Great
 examples for Coaching Companies include Absolventa and
 Travis CI (2013), 6Wunderkinder (2014), and SoundCloud (2013, 2014).
@@ -135,16 +135,13 @@ could do with your support.
 
 <h2 id="q6">How to become a Coaching Company</h2>
 
-First, register yourself and your coaches here: <a href="http://teams.railsgirlssummerofcode.org">teams.railsgirlssummerofcode.org</a>
+* First, look for a team in your city; this might require reaching out to your local <a href="http://railsgirls.com/">Rails Girls chapter</a> and to development communities such as your local Ruby groups to let them know that you're willing to host a team.
+* Also send an email to the <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>,
+offering your space and coaches. You can spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/railsgirlsoc">@RailsGirlsSoC</a>); we'll retweet and help you connect to students.
+* Register yourself and your coaches here: <a href="http://teams.railsgirlssummerofcode.org">teams.railsgirlssummerofcode.org</a> so that students applying can find you if need be.
 
-A good starting point is to reach out to your local
-<a href="http://railsgirls.com/">Rails Girls chapter</a> and to development
-communities such as your local Ruby groups.
 
-Also send an email to the
-<a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>,
-offering your space and coaches. Additionally you can spread the word by mentioning us on Twitter 
-(<a href="http://www.twitter.com/railsgirlsoc">@RailsGirlsSoC</a>); we'll retweet and help you connect to students.
+
 
 <h2 id="q7">I have more questions!</h2>
 
