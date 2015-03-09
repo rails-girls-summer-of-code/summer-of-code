@@ -66,7 +66,7 @@ summer-of-code@railsgirls.com).
 
 Logos and links on the website will be sorted by package size and date.
 
-Please also see the [Sponsors section](/faq/sponsors/) in our FAQ.  If you have
+If you have
 any questions, comments, or don't feel this list quite represents what you have
 to offer, please get in touch: <a href="mailto:
 summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.
@@ -83,13 +83,13 @@ contents of these packages often are tweeted and retweeted a lot.
 
 ### Your logo on slides at presentations about RGSoC
 
-Students are strongly encourage to give full talks or lightning talks at
+Students are strongly encouraged to give full talks or lightning talks at
 conferences (many of which donate free tickets for them) as well as local
 programming and tech meetups. Students tend to present their projects at these
 meetups, and how Summer of Code is helping them do it. Some organizers also
 present about the Summer of Code program as a whole.
 
-All people presenting on behalf of or in conjunction with Summer of Code, are
+All people presenting on behalf of or in conjunction with Summer of Code are
 asked to include a slide with all Gold and Platinum sponsors'
 logos at the beginning of their presentation.
 
