@@ -16,7 +16,7 @@
     top: 50%;
     left: 0;
     right: 0;
-    transform: translateY(-70%);
+    transform: translateY(-60%);
   }
 
   h1, h3 {
@@ -56,10 +56,9 @@
     border: 2px solid $white;
     text-transform: uppercase;
     text-decoration: none;
-    transition: transform 200ms ease, border 200ms ease;
+    transition: transform 200ms ease;
     &:hover {
       transform: scale(0.9);
-      border-color: $red
     }
   }
   
