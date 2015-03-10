@@ -26,3 +26,26 @@ If there are conflicts with our values, we will discuss them on a case by case b
 + Does the company show a sincere and sustainable effort in handling and overcoming a situation which conflicts with our values?
 
 This can also mean rejecting a company as a sponsor, as we have done before and might do in the future.
+
+## Information on VAT and Tax Deductability
+
+
+### For donors based in Germany:
+When filling out the donation form, we will show you a field to ask if VAT is a recoverable tax for you. If you answer 'yes', we will add the 19% VAT to your contribution.
+
+
+### For donors based in other European Union country:
+If you enter an EU country into the 'Country' field of the donation form, you will be shown a field for your VAT ID number. If you have one please enter it - otherwise your contribution will be reduced by 19% VAT.
+e.g. If you donate $2500, and do NOT enter your VAT number, Rails Girls Summer of Code receives $2025 of your donation.
+
+
+### For donors based elsewhere:
+We don’t really know about tax laws everywhere in the world but according to our tax advisor: “Contributions and payments to Rails Girls Summer of Code are not deductible as charitable contributions for federal income tax purposes. However, they may be deductible under other provisions of the Internal Revenue Code (for US) or your local tax authority’s advice.”
+
+## Cancellation Policy
+
+If for some unforeseen reason the Rails Girls Summer of Code can’t go ahead as planned, donors will be offered a refund of their donation. Alternatively you can decide to have your donation go to the Rails Girls organization to share your donation with other, future Rails Girls events across the globe.
+
+## Left-over monies
+
+Any money left over from the campaign will be saved for next year’s Rails Girls Summer of Code. Should there be no Summer of Code in 2015, the Rails Girls organization will decide how to best spend any left over donation money on other non-profit initiatives.
