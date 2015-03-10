@@ -40,7 +40,7 @@ participating as a student, please email us on [summer-of-code@railsgirls.com](m
 
 + *Social Coding*: And of course we are also on [GitHub](https://github.com/rails-girls-summer-of-code).
 
-### How to Get involved
+### How to get involved
 + [Become an organizer](/about/team): To help with the organizing of Rails Girls SoC, please join our [Organizers mailing list](https://groups.google.com/forum/?fromgroups#!forum/rails-girls-summer-of-code).
 + [Become a coach](/guide/coaching): You are a developer and want to support a team of students? Find all the information about working side-by-side with students on their project.
 + [Become a Coaching Company](/guide/coaching-company): Your company  is passionate about Open Source and has space and developer time to spare for a team? Find out how to become a Coaching Company.

@@ -346,7 +346,16 @@ a.button-burger {
     background: darken($red, 10)
   }
 }
-
+.donate-button-small {
+  padding: 0.7em 1em;
+  width: 50%;
+  white-space: nowrap;
+  display: inline-block;
+}
+.custom-donation-input {
+  width: 48%;
+  margin-right: 0 !important;
+}
 main.content {
   padding: 2em;
 }
