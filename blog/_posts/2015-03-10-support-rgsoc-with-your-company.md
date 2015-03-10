@@ -18,7 +18,7 @@ We love making things easy for our supporters, which is why on top of having rew
 Just like last year, we have several sponsoring packages for you to choose from: tiny to bombastic, we've got it all. Perks for sponsorships include having your swag in the care packages we send to all of our teams, your logo on our presentation slides and website, a mention in our Hall of Fame page, and mentions in our tweets, facebook posts and on the blog. Of course, being an early bird sponsor will qualify for some extra buzz! If you are interested in a sponsoring slot for the Rails Girls Summer of Code 2015, you can find all the detailed information [here](http://railsgirlssummerofcode.org/sponsors/packages).
 
 <img src="/img/blog/2015/support-with-your-company-swag.jpg" width="600">
-*ALL the sponsors! ALL the partners! ALL the swag! (Photo: Anika)*
+*ALL the sponsors! ALL the partners! ALL the swag! (Photo: Wiktoria Dalach)*
 
 ### Supporters  
 *Like sponsors, but different*  
@@ -41,7 +41,7 @@ We also encourage students who want to apply to look for local coaching companie
 In the past, we have also had people on our core team being supported by their own companies to work on Rails Girls Summer of Code issues and tasks, such as main coordination, dev and design work on our website or teams app, supervising teams, and so on. This is a great way to support us, because there is always a lot to do for the RGSoC (and a lot of the work can be done remotely). 
 
 <img src="/img/blog/2015/support-with-your-company-jump.png" width="600">
-*We need all the support we can get!* 
+*We need all the support we can get! (Photo: Anika Lindtner)* 
 
 Hopefully, we have given you a couple of ideas to support us this summer. If all else fails - there's always our [crowdfunding campaign](http://railsgirlssummerofcode.org/campaign)!
 
