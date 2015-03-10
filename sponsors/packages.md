@@ -10,7 +10,7 @@ permalink: /sponsors/packages/
 
 # Sponsorship Packages
 
-Rails Girls Summer of Code subsidises programming newcomers to learn and work
+Rails Girls Summer of Code subsidizes programming newcomers to learn and work
 on Open Source projects from July to September each year. You can help make this
 a reality by sponsoring a package, or partnering with us.
 
@@ -24,12 +24,15 @@ providing the Summer of Code subsidies. Your sponsorship will enter a budget
 pool, from which the selected students will be paid.
 
 The program sees a huge amount of publicity from our student teams, coaches and
-organisers: be it on Twitter, Facebook, blogs or at conferences and local developers
+organizers: be it on Twitter, Facebook, blogs or at conferences and local developers
 meet ups. It’s a great blend of marketing, and genuinely contributing to the
 development community.
 
-### Partnership Options
 
+### Partner Company Package
+
+To find out more about the option for becoming a partner company and what partner
+companies do, please <a href="mailto:summer-of-code@railsgirls.com.">write us an email</a>.
 
 
 ### Platinum
@@ -61,18 +64,12 @@ development community.
 * Lots of tweet love, hype and buzz from the community.
 
 
-We also offer a Diamond package. If you are interested please [get in touch](mailto:
-summer-of-code@railsgirls.com).
-
-Logos and links on the website will be sorted by package size and date.
+Logos and links on the website will be sorted by package size and date donation confirmed.
 
 Please also see the [Sponsors section](/faq/sponsors/) in our FAQ.  If you have
 any questions, comments, or don't feel this list quite represents what you have
 to offer, please get in touch: <a href="mailto:
 summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.
-
-We are looking forward to having you on board as a sponsor!
-
 
 ### Your swag in student support packages
 
@@ -93,12 +90,11 @@ All people presenting on behalf of or in conjunction with Summer of Code, are
 asked to include a slide with all Gold and Platinum sponsors'
 logos at the beginning of their presentation.
 
-### Your logo on our Hall of Fame
+### The Hall of Fame
 
-Starting this year we will list information about each year's instalment
-on a "Hall of Fame" page: Teams participating, projects completed, success
-stories to be told. This page will also include each year's Platinum and
-bigger sponsors.
+Platinum (or bigger) sponsor logos for each year are kept on our "Hall of Fame" pages.
+The pages list the teams that participated, projects contributed to, success
+stories, and any truly special moments from the program.
 
 ## Sponsorship Guidelines
 
