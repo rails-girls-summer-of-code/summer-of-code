@@ -46,6 +46,24 @@
   background: url(../../../img/squiggly-line-transparent.png) no-repeat;
 }
 
+.cta {
+  transform: translateY(5em);
+  text-align: center;
+  a {
+    display: inline-block;
+    color: $white;
+    padding: .3em 1.2em;
+    border: 2px solid $white;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: transform 200ms ease, color 200ms ease;
+    &:hover {
+      transform: scale(0.9);
+      color: $red
+    }
+  }
+  
+}
 
 .arrow-link {
   text-transform: uppercase;
