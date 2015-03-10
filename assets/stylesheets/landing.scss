@@ -56,10 +56,11 @@
     border: 2px solid $white;
     text-transform: uppercase;
     text-decoration: none;
-    transition: transform 200ms ease, border 200ms ease;
+    // transition: background 200ms ease;
     &:hover {
-      transform: scale(0.9);
-      border-color: $red
+      background-color: $white;
+      color: $red;
+      font-weight: 400;
     }
   }
   
