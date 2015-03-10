@@ -56,9 +56,10 @@
     border: 2px solid $white;
     text-transform: uppercase;
     text-decoration: none;
-    // transition: background 200ms ease;
+    transition: all 200ms linear;
+    background-color: rgba($white, 0);
     &:hover {
-      background-color: $white;
+      background-color: rgba($white, 1);
       color: $red;
       font-weight: 400;
     }
@@ -73,7 +74,6 @@
     content: "\2192";
     display: inline-block;
     margin-left: .5em;
-    // transition: margin 300ms linear;
   }
 }
 
