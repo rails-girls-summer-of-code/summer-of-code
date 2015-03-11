@@ -32,7 +32,7 @@ Allowing your devs dedicated time to coach a team will support a great cause, le
 
 Your devs can work as local or remote coaches, or help out in our helpdesk-channel. We'll write a blog post about your engagement and give you opportunities to reach out to our students with Job/Internship opportunities. 
  
-Your Coaches can register here: [https://teams.railsgirlssummerofcode.org/](https://teams.railsgirlssummerofcode.org/) and be sure to check our [Guides for coaches]http://railsgirlssummerofcode.org/guide/coaching/).
+Your Coaches can register here: [https://teams.railsgirlssummerofcode.org/](https://teams.railsgirlssummerofcode.org/) and be sure to check our [Guides for coaches](http://railsgirlssummerofcode.org/guide/coaching/).
 
 
 ### And more..  
