@@ -110,6 +110,18 @@
         - 2013
         - 2014
         - 2015
+    - name: Thoughtworks
+      id: thoughtworks
+      url: http://www.thoughtworks.com
+      text: |-
+        <a href="https://www.thoughtworks.com" target="_blank">ThoughtWorks</a> is a
+        software company and a community of passionate, purpose-led individuals. We
+        think disruptively to deliver technology to address our clients' toughest
+        challenges, all while seeking to revolutionize the IT industry and create
+        positive social change.
+      years:
+        - 2014
+        - 2015
 
 - name: Bronze
   title: Bronze Sponsors
@@ -327,15 +339,6 @@
     #     Summer of Code for the second time because we want to help increase the number
     #     of women who consider a career in tech and foster their chances to achieve this
     #     goal.
-    # - name: Thoughtworks
-    #   id: thoughtworks
-    #   url: http://www.thoughtworks.com
-    #   text: |-
-    #     <a href="https://www.thoughtworks.com" target="_blank">ThoughtWorks</a> is a
-    #     software company and a community of passionate, purpose-led individuals. We
-    #     think disruptively to deliver technology to address our clients' toughest
-    #     challenges, all while seeking to revolutionize the IT industry and create
-    #     positive social change.
     # - name: Carnesmedia
     #   id: carnesmedia
     #   url: http://carnesmedia.com
