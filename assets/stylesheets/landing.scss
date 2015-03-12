@@ -6,7 +6,7 @@
   position: relative;
   min-height: 28em;
   background: {
-    image: url(../images/2015.jpg);
+    image: url(../images/2015-small.jpg);
     size: cover;
     position: center center;
   }
@@ -16,7 +16,7 @@
     top: 50%;
     left: 0;
     right: 0;
-    transform: translateY(-80%);
+    transform: translateY(-70%);
   }
 
   h1, h3 {
@@ -46,6 +46,26 @@
   background: url(../../../img/squiggly-line-transparent.png) no-repeat;
 }
 
+.cta {
+  transform: translateY(3em);
+  text-align: center;
+  a {
+    display: inline-block;
+    color: $white;
+    padding: .3em 1.2em;
+    border: 2px solid $white;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all 200ms linear;
+    background-color: rgba($white, 0);
+    &:hover {
+      background-color: rgba($white, 1);
+      color: $red;
+      font-weight: 400;
+    }
+  }
+  
+}
 
 .arrow-link {
   text-transform: uppercase;
@@ -54,7 +74,6 @@
     content: "\2192";
     display: inline-block;
     margin-left: .5em;
-    // transition: margin 300ms linear;
   }
 }
 
