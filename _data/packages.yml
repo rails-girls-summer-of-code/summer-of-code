@@ -36,6 +36,15 @@
         - 2014
         - 2015
 
+- name: Platinum
+  title: Platinum Sponsors
+  sponsors:
+    - name: Mandrill
+      id: mandrill
+      url: http://mandrill.com
+      years:
+        - 2015
+
 - name: Gold
   title: Gold Sponsors
   sponsors:
@@ -174,6 +183,19 @@
         support the Rails Girls Summer of Code program, and their goals to promote
         diversity and equality in technology.
       years:
+        - 2015
+    - name: Wooga
+      id: wooga
+      url: http://www.wooga.com
+      text: |-
+        <a href="http://www.wooga.com/" target="_blank">Wooga</a> is one of the most
+        popular social games developers for web and mobile in the world. The company is
+        based in Berlin and employs over 250 people from 40 nations, working together
+        on free-to-play games that are enjoyed by around 50 million players per
+        month.
+      years:
+        - 2013
+        - 2014
         - 2015
 
     # - name: Anynines
