@@ -30,7 +30,7 @@ for sponsored teams, so you may have to save any long holidays for post-program 
 ## Establish Your Team
 
 ### Find a Pair
-One of the requirements of the Summer of Code is that your are a two-person team.
+One of the requirements of the Summer of Code is that you are a two-person team.
 
 Establishing a team means not just finding someone else to lodge an application
 with, but someone who you will be able to get along with over three months of
@@ -76,7 +76,7 @@ not seem like much, but being able to save and go back to your application to ad
 coaches, coaching companies, and further clarity to your project goals may be the
 difference between lodging an awesome or average application.
 
-The deadline for submitting your application is Wednesday 14th April, 2015. So take you time to create the best application you can using our drafting feature, before submitting.
+The deadline for submitting your application is Tuesday 14th April, 2015. So take your time to create the best application you can using our drafting feature, before submitting.
 
 Project Mentors will be required to sign off on your application in the week after submissions close; 15th - 22nd April, 2015.
 
