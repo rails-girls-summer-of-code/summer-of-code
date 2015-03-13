@@ -131,6 +131,12 @@
       years:
         - 2014
         - 2015
+    - name: Hitfox
+      id: hitfox
+      url: http://www.hitfoxgroup.com
+      years:
+        - 2014
+        - 2015
 
 - name: Bronze
   title: Bronze Sponsors
@@ -332,9 +338,6 @@
     #     lightsaber fights and sparkly shoes and I want the software industry to be a
     #     great place for her to work by the time she’s old enough, if that’s what she
     #     chooses.
-    # - name: Hitfox
-    #   id: hitfox
-    #   url: http://www.hitfoxgroup.com
     # - name: Newrelic
     #   id: newrelic
     #   url: http://newrelic.com
