@@ -221,4 +221,4 @@ Here is the basic checklist for your application:
 
 
 All set? Then go! Start your application here:
-<a href="http://teams.railsgirlssummerofcode.org/application">http://teams.railsgirlssummerofcode.org/application</a>.
+<a href="https://teams.railsgirlssummerofcode.org/apply">https://teams.railsgirlssummerofcode.org/apply</a>.
