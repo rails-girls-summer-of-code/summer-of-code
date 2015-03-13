@@ -1,11 +1,11 @@
 ---
 title: 2015 Applications Open Today!
 layout: post
-created_at: Wed Mar 02 2015
+created_at: Fri Mar 13 2015
 permalink: blog/2015-applications-open
 current: blog
-author: Anika
-twitter: langziehohr
+author: Sara
+twitter: RailsGirlsSoC
 ---
 
 After a few months of very diligent work on our Teams App, we've made preparing your
@@ -30,7 +30,7 @@ for sponsored teams, so you may have to save any long holidays for post-program 
 ## Establish Your Team
 
 ### Find a Pair
-One of the requirements of the Summer of Code is that your are a two-person team.
+One of the requirements of the Summer of Code is that you are a two-person team.
 
 Establishing a team means not just finding someone else to lodge an application
 with, but someone who you will be able to get along with over three months of
@@ -66,7 +66,7 @@ out our
 [guide for mentors and submitting projects](http://railsgirlssummerofcode.org/guide/projects/).
 
 
-## Lodge Your Application
+## Work on Your Application
 
 We've added some fantastic functionality to our application system, which will be
 extremely helpful as you complete your application.
@@ -75,6 +75,10 @@ You now have the ability to save your application as a draft. It may
 not seem like much, but being able to save and go back to your application to add
 coaches, coaching companies, and further clarity to your project goals may be the
 difference between lodging an awesome or average application.
+
+The deadline for submitting your application is Tuesday 14th April, 2015. So take your time to create the best application you can using our drafting feature, before submitting.
+
+Project Mentors will be required to sign off on your application in the week after submissions close; 15th - 22nd April, 2015.
 
 ### Assess your coding level
 We know that trying to outline your coding level can be pretty subjective. Therefore,
