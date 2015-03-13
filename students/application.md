@@ -10,7 +10,7 @@ permalink: /students/application/
 
 <h1>Application Guide</h1>
 
-Applications for Rails Girls Summer of Code will be open <strong>in March 2015</strong>!
+Applications for Rails Girls Summer of Code will be open for 1 month <strong>starting March 13th, 2015</strong>!
 
 This guide gives you all the information about what you will need when applying
 for Summer of Code. Please read this carefully to ensure you know about all the requirements of
@@ -152,15 +152,20 @@ If you know an Open Source project you might want to apply for, but has not yet 
 
 <h2 id="lodge-application">Lodging Your Application</h2>
 
-**Applications for Rails Girls Summer of Code will be open during March 2015**
+**Applications for Rails Girls Summer of Code will be open starting March 13th, 2015.    
+Applications will close on April 14th, 2015, 23:59hrs UTC.**
 
-We will accept one application per team. You can apply for *one* project. In case you wish to apply for another, alternative project, you can do so within your application. 
+We will accept one application per team. You can apply for **one** project. In case you wish to apply for another, alternative project, you can do so within your application. 
 
-The application requires information on all the aspects mentioned in this Application Guide as well as information about yourself and your past learning experiences. Both you and your pair will enter these information separately.  
+The application requires information on all the aspects mentioned in this Application Guide as well as information about yourself and your past learning experiences. Both you and your pair will enter these information separately.    
 
-Additionally, we require statements by your coaches and the mentor of your chosen project. These statements will be placed by the coaches and mentors themselves.
+It is now possible to save drafts of your application. Hence, you can start lodging your application and keep track of the state of your application in a central place.      
 
-It is now possible to save drafts of your application. Hence, you can start lodging your application and keep track of the state of your application in a central place. 
+Additionally, we require statements by your coaches and the mentor of your chosen project. These statements will be placed by the coaches and mentors themselves.      
+
+From your coaches, we will ask how much time they have to support you and a general assessment on why they think your team will be successful in working on your chosen project. The sign-off by the coaches can happen during draft-mode. That means, you are able to make further changes afterwards. However, be aware that the coaches’ statement needs to be done **before** you submit your application. We also strongly advise you to have your core project plan settled when your coaches will add their statements so they can make a realistic statement.       
+
+The sign-off by your mentor will happen **after** you have submitted your application. The mentor will automatically be notified. The RGSoC organizing team will then take care that all applications are signed-off by the respective mentors.         
 
 If you have any queries about this, please <a href="mailto:summer-of-code@railsgirls.com">contact us</a>.
 
