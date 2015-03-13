@@ -155,7 +155,7 @@ If you know an Open Source project you might want to apply for, but has not yet 
 **Applications for Rails Girls Summer of Code will be open starting March 13th, 2015.    
 Applications will close on April 14th, 2015, 23:59hrs UTC.**
 
-We will accept one application per team. You can apply for *one* project. In case you wish to apply for another, alternative project, you can do so within your application. 
+We will accept one application per team. You can apply for **one** project. In case you wish to apply for another, alternative project, you can do so within your application. 
 
 The application requires information on all the aspects mentioned in this Application Guide as well as information about yourself and your past learning experiences. Both you and your pair will enter these information separately.    
 
