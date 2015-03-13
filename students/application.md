@@ -197,7 +197,7 @@ During the Summer of Code we have the following requirements which students have
 * Agree to have published team information on our website and blog (e.g. team introduction, team blog posts). This includes some form of visual material of yourself.
 * In case of participation in a conference where tickets are provided by RGSoC: Hold a lightning talk about your project work or write a blog post about the conference participation.
 
-Rails Girls Summer of Code will assist and support you with any of these requirements. As a further insight on how to meet these requirements and setting up a good working environment, please read our article on <a href="http://railsgirlssummerofcode.org/students/todo/">"Things to do"</a>, where we gathered suggestions and recommendations for students. 
+Rails Girls Summer of Code will assist and support you with any of these requirements. As a further insight on how to meet these requirements and setting up a good working environment, please read our article on <a href="http://railsgirlssummerofcode.org/students/todo/">"What to expect"</a>, where we gathered suggestions and recommendations for students. 
 
 We strongly advise you to get acquainted with these requirements before and during application time. We will make sure the requirements are complied with and will take steps in case of breaches.
 
