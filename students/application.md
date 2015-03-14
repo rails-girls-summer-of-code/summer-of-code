@@ -39,7 +39,7 @@ Applications to Rails Girls Summer of Code are open to anyone who:
   No-one is excluded from applying on the basis of gender, but people who
   self-identify as female, or have experiences being socialized as female, are
   given preference during selection.
-* Has attended one or more **<a href="http://railsgirls.com/">Rails Girls</a> workshop** or has been involved in similar initiatives (e.g. RailsBridge, Women Who Code, Black Girls Code ...).
+* Has attended one or more workshops organized by and is involved in communities like **<a href="http://railsgirls.com/">Rails Girls</a>**, Railsbridge, Black Girls Code, PyLadies, or similar initiatives.
 * Has about a year (or more) experience of continuous learning, i.e. has significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples.
 * Can spend 3 months (July to September 2015) working **fulltime** on their Open Source project of
   choice.
