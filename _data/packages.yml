@@ -108,13 +108,17 @@
         programming to more great people!
       years:
         - 2015
-    - name: Dawanda
+    - name: DaWanda
       id: dawanda
       url: http://www.dawanda.com
       text: |-
-        <a href="http://www.dawanda.com" target="_blank">DaWanda</a> is the online
-        marketplace for unique and handmade items. More than 220.000 Designers and
-        creatives offer their one of a kind and limited-edition products for sale.
+        <a href="http://www.dawanda.com" target="_blank">DaWanda</a> DaWanda is the
+        designated online marketplace for unique and handmade items with over 5 million
+        users. The engineers and designers who keep this well-oiled machinery running
+        pride themselves on a warm and welcoming working environment, where learning
+        and knowledge exchange are actively promoted. This Ruby/Rails-focused company
+        cultivates diversity and creativity. From juniors to experts, everyone is heard
+        and encouraged to make a dent.
       years:
         - 2013
         - 2014
