@@ -140,6 +140,11 @@
       years:
         - 2014
         - 2015
+    - name: Blue Box
+      id: bluebox
+      url: http://www.blueboxcloud.com
+      years:
+        - 2015
 
 - name: Bronze
   title: Bronze Sponsors
