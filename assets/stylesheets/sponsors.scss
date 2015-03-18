@@ -67,9 +67,9 @@
     float: right;
     font-family: FontAwesome;
     font-style: normal;
-    font-size: 12px;
+    font-size: 10px;
     color: #d82222;
-    margin: 3px 4px 3px 0px;
+    margin: 3px 0px;
   }
 
   a:last-child {
@@ -153,10 +153,10 @@
 .sponsors a .years {
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: 7px;
   width: 100px;
   height: 25px;
-  margin-right: 3px;
+  margin-right: 0;
   text-align: right;
 }
 .sponsors .year {
