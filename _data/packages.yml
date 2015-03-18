@@ -207,6 +207,18 @@
         - 2013
         - 2014
         - 2015
+    - name: Shopify
+      id: shopify
+      url: https://www.shopify.com
+      text: |-
+        <a href="http://www.shopify.com/" target="_blank">Shopify</a> helps emerging
+        small businesses get off the ground and grow into successful companies by
+        creating great technology and by making it accessible to people that previously
+        wouldn't be able to afford it.
+      years:
+        - 2013
+        - 2014
+        - 2015
 
     # - name: Anynines
     #   id: anynines
@@ -307,14 +319,6 @@
     #     passionate about removing barriers to learning, and supporting women in tech.
     #     Sponsoring Rails Girls is one way we’re living out these values. We’re honored
     #     to help bring more women into the wonderful world of code.
-    # - name: Shopify
-    #   id: shopify
-    #   url: https://www.shopify.com
-    #   text: |-
-    #     <a href="http://www.shopify.com/" target="_blank">Shopify</a> helps emerging
-    #     small businesses get off the ground and grow into successful companies by
-    #     creating great technology and by making it accessible to people that previously
-    #     wouldn't be able to afford it.
     # - name: Nuggad
     #   id: nuggad
     #   url: http://www.nugg.ad
