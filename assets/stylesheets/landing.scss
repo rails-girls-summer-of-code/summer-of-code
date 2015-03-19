@@ -31,10 +31,16 @@
   }
   h1 {
     margin-bottom: .5em;
-    font-size: 60px;
+    font-size: 40px;
   }
   h3 {
     font-size: 30px; 
+  }
+
+  @media screen and (min-width: $screen-md) {
+    h1 {
+      font-size: 60px;
+    }
   }
 
 }
@@ -102,7 +108,8 @@
   }
 }
 .landing-teaser {
-  padding-right: 2rem;
+  padding: 0 2rem;
+  margin-bottom: 2em;
   &:last-child {
     padding-right: none;
   }
@@ -118,6 +125,10 @@
       height: 44px;
       background-image: url(../images/bird.png);
     }
+  }
+  @media screen and (min-width: $screen-md) {
+    padding: 0 2rem 0 0;
+    margin-bottom: 0;
   }
 
   div {
@@ -186,9 +197,13 @@
   padding: 4em 0 2em;
 
   > div:nth-child(2) {
-    border-left: 2px solid $grey;
     padding: 0 1.5em 2em;
     margin-left: -0.4em;
+    margin-top: 3em;
+    @media screen and (min-width: $screen-md) {
+      border-left: 2px solid $grey;
+      margin-top: 0;
+    }
   }
 
   h3 {
@@ -210,10 +225,14 @@
 
 .csscolumns {
   .landing-misc {
-    ul {
-      // -webkit-columns: 2;
-      -moz-columns: 2;
-      columns: 2;
+    padding: 0 2em;
+    @media screen and (min-width: $screen-md) {
+      padding: 0;
+      ul {
+        // -webkit-columns: 2;
+        -moz-columns: 2;
+        columns: 2;
+      }
     }
   }
 }
