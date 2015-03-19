@@ -233,6 +233,9 @@
         apps. We help the people who build modern software understand the stories their
         data is trying to tell them. With firm roots in the Open Source Community,
         we’re thrilled to support RailsGirls and the amazing work they do.
+      years:
+        - 2014
+        - 2015
 
     # - name: Anynines
     #   id: anynines
