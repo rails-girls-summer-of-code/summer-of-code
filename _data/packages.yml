@@ -224,6 +224,15 @@
         - 2013
         - 2014
         - 2015
+    - name: New Relic
+      id: newrelic
+      url: http://newrelic.com
+      text: |-
+        <a href="http://newrelic.com" target="_blank">New Relic</a> is a Software
+        Analytics company that makes sense of billions of metrics across millions of
+        apps. We help the people who build modern software understand the stories their
+        data is trying to tell them. With firm roots in the Open Source Community,
+        we’re thrilled to support RailsGirls and the amazing work they do.
 
     # - name: Anynines
     #   id: anynines
@@ -349,15 +358,6 @@
     #     lightsaber fights and sparkly shoes and I want the software industry to be a
     #     great place for her to work by the time she’s old enough, if that’s what she
     #     chooses.
-    # - name: Newrelic
-    #   id: newrelic
-    #   url: http://newrelic.com
-    #   text: |-
-    #     <a href="http://newrelic.com" target="_blank">New Relic</a> is a Software
-    #     Analytics company that makes sense of billions of metrics across millions of
-    #     apps. We help the people who build modern software understand the stories their
-    #     data is trying to tell them. With firm roots in the Open Source Community,
-    #     we’re thrilled to support RailsGirls and the amazing work they do.
     # - name: Malwarebytes
     #   id: malwarebytes
     #   url: http://www.malwarebytes.org
