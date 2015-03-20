@@ -42,6 +42,14 @@
     - name: Mandrill
       id: mandrill
       url: http://mandrill.com
+      text: |-
+        Trusted by more than 375,000 customers, <a href="http://mandrill.com">Mandrill</a>
+        is a scalable, reliable, and secure email infrastructure service that's easy to
+        set up and integrate with existing apps. It’s really fast, too. With servers
+        all over the world, we can deliver your email in milliseconds. Our detailed
+        delivery reports, advanced analytics, and friendly interface mean your entire
+        team — from developers to marketers — can easily monitor and evaluate email
+        performance.
       years:
         - 2015
 
