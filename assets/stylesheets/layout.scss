@@ -104,8 +104,10 @@ a:active {
   li:first-child a {
     margin-left: -0.5em;
   }
-  li {
-    margin-right: 1.5em;
+  @media screen and (min-width: $screen-md) {
+    li {
+      margin-right: 1.5em;
+    }
   }
   li:last-child {
     margin-right: 0;
@@ -213,6 +215,11 @@ a.button-burger {
       image: url(../images/megaphone.png);
     }
   }
+  @media screen and (max-width: $screen-md) {
+    .row {
+      padding: 0 2em;
+    }
+  }
 }
 .footer-child {
   &:first-child {
@@ -223,9 +230,11 @@ a.button-burger {
       border-top: 2px solid $white;
     }
   }
-  &:last-child {
-    margin-top: 2em;
-    padding: 1em 0;
+  @media screen and (min-width: $screen-md) {
+    &:last-child {
+      margin-top: 2em;
+      padding: 1em 0;
+    }
   }
 
   h3 {
