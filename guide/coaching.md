@@ -51,6 +51,6 @@ permalink: /guide/coaching/
 
 <p>If you don't know any students yet, reach out to your local <a href="http://railsgirls.com/">Rails Girls chapter</a>. There you can get to know students and other coaches. We also recommend reaching out to local developer and Ruby user groups, as well as study groups (if there are any in your area).</p>
 
-<p>We also have a <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>: send an email introducing yourself and offering to become a coach. Additionally, you can spread the word on Twitter mentioning <a href="http://www.twitter.com/railsgirlsoc">@RailsGirlsSoC</a> and we'll retweet and help you connect to students.</p>
+<p>We also have a <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>: send an email introducing yourself and offering to become a coach. Additionally, you can spread the word on Twitter mentioning <a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a> and we'll retweet and help you connect to students.</p>
 
 <p>If you have any further questions, drop us a line at <a href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.</p>

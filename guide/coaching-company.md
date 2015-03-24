@@ -137,7 +137,7 @@ could do with your support.
 
 1) Look for a team in your city; this might require reaching out to your local <a href="http://railsgirls.com/">Rails Girls chapter</a> and to development communities such as your local Ruby groups to let them know that you're willing to host a team.  
 2) Also send an email to the <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>,
-offering your space and coaches. You can spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/railsgirlsoc">@RailsGirlsSoC</a>); we'll retweet and help you connect to students.  
+offering your space and coaches. You can spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we'll retweet and help you connect to students.  
 3) Register yourself and your coaches here: <a href="http://teams.railsgirlssummerofcode.org">teams.railsgirlssummerofcode.org</a> so that students applying can find you.  
 
 
