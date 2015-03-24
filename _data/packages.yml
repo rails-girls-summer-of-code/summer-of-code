@@ -267,6 +267,13 @@
     - name: Geckoboard
       id: geckoboard
       url: https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link
+      text: |-
+        <a href="https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link">Geckoboard</a>
+        is on a mission to give everyone instant access to their data, no matter where
+        they are. Founded in 2010, Geckoboard changed the game for data visualisation
+        tools with its simple and intuitive real-time dashboards. Geckoboard is proud
+        to be supporting Rails Girls Summer of Code and excited about the innovation
+        that’ll inevitably come from it.
       years:
         - 2015
 
