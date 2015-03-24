@@ -264,6 +264,11 @@
       years:
         - 2014
         - 2015
+    - name: Geckoboard
+      id: geckoboard
+      url: https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link
+      years:
+        - 2015
 
     # - name: Anynines
     #   id: anynines
