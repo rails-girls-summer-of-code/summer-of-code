@@ -1,4 +1,8 @@
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-weight: 400;
   overflow-x: hidden;
@@ -217,7 +221,7 @@ a.button-burger {
   }
   @media screen and (max-width: $screen-md) {
     .row {
-      padding: 0 2em;
+      // padding: 0 2em; sara-change
     }
   }
 }
@@ -228,6 +232,7 @@ a.button-burger {
   &:nth-child(2) {
     .container {
       border-top: 2px solid $white;
+      padding-left: 0.5em;
     }
   }
   @media screen and (min-width: $screen-md) {
