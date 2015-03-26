@@ -141,7 +141,7 @@ The same applies to your coaches. Already during application time, talk to them 
 
 <h2 id="find-project">How to Find a Project</h2>
 
-Don’t know where to start?  We are collecting project proposals for 2014 in
+Don’t know where to start?  We are collecting project proposals for 2015 in
 <a href="https://github.com/rails-girls-summer-of-code/projects/issues">this repository</a>.
 
 Talk to your coaches and other people of your local Rails Girls community - they will have good ideas. You also can ask on the <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>, or via <a href="https://www.twitter.com/railsgirlssoc">@RailsGirlsSoC</a> on Twitter.

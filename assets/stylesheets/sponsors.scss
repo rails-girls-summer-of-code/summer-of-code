@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .sponsor-container {
+  padding-left: 1em;
   h3 {
     margin-bottom: 1em;
     font-size: 30px;
@@ -36,6 +37,7 @@
   .platinum h4 {
     top: 175px;
   }
+
 }
 
 .sponsors {
@@ -78,9 +80,17 @@
 
   &.partners a,
   &.platinum a {
-    width: 320px;
+    width: 260px;
     height: 181px;
   }
+
+  @media screen and (min-width: 340px) {
+      &.partners a,
+      &.platinum a {
+        width: 320px;
+        height: 181px;
+      }
+    }
 
   .badge:after {
     font-family: Helvetica Neue, Arial, sans-serif;
@@ -125,8 +135,14 @@
   top: 125px;
 }
 .sponsors.gold a {
-  width: 320px;
+  width: 250px;
   height: 131px;
+}
+@media screen and (min-width: 340px) {
+  .sponsors.gold a {
+    width: 320px;
+    height: 131px;
+  }
 }
 #sponsors .silver h4 {
   top: 87px;
