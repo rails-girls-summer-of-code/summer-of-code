@@ -293,6 +293,10 @@
         to provision, manage and monitor applications in the cloud. As an active
         sponsor and participant in the Ruby on Rails community since 2006, we are very
         proud to support Rails Girls Summer of Code!
+      years:
+        - 2013
+        - 2014
+        - 2015
 
     # - name: Anynines
     #   id: anynines
