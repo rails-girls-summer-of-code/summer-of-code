@@ -284,6 +284,15 @@
       url: https://developer.spotify.com
       years:
         - 2015
+    - name: Engineyard
+      id: engineyard
+      url: https://www.engineyard.com
+      text: |-
+        <a href="http://www.engineyard.com/" target="_blank">Engine Yard</a> is the
+        leading cloud application management platform empowering developers and DevOps
+        to provision, manage and monitor applications in the cloud. As an active
+        sponsor and participant in the Ruby on Rails community since 2006, we are very
+        proud to support Rails Girls Summer of Code!
 
     # - name: Anynines
     #   id: anynines
@@ -314,15 +323,6 @@
     #     with built on Rails, making them all the more excited to support
     #     Rails Girls Summer of Code and the open source contributions "Rails
     #     Girls" makes possible.
-    # - name: Engineyard
-    #   id: engineyard
-    #   url: https://www.engineyard.com
-    #   text: |-
-    #     <a href="http://www.engineyard.com/" target="_blank">Engine Yard</a> is the
-    #     leading cloud application management platform empowering developers and DevOps
-    #     to provision, manage and monitor applications in the cloud. As an active
-    #     sponsor and participant in the Ruby on Rails community since 2006, we are very
-    #     proud to support Rails Girls Summer of Code!
     # - name: Orcasnet
     #   id: orcasnet
     #   url: http://orcasnet.com
