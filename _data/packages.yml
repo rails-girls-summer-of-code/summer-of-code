@@ -231,10 +231,13 @@
       id: shopify
       url: https://www.shopify.com
       text: |-
-        <a href="http://www.shopify.com/" target="_blank">Shopify</a> helps emerging
-        small businesses get off the ground and grow into successful companies by
-        creating great technology and by making it accessible to people that previously
-        wouldn't be able to afford it.
+        <a href="http://www.shopify.com/" target="_blank">Shopify</a>
+        is a commerce platform that allows anyone to easily sell online, at their
+        retail location, and everywhere in between. Shopify powers over
+        150,000 retailers in 150 different countries, and was
+        one of the first companies built on Ruby
+        on Rails. We are proud to support Rails Girls Summer of Code in their mission
+        to increase diversity in tech and contribute to Open Source projects.
       years:
         - 2013
         - 2014
@@ -274,6 +277,11 @@
         tools with its simple and intuitive real-time dashboards. Geckoboard is proud
         to be supporting Rails Girls Summer of Code and excited about the innovation
         that’ll inevitably come from it.
+      years:
+        - 2015
+    - name: Spotify
+      id: spotify
+      url: https://developer.spotify.com
       years:
         - 2015
 
