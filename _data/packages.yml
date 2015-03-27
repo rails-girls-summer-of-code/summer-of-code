@@ -297,6 +297,18 @@
         - 2013
         - 2014
         - 2015
+    - name: Nedap
+      id: nedap
+      url: https://www.nedap.com
+      text: |-
+        <a href="http://www.nedap.com/" target="_blank">Nedap</a> is a manufacturer of
+        intelligent technological solutions for relevant themes. Sufficient food for a
+        growing population, clean drinking water throughout the world, smart networks
+        for sustainable energy are just a couple of examples of themes Nedap is working
+        on.
+      years:
+        - 2013
+        - 2015
 
     # - name: Anynines
     #   id: anynines
@@ -480,12 +492,6 @@
     #     <a href="http://www.dockyard.com/" target="_blank">Dockyard</a> is a Ruby on
     #     Rails, PostgreSQL, and Ember.js web application development software
     #     consultancy based in Boston, MA.
-    #   text: |-
-    #     a href="http://www.nedap.com/" target="_blank">Nedap</a> is a manufacturer of
-    #     intelligent technological solutions for relevant themes. Sufficient food for a
-    #     growing population, clean drinking water throughout the world, smart networks
-    #     for sustainable energy are just a couple of examples of themes Nedap is working
-    #     on.
     #   text: |-
     #     <a href="http://pivotallabs.com/" target="_blank">Pivotal Labs</a> has been at
     #     the forefront of agile development for more than two decades building highly
