@@ -309,6 +309,16 @@
       years:
         - 2013
         - 2015
+    - name: Upworthy
+      id: upworthy
+      url: https://www.upworthy.com
+      text: |-
+        <a href="http://www.upworthy.com/" target="_blank">Upworthy</a> is built on
+        Rails and a social media machine with a mission: to make important stuff as
+        viral as a video of some idiot surfing off his roof.
+      years:
+        - 2013
+        - 2015
 
 
     # - name: Anynines
@@ -515,9 +525,5 @@
     #     platform offering private accommodation for all tastes and budgets. By
     #     connecting guests and hosts worldwide, Wimdu offers an enjoyable, authentic
     #     travel experience for those looking for a smart alternative to hotels.
-    #   text: |-
-    #     <a href="http://www.upworthy.com/" target="_blank">Upworthy</a> is built on
-    #     Rails and a social media machine with a mission: to make important stuff as
-    #     viral as a video of some idiot surfing off his roof.
 
 
