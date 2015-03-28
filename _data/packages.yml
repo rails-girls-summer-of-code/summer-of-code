@@ -313,9 +313,10 @@
       id: upworthy
       url: https://www.upworthy.com
       text: |-
-        <a href="http://www.upworthy.com/" target="_blank">Upworthy</a> is built on
-        Rails and a social media machine with a mission: to make important stuff as
-        viral as a video of some idiot surfing off his roof.
+        <a href="http://www.upworthy.com/" target="_blank">Upworthy</a> draws massive
+        amounts of attention to things that matter. The mission is to spread stories
+        for a better world. Our website is one of the most highly-trafficked Rails apps
+        in the world, and we're committed to building a diverse and inclusive team.
       years:
         - 2013
         - 2015
