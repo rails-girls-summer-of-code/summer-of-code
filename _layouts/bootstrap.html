@@ -9,23 +9,22 @@
 
   </head>
   <body class="{{ page.class }}">
-    <div class="container-fluid">
-      <header id="header" class="header" role="banner">
+    <header id="header" class="header" role="banner">
 
-        {% include navigation.html %}
+      {% include navigation.html %}
 
-      </header><!-- /header -->
-      <main role="main" class="content">
+    </header><!-- /header -->
+    <main role="main" class="content">
 
-        {{ content }}
+      {{ content }}
 
-        {% if page.stripe %}
-          {% include stripe_form.html %}
-        {% endif %}
+      {% if page.stripe %}
+        {% include stripe_form.html %}
+      {% endif %}
 
-      </main>
+    </main>
 
-      {% include footer.html %}
-      
+    {% include footer.html %}
+
   </body>
 </html>
