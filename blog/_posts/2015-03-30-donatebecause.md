@@ -18,6 +18,8 @@ Now let's get down to the cold, hard facts. Since March 5th, **98 individual don
 
 <blockquote class="twitter-tweet" lang="en"><p>Feels good to see <a href="https://twitter.com/engineyard">@engineyard</a> sponsoring <a href="https://twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>! Go donate, help fill those seats with aspiring developers! <a href="http://t.co/iEqXQHd2wQ">http://t.co/iEqXQHd2wQ</a></p>&mdash; Sebastian Gräßl (@bastilian) <a href="https://twitter.com/bastilian/status/581203205540995072">March 26, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p>sudo donate to <a href="https://twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a> here: <a href="http://t.co/Ufzbpe6MJB">http://t.co/Ufzbpe6MJB</a></p>&mdash; Herr Lucas Pinto (@medk_) <a href="https://twitter.com/medk_/status/580769034871971842">March 25, 2015</a></blockquote>
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Our most popular sponsor package seems to be the Bronze package, followed by the Silver. And believe it or not: with the donations collected thus far – totalling **75516 USD** – you funded 7.5 teams! **But it's not over yet, and we want to be able to fund at least 10 teams – this means we still need your help to achieve our goal**!  
