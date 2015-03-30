@@ -40,6 +40,9 @@ a:active {
     text-indent: 999%;
     white-space: nowrap;
   }
+  @media screen and (max-width: $screen-sm) {
+    margin-left: 10px;
+  }
 }
 
 .header {
