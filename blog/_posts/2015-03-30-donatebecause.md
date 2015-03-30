@@ -1,5 +1,5 @@
 ---
-title: Rails Girls Summer of Code teams announced
+title: Help us fund the last 5 students!
 layout: post
 created_at: Sat Mar 30 2015
 permalink: blog/donatebecause
