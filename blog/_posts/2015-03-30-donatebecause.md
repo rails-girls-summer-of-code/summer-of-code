@@ -40,5 +40,8 @@ We've asked some of our team members why you should donate to RGSoC, and here's 
 <font color="grey"><small><i>(Photo: Laura Gaetano)</i></small></font>  
 
 <img src="/img/blog/2015/donatebecause-sara.jpg" width="600">
-<font color="grey"><small><i>(Photo: Sara Regan)</i></small></font>
+<font color="grey"><small><i>(Photo: Sara Regan)</i></small></font>  
+
+We're sure you can think of a lot more reasons why anyone would want to donate to the Rails Girls Summer of Code. Tweet about them with the hashtag \#donatebecause; make sure you mention us (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>) so we can retweet! And don't forget to go to our <a href="http://railsgirlssummerofcode.org/campaign">campaign page</a>, <a href="http://railsgirlssummerofcode.org/campaign">make a donation</a>, and help us reach our goal <3
+
 
