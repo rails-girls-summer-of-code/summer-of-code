@@ -320,6 +320,11 @@
       years:
         - 2013
         - 2015
+    - name: Buffer
+      id: buffer
+      url: https://bufferapp.com
+      years:
+        - 2015
 
 
     # - name: Anynines
