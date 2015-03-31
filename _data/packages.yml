@@ -331,6 +331,11 @@
       url: https://bufferapp.com
       years:
         - 2015
+    - name: Compose
+      id: compose
+      url: https://compose.io
+      years:
+        - 2015
 
 
     # - name: Anynines
