@@ -1,7 +1,7 @@
 ---
 title: "Meet the first seven teams for Rails Girls Summer of Code 2014!"
 layout: post
-created_at: Tue May 6
+created_at: Tue May 6 2014
 permalink: blog/2014-05-07-meet-the-first-seven-teams-rgsoc-2014
 current: blog
 author: RGSoC Team
