@@ -322,10 +322,10 @@
       url: https://www.nedap.com
       text: |-
         <a href="http://www.nedap.com/" target="_blank">Nedap</a> is a manufacturer of
-        intelligent technological solutions for relevant themes. Sufficient food for a
-        growing population, clean drinking water throughout the world, smart networks
-        for sustainable energy are just a couple of examples of themes Nedap is working
-        on.
+        intelligent technological solutions for relevant themes. The success of Nedap
+        is based on creativity and a fundamental understanding of technology and
+        electronics. We are happy to support the Rails Girls Summer of Code and its
+        mission.
       years:
         - 2013
         - 2015
