@@ -17,9 +17,10 @@ for Summer of Code. Please read this carefully to ensure you know about all the 
 a good and complete application.
 
 * <a href="#eligibility">Who Is Eligible to Apply?</a>
+* <a href="#Stipend">How much is the scholarship?</a>
 * <a href="#components">What Do You Need to Apply?</a>
-  * <a href="#coaches">Coaches</a>
   * <a href="#pair">Another Student to Pair With</a>
+   * <a href="#coaches">Coaches</a>
   * <a href="#workplace">A Place to Work</a>
   * <a href="#projectplan">A Project Plan</a>
 * <a href="#find-coach">How to Find Coaches and a Team Pair</a>
@@ -47,21 +48,12 @@ Applications to Rails Girls Summer of Code are open to anyone who:
 You do **not** have to be a student at a University to apply, and there are
 certainly no degree or age limitations.
 
+<h2 id="Stipend">How much is the scholarship?</h2>
+
+The scholarship can be up to 1500 USD monthly. This will be based on where you live, how much your rent is, and special cirumstances. We will rely on information of the world bank regarding living costs and the details you give in your applications. 
+
+
 <h2 id="components">What Do You Need to Apply?</h2>
-
-<h3 id="coaches">Coaches</h3>
-
-Coaches are developers who sit down with you, guide you through relevant coding steps and troubleshoot with you at regular intervals. Therefore, it is strongly advised that coaches are based in the same city.
-
-From past experiences, we recommend a time of 1-2 hrs/day of coaching time.
-Therefore, we recommend a minimum of 2 coaches, so they can share their timely involvement and you and your team pair will have more flexible support.
-
-Be specific about the days and hours when your coaches can help you. A roster of which coach will help on which days is favorable for your application. Discuss your project with your coaches and make sure they can support you.
-
-Finding a coach in your geographic location is strongly advised. Better yet, being able to work with them in their office. Having someone to sit down and
-troubleshoot with will increase your odds of having a successful and enjoyable Summer of Code.
-
-Coaches are volunteers, and cannot expect any financial reimbursement from RGSoC. However, they will find coaching a highly fulfilling practice with many insights into their own coding skills. For further information on coaching a Rails Girls Summer of Code team, please read our <a href="http://railsgirlssummerofcode.org/guide/coaching/">guide on coaching</a>. It will help you in explaining the scope of involvement to potential coaches.
 
 <h3 id="pair">Another Student to Pair With</h3>
 
@@ -78,6 +70,21 @@ and could potentially work well together. There is nothing more detrimental to
 project success than an unhappy or unproductive team mate.
 
 For more advice on finding a team mate and coach, take a look at the <a hre="#find-coach">"How to Find Coaches and a Team Pair"</a> article at the bottom of this page.
+
+<h3 id="coaches">Coaches</h3>
+
+Coaches are developers who sit down with you, guide you through relevant coding steps and troubleshoot with you at regular intervals. Therefore, it is strongly advised that coaches are based in the same city.
+
+From past experiences, we recommend a time of 1-2 hrs/day of coaching time.
+Therefore, we recommend a minimum of 2 coaches, so they can share their timely involvement and you and your team pair will have more flexible support.
+
+Be specific about the days and hours when your coaches can help you. A roster of which coach will help on which days is favorable for your application. Discuss your project with your coaches and make sure they can support you.
+
+Finding a coach in your geographic location is strongly advised. Better yet, being able to work with them in their office. Having someone to sit down and
+troubleshoot with will increase your odds of having a successful and enjoyable Summer of Code.
+
+Coaches are volunteers, and cannot expect any financial reimbursement from RGSoC. However, they will find coaching a highly fulfilling practice with many insights into their own coding skills. For further information on coaching a Rails Girls Summer of Code team, please read our <a href="http://railsgirlssummerofcode.org/guide/coaching/">guide on coaching</a>. It will help you in explaining the scope of involvement to potential coaches.
+
 
 <h3 id="workplace">A Place to Work</h3>
 
