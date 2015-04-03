@@ -168,9 +168,9 @@ $.extend(Donation.prototype, {
   name: function() {
     var name = this.data.name || this.data.twitter_handle || this.data.github_handle || 'Anonymous';
     if (this.data.homepage) {
-      return $('<a></a>').attr('href', this.data.homepage).text(name);
+      return $('<a></a>').attr('href', this.data.homepage).attr('title', name).text(name);
     } else {
-      return $('<span></span>').text(name);
+      return $('<span></span>').attr('title', name).text(name);
     }
   },
   github: function() {
