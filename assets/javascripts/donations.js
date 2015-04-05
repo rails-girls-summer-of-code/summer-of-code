@@ -257,10 +257,13 @@ $.extend(Stats.prototype, {
     });
   },
   render: function() {
-    $('.total', this.element).text(this.total() + ' USD');
+    $('.total', this.element).text(this.formattedTotal());
   },
   total: function () {
     return Math.round(this.data.total / 100);
+  },
+  formattedTotal: function() {
+    return parseInt(this.total()).toLocaleString('EN') + ' USD';
   }
 });
 
