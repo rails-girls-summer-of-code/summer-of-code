@@ -378,6 +378,12 @@
     - name: Airbnb
       id: airbnb
       url: https://www.airbnb.com
+      text: |-
+        <a href="https://www.airbnb.com">Airbnb</a> is a leading community-driven
+        hospitality company. On Airbnb people can list and book amazing properties from
+        around the globe. Airbnb seeks to create a world where people can belong
+        anywhere. As a part of this we support initiatives like Rails Girls Summer of
+        Code that promote diversity in the technology industry.
       years:
         - 2015
 
