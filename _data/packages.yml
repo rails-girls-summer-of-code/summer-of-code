@@ -174,6 +174,13 @@
         - 2013
         - 2014
         - 2015
+    - name: Hashrocket
+      id: hashrocket
+      url: http://hashrocket.com
+      text: |-
+      years:
+        - 2014
+        - 2015
 
 - name: Bronze
   title: Bronze Sponsors
@@ -456,9 +463,6 @@
     #     diverse and open developer community strengthens our industry and improves our
     #     world, we are delighted and proud to support the mission and participants of
     #     the Rails Girls Summer of Code.
-    # - name: Hashrocket
-    #   id: hashrocket
-    #   url: http://hashrocket.com
     # - name: Cognitect
     #   id: cognitect
     #   url: http://cognitect.com
