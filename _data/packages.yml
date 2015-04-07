@@ -100,6 +100,12 @@
         - 2013
         - 2014
         - 2015
+    - name: Elastic
+      id: elastic
+      url: http://elastic.co
+      text: |-
+      years:
+        - 2015
 
 - name: Silver
   title: Silver Sponsors
