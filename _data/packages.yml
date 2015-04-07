@@ -391,6 +391,18 @@
       url: http://www.railslove.com
       years:
         - 2015
+    - name: Articulate
+      id: articulate
+      url: https://www.articulate.com
+      text: |-
+        <a href="https://www.articulate.com/" target="_blank">Articulate</a> makes
+        software that gives millions of people access to life-changing education. We’re
+        passionate about removing barriers to learning, and supporting women in tech.
+        Sponsoring Rails Girls is one way we’re living out these values. We’re honored
+        to help bring more women into the wonderful world of code.
+      years:
+        - 2014
+        - 2015
 
 
     # - name: Anynines
@@ -474,15 +486,6 @@
     #     and Santa Monica, Carbon Five enjoys hosting and providing mentorship at hack
     #     nights, tech talks, and workshops. They are excited to sponsor the Rails Girls
     #     Summer of Code and help pave the path for young women in technology.
-    # - name: Articulate
-    #   id: articulate
-    #   url: https://www.articulate.com
-    #   text: |-
-    #     <a href="https://www.articulate.com/" target="_blank">Articulate</a> makes
-    #     software that gives millions of people access to life-changing education. We’re
-    #     passionate about removing barriers to learning, and supporting women in tech.
-    #     Sponsoring Rails Girls is one way we’re living out these values. We’re honored
-    #     to help bring more women into the wonderful world of code.
     # - name: Nuggad
     #   id: nuggad
     #   url: http://www.nugg.ad
