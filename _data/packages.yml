@@ -52,6 +52,14 @@
         performance. We're happy to be supporting our first Rails Girls Summer of Code.
       years:
         - 2015
+  title: Platinum Sponsors
+  sponsors:
+    - name: Liip
+      id: liip
+      url: https://www.liip.ch/en
+      text: |-
+      years:
+        - 2015
 
 - name: Gold
   title: Gold Sponsors
