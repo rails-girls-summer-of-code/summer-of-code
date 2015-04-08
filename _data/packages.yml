@@ -429,6 +429,12 @@
       years:
         - 2014
         - 2015
+    - name: Kiskolabs
+      id: kiskolabs
+      url: http://kiskolabs.com
+      text: |-
+      years:
+        - 2015
 
 
     # - name: Anynines
