@@ -187,6 +187,12 @@
       years:
         - 2014
         - 2015
+    - name: Xing
+      id: xing
+      url: http://xing.com
+      text: |-
+      years:
+        - 2015
 
 - name: Bronze
   title: Bronze Sponsors
