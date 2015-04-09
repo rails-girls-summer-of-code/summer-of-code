@@ -445,6 +445,11 @@
       id: kiskolabs
       url: http://kiskolabs.com
       text: |-
+        <a href="http://kiskolabs.com">Kisko</a> is specialized in building new
+        professional tools on the web. We have been building tools on the web with
+        Ruby on Rails since 2007, making us one of the most experienced Rails companies
+        in Finland. It’s definitely our technology of choice, but we’ve also worked
+        with Django, Backbone, Angular and many more.
       years:
         - 2015
 
