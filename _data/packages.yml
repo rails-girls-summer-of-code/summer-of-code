@@ -56,6 +56,15 @@
       id: liip
       url: https://www.liip.ch/en
       text: |-
+        <a href="https://www.liip.ch/en">Liip</a> is one of Switzerland’s leading
+        developers of tailor-made, agile web applications. At Liip we notice that teams
+        profit a lot if they are mixed, but at present IT is a homogeneous world with
+        few women. There are enough technology-interested women but because of
+        demographic reasons many of them do not enter the IT world, or leave again. In
+        our eyes it is important to support all women interested in technology so that
+        they will join the IT world, feel comfortable and stay!  For us, Rails Girls
+        Summer of Code is a project which successfully demonstrates how we can get more
+        women into IT.
       years:
         - 2015
 
