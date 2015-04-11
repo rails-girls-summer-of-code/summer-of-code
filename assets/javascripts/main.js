@@ -60,11 +60,12 @@ $(document).ready(function() {
   };
 
   var progress = $('#progress').progress();
+  new Stats.Data(function(total) {
+    progress.result(total);
+    $('.stats .total').stats(total);
+  });
 
-  new Donations.Data(function(event, data) {
-    $('.stats .total').stats(data);
-    progress.result(data);
-
+  new Donations.Data(function(data) {
     $('#sponsors').donations(data.sponsors());
     new Pagination($('.pagination'), data.donations(), 50, function(data) {
       $('#donations').donations(data);

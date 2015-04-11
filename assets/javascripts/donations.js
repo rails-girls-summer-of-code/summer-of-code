@@ -33,6 +33,11 @@ $.extend(Donations.prototype, {
 
 Donations.Data = function(callback) {
   this.url = Donations.Data.URLS[Donations.ENV];
+  this.defer = $.Deferred();
+  this.defer.promise(this).done('loaded', function(event, data) {
+    callback(data);
+  });
+
   return this.load(callback);
 };
 $.extend(Donations.Data, {
@@ -60,16 +65,13 @@ $.extend(Donations.Data, {
 });
 
 $.extend(Donations.Data.prototype, {
-  load: function(callback) {
-    var defer = $.Deferred();
-    defer.promise(this).done('loaded', callback);
-
+  load: function() {
     $.ajax({
       url: this.url,
       crossDomain: true,
       success: $.proxy(function(data) {
         this.data = this.normalize_data(data);
-        defer.resolve('loaded', this);
+        this.defer.resolve('loaded', this);
       }, this)
     });
   },
