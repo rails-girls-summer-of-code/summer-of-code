@@ -1,0 +1,38 @@
+#progress {
+  position: relative;
+  display: inline-block;
+  /* width: 800px; */
+  border: 1px solid #CCC;
+  border-radius: 5px;
+  height: 60px;
+  overflow: hidden;
+
+  i {
+    position: relative;
+    display: inline-block;
+    width: 74px;
+    height: 60px;
+  }
+  .goal i {
+    /*color: #ccc;*/
+    background-image: url(/img/icons/teamicon_grey.svg);
+    background-size: 100%;
+    background-position: 0;
+    background-repeat: no-repeat;
+    opacity: .5;
+  }
+  .completed {
+    position: absolute;
+    top: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    background-color: #EEE;
+  }
+  .completed i {
+    /*color: #D82222;*/
+    background-image: url(/img/icons/teamicon_red.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0;
+  }
+}

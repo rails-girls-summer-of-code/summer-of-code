@@ -17,7 +17,7 @@ permalink: campaign/
 </p>
 
 <p>
-  NEWS <i>We have reached our base funding target for 10 teams. Our new stretch goal is to fund our first 11th team ever in the history of Rails Girls Summer of Code.</i> &mdash; 8th of April 
+  NEWS <i>We have reached our base funding target for 10 teams. Our new stretch goal is to fund our first 11th team ever in the history of Rails Girls Summer of Code.</i> &mdash; 8th of April
 </p>
 
 <div class="margin-top">
@@ -27,12 +27,12 @@ permalink: campaign/
 </div>
 
 <div class="margin-bottom">
-  <div id="campaign-progress"></div>
+  <div id="progress"></div>
 </div>
 
 
 <div class="margin-top">
-  <h4>Thank you &hearts;</h4> 
+  <h4>Thank you &hearts;</h4>
 </div>
 
 <p class="custom-donation">
@@ -68,7 +68,7 @@ permalink: campaign/
 
 <section id="thanks-folks">
   <h2>Thank you so much - You are all awesome:</h2>
-  <table id="donations">
+  <table>
     <colgroup>
       <col class="col-gravatar"></col>
       <col class="col-name"></col>
@@ -79,52 +79,30 @@ permalink: campaign/
     </colgroup>
     <thead>
       <tr>
-        <td></td>
-      </tr>
-      <tr>
-        <td class='pagination' colspan='6'>
-          <span class='page'>Page: <span class='current-page'>1</span><span>/</span><span class='last-page'></span></span>
-          <span class='sep'>&middot;</span>
-          <span class='first'>First</span>
-          <a class='first' href='#'>First</a>
-          <span class='sep'>&middot;</span>
-          <span class='previous'>Previous</span>
-          <a class='previous' href='#'>Previous</a>
-          <span class='sep'>&middot;</span>
-          <span class='next'>Next</span>
-          <a class='next' href='#'>Next</a>
-          <span class='sep'>&middot;</span>
-          <span class='last'>Last</span>
-          <a class='last' href='#'>Last</a>
-          <span class='sep'>&middot;</span>
-          <a class='all' href='#'>See all</a>
-          <a class='paged' href='#'>See less</a>
-        </td>
+        <th colspan="2">
+          <h3>Sponsors</h3>
+        </th>
       </tr>
     </thead>
-    <tbody></tbody>
-    <tfoot>
+    <tbody id="sponsors"></tbody>
+    <thead>
       <tr>
-        <td class='pagination' colspan='6'>
-          <span class='page'>Page: <span class='current-page'>1</span><span>/</span><span class='last-page'></span></span>
-          <span class='sep'>&middot;</span>
-          <span class='first'>First</span>
-          <a class='first' href='#'>First</a>
-          <span class='sep'>&middot;</span>
-          <span class='previous'>Previous</span>
-          <a class='previous' href='#'>Previous</a>
-          <span class='sep'>&middot;</span>
-          <span class='next'>Next</span>
-          <a class='next' href='#'>Next</a>
-          <span class='sep'>&middot;</span>
-          <span class='last'>Last</span>
-          <a class='last' href='#'>Last</a>
-          <span class='sep'>&middot;</span>
-          <a class='all' href='#'>See all</a>
-          <a class='paged' href='#'>See less</a>
-        </td>
+        <th colspan="2">
+          <h3>Individual Donors</h3>
+        </th>
+        <th colspan="4">
+          {% include pagination.html %}
+        </th>
       </tr>
-    </tfoot>
+    </thead>
+    <tbody id="donations"></tbody>
+    <thead>
+      <tr>
+        <th colspan="6">
+          {% include pagination.html %}
+        </th>
+      </tr>
+    </thead>
   </table>
   <p>This community is just amazing. Thank you so much!</p>
 </section>

@@ -1,0 +1,55 @@
+.pagination {
+  width: 100%;
+  text-align: right;
+  font-size: 0.9em;
+  a {
+    height: auto;
+    vertical-align: initial;
+  }
+  span.first {
+    display: none;
+  }
+  span.previous {
+    display: none;
+  }
+  span.next {
+    display: none;
+  }
+  span.last {
+    display: none;
+  }
+  first_page {
+    span.first {
+      display: inline-block;
+    }
+    a.first {
+      display: none;
+    }
+    span.previous {
+      display: inline-block;
+    }
+    a.previous {
+      display: none;
+    }
+  }
+  last_page {
+    span.next {
+      display: inline-block;
+    }
+    a.next {
+      display: none;
+    }
+    span.last {
+      display: inline-block;
+    }
+    a.last {
+      display: none;
+    }
+  }
+  &.paged a.paged {
+    display: none;
+  }
+  &:not(.paged) *:not(.paged) {
+    display: none !important;
+  }
+}

@@ -1,11 +1,12 @@
-window.Pagination = function(parent, element, collection, count) {
-  this.parent = parent;
+window.Pagination = function(element, collection, count, callback) {
+  // this.parent = parent;
   this.element = element;
   this.collection = collection;
   this.currentElement = $('.page .current-page', element);
   this.lastElement = $('.page .last-page', element);
   this.current = 1;
   this.count = this.paged_count = count;
+  this.callback = callback;
   this.setup(['first', 'previous', 'next', 'last', 'all', 'paged']);
   this.update();
   return this;
@@ -54,7 +55,8 @@ $.extend(window.Pagination.prototype, {
     return this.update();
   },
   update: function() {
-    this.parent.render(this.page());
+    // this.parent.render(this.page());
+    if(this.callback) this.callback(this.page())
     this.element.toggle(!this.isPaged() || this.lastPage() > 1);
     this.element.toggleClass('first_page', this.isFirst());
     this.element.toggleClass('last_page', this.isLast());

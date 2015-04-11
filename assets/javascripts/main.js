@@ -1,7 +1,4 @@
-
-
 $(document).ready(function() {
-  
   $(function() {
     if(location.hostname == 'localhost') {
       $('#stripe-form').attr('action', 'http://localhost:3000/donations/checkout');
@@ -58,5 +55,18 @@ $(document).ready(function() {
   // add 'the right place to be' sponsor cta
   $('.sponsors.partners > ul').append('<li class="sponsors-cta"><h3>The right place to be!</h3><a href="/sponsors/packages/" class="arrow-link">become a sponsor</a></li>');
 
+  $.fn.donations = function(data) {
+    return new Donations(this, data);
+  };
+
+  new Donations.Data(function(event, data) {
+    $('.stats .total').stats(data);
+    $('#progress').progress(data);
+
+    $('#sponsors').donations(data.sponsors());
+    new Pagination($('.pagination'), data.donations(), 50, function(data) {
+      $('#donations').donations(data);
+    });
+  });
 });
 

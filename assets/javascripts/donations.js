@@ -1,8 +1,5 @@
 var Donation, Donations, Stats;
 
-// var ENV = document.location.hostname == 'localhost' ? 'development' : 'production';
-var ENV = 'production';
-
 String.prototype.camelize = function() {
   return this.slice(0, 1).toUpperCase() + this.slice(1);
 };
@@ -16,18 +13,33 @@ Array.prototype.compact = function() {
   });
 };
 
-Donations = function(table, pagination) {
-  this.tbody = $('tbody', table);
-  this._pagination = pagination;
-  return this.load();
+Donations = function(element, data) {
+  this.element = element;
+  this.render(data);
 };
-
 $.extend(Donations, {
+  //ENV: document.location.hostname == 'localhost' ? 'development' : 'production',
+  ENV: 'production',
+});
+
+$.extend(Donations.prototype, {
+  render: function(data) {
+    this.element.empty();
+    $.each(data, $.proxy(function(ix, record) {
+      this.element.append(new Donation(record).render());
+    }, this));
+  },
+});
+
+Donations.Data = function(callback) {
+  this.url = Donations.Data.URLS[Donations.ENV];
+  return this.load(callback);
+};
+$.extend(Donations.Data, {
   URLS: {
     production:  'http://campaign.railsgirlssummerofcode.org/donations.json',
     development: 'http://localhost:3000/donations.json'
   },
-  COUNT: 50,
   PACKAGES: {
     'Platinum':  7500,
     'Gold':      5000,
@@ -46,83 +58,72 @@ $.extend(Donations, {
     created_at: '2015-01-01T00:00:00Z'
   }
 });
-Donations.URL = Donations.URLS[ENV];
 
-$.extend(Donations.prototype, {
-  load: function() {
-    var _this = this;
+$.extend(Donations.Data.prototype, {
+  load: function(callback) {
+    var defer = $.Deferred();
+    defer.promise(this).done('loaded', callback);
+
     $.ajax({
-      url: Donations.URL,
+      url: this.url,
       crossDomain: true,
-      success: function(collection) {
-        _this.normalize_data(collection);
-        collection.sort(_this.sort);
-        collection.unshift(Donations.TRAVIS);
-        return _this.pagination = new Pagination(_this, $('.pagination', _this.tbody.parent()), collection, Donations.COUNT);
-      }
+      success: $.proxy(function(data) {
+        this.data = this.normalize_data(data);
+        defer.resolve('loaded', this);
+      }, this)
     });
   },
-  clear: function() {
-    $(this.tbody).empty();
+  total: function () {
+    return this.data.reduce(function(result, donation) {
+      return result + (donation.amount || 0);
+    }, 0);
   },
-  render: function(page) {
-    var record, _i, _len, _results;
-    var tbody = $('<tbody></tbody>');
-    for (_i = 0, _len = page.length; _i < _len; _i++) {
-      record = page[_i];
-      if (record.package != "Custom" && !page[_i - 1]) {
-        tbody.append($('<tr class="heading"><td colspan="6" class="stats">Sponsors</td></tr>'));
-      }
-      tbody.append(new Donation(record).render());
-      if (record.package != "Custom" && page[_i + 1] && page[_i + 1].package == "Custom") {
-        tbody.append($('<tr class="heading"><td colspan="6" class="stats">Individual Donors</td></tr>'));
-      }
-    }
-    this.tbody.html(tbody.html());
+  donations: function() {
+    var donations = $.grep(this.data, function(donation) {
+      return donation.package === 'Custom';
+    });
+    return donations.sort(this.sortByIndex);
   },
-  normalize_data: function(collection) {
-    for(var i = 0; i < collection.length; i++) {
-      var item = collection[i];
-      item.index = i;
-      if(item.amount === undefined) {
-        item.hidden = true
-        item.amount = Donations.PACKAGES[item.package];
-      }
-    }
+  sponsors: function() {
+    var sponsors = $.grep(this.data, function(donation) {
+      return donation.package !== 'Custom';
+    });
+    return sponsors.sort(this.sortByAmount);
   },
-  sort: function(lft, rgt) {
-    var sortByAmount = function(lft, rgt) {
-      if(lft.amount === undefined) {
-        return 1;
-      }
-      if(rgt.amount === undefined) {
-        return -1;
-      }
-      if(lft.amount > rgt.amount) {
-        return -1;
-      } else if(rgt.amount > lft.amount) {
-        return 1;
-      } else {
-        return 0;
-      }
-    };
-
-    var sortByIndex = function(lft, rgt) {
-      if(lft.index > rgt.index) {
-        return 1;
-      } else if(rgt.index > lft.index) {
-        return -1;
-      } else {
-        return 0;
-      }
+  normalize_data: function(data) {
+    $.each(data, function(ix, item) {
+      item.index = ix;
+      // if(item.amount === undefined) {
+      //   item.hidden = true
+      //   item.amount = Donations.PACKAGES[item.package];
+      // }
+    });
+    return data;
+  },
+  sortByAmount: function(lft, rgt) {
+    if(lft.amount === undefined) {
+      return 1;
     }
-
-    if(lft.package != 'Custom' || rgt.package != 'Custom') {
-      return sortByAmount(lft, rgt);
+    if(rgt.amount === undefined) {
+      return -1;
+    }
+    if(lft.amount > rgt.amount) {
+      return -1;
+    } else if(rgt.amount > lft.amount) {
+      return 1;
     } else {
-      return sortByIndex(lft, rgt);
+      return 0;
     }
-  }
+  },
+  sortByIndex: function(lft, rgt) {
+    if(lft.index > rgt.index) {
+      return 1;
+    } else if(rgt.index > lft.index) {
+      return -1;
+    } else {
+      return 0;
+    }
+  },
 });
 
 Donation = function(data) {
@@ -132,24 +133,18 @@ Donation = function(data) {
 
 $.extend(Donation.prototype, {
   render: function() {
-    var row, value, _i, _len, _ref;
     row = $('<tr></tr>');
-    _ref = this.cells();
-    for (_i = 0, _len = _ref.length; _i < _len; _i++) {
-      cell = _ref[_i];
+    $.each(this.cells(), function(ix, cell) {
       row.append(cell);
-    }
+    });
     return row;
   },
   cells: function() {
-    var name, _i, _len, _ref, _results;
-    _ref = ['gravatar', 'links', 'amount', 'package', 'date', 'comment'];
-    _results = [];
-    for (_i = 0, _len = _ref.length; _i < _len; _i++) {
-      name = _ref[_i];
-      _results.push(this[name]());
-    }
-    return _results;
+    var values = [];
+    $.each(['gravatar', 'links', 'amount', 'package', 'date', 'comment'], $.proxy(function(ix, name) {
+      values.push(this[name]());
+    }, this));
+    return values;
   },
   gravatar: function() {
     var src = this.data.gravatar_url || 'http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e';
@@ -157,12 +152,10 @@ $.extend(Donation.prototype, {
     return $('<td></td>').append(img);
   },
   links: function() {
-    var links = [this.name(), this.github(), this.twitter()].compact();
     var cell = $('<td></td>');
-    for (_i = 0, _len = links.length; _i < _len; _i++) {
-      tag = links[_i];
+    $.each([this.name(), this.github(), this.twitter()].compact(), $.proxy(function(ix, tag) {
       cell.append(tag);
-    }
+    }, this));
     return cell;
   },
   name: function() {
@@ -224,114 +217,4 @@ $.extend(Donation.prototype, {
       return url + data;
     }
   }
-});
-
-Stats = function(element) {
-  this.element = element;
-  this.defer = $.Deferred();
-  this.defer.promise(this);
-  this.load();
-  return this;
-};
-
-$.extend(Stats, {
-  URLS: {
-    production:  'http://campaign.railsgirlssummerofcode.org/donations/stats.json',
-    development: 'http://localhost:3000/donations/stats.json'
-  },
-  COUNT: 100
-});
-Stats.URL = Stats.URLS[ENV];
-
-$.extend(Stats.prototype, {
-  load: function() {
-    var _this = this;
-    $.ajax({
-      url: Stats.URL,
-      crossDomain: true,
-      success: $.proxy(function(data) {
-        this.data = data;
-        this.render();
-        this.defer.resolve('loaded', this);
-      }, this)
-    });
-  },
-  render: function() {
-    $('.total', this.element).text(this.formattedTotal());
-  },
-  total: function () {
-    return Math.round(this.data.total / 100);
-  },
-  formattedTotal: function() {
-    return parseInt(this.total()).toLocaleString('EN') + ' USD';
-  }
-});
-
-var Progress = function(element) {
-  this.element = element;
-  this.render();
-}
-
-$.extend(Progress, {
-  TEAMS_COUNT: 11,
-  GOAL:  110000,
-  // PER_ITEM: 90000
-});
-
-$.extend(Progress.prototype, {
-  render: function() {
-    this.goal_element = $('<div class="goal"></div>');
-    this.completed_element = $('<div class="completed"></div>');
-    this.element.append(this.goal_element).append(this.completed_element);
-
-    for (var i = 0; i < Progress.TEAMS_COUNT; i++) {
-      this.goal_element.append($('<i></i>'));
-    }
-  },
-  render_progress: function(stats) {
-    this.stats = stats;
-    // console.log('total_width', this.total_width())
-    // console.log('item_width', this.item_width())
-    // console.log('completed_percent', this.completed_percent())
-    // console.log('completed_width', this.completed_width())
-    for (var i = 0; i < Progress.TEAMS_COUNT; i++) {
-      this.completed_element.append($('<i></i>'));
-    }
-    this.completed_element.width(this.completed_width());
-  },
-  completed_percent: function() {
-    return parseInt(this.stats.total()) / Progress.GOAL * 100;
-  },
-  completed_width: function() {
-    return parseInt(this.total_width() * this.completed_percent() / 100);
-  },
-  total_width: function() {
-    return Progress.TEAMS_COUNT * this.item_width();
-  },
-  item_width: function() {
-    return $('i', this.goal_element).outerWidth();
-  },
-  // item_count: function() {
-  //   return parseInt(Progress.GOAL / Progress.PER_ITEM);
-  // },
-});
-
-
-$(function() {
-  $.fn.donations = function() {
-    return new Donations(this);
-  };
-  $.fn.stats = function() {
-    return new Stats(this);
-  };
-  $.fn.campaign_progress = function(stats) {
-    return new Progress(this, stats);
-  };
-  var donations = $('#donations').donations();
-  var stats = $('.stats').stats();
-  var progress = $('#campaign-progress').campaign_progress();
-
-  stats.defer.done('loaded', function(event) {
-    progress.render_progress(stats);
-  });
 });
