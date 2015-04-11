@@ -10,15 +10,22 @@
     margin-bottom: 2em;
     border-collapse: collapse;
 
+    tbody {
+      counter-reset: line-number;
+    }
     tr {
       border-color: #ddd;
       border-width: 1px 0;
       background-color: white;
-    }
-    tr:nth-child(even) {
-      background-color: #F2F4F9;
+      &:nth-child(even) {
+        background-color: #F2F4F9;
+      }
+      &:hover td:last-of-type:after {
+        opacity: 1;
+      }
     }
     td {
+      position: relative;
       padding: 5px;
       white-space: nowrap;
       &.stats {
@@ -32,6 +39,19 @@
       }
       &:last-child {
         white-space: normal;
+      }
+      &:last-of-type:after {
+        content: counter(line-number);
+        counter-increment: line-number;
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        right: -3em;
+        width: 3em;
+        height: 45px;
+        line-height: 45px;
+        padding: 0 1em;
+        color: #ddd;
       }
     }
     col {
