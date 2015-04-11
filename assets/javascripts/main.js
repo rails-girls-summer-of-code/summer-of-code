@@ -59,9 +59,11 @@ $(document).ready(function() {
     return new Donations(this, data);
   };
 
+  var progress = $('#progress').progress();
+
   new Donations.Data(function(event, data) {
     $('.stats .total').stats(data);
-    $('#progress').progress(data);
+    progress.result(data);
 
     $('#sponsors').donations(data.sponsors());
     new Pagination($('.pagination'), data.donations(), 50, function(data) {

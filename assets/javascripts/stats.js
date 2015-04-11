@@ -14,9 +14,10 @@ $.extend(Stats.prototype, {
   }
 });
 
-var Progress = function(element, data) {
+var Progress = function(element) {
   this.element = element;
-  this.data = data;
+  this.goal_element = $('.goal', this.element);
+  this.completed_element = $('.completed', this.element);
   this.render();
   return this;
 }
@@ -29,17 +30,15 @@ $.extend(Progress, {
 
 $.extend(Progress.prototype, {
   render: function() {
-    this.goal_element = $('<div class="goal"></div>');
-    this.completed_element = $('<div class="completed"></div>');
-    this.element.append(this.goal_element).append(this.completed_element);
-
     for (var i = 0; i < Progress.TEAMS_COUNT; i++) {
       this.goal_element.append($('<i></i>'));
     }
+  },
+  result: function(data) {
+    this.data = data;
     for (var i = 0; i < Progress.TEAMS_COUNT; i++) {
       this.completed_element.append($('<i></i>'));
     }
-
     this.completed_element.width(this.completed_width());
   },
   completed_percent: function() {
@@ -57,9 +56,9 @@ $.extend(Progress.prototype, {
 });
 
 $.fn.progress = function(data) {
-  new Progress(this, data);
+  return new Progress(this, data);
 };
 
 $.fn.stats = function(data) {
-  new Stats(this, data);
+  return new Stats(this, data);
 };
