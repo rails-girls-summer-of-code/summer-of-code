@@ -461,7 +461,11 @@
         with Django, Backbone, Angular and many more.
       years:
         - 2015
-
+    - name: Synack
+      id: synack
+      url: https://www.synack.com/
+      years:
+        - 2015
 
     # - name: Anynines
     #   id: anynines
