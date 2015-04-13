@@ -466,6 +466,11 @@
       url: https://www.synack.com/
       years:
         - 2015
+    - name: Makerist
+      id: makerist
+      url: https://www.makerist.de/
+      years:
+        - 2015
 
     # - name: Anynines
     #   id: anynines
