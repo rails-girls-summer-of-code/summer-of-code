@@ -469,6 +469,12 @@
     - name: Makerist
       id: makerist
       url: https://www.makerist.de/
+      text: |-
+        <a href="https://www.makerist.de/">Makerist</a> is an online school for
+        handicrafts and creative hobbies.  With high quality video tutorials, our users
+        learn new skills and share their experiences and results with others.  We
+        believe coding is also a craft, and encourage our team to learn, share, and
+        inspire each other, as well as others within the Rails community.
       years:
         - 2015
 
