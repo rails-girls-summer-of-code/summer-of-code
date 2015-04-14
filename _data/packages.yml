@@ -477,6 +477,12 @@
         inspire each other, as well as others within the Rails community.
       years:
         - 2015
+    - name: Slack
+      id: slack
+      url: https://slack.com/
+      text: |-
+      years:
+        - 2015
 
     # - name: Anynines
     #   id: anynines
