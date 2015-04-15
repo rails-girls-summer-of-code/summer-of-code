@@ -32,7 +32,7 @@ development community.
 ### Partner Company Package
 
 To find out more about the option for becoming a partner company and what partner
-companies do, please <a href="mailto:summer-of-code@railsgirls.com.">write us an email</a>.
+companies do, please <a href="mailto:summer-of-code@railsgirls.com">write us an email</a>.
 
 
 ### Platinum
