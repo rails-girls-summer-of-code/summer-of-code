@@ -490,6 +490,12 @@
       text: |-
       years:
         - 2015
+    - name: Amazee Labs
+      id: amazeelabs
+      url: http://www.amazeelabs.com/en
+      text: |-
+      years:
+        - 2015
 
     # - name: Anynines
     #   id: anynines
