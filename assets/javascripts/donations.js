@@ -90,7 +90,9 @@ $.extend(Donations.Data.prototype, {
     var sponsors = $.grep(this.data, function(donation) {
       return donation.package !== 'Custom';
     });
-    return sponsors.sort(this.sortByAmount);
+    sponsors = sponsors.sort(this.sortByAmount);
+    sponsors.unshift(Donations.Data.TRAVIS);
+    return sponsors;
   },
   normalize_data: function(data) {
     $.each(data, function(ix, item) {
