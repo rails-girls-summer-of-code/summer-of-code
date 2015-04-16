@@ -504,6 +504,12 @@
       text: |-
       years:
         - 2015
+    - name: Bugsnag
+      id: bugsnag
+      url: https://bugsnag.com/
+      text: |-
+      years:
+        - 2015
 
     # - name: Anynines
     #   id: anynines
