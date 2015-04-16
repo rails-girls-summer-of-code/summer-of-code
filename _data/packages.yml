@@ -414,6 +414,14 @@
     - name: Apcera
       id: apcera
       url: https://www.apcera.com
+      text: |-
+        <a href="https://apceral.com">Apcera</a> is disrupting the world of IT with the
+        world’s first OS for the Hybrid Cloud. Our Hybrid Cloud OS has policy and
+        governance built in at the core, allowing IT organizations and developers alike
+        to safely and easily develop, deploy, orchestrate and govern any imaginable
+        workload either on premise or in any cloud, public or private, in a
+        friction-free and trusted fashion. Apcera delivers an order of magnitude
+        increase in security, freedom, and speed.
       years:
         - 2015
     - name: Airbnb
