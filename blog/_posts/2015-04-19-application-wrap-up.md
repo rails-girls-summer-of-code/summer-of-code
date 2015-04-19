@@ -23,10 +23,10 @@ The mentors will have a few days to "sign off" on your applications, to certify 
 **April 25th — May 10th: Selection**  
 Our selection committee will go through all the applications several times and select the best ones. We are foreseeing some long days and nights, but we will hopefully get through it unharmed, just in time for...
 
-**Mid-May: Application letters!**  
+**Mid-May: Acceptance letters!**  
 By mid-May, we will hopefully have made a final decision on the selected teams, and each one will receive an email from us. \o/  
 
 **Mid-May: Closing the crowdfunding campaign**  
-As much as we <3 seeing just how many people are willing to support us in order to fund our students, by the time we will have sent the application letters, it will also be time to close the [crowdfunding campaign](http://railsgirlssummerofcode.org/campaign/).  
+As much as we <3 seeing just how many people are willing to support us in order to fund our students, by the time we will have sent the acceptance letters, it will also be time to close the [crowdfunding campaign](http://railsgirlssummerofcode.org/campaign/).  
 
 THANK YOU again to all of you who applied – you will hear from us soon!
