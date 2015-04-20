@@ -206,6 +206,12 @@
       id: hashrocket
       url: http://hashrocket.com
       text: |-
+        <a href="http://hashrocket.com">Hashrocket</a> is a premier software
+        consultancy passionate about technology and community. They build powerful web
+        and mobile applications, provide design and development training, and
+        frequently contribute to the open source community. Hashrocket is proud to
+        support Rails Girls in their mission to encourage diversity and bring newcomers
+        into the tech industry.
       years:
         - 2014
         - 2015
