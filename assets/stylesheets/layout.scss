@@ -235,6 +235,7 @@ a.button-burger {
   }
 }
 .footer-child {
+  padding: 0 1em;
   &:first-child {
     margin-bottom: 2em;
   }
@@ -243,6 +244,9 @@ a.button-burger {
       border-top: 2px solid $white;
       padding-left: 0.5em;
     }
+  }
+  &:last-child {
+    padding-bottom: 1em
   }
   @media screen and (min-width: $screen-md) {
     &:last-child {
