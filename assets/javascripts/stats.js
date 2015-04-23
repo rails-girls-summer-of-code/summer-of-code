@@ -74,20 +74,25 @@ $.extend(Progress.prototype, {
     for (var i = 0; i < Progress.TEAMS_COUNT; i++) {
       this.completed_element.append($('<i></i>'));
     }
+    $('#progress .goal i').width(this.item_goal_width);
+    $('#progress .completed i').width(this.item_completed_width)
     this.completed_element.width(this.completed_width());
   },
   completed_percent: function() {
     return parseInt(this.total) / Progress.GOAL * 100;
   },
   completed_width: function() {
-    return parseInt(this.total_width() * this.completed_percent() / 100);
+    return parseInt(this.completed_percent()) + '%'
   },
   total_width: function() {
-    return Progress.TEAMS_COUNT * this.item_width();
+    return Progress.TEAMS_COUNT * this.item_completed_width();
   },
-  item_width: function() {
-    return $('i', this.goal_element).outerWidth();
+  item_goal_width: function() {
+    return parseInt(100 / Progress.TEAMS_COUNT) + '%';
   },
+  item_completed_width: function() {
+    return $('#progress .goal i').width()
+  }
 });
 
 $.fn.progress = function(total) {
@@ -97,3 +102,7 @@ $.fn.progress = function(total) {
 $.fn.stats = function(total) {
   return new Stats(this, total);
 };
+
+$(window).on('resize', function() {
+  $('#progress .completed i').width($('#progress .goal i').width());
+})
