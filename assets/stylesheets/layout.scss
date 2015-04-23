@@ -6,6 +6,9 @@ html {
 body {
   font-weight: 400;
   overflow-x: hidden;
+  @media screen and (max-width: $screen-sm) {
+    padding-top: 3em;
+  }
 }
 
 a {
@@ -52,6 +55,13 @@ a:active {
     padding: 0.9em 1em 0 0;
     margin-bottom: 0;
     list-style: none;
+  }
+
+  @media screen and (max-width: $screen-sm) {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99;
   }
 }
 
