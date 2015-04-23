@@ -222,7 +222,7 @@ a.button-burger {
   &:after {
     content: "";
     position: absolute;
-    top: -7%;
+    top: -3%;
     right: 20%;
     display: block;
     width: 175px;
@@ -231,11 +231,6 @@ a.button-burger {
       repeat: no-repeat;
       size: cover;
       image: url(../images/megaphone.png);
-    }
-  }
-  @media screen and (max-width: $screen-md) {
-    .row {
-      // padding: 0 2em; sara-change
     }
   }
 }
