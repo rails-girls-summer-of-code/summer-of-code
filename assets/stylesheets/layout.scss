@@ -49,7 +49,7 @@ a:active {
   background-color: $red;
   line-height: 1.4;
   ul {
-    padding: 0;
+    padding: 0.9em 1em 0 0;
     margin-bottom: 0;
     list-style: none;
   }
@@ -146,11 +146,10 @@ a:active {
 }
 
 a.button-burger {
-  position: relative;
+  position: absolute;
   width: 3.5rem;
   height: 3.5rem;
   padding: 0;
-  transform: translateY(.5em);
   font-size: 24px;
   text-align: center;
   background: $white;
@@ -159,9 +158,15 @@ a.button-burger {
   color: $red;
   outline: none;
   text-decoration: none;
+  top: 0.5em;
+  right: .5em;
+  @media screen and (min-width: $screen-sm) {
+    right: 0;
+  }
   &:active,
   &:focus {
     outline: none;
+    text-decoration: none;
   }
   .fa {
     line-height: 1.4;
