@@ -526,7 +526,27 @@
         a new way!
       years:
         - 2015
+    - name: Digitalocean
+      id: digitalocean
+      url: http://www.digitalocean.com
+      text: |-
+        <a href="http://www.digitalocean.com/">DigitalOcean</a> is the world’s fastest
+        growing cloud hosting provider built for developers. Our mission is simple:
+        we’re passionate about making complex infrastructure simple and delighting
+        our customers with a seamless experience that brings them joy. New users can
+        easily deploy a blazing fast cloud server in 55 seconds with an intuitive
+        control panel interface, which can be replicated on a larger scale with the
+        company’s straightforward API.
+      years:
+        - 2014
+        - 2015
 
+    # <a href="http://www.digitalocean.com/">DigitalOcean</a> is
+    # the world’s fastest growing cloud hosting provider built for developers. Our
+    # mission is to make complex infrastructure simple and delight our customers with
+    # a seamless experience that brings them joy. The DigitalOcean site with built
+    # on Rails, making us all the more excited to support Rails Girls Summer of
+    # Code and its open source contributions.
     # - name: Anynines
     #   id: anynines
     #   url: http://www.anynines.com
@@ -544,18 +564,6 @@
     #     people earn and learn. They love Summer, Rails, and supporting women in the
     #     tech community, which makes Rails Girls Summer of Code & Envato a match made in
     #     Internet heaven. They also are one of our amazing Coaching Companies.
-    # - name: Digitalocean
-    #   id: digitalocean
-    #   url: http://www.digitalocean.com
-    #   text: |-
-    #     <a href="http://www.digitalocean.com/" class="digitalocean" target="_blank">DigitalOcean</a>
-    #     is a simple cloud hosting provider, dedicated to offering easiest
-    #     way to spin up a cloud server. DigitalOcean's goal is to make
-    #     complex infrastructure simple and delight developers with a
-    #     seamless experience that brings them joy. The DigitalOcean site
-    #     with built on Rails, making them all the more excited to support
-    #     Rails Girls Summer of Code and the open source contributions "Rails
-    #     Girls" makes possible.
     # - name: Orcasnet
     #   id: orcasnet
     #   url: http://orcasnet.com
