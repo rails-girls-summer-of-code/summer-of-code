@@ -502,6 +502,17 @@
         inspire each other, as well as others within the Rails community.
       years:
         - 2015
+    - name: Weaveworks
+      id: weaveworks
+      url: http://weave.works
+      text: |-
+        <a href="http://weave.works">Weaveworks</a> is the home of the company that
+        makes Weave - the open source product.  Weave aims to make containerised
+        applications applications easy, freeing developers to focus on design rather
+        than deployment. We are thrilled to be sponsoring Rails Girls and supporting
+        their mission to foster diversity in open source.
+      years:
+        - 2015
     - name: Slack
       id: slack
       url: https://slack.com/
