@@ -554,6 +554,13 @@
     - name: Mapbox
       id: mapbox
       url: https://www.mapbox.com
+      text: |-
+        <a href="https://www.mapbox.com">Mapbox</a> is a custom mapping platform for
+        developers and designers. With mapping APIs for web and mobile applications,
+        developers around the world use our platform to bring maps to their
+        applications. We work in the open and build our product with open source
+        software and open data. We're proud to support Rails Girls Summer of Code and
+        know that our help will strengthen our community.
       years:
         - 2015
 
