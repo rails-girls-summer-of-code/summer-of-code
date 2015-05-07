@@ -579,6 +579,7 @@
         bare metal computing to provide the perfect infrastructure for each customer’s
         specific needs.
       years:
+        - 2013
         - 2015
     - name: Carbonfive
       id: carbonfive
@@ -590,6 +591,7 @@
         nights, tech talks, and workshops. They are excited to sponsor the Rails Girls
         Summer of Code and help pave the path for young women in technology.
       years:
+        - 2014
         - 2015
 
     # <a href="http://www.digitalocean.com/">DigitalOcean</a> is
