@@ -14,7 +14,10 @@
 @import "sponsors";
 @import "team";
 
-@import "layout/article";
+@import "layouts/article";
+@import "layouts/sidebar";
+
+@import "components/button";
 
 {% for package in site.data.packages %}
   {% for sponsor in package.sponsors %}
