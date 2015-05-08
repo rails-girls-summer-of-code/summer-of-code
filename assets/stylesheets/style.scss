@@ -2,6 +2,7 @@
 ---
 
 @import url(http://fonts.googleapis.com/css?family=Lato:400);
+
 @import "shariff.min";
 @import "bootstrap";
 @import "layout";
@@ -12,6 +13,8 @@
 @import "progress";
 @import "sponsors";
 @import "team";
+
+@import "layout/article";
 
 {% for package in site.data.packages %}
   {% for sponsor in package.sponsors %}
