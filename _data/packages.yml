@@ -228,7 +228,7 @@
       years:
         - 2015
     - name: ImmobilienScout24
-      id: immobilien_scout
+      id: immobilienscout
       url: http://www.immobilienscout24.de
       text: |-
       years:
