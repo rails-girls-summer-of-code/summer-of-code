@@ -227,6 +227,12 @@
       text: |-
       years:
         - 2015
+    - name: ImmobilienScout24
+      id: immobilien_scout
+      url: http://www.immobilienscout24.de
+      text: |-
+      years:
+        - 2015
 
 - name: Bronze
   title: Bronze Sponsors
