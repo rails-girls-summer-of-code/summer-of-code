@@ -600,6 +600,13 @@
       years:
         - 2014
         - 2015
+    - name: Bendyworks
+      id: bendyworks
+      url: http://bendyworks.com
+      text: |-
+        <a href="http://bendyworks.com/" target="_blank">Bendyworks</a> is a software
+        consultancy agency in Madison, and home to a bunch of creative and involved
+        programmers and designers.
 
     # <a href="http://www.digitalocean.com/">DigitalOcean</a> is
     # the world’s fastest growing cloud hosting provider built for developers. Our
@@ -734,10 +741,7 @@
     # - name: Toptal
     #   id: toptal
     #   url: http://www.toptal.com/ruby-on-rails
-    #   text: |-
-    #     <a href="http://www.bendyworks.com/" target="_blank">Bendyworks</a> is a
-    #     software consultancy agency in Madison, and home to a bunch of creative and
-    #     involved programmers and designers.
+    #
     #   text: |-
     #     <a href="http://www.codegram.com/" target="_blank">Codegram</a> is a passionate
     #     team of developers concerned with both quality and productivity which believes
