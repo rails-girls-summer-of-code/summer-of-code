@@ -231,6 +231,11 @@
       id: immobilienscout
       url: http://www.immobilienscout24.de
       text: |-
+        <a href="http://www.immobilienscout24.de">ImmobilienScout24</a> is Germany's
+        leading real estate platform as well as an attractive and diverse place to work
+        in Friedrichshain-Kreuzberg, the creative and multicultural heart of Berlin. We
+        are huge fans of the Rails Girls Summer of Code as we love the combination of
+        supporting diversity in tech and great open source projects at the same time.
       years:
         - 2015
 
