@@ -8,8 +8,9 @@ current: blog
 <section class="container content--blog">
   <div class="col-md-8">
     {% for post in paginator.posts %}
-      <article>
+      <article class="l-article">
         <h1><a href="{{post.url}}">{{post.title}}</a></h1>
+
         <p class='meta'>
           Posted on <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ post.created_at | date: "%B %-d, %Y" }}</time> by
           {% if post.twitter %}
@@ -18,16 +19,20 @@ current: blog
             {{ post.author }},
           {% endif %}
         </p>
+
         {{ post.content }}
       </article>
     {% endfor %}
+
     <div class="content paginator">
       {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path }}" class="previous">&larr; previous</a>
       {% else %}
         <span class="previous">previous</span>
       {% endif %}
+
       <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+
       {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path }}" class="next">next &rarr;</a>
       {% else %}
@@ -35,6 +40,7 @@ current: blog
       {% endif %}
     </div>
   </div>
+
   <div class="col-md-3 col-md-offset-1 hidden-sm">
     {% include blog_sidebar.html %}
   </div>
