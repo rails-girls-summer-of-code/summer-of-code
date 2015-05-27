@@ -16,7 +16,7 @@ layout: null
 
   {% for post in site.posts %}
   <entry>
-    <title>{{ post.title }}</title>
+    <title>{{ post.title | xml_escape }}</title>
     <author>
       <name>{{ post.author }}</name>
       {% if post.twitter %}
