@@ -618,6 +618,24 @@
       years:
         - 2013
         - 2015
+    - name: The James Golick Grant for Women in Computology
+      id: james_golick_grant
+      url: http://jamesgolick.com/2013/10/16/women-in-open-source.html
+      text: |-
+        <a href="https://medium.com/@benkaufman/remembering-james-golick-23c1dc3ab920">James Golick</a>,
+        a well-known figure in the Ruby community, CTO of
+        <a href="https://nrml.com/">Normal</a>, friend to many, master of the headstand
+        and self-proclaimed computologist was  an outspoken advocate for women in
+        technology. After James and fellow developer Danielle Bessler died in a car
+        accident in December 2014, his friends and family created a fund to continue
+        James’ work making tech a better place for women. James
+        <a href="http://jamesgolick.com/2013/10/16/women-in-open-source.html">believed</a>
+        that working on open source was a path to success in the software industry and
+        a great way for women to advance their careers. That is why the board of
+        <a href="https://jamesgolick.bitmakerlabs.com/">The James Golick Grant for Women
+        in Computology</a> is so happy to partner with Rails Girls Summer of Code.
+
+
 
     # <a href="http://www.digitalocean.com/">DigitalOcean</a> is
     # the world’s fastest growing cloud hosting provider built for developers. Our
