@@ -641,6 +641,8 @@
         a great way for women to advance their careers. That is why the board of
         <a href="https://jamesgolick.bitmakerlabs.com/">The James Golick Grant for Women
         in Computology</a> is so happy to partner with Rails Girls Summer of Code.
+      years:
+        - 2015
     - name: ActBlue
       id: actblue
       url: http://actblue.com
