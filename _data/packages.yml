@@ -432,6 +432,13 @@
     - name: Buildkite
       id: buildkite
       url: https://buildkite.com
+      text: |-
+        <a href="https://buildkite.com/">Buildkite</a> allows your team to build any
+        test infrastructure they wish. Install the modern, light-weight build agent to
+        run as many build jobs as you wish, and get deep integration with Github,
+        Github Enterprise, Slack and Docker. We’re excited to help Rails Girls Summer
+        of Code provide a diverse range of students the opportunity to work, learn,
+        have fun and contribute to Open Source.
       years:
         - 2015
     - name: Apcera
