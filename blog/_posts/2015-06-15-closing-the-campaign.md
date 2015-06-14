@@ -37,3 +37,9 @@ Once again, THANK YOU from the whole RGSoC team – we couldn’t have proved th
 
 <img src="/img/blog/2015/closing-the-campaign-anika.jpg" width="600">
 <font color="grey"><small><i>(Image: Anika Lindtner)</i></small></font>  
+
+<img src="/img/blog/2015/closing-the-campaign-katrin.jpg" width="600">
+<font color="grey"><small><i>(Image: Katrin Kampfrath)</i></small></font>  
+
+<img src="/img/blog/2015/closing-the-campaign-claudi.jpg" width="600">
+<font color="grey"><small><i>(Image: Claudi)</i></small></font>  
