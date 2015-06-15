@@ -22,9 +22,15 @@ With **53** sponsors on board this year, we've hit the jackpot (and our highest 
 After last year’s Tobias’, Jeremys and Patricks, this year’s most common supporter first name is... \*drumroll\*... CHRIS! We counted 3 of them, and an additional Christoph, as well as a Christopher. We've also had contributions and visitors to our campaign page from all over the world: Berlin to New York, Helsinki to Philly. Now that's what we call global!  
 
 ### We love emojis
-As always, our private contributors were always very creative with their comments – we counted 14 messages with emojis alone! Our favourites: a story, a panda and even.. some code! And because we love kittens, someone also posted a nice little kitty face for us. =^.^=  
+As always, our private contributors were always very creative with their comments – we counted 14 messages with emojis alone! Our favourites: a story, an overload of hearts, a panda and even.. some code! And because we love kittens, someone also posted a nice little kitty face for us. =^.^=  
 
-SCREENSHOTS
+
+<img src="/img/blog/2015/closing-the-campaign-screen3.png" width="600">
+<img src="/img/blog/2015/closing-the-campaign-screen5.png" width="600">
+<img src="/img/blog/2015/closing-the-campaign-screen2.png" width="600">
+<img src="/img/blog/2015/closing-the-campaign-screen4.png" width="600">
+<img src="/img/blog/2015/closing-the-campaign-screen1.png" width="600">
+
 
 ### We <3 User Groups  
 We've also received donations from user groups: [vietnamrb](http://ruby.org.vn/) (thank you Trung!) and Ruby Slovenia, who have set up a [donation system](http://www.rug.si/donations/) for their attendees with beautiful Ruby Slovenia stickers for every donation. How amazing is that? Thank you so much, Miha and the whole of the Slovenia User Group! You rock! And so do your beautiful [stickers](http://www.rug.si/stickers/).  
