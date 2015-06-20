@@ -12,7 +12,7 @@ The Remote Helpdesk was part of the Rails Girls Summer of Code concept right fro
 
 Because both the students and remote coaches were located all around the globe, at least someone would be online at any time. And it did work reasonably well last year. But we think that's not good enough. Our Remote Helpdesk wasn't structured very well, and sometimes coaches weren't actually available. On top of that we used IRC which isn't accessible enough to newcomers.
 
-### Building a better Remote Helpdesk with Tealeaf Acadamy
+### Building a better Remote Helpdesk with Tealeaf Academy
 
 So we decided to up the remote helpdesk to another level. We'll be using Campfire this year, which is not only more accessible and nicer to look at, we can also paste screenshots more easily.
 
