@@ -2,7 +2,7 @@
 title: Introducing Team Tessie
 layout: post
 created_at: Mon July 6 2015
-permalink: blog/introducing-tessie
+permalink: blog/2015-07-06-introducing-tessie
 current: blog
 author: Shelly and Pilar
 twitter: _@teamtessie_
