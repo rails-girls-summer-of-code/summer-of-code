@@ -8,7 +8,7 @@ author: Shelly and Pilar
 twitter: _@teamtessie_
 ---
 
-Hello! We are Shelly and Pilar, and together we make up the student part of Team Tessie. We will be spending the summer working with the wonderful people in Hood.ie. 
+Hello! We are Shelly and Pilar, and together we make up the student part of [Team Tessie](https://teams.railsgirlssummerofcode.org/teams/18). We will be spending the summer working with the wonderful people in [Hood.ie](http://hood.ie/). 
 
 <img src="/img/blog/2015/introducing-team-tessie-team.jpg" alt="Team Tessie <3" width="600">
 <font color="grey"><small><i>L-R BR: Aaron, Clemens, Ramon; FR: Shelly, Pilar, Igor (Image: <a href="http://kondens.at/" target="_blank">Michael Emhofer</a>)</i></small></font> 
@@ -40,6 +40,6 @@ _Pilar_: I am extremely excited about getting to know the feel of what it’s li
 
 
 
-_Our team twitter account is @teamtessie. Do follow us to keep updated on our progress, not to mention bonus goat gifs!_
+_Our team twitter account is [@teamtessie](http://twitter.com/teamtessie). Do follow us to keep updated on our progress, not to mention bonus goat gifs!_
 
 
