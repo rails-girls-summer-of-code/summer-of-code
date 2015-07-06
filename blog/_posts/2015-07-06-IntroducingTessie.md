@@ -10,8 +10,8 @@ twitter: _@teamtessie_
 
 Hello! We are Shelly and Pilar, and together we make up the student part of Team Tessie. We will be spending the summer working with the wonderful people in Hood.ie. 
 
-![Team Tessie <3](https://pbs.twimg.com/media/CI_9ia9WgAAAtCc.jpg:large "L-R BR: Aaron, Clemens, Ramon; FR: Shelly, Pilar, Igor")
-
+<img src="/img/blog/2015/introducing-team-tessie-team.jpg" alt="Team Tessie <3" width="600">
+<font color="grey"><small><i>L-R BR: Aaron, Clemens, Ramon; FR: Shelly, Pilar, Igor (Image: <a href="http://kondens.at/" target="_blank">Michael Emhofer</a>)</i></small></font> 
 
 
 **_Why “Team Tessie”, what does it mean?_**
