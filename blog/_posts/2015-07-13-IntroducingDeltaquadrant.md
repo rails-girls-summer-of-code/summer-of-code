@@ -37,10 +37,3 @@ We are working on [diaspora](https://diasporafoundation.org/) - a decentralized 
 We are very happy to have the opportunity and the luxury to spend a lot of time on learning new things and to improve our programming skills and routines. We also like working in a team with different people and so we are really looking forward to work with our lovely coaches [Andi](https://twitter.com/A5308Y), [Bastian]( https://twitter.com/bastianalbers) and [Finn](https://twitter.com/finnpauls), our mentor [Lisa](https://wk3.org/people/97af6df26ecc6c55) our special-supporter and diaspora developer [Christophe]( https://wk3.org/people/6afb9a20cafd8f6d) and our supervisor [Verena](https://twitter.com/viddity). Not to forget [Aakriti](https://twitter.com/aakritiagupta) and [Timo](https://twitter.com/troessner) who offer us desk space and support in their office at [blacklane](https://www.blacklane.com/)!
 
 _Find us on twitter to keep updated on our work [@anderspree]( https://twitter.com/anderspree) & [@zaziemo](https://twitter.com/zaziemo)._ 
-
-
-
-
-_Our team twitter account is [@teamtessie](http://twitter.com/teamtessie). Do follow us to keep updated on our progress, not to mention bonus goat gifs!_
-
-
