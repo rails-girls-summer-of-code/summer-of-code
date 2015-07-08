@@ -1,8 +1,8 @@
 ---
 title: Hello from Amsterdam
 layout: post
-created_at: Wednesday July 8 2015 
-permalink: blog/hello-from-amsterdam
+created_at: Friday July 10 2015 
+permalink: blog/2015-07-10-hello-from-amsterdam
 current: blog
 author: Roos de Bildt
 twitter: team_cheesy
