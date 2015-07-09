@@ -36,5 +36,5 @@ Even though this might become a little cheesy, we want to thank all of our coach
 
 So everybody, keep cool and keep coding. We wish you a cheesy summer!
 
-
+-Fun Fact #4: [by ghost editor] Did you know Roos finished Team Cheesy's first Pull Request? Yes, you do! Hint: take a look at your team's daily updates...._  
 
