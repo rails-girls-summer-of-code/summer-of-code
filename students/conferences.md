@@ -39,8 +39,8 @@ This will not just happen during the Summer of Code, but mostly after the progra
 
 **Enjoy the great vibe, learn new things from the talks, meet fantastic people and get to know the lovely community!**
 
-We highly recommend to go and visit evening events like the local Ruby or JS user group. You can ask your coaches about the events that happen in your place.
-Additionally, we want to you to visit a conference. They are an important aspect of the community life, we support you by organizing free conference tickets.
+We highly recommend to go and visit evening events like the local Ruby or JS user group. You can ask your coaches about the events that happen in your town/city.
+Additionally, we want to you to visit a conference. They are an important aspect of the community life and we support you by organizing free conference tickets.
 
 **Are you a conference organizer and interested in supporting our students? Please <a href="#organizers">read here for more information</a>.**
 
@@ -57,7 +57,7 @@ The RGSoC orga team is in touch with many conference organizers all over the wor
 The conference tickets are given out in a raffle. Well… kind of. We are a global program and will consider this. So, here’s how we do it.
 We have a list of conferences, you as a team can pick from and apply for the tickets. You will be free to choose up to 3 conferences. This will happen on the Teams App, details will be given to you in time.
 
-*Please make sure, you only apply for a conference that you are really able to attend! We can’t provide support for travel & accommodation, so please keep this in mind.*
+*Please make sure, you only apply for a conference that you are really able to attend! We can’t provide support for travel & accommodation so please keep this in mind.*
 
 We will hold 2 raffles since not all conferences have their dates announced yet. The 1st raffle takes place at the end of July. The 2nd raffle happens in September. So if there’s no suitable conference in the 1st round, bear with us, the 2nd round should have something for you. Teams who have not been lucky in the 1st round, will be given preference in the 2nd round. We want everyone of you to have a fair chance.
 
@@ -76,7 +76,7 @@ Yes!
 <h2 id="conference">At the Conference</h2>
 If you won conference tickets, we want you to share your experience. You will either hold a lightning talk or write about your conference experience for the <a href="http://railsgirlssummerofcode.org/blog/">RGSoC blog</a>.
 
-Lightning Talks are usually 10-20 minutes. The topic can and preferrably should be your project at the Summer of Code. We check back with the conference organizers, if this is possible at all. If yes, we will then give you more information about it.
+Lightning Talks are usually 10-20 minutes. The topic can and preferably should be your project at the Summer of Code. We check back with the conference organizers, if this is possible at all. If yes, we will then give you more information about it.
 We also have in mind that it will probably the first public talk for you. Scary thought, right? We know. Stage fright is something we all experience, even if we already have held a lot of talks. We will help you in dealing with it! Here’s a start <a href="http://railsgirlssummerofcode.org/blog/2014-07-29-talk-tips/">How to ace your lightning talk</a>.
 
 Alternatively, if a lightning talk is no option, we want you to write about your conference experience for the RGSoC blog. It could look like this: <a href="http://railsgirlssummerofcode.org/blog/ross-conf-vienna/">RGSoC @ ROSS Conf</a> or <a href="http://railsgirlssummerofcode.org/blog/eurucamp/">Eurucamp Days</a>.
@@ -89,14 +89,14 @@ Many companies support their employees in attending conferences. Ask your coache
 <h2 id="organizers">Infos for Conference Organizers</h2>
 You are organizing a conference and want to provide free tickets for Rails Girls Summer of Code students? We will forever keep you in our hearts!
 
-Our students are located all over the world. 2015 teams mainly work on projects using Ruby/Rails/Ruby related frameworks. We now also have a few JS projects. But we are also looking for general topic developer conferences or full-stack conferences.
+Our students are located all over the world. 2015 teams mainly work on projects using Ruby/Rails/Ruby-related frameworks. We now also have a few JS projects. But we are also looking for general topic developer conferences or full-stack conferences.
 
 There are a few things to consider though:
 * Your conference should be beginner friendly. That means, talks (or workshops) need to be suitable for people who haven’t done this for years.
 
 * You take care of a welcoming, respectful and harassment-free atmosphere. We expect you to either have a Code of Conduct in place or otherwise make an effort in dealing with - let us be plain - jerk behavior. Bonus points go to conferences who have assigned contact persons for potential incidents.
 
-At the conference, we want our students to hold a lightning talk about their project. If you have slots for this, we’d be very happy if a team could use one of them. If not, no worries. Alternatively, they’re supposed to write about their conference experience.
+At the conference, we want our students to hold a lightning talk about their project. If you have slots for this, we’d be very happy if a team could use one of them. If not, no worries. Alternatively, they can write about their conference experience on our blog.
 
 Tickets will be given out in a raffle. You can read about the raffle details above. This is done by the RGSoC orga team who will also connect you to the students who are interested and won a ticket for your conference.
 
