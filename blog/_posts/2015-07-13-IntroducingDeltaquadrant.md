@@ -10,8 +10,8 @@ twitter: @anderspree @zaziemo
 
 Hello! We are Maren and Julia of [Team Delta Quadrant](https://teams.railsgirlssummerofcode.org/teams/23). We'll work on [Diaspora*](https://diasporafoundation.org).
 
-<!--<img src="/img/blog/2015/introducing-team-tessie-team.jpg" alt="Team Tessie <3" width="600">
-<font color="grey"><small><i>L-R BR: Aaron, Clemens, Ramon; FR: Shelly, Pilar, Igor (Image: <a href="http://kondens.at/" target="_blank">Michael Emhofer</a>)</i></small></font>-->
+<img src="/img/blog/2015/introducing-team-delta-quadrant.gif" alt="Team Delta Quadrant">
+<br><font color="grey"><small><i>L-R: Lisa, Julia, Finn, Maren, Christophe (Image: Anika Lindtner)</i></small></font>
 
 
 **_Why “Team Delta Quadrant”, what does it mean?_**
