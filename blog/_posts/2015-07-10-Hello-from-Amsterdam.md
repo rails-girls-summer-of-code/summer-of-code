@@ -34,7 +34,7 @@ And holy cheese, do we have a pro-team of coaches to support us. The top coding 
 * The Artifical, the brand-new-skippybal-rooftop-terrace-daily-snacktime-equipped palace Roos may call her office this summer  
 
 <img src="/img/blog/2015/hello-from-amsterdam-team.jpg" alt="Team Cheesy" width="600">
-<font color="grey"><small><i>Image: Roos de Bildt</i></small></font> 
+<font color="grey"><small><i>Artwork: Roos de Bildt</i></small></font> 
 
 Even though this might become a little cheesy, we want to thank all of our coaches, our supervisor Lieke Boon, our mentor Carsten Zimmerman and the Rails Girls Summer of Code organisation for all of their time, dedication, effort and kindness. Because honestly, the happiest moment so far has been to meet everybody and realize what an amazing team of people we have who voluntarily put so much effort in our learning process. Heartwarming! <3
 
