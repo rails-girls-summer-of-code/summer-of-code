@@ -36,7 +36,7 @@ And holy cheese, do we have a pro-team of coaches to support us. The top coding 
 <img src="/img/blog/2015/hello-from-amsterdam-team.jpg" alt="Team Cheesy" width="600">
 <font color="grey"><small><i>Image: Roos de Bildt</i></small></font> 
 
-Even though this might become a little cheesy, we want to thank all of our coaches, our supervisor Lieke Boon, our mentor Carsten Zimmerman and the Rails Girls Summer of Code organisation for all of their time, dedication, effort and kindness. Because honestly, the happiest moment so far has been to meet everybody and realize what an amazing team of people we have who voluntarily put so much effort in our learning process. Heartwearming! <3
+Even though this might become a little cheesy, we want to thank all of our coaches, our supervisor Lieke Boon, our mentor Carsten Zimmerman and the Rails Girls Summer of Code organisation for all of their time, dedication, effort and kindness. Because honestly, the happiest moment so far has been to meet everybody and realize what an amazing team of people we have who voluntarily put so much effort in our learning process. Heartwarming! <3
 
 So everybody, keep cool and keep coding. We wish you a cheesy summer!
 
