@@ -10,8 +10,8 @@ twitter: TeamMelbKoala
 
 Hello from Aussie! We are Sarah and Vi, and together we make up the student part of Team Melbourne. We will be spending the summer working with the wonderful people from Discourse.org and our coaches, Jo, Adel and the amazing people from Redbubble.com
 
-![](https://googledrive.com/host/0B0MprGf2iwLoMmFiSHRvN0g4VmM)
-*Vi and I with the MacBooks. Redbubble coaches, and our 2 female coaches Jo and Adel (Image: Vi)*
+<img src="/img/blog/2015/introducing-team-melbourne-team.jpeg" alt="" width="600">
+<font color="grey"><small><i>Vi and I with the MacBooks. Redbubble coaches, and our 2 female coaches Jo and Adel (Image: Vi)</i></small></font> 
 
 #####**Who are we?**
 
