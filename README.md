@@ -39,3 +39,16 @@ layout: post
 permalink: blog/2015-07-12-hello-world
 # ...
 ```
+
+## Images
+
+Please upload your images references by your blog post to the `img/blog/<year>`
+folder and name them so that they can easily be linked to your article.
+Uploading the images is the preferred way since externally referenced graphics
+may become unavailable, leaving your blog post with missing image data.
+
+Images will be downscaled to a maximum width of approx. 600 pixels. Please do
+not upload images much larger than that (resize them using a very simple image
+manipulation tool of your choosing). As a rule of thumb: An image "heavier"
+than 250 kilobytes is too big.
+
