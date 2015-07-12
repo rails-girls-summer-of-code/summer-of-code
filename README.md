@@ -1,6 +1,6 @@
 # Rails Girls Summer of Code
 
-This repository contains the website, blog, and campaign pages for Rails Girls Summer of Code. It is hosted using Github Pages. The public address is http://railsgirlssummerofcode.org/
+We are using Github Pages for the website. You can have a look at the `gh-pages` branch, and the preliminary version at [RailsGirlsBerlin.github.io/summer-of-code](http://railsgirlsberlin.github.io/summer-of-code/).
 
 
 ## How to create a new blog post on GitHub
@@ -29,4 +29,13 @@ This repository contains the website, blog, and campaign pages for Rails Girls S
 
   That post explains more than you need. It should work if you just hit the "Pull Request" button, add a title and submit it (target branch and repository names should all default to the right stuff).
 
-   
+## Permalink
+
+Ideally, your blog post's permalink is all lowercase letters. That's not mandatory, though, but please include the date in your blog post's permalink like so:
+
+```yaml
+title: Hello World
+layout: post
+permalink: blog/2015-07-12-hello-world
+# ...
+```
