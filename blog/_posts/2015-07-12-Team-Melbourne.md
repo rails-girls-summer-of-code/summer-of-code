@@ -1,8 +1,8 @@
 ---
 title: Introducing Team Melbourne!
 layout: post
-created_at: Mon July 12 2015
-permalink: blog/introducing-Team-Melbourne
+created_at: Sun July 12 2015
+permalink: blog/2015-07-12-introducing-Team-Melbourne
 current: blog
 author: Vi and Sarah
 twitter: TeamMelbKoala
