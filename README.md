@@ -42,7 +42,7 @@ permalink: blog/2015-07-12-hello-world
 
 ## Images
 
-Please upload your images references by your blog post to the `img/blog/<year>`
+Please upload the images referenced by your blog post to the `img/blog/<year>`
 folder and name them so that they can easily be linked to your article.
 Uploading the images is the preferred way since externally referenced graphics
 may become unavailable, leaving your blog post with missing image data.
