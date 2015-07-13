@@ -52,3 +52,5 @@ not upload images much larger than that (resize them using a very simple image
 manipulation tool of your choosing). As a rule of thumb: An image "heavier"
 than 250 kilobytes is too big.
 
+Please add a line with image credits and be sure to respect the privacy of others
+when uploading photos.
