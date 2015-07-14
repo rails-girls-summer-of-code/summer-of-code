@@ -15,7 +15,8 @@ Hello Everyone, it's Esther and Resla working on Speakerinnen. We come from Nair
 
 Team Techylite is originally made up of three ladies, Resla Wesonga, Esther Monchari and Dorcas Adhiambo. To get a clear picture, think about The Three Musketeers, The Three Stooges or Destiny’s Child. For the summer of code, however, Resla and Esther will be working on Speakerinnen.
 
-![Esther,Resla,Dorcas](https://cloud.githubusercontent.com/assets/6637042/8660335/0dd3e5ce-29b9-11e5-8a09-00259f3663ef.jpg)
+<img src="/img/blog/2015/introducing-team-techylite-students.jpg" alt="Esther, Resla, Dorcas">
+<br><font color="grey"><small><i>L-R: Esther, Resla, Dorcas (Image: Resla Wesonga)</i></small></font>
 
 **Why “Team Techylite”, What does it mean?**
 
@@ -28,13 +29,15 @@ How we came up with this name is actually a funny story. It was inspired by the 
 
 About May this year, we came to hear about Rails Girls Summer of Code(RGSoC) in two different and related ways. Esther read a post on the iHub blog that encouraged women to apply for this year’s edition of RGSoC. Resla was encouraged by a friend who had read the blog post to apply for it. Dorcas was out of town working on a different project. When we(Esther and Resla) met to catch up on what we had been doing, we had a similar idea of what we wanted to do. We both wanted to improve our Ruby on Rails Skills.We decided to put up our application and as luck may have it, we got a spot in this year’s batch. We went ahead and asked our first teacher of Ruby Programming, Perci, to continue what she had started and she gladly accepted to be our coach during the period.
 
-![Celebration](https://cloud.githubusercontent.com/assets/6637042/8660195/1fedf26e-29b8-11e5-9969-f34f93eac081.gif)
+<img src="/img/blog/2015/introducing-team-techylite-celebration.gif" alt="Celebration">
+<br><font color="grey"><small><i>Image: <a href="http://www.google.com" target="_blank">Google Images</a></i></small></font>
 
 **What project are you working on?**
 
 This summer (It’s actually the Cold Season in Kenya.) we will be working on [Speakerinnen](https://speakerinnen.org/en), a website that helps conference organizers find women speakers and moderators. We chose to work on Speakerinnen because we personally identify with the problem they are solving. We attend tech conferences and most of them have very few female speakers or none at all and when we saw what Speakerinnen was doing, it was our first bet. Shout out to Maren Heltsche, our mentor, and the rest of the team for the wonderful work you are doing.
 
-![Good job](https://cloud.githubusercontent.com/assets/6637042/8660196/22869166-29b8-11e5-9f18-c0366c5af016.jpg)
+<img src="/img/blog/2015/introducing-team-techylite-goodjob.jpg" alt="Good Job">
+<br><font color="grey"><small><i>Image: <a href="http://www.google.com" target="_blank">Google Images</a></i></small></font>
 
 We will start the summer by first learning and running tests on our own mini programs, both  TDD and BDD. The current speakerinnen tests are written in Cucumber and we want to change them to RSPEC. Afterwards, we want to work with Ruby Internalization to create a Swahili version of the site so we can help East Africans find women in tech speakers for their conference. We are generally new to the idea of Internalization and we are looking forward to learning a lot about it.
 
