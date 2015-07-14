@@ -25,7 +25,7 @@ Once you have your local copy set up:
 - Add all your text.
 - don't forget to save your changes ;)
 
-## Permalink
+### Permalink
 
 Ideally, your blog post's permalink is all lowercase letters. That's not mandatory, though, but please include the date in your blog post's permalink like so:
 
@@ -36,7 +36,7 @@ permalink: blog/2015-07-12-hello-world
 # ...
 ```
 
-## Images
+### Images
 
 Please upload the images referenced by your blog post to the `img/blog/<year>`
 folder and name them so that they can easily be linked to your article.
