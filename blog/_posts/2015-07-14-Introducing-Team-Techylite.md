@@ -1,8 +1,8 @@
 ---
 title: Introducing Team Techylite from Nairobi
 layout: post
-created_at: Monday July 13 2015
-permalink: blog/Introducing-Team-Techylite
+created_at: Tue July 14 2015
+permalink: blog/2015-07-14-Introducing-Team-Techylite
 current: blog
 author: Resla and Esther
 twitter: Techylite
