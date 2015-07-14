@@ -2,32 +2,28 @@
 
 We are using Github Pages for the website. You can have a look at the `gh-pages` branch, and the preliminary version at [RailsGirlsBerlin.github.io/summer-of-code](http://railsgirlsberlin.github.io/summer-of-code/).
 
+## How to create a new blog post
 
-## How to create a new blog post on GitHub
-[Original writeup](https://gist.github.com/svenfuchs/b83fc36b45bcb0338399) &copy; 2013 by Sven Fuchs
+In order to add your blog post to our blog, you will go through the following steps:  
 
+- fork our repo
+- add your blog post  
+- commit and push your changes  
+- send us a pull request
 
-1. Create a new branch: https://github.com/blog/1377-create-and-delete-branches
+### Forking the repo  
 
-  Ideally pick a branch name like "sf-add-post-whatever-the-post-title-is", where "sf" are your initials. E.g. "al-add-post-new-teams"
+"Forking" basically just means "making a copy"; this allows you to copy our `summer-of-code` repo (found [here](https://github.com/rails-girls-summer-of-code/summer-of-code)) without affecting it. Follow the instructions on forking a repo [in the GitHub docs](https://help.github.com/articles/fork-a-repo/). When forking, you might be asked where you want to fork the repository to; select **your own Github profile**.  
 
-  Confirm you're on the new branch by looking at the current URL. The branch name should be part of it.
+### Writing your blog post
 
-2. Navigate to the `blog/_posts` directory
+Once you have your local copy set up:  
 
-3. Add a new file for your post: https://github.com/blog/1327-creating-files-on-github
-
-  The filename should follow the naming convention of the existing blog posts: https://github.com/rails-girls-summer-of-code/summer-of-code/tree/gh-pages/blog/_posts. The file extension will determine the format used. Use `.md` for Markdown.
-
-4. Add the Jekyll header for the meta data
-
-  See https://raw.github.com/RailsGirlsBerlin/summer-of-code/gh-pages/blog/_posts/2013-06-12-hello-world.md for an example. Include the top section including the `---` lines and change the attributes where required (probably all of them except the `layout` attribute).
-
-5. Add your blog post text
-6. Save the file
-7. Send a pull request: https://help.github.com/articles/creating-a-pull-request
-
-  That post explains more than you need. It should work if you just hit the "Pull Request" button, add a title and submit it (target branch and repository names should all default to the right stuff).
+- create a new file in the `summer-of-code/blog/_posts` folder (on your computer). 
+- Call this file `yyyy-mm-dd-your-blog-post-name.md`, where yyyy-mm-dd is the publishing date for your post. Don't forget the .md extension, which stands for `MarkDown`.
+- Add the Jekyll header for the meta data. See any of the posts in the `blog/_posts` folder for an example. Include the top section including the `---` lines and change the attributes where required (probably all of them except the `layout` attribute). The date should be the publishing date of your post.
+- Add all your text.
+- don't forget to save your changes ;)
 
 ## Permalink
 
@@ -54,3 +50,12 @@ than 250 kilobytes is too big.
 
 Please add a line with image credits and be sure to respect the privacy of others
 when uploading photos.
+
+### Committing your changes and sending a pull request 
+
+Once you're happy with your changes, commit them:
+
+- `git add .`
+- `git commit -m "your commit message"`
+- `git push origin gh-pages` (this will push your changes to the branch `gh-pages` of your own fork of the `summer-of-code` repo on github)
+- make a pull request by navigating to your repo (`http://www.github.com/your_username/summer-of-code`) and your branch (`gh-pages`), and by clicking the "Compare & Review" button, as explained [here](https://help.github.com/articles/using-pull-requests/).
