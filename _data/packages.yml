@@ -652,14 +652,14 @@
       id: eighthlight
       url: https://8thlight.com
       text: |-
-        <a href="https://8thlight.com/" target="_blank">8th Light</a> delivers
-        is a software consultancy that is passionate about crafting beautiful
-        code and sharing its knowledge with others. As a team, we work closely with our
-        clients to discover and solve challenging technical problems. We deliver
-        software solutions that are durable, extensible, and prepared to handle even
-        those future demands that nobody could anticipate. Our craftsmen also host
-        regular events in the community, and are always eager to help aspiring
-        programmers learn to write high quality code.
+        <a href="https://8thlight.com/" target="_blank">8th Light</a> is a
+        software consultancy that is passionate about crafting beautiful code
+        and sharing its knowledge with others. As a team, we work closely with
+        our clients to discover and solve challenging technical problems. We
+        deliver software solutions that are durable, extensible, and prepared
+        to handle even those future demands that nobody could anticipate. Our
+        craftsmen also host regular events in the community, and are always
+        eager to help aspiring programmers learn to write high quality code.
       years:
         - 2015
 
