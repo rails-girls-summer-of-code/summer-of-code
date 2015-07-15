@@ -308,12 +308,18 @@ a.button-burger {
     width: 100%;
     height: auto;
   }
+  .smaller {
+    width: 30%;
+    height: auto;
+  }
   article  {
     padding-bottom: 3em;
     margin-bottom: 4em;
     border-bottom: 1px solid $dark-grey;
   }
 }
+
+
 
 .list--archive {
   li {
