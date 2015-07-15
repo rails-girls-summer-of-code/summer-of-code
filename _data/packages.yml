@@ -646,20 +646,28 @@
     - name: ActBlue
       id: actblue
       url: http://actblue.com
+      text: |-
+        <a href="http://actblue.com">ActBlue</a> is a non-profit that builds
+        fundraising technology for the left. Our mission is to democratize power and
+        help small-dollar donors make their voices heard in a real way. We develop
+        top-of-the-line fundraising software and offer simple and intuitive tools to
+        help Democratic campaigns and progressive organizations connect with grassroots
+        donors. We're supporting Rails Girls Summer of Code because we want to help
+        women find innovative solutions to the world's biggest problems.
       years:
         - 2015
     - name: 8th Light
       id: eighthlight
       url: https://8thlight.com
       text: |-
-        <a href="https://8thlight.com/" target="_blank">8th Light</a> delivers
-        is a software consultancy that is passionate about crafting beautiful
-        code and sharing its knowledge with others. As a team, we work closely with our
-        clients to discover and solve challenging technical problems. We deliver
-        software solutions that are durable, extensible, and prepared to handle even
-        those future demands that nobody could anticipate. Our craftsmen also host
-        regular events in the community, and are always eager to help aspiring
-        programmers learn to write high quality code.
+        <a href="https://8thlight.com/" target="_blank">8th Light</a> is a
+        software consultancy that is passionate about crafting beautiful code
+        and sharing its knowledge with others. As a team, we work closely with
+        our clients to discover and solve challenging technical problems. We
+        deliver software solutions that are durable, extensible, and prepared
+        to handle even those future demands that nobody could anticipate. Our
+        craftsmen also host regular events in the community, and are always
+        eager to help aspiring programmers learn to write high quality code.
       years:
         - 2015
 
