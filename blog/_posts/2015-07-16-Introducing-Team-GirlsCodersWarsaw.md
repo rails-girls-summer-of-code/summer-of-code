@@ -14,7 +14,7 @@ twitter: girlscoderswars
 <img src="/img/blog/2015/introducing-girlscoderswarsaw-students.jpg" alt="Ania and Basia">
 <br><font color="grey"><small><i>L-R: Basia, Ania and a RGSoC cake (Image: Magda, CodeQuest)</i></small></font>
 
-Hello! It’s Ania and Basia and we are team GirlsCodersWarsaw from Poland. We work at the [CodeQuest](codequest.com) office in Warsaw on the [RubyClerks](http://rubyclerks.org) project. We are supported by two coaches here at CodeQuest - Jarek and Łukasz and also by two remotely coaches - Tomasz and Piotr.
+Hello! It’s Ania and Basia and we are team GirlsCodersWarsaw from Poland. We work at the [CodeQuest](http://codequest.com) office in Warsaw on the [RubyClerks](http://rubyclerks.org) project. We are supported by two coaches here at CodeQuest - Jarek and Łukasz and also by two remotely coaches - Tomasz and Piotr.
 
 __Who we are?__
 
@@ -30,7 +30,7 @@ Our team’s name is pretty straightforward. We are girls, who have become coder
 
 __How did you hear about the SoC and why did you apply?__
 
-__Ania__: I heard about RGSoC during the RailsGirls workshop in Warsaw in February. There was a lightning talk given by one of the coaches, Karolina, who took part in the program last year and was very enthusiastic about it. I thought I also would like to take part in such a program, but it was just a pie-in-the-sky idea until I started attending [.Class  workshops](http://dotclass.org). There, I met Basia again, with whom I got acquainted with at the RailsGirls workshop in Łódź last year. She asked me, if I wanted to become her teammate for the RGSoC this year. I agreed without hestitation, as I already planned to quit my current job. 
+__Ania__: I heard about RGSoC during the RailsGirls workshop in Warsaw in February. There was a lightning talk given by one of the coaches, Karolina, who took part in the program last year and was very enthusiastic about it. I thought I also would like to take part in such a program, but it was just a pie-in-the-sky idea until I started attending [.Class workshops](http://dotclass.org). There, I met Basia again, with whom I got acquainted with at the RailsGirls workshop in Łódź last year. She asked me, if I wanted to become her teammate for the RGSoC this year. I agreed without hestitation, as I already planned to quit my current job. 
 
 __Basia__: I heard about the RGSoC last year after my first Rails Girls workshop. I applied then, but didn’t get accepted. Today I’m not upset about it,  because I really needed this year (or even more) to become  friends with rails and ruby. That time gave me confidence and ensured me that I really want to code. I realized, that I like it more and more. For over a year I have been doing everything to become a programmer. RGSoC is my bridge between self-learning and real programming. I’m very happy that I am where I am.
 
