@@ -2,7 +2,7 @@
 title: Introducing Team GirlsCodersWarsaw
 layout: post
 created_at: Thu July 16 2015
-permalink: blog/introducingteamgirlscoderwarsaw
+permalink: blog/2015-07-16-introducing-team-girlscoderswarsaw
 current: blog
 author: Ania&Basia
 twitter: girlscoderswars
@@ -11,7 +11,7 @@ twitter: girlscoderswars
 
 ## Introducing Team GirlsCodersWarsaw
 
-<img src="http://i.imgur.com/uFz5wpu.jpg" alt="Ania and Basia">
+<img src="/img/blog/2015/introducing-girlscoderswarsaw-students.jpg" alt="Ania and Basia">
 <br><font color="grey"><small><i>L-R: Basia, Ania and a RGSoC cake (Image: Magda, CodeQuest)</i></small></font>
 
 Hello! It’s Ania and Basia and we are team GirlsCodersWarsaw from Poland. We work at the [CodeQuest] (codequest.com) office in Warsaw on the [RubyClerks](http://rubyclerks.org) project. We are supported by two coaches here at CodeQuest - Jarek and Łukasz and also by two remotely coaches - Tomasz and Piotr.
