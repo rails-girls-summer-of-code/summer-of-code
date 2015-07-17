@@ -25,7 +25,7 @@ Hello, we are [Aya](https://teams.railsgirlssummerofcode.org/users/472) and [Ank
 
 Why “Alster Hamburgers”, what does it mean?
 ---------------------------
-The Alster is a nice big lake in the middle of Hamburg - not far from the ThoughtWorks office and perfect for relaxing after a long day of coding when Hamburg doesn’t shower us with the rain that it is famous for. Maybe while eating a well-deserved tasty hamburger, too! 
+The Alster is a nice big lake in the middle of Hamburg - not far from the ThoughtWorks office and perfect for relaxing after a long day of coding when Hamburg doesn’t shower us with the rain that it is famous for. Maybe while eating a well-deserved tasty hamburger, too! :hamburger:
 
 
 How did you hear about the SoC and why did you apply?
