@@ -38,7 +38,7 @@ How did you hear about the SoC and why did you apply?
 <img src="/img/blog/2015/alsterhamburgers-with-coaches.jpg" alt="Team Alster Hamburgers" width="600"></br>
 <font color="grey"><small><i>Team Alster Hamburgers! Clockwise from top left: Lukas, Klaus, Manan, Anastasia, Jan, Anke, Aya
 
-Our mentors(not in the picture): [Christoph](https://twitter.com/cz8s) and [Thorsten](https://teams.railsgirlssummerofcode.org/users/349) (Image: Anke)</i></small></font> 
+Our mentors (not in the picture): [Christoph](https://twitter.com/cz8s) and [Thorsten](https://teams.railsgirlssummerofcode.org/users/349) (Image: Anke)</i></small></font> 
 
 
 What project are you working on?
