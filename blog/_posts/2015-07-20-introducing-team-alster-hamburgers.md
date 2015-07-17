@@ -13,9 +13,9 @@ twitter: alsterburgers
 Who are we?
 ---------------------------
 
-Hello, we are [Aya](https://teams.railsgirlssummerofcode.org/users/472) and [Anke](https://teams.railsgirlssummerofcode.org/users/196) and together with our awesome coaches and mentors at [ThoughtWorks](http://www.thoughtworks.com), we’re [Team Alster Hamburgers] (https://teams.railsgirlssummerofcode.org/teams/52). As you can guess from our team name, we’re based in Hamburg, Germany.
+Hello, we are [Aya](https://teams.railsgirlssummerofcode.org/users/472) and [Anke](http://www.twitter.com/ankonym) and together with our awesome coaches and mentors at [ThoughtWorks](http://www.thoughtworks.com), we’re [Team Alster Hamburgers] (https://teams.railsgirlssummerofcode.org/teams/52). As you can guess from our team name, we’re based in Hamburg, Germany.
 
-<img src="/img/blog/2015/team-alsterhamburgers.jpg" alt="Team Alster Hamburgers" width="600">
+<img src="/img/blog/2015/team-alsterhamburgers.jpg" alt="Team Alster Hamburgers" width="600"></br>
 <font color="grey"><small><i>The students: Aya & Anke (Image: Anke)</i></small></font> 
 
 Aya: Hi, I’m 19 years old and I’m studying Computer Science and Economy in Nuremberg at the moment. I’ll be living in Hamburg during the Summer of Code though - pretty exciting to live in a new city and get to know so many people! I’ve been learning a few programming languages like Java and C for a year now but it’s all still very new to me, so I’d still consider myself a noob when it comes to programming! 
@@ -33,7 +33,7 @@ How did you hear about the SoC and why did you apply?
 Anke: I attended a Rails Girls workshop in 2012 in Cologne and got really curious about learning more. I continued studying by myself and followed the Rails Girls news - the Summer of Code always sounded really awesome but it was only this year that everything fell into place: I was able to take the summer off, met another interested Rails Girl at the Hamburg meetup, and we quickly found our coaches at ThoughtWorks who were just as excited to help a RGSoC team for the summer as we were about getting involved. Yay! But that would have been almost too easy, and my first teammate suddenly changed her mind and dropped out right before the deadline. Oh no! Was this the end to my SoC dream? But thanks to the magical powers of the internet (in this case, Facebook and Twitter), the news of the open position reached Aya and we were able to team up, and luckily, she was happy to move to Hamburg for the summer. 
 Aya: … and I heard about the RGSoC program via a desperate facebook post by Anke. I thought to myself “Wow, I really don’t get why somebody would drop out of the RailsGirls program! I’ve always wanted to learn Ruby because we only learn Java and C in my computer science course at university. It’s such a cool thing to work on an open-source project and learn a new language for the summer!”. So I decided to write Anke and apply for the SoC. Luckily she was still looking for a partner at that time! Yay!
 
-<img src="/img/blog/2015/alsterhamburgers-with-coaches.jpg" alt="Team Alster Hamburgers" width="600">
+<img src="/img/blog/2015/alsterhamburgers-with-coaches.jpg" alt="Team Alster Hamburgers" width="600"></br>
 <font color="grey"><small><i>Team Alster Hamburgers! Clockwise from top left: Lukas, Klaus, Manan, Anastasia, Jan, Anke, Aya (Image: Anke)</i></small></font> 
 
 
