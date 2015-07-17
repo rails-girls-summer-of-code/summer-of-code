@@ -36,7 +36,9 @@ Anke: I attended a Rails Girls workshop in 2012 in Cologne and got really curiou
 Aya: … and I heard about the RGSoC program via a desperate facebook post by Anke. I thought to myself “Wow, I really don’t get why somebody would drop out of the RailsGirls program! I’ve always wanted to learn Ruby because we only learn Java and C in my computer science course at university. It’s such a cool thing to work on an open-source project and learn a new language for the summer!”. So I decided to write Anke and apply for the SoC. Luckily she was still looking for a partner at that time! Yay!
 
 <img src="/img/blog/2015/alsterhamburgers-with-coaches.jpg" alt="Team Alster Hamburgers" width="600"></br>
-<font color="grey"><small><i>Team Alster Hamburgers! Clockwise from top left: Lukas, Klaus, Manan, Anastasia, Jan, Anke, Aya (Image: Anke)</i></small></font> 
+<font color="grey"><small><i>Team Alster Hamburgers! Clockwise from top left: Lukas, Klaus, Manan, Anastasia, Jan, Anke, Aya
+
+Our mentors(not in the picture): [Christoph](https://twitter.com/cz8s) and [Thorsten](https://teams.railsgirlssummerofcode.org/users/349) (Image: Anke)</i></small></font> 
 
 
 What project are you working on?
