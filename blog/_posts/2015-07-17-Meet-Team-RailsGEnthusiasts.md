@@ -15,20 +15,20 @@ Hello to everyone from Sofia, Bulgaria :)<br/>
 We are Sophia and Boryana - Team RailsGirlsEnthusiasts (RailsGEnthusiasts)
 and our couches Andrew R., Marta R., Tsvety M. :)
 
-###Who we are?
+###Who are we?
 <img src="https://cloud.githubusercontent.com/assets/9285851/8754798/bf350628-2cce-11e5-9d0a-74ba118ec0d9.jpg"><br/>
 Sophia & Boryana (RailsGEnthusiasts Team)
 #####Sophia: 
 After finishing my Master degree in Economics, I have worked mostly for IT companies as I was engaged mainly with sales & marketing activities. Last year I decided that it is time to get knowledge inside, I mean to know how the software programs and systems work. That is why I took the decision to start learn programming and to learn how to create apps myself. 
 First I started to learn HTML & CSS at the beginning of 2014.
-I understood about the Rails Girls Sofia event, but I missed the one held in March 2014. I applied for the next one in October 2014. I was really very happy to see the confirmation e-mail and it was the beginning of my learning process. After the event I started to visit the local study groups in Sofia, which were organized by the main organizer of the Rails Girls Sofia event – Dimitar Dimirov. I have visited the study groups each week since then.
+I learned about the Rails Girls Sofia event, but I missed the one held in March 2014. I applied for the next one in October 2014. I was really very happy to see the confirmation e-mail and it was the beginning of my learning process. After the event I started to visit the local study groups in Sofia, which were organized by the main organizer of the Rails Girls Sofia event – Dimitar Dimirov. I have visited the study groups each week since then.
 
 #####Boryana:
 My work has nothing in common with my education and my education has nothing in common with programming :) Everything started all of a sudden :) By chance I saw a friend of mine I haven't seen from a very long time. Her name is Siana and few days later she called and told me about Rails Girls Sofia and the study groups and wanted to take me there. I didn't want to go but I had promised, so I went, luckily :) The people there changed my life :) I've never thought I would be doing something like that, but here I am studying, learning, coding, smiling and feeling wonderful :) 
 
 ###How did we hear about RGSoC?
 
-Actually, our coaches (Dimitar Dimitrov and Marta R.) from the study groups told us about this program just before the Easter Holidays. They said “It would be a great opportunity for fast start in the world of technologies.” So, during the holidays we were busy preparing our applications for RGSoC and successfully applied at the very last day :)
+Actually, our coaches (Dimitar Dimitrov and Marta R.) from the study groups told us about this program just before the Easter Holidays. They said “It would be a great opportunity for a fast start in the world of technologies.” So, during the holidays we were busy preparing our applications for RGSoC and successfully applied at the very last day :)
 
 ###Why RailsGirlsEnthusiasts?
 
