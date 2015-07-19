@@ -1,8 +1,8 @@
 ---
 title: Introducing Team RailsGEnthusiasts
-layout: blogpost
+layout: post
 created_at: Sun July 19 2015
-permalink: blog/_posts/2015-07-19-Meet-Team-RailsGEnthusiasts.md
+permalink: blog/2015-07-19-Meet-Team-RailsGEnthusiasts.md
 current: blog
 author: Boryana & Sophia
 twitter: RailsGEnthusia
@@ -16,8 +16,9 @@ We are Sophia and Boryana - Team RailsGirlsEnthusiasts (RailsGEnthusiasts)
 and our coaches Andrew R., Marta R., Tsvety M. :)
 
 ###Who are we?
-<img src="https://cloud.githubusercontent.com/assets/9285851/8754798/bf350628-2cce-11e5-9d0a-74ba118ec0d9.jpg"><br/>
-Sophia & Boryana (RailsGEnthusiasts Team)
+<img src="/img/blog/2015/meet-team-railsgenthusiasts-students.jpg" alt="Sophia & Boryana">
+<br><font color="grey"><small><i> Sophia & Boryana, RailsGEnthusiasts Team (Image: Sophia & Boryana)</i></small></font>
+
 #####Sophia: 
 After finishing my Master degree in Economics, I have worked mostly for IT companies as I was engaged mainly with sales & marketing activities. Last year I decided that it is time to get knowledge inside, I mean to know how the software programs and systems work. That is why I took the decision to start learn programming and to learn how to create apps myself. 
 First I started to learn HTML & CSS at the beginning of 2014.
@@ -48,8 +49,9 @@ Some of our tasks are:
 
 We have big expectations and we know we have to work hard to achieve them. We really want to learn coding, to create different software programs and apps. We want to lay the basis of our future career development as RubyonRails developers.<br/> 
 Thank you TheOryx.com for inviting us to share your great working atmosphere.
-<img src="https://cloud.githubusercontent.com/assets/9285851/8754897/5ecd846c-2ccf-11e5-9932-b35964d12794.jpg"><br/>
-In the left - Petar (TheOryx), Boryana & Sophia sitting in the middle, behind us our coaches Tsvety and Andrew
+
+<img src="/img/blog/2015/meet-team-railsgenthusiasts-team.jpg" alt="Team RailsGEnthusiasts">
+<br><font color="grey"><small><i> In the left - Petar (TheOryx), Boryana & Sophia sitting in the middle, behind us our coaches Tsvety and Andrew (Image: Sophia & Boryana)</i></small></font>
 
 ###If we could code anything in the world, what would it be?
 
