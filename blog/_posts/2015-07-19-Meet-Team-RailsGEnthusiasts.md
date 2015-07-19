@@ -1,8 +1,8 @@
 ---
 title: Introducing Team RailsGEnthusiasts
 layout: blogpost
-created_at: Fri July 17 2015
-permalink: blog/_posts/2015-07-17-Meet-Team-RailsGEnthusiasts.md
+created_at: Sun July 19 2015
+permalink: blog/_posts/2015-07-19-Meet-Team-RailsGEnthusiasts.md
 current: blog
 author: Boryana & Sophia
 twitter: RailsGEnthusia
