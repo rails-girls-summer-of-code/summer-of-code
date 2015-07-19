@@ -1,7 +1,7 @@
 ---
 title: Introducing Team RailsGEnthusiasts
 layout: blogpost
-created_at: Fri July 17 2015
+created_at: Sun July 19 2015
 permalink: blog/_posts/2015-07-17-Meet-Team-RailsGEnthusiasts.md
 current: blog
 author: Boryana & Sophia
@@ -13,7 +13,7 @@ twitter: RailsGEnthusia
 
 Hello to everyone from Sofia, Bulgaria :)<br/> 
 We are Sophia and Boryana - Team RailsGirlsEnthusiasts (RailsGEnthusiasts)
-and our couches Andrew R., Marta R., Tsvety M. :)
+and our coaches Andrew R., Marta R., Tsvety M. :)
 
 ###Who are we?
 <img src="https://cloud.githubusercontent.com/assets/9285851/8754798/bf350628-2cce-11e5-9d0a-74ba118ec0d9.jpg"><br/>
