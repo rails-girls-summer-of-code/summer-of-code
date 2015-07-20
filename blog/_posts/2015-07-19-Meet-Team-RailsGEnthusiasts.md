@@ -40,6 +40,7 @@ Well, the name of our team speaks for itself about our big enthusiasm for learni
 
 Our project is RubyGameDev.com with owner and our mentor Andrew Havens. It's a community-driven, information hub designed to help people build games in Ruby. 
 Some of our tasks are:
+
 - Create guides/tutorials section
 - Improvements on current features
 - Creating new features
