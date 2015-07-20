@@ -13,7 +13,7 @@ twitter: alsterburgers
 Who are we?
 ---------------------------
 
-Hello, we are [Aya](https://teams.railsgirlssummerofcode.org/users/472) and [Anke](http://www.twitter.com/ankonym) and together with our awesome coaches and mentors at [ThoughtWorks](http://www.thoughtworks.com), we’re [Team Alster Hamburgers] (https://teams.railsgirlssummerofcode.org/teams/52). As you can guess from our team name, we’re based in Hamburg, Germany.
+Hello, we are [Aya](https://teams.railsgirlssummerofcode.org/users/472) and [Anke](http://www.twitter.com/ankonym) and together with our awesome coaches and mentors at [ThoughtWorks](http://www.thoughtworks.com), we’re [Team Alster Hamburgers](https://teams.railsgirlssummerofcode.org/teams/52). As you can guess from our team name, we’re based in Hamburg, Germany.
 
 <img src="/img/blog/2015/team-alsterhamburgers.jpg" alt="Team Alster Hamburgers" width="600"></br>
 <font color="grey"><small><i>The students: Aya & Anke (Image: Anke)</i></small></font> 
@@ -42,7 +42,7 @@ How did you hear about the SoC and why did you apply?
 What project are you working on?
 ---------------------------
 
-We will be contributing to the [LEAP Encryption Access Project] (http://leap.se). LEAP is a project to give all internet users access to secure communication, and we will dedicate our summer to helping out on its [email web app] (https://leap.se/en/docs/design/overview#web-app). We’re just getting started with our first [project](https://leap.se/en/docs/get-involved/project-ideas#add-support-for-token-based-user-registration), which will add a token-based user registration feature to the web app’s signup functionality.  We chose LEAP because we find it important that people on the internet can choose who they want to communicate with, without wondering in the back of their minds who may be eavesdropping on their conversations.
+We will be contributing to the [LEAP Encryption Access Project](http://leap.se). LEAP is a project to give all internet users access to secure communication, and we will dedicate our summer to helping out on its [email web app](https://leap.se/en/docs/design/overview#web-app). We’re just getting started with our first [project](https://leap.se/en/docs/get-involved/project-ideas#add-support-for-token-based-user-registration), which will add a token-based user registration feature to the web app’s signup functionality.  We chose LEAP because we find it important that people on the internet can choose who they want to communicate with, without wondering in the back of their minds who may be eavesdropping on their conversations.
 
 
 What are you most looking forward to this summer?
