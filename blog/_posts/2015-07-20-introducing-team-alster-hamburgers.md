@@ -36,7 +36,7 @@ How did you hear about the SoC and why did you apply?
 *Aya*: … and I heard about the RGSoC program via a desperate Facebook post by Anke. I thought to myself “Wow, I really don’t get why somebody would drop out of the Rails Girls program! I’ve always wanted to learn Ruby because we only learn Java and C in my computer science course at university. It’s such a cool thing to work on an open-source project and learn a new language for the summer!”. So I decided to write Anke and apply for the SoC. Luckily she was still looking for a partner at that time! Yay!
 
 <img src="/img/blog/2015/alsterhamburgers-with-coaches.jpg" alt="Team Alster Hamburgers" width="600">
-<br><font color="grey"><small><i>Team Alster Hamburgers! Clockwise from top left: [Lukas](https://twitter.com/lukasingelheim), [Klaus](https://twitter.com/kaeff), [Manan](https://twitter.com/mananbharara), [Anastasia](https://twitter.com/anastasia_a_b), [Jan](https://twitter.com/jriehn), Anke, Aya (Image: Anke). Our mentors (not in the picture): [Christoph](https://twitter.com/cz8s) and [Thorsten](https://teams.railsgirlssummerofcode.org/users/349)</i></small></font> 
+<br><font color="grey"><small><i>Team Alster Hamburgers! Clockwise from top left: <a href="https://twitter.com/lukasingelheim">Lukas</a>, <a href="https://twitter.com/kaeff">Klaus</a>, <a href="https://twitter.com/mananbharara">Manan</a>, <a href="https://twitter.com/anastasia_a_b">Anastasia</a>, <a href="https://twitter.com/jriehn">Jan</a>, Anke, Aya (Image: Anke). Our mentors (not in the picture): <a href="https://twitter.com/cz8s">Christoph</a> and <a href="https://teams.railsgirlssummerofcode.org/users/349">Thorsten</a></i></small></font> 
 
 
 What project are you working on?
