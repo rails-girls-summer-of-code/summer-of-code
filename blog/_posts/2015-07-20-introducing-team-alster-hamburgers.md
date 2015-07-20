@@ -1,7 +1,7 @@
 ---
 title: Introducing Team Alster Hamburgers
 layout: post
-created_at: Mon July 17 2015
+created_at: Mon July 20 2015
 permalink: blog/2015-07-20-introducing-team-alster-hamburgers
 current: blog
 author: Anke and Aya
