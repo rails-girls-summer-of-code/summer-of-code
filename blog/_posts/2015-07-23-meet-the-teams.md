@@ -1,7 +1,7 @@
 ---
 title: Teams of 2015
 layout: post
-created_at: Tue 07 Jul 2015 15:00:00 CEST
+created_at: Tue 23 Jul 2015 15:00:00 CEST
 permalink: blog/2015-07-23-meet-the-teams
 current: blog
 author: Anika
