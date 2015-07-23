@@ -1,7 +1,7 @@
--
+---
 title: Teams of 2015
 layout: post
-created_at: Thursday Jul 23 2015
+created_at: Tue 07 Jul 2015 15:00:00 CEST
 permalink: blog/2015-07-23-meet-the-teams
 current: blog
 author: Anika
@@ -9,7 +9,7 @@ twitter: RailsGirlsSoc
 ---
 
 
-Since July 1st our teams already wrote 320 log entries, spent more than 128 hours coding and are contributing to Open Source projects like Speakerinnen, Lotus, Ruby, Discourse, CocoaPods, Exercism [and many more](https://teams.railsgirlssummerofcode.org/teams) - and this is only the beginning of the summer!
+Since July 1st our teams already wrote 320 [log entries](https://teams.railsgirlssummerofcode.org/), spent more than 128 hours coding and are contributing to Open Source projects like Speakerinnen, Lotus, Ruby, Discourse, CocoaPods, Exercism [and many more](https://teams.railsgirlssummerofcode.org/teams) - and this is only the beginning of the summer!
 
 It’s been now 22 days since Rails Girls Summer of Code officially started and here are the students of 20 teams saying “hello world” from across the globe. Say hello to our teams from Melbourne, Sofia, Coimbra, Seattle, Berlin, Nairobi.. to name only a few.
 
