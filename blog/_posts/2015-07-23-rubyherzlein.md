@@ -1,7 +1,7 @@
 ---
 title: Rubyherzlein <3
 layout: post
-created_at: Mon July 20 2015
+created_at: Thu July 23 2015
 permalink: blog/2015-07-23-rubyherzlein
 current: blog
 author: Nynne and Franzi
@@ -62,7 +62,7 @@ Every morning when we enter the office, get a big glass of orange juice and star
 If we could code anything in the world
 ---------------------------
 
-Franzi: I would build an app which makes people smile.
+Franzi: I would build an app which makes people smile.  
 Nynne: If I could make anything in the would, I’d like to build a huge platform with images and data on all the works of art in all the museums in the world! Yes I know, I’m a huge art history nerd...
 
 
