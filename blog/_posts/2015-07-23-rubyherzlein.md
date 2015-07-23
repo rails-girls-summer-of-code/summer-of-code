@@ -36,7 +36,7 @@ We both live in Berlin and have attended multiple RG events, but nonetheless nev
 How we heard of RGSOC
 ---------------------------
 
-Nynne: I learned about RGSoC through the grapevine. When I started learning to program, the Rails Girls society was one of the first communities I heard about. I immediately knew I wanted the RGSoC experience! I learned about the program last summer, and was first super bummed out that it was way too late to apply. But then I decided to do everything I could to prepare for this years’ application and I’m so happy I made it!
+Nynne: I learned about RGSoC through the grapevine. When I started learning to program, the Rails Girls society was one of the first communities I heard about. I immediately knew I wanted the RGSoC experience! I learned about the program last summer, and was first super bummed out that it was way too late to apply. But then I decided to do everything I could to prepare for this years’ application and I’m so happy I made it!  
 Franzi: I heard about RGSoC the first time on a Rails Girls meetup last winter. Learning about Rails Girls was a big coincidence. During lunch with a friend someone at the other table talked about it. As I had been looking for a community like this for some time, I signed up for the next RG workshop immediately.
 
 
