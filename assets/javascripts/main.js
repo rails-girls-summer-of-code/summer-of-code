@@ -1,3 +1,10 @@
+// toggle navigation
+$('#nav-toggle').on('click', function(ev) {
+  ev.preventDefault();
+  $('#header-hidden').toggleClass('is-open');
+  $('#nav-toggle').toggleClass('is-open');
+});
+
 $(document).ready(function() {
 
   if ($('#progress').length) {
@@ -45,13 +52,6 @@ $(document).ready(function() {
       });
 
       return false;
-    });
-
-    // toggle navigation
-    $('#nav-toggle').on('click', function(ev) {
-      ev.preventDefault();
-      $('#header-hidden').toggleClass('is-open');
-      $('#nav-toggle').toggleClass('is-open');
     });
 
     // add 'the right place to be' sponsor cta
