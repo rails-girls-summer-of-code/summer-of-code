@@ -1,5 +1,5 @@
 ---
-title: Introducing Team DEIGirls
+title: Meet Team DEIGirls
 layout: post
 created_at: Mon July 20 2015
 permalink: blog/2015-07-27-meet-team-deigirls
