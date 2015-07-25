@@ -1,8 +1,8 @@
 ---
 title: Introducing Team The Tremors
 layout: post
-created_at: Thu July 23 2015
-permalink: blog/2015-07-23-introducing-Team-The Tremors
+created_at: Sat July 25 2015
+permalink: blog/2015-07-25-introducing-Team-The Tremors
 current: blog
 author: Nelly and Mercy
 twitter: @teamtremors
@@ -10,8 +10,8 @@ twitter: @teamtremors
 
 ##Introducing Team The Tremors
 
-<img src="/img/blog/2015/TeamTremorsImage1.png" alt="Nelly and Mercy">
-<br><font color="black"><small><i> Mercy and Nelly</i></small></font>
+<img src="/img/blog/2015/Introducing-Team-The-Tremors-students.png" alt="Nelly and Mercy">
+<br><font color="black"><small><i> Mercy and Nelly (Image: Team The Tremors)</i></small></font>
 
 Hi guys, we are Nelly and Mercy from Nairobi, Kenya. We are working on the RapidFTR project. We are supported by three coaches here at Nairobi; Paul Bombo, Hungai Kevin and Diana Wanjuhi. Paul and Hungai school with us and they are amazing developers. Diana is a software engineer at Maramoja transport. We also work with our mentors, Sri Prasanna from India and Anne Mwangi from Uganda, who are the engineers and developers behind RapidFTR. All these people are wonderful :-)
 
@@ -20,7 +20,7 @@ We are two young women who have a different background but have a common interes
 
 __Nelly__:
 Jambo!!(Hello)
-I’m Nelly the older one :-)  ,I am currently doing my MSc in Information Technology at United States International University- Africa and I am a professional software developer (I create android apps). I am also the Google Developer Groups lead for United States International University-Africa.
+I’m Nelly the older one :-)  , I am currently doing my MSc in Information Technology at United States International University- Africa and I am a professional software developer (I create android apps). I am also the Google Developer Groups lead for United States International University-Africa.  
 When I joined the tech world, it was out of passion and love for technology, and how it can transform lives. I had not yet done programming before in my life. but when I encountered it in my undergraduate class, I knew that was what I wanted to do all my life. I am currently learning Ruby on Rails and it's awesome working as a team for a common goal to change people’s lives.
 
 __Mercy__:
@@ -28,7 +28,7 @@ Hi, Mercy here. I am currently studying Applied Computer Technology in United St
 
 
 __Why the name “Team The Tremors”?__
-We choose the name Tremors because we want to cause a disruption.We intend to disrupt the norm and do something new, exciting and breaking barriers. 
+We choose the name Tremors because we want to cause a disruption. We intend to disrupt the norm and do something new, exciting and breaking barriers. 
 
 __How did you hear about the RGSoC and why did you apply?__
 We had a hackathon event that happened on March 14th 2015 in the University. It was during the event that one of our friends, Hungai (also our coach) mentioned to us about it. 
