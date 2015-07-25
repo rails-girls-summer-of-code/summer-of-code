@@ -2,7 +2,7 @@
 title: Introducing Team The Tremors
 layout: post
 created_at: Sat July 25 2015
-permalink: blog/2015-07-25-introducing-Team-The Tremors
+permalink: blog/2015-07-25-introducing-Team-The-Tremors
 current: blog
 author: Nelly and Mercy
 twitter: teamtremors
