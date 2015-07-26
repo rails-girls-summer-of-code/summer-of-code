@@ -1,8 +1,8 @@
 ---
 title: Meet Team DEIGirls
 layout: post
-created_at: Mon July 20 2015
-permalink: blog/2015-07-27-meet-team-deigirls
+created_at: Sun July 26 2015
+permalink: blog/2015-07-26-meet-team-deigirls
 current: blog
 author: Rosa & Inês
 twitter: teamdeigirls
