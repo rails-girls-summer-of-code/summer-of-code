@@ -44,4 +44,4 @@ Because we study in the Department of Informatics Engineering (in Portuguese, De
 We are working on [Lotus](http://lotusrb.org/), a web framework for Ruby. We will be doing the mailer gem for that project, guided by our mentors Luca Guidi and Trung Lê.
 
 ###What are you most looking forward to this summer?
-Learning a lot and contributing to an open source project, while having an imense ammount of fun. And eat cookies!
+Learning a lot and contributing to an open source project, while having an immense amount of fun. And eat cookies!
