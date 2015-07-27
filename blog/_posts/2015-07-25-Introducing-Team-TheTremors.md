@@ -11,7 +11,7 @@ twitter: teamtremors
 ##Introducing Team The Tremors
 
 <img src="/img/blog/2015/Introducing-Team-The-Tremors-students.png" alt="Nelly and Mercy">
-<br><font color="black"><small><i> Mercy and Nelly (Image: Team The Tremors)</i></small></font>
+<br><font color="black"><small><i> Mercy and Nelly (Image: Nelly Kiboi)</i></small></font>
 
 Hi guys, we are Nelly and Mercy from Nairobi, Kenya. We are working on the RapidFTR project. We are supported by three coaches here at Nairobi; Paul Bombo, Hungai Kevin and Diana Wanjuhi. Paul and Hungai school with us and they are amazing developers. Diana is a software engineer at Maramoja transport. We also work with our mentors, Sri Prasanna from India and Anne Mwangi from Uganda, who are the engineers and developers behind RapidFTR. All these people are wonderful :-)
 
