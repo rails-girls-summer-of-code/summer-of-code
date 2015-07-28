@@ -2,7 +2,7 @@
 title: Introducing Team CodeBenders
 layout: post
 created_at: Tues July 28 2015
-permalink: blog/introducing-team-codebenders
+permalink: blog/2015-07-28-introducing-team-codebenders
 current: blog
 author: Jayasi and Megha
 twitter: teamcodebenders
@@ -12,6 +12,7 @@ We are [Jayasi](https://teams.railsgirlssummerofcode.org/users/469) and [Megha](
 We are Computer Science students from [IIIT-Delhi](http://www.iiitd.ac.in/). Jayasi graduated this year and is currently working. Megha is now a senior and is excited to start her last year as an undergrad.
 
 <img src="https://cloud.githubusercontent.com/assets/4542290/8555038/45476826-250b-11e5-9f9a-67395098772c.jpg" align="middle" height="300">
+<br><font color="grey"><small><i>Our amazing team! <3 (Image: Team CodeBenders)</i></small></font>
 
 **Why ‘CodeBenders’? What does the name mean?**
 The word bender means person/object that bends something. We were going to bend a lot of code this summer, hence the name CodeBenders. According to another meaning of the word ‘bender’, CodeBender also refers to a coding spree. We fell in love with that name as soon as it came up in one of our discussions!
