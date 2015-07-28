@@ -87,4 +87,3 @@ TeamMembers.prototype = {
 if($('#js-team').length > 0) {
 	var team = new TeamMembers();
 }
-
