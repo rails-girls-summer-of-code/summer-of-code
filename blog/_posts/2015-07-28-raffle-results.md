@@ -16,6 +16,9 @@ Last week, you sent us your conference wishlists via twitter, and the Conference
 ![sara raffle](/img/blog/2015/raffle-results-sara.gif){: .smaller }
 <br><font color="grey"><small><i>(Image: Anika Lindtner)</i></small></font>
 
+![sara katrin affle](/img/blog/2015/raffle-results-sarakatrin.png){: .smaller }
+<br><font color="grey"><small><i>(Image: Anika Lindtner)</i></small></font>
+
 But enough suspense – here are the winners of our first conference raffle for the summer:
 
 eurucamp (31 Jul–2 Aug): Alster Hamburgers  
