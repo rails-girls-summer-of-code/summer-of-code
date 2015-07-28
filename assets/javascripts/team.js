@@ -6,7 +6,7 @@ var TeamMembers = function() {
 
 TeamMembers.prototype = {
 
-	queryUrl: 'http://localhost:3000/contributors.json',
+	queryUrl: 'https://teams.railsgirlssummerofcode.org/contributors.json',
 	queryData: {},
 	// for dynamic roles
 	//roles: [],
