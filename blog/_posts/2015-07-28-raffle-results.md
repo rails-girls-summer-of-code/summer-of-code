@@ -1,8 +1,8 @@
 ---
 title: Conference Raffle Results
 layout: post
-created_at: Mon 27 Jul 2015
-permalink: blog/2015-07-27-raffle-results
+created_at: Tue 28 Jul 2015
+permalink: blog/2015-07-28-raffle-results
 current: blog
 author: Laura
 twitter: RailsGirlsSoc
