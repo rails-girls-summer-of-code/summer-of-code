@@ -10,6 +10,7 @@ twitter: exercistas
 
 ##Introducing Exercistas!
 ![exercistas with mentor and NIRD coaches](/img/blog/2015/exercistas_with_mentor_and_coaches.png "exercistas with mentor and NIRD coaches")
+(Image: Team Exercistas)</i></small></font>
 ###Who are we?
 **Sarah**: I am a biologist turned bioinformatician turned developer. I studied marine biology ([coral reefs genomics](http://people.oregonstate.edu/~meyere/res.html/ "Integrative Biology | Meyer Lab")) in college and grad school, and eventually decided that computers were more fun than endless nights in the lab. I am the organizer for Geek Girls Carrots Seattle and run a free project-based programming workshop for women, called Code Carrots. I’m originally from France, lived in Texas for a while, and am currently enjoying life in the beautiful Pacific Northwest. Recently, I have been learning to make my own cheese. The way to my heart is through puns, Star Trek quotes, and facts about obscure invertebrates.
 
@@ -36,6 +37,7 @@ We are currently working on two things: a detailed roadmap of the on-boarding pr
 **Mixolidia**: Completing the goals we’ve set for [exercism.io](http://exercism.io/) this summer. Working with the open-source contributors supporting [exercism.io](http://exercism.io/) and the Rails Girls Help Desk has been amazing. I think I’ve already achieved  some of my goals which are to understand the open-source community better and learn how to contribute. Work with a live app that has checks and balances ([Travis](https://travis-ci.org/)!) Learn how to take features from ideas to being live on an app or website.
 
 ![exercistas with mentor and NIRD coaches](/img/blog/2015/exercistas_first_day.jpg "exercistas first day at NIRD")
+(Image: Team Exercistas)</i></small></font>
 
 Follow us on Twitter at [@exercistas](https://twitter.com/exercistas).  
 Read our [blog](https://exercistas.wordpress.com/) on WordPress.
