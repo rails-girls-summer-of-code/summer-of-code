@@ -37,6 +37,8 @@ We are currently working on two things: a detailed roadmap of the on-boarding pr
 
 **Mixolidia**: Completing the goals we’ve set for [exercism.io](http://exercism.io/) this summer. Working with the open-source contributors supporting [exercism.io](http://exercism.io/) and the Rails Girls Help Desk has been amazing. I think I’ve already achieved  some of my goals which are to understand the open-source community better and learn how to contribute. Work with a live app that has checks and balances ([Travis](https://travis-ci.org/)!) Learn how to take features from ideas to being live on an app or website.
 
+We're also looking forward to attending conferences. Rails Girls is helping, by giving us tickets to [Madison+ Ruby](http://madisonpl.us/ruby/)! But we still need help with travel and accommodations. If you would be so kind to visit our [GoFundMe](http://www.gofundme.com/exercistas) campaign, we'd really appreciate it. Every bit counts. Sharing is caring, so please share it with your friends. Thanks!
+
 ![exercistas with mentor and NIRD coaches](/img/blog/2015/exercistas_first_day.jpg "exercistas first day at NIRD")
 <br /><font color="grey"><small><i>(Image: Team Exercistas)</i></small></font>
 
