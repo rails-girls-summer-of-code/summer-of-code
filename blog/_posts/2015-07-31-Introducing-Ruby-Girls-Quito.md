@@ -1,0 +1,96 @@
+---
+title: Introducing Ruby Girls Quito
+layout: post
+created_at: Fri July 31 2015
+permalink: blog/2015-07-31-Introducing-Ruby-Girls-Quito
+current: blog
+author: Evy and Sofi
+twitter: zeroknowledge9
+---
+
+
+Hello, everybody ¡(¡Hola a todos!) 
+We are [Evy and Sofi] (https://teams.railsgirlssummerofcode.org/teams/90) from team 
+RubyGirlsQuito and, as you might have guessed, we are based in Quito, Ecuador. We are 
+working on Project LEAP Encryption Access Project – Webapp. We’re a group of two 
+passionate young students who, oddly, love to learn about 
+cryptography. 
+
+<img src ="/img/blog/2015/introducing_quito.jpg" alt="Team Ruby Girls Quito" width="600">
+<font color="grey"><small><i>Team Ruby Girls Quito!</i></small></font> 
+
+**Who we are?**
+
+Sofi: My passion for coding comes from a very young age. When I was 15, I started 
+learning html, javascript and MS-DOS, and, as you might have guessed, this was a 
+breath-taking experience. I also have a bachelor degree on classical music and I’m 
+currently working on my Literature thesis (about an argentinian writer –Jorge Luis Borges- 
+and a French philosopher –Jacques Derrida-). When it comes to coding, I love everything 
+that has to do with encryption (and that, among others, is the reason why I love working 
+with LEAP) and I have taken many courses in that area. Peculiarly, I’m also very fond of 
+philosophy, especially, philosophy of mathematics.  
+
+Evy: 
+
+
+**How did we hear about RGSoC?**
+
+Our long-time coach, Batman (yeah! that is his nick name –pretty awesome, uh?-), told us 
+about this program. He said that this was an exquisite experience and a way to meet 
+awe-inspiring people (of course, he was not wrong-). We took his advice and experience has 
+proven itself not to be wrong. After all how can an advice be fallacious if it comes from 
+our silent guardian, our watchful protector: the Dark Knight.
+
+<img src ="/img/blog/2015/batman.jpg" alt="Team Ruby Girls Quito" width="600">
+<font color="grey"><small><i>yep, that's our coach!</i></small></font>
+
+
+**Why did we apply to the program?**
+
+We think that RGSoC is the epitome of what coding society is like. It is a group of 
+passionate people committed to create a better world where knowledge is shared in an 
+equal manner between everybody. It is a way of creating a world where one can freely 
+help each other… so why does someone wouldn’t love to be involved in it?
+
+
+**What project are you working on?**
+
+We will be working with LEAP Encryption Access Project. LEAP, which is a project devoted 
+to give all Internet users access to secure communication. We will dedicate our summer 
+to implementing bitcoin payments to the app (pretty splendid!). Of course, we chose LEAP 
+as it is a project working on security, encryption, and, on a theoric level, with 
+cryptography. So far, it has been an awesome experience (yesterday, for example, we 
+learnt about Salt or random data used in cryptography) and we have loved working with our 
+mentors, who we usually refer to as “crypto mentors” or “the suicide squad” (even though 
+they still don’t know their names and, yes, we love comic books!).
+
+
+**What are our expectations for this summer of code?**
+
+We have really high expectations but the principal, among others, is to learn how does 
+an app built in rails work. We also expect to meet awesome people and so far we have done 
+so (we even get in touch with an Erlang’s maniac, with a Homebrew’s contributor and with 
+lovely Team Teesie). 
+ 
+**If we could code anything in the world, what would it be?**
+
+Sofi: Definitely, something about cryptography, implementing zero-knowledge proof seems 
+awesome to me. Also, I’ll love to create an app that somehow helps with building massive 
+online education systems, as in my country, many people doesn’t have the resources to 
+attend universities. 
+
+Evy: 
+
+
+Follow us on @zeroknowledge9, @claucece and @evy_navarrete
+
+Quick advise for anybody that wants to start coding to do awesome things and think that 
+it is really difficult: 
+>“sometimes it is the people no one can imagine anything of who do 
+>the things no one can imagine” (Alan Turing). 
+
+<img src ="/img/blog/2015/turing.jpg" alt="Team Ruby Girls Quito" width="600">
+<font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
+
+
+
