@@ -112,6 +112,8 @@ it is really difficult:
 <left><img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
 <br><font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
 
+
+
 -=-=-=-=-=-=-=-=-=-=-=
      LITTLE GAME
 =-=-=-=-=-=-=-=-=-=-=-
