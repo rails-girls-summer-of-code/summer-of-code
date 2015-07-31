@@ -15,10 +15,12 @@ RubyGirlsQuito and, as you might have guessed, we are based in Quito, Ecuador. W
 working on Project LEAP Encryption Access Project – Webapp. We’re a group of two 
 passionate young students who, oddly, love to learn about 
 cryptography. 
-<br>
+<br><br>
+
 <img src ="/img/blog/2015/introducing_quito.jpg" alt="Team Ruby Girls Quito">
 <br><font color="grey"><small><i>Team Ruby Girls Quito!</i></small></font> 
-<br>
+<br><br>
+
 **Who we are?**
 
 Sofi: My passion for coding comes from a very young age. When I was 15, I started 
@@ -71,6 +73,7 @@ We have really high expectations but the principal, among others, is to learn ho
 an app built in rails work. We also expect to meet awesome people and so far we have done 
 so (we even get in touch with an Erlang’s maniac, with a Homebrew’s contributor and with 
 lovely Team Teesie). 
+
 <br>
 **If we could code anything in the world, what would it be?**
 
