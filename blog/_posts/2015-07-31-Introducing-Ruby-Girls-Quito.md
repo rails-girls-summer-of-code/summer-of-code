@@ -16,8 +16,8 @@ working on Project LEAP Encryption Access Project – Webapp. We’re a group of
 passionate young students who, oddly, love to learn about 
 cryptography. 
 
-<img src ="/img/blog/2015/introducing_quito.jpg" alt="Team Ruby Girls Quito" width="600">
-<font color="grey"><small><i>Team Ruby Girls Quito!</i></small></font> 
+<img src ="/img/blog/2015/introducing_quito.jpg" alt="Team Ruby Girls Quito">
+<br><font color="grey"><small><i>Team Ruby Girls Quito!</i></small></font> 
 
 **Who we are?**
 
@@ -41,8 +41,8 @@ awe-inspiring people (of course, he was not wrong-). We took his advice and expe
 proven itself not to be wrong. After all how can an advice be fallacious if it comes from 
 our silent guardian, our watchful protector: the Dark Knight.
 
-<img src ="/img/blog/2015/batman.jpg" alt="Team Ruby Girls Quito" width="600">
-<font color="grey"><small><i>yep, that's our coach!</i></small></font>
+<img src ="/img/blog/2015/batman.jpg" alt="Batman">
+<br><font color="grey"><small><i>yep, that's our coach!</i></small></font>
 
 
 **Why did we apply to the program?**
@@ -84,13 +84,14 @@ Evy:
 
 Follow us on @zeroknowledge9, @claucece and @evy_navarrete
 
+<br>
 Quick advise for anybody that wants to start coding to do awesome things and think that 
 it is really difficult: 
 >“sometimes it is the people no one can imagine anything of who do 
 >the things no one can imagine” (Alan Turing). 
 
-<img src ="/img/blog/2015/turing.jpg" alt="Team Ruby Girls Quito" width="600">
-<font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
+<img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
+<br><font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
 
 
 
