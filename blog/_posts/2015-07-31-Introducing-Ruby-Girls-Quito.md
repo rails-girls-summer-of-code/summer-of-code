@@ -15,10 +15,10 @@ RubyGirlsQuito and, as you might have guessed, we are based in Quito, Ecuador. W
 working on Project LEAP Encryption Access Project – Webapp. We’re a group of two 
 passionate young students who, oddly, love to learn about 
 cryptography. 
-
+<br>
 <img src ="/img/blog/2015/introducing_quito.jpg" alt="Team Ruby Girls Quito">
 <br><font color="grey"><small><i>Team Ruby Girls Quito!</i></small></font> 
-
+<br>
 **Who we are?**
 
 Sofi: My passion for coding comes from a very young age. When I was 15, I started 
@@ -32,7 +32,7 @@ philosophy, especially, philosophy of mathematics.
 
 Evy: 
 
-
+<br>
 **How did we hear about RGSoC?**
 
 Our long-time coach, Batman (yeah! that is his nick name –pretty awesome, uh?-), told us 
@@ -44,7 +44,7 @@ our silent guardian, our watchful protector: the Dark Knight.
 <img src ="/img/blog/2015/batman.jpg" alt="Batman">
 <br><font color="grey"><small><i>yep, that's our coach!</i></small></font>
 
-
+<br>
 **Why did we apply to the program?**
 
 We think that RGSoC is the epitome of what coding society is like. It is a group of 
@@ -52,7 +52,7 @@ passionate people committed to create a better world where knowledge is shared i
 equal manner between everybody. It is a way of creating a world where one can freely 
 help each other… so why does someone wouldn’t love to be involved in it?
 
-
+<br>
 **What project are you working on?**
 
 We will be working with LEAP Encryption Access Project. LEAP, which is a project devoted 
@@ -64,14 +64,14 @@ learnt about Salt or random data used in cryptography) and we have loved working
 mentors, who we usually refer to as “crypto mentors” or “the suicide squad” (even though 
 they still don’t know their names and, yes, we love comic books!).
 
-
+<br>
 **What are our expectations for this summer of code?**
 
 We have really high expectations but the principal, among others, is to learn how does 
 an app built in rails work. We also expect to meet awesome people and so far we have done 
 so (we even get in touch with an Erlang’s maniac, with a Homebrew’s contributor and with 
 lovely Team Teesie). 
- 
+<br>
 **If we could code anything in the world, what would it be?**
 
 Sofi: Definitely, something about cryptography, implementing zero-knowledge proof seems 
@@ -81,7 +81,7 @@ attend universities.
 
 Evy: 
 
-
+<br>
 Follow us on @zeroknowledge9, @claucece and @evy_navarrete
 
 <br>
@@ -90,7 +90,7 @@ it is really difficult:
 >“sometimes it is the people no one can imagine anything of who do 
 >the things no one can imagine” (Alan Turing). 
 
-<img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
+<left><img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
 <br><font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
 
 
