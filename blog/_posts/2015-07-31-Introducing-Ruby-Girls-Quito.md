@@ -16,7 +16,7 @@ working on Project LEAP Encryption Access Project – Webapp. We’re a group of
 passionate young students who, oddly, love to learn about 
 cryptography. 
 
-<img src ="/img/blog/2015/introducing_quito.jpg" alt="Team Ruby Girls Quito" style="height:160px; width:160px;">
+<img src ="/img/blog/2015/introducing_quito.jpg" alt="Team Ruby Girls Quito">
 <br><font color="grey"><small><i>Team Ruby Girls Quito!</i></small></font> 
 
 **Who we are?**
