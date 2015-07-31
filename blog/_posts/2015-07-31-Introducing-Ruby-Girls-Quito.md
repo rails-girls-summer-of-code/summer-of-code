@@ -38,14 +38,15 @@ Evy: And me? I come from the dark side of the business -haha-. I´m a business E
 I work as a University Professor (well, I´m starting and learning). Currently, I´m 
 involved in researching, but I want to work with projects on Technology Management: I love 
 innovative projects. So, as you can imagine, I didn´t know absolutely nothing about 
-programming until recent years caused by my permanent atraction to the technology world even 
-though I always thought that it was too late for meto study something technical. My story starts 
-exactly one year ago: one day there was the opportunity to work with a project about 
-e-learning, but the thing is, I didn´t understand about what they were talking 
-(all about developing), so I was a little bit frustrated.  Suddenly this event called 
-Rails Girls appeared and I went there and met incredible girls (Sofi included :) ), ate a 
-lot of delicious food haha, practiced and understood code; and that's how history begin! 
-I started to love it, now I´m here with all of you in this amazing RGSoC ;) 
+programming until recent years when due to my permanent atraction to the technology world 
+-even though I always thought that it was too late for me to study something technical- 
+I started to get involved on that world. My story starts exactly one year ago: one day 
+there was the opportunity to work with a project about e-learning, but the thing is, I 
+didn´t understand about what they were talking (all about developing), so I was a little 
+bit frustrated.  Suddenly this event called Rails Girls appeared and I went there and met 
+incredible girls (Sofi included :) ), ate a lot of delicious food -haha-, practiced and 
+understood code; and that's how history begin! I started to love it and now I´m here with 
+all of you in this amazing RGSoC ;) 
 
 
 <br>
@@ -53,8 +54,8 @@ I started to love it, now I´m here with all of you in this amazing RGSoC ;)
 
 Our long-time coach, Batman (yeah! that is his nick name –pretty awesome, uh?-), told us 
 about this program. He said that this was an exquisite experience and a way to meet 
-awe-inspiring people (of course, he was not wrong-). We took his advice and experience has 
-proven itself not to be wrong. After all how can an advice be fallacious if it comes from 
+awe-inspiring people (of course, he was not wrong). We took his advice and experience has 
+proven itself not to be wrong. After all, how can an advice be fallacious if it comes from 
 our silent guardian, our watchful protector: the Dark Knight.
 
 <img src ="/img/blog/2015/batman.jpg" alt="Batman">
@@ -96,8 +97,8 @@ awesome to me. Also, I’ll love to create an app that somehow helps with buildi
 online education systems, as in my country, many people doesn’t have the resources to 
 attend universities. That'll be a [Good Thing] (http://www.catb.org/jargon/html/G/Good-Thing.html). 
 
-Evy: Definitely I would like to code music, I love music!! And in fact, there are 
-people who do that... but I would like to learn.
+Evy: Definitely I would like to code music, I love music!! And in fact, there is 
+people who do that... but I would like to learn it first.
 
 
 <br>
