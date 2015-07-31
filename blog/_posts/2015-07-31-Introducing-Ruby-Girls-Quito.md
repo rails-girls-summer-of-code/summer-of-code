@@ -94,9 +94,9 @@ lovely Team Teesie).
 Sofi: Definitely, something about cryptography, implementing zero-knowledge proof seems 
 awesome to me. Also, I’ll love to create an app that somehow helps with building massive 
 online education systems, as in my country, many people doesn’t have the resources to 
-attend universities. That'll be a [Good Thing] (http://www.catb.org/jargon/html/G/Good-Thing.html) 
+attend universities. That'll be a [Good Thing] (http://www.catb.org/jargon/html/G/Good-Thing.html). 
 
-Evy: Evy: Definitely I would like to code music, I love music!! And in fact, there are 
+Evy: Definitely I would like to code music, I love music!! And in fact, there are 
 people who do that... but I would like to learn.
 
 
@@ -111,6 +111,11 @@ it is really difficult:
 
 <left><img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
 <br><font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
+
+-=-=-=-=-=-=-=-=-=-=-=
+     LITTLE GAME
+=-=-=-=-=-=-=-=-=-=-=-
+
 
 A little game for cryptography' geeks ([taken from The Science of Deduction by Sherlock Holmes] (http://www.thescienceofdeduction.co.uk/hidden-messages/hiddenmessage1)): 
 
