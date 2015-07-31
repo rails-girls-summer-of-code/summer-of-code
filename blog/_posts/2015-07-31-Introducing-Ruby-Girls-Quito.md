@@ -9,7 +9,8 @@ twitter: zeroknowledge9
 ---
 
 
-Hello, everybody ¡(¡Hola a todos!) 
+Hello, everybody! (¡Hola a todos!) 
+
 We are [Evy and Sofi] (https://teams.railsgirlssummerofcode.org/teams/90) from team 
 RubyGirlsQuito and, as you might have guessed, we are based in Quito, Ecuador. We are 
 working on Project LEAP Encryption Access Project – Webapp. We’re a group of two 
@@ -32,7 +33,20 @@ that has to do with encryption (and that, among others, is the reason why I love
 with LEAP) and I have taken many courses in that area. Peculiarly, I’m also very fond of 
 philosophy, especially, philosophy of mathematics.  
 
-Evy: 
+
+Evy: And me? I come from the dark side of the business -haha-. I´m a business Engineer and 
+I work as a University Professor (well, I´m starting and learning). Currently, I´m 
+involved in researching, but I want to work with projects on Technology Management: I love 
+innovative projects. So, as you can imagine, I didn´t know absolutely nothing about 
+programming until recent years caused by my permanent atraction to the technology world even 
+though I always thought that it was too late for meto study something technical. My story starts 
+exactly one year ago: one day there was the opportunity to work with a project about 
+e-learning, but the thing is, I didn´t understand about what they were talking 
+(all about developing), so I was a little bit frustrated.  Suddenly this event called 
+Rails Girls appeared and I went there and met incredible girls (Sofi included :) ), ate a 
+lot of delicious food haha, practiced and understood code; and that's how history begin! 
+I started to love it, now I´m here with all of you in this amazing RGSoC ;) 
+
 
 <br>
 **How did we hear about RGSoC?**
@@ -80,9 +94,11 @@ lovely Team Teesie).
 Sofi: Definitely, something about cryptography, implementing zero-knowledge proof seems 
 awesome to me. Also, I’ll love to create an app that somehow helps with building massive 
 online education systems, as in my country, many people doesn’t have the resources to 
-attend universities. 
+attend universities. That'll be a [Good Thing] (http://www.catb.org/jargon/html/G/Good-Thing.html) 
 
-Evy: 
+Evy: Evy: Definitely I would like to code music, I love music!! And in fact, there are 
+people who do that... but I would like to learn.
+
 
 <br>
 Follow us on @zeroknowledge9, @claucece and @evy_navarrete
@@ -96,5 +112,13 @@ it is really difficult:
 <left><img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
 <br><font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
 
+A little game for cryptography' geeks ([taken from The Science of Deduction by Sherlock Holmes] (http://www.thescienceofdeduction.co.uk/hidden-messages/hiddenmessage1)): 
 
+>'Dearest Sherlock
+>
+>A Roman Emperor will help you work out what this means.
+>
+>DSPCWZNV T LX HLENSTYR JZF
+>
+>xx' 
 
