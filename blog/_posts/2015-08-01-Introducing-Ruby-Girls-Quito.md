@@ -112,7 +112,7 @@ the things no one can imagine”
 (Alan Turing)</blockquote> 
 
 <img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
-<font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
+<font color="grey"><small><i>Long life inspiration: Alan Turing (Image: <a href="https://en.wikipedia.org/wiki/Alan_Turing#/media/File:Alan_Turing_Aged_16.jpg" target="_blank">Wikipedia</a></i></small></font>
 
 
 -=-=-=-=-=-=-=-=-=-=-=  
