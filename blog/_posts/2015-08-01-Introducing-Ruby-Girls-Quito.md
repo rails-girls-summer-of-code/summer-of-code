@@ -105,7 +105,7 @@ people who do that... but I would like to learn it first.
 Follow us on @zeroknowledge9, @claucece and @evy_navarrete
 
 <br>
-Quick advise for anybody that wants to start coding to do awesome things and think that 
+Quick advice for anybody that wants to start coding to do awesome things and think that 
 it is really difficult: 
 <blockquote>“sometimes it is the people no one can imagine anything of who do  
 the things no one can imagine”  
