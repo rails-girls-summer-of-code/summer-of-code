@@ -1,8 +1,8 @@
 ---
 title: Introducing Ruby Girls Quito
 layout: post
-created_at: Fri July 31 2015
-permalink: blog/2015-07-31-Introducing-Ruby-Girls-Quito
+created_at: Sat Aug 01 2015
+permalink: blog/2015-08-01-Introducing-Ruby-Girls-Quito
 current: blog
 author: Evy and Sofi
 twitter: zeroknowledge9
@@ -11,7 +11,7 @@ twitter: zeroknowledge9
 
 Hello, everybody! (¡Hola a todos!) 
 
-We are [Evy and Sofi] (https://teams.railsgirlssummerofcode.org/teams/90) from team 
+We are [Evy and Sofi](https://teams.railsgirlssummerofcode.org/teams/90) from team 
 RubyGirlsQuito and, as you might have guessed, we are based in Quito, Ecuador. We are 
 working on Project LEAP Encryption Access Project – Webapp. We’re a group of two 
 passionate young students who, oddly, love to learn about 
@@ -19,7 +19,7 @@ cryptography.
 <br><br>
 
 <img src ="/img/blog/2015/introducing_quito.jpg" alt="Team Ruby Girls Quito">
-<br><font color="grey"><small><i>Team Ruby Girls Quito!</i></small></font> 
+<br><font color="grey"><small><i>Team Ruby Girls Quito! (Image: Ruby Girls Quito)</i></small></font> 
 <br><br>
 
 **Who we are?**
@@ -59,7 +59,7 @@ proven itself not to be wrong. After all, how can an advice be fallacious if it 
 our silent guardian, our watchful protector: the Dark Knight.
 
 <img src ="/img/blog/2015/batman.jpg" alt="Batman">
-<br><font color="grey"><small><i>yep, that's our coach!</i></small></font>
+<br><font color="grey"><small><i>yep, that's our coach! (Image: <a href="http://picong101.deviantart.com/" target="_blank">picong101</a>)</i></small></font>
 
 <br>
 **Why did we apply to the program?**
@@ -87,7 +87,7 @@ they still don’t know their names and, yes, we love comic books!).
 We have really high expectations but the principal, among others, is to learn how does 
 an app built in rails work. We also expect to meet awesome people and so far we have done 
 so (we even get in touch with an Erlang’s maniac, with a Homebrew’s contributor and with 
-lovely Team Teesie). 
+lovely Team Tessie). 
 
 <br>
 **If we could code anything in the world, what would it be?**
@@ -95,7 +95,7 @@ lovely Team Teesie).
 Sofi: Definitely, something about cryptography, implementing zero-knowledge proof seems 
 awesome to me. Also, I’ll love to create an app that somehow helps with building massive 
 online education systems, as in my country, many people doesn’t have the resources to 
-attend universities. That'll be a [Good Thing] (http://www.catb.org/jargon/html/G/Good-Thing.html). 
+attend universities. That'll be a [Good Thing](http://www.catb.org/jargon/html/G/Good-Thing.html). 
 
 Evy: Definitely I would like to code music, I love music!! And in fact, there is 
 people who do that... but I would like to learn it first.
@@ -107,20 +107,20 @@ Follow us on @zeroknowledge9, @claucece and @evy_navarrete
 <br>
 Quick advise for anybody that wants to start coding to do awesome things and think that 
 it is really difficult: 
->“sometimes it is the people no one can imagine anything of who do 
->the things no one can imagine” (Alan Turing). 
+<blockquote>“sometimes it is the people no one can imagine anything of who do  
+the things no one can imagine”  
+(Alan Turing)</blockquote> 
 
-<left><img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
-<br><font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
-
-
-
--=-=-=-=-=-=-=-=-=-=-=
-     LITTLE GAME
-=-=-=-=-=-=-=-=-=-=-=-
+<img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
+<font color="grey"><small><i>Long life inspiration: Alan Turing</i></small></font>
 
 
-A little game for cryptography' geeks ([taken from The Science of Deduction by Sherlock Holmes] (http://www.thescienceofdeduction.co.uk/hidden-messages/hiddenmessage1)): 
+-=-=-=-=-=-=-=-=-=-=-=  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LITTLE GAME  
+=-=-=-=-=-=-=-=-=-=-=-  
+
+
+A little game for cryptography' geeks - [taken from The Science of Deduction by Sherlock Holmes](http://www.thescienceofdeduction.co.uk/hidden-messages/hiddenmessage1):  
 
 >'Dearest Sherlock
 >
