@@ -1,7 +1,7 @@
 ---
 title: Introducing Exercistas
 layout: post
-created_at: Wed July 29 2015
+created_at: Wed Jul 29 2015
 permalink: blog/2015-07-29-Introducing-Exercistas
 current: blog
 author: Mixolidia & Sarah
