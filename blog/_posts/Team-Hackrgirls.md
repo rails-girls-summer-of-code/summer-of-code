@@ -5,11 +5,11 @@ created_at: Saturday August 1st 2015
 permalink: blog/introducing-Team-Hackrgirls
 current: blog
 author: Nidhiya and Anjaly
-twitter: _tyranja_
+twitter: __rgsoc_hackrgirl__
 ---
 
 
-<a href="https://nidhiya.files.wordpress.com/2015/07/665572570.jpg"><img class="alignleft size-full wp-image-277" src="https://nidhiya.files.wordpress.com/2015/07/665572570.jpg" alt="665572570" width="826" height="709" /></a>
+<img src="img/Hackrgirls.jpg" alt="Team Hackrgirls" width="826" height="709" ></img> 
 
 &nbsp;
 
