@@ -1,19 +1,17 @@
 ---
 title: Introducing Team Hackrgirls
 layout: post
-created_at: Saturday August 1st 2015
-permalink: blog/introducing-Team-Hackrgirls
+created_at: Mon Aug 03 2015
+permalink: blog/2015-08-03-introducing-Team-Hackrgirls
 current: blog
 author: Nidhiya and Anjaly
 twitter: __rgsoc_hackrgirl__
 ---
 
 
-<img src="img/Hackrgirls.jpg" alt="Team Hackrgirls" width="826" height="709" ></img> 
-
-&nbsp;
-
-&nbsp;
+<img src="img/Hackrgirls.jpg" alt="Team Hackrgirls"></img> 
+<br><font color="grey"><small><i>(Image: Team Hackrgirls)</i></small></font> 
+<br><br>
 
 Who are we?
 
