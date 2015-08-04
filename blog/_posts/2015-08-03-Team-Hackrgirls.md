@@ -9,7 +9,7 @@ twitter: __rgsoc_hackrgirl__
 ---
 
 
-<img src="img/Hackrgirls.jpg" alt="Team Hackrgirls"></img> 
+<img src="img/blog/2015/Introducing-Team-Hackrgirls.jpg" alt="Team Hackrgirls">
 <br><font color="grey"><small><i>(Image: Team Hackrgirls)</i></small></font> 
 <br><br>
 
