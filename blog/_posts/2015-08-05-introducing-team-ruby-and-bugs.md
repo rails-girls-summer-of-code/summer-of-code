@@ -3,7 +3,7 @@
 
 title: Introducing Team Ruby 'n' Bugs
 layout: post
-created_at: Wed August 5 2015
+created_at: Wed Aug 05 2015
 permalink: blog/2015-08-05-introducing-team-ruby-and-bugs
 current: blog
 author: Raluca and Thuy
