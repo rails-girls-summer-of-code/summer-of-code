@@ -5,7 +5,7 @@ created_at: Mon Aug 03 2015
 permalink: blog/2015-08-03-introducing-Team-Hackrgirls
 current: blog
 author: Nidhiya and Anjaly
-twitter: __rgsoc_hackrgirl__
+twitter: RGSOC_hackrgirl
 ---
 
 
