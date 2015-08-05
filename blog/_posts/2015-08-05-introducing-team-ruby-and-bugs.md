@@ -43,7 +43,7 @@ The Project we are working on is called Open Source Event Manager. It is an even
 
 At the beginning of this program, we thought that learning and contributing as much as we can to the project are the main goals. Meantime, we discovered another equal important goal: to learn how to work as a team. Having different backgrounds and interests is not always helping us to keep the team spirit. Not mentioning the lack of self-confidence, or stress, or a pesky bug to stubborn to be solved quickly. Perhaps the ultimate goal of this summer is: learn how to deal with any issue may occur, social- or code-related.
 
-*If you want to read more about our _benefits_, _challenges_ & _learning lessons_ of working as a team, please find it [here](https://medium.com/@rubyandbugs/rails-girls-summer-of-code-hackership-the-benefits-challenges-of-being-part-of-2-programs-at-fab267941568).*
+**If you want to read more about our _benefits_, _challenges_ & _learning lessons_ of working as a team, please find it [here](https://medium.com/@rubyandbugs/rails-girls-summer-of-code-hackership-the-benefits-challenges-of-being-part-of-2-programs-at-fab267941568).**
 
 
 ### Instead of “THE END” 
