@@ -19,7 +19,9 @@ twitter: fanxhe
 <p align="center">
   <font color="grey">
     <small>
-      <i>Fanxhe logo</i>
+      <i>Fanxhe logo by Gustavo Colorado.</i><br>
+      <a src= "https://www.facebook.com/GustavoC2014">FanPageFB</a><br>
+      <a src= "https://www.behance.net/GustavoColorado">Behance</a><br>
     </small>
   </font>  
 </p>
@@ -34,7 +36,8 @@ We are Fany and Anye and together with our coaches, Ignacio and Jonathan, our su
 <p align="center">
   <font color="grey">
     <small>
-      <i>Fanxhe Team around the world</i>
+      <i>Fanxhe Team around the world.</i>
+      <a src= "https://twitter.com/zazvick">By @zazvic</a>
     </small>
   </font>
 </p>
@@ -48,10 +51,22 @@ We are Fany and Anye and together with our coaches, Ignacio and Jonathan, our su
     </tr>
     <tr>
       <th style="text-align: center">
-        <img src="/img/blog/2015/fanxhe--anyelina.jpg" style="width: 150px"/>
+        <img src="/img/blog/2015/fanxhe--anyelina.jpg" style="width: 150px"/><p align="center">
+          <font color="grey">
+            <small>
+              <i>Anye</i>
+            </small>
+          </font>
+        </p>
       </th>
       <th style="text-align: center">
-        <img src="/img/blog/2015/fanxhe--fany.jpeg" style="width: 150px" />
+        <img src="/img/blog/2015/fanxhe--fany.jpeg" style="width: 150px"/><p align="center">
+          <font color="grey">
+            <small>
+              <i>Fany</i>
+            </small>
+          </font>
+        </p>
       </th>
     </tr>
   </thead>
@@ -79,7 +94,7 @@ We are Fany and Anye and together with our coaches, Ignacio and Jonathan, our su
     </th>
   </tr>
   <tr>
-    <td style="text-align: center">
+    <td style="text-align: justify">
     We met in Mexico three and a half years ago, because both of us were participating in the same student exchange program. Since that moment we became friends and partners. Later, we started working together on a few projects, including programs of social character: for example, to prevent domestic violence.
     </td>
   </tr>
@@ -115,7 +130,13 @@ The day that we met to complete our application to participate in the Summer of 
 
 <p align= "center"> <b>Estefanía + Anyelina = …Estelina</b> </p>
 
-<div align="center"><img src="/img/blog/2015/fanxhe--up.gif" alt="Fanxhe Team" style= "width: 150px" height="120px"></div>  
+<div align="center"><img src="/img/blog/2015/fanxhe--up.gif" alt="Fanxhe Team" style= "width: 150px" height="120px"></div>  <p align="center">
+  <font color="grey">
+    <small>
+      <i>www.vayagif.com</i>
+    </small>
+  </font>
+</p>
 
 No, we better don’t. "But if what about putting the diminutives of our" names together?
 
@@ -123,6 +144,13 @@ No, we better don’t. "But if what about putting the diminutives of our" names 
 <p align= "center"> <b>Fany + Anye = “FANXHE”</b> </p>
 
 <div align="center"><img src="/img/blog/2015/fanxhe--ok.gif" alt= "Fanxhe Team" style= "width: 150px" height="120px" ></div>  
+<p align="center">
+  <font color="grey">
+    <small>
+      <i>www.giphy.com</i>
+    </small>
+  </font>
+</p>
 
 So, “Fanxhe”, it’s just the combination of our nicknames.  
 
@@ -154,6 +182,13 @@ Do you want to see half a day of Fanxhe Team at RGSoC ?
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/SNfQXRAEcvs" frameborder="0" allowfullscreen></iframe>
 </div>
+<p align="center">
+  <font color="grey">
+    <small>
+      <a src= "https://twitter.com/zazvick">By @zazvic</a>
+    </small>
+  </font>
+</p>
 
 ## **If you could code anything in the world, what would it be?**
 
