@@ -20,8 +20,8 @@ twitter: fanxhe
   <font color="grey">
     <small>
       <i>Fanxhe logo by Gustavo Colorado.</i><br>
-      <a src= "https://www.facebook.com/GustavoC2014">FanPageFB</a><br>
-      <a src= "https://www.behance.net/GustavoColorado">Behance</a><br>
+      <a href= "https://www.facebook.com/GustavoC2014">FanPageFB</a><br>
+      <a href= "https://www.behance.net/GustavoColorado">Behance</a><br>
     </small>
   </font>  
 </p>
@@ -37,7 +37,7 @@ We are Fany and Anye and together with our coaches, Ignacio and Jonathan, our su
   <font color="grey">
     <small>
       <i>Fanxhe Team around the world.</i>
-      <a src= "https://twitter.com/zazvick">By @zazvic</a>
+      <a href= "https://twitter.com/zazvick">By @zazvic</a>
     </small>
   </font>
 </p>
@@ -185,7 +185,7 @@ Do you want to see half a day of Fanxhe Team at RGSoC ?
 <p align="center">
   <font color="grey">
     <small>
-      <a src= "https://twitter.com/zazvick">By @zazvic</a>
+      <a href= "https://twitter.com/zazvick">By @zazvic</a>
     </small>
   </font>
 </p>
