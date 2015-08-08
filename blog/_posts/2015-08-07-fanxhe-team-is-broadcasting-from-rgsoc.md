@@ -130,10 +130,11 @@ The day that we met to complete our application to participate in the Summer of 
 
 <p align= "center"> <b>Estefanía + Anyelina = …Estelina</b> </p>
 
-<div align="center"><img src="/img/blog/2015/fanxhe--up.gif" alt="Fanxhe Team" style= "width: 150px" height="120px"></div>  <p align="center">
+<div align="center"><img src="/img/blog/2015/fanxhe--up.gif" alt="Fanxhe Team" style= "width: 150px" height="120px"></div>  
+<p align="center">
   <font color="grey">
     <small>
-      <i>www.vayagif.com</i>
+      <i>(Image: <a href="http://www.vayagif.com" target="_blank">vayagif.com</a></i>
     </small>
   </font>
 </p>
@@ -147,7 +148,7 @@ No, we better don’t. "But if what about putting the diminutives of our" names 
 <p align="center">
   <font color="grey">
     <small>
-      <i>www.giphy.com</i>
+      <i>(Image: <a href="http://www.giphy.com" target="_blank">giphy</a></i>
     </small>
   </font>
 </p>
