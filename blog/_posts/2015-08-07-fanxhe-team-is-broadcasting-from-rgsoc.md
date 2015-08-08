@@ -134,7 +134,7 @@ The day that we met to complete our application to participate in the Summer of 
 <p align="center">
   <font color="grey">
     <small>
-      <i>(Image: <a href="http://www.vayagif.com" target="_blank">vayagif.com</a></i>
+      <i>(Image: <a href="http://www.vayagif.com" target="_blank">vayagif.com</a>)</i>
     </small>
   </font>
 </p>
@@ -148,7 +148,7 @@ No, we better don’t. "But if what about putting the diminutives of our" names 
 <p align="center">
   <font color="grey">
     <small>
-      <i>(Image: <a href="http://www.giphy.com" target="_blank">giphy</a></i>
+      <i>(Image: <a href="http://www.giphy.com" target="_blank">giphy</a>)</i>
     </small>
   </font>
 </p>
