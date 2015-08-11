@@ -1,5 +1,5 @@
 ---
-title: Introducing [Team Ruby'n' Bugs](https://teams.railsgirlssummerofcode.org/teams/39)
+title: Introducing Team Ruby'n' Bugs
 layout: post
 created_at: Wed August 5 2015
 permalink: blog/2015-08-05-introducing-team-ruby-and-bugs
@@ -49,4 +49,4 @@ At the beginning of this program, we thought that learning and contributing as m
 
 ### Instead of “THE END”
 
-Our journey just started, and we have a lot to share on the way. If you are curious about our progress, about our achievements and our struggles, please follow us on Twitter: [@rubyandbugs](http://www.twitter.com/rubyandbugs), and read our [Medium blog posts](https://medium.com/@rubyandbugs) from time to time.
+Our journey just started, and we have a lot to share on the way. If you are curious about our progress, about our achievements and our struggles, please follow us on Twitter: [@rubyandbugs](http://www.twitter.com/rubyandbugs), on the [Teams App](https://teams.railsgirlssummerofcode.org/teams/39), and read our [Medium blog posts](https://medium.com/@rubyandbugs) from time to time.
