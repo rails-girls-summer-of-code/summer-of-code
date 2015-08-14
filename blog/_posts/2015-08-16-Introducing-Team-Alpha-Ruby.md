@@ -10,7 +10,7 @@ twitter: teamalpharuby
 
 Hello everybody! We are [Team Alpha Ruby](https://teams.railsgirlssummerofcode.org/teams/83), Ariane and Ramya - no team name pun intended ;-).
 
-During Rails Girls Summer of Code 2015, we will be working on the [Official Ruby Documentation Redesign] [http://docs.ruby-lang.org/]
+During Rails Girls Summer of Code 2015, we will be working on the [Official Ruby Documentation Redesign](http://docs.ruby-lang.org/)
 
 Our team has wonderful support on this journey from our mentor Zachory Scott and our coaches Barbara Barbosa and Stella Miranda.
 Furthermore Benedikt Deicke provides additional input and help as our team’s supervisor.
@@ -38,7 +38,7 @@ Rails Girls Summer of Code allows to meet like-minded people and is a great oppo
 
 **What are you working on?**
 
-The goal of our project, the Official Ruby Documentation Redesign is to design an attractive and useful template for reading Ruby documentation, made available as the official ruby-lang.org language reference documentation [http://docs.ruby-lang.org/]
+The goal of our project, the Official Ruby Documentation Redesign is to design an attractive and useful template for reading Ruby documentation, made available as the official ruby-lang.org language reference documentation [http://docs.ruby-lang.org/] (http://docs.ruby-lang.org/)
 
 Our goal is to become proficient with Ruby during this project, so that we can become contributors to the Ruby documentation.
 
