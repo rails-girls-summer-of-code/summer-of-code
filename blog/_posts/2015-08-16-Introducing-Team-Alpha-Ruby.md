@@ -12,7 +12,7 @@ Hello everybody! We are [Team Alpha Ruby](https://teams.railsgirlssummerofcode.o
 
 During Rails Girls Summer of Code 2015, we will be working on the [Official Ruby Documentation Redesign](http://docs.ruby-lang.org/)
 
-Our team has wonderful support on this journey from our mentor Zachory Scott and our coaches Barbara Barbosa and Stella Miranda.
+Our team has wonderful support on this journey from our mentor Zachary Scott and our coaches Barbara Barbosa and Stella Miranda.
 Furthermore Benedikt Deicke provides additional input and help as our team’s supervisor.
 
 <img src="/img/blog/2015/introducing-team-alpha-ruby.jpg" alt="Team Alpha Ruby" width="600">  
