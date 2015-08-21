@@ -39,7 +39,7 @@ Rails Girls Summer of Code allows to meet like-minded people and is a great oppo
 
 **What are you working on?**
 
-The goal of our project, the Official Ruby Documentation Redesign is to design an attractive and useful template for reading Ruby documentation, made available as the official ruby-lang.org language reference documentation [http://docs.ruby-lang.org/] (http://docs.ruby-lang.org/)
+The goal of our project, the Official Ruby Documentation Redesign is to design an attractive and useful template for reading Ruby documentation, made available as the official ruby-lang.org language reference documentation [http://docs.ruby-lang.org/](http://docs.ruby-lang.org/)
 
 Our goal is to become proficient with Ruby during this project, so that we can become contributors to the Ruby documentation.
 
