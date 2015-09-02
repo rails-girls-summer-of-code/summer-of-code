@@ -1,7 +1,7 @@
 ---
 title: The RGSoC Day Off 2015
 layout: post
-created_at: Thu Sep 02 2015
+created_at: Wed Sep 02 2015
 permalink: blog/2015-09-02-rgsoc-dayoff
 current: blog
 author: Sara
