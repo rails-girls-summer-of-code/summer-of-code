@@ -15,6 +15,8 @@ During our summer, we’ve been working on the [LEAP Encryption Access Project�
 
 <img src="/img/blog/2015/alster-leap.gif" alt="Our finished invite code" width="500px">
 <br><font color="grey"><small><i>Our finished invite code in action</i></small></font>
+
+
 Our coaching team was really helpful. We honestly can’t thank them enough for their time and effort. Almost every day, we had sessions with at least one of them and learned about a lot of new and interesting things. Sometimes we were just programming, other times it was more about theory and general coding knowledge. Some examples of the topics we covered are Test Driven Development (TDD), Continuous Integration (CI), CouchDB, (a lot of!) Git (oh Git, we tried really hard to become friends), project management and agile development…
 
 
