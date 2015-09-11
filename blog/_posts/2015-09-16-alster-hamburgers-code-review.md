@@ -1,5 +1,5 @@
 ---
-title: Alster Hamburgers: Our (Summer of) Code Review
+title: Alster Hamburgers - Our (Summer of) Code Review
 layout: post
 created_at: Wed Sep 16 2015
 permalink: blog/2015-09-16-alster-hamburgers-code-review
@@ -13,8 +13,8 @@ Project LEAP & what we’ve learned
 
 During our summer, we’ve been working on the [LEAP Encryption Access Project’s](http://www.leap.se) web app. Some email providers have been looking for a way to select the users who can sign up for their service, or to limit the number of new sign-ups. As a solution, we implemented a new field on the signup form that asks for an invite code: New users will have to receive one before they can create a new account. We also set up the necessary validations so that you can only sign up when you have a valid, unused code and built a way for admins to generate new codes to give out to new users.
 
-<VIDEO?>
-
+<img src="/img/blog/2015/alster-leap.gif" alt="Our finished invite code" width="500px">
+<br><font color="grey"><small><i>Our finished invite code in action</i></small></font>
 Our coaching team was really helpful. We honestly can’t thank them enough for their time and effort. Almost every day, we had sessions with at least one of them and learned about a lot of new and interesting things. Sometimes we were just programming, other times it was more about theory and general coding knowledge. Some examples of the topics we covered are Test Driven Development (TDD), Continuous Integration (CI), CouchDB, (a lot of!) Git (oh Git, we tried really hard to become friends), project management and agile development…
 
 
