@@ -1,5 +1,5 @@
 ---
-title: Alster Hamburgers: Our (Summer of) Code Review
+title: Alster Hamburgers - Our (Summer of) Code Review
 layout: post
 created_at: Wed Sep 16 2015
 permalink: blog/2015-09-16-alster-hamburgers-code-review
