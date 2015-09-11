@@ -18,7 +18,7 @@ layout: null
   <entry>
     <title>{{ post.title | xml_escape }}</title>
     <author>
-      <name>{{ post.author }}</name>
+      <name>{{ post.author | xml_escape }}</name>
       {% if post.twitter %}
       <uri>http://twitter.com/{{ post.twitter }}</uri>
       {% endif %}
