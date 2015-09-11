@@ -1,13 +1,12 @@
 ---
 title: Alster Hamburgers: Our (Summer of) Code Review
 layout: post
-created_at: Wed September 16 2015
+created_at: Wed Sep 16 2015
 permalink: blog/2015-09-16-alster-hamburgers-code-review
 current: blog
 author: Anke and Aya
 twitter: alsterburgers
 ---
-
 
 Project LEAP & what we’ve learned
 ---------------------------
