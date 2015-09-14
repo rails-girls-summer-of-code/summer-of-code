@@ -2,13 +2,11 @@
 title: BaRuCo. It’s not just the talks, it’s the people.
 layout: post
 created_at: Fri Sept 11 2015
-permalink: blog/2015-09-11-baruco-its-not-just-the-talks-its-the-people
+permalink: blog/2015-09-11-baruco-its-not-just-the-talks
 current: blog
 author: Ania&Basia
 twitter: girlscoderswars
 ---
-
-## BaRuCo. It’s not just the talks, it’s the people.
 
 Well, it’s after [BaRuCo](http://www.fullstackfest.com/?from_baruco). We came back refreshed, full of new energy to work. We would like to tell you about this conference very subjectively, about our impressions, which consists of four elements: atmosphere, talks, community and Barcelona.
 
