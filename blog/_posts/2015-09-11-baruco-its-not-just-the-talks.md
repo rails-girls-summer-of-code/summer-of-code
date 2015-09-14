@@ -23,13 +23,13 @@ This is one of our thoughts after the conference: even if you can not be at the 
 We also have to mention that we met there a lot of famous people like Ruby chief designer, Yukihiro Matsumoto or Aaron Patterson from Rails Core Team. Yay!
 
 <img src="/img/blog/2015/barucomatz.jpg" alt="With Matz">
-<br><font color="grey"><small><i>L-R: Ania, [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz), Basia (Image: Piotr Szotkowski)</i></small></font>
+<br><font color="grey"><small><i>L-R: Ania, <a href ="https://twitter.com/yukihiro_matz" target="_blank">Yukihiro Matsumoto</a>, Basia (Image: Piotr Szotkowski)</i></small></font>
 
 <img src="/img/blog/2015/barucoaaron.jpg" alt="With tenderlove">
-<br><font color="grey"><small><i>L-R: Ania, [Aaron Patterson](https://twitter.com/tenderlove), Basia (Image: Basia)</i></small></font>
+<br><font color="grey"><small><i>L-R: Ania, <a href="https://twitter.com/tenderlove" target="_blank">Aaron Patterson</a>, Basia (Image: Basia)</i></small></font>
 
 <img src="/img/blog/2015/barucolauren.jpg" alt="With devdame">
-<br><font color="grey"><small><i>L-R: [Lauren Scott](https://twitter.com/devdame), Basia (Image: Magda)</i></small></font>
+<br><font color="grey"><small><i>L-R: <a href="https://twitter.com/devdame" target="_blank">Lauren Scott</a>, Basia (Image: Magda)</i></small></font>
 
 __Community__
 
