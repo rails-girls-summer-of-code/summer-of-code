@@ -17,11 +17,7 @@ During our summer, we’ve been working on the [LEAP Encryption Access Project�
 <br><font color="grey"><small><i>Our finished invite code in action</i></small></font>
 Our coaching team was really helpful. We honestly can’t thank them enough for their time and effort. Almost every day, we had sessions with at least one of them and learned about a lot of new and interesting things. Sometimes we were just programming, other times it was more about theory and general coding knowledge. Some examples of the topics we covered are Test Driven Development (TDD), Continuous Integration (CI), CouchDB, (a lot of!) Git (oh Git, we tried really hard to become friends), project management and agile development…
 
-
-<img src="/img/blog/2015/alster-kanban-board.jpg" alt="A photo of our kanban board" width="400px">
-<br><font color="grey"><small><i>Our kanban board and box (Image: Anke)</i></small></font>
-
-Since we were mirroring our current work status and github issues on our kanban board, we have accumulated quite a collection of cards with finished stories. Every week or so, we dumped our signed-off issues in the big green box to make more room on our board. We’re looking forward to emptying our box of completed stories when we finish the project and reminisce about all the fun and the struggles we encountered while resolving the issue.
+Since we were mirroring our current work status and github issues on our kanban board, we have accumulated quite a collection of cards with finished stories. Every week or so, we dumped our signed-off issues in a big box to make more room on our board. We’re looking forward to emptying our box of completed stories when we finish the project and reminisce about all the fun and the struggles we encountered while resolving the issue.
 
 
 What else we’ve done
@@ -37,7 +33,7 @@ Because we were so impressed by the lively Ruby community in Berlin, we decided 
 Not only did we go to the conferences proposed by the Rails Girls, but we also got a few opportunities to go to other ones, such as the Dine and Discuss by the [Hamburg Geekettes](http://www.geekettes.io/) and the [Polymer Summit](https://www.polymer-project.org/summit) in Amsterdam.
 On our international RGSoC day off (where we were supposed to spend our time doing anything but code), we decided to help at our local donation center for refugees at Messehallen. We were busy folding donated clothes for a few hours - a great feeling to leave the place just a little bit tidier than before!
 
-<img src="/img/blog/2015/alster-helping-at-messehallen.jpg" alt="Folding donated clothes at Messehallen" width="400px">
+<img src="/img/blog/2015/alster-messehallen.jpg" alt="Folding donated clothes at Messehallen" width="600px">
 <br><font color="grey"><small><i>Folding donated clothes on our RGSoC Day Off (Photo: Aya/Anke)</i></small></font>
 
 	
