@@ -15,6 +15,8 @@ During our summer, we’ve been working on the [LEAP Encryption Access Project�
 
 <img src="/img/blog/2015/alster-leap.gif" alt="Our finished invite code" width="500px">
 <br><font color="grey"><small><i>Our finished invite code in action</i></small></font>
+
+
 Our coaching team was really helpful. We honestly can’t thank them enough for their time and effort. Almost every day, we had sessions with at least one of them and learned about a lot of new and interesting things. Sometimes we were just programming, other times it was more about theory and general coding knowledge. Some examples of the topics we covered are Test Driven Development (TDD), Continuous Integration (CI), CouchDB, (a lot of!) Git (oh Git, we tried really hard to become friends), project management and agile development…
 
 Since we were mirroring our current work status and github issues on our kanban board, we have accumulated quite a collection of cards with finished stories. Every week or so, we dumped our signed-off issues in a big box to make more room on our board. We’re looking forward to emptying our box of completed stories when we finish the project and reminisce about all the fun and the struggles we encountered while resolving the issue.
