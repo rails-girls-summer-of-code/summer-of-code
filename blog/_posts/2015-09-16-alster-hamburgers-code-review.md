@@ -28,7 +28,7 @@ What else we’ve done
 We won tickets to two conferences via the first conference raffle. Luckily for us, we got into the conferences that are relatively near to Hamburg so we didn’t have to pay too much to get there. The first conference was the Eurucamp in Potsdam (near Berlin) where we got to know many other passionate Rails Girls. The other one was in Dortmund and was called Open Tech School (OTS) Conference, where Anke and I got pretty lucky! We attended two different workshops on the second day of the conference and were given a phone and a drone to take back with us to Hamburg. We held lightning talks at both conferences.
 
 <img src="/img/blog/2015/alster-conferences-talks.jpg" alt="Lightning talks at Eurucamp and OTS Conf" width="600px">
-<br><font color="grey"><small><i>Lightning talks at Eurucamp (left) and OTS Conf (right) (Photos: [Anika](http://www.twitter.com/langziehohr))</i></small></font>
+<br><font color="grey"><small><i>Lightning talks at Eurucamp (left) and OTS Conf (right) (Photos: <a href="http://www.twitter.com/langziehohr" target="_blank">Anika</a>)</i></small></font>
 
 Because we were so impressed by the lively Ruby community in Berlin, we decided we needed a learner’s group in Hamburg as well. Our group is called [“Hamburg Gem Sessions”](http://rorganize.it/groups/hamburg-learner-s-group-tbd) and has about 7 attendees, which is pretty awesome given that we've only had a few meetups! 
 
