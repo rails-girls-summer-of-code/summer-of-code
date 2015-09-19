@@ -78,7 +78,7 @@ Important elements include: the Rails Girls Community, SoundCloud team, our Soun
 
 <img src="/img/blog/2015/rubyherzlein-fullstack-fest.jpeg" alt="Full Stack Fest 2015">
 
-(image sources from: https://github.com/akievet/blogs/blob/master/090715_full_stack_writeup.md)
+(Photo by Amanda Kievet)
 <br>
 
 Full Stack Fest
@@ -96,7 +96,7 @@ Erik, Alex Duana, Tam, Txus, Jano, Sara, Sergio and George!
 
 <img src="/img/blog/2015/rubyherzlein-fullstack-lunch.jpeg" alt="Full Stack Fest 2015 lunch">
 
-(image sources from: https://github.com/akievet/blogs/blob/master/090715_full_stack_writeup.md)
+(Photo by Amanda Kievet)
 
 <br>
 
