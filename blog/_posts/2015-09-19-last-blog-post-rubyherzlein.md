@@ -108,8 +108,12 @@ our personal highlight was it to meet Matz in person. We guess it’s always goo
 
 <br>
 
-
 It was great meeting so many people from the ruby and javascript community. The random lunches as well as all the other offsite events were the perfect setting to have longer and more intense conversations and made the whole week feel like a big friends & family meetup.
 
+<br>
+
+<img src="/img/blog/2015/rubyherzlein-fullstack-franzi.jpg" alt="Full Stack Fest 2015 MATZ!">
+
+<br>
 
 The last three months have been both challenging and rewarding. After the summer, Nynne and Franzi will continue to code, continue to learn with all the tools and connections made. You can follow our journeys on @WlFranzi and @nynnest.
