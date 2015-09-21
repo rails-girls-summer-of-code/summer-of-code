@@ -26,7 +26,7 @@ Well, like it was yesterday when we were just starting :)
 ##### What have we achieved during the RGSoC?
 At the beginning, there was a lot of reading, we mean (a lot) * 10 … and nothing left in our heads till the moment we started the real coding process :)
 As you all know, it doesn't matter how many books and tutorials you gonna read, the practice is the most important thing if you want to learn coding. 
-So, this summer we spent our time in reading and practicing, reading and practicing and listening to our coaches, and again, and again, and again. And the practice – coding was … :) you know … fascinating in its own way :) You can spend hours in trying to find a solution or fix bugs etc. … but when you make it, when you see you have finished the task, well, you are full with enthusiasm to start with the next one … :) :) :) 
+So, this summer we spent our time in reading and practicing, reading and practicing and listening to our coaches, and again, and again, and again. And the practice – coding was … :) you know … fascinating in its own way :) You can spend hours trying to find a solution or fix bugs etc. … but when you make it, when you see you have finished the task, well, you are full with enthusiasm to start with the next one … :) :) :) 
 
 ##### What comes next?
 As maybe, every team from this year edition of RGSoC knows that 3 months are not enough to learn all aspects of coding, we are eager to continue our training in RoR, JavaScript and further some other programming languages. 'Cause our aim is to become Senior RoR Developers :)
@@ -41,7 +41,7 @@ They gave us not only explanation, they were helping us, pushing us to continue 
 
 2. We want to thank as well to our mentor **Andrew Havens**. Although the time difference was huge, we could always rely in his support and advices. Thank you Andrew for giving us the opportunity to work on RubyGameDev.com, which was a real challenge for us. The Project is a wonderful idea, giving a great opportunity for Junior RoR enthusiasts to develop their skills and if we have the possibility, we will continue helping Andrew with his Project.
 
-3. Aaaaaand **TheOryx** – Thank you that you hosted us during the RGSoC and that this summer was a real one with your wonderful green summer garden and the breathetaking view to the Pancharevo Lake.
+3. Aaaaaand **TheOryx** – Thank you that you hosted us during the RGSoC and that this summer was a real one with your wonderful green summer garden and the breathtaking view to the Pancharevo Lake.
 <img src="/img/blog/2015/rails-g-enthusiasts-TheOryx.png" alt="Sophia & Boryana & TheOryx">
 <br><font color="grey"><small><i> Sophia & Boryana & TheOryx crew, RailsGEnthusiasts Team (Image: Sophia & Boryana)</i></small></font>
 
@@ -49,9 +49,9 @@ They gave us not only explanation, they were helping us, pushing us to continue 
 <img src="/img/blog/2015/rails-g-enthusiasts-ruby.jpg" alt="Ruby">
 <br><font color="grey"><small><i> A present from InitLab Sofia, RailsGEnthusiasts Team (Image: Sophia & Boryana)</i></small></font>
 
-5.  (Oh, God, we feel as if we are on the Oscar's awards ceremon... :)  )**...because now we would like also to turn to all RGSoC organizers:** Without your brilliant idea and hard work to create this wonderful three-month event of coding, we would know almost nothing about how to create a real RoR Porject, how to write blocks of code, methods, functions, tests, how to use Git, etc, etc…
+5.  (Oh, God, we feel as if we are on the Oscar's awards ceremony... :)  )**...because now we would like also to turn to all RGSoC organizers:** Without your brilliant idea and hard work to create this wonderful three-month event of coding, we would know almost nothing about how to create a real RoR Project, how to write blocks of code, methods, functions, tests, how to use Git, etc, etc…
 Thank you **Sara, Anika, Laura, Lieke, Verena and all other organizers**, who participate in this great organization. Thank you, you are here for us!
 
-Now, it's time to finish writing our second blog posts, as it's time to start writing our code and tests for RubyGameDev.com as Andrew is waiting for our next pull requests.    
+Now, it's time to finish writing our second blog post, as it's time to start writing our code and tests for RubyGameDev.com as Andrew is waiting for our next pull requests.    
 
 Stay tuned for our next blog post about 'dotJS' conference in Paris ;)
