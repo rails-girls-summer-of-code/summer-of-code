@@ -13,7 +13,7 @@ Rubyherzlein & The Rails Girls Summer of Code 2015
 
 This summer is nearly over! Team Rubyherzlein has been working on the SoundDrop app at the SoundCloud office in Berlin since July, as a part of the Rails Girls Summer of Code 2015 Program.
 
-So what have we learned during these three months? Here is the list of most (but not all!) the topics that we covered with our coach, mentors and coding buddies:
+So what have we learned during these three months? Here is the list of most of (but not all!) the topics that we covered with our coach, mentors and coding buddies:
 
 * Git, GitHub and Version Control
 * A brief history of Unix
@@ -39,7 +39,7 @@ So what have we learned during these three months? Here is the list of most (but
 * Variable Scope
 * Duck Type
 
-This checklist looks pretty long list, actually we probably covered much more ground than that! 
+This checklist looks pretty long, actually we probably covered much more ground than that! 
 <br>
 
 <img src="/img/blog/2015/rubyherzlein-eurucamp-lecture_room.jpg" alt="Eurucamp 2015">
