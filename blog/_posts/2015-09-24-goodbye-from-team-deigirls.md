@@ -20,7 +20,7 @@ Initially our team was supported by our coaches Christian Weyer, Pablo Porto and
 The project mentors were also always there for us. Luca, the project owner, helped us to design our project plan and to set our route. Trung, our mentor, accompanied us in our journey, guiding us in every turn and not even the time difference (he lives in Australia) prevented him to come to our rescue, when needed!
 The last, but not the least, member of our team is our amazing supervisor Alex! Our tals and our weekly catch-up calls are something that we'll surely miss! We always ended up laughing until our stomachs hurt! (and no, it isn't from the cookies!)
 
-<img src="/img/blog/2015/teamDEIGirls_tree.jpg">
+<img src="/img/blog/2015/teamDEIGirls_tree.png">
 <br><font color="grey"><small><i>Team DEIGirls family tree(Image: Team DEIGirls)</i></small></font>
 
 ### Our work
@@ -28,7 +28,7 @@ The last, but not the least, member of our team is our amazing supervisor Alex! 
 During the Summer, we have been working on the web framework [Lotus](http://lotusrb.org/) for Ruby. But, since we were newbies in programming for the web, there were a lot of things to learn before we get out hands into that.
 First, we started by learning Ruby, Ruby on Rails, html and css. We also had to learn working with Git, for real. We did a lot of online tutorials and earned loads of badges! Then, we did a diary application on Ruby on Rails and a similar one in Lotus, to better understand their differences. Afterwards, we started meta-programming on Ruby. Our main work was to built a mailer gem to Lotus. And we did it!
 
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/THOG2"><a href="//imgur.com/a/Hlqzh">Some memories from team DEIGirls working on RGSoC</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Hlqzh" data-context="false"><a href="//imgur.com/a/Hlqzh">Some memories from team DEIGirls working on RGSoC</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ###Our participation on RGSoC
 
@@ -40,6 +40,6 @@ We also had a chance to participate on a Rails Girls event, to help as coaches a
 After that, we participated on RubyConf PT. We attended great talks and we were able to meet other Rubyists and share our experience of participating on RGSoC. We also had a chance to meet our coach Christian on person, since he was one of the speakers at the conference. We are glad that we had that we had this opportunity to meet one of our team members for real, after spending a big part of the Summer talking with him through a computer!
 Most of all, it was an enriching Summer, full of new experiences and challenges, and a lot of fun!
 
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/THOG2"><a href="//imgur.com/a/1BSqz">Funny moments from Team DEIGirls</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/1BSqz" data-context="false"><a href="//imgur.com/a/1BSqz">Funny moments from Team DEIGirls</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 We want to thank everyone who made this Summer possible! The organizers, the sponsors, the people who donated money for the program, the coaches who volunteered to help us and the mentors who brought the projects. You are incredible for allowing us to have this amazing adventure!
