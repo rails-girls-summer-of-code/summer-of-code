@@ -11,7 +11,7 @@ twitter: cocoagems
 <br><font color="grey"><small><i> Emma and Karla during the first week in the GitHub office.</i></small></font>
 
 ## A little bit of background
-CocoaGems is a pretty large team. We had the great fortune of having four mentors from CocoaPods and a total of seven coaches. Five of our coaches are from GitHub and two of them are private coaches. GitHub hosted us during the entire Summer of Code and provided us with office space in there beautiful office in San Francisco.[CocoaPods](https://cocoapods.org/) is a dependency manager for iOS development written in Ruby. It allows iOS developers to use pods containing libraries  and also to share their own pods with other developers.
+CocoaGems is a pretty large team. We had the great fortune of having four mentors from CocoaPods and a total of seven coaches. Five of our coaches are from GitHub and two of them are private coaches. GitHub hosted us during the entire Summer of Code and provided us with office space in there beautiful office in San Francisco.[CocoaPods](https://cocoapods.org/) is a dependency manager for iOS development written in Ruby. It allows iOS developers to use pods containing libraries and also to share their own pods with other developers.
 
 ## What we did
 
@@ -32,18 +32,18 @@ How to automate your learning process. Is that even possible? learn to schedule 
 
 Emma:
 
-I wanted to take the opportunity to get exposed to different parts of programming during this summer. I chose a bug to fixed, I moved source code to its own plugin (gem) to make the codebase more modular, and I worked on a web project for user generated lists.
+I wanted to take the opportunity to get exposed to different parts of programming during this summer. To get started I chose one of the issues labeled easy in the CocoaPods repository. Sorting the order of how pods are listed in an Xcodeproject. The pods used to be ordered case sensitive and that caused confusion for users with a large number of pods. By working on this issue I learned a great deal of things that I can't imagine learning in a better way. I hadn't been exposed to a larger codebase before an it felt exciting to search for the lines of code that loaded the pods in Xocode. I picked my coaches and mentors brains for all of there tips and tricks to find the right place and ignore everything else. I also learned more about how sorting works and became better at understanding Ruby syntax. Once I got the sorting figured out it was time to rewrite the tests. I needed to learn how to write tests, did a bunch of online tutorials and got help from our coaches. Once the tests succeeded I was very proud to do my first [pull request](https://github.com/CocoaPods/Xcodeproj/pull/294) ever to an open source project.
+
+After that I worked on moving the [source code for search](https://github.com/CocoaPods/cocoapods-search) to its own plugin (gem) to make the codebase more modular. By doing so it will be easier to make changes or improvements to search in the future. With my new skills from previous work it was easier to get started, however CocoaPods is pretty huge and has its own infrastructure to get your head around. I struggled with understanding the development environment and how to run my local changes with Rake. Once I got that figured out I worked myself backwards copying code too the new plugin and making sure I got everything right. Moving the tests for search was actually more complicated than moving the source code since the tests required a lot of files in the fixture folder to run the tests. By working on this I  got a better understanding of what a gem is an how it's structured. For the last month I chose to work on a new web project called [CocoaPods stories](https://github.com/CocoaPods/stories.cocoapods.org) that enables user generated lists of pods. I've always wanted to learn more about databases and I feel really inspired to be able to do so in this project working my way through the issues.
 
 
 ##Thank you <3
 
 Karla:
-The summer was a full on learning experience - it makes me happy to know  that we kept a RGSoC Team Apps journal- this summer has to be the best well spent three months of my life and best use of time. An enormous thank you to our CocoaPods Mentors: Kyle Fuller, Orta Therox, Boris Bugling and Samuel Giddins. To our GithHub coaches: Jake Boxer, Jesse Toth, Rachel Meyers,  Rob Rix and Ross Mc Farland.Learning about software development, fundamentals, Git, algorithms,how to write tests, and Agile has been a great experience with you!!
+The summer was a full on learning experience - it makes me happy to know  that we kept a RGSoC Team Apps journal- this summer has to be the best well spent three months of my life and best use of time. An enormous thank you to our CocoaPods Mentors: Kyle Fuller, Orta Therox, Boris Bugling and Samuel Giddins. To our GithHub coaches: Jake Boxer, Jesse Toth, Rachel Meyers,  Rob Rix and Ross Mc Farland. Learning about software development, fundamentals, Git, algorithms,how to write tests, and Agile has been a great experience with you!!
 
-
-
-
-
+Emma:
+I just want to aim a big thank you to everyone who made these three months of immersive learning possible. Thank you to Rails Girls Summer of Code organizers for creating this excellent program to help change the ratio in open source development. Thank you to CocoaPods for believing in us, giving us support and projects to work on. Thank you to GitHub for hosting us and giving us coaching in various subjects. Thank you to our private coaches for your patience, time and support. 
 
 
 
