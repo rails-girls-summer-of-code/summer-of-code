@@ -2,7 +2,7 @@
 title: Goodbye from Team DEIGirls
 layout: post
 created_at: Wed September 23 2015
-permalink: blog/2015-09-24-goodbye-from-team-deigirls
+permalink: blog/2015-09-23-goodbye-from-team-deigirls
 current: blog
 author: Inês & Rosa
 twitter: teamdeigirls
