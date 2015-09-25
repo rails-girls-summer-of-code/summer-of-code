@@ -5,7 +5,7 @@ created_at: Sunday Sep 20 2015
 permalink: blog/2015-09-20-rubyherzlein-last-blogpost
 current: blog
 author: Nynne and Franzi
-twitter: rubyherzlein
+twitter: RubyherzleinRG
 ---
 
 Rubyherzlein & The Rails Girls Summer of Code 2015
