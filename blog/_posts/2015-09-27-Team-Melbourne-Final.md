@@ -1,8 +1,8 @@
 ---
 title: Review of Rails Girls Summer of Code 2015 by Team Melbourne
 layout: post
-created_at: Fri September 18 2015
-permalink: blog/2015-09-18-Team-Melbourne.md
+created_at: Sun September 27 2015
+permalink: blog/2015-09-27-Team-Melbourne.md
 current: blog
 author: Vi and Sarah
 twitter: TeamMelbKoala
@@ -12,7 +12,8 @@ G’day!
 
 We're [Vi](http://adcopywriter.github.io) & [Sarah](http://www.cyberkoi.com).  We're the team that makes up Team Melbourne, the first Australian sponsored team to participate in Rails Girls Summer of Code.  
 
-![](https://www.dropbox.com/sc/wxeclaqo7uwxamg/AADf-uDgW7qqErkZnlS7p8FWa?dl=1)
+<img src="/img/blog/2015/team-melbourne-final-infographic.jpeg">
+<br><font color="grey"><small><i>Image: Team Melbourne</i></small></font>
 
 From July to December 2015, we created **[an advertising plugin](https://github.com/team-melbourne-rgsoc2015/discourse-adplugin)** for [Discourse](http://discourse.org) that supports Adsense, DoubleClick for Publishers and Amazon Affiliates.  This was our first ever contribution to open source.
 
@@ -40,12 +41,15 @@ Don't have 13 minutes to listen to the podcast? Below we’ve summarized the ski
 
 - **Productivity Platforms**: Our amazing coaches introduced us to Slack, Trello, and Daily Stand-Ups. These were effective tools in making sure the project continued to stay on track!
 
-![](https://www.dropbox.com/sc/fh341psgmmoyeg4/AAAJxx2R6Sl-wJY4i_hS-pPaa?dl=1)
+<img src="/img/blog/2015/team-melbourne-team.jpg">
+<br><font color="grey"><small><i>Image: Team Melbourne</i></small></font>
 
 Exciting News: Vi's business that provides [tutoring for selective school and scholarship tests](https://www.examsuccess.com.au/) is sponsoring for 2016 Rails Girls Summer of Code.
 
 We’d like to thank Rails Girls for giving us the opportunity, Redbubble for being our coaching company and Discourse.org for building something amazing!
 
-![](https://www.dropbox.com/s/ucg8hkbcr6f5m8c/My%20Edited%20Video%20%282%29.gif?dl=1)
+<img src="/img/blog/2015/team-melbourne-discourse.gif">
+<br><font color="grey"><small><i>Image: Team Melbourne</i></small></font>
+
 
 **Start using our [Advertising Plugin](https://github.com/team-melbourne-rgsoc2015/discourse-adplugin)! Follow us on [Twitter](https://twitter.com/TeamMelbKoala). Read about our journey on the [Team Blog](http://team-melbourne-rgsoc2015.github.io/).**
