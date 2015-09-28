@@ -2,7 +2,7 @@
 title: Review of Rails Girls Summer of Code 2015 by Team Melbourne
 layout: post
 created_at: Sun September 27 2015
-permalink: blog/2015-09-27-Team-Melbourne.md
+permalink: blog/2015-09-27-Team-Melbourne
 current: blog
 author: Vi and Sarah
 twitter: TeamMelbKoala
