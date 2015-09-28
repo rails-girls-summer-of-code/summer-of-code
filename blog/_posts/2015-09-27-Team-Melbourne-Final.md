@@ -15,7 +15,7 @@ We're [Vi](http://adcopywriter.github.io) & [Sarah](http://www.cyberkoi.com).  W
 <img src="/img/blog/2015/team-melbourne-final-infographic.jpeg">
 <br><font color="grey"><small><i>Image: Team Melbourne</i></small></font>
 
-From July to December 2015, we created **[an advertising plugin](https://github.com/team-melbourne-rgsoc2015/discourse-adplugin)** for [Discourse](http://discourse.org) that supports Adsense, DoubleClick for Publishers and Amazon Affiliates.  This was our first ever contribution to open source.
+From July to September 2015, we created **[an advertising plugin](https://github.com/team-melbourne-rgsoc2015/discourse-adplugin)** for [Discourse](http://discourse.org) that supports Adsense, DoubleClick for Publishers and Amazon Affiliates.  This was our first ever contribution to open source.
 
 In the podcast below we interview each other and talk about our experience in Rails Girls Summer of Code *(Q&A Format with 5 questions each.  Duration: 13 minutes)*.
 
