@@ -12,7 +12,7 @@ twitter: cocoagems
 
 ## A little bit of background
 
-CocoaGems is a pretty large team. We had the great fortune of having four mentors from CocoaPods and a total of seven coaches. Five of our coaches are from GitHub and two of them are private coaches. GitHub hosted us during the entire Summer of Code and provided us with office space in there beautiful office in San Francisco. [CocoaPods](https://cocoapods.org/) is a dependency manager for iOS development written in Ruby. It allows iOS developers to use pods containing libraries and also to share their own pods with other developers.
+CocoaGems is a pretty large team. We had the great fortune of having four mentors from CocoaPods and a total of seven coaches. Five of our coaches are from GitHub and two of them are private coaches. GitHub hosted us during the entire Summer of Code and provided us with office space in their beautiful office in San Francisco. [CocoaPods](https://cocoapods.org/) is a dependency manager for iOS development written in Ruby. It allows iOS developers to use pods containing libraries and also to share their own pods with other developers.
 
 ## What we did together
 
