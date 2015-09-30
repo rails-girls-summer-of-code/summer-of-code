@@ -10,9 +10,14 @@ twitter: RailsGirlsSoc
 
 As we're nearing the end of the program, it was also time to get the second round of our WORLD-FAMOUS conference raffle going. We're excited to finally announce the winners:
 
-Codemotion (2-3 Nov): Girls Coders Warsaw  
+RubyConf Colombia (16-17 Oct): RubyGirls Quito  
+EuRuKo (17-18 Oct): GirlsCoders Warsaw, R'n'B  
+Codemotion (2-3 Nov): GirlsCoders Warsaw  
 beyond tellerrand (2-4 Nov): Delta Quadrant  
-RubyKaigi (11-13 Dec): Tessie (Pilar & Ramon)  
+StarTech Conf Chile (6-7 Nov): RubyGirls Quito  
+RubyKaigi (11-13 Dec): Tessie (Pilar & coach Ramon)  
+RubyConf Australia (10-13 Feb 2016): Melbourne  
+RubyConf Philippines (8-9 Apr 2016): Tessie  
 Ruby Conf Kenya (5-7 May 2016): CocoaGems  
 
 
