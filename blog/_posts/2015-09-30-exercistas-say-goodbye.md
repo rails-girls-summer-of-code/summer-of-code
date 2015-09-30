@@ -1,8 +1,8 @@
 ---
 title: Exercistas Say Goodbye
 layout: post
-created_at: Tue September 29 2015
-permalink: blog/2015-09-29-exercistas-say-goodbye
+created_at: Wed September 30 2015
+permalink: blog/2015-09-30-exercistas-say-goodbye
 current: blog
 author: Mixolidia & Sarah
 twitter: exercistas
