@@ -23,7 +23,6 @@ Through RGSoC, we were able to attend the last Madison+ Ruby conference and give
 
 <img src="/img/blog/2015/exercistas-onstage.jpg" alt="Exercistas @ Madison+ Ruby" width="600">
 <br><font color="grey"><small><i>(Image: Exercistas)</i></small></font> 
-(Picture: M+R_on_stage_w.team.jpg) (side by side) (Picture: M+R_on_stage.jpg)
 
 At first it was a bit terrifying finding out that we were giving a talk. That’s why we practiced and practiced, gave our talk in front of our coaches, mentor and even a local meetup. The Madison+ Ruby crowd was very supportive, welcoming and seemed to love our talk and exercism. We were also treated like full fledge speakers and received a yummy speaker goodie bag. We even got to meet Anika!
 Attending Madison+ Ruby was a great experience.
