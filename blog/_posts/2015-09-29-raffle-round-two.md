@@ -20,6 +20,8 @@ RubyConf Australia (10-13 Feb 2016): Melbourne
 RubyConf Philippines (8-9 Apr 2016): Tessie  
 Ruby Conf Kenya (5-7 May 2016): CocoaGems  
 
+![excitement](/img/blog/2015/round-two-raffle-space-cat.gif)
+<br><font color="grey"><small><i>(Image: <a href="http://www.omgcatsinspace.com" target="_blank">omg cats in space</a>)</i></small></font>
 
 ### Congratulations!
 
@@ -28,3 +30,5 @@ You should have all already been introduced to your respective conference organi
 Last but not least: We’d like to thank again all of the conferences who offered tickets for our second round conference raffle: 
 
 &hearts; [Arrrcamp](http://2015.arrrrcamp.be) &hearts; [RubyConf Philippines](http://rubyconf.ph​) &hearts; [RubyConf Colombia](http://www.rubyconf.co) &hearts; [StarTechConf Chile](http://www.startechconf.com/) &hearts; [Webcamp Zagreb](https://2015.webcampzg.org) &hearts; [Codemotion Berlin](http://berlin2015.codemotionworld.com) &hearts; [RubyConf Australia](http://www.rubyconf.org.au/2016) &hearts; [Open Source & Feelings](http://osfeels.com/) &hearts; [beyond tellerrand](http://www.beyondtellerrand.com/) &hearts; [EuRuKo](http://www.euruko2015.org/) &hearts; [RubyKaigi](http://www.rubykaigi.org/2015) &hearts; [RubyConf Kenya](http://rubyconf.nairuby.org/2015) &hearts;
+
+### You're all amazing! &hearts;
