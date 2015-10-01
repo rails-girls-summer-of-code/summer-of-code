@@ -33,7 +33,7 @@ Cheers to a truly brilliant Rails Girls Summer of Code 2015! Without you, it wou
 
 We are so happy to have shared this summer with you! It was a-ma-zing!
 
-![](https://cloud.githubusercontent.com/assets/1711357/10220072/9c8d1f96-6844-11e5-995e-184b941de126.jpg)
+![](https://cloud.githubusercontent.com/assets/1711357/10220821/4e80cc84-684a-11e5-8fb6-05a295561f80.jpg)
 
 
 
