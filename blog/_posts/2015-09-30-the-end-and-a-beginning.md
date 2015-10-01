@@ -34,7 +34,7 @@ Cheers to a truly brilliant Rails Girls Summer of Code 2015! Without you, it wou
 We are so happy to have shared this summer with you! It was a-ma-zing!
 
 ![](https://cloud.githubusercontent.com/assets/1711357/10220072/9c8d1f96-6844-11e5-995e-184b941de126.jpg)
-
+<br><font color="grey"><small><i>Laura, Anika, Sara. (Image: Anika Lindtner)</i></small></font> 
 
 
 P.S. No need to fall in to a post-RGSoC-blues! After RGSoC is before RGSoC: You can already [sponsor the 2016 edition](http://railsgirlssummerofcode.org/campaign/). Or get involved with organizing: drop us [an email](mailto:summer-of-code@railsgirls.com)! 
