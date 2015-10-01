@@ -1,15 +1,15 @@
 ---
 title: The End and a Beginning
 layout: post
-created_at: Tue 30 Sep 2015
-permalink: blog/2015-09-30-the-end-and-a-beginning
+created_at: Thu 1 Oct 2015
+permalink: blog/2015-10-01-the-end-and-a-beginning
 current: blog
 author: Anika
 twitter: RailsGirlsSoc
 ---
 
 
-Whoops. There it is. The last day of Rails Girls Summer of Code 2015. 
+Whoops. There it was. Yesterday: The last day of Rails Girls Summer of Code 2015. 
 
 It came so silently and just crept up on us, that we are just overwhelmed that today it’s actually here.  Our heads are still buzzing with organizing conference tickets, answering questions via email, Slack or scheduling out last hangouts, doing Friday-hug pictures, collecting Feedback from everyone involved in the program and sending off keep-on-coding packages to our teams all over the world. 
 
