@@ -33,7 +33,7 @@ Cheers to a truly brilliant Rails Girls Summer of Code 2015! Without you, it wou
 
 We are so happy to have shared this summer with you! It was a-ma-zing!
 
-![](https://cloud.githubusercontent.com/assets/1711357/10220072/9c8d1f96-6844-11e5-995e-184b941de126.jpg)
+![](https://cloud.githubusercontent.com/assets/1711357/10220505/5a07d842-6848-11e5-9327-eeee26a5befd.jpg)
 <br><font color="grey"><small><i>Laura, Anika, Sara. (Image: Anika Lindtner)</i></small></font> 
 
 
