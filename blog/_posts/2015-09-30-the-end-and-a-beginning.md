@@ -17,7 +17,7 @@ In the midst of our excitement and exhaustion, the three months program, that we
 
 Our 40 students - 32 sponsored, 8 volunteering have worked for 592 incredible hours on 19 different Open Source Projects from 17 different countries. Their amazing supervisors have lead and accompanied them through these three months and deserve a huge round of applause: Alexandra, Benedikt, Markus, Adam, Lieke, Katrin, Sara, Magda, Qian, Alex, Verena, Cathy, Vyki, JZ and Kasia. 
 
-![](img/blog/2015/thewheelsofthebus.png)
+![](https://cloud.githubusercontent.com/assets/1711357/10220073/9c8f3416-6844-11e5-8e08-1f83b5787df2.png)
 
 We want to specially thank [Carsten](https://teams.railsgirlssummerofcode.org/users/3), [Ramon](https://teams.railsgirlssummerofcode.org/users/9) and [Katrin](https://teams.railsgirlssummerofcode.org/users/17) for being not only supervisors and coaches or mentors but also organizers of the program.
 
@@ -33,7 +33,7 @@ Cheers to a truly brilliant Rails Girls Summer of Code 2015! Without you, it wou
 
 We are so happy to have shared this summer with you! It was a-ma-zing!
 
-![](/img/blog/2015/yay2015.jpg)
+![](https://cloud.githubusercontent.com/assets/1711357/10220072/9c8d1f96-6844-11e5-995e-184b941de126.jpg)
 
 
 
