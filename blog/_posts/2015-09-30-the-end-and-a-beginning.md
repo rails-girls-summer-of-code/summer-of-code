@@ -33,7 +33,7 @@ Cheers to a truly brilliant Rails Girls Summer of Code 2015! Without you, it wou
 
 We are so happy to have shared this summer with you! It was a-ma-zing!
 
-![](/img/)
+![](/img/blog/2015/yay2015.jpg)
 
 
 
