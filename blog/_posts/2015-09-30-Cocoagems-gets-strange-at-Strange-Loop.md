@@ -39,7 +39,7 @@ A main take away from Strange Loop was the great value of connecting computer sc
 Karla:
 
 Out of the sessions I attended some of my favorites included Abby Bobe's Keynote: *From Protesting to Programming*, *Becoming a Tech Activist*, Morgan Marquis-Boire's *Security for Humans: Privacy Coercion Resistant Design*, and Brian Lile's, *Cognitive Bias: A reflection*, Evelina Gabinova's,*How Machine Learning helps Cancer*, *Beating Threads - live coding with real time* by
-Sam Aaron, and *No, Really... Robots and JavaScript?!* byRaquel Vélez. Morgan Marquis-Boire's talk was eye opening because it debunked  conspiracy theories and proved that many science fictions alluding to a big brother surveillance system are as real as the built in function *SpyCore* in featured in IOS.Boire's talk made me and I'm sure many other rethink our loyal attachments to our phones and our trust with all of the personal info we share. As the world goes mobile, he said, so does the surveillance state.
+Sam Aaron, and *No, Really... Robots and JavaScript?!* by Raquel Vélez. Morgan Marquis-Boire's talk was eye opening because it debunked  conspiracy theories and proved that many science fictions alluding to a big brother surveillance system are as real as the built in function *SpyCore* in featured in IOS.Boire's talk made me and I'm sure many other rethink our loyal attachments to our phones and our trust with all of the personal info we share. As the world goes mobile, he said, so does the surveillance state.
 
 
 Boire's used a google study to prove that state hackers are likely to target anyone who has a large following.
