@@ -1,4 +1,3 @@
-
 ---
 title: CocoaGems gets strange at Strange Loop
 layout: post
@@ -14,7 +13,7 @@ twitter: cocoagems
 
 Karla:
 
-Strange Loop took place in St. Louis, Missouri. The same county where Fergusson is located. The conference like the attendees themselves were anything but conventional. I heard more than a few attendees who described it as a conference with equal amounts of heart and brain.So what makes it so that a conference has head and heart? Speakers who talk about society and about how software affects society, some talked about inclusion, the technical divide, what it means to be a person of color in tech and what we can do about it and also about cognitive biases.The lightning talks and sessions at Strange Loop were plentiful.By plentiful I mean there was a total of 20 workshops to choose from the day before the conference began and then there was a total of 36 talks over two days plus 12 evening un-sessions on Friday after day one of the conference.
+Strange Loop took place in St. Louis, Missouri. The same county where Fergusson is located. The conference like the attendees themselves were anything but conventional. I heard more than a few attendees who described it as a conference with equal amounts of heart and brain. So what makes it so that a conference has head and heart? Speakers who talk about society and about how software affects society, some talked about inclusion, the technical divide, what it means to be a person of color in tech and what we can do about it and also about cognitive biases. The lightning talks and sessions at Strange Loop were plentiful.By plentiful I mean there was a total of 20 workshops to choose from the day before the conference began and then there was a total of 36 talks over two days plus 12 evening un-sessions on Friday after day one of the conference.
 
 
 Strange Loop has a wide range of talks, many of them had a inter disciplinary vibe to them. As visitors you get exposed to a lot of different languages and technics.
@@ -57,7 +56,11 @@ To think about crime that is done behind closed doors, to think about how
 
 
 Emma:
+
 [Sam Aaron](http://www.thestrangeloop.com/2015/beating-threads---live-coding-with-real-time.html) talked about his invention Sonic pi witch allows him and many more to create music with code live in real time. He created Sonic pi to teach kids about programing but the program is really for anyone. We were so inspired that we immediately downloaded it and played with it the same night.
 
 <img src="/img/blog/2015/CG_SL_SonicPi.JPG" alt="Team CocoaGems">
 <br><font color="grey"><small><i> Sam Aaron talkes about Sonic Pi. Photo CocoaGems.</i></small></font>
+
+<img src="/img/blog/2015/CG_SL_SonicPiPlay.JPG" alt="Team CocoaGems">
+<br><font color="grey"><small><i> A group of us playing with Sonic Pi. Photo CocoaGems.</i></small></font>
