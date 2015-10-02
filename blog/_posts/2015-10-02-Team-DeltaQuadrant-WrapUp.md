@@ -1,8 +1,8 @@
 ---
 title: Team Delta Quadrant Wrap Up
 layout: post
-created_at: Sun September 30 2015
-permalink: blog/2015-10-01-Team-Delta-Quadrant
+created_at: Fri 2 Oct 2015
+permalink: blog/2015-10-02-Team-Delta-Quadrant
 current: blog
 author: Maren and Julia
 twitter: zaziemo
