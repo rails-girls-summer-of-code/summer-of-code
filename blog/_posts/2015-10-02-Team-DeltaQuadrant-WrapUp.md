@@ -7,7 +7,7 @@ current: blog
 author: Maren and Julia
 twitter: zaziemo
 ---
-![](/img/blog/2015/janeway.jpg)
+![](/img/blog/2015/delta-quadrant-wrapup-janeway.jpg)
 <font color="grey"><small><i>(Image: <a href="http://mistresscara1000.tumblr.com/post/61292922924/our-favourite-captains-expressions-can-sum-up-any" target="_blank">Tumblr</a>)</i></small></font>
 
 Summer of Code was amazing. Not only in terms of what we learned but also in the amount of support we got from our amazing coaches, the diaspora maintainers, our hosting company, our mentor, our supervisor and the whole RGSoC orga team!
@@ -42,7 +42,7 @@ For our most complex issue, the implementation of a map to show geo-location dat
 <script id="infogram_0_rails_girls_summer_of_code___wrap_up_team_deltaquadrant" src="//e.infogr.am/js/embed.js?dqa" type="text/javascript"></script><div style="width:100%;border-top:1px solid #acacac;padding-top:3px;font-family:Arial;font-size:10px;text-align:center;"><a target="_blank" href="https://infogr.am/rails_girls_summer_of_code___wrap_up_team_deltaquadrant" style="color:#acacac;text-decoration:none;">Rails Girls Summer of Code - Wrap Up Team Deltaquadrant</a> | <a style="color:#acacac;text-decoration:none;" href="https://infogr.am" target="_blank">Create infographics</a></div>
 
 
-![To the Future!](http://asset-4.soupcdn.com/asset/11810/8609_4635.gif)
+![To the Future!](/img/blog/2015/delta-quadrant-wrapup-tothefuture.gif)
 <font color="grey"><small><i>(Image: <a href="http://i-amarobot.tumblr.com/post/117556937146" target="_blank">Tumblr</a>)</i></small></font>
 
 **Start using [Diaspora*](https://podupti.me/) & connect with [Julia](https://wk3.org/u/anderspree) and [Maren](https://wk3.org/u/zaziemo).**
