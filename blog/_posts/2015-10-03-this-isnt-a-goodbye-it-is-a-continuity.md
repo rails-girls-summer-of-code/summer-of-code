@@ -24,7 +24,7 @@ We have turned into a great unit team. One that is not only shaped for both of u
 <p align="center">
   <font color="grey">
     <small>
-      <i>Fanxhe Team=)</i>
+      <i>Fanxhe Team (left to right: Jonathan Tapia, Ignacio Galindo, Alejandro Espinoza, Gilberto Villa, Anyelina Moreno and Estefanía Cano) =)</i>
     </small>
   </font>
 </p>
@@ -74,7 +74,7 @@ RGSoC supposes  a continue learning that starts from the very  first minute. The
 
 RGSoC also has helped us to overcome barriers. We have to confess that when we decided to start our adventure in the summer of code, we were very scared of our English level, and although there are still many obstacles to bring down that barrier, we have already jumped the first one by losing  fear and we feel safe that soon we’ll be done with this big barrier.  
 
-During this time, we have studied, investigated, read, attended courses and workshops, talks, we have done hundreds of questions and received hundreds of answers or explanations, we have practiced and written many code lines. We have improved our knowledge about JavaScript, Ruby, HTML, CSS, Git and Markdown, we have taken our first steps in Rails and we have learned to use Sinatra, SASS, SCSS, HAML, Jekyll, RSPEC, Minitest,  as well as the composition and performance of the gems and, in depth, about the structure and logic of the gem which we are working on: Living Style Guide.  
+During this time, we have studied, investigated, read, attended courses and workshops, talks, we have done hundreds of questions and received hundreds of answers or explanations, we have practiced and written many code lines. We have improved our knowledge about JavaScript, Ruby, HTML, CSS, Git and Markdown, we have taken our first steps in Rails and we have learned to use Sinatra, SASS, SCSS, HAML, Jekyll, RSPEC, Minitest,  as well as the composition and performance of the gems and, in depth, about the structure and logic of the gem which we are working on: [Living Style Guide](http://livingstyleguide.org/).  
 
 In our first blog post, we already said that since the first moment we believed in the potentiality of this gem bit by bit, as we have been analyzing its code, searched in order to do our task and complete it, we have confirmed  and, in point of fact, it has allowed us grow and learned so much about different areas of programming and also, it has turned us aware of what we have been and are able to do.
 There have been hundreds of learning experiences, but the major revelation has been programming as profession and way of life.  
@@ -119,15 +119,15 @@ Our team will tell you about our experience in this video
   </font>
 </p>
 
-And last but not least, to thank. To thank for each second of these three months that marked and changed our lives. Thank infinitely our coaches Ignacio Galindo, Jonathan Tapia and Gilberto Villa, for supporting us, teaching  us so much, for being the best teachers and yet best people.   Thankful to Living Style Guide for having opened us so many doors, to Nico Hagenburger for allowing us work with him, helping us in this process, and letting us collaborate in his gem. To Jennifer Geacone-Cruz, for being a huge support and a person with whom we can always count.  
+And last but not least, to thank. To thank for each second of these three months that marked and changed our lives. Thank infinitely our coaches [Ignacio Galindo](https://twitter.com/joiggama), [Jonathan Tapia](https://twitter.com/jonat_on) and [Gilberto Villa](https://twitter.com/ingilniero), for supporting us, teaching  us so much, for being the best teachers and yet best people. Thankful to Living Style Guide for having opened us so many doors, to [Nico Hagenburger](https://twitter.com/Hagenburger) for allowing us work with him, helping us in this process, and letting us collaborate in his gem. To [Jennifer Geacone-Cruz](https://twitter.com/anomiseditrix), for being a huge support and a person with whom we can always count.  
 
-Always thanks to Katrin Kampfrath, so dedicated, so watchful, so patient, so nice. Thanks to Ramón Huidobro, for his time, dedication, happiness and contagious energy.  
+Always thanks to [Katrin Kampfrath](https://twitter.com/_die_katrin), so dedicated, so watchful, so patient, so nice. Thanks to [Ramón Huidobro](https://twitter.com/senorhuidobro), for his time, dedication, happiness and contagious energy.  
 
-We’d also like to thank our coaching company “Magma Labs” and Víctor Velázquez as representative of the company, for always being attentive to us, following our process, supporting us and putting all the necessary tools at our disposal for this to be possible.  
+We’d also like to thank our coaching company “Magma Labs” and [Víctor Velázquez](https://twitter.com/zazvick) as representative of the company, for always being attentive to us, following our process, supporting us and putting all the necessary tools at our disposal for this to be possible. Thanks to our coworkers at "Magma Labs", specially to [Alejandro Espinoza](https://twitter.com/alexesba) for helping us always we needed.  
 
 Thanks to all the students and partners of this RGSoC edition for sharing their knowledge, for being always willing to provide help and support and for the sweet and funny GIFS that made us laugh every morning =).  
 
-Thanks to our dear “Codificadas”, our big teachers that initiated us in this: Viviana Palacios, Erika Mejia, Ana Castro and Selene del Rocio; also to all the partners and friends that  supported, motivated and believed in us.  
+Thanks to our dear “Codificadas”, our big teachers that initiated us in this: [Viviana Palacios](https://twitter.com/Sixviv), [Erika Mejia](https://twitter.com/erin_mejiaa), [Ana Castro](https://twitter.com/anymoto) and [Selene Flores](https://twitter.com/enelesmai); also to all the partners and friends that  supported, motivated and believed in us.  
 
 Thanks to the sponsors for contributing to make this possible.
 And of course, thanks so much to all the team of RGSoC and its organizers to make this possible, for all the attention, support, dedication, for the great job and for making this experience simply amazing.  
