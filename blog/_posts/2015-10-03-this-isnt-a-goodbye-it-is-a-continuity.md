@@ -13,7 +13,7 @@ It is incredible that three months have passed already and this code summer has 
 They have been three very intense months, with a lot of new apprenticeship and knowledge, in which we met great people, grew in many aspects and dove into the fascinating world of programming.
 What started for us as curiosity a little over a year with the [“Codificadas”](https://es-la.facebook.com/Codificadas) girls, converted into reality at the moment in which we were selected to participate in this summer of code, and now that the experience ends, we’ve realized that it has become a big passion and we want to do this in our profession.  
 
-A brief answer would be an infinity of things, but we believe that it is worth to expatiate for you so there can be a general idea of the effect that RGSoc has had and still has in our lives.  
+A brief answer would be an infinity of things, but we believe that it is worth to expatiate for you so there can be a general idea of the effect that RGSoC has had and still has in our lives.  
 
 ### TEAM  
 
@@ -35,13 +35,13 @@ Our mentor Nico, that despite the distance, the time difference and all the work
 
 Our supervisors, the great Katrin and always cheerful Ramón. They both are amazing people attentive professionals who were concerned.
 
-Our coaching-company [“Magma Labs”](http://www.magmalabs.io/) ,that has provided us with all the possible resources, people have believed in us and they showed support in everything they could.
+Our coaching-company [“Magma Labs”](http://www.magmalabs.io/), that has provided us with all the possible resources, people have believed in us and they showed support in everything they could.
 
 And for all those people who have been there when we have needed help or support, not only speaking  professionally, but also personally.  
 
 ### US IN A NEW WORLD  
 
-The summer of Rails Girls has transformed us, and when we think about the moment we arrived at the office, this comes into our minds: 
+The summer of Rails Girls has transformed us, and when we think about the moment we arrived at the office, this comes into our minds:
 
 <div align="center"><img src="/img/blog/2015/fanxhe-team-crazy.gif" alt="Fanxhe Team" style= "width: 150px" height="120px"></div>  
 <p align="center">
@@ -74,7 +74,7 @@ RGSoC supposes  a continue learning that starts from the very  first minute. The
 
 RGSoC also has helped us to overcome barriers. We have to confess that when we decided to start our adventure in the summer of code, we were very scared of our English level, and although there are still many obstacles to bring down that barrier, we have already jumped the first one by losing  fear and we feel safe that soon we’ll be done with this big barrier.  
 
-During this time, we have studied, investigated, read, attended courses and workshops, talks, we have done hundreds of questions and received hundreds of answers or explanations, we have practiced and written many code lines. We have improved our knowledge about JavaScript, Ruby, HTML, CSS, Git and Markdown, we have taken our first steps in Rails and we have learned to use Sinatra, SASS, SCSS, HAML, Jekyll, RSPEC, Minitest,  as well as the composition and performance of the gems and, in depth, about the structure and logic of the gem which we are working on: [Living Style Guide](http://livingstyleguide.org/).  
+During this time, we have studied, investigated, read, attended courses and workshops, talks, we have done hundreds of questions and received hundreds of answers or explanations, we have practiced and written many code lines. We have improved our knowledge about JavaScript, Ruby, HTML, CSS, Git and Markdown, we have taken our first steps in Rails and we have learned to use Sinatra, Sass, SCSS, HamL, Jekyll, RSpec, Minitest,  as well as the composition and performance of the gems and, in depth, about the structure and logic of the gem which we are working on: [Living Style Guide](http://livingstyleguide.org/).  
 
 In our first blog post, we already said that since the first moment we believed in the potentiality of this gem bit by bit, as we have been analyzing its code, searched in order to do our task and complete it, we have confirmed  and, in point of fact, it has allowed us grow and learned so much about different areas of programming and also, it has turned us aware of what we have been and are able to do.
 There have been hundreds of learning experiences, but the major revelation has been programming as profession and way of life.  
@@ -85,7 +85,7 @@ Ended our summer of code, we can say that we worked and we completed the tasks t
 
 #### What functionalities have we included in the gem?  
 
-- We included the functionality to be able copy the hexadecimal codes  or the variables in the colors examples through a Click event or Alt + Click with vanilla javascript.  
+- We included the functionality to be able copy the hexadecimal codes  or the variables in the colors examples through a Click event or Alt + Click with vanilla javaScript.  
 
 - We worked on a button that allows copying  your style guide code blocks.  
 
@@ -97,7 +97,7 @@ Ended our summer of code, we can say that we worked and we completed the tasks t
 
           @toggle-code  
 
-- We included a menu of navigation that  is automatically generated  with the style guide in function of the titles and subtitles that the user includes in his own. This means, that is personalized and suitable to the style of each user. ( in process of getting merged)  
+- We included a menu of navigation that  is automatically generated  with the style guide in function of the titles and subtitles that the user includes in his own. This means, that is personalized and suitable to the style of each user ( in process of getting merged).  
 
 - We added before and after filters so that the users can place content before or after the main container, and we also added tests for all the filters that we created. ( in process of getting merged)  
 
