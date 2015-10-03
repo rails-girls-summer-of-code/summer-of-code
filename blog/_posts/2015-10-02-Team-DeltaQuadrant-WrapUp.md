@@ -8,6 +8,7 @@ author: Maren and Julia
 twitter: zaziemo
 ---
 ![](/img/blog/2015/janeway.jpg)
+<font color="grey"><small><i>(Image: <a href="http://mistresscara1000.tumblr.com/post/61292922924/our-favourite-captains-expressions-can-sum-up-any" target="_blank">Tumblr</a>)</i></small></font>
 
 Summer of Code was amazing. Not only in terms of what we learned but also in the amount of support we got from our amazing coaches, the diaspora maintainers, our hosting company, our mentor, our supervisor and the whole RGSoC orga team!
 
@@ -42,5 +43,6 @@ For our most complex issue, the implementation of a map to show geo-location dat
 
 
 ![To the Future!](http://asset-4.soupcdn.com/asset/11810/8609_4635.gif)
+<font color="grey"><small><i>(Image: <a href="http://i-amarobot.tumblr.com/post/117556937146" target="_blank">Tumblr</a>)</i></small></font>
 
 **Start using [Diaspora*](https://podupti.me/) & connect with [Julia](https://wk3.org/u/anderspree) and [Maren](https://wk3.org/u/zaziemo).**
