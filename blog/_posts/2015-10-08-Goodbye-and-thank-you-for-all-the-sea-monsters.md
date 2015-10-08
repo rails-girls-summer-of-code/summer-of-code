@@ -41,7 +41,7 @@ We weren’t just helped by the people I listed above. People were also so fast 
 
 I’m looking forward to next year when the next batch of students begin, and when I can be that old cat lady who comes along to dispense advice and reminisce about “back in my day”. 
 
-<div align="center"><img src="/img/blog/2015/TessieStats.png" alt="Our statistics for this summer"></div>  
+<div align="center"><img src="/img/blog/2015/TessieMVP.png" alt="RGSoC, you da real MVP!"></div>  
 
 Pilar:
 I always find it a bit hard to list out all the people I'm grateful for, not because I'm not grateful, but because of the enormous dread that I may forget to list someone and hurt their feelings! There are so many incredible people who I have to thank for everything this summer, so I'd like to do that here:
