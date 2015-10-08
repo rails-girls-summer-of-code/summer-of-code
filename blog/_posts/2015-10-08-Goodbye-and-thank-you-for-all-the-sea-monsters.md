@@ -1,7 +1,7 @@
 ---
 title: Goodbye and thank you for all the sea monsters
 layout: post
-created_at: Thur 8 Oct 2015
+created_at: Thu 8 Oct 2015
 permalink: blog/2015-10-08-Goodbye-and-thank-you-for-all-the-sea-monsters
 current: blog
 author: Shelly and Pilar
@@ -24,14 +24,17 @@ Ramon and Igor were roped in because of their connections to us and we appreciat
 Markus and Laura, you were assigned to us so it’s not exactly like you had a choice in the matter but you helped so wholeheartedly and were always available to us! While we didn’t call on all of our coaches as much as they might have expected, or more than they might have expected (as might happen when you live with one of your coaches *waves at Igor*) the fact that you were all there willing to help us as much as we needed, was a massive boost in and of itself. Thank you for believing in us enough to dedicate time to us. <3
 
 **Our Hoodies.** 
-While Jan and Ola were the “official” mentors on our application, it was so wonderful to see every one of the hoodies help us at different points throughout the programme. We learned so much from everyone, and from what we have worked on over the course of them summer! Our daily standup calls made everyone (even Gregor all the way in Boston!) feel so much closer. When we were confused or frustrated with things (which happened often for me admittedly… Damn HapiJS) we knew that we could yell for help in the hoodie slack, and before long there would be someone who at the very least would point us where to look for the answers. 
+While Jan and Ola were the “official” mentors on our application, it was so wonderful to see every one of the hoodies help us at different points throughout the programme. We learned so much from everyone, and from what we have worked on over the course of the summer! Our daily standup calls made everyone (even Gregor all the way in Boston!) feel so much closer. When we were confused or frustrated with things (which happened often for me admittedly… Damn HapiJS) we knew that we could yell for help in the hoodie slack, and before long there would be someone who at the very least would point us where to look for the answers. 
 Jan, Ola, Gregor, all of our hoodies, we want to thank you from the very bottoms of our hearts for helping us to learn all that we have learned this summer. We learned more than just coding. Thank you for welcoming us into your family <3
 
 
 
 **Sektor5**. 
 Thank you for providing the Tessies with a home this summer! Sektor has been a special place for team tessie - it’s where we were first introduced and where we began to plot our world domination plan for summer of code. You haven’t seen the last of us now that summer of code is over (especially now that the AC is installed!) but even more so because thanks to the sektor slack (and networking using giphys), Shelly has a job as a real programmer! Actually by the time this post is published, Shelly will have had this job for a few days. <3 
-The sponsors. If it hadn’t been for the people and companies who donated to the fundraiser, I would never have been able to dedicate so much time to learning how to be a developer. I am not the only one to whom this applies. I hope you all realise what a real difference you have made to the lives of the many people who took part in RGSoC 2015. 
+
+
+**The sponsors**.  
+If it hadn’t been for the people and companies who donated to the fundraiser, I would never have been able to dedicate so much time to learning how to be a developer. I am not the only one to whom this applies. I hope you all realise what a real difference you have made to the lives of the many people who took part in RGSoC 2015. 
 
 **The other students.** 
 It was lovely to chat to you all on Slack and Twitter, sharing cat gifs and frustrations! Also sharing super handy tips and tricks that you also learned <3
@@ -53,4 +56,4 @@ If you read that, chances definitely are that I'm directing that to you. You may
 <div align="center"><img src="/img/blog/2015/TessieStats.png" alt="Our statistics for this summer"></div>  
 
 Team Tessie:
-It's been such a fantastic summer. We definitely plan on continuing our work together so keep a look out for awesome Team Tessie projects in the future!We're extremely excited for our journey ahead and we'll never forget all the amazing people that made this possible!
+It's been such a fantastic summer. We definitely plan on continuing our work together so keep a look out for awesome Team Tessie projects in the future! We're extremely excited for our journey ahead and we'll never forget all the amazing people that made this possible!
