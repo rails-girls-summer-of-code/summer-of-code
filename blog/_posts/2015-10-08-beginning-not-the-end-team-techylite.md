@@ -5,7 +5,7 @@ created_at: Thu 8 Oct 2015
 permalink: blog/2015-10-08-the-beginning-of-an-end
 current: blog
 author: Resla and Esther
-twitter: @techylite
+twitter: techylite
 ---
 
 
@@ -29,7 +29,7 @@ Perci, we can’t even count the number of bugs and errors we sent your way ever
 We couldn’t have made it without your support  and encouragement. 
 
 <img src="/img/blog/2015/techylite-oprah-applause.gif" alt="Team Techylite" width="auto" height="500px">
-(image courtesy of giphy)
+(image courtesy of [giphy](http://giphy.com/gifs/thread-teh-riQw6Nc9i4sKc))
 
 **PROJECT SPEAKERINNEN**
 Our project ,Speakerinnen, is a searchable web directory designed specifically for women conference speakers. Women speakers are encouraged to sign up and provide professional information, including their area of expertise, any previous conferences they've presented at, contact details, etc. The aim of the app is to provide a way for conference and event organizers to find and contact appropriate women speakers.
@@ -65,4 +65,4 @@ Dorcas,Resla,Esther & Chris(image by Techylite)
 As much as we would want to write a beautiful vignette describing our gratefulness, words cannot express the joy we feel for getting this opportunity. We hope to continue contributing to open source projects and finishing translating Speakerinnen to Kiswahili.
 
 <img src="/img/blog/2015/techylite-thank-you.gif" alt="Team Techylite" width="auto" height="500px">
-Thank you.(img owned by Techylite)
+Thank you.(image courtesy of [giphy](http://giphy.com/gifs/nintendo-thank-you-satoru-iwata-10dvjmLNHQ6O3e))
