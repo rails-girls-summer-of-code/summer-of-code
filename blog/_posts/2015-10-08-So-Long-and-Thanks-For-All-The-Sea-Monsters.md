@@ -2,7 +2,7 @@
 title: So Long and Thanks for all the Sea Monsters! 
 layout: post
 created_at: Thu 8 Oct 2015
-permalink: blog/2015-10-08-Goodbye-and-thank-you-for-all-the-sea-monsters
+permalink: blog/2015-10-08-so-long-and-thanks-for-all-the-sea-monsters
 current: blog
 author: Shelly and Pilar
 twitter: teamtessie
