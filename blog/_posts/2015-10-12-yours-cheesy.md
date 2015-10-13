@@ -57,7 +57,7 @@ Thanks Carsten Zimmerman for being the best and most generous mentor one could w
 <img src="/img/blog/2015/yours-cheesy-stats.png" alt="We earned some decent GitHub credibility :)" width="600">
 <font color="grey"><small><i>We earned some decent GitHub credibility :)</i></small></font>
 
-Thanks also to Laura, who made herself  available for reviewing and merging our many front-end pull requests - and being enthousiastic about it as well. And of course thanks to supervisors Lieke, who was able to fix two extra coaches on a crucial moment - thanks for your support, and Alexandra, who left a lasting impression on us with just two Skype sessions.
+Thanks also to Laura, who made herself  available for reviewing and merging our many front-end pull requests - and being enthusiastic about it as well. And of course thanks to supervisors Lieke, who was able to fix two extra coaches on a crucial moment - thanks for your support, and Alexandra, who left a lasting impression on us with just two Skype sessions.
 
 And let’s not forget… the organization! The people who enabled all of us to experience this life-changing summer #wecanteven.
 
