@@ -9,12 +9,7 @@ twitter: teamcodebenders
 ---
 <img align="center" src="/img/blog/2015/JayasiMeghaIntro.png">
 
-We are [Jayasi](https://teams.railsgirlssummerofcode.org/users/469) and [Megha]
-(https://teams.railsgirlssummerofcode.org/users/26), a.k.a. [Team CodeBenders]
-(https://teams.railsgirlssummerofcode.org/teams/54). We were working on the Rails Admin gem, and were mentored by [Erik]
-(https://teams.railsgirlssummerofcode.org/users/111) for the same. [Benedikt]
-(https://teams.railsgirlssummerofcode.org/users/474) was supervising our work and we had three awesome coaches - [Kashyap]
-(https://teams.railsgirlssummerofcode.org/users/306), [Bharti](https://teams.railsgirlssummerofcode.org/users/144) and 
+We are [Jayasi](https://teams.railsgirlssummerofcode.org/users/469) and [Megha](https://teams.railsgirlssummerofcode.org/users/26), a.k.a. [Team CodeBenders](https://teams.railsgirlssummerofcode.org/teams/54). We were working on the Rails Admin gem, and were mentored by [Erik](https://teams.railsgirlssummerofcode.org/users/111) for the same. [Benedikt](https://teams.railsgirlssummerofcode.org/users/474) was supervising our work and we had three awesome coaches - [Kashyap](https://teams.railsgirlssummerofcode.org/users/306), [Bharti](https://teams.railsgirlssummerofcode.org/users/144) and 
 [Shobhit](https://teams.railsgirlssummerofcode.org/users/247). 
 
 <img align="center" src="/img/blog/2015/WorkInfo.png">
