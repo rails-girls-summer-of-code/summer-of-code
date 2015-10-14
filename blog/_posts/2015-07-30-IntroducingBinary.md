@@ -1,7 +1,7 @@
 ---
 title: Introducing Team Binary
 layout: post
-created_at: Thu July 30 2015
+created_at: Thu Jul 30 2015
 permalink: blog/2015-07-30-introducing-binary
 current: blog
 author: Lina and Angela

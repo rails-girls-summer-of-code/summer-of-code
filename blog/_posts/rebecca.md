@@ -15,7 +15,7 @@ Today we want to show you, who's behind that. Who made RGSoC look so amazing and
 <img src="https://f.cloud.github.com/assets/1711357/1329775/0904b3de-351e-11e3-9ee3-51dc00c26c75.jpg" width="300" style="padding-right: 2px;">
 <img src="https://f.cloud.github.com/assets/1711357/1329736/2cd0fd96-351d-11e3-8efb-03b809ebee37.jpg" height="533" style="padding-left: 2px;">
 
-Some weeks ago we met at the Travis CI office and - some days now it's hard to believe - it was really warm outside. We chatted and I asked her some questions to get to know the woman whith the most amazing tatoos and the one who can draw like I always dreamed of. After doing a lot of funny friday-hug-pics, we settled down on the couch and started talking. 
+Some weeks ago we met at the Travis CI office and - some days now it's hard to believe - it was really warm outside. We chatted and I asked her some questions to get to know the woman whith the most amazing tatoos and the one who can draw like I always dreamed of. After doing a lot of funny friday-hug-pics, we settled down on the couch and started talking.
 
 ###*How do you do these scribbles for RGSoC? At the computer?*
 
@@ -25,7 +25,7 @@ I actually start by plain drawing old fashion in my sketch books. Then i scan it
 
 ###*So, when did you actually start drawing?*
 
-When I was a kid and I went with my class to the "Deutsches Technikmuseum", we had to draw the machines we saw there. I was the only one who had fun doing that - that's when I first realized, that I had a passion for drawing. 
+When I was a kid and I went with my class to the "Deutsches Technikmuseum", we had to draw the machines we saw there. I was the only one who had fun doing that - that's when I first realized, that I had a passion for drawing.
 
 But actually my whole family is crative: My grandpa is an author, my mom does poster design and draws, so no surprises there ;)
 
@@ -42,7 +42,7 @@ Which is weird, I guess, but I like weird.
 
 ###*What do you like to draw best?*
 
-I always draw and do scribbles. When I'm on the telephone with someone, my hands can't be still. I can't let any sheet of paper stay white. I'm like these people who always have to cook something or watch - just for me it's drawing. I like those abstract phone call sketches a lot. But my favorite are [these animals](), I draw lately. 
+I always draw and do scribbles. When I'm on the telephone with someone, my hands can't be still. I can't let any sheet of paper stay white. I'm like these people who always have to cook something or watch - just for me it's drawing. I like those abstract phone call sketches a lot. But my favorite are [these animals](), I draw lately.
 
 I also like crafting things, things you do with your hands: Pyrography, pottery and old fashion techniques like lino cut. I like to experiment a lot and always have phases I go through, so my favorites always change.
 
@@ -51,7 +51,7 @@ I also like crafting things, things you do with your hands: Pyrography, pottery 
 In one of my former jobs, I sat in a room with two porgrammers, and I got more and more curious what mysterious number thing they were talking about so I went to find out. I attended a JS course from Open Tech School and was intreagued. I wanted to start solving this mysterious world of code.
 Then I read about Rails Girls Berlin at Spoon and from there on everything took it's way.
 
-Now I'm meeting up to program every week, but you can't leave it at that. You have to do that at home too and learn regularly. It's only working when you do it regularly and give it a lot of time. 
+Now I'm meeting up to program every week, but you can't leave it at that. You have to do that at home too and learn regularly. It's only working when you do it regularly and give it a lot of time.
 
 ###*Did you have any goals when learning programming?*
 

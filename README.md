@@ -21,7 +21,7 @@ Once you have your local copy set up:
 
 - create a new file in the `summer-of-code/blog/_posts` folder (on your computer). 
 - Call this file `yyyy-mm-dd-your-blog-post-name.md`, where yyyy-mm-dd is the publishing date for your post. Don't forget the .md extension, which stands for `MarkDown`.
-- Add the Jekyll header for the meta data. See any of the posts in the `blog/_posts` folder for an example. Include the top section including the `---` lines and change the attributes where required (probably all of them except the `layout` attribute). The date should be the publishing date of your post.
+- Add the Jekyll header for the meta data. See any of the posts in the `blog/_posts` folder for an example. Include the top section including the `---` lines and change the attributes where required (probably all of them except the `layout` attribute). The date should be the publishing date of your post. On the twitter line, please just add **your twitter handle without @ character**.
 - Add all your text.
 - don't forget to save your changes ;)
 
