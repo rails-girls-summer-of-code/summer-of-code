@@ -1,7 +1,7 @@
 ---
 title: Goodbye from team RubyGirlsQuito
 layout: post
-created_at: Tue Oct 13 2015.
+created_at: Tue Oct 13 2015
 permalink: blog/2015-10-15-goodbye-from-team-rubygirlsquito
 current: blog
 author: Sofi Cherenkov and Evy
@@ -9,7 +9,7 @@ twitter: zeroknowledge9
 ---
 
 So long and (and no thanks for the
-[externalities](http://dl.acm.org/citation.cfm?id=1719050) goodbye! Rails Girls Summer of Code
+[externalities](http://dl.acm.org/citation.cfm?id=1719050)) goodbye! Rails Girls Summer of Code
 2015 has come to an end, and, as it has always been, it has been a sad farewell.
 For 3 months, we have been coding and learning evything that we could about
 this amazing world that coding is. We have not only learnt that coding is
@@ -43,7 +43,7 @@ amazing experiences we will ever have. We know that all of the things that we
 learnt on this summer, all of the people we met, and all of the nights and days
 we spent coding will be part of our fondest life memories! :)
 
-<img src="/img/blog/2015/bitcoin.jpg" alt="Bitcoin"
+<img src="/img/blog/2015/rubygirlsquito-goodbye-bitcoin.jpg" alt="Bitcoin"
 width="auto" height="300px"><br>
 <font color="grey"><small><i>Pretty much what implementing Bitcoin feels
 like (image from www.bidnessetc.com)</i></small></font>
@@ -80,7 +80,7 @@ your code complete and useful is, in a word, priceless.
 >“One of my most productive days was throwing away 1000 lines of code.”
 >– Ken Thompson
 
-<img src="/img/blog/2015/thankyou.jpg" alt="Thank you" width="auto" height="300px">
+<img src="/img/blog/2015/rubygirlsquito-goodbye-thankyou.jpg" alt="Thank you" width="auto" height="300px">
 <br>
 <font color="grey"><small><i>Oh, Sean Bean, we love you so much (image from:
 worldbuilderblog.me)</i></small></font>
