@@ -1,7 +1,7 @@
 ---
 title: Goodbye from team RubyGirlsQuito
 layout: post
-created_at: Tue Oct 13 2015
+created_at: Thu Oct 15 2015
 permalink: blog/2015-10-15-goodbye-from-team-rubygirlsquito
 current: blog
 author: Sofi Cherenkov and Evy
