@@ -28,7 +28,7 @@ Last week we attended the RubyConf Colombia, which was amazing! Especially Angel
 <img src="/img/blog/2015/teambinary_register.jpg" alt="Team Binary" width="600">  
 <font color="grey"><small><i>Registration</i></small></font>
 
-The atmosphere in an event like this is indescribable. You're surrounded by great people, from whom you can learn a lot. All you want is to just hear everything they say and not miss aword. There were four women speakers (Woohoo!!) with very motivational talks.
+The atmosphere in an event like this is indescribable. You're surrounded by great people, from whom you can learn a lot. All you want is to just hear everything they say and not miss a word. There were four women speakers (Woohoo!!) with very motivational talks.
 
 <img src="/img/blog/2015/teambinary_organizers.jpg" alt="Team Binary" width="600">  
 <font color="grey"><small><i>The people who made possible this conference</i></small></font>
