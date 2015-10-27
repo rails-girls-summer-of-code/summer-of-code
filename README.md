@@ -11,9 +11,11 @@ In order to add your blog post to our blog, you will go through the following st
 - commit and push your changes  
 - send us a pull request
 
-### Forking the repo  
+(By contributing, you agree to adhere to our [Code of Conduct](https://github.com/rails-girls-summer-of-code/summer-of-code/blob/master/CODE_OF_CONDUCT.md))
 
-"Forking" basically just means "making a copy"; this allows you to copy our `summer-of-code` repo (found [here](https://github.com/rails-girls-summer-of-code/summer-of-code)) without affecting it. Follow the instructions on forking a repo [in the GitHub docs](https://help.github.com/articles/fork-a-repo/). When forking, you might be asked where you want to fork the repository to; select **your own Github profile**.  
+### Forking the repo
+
+"Forking" basically just means "making a copy"; this allows you to copy our `summer-of-code` repo (found [here](https://github.com/rails-girls-summer-of-code/summer-of-code)) without affecting it. Follow the instructions on forking a repo [in the GitHub docs](https://help.github.com/articles/fork-a-repo/). When forking, you might be asked where you want to fork the repository to; select **your own Github profile**.
 
 ### Writing your blog post
 
