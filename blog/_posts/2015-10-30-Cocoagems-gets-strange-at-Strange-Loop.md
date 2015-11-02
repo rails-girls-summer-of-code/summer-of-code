@@ -1,8 +1,8 @@
 ---
 title: CocoaGems gets strange at Strange Loop
 layout: post
-created_at: Wed September 30 2015
-permalink: blog/2015-09-23-cocoagems-get-strange-at-strangeloop
+created_at: Fri October 30 2015
+permalink: blog/2015-10-30-cocoagems-get-strange-at-strangeloop
 current: blog
 author: Karla and Emma
 twitter: cocoagems
