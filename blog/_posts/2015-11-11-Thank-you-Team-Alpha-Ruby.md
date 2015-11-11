@@ -1,28 +1,23 @@
-﻿---
-title: "Thank You from Team Alpha Ruby"
+---
+title: Thank you Team Alpha Ruby
 layout: post
-created_at: Tuesday 10 November 2015
-permalink: blog/2015-11-10-TeamAlphaRuby
+created_at: Wed Nov 11 2015
+permalink: blog/2015-11-11-Thank-You-Team-Alpha-Ruby
 current: blog
 author: Ramya and Ariane
-team: Ariane, Ramya, Zach, Stella, Barbara, Benedickt
-twitter: https://twitter.com/teamalpharuby
-blog: http://railsgirlssummerofcode.org/blog/2015-08-16-introducing-alpha-ruby/
-blog update: https://teams.railsgirlssummerofcode.org/
-project: http://docs.ruby-lang.org/
-
+twitter: teamalpharuby
 ---
 
 Thank You Rails Girls for providing us an opportunity and work in a multicultural environment.
 Rails Girls Summer of Code allows to meet like-minded people and is a great opportunity to expand our knowledge. 
 
 
-<img src="/img/blog/2015/introducing-team-alpha-ruby.jpg alt="Team AlphaRuby">
+<img src="/img/blog/2015/introducing-team-alpha-ruby.jpg" alt="Team AlphaRuby">
 
 Goal of Our Project
 Ruby is the programming language that we use for our project.
-The goal of our project, the Official Ruby Documentation Redesign is to design an attractive and useful template for reading Ruby documentation, made available as the official ruby-lang.org language reference documentation [http://docs.ruby-lang.org/] (http://docs.ruby-lang.org/)
-How did we work for Our Project
+The goal of our project (the Official Ruby Documentation Redesign) is to design an attractive and useful template for reading Ruby documentation, made available as the official ruby-lang.org language reference documentation [http://docs.ruby-lang.org/](http://docs.ruby-lang.org/).
+How we worked for Our Project
 First registered online courses, probably you know some of them:
 - http://www.codecademy.com/ (HTML, CSS, JS, Ruby and RoR, the whole package)
 - http://www.caelum.com.br/apostila-html-css-javascript/
