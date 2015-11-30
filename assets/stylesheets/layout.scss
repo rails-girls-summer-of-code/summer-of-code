@@ -9,6 +9,15 @@ body {
   @media screen and (max-width: $screen-sm) {
     padding-top: 3em;
   }
+  p, li {
+    font-size: 18px;
+  }
+}
+
+.landing-teaser, .landing-misc, .footer, .sidebar-content, .header, figcaption, #sponsor-packages {
+  p, li {
+    font-size: 16px;
+  }
 }
 
 a {
@@ -375,3 +384,4 @@ a.button-burger {
   width: 48%;
   margin-right: 0 !important;
 }
+
