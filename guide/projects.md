@@ -8,7 +8,8 @@ permalink: /guide/projects/
 ---
 <h1>Becoming a Project Mentor</h1>
 
-<p>You wish to support women working full-time on Open Source projects for three months, want to help newcomers get into Open Source and plan to submit your project? Here is some general information about your role as a mentor, as well as guidelines for the submission; RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. </p>
+<p>You wish to support women working full-time on Open Source projects for three months, want to help newcomers get into Open Source and plan to submit your project? </p>
+<p>Here is some general information about your role as a mentor, as well as guidelines for the submission; RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. </p>
 
 <strong>Note: we welcome project submissions in any programming language! </strong>
 
