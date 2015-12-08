@@ -73,7 +73,7 @@ By submitting your project for Rails Girls Summer of Code, you are allowing your
 
 <h3 id="q5">How do I submit my project?</h3>
 
-You can submit your project on our [Teams App](http://teams.railsgirlssummerofcode.org); you will need to authenticate with GitHub. Once logged in:  
+You have until February 1st, 2016 to submit your project on our [Teams App](http://teams.railsgirlssummerofcode.org); you will need to authenticate with GitHub. Once logged in:  
 
 * click on “Submit your project” in the navigation bar
 * By default, we assume the submitter is also the primary mentor. If that isn’t the case, enter the name of the primary Mentor as well as their email address and GitHub handle.
