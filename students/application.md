@@ -69,7 +69,7 @@ Make sure both you and your pair understand the requirements of the project,
 and could potentially work well together. There is nothing more detrimental to
 project success than an unhappy or unproductive team mate.
 
-For more advice on finding a team mate and coach, take a look at the <a hre="#find-coach">"How to Find Coaches and a Team Pair"</a> article at the bottom of this page.
+For more advice on finding a team mate and coach, take a look at the <a href="#find-coach">"How to Find Coaches and a Team Pair"</a> article at the bottom of this page.
 
 <h3 id="coaches">Coaches</h3>
 
