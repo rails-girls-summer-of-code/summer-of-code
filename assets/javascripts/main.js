@@ -7,14 +7,7 @@ $('#nav-toggle').on('click', function(ev) {
 
 $(document).ready(function() {
 
-  if ($('#progress').length) {
-    $(function() {
-      if(location.hostname == 'localhost') {
-        $('#stripe-form').attr('action', 'http://localhost:3000/donations/checkout');
-      }
-    });
-
-    $('.donate-button').click(function(){
+  $('.donate-button').click(function(){
       var self = $(this);
       var amount = 0;
       if (self.attr('data-custom')) {
@@ -53,6 +46,13 @@ $(document).ready(function() {
 
       return false;
     });
+
+  if ($('#progress').length) {
+    $(function() {
+      if(location.hostname == 'localhost') {
+        $('#stripe-form').attr('action', 'http://localhost:3000/donations/checkout');
+      }
+    });    
 
     // add 'the right place to be' sponsor cta
     $('.sponsors.partners > ul').append('<li class="sponsors-cta"><h3>The right place to be!</h3><a href="/sponsors/packages/" class="arrow-link">become a sponsor</a></li>');
