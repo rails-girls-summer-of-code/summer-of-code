@@ -53,17 +53,6 @@ $.extend(Donations.Data, {
   },
   PARTNERS: [
     {
-      amount: 2000000,
-      package: 'Partner',
-      name: 'GitHub',
-      github_handle: 'github',
-      twitter_handle: 'github',
-      homepage: 'http://github.com',
-      gravatar_url: '/img/sponsors/github_avatar.png',
-      comment: 'Proud Rails Girls Summer of Code Partner from day one.',
-      created_at: '2016-01-01T00:00:00Z'
-    },
-    {
       amount: undefined,
       package: 'Partner',
       name: 'Travis CI',
