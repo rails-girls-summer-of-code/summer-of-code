@@ -53,7 +53,7 @@ $.extend(Donations.Data, {
   },
   PARTNERS: [
     {
-      amount: undefined,
+      amount: 2000000,
       package: 'Partner',
       name: 'GitHub',
       github_handle: 'github',
