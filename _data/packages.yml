@@ -70,9 +70,16 @@
 #       years:
 #         - 2015
 
-# - name: Gold
-#   title: Gold Sponsors
-#   sponsors:
+- name: Gold
+  title: Gold Sponsors
+  sponsors:
+    - name: GitLab
+      id: gitlab
+      url: https://about.gitlab.com/
+      # text: |-
+      #   <a href="https://about.gitlab.com/">GitLab</a>
+      years:
+        - 2016
 #     - name: Basecamp
 #       id: basecamp
 #       url: https://basecamp.com
