@@ -144,8 +144,12 @@
     - name: Softwire
       id: softwire
       url: http://www.softwire.com/
-      # text: |-
-      #   <a href="http://www.softwire.com/" target="_blank">Softwire</a>
+      text: |-
+        <a href="http://www.softwire.com/" target="_blank">Softwire</a> is a bespoke 
+        software design and development company with offices in London and Bristol. 
+        Our brilliant staff have a passion for technology and Open Source (we're keen 
+        contributors to 24 Pull Requests) and we're excited to help Rails Girls Summer of Code 
+        support women following those same passions.
       years:
         - 2016
     # - name: Turing School of Software & Design
