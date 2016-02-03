@@ -80,22 +80,23 @@
       #   <a href="https://about.gitlab.com/">GitLab</a>
       years:
         - 2016
-    # - name: Basecamp
-    #   id: basecamp
-    #   url: https://basecamp.com
-    #   text: |-
-    #     <a href="https://basecamp.com/">Basecamp</a> is the world's #1 project
-    #     management tool. We make it easy for people in different roles with different
-    #     responsibilities to communicate and work together. <a
-    #     href="https://basecamp.com/">Basecamp</a> is proud to support Rails Girls
-    #     Summer of Code 2015 because we believe in fostering a supportive space for
-    #     women in the open source community. Ruby on Rails is the heart and soul of
-    #     Basecamp, and we wouldn't exist without contributions from people like the
-    #     Rails Girls!
-    #   years:
-    #     - 2013
-    #     - 2014
-    #     - 2015
+    - name: Basecamp
+      id: basecamp
+      url: https://basecamp.com
+      # text: |-
+      #   <a href="https://basecamp.com/">Basecamp</a> is the world's #1 project
+      #   management tool. We make it easy for people in different roles with different
+      #   responsibilities to communicate and work together. <a
+      #   href="https://basecamp.com/">Basecamp</a> is proud to support Rails Girls
+      #   Summer of Code 2015 because we believe in fostering a supportive space for
+      #   women in the open source community. Ruby on Rails is the heart and soul of
+      #   Basecamp, and we wouldn't exist without contributions from people like the
+      #   Rails Girls!
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
     # - name: Google
     #   id: google
     #   url: https://developers.google.com/open-source/
