@@ -97,21 +97,22 @@
         - 2014
         - 2015
         - 2016
-    # - name: Google
-    #   id: google
-    #   url: https://developers.google.com/open-source/
-    #   text: |-
-    #     <a href="https://developers.google.com/open-source/" target="_blank">Google</a>
-    #     is a multinational corporation specializing in Internet-related services and
-    #     products. They also are contributing to Open Source whith their own Open Source
-    #     program. Their Open Source section releases Google-created code, providing
-    #     vital infrastructure, supporting Open Source organizations, handling internal
-    #     Open Source compliance, and by running student outreach programs such as Google
-    #     Summer of Code and Google Code-in.
-    #   years:
-    #     - 2013
-    #     - 2014
-    #     - 2015
+    - name: Google
+      id: google
+      url: https://developers.google.com/open-source/
+      text: |-
+        <a href="https://developers.google.com/open-source/" target="_blank">Google</a>
+        is a multinational corporation specializing in Internet-related services and
+        products. They also are contributing to Open Source whith their own Open Source
+        program. Their Open Source section releases Google-created code, providing
+        vital infrastructure, supporting Open Source organizations, handling internal
+        Open Source compliance, and by running student outreach programs such as Google
+        Summer of Code and Google Code-in.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
     # - name: Soundcloud
     #   id: soundcloud
     #   url: https://soundcloud.com
@@ -242,19 +243,6 @@
     #     - 2013
     #     - 2014
     #     - 2015
-    # - name: Hashrocket
-    #   id: hashrocket
-    #   url: http://hashrocket.com
-    #   text: |-
-    #     <a href="http://hashrocket.com">Hashrocket</a> is a premier software
-    #     consultancy passionate about technology and community. They build powerful web
-    #     and mobile applications, provide design and development training, and
-    #     frequently contribute to the open source community. Hashrocket is proud to
-    #     support Rails Girls in their mission to encourage diversity and bring newcomers
-    #     into the tech industry.
-    #   years:
-    #     - 2014
-    #     - 2015
     # - name: Xing
     #   id: xing
     #   url: http://xing.com
@@ -288,6 +276,20 @@
       # text: |-
       #   <a href="https://www.examsuccess.com.au/" target="_blank">Exam Success</a>
       years:
+        - 2016
+    - name: Hashrocket
+      id: hashrocket
+      url: http://hashrocket.com
+      text: |-
+        <a href="http://hashrocket.com">Hashrocket</a> is a premier software
+        consultancy passionate about technology and community. They build powerful web
+        and mobile applications, provide design and development training, and
+        frequently contribute to the open source community. Hashrocket is proud to
+        support Rails Girls in their mission to encourage diversity and bring newcomers
+        into the tech industry.
+      years:
+        - 2014
+        - 2015
         - 2016
     # - name: Tealeaf Academy
     #   id: tealeaf
