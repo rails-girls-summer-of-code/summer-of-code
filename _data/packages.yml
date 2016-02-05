@@ -178,6 +178,19 @@
       years:
         - 2015
         - 2016
+    - name: Mapbox
+      id: mapbox
+      url: https://www.mapbox.com
+      text: |-
+        <a href="https://www.mapbox.com">Mapbox</a> is a custom mapping platform for
+        developers and designers. With mapping APIs for web and mobile applications,
+        developers use Mapbox to bring maps to their applications. We work in the open
+        and build our product with open source software and open data. We're proud to
+        support Rails Girls Summer of Code and know that our help will strengthen our
+        community.
+      years:
+        - 2015
+        - 2016
     # - name: Turing School of Software & Design
     #   id: turing
     #   url: http://turing.io
@@ -629,18 +642,6 @@
     #     company’s straightforward API.
     #   years:
     #     - 2014
-    #     - 2015
-    # - name: Mapbox
-    #   id: mapbox
-    #   url: https://www.mapbox.com
-    #   text: |-
-    #     <a href="https://www.mapbox.com">Mapbox</a> is a custom mapping platform for
-    #     developers and designers. With mapping APIs for web and mobile applications,
-    #     developers use Mapbox to bring maps to their applications. We work in the open
-    #     and build our product with open source software and open data. We're proud to
-    #     support Rails Girls Summer of Code and know that our help will strengthen our
-    #     community.
-    #   years:
     #     - 2015
     # - name: Rackspace
     #   id: rackspace
