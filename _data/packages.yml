@@ -76,22 +76,27 @@
     - name: GitLab
       id: gitlab
       url: https://about.gitlab.com/
-      # text: |-
-      #   <a href="https://about.gitlab.com/">GitLab</a>
+      text: |-
+        <a href="https://about.gitlab.com/">GitLab</a> is a community project primarily
+        written in Ruby on Rails. Over 1000 people worldwide have contributed! GitLab
+        Inc. is an active participant in this community, and we support organizations
+        and individuals using GitLab.  Our team is distributed across the globe, and
+        we're always growing. We're excited to sponsor RailsGirls Summer of Code to
+        help get more women involved in Rails.
       years:
         - 2016
     - name: Basecamp
       id: basecamp
       url: https://basecamp.com
-      # text: |-
-      #   <a href="https://basecamp.com/">Basecamp</a> is the world's #1 project
-      #   management tool. We make it easy for people in different roles with different
-      #   responsibilities to communicate and work together. <a
-      #   href="https://basecamp.com/">Basecamp</a> is proud to support Rails Girls
-      #   Summer of Code 2015 because we believe in fostering a supportive space for
-      #   women in the open source community. Ruby on Rails is the heart and soul of
-      #   Basecamp, and we wouldn't exist without contributions from people like the
-      #   Rails Girls!
+      text: |-
+        <a href="https://basecamp.com/">Basecamp</a> is the world's #1 project
+        management tool. We make it easy for people in different roles with different
+        responsibilities to communicate and work together. <a
+        href="https://basecamp.com/">Basecamp</a> is proud to support Rails Girls
+        Summer of Code 2015 because we believe in fostering a supportive space for
+        women in the open source community. Ruby on Rails is the heart and soul of
+        Basecamp, and we wouldn't exist without contributions from people like the
+        Rails Girls!
       years:
         - 2013
         - 2014
