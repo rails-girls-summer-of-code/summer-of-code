@@ -292,11 +292,11 @@
       id: examsuccess
       url: https://www.examsuccess.com.au/
       text: |-
-        <a href="https://www.examsuccess.com.au/">Exam Success</a> helps students ace their 
-        selective school entrance tests, scholarship exams and IELTS exams through a range of 
-        online learning materials such as online courses, test papers and social writing 
-        practice. <a href="https://www.examsuccess.com.au/">Exam Success</a> is delighted to 
-        support the amazing team at Rails Girls Summer of Code 2016 in continuing to enhance 
+        <a href="https://www.examsuccess.com.au/">Exam Success</a> helps students ace their
+        selective school entrance tests, scholarship exams and IELTS exams through a range of
+        online learning materials such as online courses, test papers and social writing
+        practice. <a href="https://www.examsuccess.com.au/">Exam Success</a> is delighted to
+        support the amazing team at Rails Girls Summer of Code 2016 in continuing to enhance
         diversity in Open Source.
       years:
         - 2016
@@ -327,6 +327,20 @@
       years:
         - 2013
         - 2014
+        - 2015
+        - 2016
+    - name: Bendyworks
+      id: bendyworks
+      url: http://bendyworks.com
+      text: |-
+        <a href="http://bendyworks.com/" target="_blank">Bendyworks</a> delivers
+        high-value software consulting, resulting in software that can flex in the face
+        of changing business needs. They comprise creative and involved programmers,
+        designers, and project managers who dedicate themselves to sharing joy and
+        success in their crafts. Bendyworks is thrilled to once again support Rails
+        Girls Summer of Code.
+      years:
+        - 2013
         - 2015
         - 2016
     # - name: Tealeaf Academy
@@ -672,19 +686,6 @@
     #     in technology.
     #   years:
     #     - 2014
-    #     - 2015
-    # - name: Bendyworks
-    #   id: bendyworks
-    #   url: http://bendyworks.com
-    #   text: |-
-    #     <a href="http://bendyworks.com/" target="_blank">Bendyworks</a> delivers
-    #     high-value software consulting, resulting in software that can flex in the face
-    #     of changing business needs. They comprise creative and involved programmers,
-    #     designers, and project managers who dedicate themselves to sharing joy and
-    #     success in their crafts. Bendyworks is thrilled to once again support Rails
-    #     Girls Summer of Code.
-    #   years:
-    #     - 2013
     #     - 2015
     # - name: ActBlue
     #   id: actblue
