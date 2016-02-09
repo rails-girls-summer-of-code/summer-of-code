@@ -16,10 +16,10 @@ where you fit into the program, take a look at this list of roles.  We've made
 this a handy starting point to help you understand who does what, and where you
 might fit based on your skill set.
 
-<ul class="list list--none list--nested">
+<ul class="list list--none">
   <li>
     <a href="#teams">Teams</a>
-    <ul class="list list--none">
+    <ul class="list">
       <li><a href="#student">Student</a></li>
       <li><a href="#coach">Coach</a></li>
       <li><a href="#mentor">Mentor</a></li>
@@ -27,7 +27,7 @@ might fit based on your skill set.
   </li>
   <li>
     <a href="#support">Support and Organization</a>
-    <ul class="list list--none">
+    <ul class="list">
       <li><a href="#remote_coach">Remote Coach</a></li>
       <li><a href="#speaker_coach">Speaker Coach</a></li>
       <li><a href="#supervisor">Supervisor</a></li>
@@ -36,7 +36,7 @@ might fit based on your skill set.
   </li>
   <li>
     <a href="#financial">Financial</a>
-    <ul class="list list--none">
+    <ul class="list">
       <li><a href="#sponsors">Sponsor</a></li>
       <li><a href="#coaching_company">Coaching Company</a></li>
       <li><a href="#you">You</a></li>
