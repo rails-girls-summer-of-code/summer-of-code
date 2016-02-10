@@ -2,7 +2,7 @@
 title: Call for Organizers and Helpers
 layout: post
 created_at: Wed February 10 2016
-permalink: blog/2016-02-10-call-for-oganizers
+permalink: blog/2016-02-10-call-for-organizers
 author: Anika
 twitter: RailsGirlsSoc
 ---
@@ -13,9 +13,9 @@ Rails Girls Summer of Code 2016 is coming closer and we are looking for you to j
 
 + like doing PR stuff (#allthesocialmediathings) *or*
 + like getting in touch with the community and students *or*
-+ have ideas how to improve our website *or*
++ have ideas on how to improve our website *or*
 + can help out on the development of our [teams app](https://github.com/rails-girls-summer-of-code/rgsoc-teams) *or*
-+ can help out with design *or*
++ can help out with design / illustrations *or*
 + organize events *or*
 + help packing up care packages *or*
 + help us get in contact with other initiatives *or*
