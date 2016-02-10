@@ -9,7 +9,7 @@ twitter: RailsGirlsSoc
 
 ![](/img/blog/2016/rgsoc_calls.jpg)
 
-Rails Girls Summer of Code 2016 is coming closer and we are looking for you to join our orga team. We are a group of 6 people who are working behind the curtains to make RGSoC happen again and can use every helping :raised_hand: We are looking for people who either 
+Rails Girls Summer of Code 2016 is coming closer and we are looking for you to join our orga team. We are a group of people who are working behind the curtains to make RGSoC happen again and can use every helping :raised_hand: We are looking for people who either 
 
 + like doing PR stuff (#allthesocialmediathings) *or*
 + like getting in touch with the community and students *or*
