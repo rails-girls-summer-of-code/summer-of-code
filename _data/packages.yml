@@ -368,6 +368,20 @@
         - 2013
         - 2015
         - 2016
+    - name: Buffer
+      id: buffer
+      url: https://bufferapp.com
+      text: |-
+        <a href="https://bufferapp.com">Buffer</a> was started in 2010 as a simple way
+        to schedule posts on Twitter. Today we're honored to be the tool that more than
+        2 million amazing customers use to save time on social media by scheduling and
+        sharing to all their favorite social media networks. We're a growing remote
+        team located all around the world with a passion for self-improvement and
+        positivity. We can't think of a better way to support our values than by
+        supporting Rails Girls!
+      years:
+        - 2015
+        - 2016
     # - name: Tealeaf Academy
     #   id: tealeaf
     #   url: http://gotealeaf.com
@@ -515,19 +529,6 @@
     #     in the world, and we're committed to building a diverse and inclusive team.
     #   years:
     #     - 2013
-    #     - 2015
-    # - name: Buffer
-    #   id: buffer
-    #   url: https://bufferapp.com
-    #   text: |-
-    #     <a href="https://bufferapp.com">Buffer</a> was started in 2010 as a simple way
-    #     to schedule posts on Twitter. Today we're honored to be the tool that more than
-    #     2 million amazing customers use to save time on social media by scheduling and
-    #     sharing to all their favorite social media networks. We're a growing remote
-    #     team located all around the world with a passion for self-improvement and
-    #     positivity. We can't think of a better way to support our values than by
-    #     supporting Rails Girls!
-    #   years:
     #     - 2015
     # - name: Compose
     #   id: compose
