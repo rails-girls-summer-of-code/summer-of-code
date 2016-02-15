@@ -19,18 +19,18 @@ permalink: /students/application/
   <li><a href="#stipend">How much is the scholarship?</a></li>
   <li><a href="#components">What do you need to apply?</a></li>
     <ul>
-      <li><a href="#pair">Another Student to Pair With</a></li>
+      <li><a href="#pair">Another student to pair with</a></li>
       <li><a href="#coaches">Coaches</a></li>
-      <li><a href="#workplace">A Place to Work</a></li>
-      <li><a href="#self-mgmt">The Ability to Self-Manage and Motivate</a></li>
-      <li><a href="#project">A Project</a></li>
+      <li><a href="#workplace">A place to work</a></li>
+      <li><a href="#self-mgmt">The ability to self-manage and motivate</a></li>
+      <li><a href="#project">A project</a></li>
     </ul>
   
-  <li><a href="#place-application">Placing Your Application</a></li>
-  <li><a href="#selection">Selection and Judging</a></li>
-  <li><a href="#requirements-program">Requirements During the Program</a></li>
-  <li><a href="#volunteer-teams">A Note on Volunteer Teams</a></li>
-  <li><a href="#checklist">Before You Apply: The Checklist</a></li>
+  <li><a href="#place-application">Placing your application</a></li>
+  <li><a href="#selection">Selection and judging</a></li>
+  <li><a href="#requirements-program">Requirements during the program</a></li>
+  <li><a href="#volunteer-teams">A note on volunteer teams</a></li>
+  <li><a href="#checklist">Before you apply: the checklist</a></li>
 </ul>
 
 
@@ -52,7 +52,7 @@ The scholarship will be based on where you live, how much your set expenses are,
 
 <h3 id="components">What do you need to apply?</h3>
 
-<h4 id="pair">Another Student to Pair With</h4>
+<h4 id="pair">Another student to pair with</h4>
 
 Finding a teammate before submitting your application is required. It is important that you both work well together as you will be working very closely throughout the summer, planning your team goals together, and being the closest support for one another!  
 
@@ -67,20 +67,20 @@ From past experiences, we recommend a time of 4-8 hours per week of coaching tim
 For further information on what is required of a coach, and how to find one, we have prepared a detailed guide <a href="/students/finding-your-team">here</a>. 
 
 
-<h4 id="workplace">A Place to Work</h4>
+<h4 id="workplace">A place to work</h4>
 
 Working at a desk next to your team pair and to your coaches is a great scenario; having access to a team of coaches who can share the load is ideal. You will need an environment beneficial to dedicating yourself to your project for 3 months.
 This could be your home, a co-working space, your current work office or a <a href="/guide/coaching-company/">Coaching Company</a>. As long as you are safe and productive, you can choose where you will work.
 
 
-<h4 id="self-mgmt">The Ability to Self-Manage and Motivate</h4>
+<h4 id="self-mgmt">The ability to self-manage and motivate</h4>
 
 This is a very important point for us, as the program is **self-guided**. This means that there will not be someone beside you telling you what to do next at all times. While you will have time with your coaches each week, you will not have them by your side for the entire duration of the project.  
 As a team, you will be required to define your goals for the program, and plan together how you will meet these goals. We are always here to help you with this planning, but it is up to you to stick to your plan and achieve your goals.  
 
 Our <a href="/guide/coaching/">guide for coaches</a> will also help to give you insight on what is required, and help you to explain this to prospective coaches.
 
-<h4 id="project">A Project</h4>
+<h4 id="project">A project</h4>
 
 A good place to start is to have a look <a href="https://teams.railsgirlssummerofcode.org/projects">here</a> at our list of projects approved for RGSoC 2016. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community - in particular, people who are familiar with your experience so far.  
 <!-- ADD LINK -->
@@ -99,7 +99,7 @@ It is possible to save drafts of your application. This means that you can parti
 
 If you have any queries about this, please contact us.
 
-<h3 id="selection">Selection and Judging</h3>
+<h3 id="selection">Selection and judging</h3>
 
 Applications are reviewed on a case-by-case basis by a group of real human beings in the coding community; we aim for a diverse group of teams consisting of different countries, projects, backgrounds and skill levels.  
 Remember: Successful applications are not “first in, best dressed”, but are judged on how well they fulfill eligibility criteria. Don’t rush your application, but rather take your time to find your teammate, your coaches, and to choose the most suitable project for your team.  
@@ -125,13 +125,13 @@ Rails Girls Summer of Code will assist and support you with any of these require
 We strongly advise you to get acquainted with these requirements before and during application time. We will make sure they are complied with and will take steps in case of breaches.  
 If you have any questions about the above list, please <a href="mailto:summer-of-code@railsgirls.com">contact us</a>.
 
-<h3 id="volunteer-teams">A Note on Volunteer Teams</h3>
+<h3 id="volunteer-teams">A note on volunteer teams</h3>
 
 As well as the funded teams, every year the Rails Girls Summer of Code has also had a few selected volunteer teams. Volunteer teams are teams that participate in the program without the monthly stipend. 
 Volunteer teams adhere to the same guidelines as funded teams, and apart from the stipend they receive the same amount of support as the other teams, and are involved in the social activities. 
 Due to this, volunteer teams are also subjected to the selection process. In your application, you will have the option to select whether you are applying as a funded team, a volunteer team, or you can select both options. 
 
-<h3 id="volunteer-teams">Before You Apply: The Checklist</h3>
+<h3 id="volunteer-teams">Before you apply: the checklist</h3>
 
 Here is the basic checklist for your application:
 
