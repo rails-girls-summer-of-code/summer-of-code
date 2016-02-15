@@ -8,7 +8,7 @@ current-sub: application
 permalink: /students/application/
 ---
 
-<h1>Application Guide</h1>
+<h1>{{page.title}}</h1>
 
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
@@ -56,7 +56,7 @@ The scholarship will be based on where you live, how much your set expenses are,
 
 Finding a teammate before submitting your application is required. It is important that you both work well together as you will be working very closely throughout the summer, planning your team goals together, and being the closest support for one another!  
 
-For further information on finding a teammate we have prepared a detailed guide for you <a href="/students/find-your-team">here</a>. 
+For further information on finding a teammate we have prepared a detailed guide for you <a href="/students/finding-your-team">here</a>. 
 
 
 <h4 id="coaches">Coaches</h4>
@@ -64,7 +64,7 @@ For further information on finding a teammate we have prepared a detailed guide 
 Coaches are developers who sit down with you, guide you through relevant coding steps and troubleshoot with you at regular intervals. Consequently, it is **required** that they are based in the same city as your team.  
 From past experiences, we recommend a time of 4-8 hours per week of coaching time. Therefore, we require a minimum of 2 coaches, so they can share the time commitment, and you and your teammate will have more flexible support.  
 
-For further information on what is required of a coach, and how to find one, we have prepared a detailed guide <a href="/students/find-your-team">here</a>. 
+For further information on what is required of a coach, and how to find one, we have prepared a detailed guide <a href="/students/finding-your-team">here</a>. 
 
 
 <h4 id="workplace">A Place to Work</h4>

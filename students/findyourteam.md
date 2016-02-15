@@ -1,11 +1,11 @@
 ---
 layout: page
-title: How to find your team
+title: Finding your team
 class: page page-howto
 sidebar: content
 current: students
 current-sub: team
-permalink: /students/find-your-team/
+permalink: /students/finding-your-team/
 ---
 
 <h1>{{page.title}}</h1>
