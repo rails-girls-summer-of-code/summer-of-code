@@ -12,6 +12,8 @@ permalink: /students/application/
 
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
+**Applications for Rails Girls Summer of Code will be open starting February 22nd and will close on March 15th, at 18:00 CET**.
+
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
   <li><a href="#stipend">How much is the scholarship?</a></li>
@@ -86,7 +88,7 @@ The teams (and their projects) from last year are here.
 
 <h3 id="place-application">Placing your application</h3>
 
-Applications for Rails Girls Summer of Code will be open on February 22nd and will close **on March 15th, at 18:00 CET**.
+**Applications for Rails Girls Summer of Code will be open starting February 22nd and will close on March 15th, at 18:00 CET**.
 
 In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application.
 
@@ -97,10 +99,47 @@ It is possible to save drafts of your application. This means that you can parti
 
 If you have any queries about this, please contact us.
 
+<h3 id="selection">Selection and Judging</h3>
 
+Applications are reviewed on a case-by-case basis by a group of real human beings in the coding community; we aim for a diverse group of teams consisting of different countries, projects, backgrounds and skill levels.  
+Remember: Successful applications are not “first in, best dressed”, but are judged on how well they fulfill eligibility criteria. Don’t rush your application, but rather take your time to find your teammate, your coaches, and to choose the most suitable project for your team.  
 
+Applications sent after the deadline cannot be considered for judging.
 
+<h3 id="requirements-program">Requirements during the program</h3>
 
+Along with this application guide, please also read about <a href="http://railsgirlssummerofcode.org/students/todo/">what will be asked of you</a> over the summer, besides diving into code. Rails Girls Summer of Code focuses on students learning to code, but is also a community event.  
 
+During the Summer of Code we have the following requirements which students have to agree with and, in case of being selected, will sign for in a written agreement:
+
+* Participate full-time from July 1st to September 30th 2016
+* Continuously work on the chosen and approved Open Source project.
+* Keep track of your work with a short, daily summary.
+* Keep regular contact to your supervisor and your mentor and abide to reaction times for communication.
+* Provide an email address and Twitter account for social and promotional events.
+* Participate in non-coding related community events (e.g. the all-team chat, RGSoC social events).
+* Agree to have published team information on our website and blog (e.g. team introduction, team blog posts). This includes some form of visual material of yourself.
+* In case of participation in a conference where tickets are provided by RGSoC: Hold a lightning talk about your project work or write a blog post about the conference participation.
+
+Rails Girls Summer of Code will assist and support you with any of these requirements. As a further insight on this, or on setting up a good working environment, please read our article on <a href="http://railsgirlssummerofcode.org/students/todo/">“What to expect”</a>, where we gathered suggestions and recommendations for students.
+We strongly advise you to get acquainted with these requirements before and during application time. We will make sure they are complied with and will take steps in case of breaches.  
+If you have any questions about the above list, please <a href="mailto:summer-of-code@railsgirls.com">contact us</a>.
+
+<h3 id="volunteer-teams">A Note on Volunteer Teams</h3>
+
+As well as the funded teams, every year the Rails Girls Summer of Code has also had a few selected volunteer teams. Volunteer teams are teams that participate in the program without the monthly stipend. 
+Volunteer teams adhere to the same guidelines as funded teams, and apart from the stipend they receive the same amount of support as the other teams, and are involved in the social activities. 
+Due to this, volunteer teams are also subjected to the selection process. In your application, you will have the option to select whether you are applying as a funded team, a volunteer team, or you can select both options. 
+
+<h3 id="volunteer-teams">Before You Apply: The Checklist</h3>
+
+Here is the basic checklist for your application:
+
+* Have you read, and fully understood, this guide?
+* Have you found a teammate? 
+* Has your team selected a project? 
+* Has your team found at least two coaches who will commit to helping you?
+* Has your team found a suitable workspace for the duration of the program? 
+* Do you agree with and meet all of the requirements listed above?
 
 
