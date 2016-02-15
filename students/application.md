@@ -55,22 +55,22 @@ The scholarship will be based on where you live, how much your set expenses are,
 <h4 id="pair">Another Student to Pair With</h4>
 
 Finding a teammate before submitting your application is required. It is important that you both work well together as you will be working very closely throughout the summer, planning your team goals together, and being the closest support for one another!  
-<!-- ADD LINK -->
-For further information on finding a teammate, including tips from past students, we have prepared a detailed guide for you here. 
+
+For further information on finding a teammate we have prepared a detailed guide for you <a href="/students/find-your-team">here</a>. 
 
 
 <h4 id="coaches">Coaches</h4>
 
 Coaches are developers who sit down with you, guide you through relevant coding steps and troubleshoot with you at regular intervals. Consequently, it is **required** that they are based in the same city as your team.  
 From past experiences, we recommend a time of 4-8 hours per week of coaching time. Therefore, we require a minimum of 2 coaches, so they can share the time commitment, and you and your teammate will have more flexible support.  
-<!-- ADD LINK -->
-For further information on what is required of a coach, and how to find one, we have prepared a detailed guide here. 
+
+For further information on what is required of a coach, and how to find one, we have prepared a detailed guide <a href="/students/find-your-team">here</a>. 
 
 
 <h4 id="workplace">A Place to Work</h4>
 
 Working at a desk next to your team pair and to your coaches is a great scenario; having access to a team of coaches who can share the load is ideal. You will need an environment beneficial to dedicating yourself to your project for 3 months.
-This could be your home, a co-working space, your current work office or a Coaching Company. As long as you are safe and productive, you can choose where you will work.
+This could be your home, a co-working space, your current work office or a <a href="/guide/coaching-company/">Coaching Company</a>. As long as you are safe and productive, you can choose where you will work.
 
 
 <h4 id="self-mgmt">The Ability to Self-Manage and Motivate</h4>
@@ -78,7 +78,7 @@ This could be your home, a co-working space, your current work office or a Coach
 This is a very important point for us, as the program is **self-guided**. This means that there will not be someone beside you telling you what to do next at all times. While you will have time with your coaches each week, you will not have them by your side for the entire duration of the project.  
 As a team, you will be required to define your goals for the program, and plan together how you will meet these goals. We are always here to help you with this planning, but it is up to you to stick to your plan and achieve your goals.  
 
-Our <a href="http://railsgirlssummerofcode.org/guide/coaching/">guide for coaches</a> will also help to give you insight on what is required, and help you to explain this to prospective coaches.
+Our <a href="/guide/coaching/">guide for coaches</a> will also help to give you insight on what is required, and help you to explain this to prospective coaches.
 
 <h4 id="project">A Project</h4>
 
@@ -108,7 +108,7 @@ Applications sent after the deadline cannot be considered for judging.
 
 <h3 id="requirements-program">Requirements during the program</h3>
 
-Along with this application guide, please also read about <a href="http://railsgirlssummerofcode.org/students/todo/">what will be asked of you</a> over the summer, besides diving into code. Rails Girls Summer of Code focuses on students learning to code, but is also a community event.  
+Along with this application guide, please also read about <a href="/students/todo/">what will be asked of you</a> over the summer, besides diving into code. Rails Girls Summer of Code focuses on students learning to code, but is also a community event.  
 
 During the Summer of Code we have the following requirements which students have to agree with and, in case of being selected, will sign for in a written agreement:
 
@@ -121,7 +121,7 @@ During the Summer of Code we have the following requirements which students have
 * Agree to have published team information on our website and blog (e.g. team introduction, team blog posts). This includes some form of visual material of yourself.
 * In case of participation in a conference where tickets are provided by RGSoC: Hold a lightning talk about your project work or write a blog post about the conference participation.
 
-Rails Girls Summer of Code will assist and support you with any of these requirements. As a further insight on this, or on setting up a good working environment, please read our article on <a href="http://railsgirlssummerofcode.org/students/todo/">“What to expect”</a>, where we gathered suggestions and recommendations for students.
+Rails Girls Summer of Code will assist and support you with any of these requirements. As a further insight on this, or on setting up a good working environment, please read our article on <a href="/students/todo/">“What to expect”</a>, where we gathered suggestions and recommendations for students.
 We strongly advise you to get acquainted with these requirements before and during application time. We will make sure they are complied with and will take steps in case of breaches.  
 If you have any questions about the above list, please <a href="mailto:summer-of-code@railsgirls.com">contact us</a>.
 
