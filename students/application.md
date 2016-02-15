@@ -135,11 +135,12 @@ Due to this, volunteer teams are also subjected to the selection process. In you
 
 Here is the basic checklist for your application:
 
-* Have you read, and fully understood, this guide?
-* Have you found a teammate? 
-* Has your team selected a project? 
-* Has your team found at least two coaches who will commit to helping you?
-* Has your team found a suitable workspace for the duration of the program? 
-* Do you agree with and meet all of the requirements listed above?
+<span class="glyphicon glyphicon-unchecked"></span> Have you read, and fully understood, this guide?  
+<span class="glyphicon glyphicon-unchecked"></span> Have you found a teammate?  
+<span class="glyphicon glyphicon-unchecked"></span> Has your team selected a project?  
+<span class="glyphicon glyphicon-unchecked"></span> Has your team found at least two coaches who will commit to helping you?  
+<span class="glyphicon glyphicon-unchecked"></span> Has your team found a suitable workspace for the duration of the program?  
+<span class="glyphicon glyphicon-unchecked"></span> Do you agree with and meet all of the requirements listed above?  
+
 
 
