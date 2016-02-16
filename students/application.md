@@ -95,7 +95,7 @@ The other sections are related to your project and team setup and they should be
 
 It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later. 
 
-If you have any queries about the application process, please contact us.
+If you have any queries about the application process, please <a href="mailto:summer-of-code@railsgirls.com">contact us</a>.
 
 <h3 id="selection">Selection and judging</h3>
 
