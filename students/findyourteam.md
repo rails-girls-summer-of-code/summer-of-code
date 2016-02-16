@@ -42,9 +42,9 @@ If you have no luck, or live in an area where there is no Rails Girls chapter an
 
 From past experiences, we recommend 4-8 hours per week of coaching time. We require a minimum of 2 coaches so they can share the time commitment, and so you and your teammate have more flexible support.
 
-Coaches should be available to help during office hours at times where you get quite stuck with something. This doesn't have to be in person, and can be via email or a messaging app such as slack. 
+Coaches should be available to help during office hours at times where you get quite stuck with something. This doesn't have to be in person, and can be done via email or a messaging app such as slack. 
 
-Already during application time, talk to them about how they communicate and how you can handle possible situations of stress and/or conflict as a team.
+**An important note:** Already during application time, talk to them about how they communicate and how you can handle possible situations of stress and/or conflict as a team. This will definitely help you should any tricky situations arise. 
 
 <h3 id="teammate">Teammate</h3>
 
@@ -58,7 +58,7 @@ For the duration of the program we require that you work together in the same pl
 <h4 id="find-teammate">Where do I find a teammate?</h4>
 
 A great place to start with this is with your local Rails Girls chapter. Speak to organisers and coaches from the group as they might know of someone who would also be interested in applying. If you regularly attend a study group, try asking there as well.
-Another suggestion is to attend, and speak to people in your local Ruby meetup group, (or other user groups relevant to whichever language prospective projects are in).
+Another suggestion is to attend, and speak to people in your local Ruby meetup group — or other user groups relevant to whichever language prospective projects are in.
 If you have no luck, or live in an area where there is no Rails Girls chapter or no user group, ask on <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">the Rails Girls Summer of Code community mailing list</a>, or via <a href="https://www.twitter.com/railsgirlssoc">@RailsGirlsSoC</a> on Twitter. We will happily connect and retweet you!
 
 
