@@ -81,8 +81,6 @@ As a team, you will be required to define your goals for the program, and plan t
 <h4 id="project">A project</h4>
 
 A good place to start is to have a look <a href="https://teams.railsgirlssummerofcode.org/projects">here</a> at our list of projects approved for RGSoC 2016. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community - in particular, people who are familiar with your experience so far.  
-<!-- ADD LINK -->
-The teams (and their projects) from last year are here. 
 
 <h3 id="place-application">Placing your application</h3>
 
