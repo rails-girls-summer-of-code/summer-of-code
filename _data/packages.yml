@@ -382,6 +382,19 @@
       years:
         - 2015
         - 2016
+    - name: Keenio
+      id: keenio
+      url: http://keen.io
+      text: |-
+        <a href="http://keen.io/" target="_blank">Keen IO</a> is an analytics API for
+        the modern developer. Use Keen IO to collect JSON events from any source and
+        make charts, graphs, and reports based on the data you've collected. We're a
+        big supporter for equality and diversity initiatives in technology and are very
+        proud to be a part of the Rails Girls Summer of Code program.
+      years:
+        - 2014
+        - 2015
+        - 2016
     # - name: Tealeaf Academy
     #   id: tealeaf
     #   url: http://gotealeaf.com
@@ -404,18 +417,6 @@
     #     solutions to customers around the world. Site5 strives to empower coders world
     #     wide and we are proud to lend our support to Rails Girls Summer of Code to
     #     empower young girls to explore their passion for programming.
-    #   years:
-    #     - 2014
-    #     - 2015
-    # - name: Keenio
-    #   id: keenio
-    #   url: http://keen.io
-    #   text: |-
-    #     <a href="http://keen.io/" target="_blank">Keen IO</a> is an analytics API for
-    #     the modern developer. Use Keen IO to collect JSON events from any source and
-    #     make charts, graphs, and reports based on the data you've collected. We're a
-    #     big supporter for equality and diversity initiatives in technology and are very
-    #     proud to be a part of the Rails Girls Summer of Code program.
     #   years:
     #     - 2014
     #     - 2015
