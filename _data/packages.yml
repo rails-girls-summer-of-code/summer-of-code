@@ -217,6 +217,12 @@
       years:
         - 2015
         - 2016
+    - name: Twilio
+      id: twilio
+      url: https://www.twilio.com
+      text: |-
+      years:
+        - 2015
     # - name: Turing School of Software & Design
     #   id: turing
     #   url: http://turing.io
@@ -290,12 +296,6 @@
     # - name: Xing
     #   id: xing
     #   url: http://xing.com
-    #   text: |-
-    #   years:
-    #     - 2015
-    # - name: Twilio
-    #   id: twilio
-    #   url: https://www.twilio.com
     #   text: |-
     #   years:
     #     - 2015
