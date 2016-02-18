@@ -233,6 +233,12 @@
       years:
         - 2015
         - 2016
+    - name: DNSimple
+      id: dnsimple
+      url: https://dnsimple.com
+      text: |-
+      years:
+        - 2016
     # - name: Turing School of Software & Design
     #   id: turing
     #   url: http://turing.io
