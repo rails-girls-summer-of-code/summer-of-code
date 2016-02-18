@@ -221,6 +221,15 @@
       id: twilio
       url: https://www.twilio.com
       text: |-
+        <a href="https://www.twilio.com">Twilio</a> is a cloud communications
+        platform for software developers to build, scale and operate real time
+        communications in their software applications.  Twilio powers the
+        future of business communications, enabling phones, VoIP, and messaging
+        to be embedded into web, desktop, and mobile software. We take care of
+        the messy telecom hardware and expose a globally available cloud API
+        that developers can interact with intelligent & complex communications
+        systems.  Twilio is excited to help Rails Girls Summer of Code inspire
+        and equip women to build the future of communications
       years:
         - 2015
         - 2016
