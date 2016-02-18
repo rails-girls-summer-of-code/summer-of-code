@@ -103,7 +103,7 @@
   background-color: $grey;
 }
 
-.landing-teasers {
+.landing-teasers, .landing-stats {
   margin: 2em 0 3em;
   img {
     width: 100%;
@@ -200,6 +200,17 @@
   }
 }
 
+.landing-single-number {
+  padding-left: 0px;
+  text-align: center;
+
+  h1 {
+  display: inline-block;
+  padding-bottom: 0.5em;
+  border-bottom: 3px solid $red;
+  }
+  
+}
 
 .landing-misc {
   padding: 4em 0 2em;
