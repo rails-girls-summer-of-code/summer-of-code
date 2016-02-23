@@ -98,23 +98,23 @@ could do with your support - wherever you are located.
 <br /><font color="grey"><small><i>Locations of Teams in 2015</i></small></font>
 
 <h2 id="q6">How to become a Coaching Company</h2>
+ 
 
+1) **Register yourself and your coaches on our <a href="http://teams.railsgirlssummerofcode.org">Teams App</a>.**
 
-1) Register yourself and your on our <a href="http://teams.railsgirlssummerofcode.org">Teams App</a>.
+Students who are looking for a Coaching Company can find you there.
 
-*This way students who are looking for a Coaching Company near them can find you.*
+2) **Look for a team in your city.**
 
-2) Look for a team in your city. 
+This might require reaching out to your local Rails Girls chapter (or Pyladies, WomenWhoCode, BlackGirlsCode, PHPwomen, etc.) and to development communities such as your local user groups to let them know that you're willing to host a team.
 
-*This might require reaching out to your local <a href="http://railsgirls.com/">Rails Girls</a> chapter (or Pyladies, WomenWhoCode, BlackGirlsCode, PHPwomen, etc.) and to development communities such as your local user groups to let them know that you're willing to host a team.* 
+3) **Send an email to our <a href="https://groups.**google.com/forum/#!forum/rails-girls-summer-of-code-community">community mailing list</a>.**
 
-3) Send an email to the <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>. 
+Include the info that you are offering your space and coaches. You can spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we'll retweet and help you connect to students.
 
-*Include the info that you are offering your space and coaches. You can spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we'll retweet and help you connect to students.*  
+4) **Write a blog post.**
 
-4) Write a blog post. 
-
-*Get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a RGSoC team. We're happy to share your post on our social networks, and help you find a team for 2016!*
+Get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a RGSoC team. We're happy to share your post on our social networks, and help you find a team for 2016!
 
 <h2 id="q1">Why should we become a Coaching Company?</h2>
 
