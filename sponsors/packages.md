@@ -10,11 +10,11 @@ permalink: /sponsors/packages/
 
 # Become a Sponsor
 
-<img src="../../img/RGSoC2016_Sponsors-Page-Banner-Picture.png" width="100%"/>
+<img src="/img/RGSoC2016_Sponsors-Page-Banner-Picture.png" width="100%"/>
 
 Rails Girls Summer of Code enables women to learn and code
 on Open Source projects from July to September each year. You can help make this
-a reality by sponsoring a package, or partnering with us.
+a reality by sponsoring a package or partnering with us.
 
 {% include sponsor_benefits.html %}
 
@@ -25,7 +25,7 @@ Open Source learning projects full-time. As a sponsor, you are a crucial part of
 providing the Summer of Code subsidies. Your sponsorship will enter a budget
 pool, from which the selected students will be paid.
 
-If you would like to know more about RGSoC or present our program to your company you can also take a look at this <a href="https://speakerdeck.com/langziehohr/rails-girls-summer-of-code-2016">pitch deck</a>.
+If you would like to know more about RGSoC or present our program to your company, you can also take a look at this <a href="https://speakerdeck.com/langziehohr/rails-girls-summer-of-code-2016">pitch deck</a>.
 
 {% include sponsor_packages.html %}
 
