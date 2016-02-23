@@ -24,6 +24,8 @@ In the last few weeks, we’ve been reaching out to some of our most faithful su
 
 We’re amazed — sparkles-in-our-eyes, jaw-dropping kind of amazed — to see how much of our goal we’ve already reached. Six teams are already funded! Amazing! Let's keep this momentum going!
 
+![](/img/blog/sixteams.png)
+
 ### donatebecause
 
 Last year, with the hashtag #donatebecause, we encouraged our community to donate for our last stretch goal, towards funding extra teams. This year, we’re asking you from the beginning to donate, because:  
