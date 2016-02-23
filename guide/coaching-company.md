@@ -36,7 +36,7 @@ show your support for the Open Source and your local developer community.
 
 <h2 id="q1">Why should I be a Coaching Company?</h2>
 
-There are tonnes of good reasons to be a coaching company; altruistic
+There are tons of good reasons to be a coaching company; altruistic
 fulfillment, the good of the developer community, a more diverse Open Source
 contributor network, and much more. However, one of the best parts of being a
 Coaching Company is the huge amount of organic publicity your company garners.
@@ -76,7 +76,7 @@ hires, conference organisers, tech bloggers, journalists and media outlets.
 Any company with a respectful and inclusive culture, desk space, good internet, and a team of
 developers could make a good coaching company. That really is it. Great
 examples for Coaching Companies include Absolventa and
-Travis CI (2013), 6Wunderkinder (2014), and SoundCloud (2013, 2014).
+Travis CI (2013), 6Wunderkinder (2014), and SoundCloud (2013, 2014, 2015).
 
 Some Coaching Companies have supported participants who already work for their
 company. Companies who want to host a team of their own employees should make
@@ -89,8 +89,8 @@ be a co-working space who wants to host a team, and has gathered a roster of
 coaches to help.
 
 **We expect coaching companies to host teams in a safe and productive work
-environment**, but other than that, there is no "one size fits all" coaching company. 
-The one thing they all have in common is the inherent value they see in supporting a 
+environment**, but other than that, there is no "one size fits all" coaching company.
+The one thing they all have in common is the inherent value they see in supporting a
 team in and of itself.
 
 
@@ -129,7 +129,7 @@ Rails Girls Summer of Code is an international initiative, and our participants
 work on their projects all over the world.
 
 We highly encourage companies from all over the world to get involved. We are
-aiming at having participants from a greater variety of countries in 2015, so
+aiming at having participants from a greater variety of countries in 2016, so
 regardless of your coordinates on planet Earth, there is probably a team that
 could do with your support.
 
@@ -138,7 +138,8 @@ could do with your support.
 1) Look for a team in your city; this might require reaching out to your local <a href="http://railsgirls.com/">Rails Girls chapter</a> and to development communities such as your local Ruby groups to let them know that you're willing to host a team.  
 2) Also send an email to the <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>,
 offering your space and coaches. You can spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we'll retweet and help you connect to students.  
-3) Register yourself and your coaches here: <a href="http://teams.railsgirlssummerofcode.org">teams.railsgirlssummerofcode.org</a> so that students applying can find you.  
+3) Register yourself and your coaches here: <a href="http://teams.railsgirlssummerofcode.org">teams.railsgirlssummerofcode.org</a> so that students applying can find you.
+4) Write a blog post about wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a RGSoC team. We're happy to share your post on our social networks, and help you find a team for 2016!
 
 
 

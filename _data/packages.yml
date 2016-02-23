@@ -118,6 +118,32 @@
         - 2014
         - 2015
         - 2016
+    - name: Malwarebytes
+      id: malwarebytes
+      url: http://www.malwarebytes.org
+      text: |-
+        <a href="http://www.malwarebytes.org" target="_blank">Malwarebytes</a> builds
+        Internet security software that detects and removes malware antivirus doesn't
+        catch. As a company we are deeply invested in the developer community and
+        believe brilliant code can change the world. That's why we are proud supporters
+        of the Rails Girls Summer of Code, its participants, and its mission.
+      years:
+        - 2014
+        - 2016
+    - name: Honeybadger
+      id: honeybadger
+      url: https://www.honeybadger.io
+      text: |-
+        <a href="https://www.honeybadger.io" target="_blank">Honeybadger</a> is the
+        best exception monitoring service on the planet — in fact, it’s so awesome,
+        you’ll want to get more errors in your application just so you can use it more!
+        Built on Rails, it helps developers deliver great experiences to their users.
+        We at Honeybadger love the open source community, and we are happy to sponsor
+        Rails Girls Summer of Code to help make that community even better.
+      years:
+        - 2013
+        - 2014
+        - 2016
     # - name: Soundcloud
     #   id: soundcloud
     #   url: https://soundcloud.com
@@ -190,6 +216,28 @@
         community.
       years:
         - 2015
+        - 2016
+    - name: Twilio
+      id: twilio
+      url: https://www.twilio.com
+      text: |-
+        <a href="https://www.twilio.com">Twilio</a> is a cloud communications
+        platform for software developers to build, scale and operate real time
+        communications in their software applications.  Twilio powers the
+        future of business communications, enabling phones, VoIP, and messaging
+        to be embedded into web, desktop, and mobile software. We take care of
+        the messy telecom hardware and expose a globally available cloud API
+        that developers can interact with intelligent & complex communications
+        systems.  Twilio is excited to help Rails Girls Summer of Code inspire
+        and equip women to build the future of communications
+      years:
+        - 2015
+        - 2016
+    - name: DNSimple
+      id: dnsimple
+      url: https://dnsimple.com
+      text: |-
+      years:
         - 2016
     # - name: Turing School of Software & Design
     #   id: turing
@@ -267,12 +315,6 @@
     #   text: |-
     #   years:
     #     - 2015
-    # - name: Twilio
-    #   id: twilio
-    #   url: https://www.twilio.com
-    #   text: |-
-    #   years:
-    #     - 2015
     # - name: ImmobilienScout24
     #   id: immobilienscout
     #   url: http://www.immobilienscout24.de
@@ -342,6 +384,45 @@
         - 2013
         - 2015
         - 2016
+    - name: Buffer
+      id: buffer
+      url: https://bufferapp.com
+      text: |-
+        <a href="https://bufferapp.com">Buffer</a> was started in 2010 as a simple way
+        to schedule posts on Twitter. Today we're honored to be the tool that more than
+        2 million amazing customers use to save time on social media by scheduling and
+        sharing to all their favorite social media networks. We're a growing remote
+        team located all around the world with a passion for self-improvement and
+        positivity. We can't think of a better way to support our values than by
+        supporting Rails Girls!
+      years:
+        - 2015
+        - 2016
+    - name: Keenio
+      id: keenio
+      url: http://keen.io
+      text: |-
+        <a href="http://keen.io/" target="_blank">Keen IO</a> is an analytics API for
+        the modern developer. Use Keen IO to collect JSON events from any source and
+        make charts, graphs, and reports based on the data you've collected. We're a
+        big supporter for equality and diversity initiatives in technology and are very
+        proud to be a part of the Rails Girls Summer of Code program.
+      years:
+        - 2014
+        - 2015
+        - 2016
+    - name: Synack
+      id: synack
+      url: https://www.synack.com/
+      text: |-
+        <a href="https://www.synack.com/">Synack</a> is a security startup that has
+        created a unique Crowd Security Intelligence™ platform that delivers the most
+        secure, continuous, scalable, security assessment on the market.  Our team is
+        proud to support Rails Girls Summer of Code and celebrate their efforts
+        promoting diversity and equality in technology.
+      years:
+        - 2015
+        - 2016
     # - name: Tealeaf Academy
     #   id: tealeaf
     #   url: http://gotealeaf.com
@@ -364,18 +445,6 @@
     #     solutions to customers around the world. Site5 strives to empower coders world
     #     wide and we are proud to lend our support to Rails Girls Summer of Code to
     #     empower young girls to explore their passion for programming.
-    #   years:
-    #     - 2014
-    #     - 2015
-    # - name: Keenio
-    #   id: keenio
-    #   url: http://keen.io
-    #   text: |-
-    #     <a href="http://keen.io/" target="_blank">Keen IO</a> is an analytics API for
-    #     the modern developer. Use Keen IO to collect JSON events from any source and
-    #     make charts, graphs, and reports based on the data you've collected. We're a
-    #     big supporter for equality and diversity initiatives in technology and are very
-    #     proud to be a part of the Rails Girls Summer of Code program.
     #   years:
     #     - 2014
     #     - 2015
@@ -489,19 +558,6 @@
     #     in the world, and we're committed to building a diverse and inclusive team.
     #   years:
     #     - 2013
-    #     - 2015
-    # - name: Buffer
-    #   id: buffer
-    #   url: https://bufferapp.com
-    #   text: |-
-    #     <a href="https://bufferapp.com">Buffer</a> was started in 2010 as a simple way
-    #     to schedule posts on Twitter. Today we're honored to be the tool that more than
-    #     2 million amazing customers use to save time on social media by scheduling and
-    #     sharing to all their favorite social media networks. We're a growing remote
-    #     team located all around the world with a passion for self-improvement and
-    #     positivity. We can't think of a better way to support our values than by
-    #     supporting Rails Girls!
-    #   years:
     #     - 2015
     # - name: Compose
     #   id: compose
@@ -766,9 +822,6 @@
     #     based in Berlin and employs over 250 people from 40 nations, working together
     #     on free-to-play games that are enjoyed by around 50 million players per
     #     month.
-    # - name: Honeybadger
-    #   id: honeybadger
-    #   url: https://www.honeybadger.io
     # - name: Planio
     #   id: planio
     #   url: https://plan.io
@@ -801,15 +854,6 @@
     #     lightsaber fights and sparkly shoes and I want the software industry to be a
     #     great place for her to work by the time she’s old enough, if that’s what she
     #     chooses.
-    # - name: Malwarebytes
-    #   id: malwarebytes
-    #   url: http://www.malwarebytes.org
-    #   text: |-
-    #     <a href="http://www.malwarebytes.org" target="_blank">Malwarebytes</a> builds
-    #     Internet security software that detects and removes malware antivirus doesn't
-    #     catch. As a company we are deeply invested in the developer community and
-    #     believe brilliant code can change the world. That's why we are proud supporters
-    #     of the Rails Girls Summer of Code, its participants, and its mission.
     # - name: Carnesmedia
     #   id: carnesmedia
     #   url: http://carnesmedia.com
