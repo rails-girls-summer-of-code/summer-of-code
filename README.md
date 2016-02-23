@@ -19,7 +19,7 @@ In order to add your blog post to our blog, you will go through the following st
 
 ### Run the website locally
 
-The Website is build with [Jekyll](https://jekyllrb.com/). In order to see the website on your machine you have to bundle the Gems and start jekyll.
+The website is build with [Jekyll](https://jekyllrb.com/). In order to see the pages on your machine you have to bundle the Gems and start jekyll.
 
 ```
 gem install bundler
@@ -27,7 +27,7 @@ bundle
 jekyll serve
 ```
 
-then you type:  ```localhost:4000``` in your browser and tada
+then you type:  ```localhost:4000``` in your browser and :tada:
 
 ### Writing your blog post
 
