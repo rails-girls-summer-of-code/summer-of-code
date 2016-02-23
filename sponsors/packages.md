@@ -25,6 +25,8 @@ Open Source learning projects full-time. As a sponsor, you are a crucial part of
 providing the Summer of Code subsidies. Your sponsorship will enter a budget
 pool, from which the selected students will be paid.
 
+If you would like to know more about RGSoC or present our program to your company you can also take a look at this <a href="https://speakerdeck.com/langziehohr/rails-girls-summer-of-code-2016">pitch deck</a>.
+
 {% include sponsor_packages.html %}
 
 ### Partner Company Package
