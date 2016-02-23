@@ -18,11 +18,7 @@ Summer of Code students need a place to work. While working from home is an opti
 participants, having the exposure to a productive work environment and ready
 access to coaches is extremly valuable. 
 
-Companies that provide this work environment to our teams are called Coaching Companies.
-
-
-<img src="/img/blog/2015/exercistas_first_day.jpg" width="650">
-<br /><font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
+Companies that provide this work environment to our teams are called Coaching Companies. 
 
 
 * <a href="#q1">Why should we be a Coaching Company?</a>
@@ -33,7 +29,6 @@ Companies that provide this work environment to our teams are called Coaching Co
 * <a href="#q5">Where are Coaching Companies located?</a>
 * <a href="#q6">How to become a Coaching Company</a>
 * <a href="#q7">We have more questions!</a>
-
 
 
 <h2 id="q3">What does a Coaching Company do?</h2>
@@ -61,6 +56,10 @@ attend conferences and meetups.
 * Coaching companies can't demand their teams be chosen.
 
 <h2 id="q2">What makes a good Coaching Company?</h2>
+
+
+<img src="/img/blog/2015/exercistas_first_day.jpg" width="650">
+<br /><font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
 
 Any company with a respectful and inclusive culture, desk space, good internet, and a team of
 developers make a good Coaching Company. 
