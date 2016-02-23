@@ -20,9 +20,9 @@ Since its inception in 2013, our program has grown from a grassroots movement to
 
 In the last few weeks, we’ve been reaching out to some of our most faithful supporters; the early donations of these 19 (!!!) sponsors and partners, and their support, have helped to get this campaign started with a bang.
 
-![](/img/blog/2016/earlybirdsponsors_2016.png)
+<a href="http://railsgirlssummerofcode.org/sponsors/"><img src="/img/blog/2016/earlybirdsponsors_2016.png"></a>
 
-We’re amazed — sparkles-in-our-eyes, jaw-dropping kind of amazed — to see how much of our goal we’ve already reached. teams are already funded! But: we can do better.
+We’re amazed — sparkles-in-our-eyes, jaw-dropping kind of amazed — to see how much of our goal we’ve already reached. Six teams are already funded! Amazing! Let's keep this momentum going! 
 
 ### donatebecause
 
