@@ -21,13 +21,14 @@ access to coaches is extremly valuable.
 Companies that provide this work environment to our teams are called Coaching Companies. 
 
 
-* <a href="#q1">Why should we be a Coaching Company?</a>
-* <a href="#q2">What makes a good Coaching Company?</a>
+
 * <a href="#q3">What does a Coaching Company do?</a>
 * <a href="#q4">What Coaching Companies don't do</a>
-* <a href="q4b">What if our team is not chosen?</a>
+* <a href="#q2">What makes a good Coaching Company?</a>
 * <a href="#q5">Where are Coaching Companies located?</a>
 * <a href="#q6">How to become a Coaching Company</a>
+* <a href="q4b">What if our team is not chosen?</a>
+* <a href="#q1">Why should we be a Coaching Company?</a>
 * <a href="#q7">We have more questions!</a>
 
 
@@ -77,10 +78,6 @@ team in and of itself.
 Teams who don't get a sponsored seat but still want to participate and work on
 their project are called volunteer teams. We will select a small number of volunteer teams that get a seat in our program. They will get the same support that sponsored teams get - minus the stipend. -->
 
-<h2 id="q4b">What if our team is not chosen?</h2>
-
-If your team is not chosen (neither as a sponsored nor a volunteer team), you are still free to do your own summer of code together with two very passionate women working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions during the summer. 
-
 
 <h2 id="q5">Where are Coaching Companies located?</h2>
 
@@ -115,6 +112,10 @@ Include the info that you are offering your space and coaches. You can spread th
 4) **Write a blog post.**
 
 Get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a RGSoC team. We're happy to share your post on our social networks, and help you find a team for 2016!
+
+<h2 id="q4b">What if our team is not chosen?</h2>
+
+If your team is not chosen (neither as a sponsored nor a volunteer team), you are still free to do your own summer of code together with two very passionate women working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions during the summer. 
 
 <h2 id="q1">Why should we become a Coaching Company?</h2>
 
