@@ -105,7 +105,7 @@ Students who are looking for a Coaching Company can find you there.
 
 This might require reaching out to your local Rails Girls chapter (or Pyladies, WomenWhoCode, BlackGirlsCode, PHPwomen, etc.) and to development communities such as your local user groups to let them know that you're willing to host a team.
 
-3) **Send an email to our <a href="https://groups.**google.com/forum/#!forum/rails-girls-summer-of-code-community">community mailing list</a>.**
+3) **Send an email to our <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">community mailing list</a>.**
 
 Include the info that you are offering your space and coaches. You can spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we'll retweet and help you connect to students.
 
