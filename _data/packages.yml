@@ -427,6 +427,14 @@
       id: dreamfactory
       url: https://www.dreamfactory.com/
       text: |-
+        As an open source project, <a href="https://www.dreamfactory.com">DreamFactory</a>
+        is delighted to be helping make the ecosystem more diverse and
+        accessible through supporting Rails Girls Summer of Code. Through
+        building an open source platform that allows for the automatic
+        generation of secure REST APIs, we've found great value in the open
+        source ethos and community. We look forward to welcoming the 2016 Rails
+        Girls SoC participants and technologists from all backgrounds to share
+        these communities with us.
       years:
         - 2016
     # - name: Tealeaf Academy
