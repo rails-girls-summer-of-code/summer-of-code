@@ -4,11 +4,11 @@ We are using Github Pages for the website. You can have a look at the `gh-pages`
 
 ## How to create a new blog post
 
-In order to add your blog post to our blog, you will go through the following steps:  
+In order to add your blog post to our blog, you will go through the following steps:
 
 - fork our repo
-- add your blog post  
-- commit and push your changes  
+- add your blog post
+- commit and push your changes
 - send us a pull request
 
 (By contributing, you agree to adhere to our [Code of Conduct](https://github.com/rails-girls-summer-of-code/summer-of-code/blob/master/CODE_OF_CONDUCT.md))
@@ -65,7 +65,7 @@ than 250 kilobytes is too big.
 Please add a line with image credits and be sure to respect the privacy of others
 when uploading photos.
 
-### Committing your changes and sending a pull request 
+### Committing your changes and sending a pull request
 
 Once you're happy with your changes, commit them:
 
