@@ -61,6 +61,7 @@ companies do, please <a href="mailto:summer-of-code@railsgirls.com">write us an 
   [2014](http://2014.railsgirlssummerofcode.org/sponsors) and
   [2013](http://2013.railsgirlssummerofcode.org/sponsors-thanks)).
 * Your swag included in support packages sent out to all students during the summer (see below).
+* Your company will be included in the Sponsor opportunity Newsletter to participants.
 * Lots of tweet love, hype and buzz from the community.
 
 
@@ -77,6 +78,12 @@ If you send us your swag (e.g. stickers, pens, notebooks or other things
 that fit nicely with a Summer of Code learning project), we will include
 it in a "care package" that will be sent out to each student. Pictures of the
 contents of these packages often are tweeted and retweeted a lot.
+
+### Your company in the Sponsor opportunity Newsletter
+
+You may want to offer opportunities to our students such as (but not limited to) internships, interviews, special use of your service, invitations to events etc. 
+
+We are collecting all these information and will display them in order of sponsorship packages in an informative letter that goes out to all our participants. 
 
 ### Your logo on slides at presentations about RGSoC
 
