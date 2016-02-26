@@ -27,7 +27,8 @@ Companies that provide this work environment to our teams are called Coaching Co
 * <a href="#q2">What makes a good Coaching Company?</a>
 * <a href="#q5">Where are Coaching Companies located?</a>
 * <a href="#q6">How to become a Coaching Company</a>
-* <a href="q4b">What if our team is not chosen?</a>
+* <a href="#q8">An example for how to become a Coaching Company</a>
+* <a href="#q4b">What if our team is not chosen?</a>
 * <a href="#q1">Why should we be a Coaching Company?</a>
 * <a href="#q7">We have more questions!</a>
 
@@ -116,6 +117,34 @@ Get the word out about you wanting to become a coaching company: talk about your
 <h2 id="q4b">What if our team is not chosen?</h2>
 
 If your team is not chosen (neither as a sponsored nor a volunteer team), you are still free to do your own summer of code together with two very passionate women working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions during the summer. 
+
+
+<h2 id="q8">An example for how to become a Coaching Company</a></h2>
+
+Absolventa, a Berlin based company who was a Coaching Company during RGSoC 2013, wants to host a team this year again. This is how they promote themselves to the students:
+
+They **tweeted** about their intentions, including the information where they are located and which languages they can coach in:
+
+<blockquote class="twitter-tweet" lang="en"> Berlin-based team applying with a Ruby project for this year’s <a href="https://twitter.com/RailsgirlsSoc">@RailsGirlsSoC?</a> We want to be your coaching company! <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/">http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/</a>&mdash; Carsten Zimmermann (@carpgezwitscher) <a href="https://twitter.com/carpgezwitscher/status/702878302642507776">February 25, 2016</a></blockquote>
+<script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Plus they **wrote a more detailled blog post** including the following informations:
+
+* what is Rails Girls Summer of Code
+
+* why their company wants to do this 
+
+* what they can offer to students (a desk, a team of coaches, an inclusive, safe space to work in)
+
+* how applicants can contact them 
+
+
+---
+
+<a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"><img src="/img/absolventa-coachingcompany2.png"></a>
+
+---
+Read their full Blog post: <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"> Let's work together during RGSoC 2016</a>
 
 <h2 id="q1">Why should we become a Coaching Company?</h2>
 
