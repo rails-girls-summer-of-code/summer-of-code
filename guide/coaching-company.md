@@ -39,8 +39,10 @@ Companies that provide this work environment to our teams are called Coaching Co
 	* A dedicated space in an office
 	* Available coaches
 
-<img src="/img/coaching_company_rapidftr.jpg" width="650">
-<br /><font color="grey"><small><i>Coaching Company SoundCloud (Image: Team RapidFTR)</i></small></font>
+<div class="resize">
+	<img src="/img/coaching_company_rapidftr.jpg">
+</div>
+<font color="grey"><small><i>Coaching Company SoundCloud (Image: Team RapidFTR)</i></small></font>
 
 In essence, you give away a piece of space in your office for your team to work
 in and make sure that team have access to developers to coach them. All of the
@@ -59,9 +61,10 @@ attend conferences and meetups.
 
 <h2 id="q2">What makes a good Coaching Company?</h2>
 
-
-<img src="/img/blog/2015/exercistas_first_day.jpg" width="650">
-<br /><font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
+<div class="resize">
+	<img src="/img/blog/2015/exercistas_first_day.jpg">
+</div>
+<font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
 
 Any company with a respectful and inclusive culture, desk space, good internet, and a team of
 developers can make a good Coaching Company.
@@ -92,8 +95,10 @@ We highly encourage companies from all over the world to get involved. We are
 aiming at having participants from a greater variety of countries in 2016. There is probably a team that
 could do with your support - wherever you are located.
 
-<img src="/img/blog/2015/2015-teams-map.png" width="650">
-<br /><font color="grey"><small><i>Locations of Teams in 2015</i></small></font>
+<div class="resize">
+	<img src="/img/blog/2015/2015-teams-map.png">
+</div>
+<font color="grey"><small><i>Locations of Teams in 2015</i></small></font>
 
 <h2 id="q6">How to become a Coaching Company</h2>
 
@@ -141,15 +146,19 @@ They also **wrote a more detailed blog post** including the following details:
 
 ---
 
-<a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"><img src="/img/absolventa-coachingcompany2.png"></a>
+<div class="resize">
+	<a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"><img src="/img/absolventa-coachingcompany2.png"></a>
+</div>
 
 ---
 Read their full blog post: <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"> Let's work together during RGSoC 2016</a>
 
 <h2 id="q1">Why should we become a Coaching Company?</h2>
 
-<img src="/img/blog/2015/CG-FirstWeekGH.JPG" width="650">
-<br /><font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>
+<div class="resize">
+	<img src="/img/blog/2015/CG-FirstWeekGH.JPG">
+</div>
+<font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>
 
 There are tons of good reasons to be a coaching company; giving back
 , the good of the developer community, a more diverse Open Source
