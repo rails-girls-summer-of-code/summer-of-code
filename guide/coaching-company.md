@@ -40,7 +40,7 @@ Companies that provide this work environment to our teams are called Coaching Co
 	* Available coaches
 
 <div class="resize">
-	<img src="/img/coaching_company_rapidftr.jpg">
+	<img src="/img/guides/coaching_company_rapidftr.jpg">
 </div>
 <font color="grey"><small><i>Coaching Company SoundCloud (Image: Team RapidFTR)</i></small></font>
 
@@ -147,7 +147,7 @@ They also **wrote a more detailed blog post** including the following details:
 ---
 
 <div class="resize">
-	<a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"><img src="/img/absolventa-coachingcompany2.png"></a>
+	<a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"><img src="/img/guides/absolventa-coachingcompany2.png"></a>
 </div>
 
 ---
