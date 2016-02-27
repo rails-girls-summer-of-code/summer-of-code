@@ -16,9 +16,9 @@ You might just have what it takes to be a coaching company. -->
 
 Summer of Code students need a place to work. While working from home is an option for some
 participants, having the exposure to a productive work environment and ready
-access to coaches is extremly valuable. 
+access to coaches is extremely valuable.
 
-Companies that provide this work environment to our teams are called Coaching Companies. 
+Companies that provide this work environment to our teams are called Coaching Companies.
 
 
 
@@ -35,9 +35,9 @@ Companies that provide this work environment to our teams are called Coaching Co
 
 <h2 id="q3">What does a Coaching Company do?</h2>
 
-* Provide a home for three months including: 
+* Provide a home for three months including:
 	* A dedicated space in an office
-	* Availabe coaches
+	* Available coaches
 
 <img src="/img/coaching_company_rapidftr.jpg" width="650">
 <br /><font color="grey"><small><i>Coaching Company SoundCloud (Image: Team RapidFTR)</i></small></font>
@@ -64,7 +64,7 @@ attend conferences and meetups.
 <br /><font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
 
 Any company with a respectful and inclusive culture, desk space, good internet, and a team of
-developers make a good Coaching Company. 
+developers can make a good Coaching Company.
 
 Great examples for Coaching Companies include Absolventa and
 Travis CI (2013), 6Wunderkinder (2014), SoundCloud (2013, 2014, 2015), NIRD (2015) and GitHub (2015).
@@ -72,7 +72,7 @@ Travis CI (2013), 6Wunderkinder (2014), SoundCloud (2013, 2014, 2015), NIRD (201
 **We expect coaching companies to host teams in a safe and productive work
 environment**, but other than that, there is no "one size fits all" coaching company.
 The one thing they all have in common is the inherent value they see in supporting a
-team in and of itself. 
+team in and of itself.
 
 <!--<h2 id="q4a">Working with a volunteer team</h2>
 
@@ -96,7 +96,7 @@ could do with your support - wherever you are located.
 <br /><font color="grey"><small><i>Locations of Teams in 2015</i></small></font>
 
 <h2 id="q6">How to become a Coaching Company</h2>
- 
+
 
 1) **Register yourself and your coaches on our <a href="http://teams.railsgirlssummerofcode.org">Teams App</a>.**
 
@@ -116,27 +116,27 @@ Get the word out about you wanting to become a coaching company: talk about your
 
 <h2 id="q4b">What if our team is not chosen?</h2>
 
-If your team is not chosen (neither as a sponsored nor a volunteer team), you are still free to do your own summer of code together with two very passionate women working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions during the summer. 
+If your team is not chosen (neither as a sponsored nor a volunteer team), you are still free to do your own summer of code together with two very passionate women working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions during the summer.
 
 
 <h2 id="q8">An example for how to become a Coaching Company</a></h2>
 
 Absolventa, a Berlin based company who was a Coaching Company during RGSoC 2013, wants to host a team this year again. This is how they promote themselves to the students:
 
-They **tweeted** about their intentions, including the information where they are located and which languages they can coach in:
+They **tweeted** about their intentions, including information about where they are located and which languages they can coach in:
 
 <blockquote class="twitter-tweet" lang="en"> Berlin-based team applying with a Ruby project for this year’s <a href="https://twitter.com/RailsgirlsSoc">@RailsGirlsSoC?</a> We want to be your coaching company! <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/">http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/</a>&mdash; Carsten Zimmermann (@carpgezwitscher) <a href="https://twitter.com/carpgezwitscher/status/702878302642507776">February 25, 2016</a></blockquote>
-<script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Plus they **wrote a more detailled blog post** including the following informations:
+They also **wrote a more detailed blog post** including the following details:
 
-* what is Rails Girls Summer of Code
+* What Rails Girls Summer of Code is
 
-* why their company wants to do this 
+* Why their company wants to host a team
 
-* what they can offer to students (a desk, a team of coaches, an inclusive, safe space to work in)
+* What they can offer to students (a desk, a team of coaches, an inclusive, safe space to work in)
 
-* how applicants can contact them 
+* How applicants can contact them
 
 
 ---
@@ -144,12 +144,12 @@ Plus they **wrote a more detailled blog post** including the following informati
 <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"><img src="/img/absolventa-coachingcompany2.png"></a>
 
 ---
-Read their full Blog post: <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"> Let's work together during RGSoC 2016</a>
+Read their full blog post: <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"> Let's work together during RGSoC 2016</a>
 
 <h2 id="q1">Why should we become a Coaching Company?</h2>
 
 <img src="/img/blog/2015/CG-FirstWeekGH.JPG" width="650">
-<br /><font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>	
+<br /><font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>
 
 There are tons of good reasons to be a coaching company; giving back
 , the good of the developer community, a more diverse Open Source
