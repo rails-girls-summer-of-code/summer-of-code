@@ -464,6 +464,19 @@
       years:
         - 2015
         - 2016
+    - name: Envato
+      id: envato
+      url: http://www.envato.com
+      text: |-
+        <a href="http://www.envato.com/" target="_blank">Envato</a> is the
+        Melburne-based company behind an ecosystem of sites that helps millions of
+        people earn and learn. They love Summer, Rails, and supporting women in the
+        tech community, which makes Rails Girls Summer of Code & Envato a match made in
+        Internet heaven.
+      years:
+        - 2013
+        - 2014
+        - 2016
     # - name: Tealeaf Academy
     #   id: tealeaf
     #   url: http://gotealeaf.com
@@ -802,15 +815,6 @@
     #     PaaS written in Ruby. Anynines is operated by enterprise-rails.com, a
     #     Rails-focused hosting service and a division of Avarteq. This year they are
     #     joining us as a co-organizer and supporter.
-    # - name: Envato
-    #   id: envato
-    #   url: http://www.envato.com
-    #   text: |-
-    #     <a href="http://www.envato.com/" target="_blank">Envato</a> is the
-    #     Melburne-based company behind an ecosystem of sites that helps millions of
-    #     people earn and learn. They love Summer, Rails, and supporting women in the
-    #     tech community, which makes Rails Girls Summer of Code & Envato a match made in
-    #     Internet heaven. They also are one of our amazing Coaching Companies.
     # - name: Orcasnet
     #   id: orcasnet
     #   url: http://orcasnet.com
