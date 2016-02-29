@@ -437,6 +437,20 @@
         these communities with us.
       years:
         - 2016
+    - name: ActBlue
+      id: actblue
+      url: http://actblue.com
+      text: |-
+        <a href="http://actblue.com">ActBlue</a> is a non-profit that builds
+        fundraising technology for the left. Our mission is to democratize power and
+        help small-dollar donors make their voices heard in a real way. We develop
+        top-of-the-line fundraising software and offer simple and intuitive tools to
+        help Democratic campaigns and progressive organizations connect with grassroots
+        donors. We're supporting Rails Girls Summer of Code because we want to help
+        women find innovative solutions to the world's biggest problems.
+      years:
+        - 2015
+        - 2016
     # - name: Tealeaf Academy
     #   id: tealeaf
     #   url: http://gotealeaf.com
@@ -755,19 +769,6 @@
     #     in technology.
     #   years:
     #     - 2014
-    #     - 2015
-    # - name: ActBlue
-    #   id: actblue
-    #   url: http://actblue.com
-    #   text: |-
-    #     <a href="http://actblue.com">ActBlue</a> is a non-profit that builds
-    #     fundraising technology for the left. Our mission is to democratize power and
-    #     help small-dollar donors make their voices heard in a real way. We develop
-    #     top-of-the-line fundraising software and offer simple and intuitive tools to
-    #     help Democratic campaigns and progressive organizations connect with grassroots
-    #     donors. We're supporting Rails Girls Summer of Code because we want to help
-    #     women find innovative solutions to the world's biggest problems.
-    #   years:
     #     - 2015
     # - name: 8th Light
     #   id: eighthlight
