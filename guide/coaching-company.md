@@ -112,7 +112,7 @@ Get the word out about you wanting to become a coaching company: talk about your
 
 #### An example on becoming a Coaching Company
 
-Absolventa, a Berlin-based company which was a Coaching Company during RGSoC 2013, wants to host a team this year again. These are the steps they took to promote themselves to the students:
+Absolventa, a Berlin-based company which hosted a team during RGSoC 2013, wants to participate this year again. Here are the steps they took to promote themselves to the students.
 
 They **tweeted** about their intentions, including information about where they are located and which languages they can coach in:
 
