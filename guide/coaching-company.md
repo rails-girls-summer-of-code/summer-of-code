@@ -14,7 +14,7 @@ developers passionate about helping newcomers and working on Open Source?
 
 You might just have what it takes to be a coaching company. -->
 
-Summer of Code students need a place to work. While working from home is an option for some
+Summer of Code students need a place to work; while working from home is an option for some
 participants, having the exposure to a productive work environment and ready
 access to coaches is extremely valuable.
 
@@ -22,20 +22,18 @@ Companies that provide this work environment to our teams are called Coaching Co
 
 
 
-* <a href="#q3">What does a Coaching Company do?</a>
-* <a href="#q4">What Coaching Companies don't do</a>
-* <a href="#q2">What makes a good Coaching Company?</a>
+* <a href="#q3">What is a Coaching Company?</a>
 * <a href="#q5">Where are Coaching Companies located?</a>
-* <a href="#q6">How to become a Coaching Company</a>
-* <a href="#q8">An example for how to become a Coaching Company</a>
-* <a href="#q4b">What if our team is not chosen?</a>
+* <a href="#q2">What makes a good Coaching Company?</a>
+* <a href="#q6">Becoming a Coaching Company</a>
 * <a href="#q1">Why should we be a Coaching Company?</a>
+* <a href="#q4b">What if our team is not chosen?</a>
 * <a href="#q7">We have more questions!</a>
 
 
-<h2 id="q3">What does a Coaching Company do?</h2>
+<h3 id="q3">What is a Coaching Company?</h3>
 
-* Provide a home for three months including:
+* A coaching company provides students a home for three months including:
 	* A dedicated space in an office
 	* Available coaches
 
@@ -46,12 +44,11 @@ Companies that provide this work environment to our teams are called Coaching Co
 
 In essence, you give away a piece of space in your office for your team to work
 in and make sure that team have access to developers to coach them. All of the
-extras are up to you. You might want your team to present their work at weekly
+extras are up to you: You might want your team to present their work at weekly
 team meetings so you can stay up-to-date on their progress, or support them to
 attend conferences and meetups.
 
-
-<h2 id="q4">What Coaching Companies don't do</h2>
+#### What Coaching Companies *don't* do
 
 * Coaching companies do not provide financial assistance to teams, nor should
   they use remuneration as an incentive to attract a team.
@@ -59,11 +56,27 @@ attend conferences and meetups.
   product.
 * Coaching companies can't demand their teams be chosen.
 
-<h2 id="q2">What makes a good Coaching Company?</h2>
+<h3 id="q5">Where are Coaching Companies located?</h3>
+
+Planet Earth.
+
+Rails Girls Summer of Code is an international initiative, and our participants
+work on their projects all over the world.
+
+We highly encourage companies from all over the world to get involved. We are
+aiming at having participants from a greater variety of countries in 2016. There is probably a team that
+could do with your support — wherever you are located.
 
 <div class="resize">
-	<img src="/img/blog/2015/exercistas_first_day.jpg">
+  <img src="/img/blog/2015/2015-teams-map.png">
 </div>
+<font color="grey"><small><i>Locations of Teams in 2015</i></small></font>
+
+<h3 id="q2">What makes a good Coaching Company?</h3>
+
+<div class="resize">    
+  <img src="/img/blog/2015/exercistas_first_day.jpg">   
+</div>    
 <font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
 
 Any company with a respectful and inclusive culture, desk space, good internet, and a team of
@@ -74,8 +87,7 @@ Travis CI (2013), 6Wunderkinder (2014), SoundCloud (2013, 2014, 2015), NIRD (201
 
 **We expect coaching companies to host teams in a safe and productive work
 environment**, but other than that, there is no "one size fits all" coaching company.
-The one thing they all have in common is the inherent value they see in supporting a
-team in and of itself.
+The one thing they all have in common is the value they see in supporting a team, no strings attached.
 
 <!--<h2 id="q4a">Working with a volunteer team</h2>
 
@@ -83,25 +95,9 @@ Teams who don't get a sponsored seat but still want to participate and work on
 their project are called volunteer teams. We will select a small number of volunteer teams that get a seat in our program. They will get the same support that sponsored teams get - minus the stipend. -->
 
 
-<h2 id="q5">Where are Coaching Companies located?</h2>
+<h3 id="q6">Becoming a Coaching Company</h3>
 
-
-Planet Earth.
-
-Rails Girls Summer of Code is an international initiative, and our participants
-work on their projects all over the world.
-
-We highly encourage companies from all over the world to get involved. We are
-aiming at having participants from a greater variety of countries in 2016. There is probably a team that
-could do with your support - wherever you are located.
-
-<div class="resize">
-	<img src="/img/blog/2015/2015-teams-map.png">
-</div>
-<font color="grey"><small><i>Locations of Teams in 2015</i></small></font>
-
-<h2 id="q6">How to become a Coaching Company</h2>
-
+To become a coaching company: 
 
 1) **Register yourself and your coaches on our <a href="http://teams.railsgirlssummerofcode.org">Teams App</a>.**
 
@@ -119,14 +115,9 @@ Include the info that you are offering your space and coaches. You can spread th
 
 Get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a RGSoC team. We're happy to share your post on our social networks, and help you find a team for 2016!
 
-<h2 id="q4b">What if our team is not chosen?</h2>
+#### An example on becoming a Coaching Company
 
-If your team is not chosen (neither as a sponsored nor a volunteer team), you are still free to do your own summer of code together with two very passionate women working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions during the summer.
-
-
-<h2 id="q8">An example for how to become a Coaching Company</a></h2>
-
-Absolventa, a Berlin based company who was a Coaching Company during RGSoC 2013, wants to host a team this year again. This is how they promote themselves to the students:
+Absolventa, a Berlin-based company which hosted a team during RGSoC 2013, wants to participate this year again. Here are the steps they took to promote themselves to the students.
 
 They **tweeted** about their intentions, including information about where they are located and which languages they can coach in:
 
@@ -153,17 +144,15 @@ They also **wrote a more detailed blog post** including the following details:
 ---
 Read their full blog post: <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"> Let's work together during RGSoC 2016</a>
 
-<h2 id="q1">Why should we become a Coaching Company?</h2>
+<h3 id="q1">Why should we become a Coaching Company?</h3>
 
-<div class="resize">
-	<img src="/img/blog/2015/CG-FirstWeekGH.JPG">
-</div>
+<div class="resize">    
+  <img src="/img/blog/2015/CG-FirstWeekGH.JPG">   
+</div>    
 <font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>
 
-There are tons of good reasons to be a coaching company; giving back
-, the good of the developer community, a more diverse Open Source
-contributor network, and much more. However, one of the best parts of being a
-Coaching Company is the huge amount of organic publicity your company garners.
+There are tons of good reasons to be a coaching company; giving back to the developer community, a more diverse Open Source
+contributor network, and more. However, one of the best parts of being a Coaching Company is the huge amount of organic publicity your company receives.
 
 <!-- // NEEDS TO FIND BETTER TWEETS (with more impressions)
 
@@ -190,6 +179,10 @@ personal recommendations from participants, mentions at conferences, events and 
 Being a Coaching Company has a very direct effect on the lives and projects of
 participants, and makes your company an extremely attractive one to potential
 hires, conference organisers, tech bloggers, journalists and media outlets.
+
+<h3 id="q4b">What if our team is not chosen?</h3>
+
+If your team is not chosen (neither as a sponsored nor a volunteer team), you are still free to do your own summer of code together with two very passionate women working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions during the summer.
 
 
 <h2 id="q7">We have more questions!</h2>
