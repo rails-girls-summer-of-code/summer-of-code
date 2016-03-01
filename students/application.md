@@ -44,6 +44,8 @@ All people with non-binary gender identities or who identify as women are welcom
 
 * who can spend 3 months (July to September 2016) working **full-time** on their Open Source project of choice.
 
+* who have never participated in our program as a sponsored team before.
+
 You do **not** have to be a student at a University to apply, and there are certainly no degree or age limitations.  
 
 <h3 id="stipend">How much is the scholarship?</h3>
