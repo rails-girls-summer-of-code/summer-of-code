@@ -74,6 +74,11 @@ could do with your support — wherever you are located.
 
 <h3 id="q2">What makes a good Coaching Company?</h3>
 
+<div class="resize">    
+  <img src="/img/blog/2015/exercistas_first_day.jpg">   
+</div>    
+<font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
+
 Any company with a respectful and inclusive culture, desk space, good internet, and a team of
 developers can make a good Coaching Company.
 
@@ -140,6 +145,11 @@ They also **wrote a more detailed blog post** including the following details:
 Read their full blog post: <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"> Let's work together during RGSoC 2016</a>
 
 <h3 id="q1">Why should we become a Coaching Company?</h3>
+
+<div class="resize">    
+  <img src="/img/blog/2015/CG-FirstWeekGH.JPG">   
+</div>    
+<font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>
 
 There are tons of good reasons to be a coaching company; giving back to the developer community, a more diverse Open Source
 contributor network, and more. However, one of the best parts of being a Coaching Company is the huge amount of organic publicity your company receives.
