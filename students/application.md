@@ -12,7 +12,7 @@ permalink: /students/application/
 
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
-**Applications for Rails Girls Summer of Code 2016 will open end of February (exact date will follow) and will close on March 15th, at 18:00 CET**.
+**Applications for Rails Girls Summer of Code 2016 will open soon. We'll annonce the exact date here and via [twitter](http://twitter.com/railsgirlssoc), so stay tuned.**.
 
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
