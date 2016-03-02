@@ -74,9 +74,9 @@ could do with your support — wherever you are located.
 
 <h3 id="q2">What makes a good Coaching Company?</h3>
 
-<div class="resize">    
-  <img src="/img/blog/2015/exercistas_first_day.jpg">   
-</div>    
+<div class="resize">
+  <img src="/img/blog/2015/exercistas_first_day.jpg">
+</div>
 <font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
 
 Any company with a respectful and inclusive culture, desk space, good internet, and a team of
@@ -97,9 +97,9 @@ their project are called volunteer teams. We will select a small number of volun
 
 <h3 id="q6">Becoming a Coaching Company</h3>
 
-To become a coaching company: 
+To become a coaching company:
 
-1) **Register yourself and your coaches on our <a href="http://teams.railsgirlssummerofcode.org">Teams App</a>.**
+1) **Register yourself and your coaches on our <a href="https://teams.railsgirlssummerofcode.org">Teams App</a>.**
 
 Students who are looking for a Coaching Company can find you there.
 
@@ -146,9 +146,9 @@ Read their full blog post: <a href="http://devnull.absolventa.de/2016/02/25/we-w
 
 <h3 id="q1">Why should we become a Coaching Company?</h3>
 
-<div class="resize">    
-  <img src="/img/blog/2015/CG-FirstWeekGH.JPG">   
-</div>    
+<div class="resize">
+  <img src="/img/blog/2015/CG-FirstWeekGH.JPG">
+</div>
 <font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>
 
 There are tons of good reasons to be a coaching company; giving back to the developer community, a more diverse Open Source

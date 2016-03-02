@@ -40,7 +40,7 @@ Application Guide: [railsgirlssummerofcode.org/application-guide/](http://railsg
 
 Projects examples: [railsgirlssummerofcode.org/blog/where-to-start/](http://railsgirlssummerofcode.org/blog/where-to-start/)
 
-Apply here: [teams.railsgirlssummerofcode.org/application](http://teams.railsgirlssummerofcode.org/application)
+Apply here: [teams.railsgirlssummerofcode.org/application](https://teams.railsgirlssummerofcode.org/application)
 
 
 

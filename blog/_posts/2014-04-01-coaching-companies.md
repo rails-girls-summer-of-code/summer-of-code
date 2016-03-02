@@ -18,7 +18,7 @@ Last year, our dear friends at SoundCloud offered coaching and space to our stud
 
 <img src="http://25.media.tumblr.com/3ceb453d2a688392e2da5baabad6d24f/tumblr_mp25l8KK6t1swqx92o1_500.gif" width="500">
 
-**Did you know that** being a Coaching Company means that coaches employed by the company will have to prepare one (or many) team’s application together with the students. If you are thinking about applying to Rails Girls Summer of Code, it might just be a good idea to [register at our teams app]( http://teams.railsgirlssummerofcode.org/), to find a coach at either of these companies.
+**Did you know that** being a Coaching Company means that coaches employed by the company will have to prepare one (or many) team’s application together with the students. If you are thinking about applying to Rails Girls Summer of Code, it might just be a good idea to [register at our teams app]( https://teams.railsgirlssummerofcode.org/), to find a coach at either of these companies.
 
 
 

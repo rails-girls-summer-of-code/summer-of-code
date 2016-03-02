@@ -19,4 +19,4 @@ And that's not all. Hashrocket supports Rails Girls Summer of Code as a Silver s
 
 We are always looking for more people to join the helpdesk.
 
-In case you are interested, please register via our [Teams application](http://teams.railsgirlssummerofcode.org/) and specify your role as "Helping as a remote coach (helpdesk)". Then sign in to our [Campfire chat room](https://railsgirlssummerofcode.campfirenow.com/33c5b), and you're good to go!
+In case you are interested, please register via our [Teams application](https://teams.railsgirlssummerofcode.org/) and specify your role as "Helping as a remote coach (helpdesk)". Then sign in to our [Campfire chat room](https://railsgirlssummerofcode.campfirenow.com/33c5b), and you're good to go!

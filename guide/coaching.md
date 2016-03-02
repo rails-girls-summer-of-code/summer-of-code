@@ -70,7 +70,7 @@ permalink: /guide/coaching/
 * Spread the word on Twitter
 
 
-<p>As a first step you can register yourself as a coach here: <a href="http://teams.railsgirlssummerofcode.org/">teams.railsgirlssummerofcode.org/</a>.
+<p>As a first step you can register yourself as a coach here: <a href="https://teams.railsgirlssummerofcode.org/">teams.railsgirlssummerofcode.org/</a>.
 
 <p>If you don't know any students yet, reach out to your local <a href="http://railsgirls.com/">Rails Girls chapter</a>. There you can get to know students and other coaches. We also recommend reaching out to local developer and Ruby user groups, as well as study groups (if there are any in your area).</p>
 
