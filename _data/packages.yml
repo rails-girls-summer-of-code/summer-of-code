@@ -493,8 +493,8 @@
     - name: StatusPage
       id: statuspage
       url: https://statuspage.io
-      text: |-
-        # <a href="https://statuspage.io/">StatusPage</a>
+      # text: |-
+      #   <a href="https://statuspage.io/">StatusPage</a>
       years:
         - 2016
     # - name: Tealeaf Academy
