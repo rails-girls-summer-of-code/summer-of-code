@@ -497,6 +497,19 @@
       #   <a href="https://statuspage.io/">StatusPage</a>
       years:
         - 2016
+    - name: Articulate
+      id: articulate
+      url: https://www.articulate.com
+      text: |-
+        <a href="https://www.articulate.com/" target="_blank">Articulate</a> makes
+        software that gives millions of people access to life-changing education. We’re
+        passionate about removing barriers to learning, and supporting women in tech.
+        Sponsoring Rails Girls is one way we’re living out these values. We’re honored
+        to help bring more women into the wonderful world of code.
+      years:
+        - 2014
+        - 2015
+        - 2016
     # - name: Tealeaf Academy
     #   id: tealeaf
     #   url: http://gotealeaf.com
@@ -671,18 +684,6 @@
     #   id: railslove
     #   url: http://www.railslove.com
     #   years:
-    #     - 2015
-    # - name: Articulate
-    #   id: articulate
-    #   url: https://www.articulate.com
-    #   text: |-
-    #     <a href="https://www.articulate.com/" target="_blank">Articulate</a> makes
-    #     software that gives millions of people access to life-changing education. We’re
-    #     passionate about removing barriers to learning, and supporting women in tech.
-    #     Sponsoring Rails Girls is one way we’re living out these values. We’re honored
-    #     to help bring more women into the wonderful world of code.
-    #   years:
-    #     - 2014
     #     - 2015
     # - name: Planio
     #   id: planio
