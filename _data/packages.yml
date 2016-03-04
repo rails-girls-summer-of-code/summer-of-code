@@ -42,7 +42,7 @@
   sponsors:
     - name: Google
       id: google
-      url: https://developers.google.com/open-source/
+      url: https://developers.google.com/open-source
       text: |-
         <a href="https://developers.google.com/open-source/" target="_blank">Google</a>
         is a multinational corporation specializing in Internet-related services and
@@ -61,7 +61,7 @@
   sponsors:
     - name: GitLab
       id: gitlab
-      url: https://about.gitlab.com/
+      url: https://about.gitlab.com
       text: |-
         <a href="https://about.gitlab.com/">GitLab</a> is a community project primarily
         written in Ruby on Rails. Over 1000 people worldwide have contributed! GitLab
@@ -88,7 +88,7 @@
         - 2014
         - 2015
         - 2016
-   - name: Malwarebytes
+    - name: Malwarebytes
       id: malwarebytes
       url: http://www.malwarebytes.org
       text: |-
@@ -114,7 +114,6 @@
         - 2013
         - 2014
         - 2016
-
 - name: Silver
   title: Silver Sponsors
   sponsors:
