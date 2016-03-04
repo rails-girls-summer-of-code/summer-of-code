@@ -38,9 +38,25 @@
         - 2015
         - 2016
 
-# - name: Platinum
-#   title: Platinum Sponsors
-#   sponsors:
+- name: Platinum
+  title: Platinum Sponsors
+  sponsors:
+    - name: Google
+      id: google
+      url: https://developers.google.com/open-source/
+      text: |-
+        <a href="https://developers.google.com/open-source/" target="_blank">Google</a>
+        is a multinational corporation specializing in Internet-related services and
+        products. They also are contributing to Open Source whith their own Open Source
+        program. Their Open Source section releases Google-created code, providing
+        vital infrastructure, supporting Open Source organizations, handling internal
+        Open Source compliance, and by running student outreach programs such as Google
+        Summer of Code and Google Code-in.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
 #     - name: Mandrill
 #       id: mandrill
 #       url: http://mandrill.com
@@ -102,23 +118,7 @@
         - 2014
         - 2015
         - 2016
-    - name: Google
-      id: google
-      url: https://developers.google.com/open-source/
-      text: |-
-        <a href="https://developers.google.com/open-source/" target="_blank">Google</a>
-        is a multinational corporation specializing in Internet-related services and
-        products. They also are contributing to Open Source whith their own Open Source
-        program. Their Open Source section releases Google-created code, providing
-        vital infrastructure, supporting Open Source organizations, handling internal
-        Open Source compliance, and by running student outreach programs such as Google
-        Summer of Code and Google Code-in.
-      years:
-        - 2013
-        - 2014
-        - 2015
-        - 2016
-    - name: Malwarebytes
+   - name: Malwarebytes
       id: malwarebytes
       url: http://www.malwarebytes.org
       text: |-
