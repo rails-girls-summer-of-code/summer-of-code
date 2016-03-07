@@ -95,20 +95,6 @@
     #     RailsGirls promotes.
     #   years:
     #     - 2015
-    # - name: Innoq
-    #   id: innoq
-    #   url: http://www.innoq.com
-    #   text: |-
-    #     <a href="https://www.innoq.com" target="_blank">innoQ</a> is a
-    #     consulting and software development firm with a focus on technology and
-    #     architecture, doing Rails development since 2007. We are supporting Rails Girls
-    #     Summer of Code for the second time because we want to help increase the number
-    #     of women who consider a career in tech and foster their chances to achieve this
-    #     goal.
-    #   years:
-    #     - 2013
-    #     - 2014
-    #     - 2015
     # - name: Xing
     #   id: xing
     #   url: http://xing.com
