@@ -88,7 +88,7 @@ A good place to start is to have a look <a href="https://teams.railsgirlssummero
 
 <h3 id="place-application">Placing your application</h3>
 
-**Applications for Rails Girls Summer of Code 2016 will open end of February and will close on March 15th, at 18:00 CET**.
+**Applications for Rails Girls Summer of Code 2016 will open soon**.
 
 In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application.
 
