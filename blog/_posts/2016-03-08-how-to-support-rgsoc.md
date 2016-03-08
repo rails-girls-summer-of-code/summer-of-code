@@ -24,11 +24,11 @@ While we are working towards equality all year round, today is an especially goo
 *Fund our mission* 
 
 
-To make RGSoC possible, we need sponsors! This program with all that it entails can only happen with the help of amazing people donating small or large [donations](http://railsgirlssummerofcode.org/campaign). We are so happy to have amazing companies already on board again for this year like Github, Travis CI, Google Open Source, Gitlab, Basecamp and many more. We already have amazing 8 teams funded, and only 4 to go. 
+To make RGSoC possible, we need sponsors! This program with all that it entails can only happen with the help of amazing people donating small or large [donations](http://railsgirlssummerofcode.org/campaign). We are so happy to have amazing companies already on board again for this year like Github, Travis CI, Google Open Source, Gitlab, Basecamp and many more. We already have already 8 teams funded, and only 4 to go. 
 
 <a href="http://railsgirlssummerofcode.org/campaign"><img src="/img/blog/2016/progress_8_march.png"></a>
 
-Here you can find our [Sponsorshop packages](http://railsgirlssummerofcode.org/sponsors/packages) with all perks a company's heart can imagine - we even single handedly pack and send out out [lovely care packages](http://railsgirlssummerofcode.org/blog/2015-09-30-swag-packing) to students with your merchandise. 
+Here you can find our [Sponsorshop packages](http://railsgirlssummerofcode.org/sponsors/packages) with all perks a company's heart can imagine - we even single handedly pack and send out our [lovely care packages](http://railsgirlssummerofcode.org/blog/2015-09-30-swag-packing) to students with your merchandise. 
 
 
 ### Coaching Companies 
@@ -43,7 +43,7 @@ Your can register here: [https://teams.railsgirlssummerofcode.org/](https://team
 ### Helpdesk
 *Remote coaching*
 
-Your devs can also help out in our remote #helpdesk Slack channel during the summer, where students can ask for help if their coaches are not available or are stuck as well. If you are interested in that, you should register in our [Teams-App](https://teams.railsgirlssummerofcode.org/) as well and tick the "Interested in helping out as helpdesk coach" box. We'll write a gratious blog post about your involvment and will mention you in our tweets and Facebookpostings with lots of love.  
+Your devs can also help out in our remote #helpdesk Slack channel during the summer, where students can ask for help if their coaches are not available or are stuck as well. If you are interested in that, you should register in our [Teams-App](https://teams.railsgirlssummerofcode.org/) as well and tick the "Interested in helping out as helpdesk coach" box. We'll write a grateful blog post about your involvmeent and will mention you in our tweets and Facebookpostings with lots of love.  
 
 
 We hope you'll join us in one way or another on our journey to bring more women into the OSS world. [Contact us](mailto:summer-of-code@railsgirls.com) if you have more questions.
