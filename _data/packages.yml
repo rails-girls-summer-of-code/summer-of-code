@@ -401,3 +401,19 @@
         - 2014
         - 2015
         - 2016
+    - name: Shopify
+      id: shopify
+      url: https://www.shopify.com
+      text: |-
+        <a href="http://www.shopify.com/" target="_blank">Shopify</a>
+        is a commerce platform that allows anyone to easily sell online, at their
+        retail location, and everywhere in between. Shopify powers over
+        150,000 retailers in 150 different countries, and was
+        one of the first companies built on Ruby
+        on Rails. We are proud to support Rails Girls Summer of Code in their mission
+        to increase diversity in tech and contribute to Open Source projects.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
