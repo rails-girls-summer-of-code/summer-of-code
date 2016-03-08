@@ -2,7 +2,6 @@
 layout: page
 title: Application Guide
 class: page page-application
-sidebar: content
 current: application
 current-sub: application
 permalink: /students/application/
@@ -10,7 +9,14 @@ permalink: /students/application/
 
 <h1>{{page.title}}</h1>
 
+
+<p><div class="resize-whitespace">
+<img src="/img/guides/howtoapply_2016.png">
+</div>
+</p>
+
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
+
 
 **Applications for Rails Girls Summer of Code 2016 will open soon. We'll announce the exact date here and on [twitter](http://twitter.com/railsgirlssoc), so stay tuned.**.
 
