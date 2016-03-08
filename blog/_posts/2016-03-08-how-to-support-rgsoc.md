@@ -24,7 +24,7 @@ While we are working towards equality all year round, today is an especially goo
 *Fund our mission* 
 
 
-To make RGSoC possible, we need sponsors! This program with all that it entails can only happen with the help of amazing people donating small or large [donations](http://railsgirlssummerofcode.org/campaign). We are so happy to have amazing companies already on board again for this year like Github, Travis CI, Google Open Source, Gitlab, Basecamp and many more. We already have already 8 teams funded, and only 4 to go. 
+To make RGSoC possible, we need sponsors! This program with all that it entails can only happen with the help of amazing people donating small or large [donations](http://railsgirlssummerofcode.org/campaign). We are so happy to have amazing companies already on board again for this year like Github, Travis CI, Google Open Source, Gitlab, Basecamp and many more. We already have already 8 teams funded, and only 4 to go. Help us [fund those last teams](http://railsgirlssummerofcode.org/campaign)! 
 
 <a href="http://railsgirlssummerofcode.org/campaign"><img src="/img/blog/2016/progress_8_march.png"></a>
 
