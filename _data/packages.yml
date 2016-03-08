@@ -406,10 +406,9 @@
       url: https://www.shopify.com
       text: |-
         <a href="http://www.shopify.com/" target="_blank">Shopify</a>
-        is a commerce platform that allows anyone to easily sell online, at their
-        retail location, and everywhere in between. Shopify powers over
-        150,000 retailers in 150 different countries, and was
-        one of the first companies built on Ruby
+        is a leading cloud-based, multichannel commerce platform designed for small and
+        medium-sized businesses. Shopify currently powers over 243,000 businesses in
+        approximately 150 countries, and was one of the first companies built on Ruby
         on Rails. We are proud to support Rails Girls Summer of Code in their mission
         to increase diversity in tech and contribute to Open Source projects.
       years:
