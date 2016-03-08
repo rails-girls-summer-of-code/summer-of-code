@@ -9,7 +9,7 @@ twitter: RailsGirlsSoC
 ---
 
 
-What better day to think about getting more women into Open Source than today - on International Women's Day! 
+What better day to think about getting more women into Open Source than today - on [International Women's Day](http://www.libertyclick.org/wp-content/uploads/A-Womans-Place-is-in-the-Revolution.jpg)! 
 
 While we are working towards equality all year round, today is an especially good day to shed some light on how you and your company can support us in this mission: 
 
