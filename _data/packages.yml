@@ -325,12 +325,10 @@
       id: actblue
       url: http://actblue.com
       text: |-
-        <a href="http://actblue.com">ActBlue</a> is a non-profit that builds
-        fundraising technology for the left. Our mission is to democratize power and
-        help small-dollar donors make their voices heard in a real way. We develop
-        top-of-the-line fundraising software and offer simple and intuitive tools to
-        help Democratic campaigns and progressive organizations connect with grassroots
-        donors. We're supporting Rails Girls Summer of Code because we want to help
+        <a href="http://actblue.com">ActBlue</a> builds and powers the premier online
+        fundraising platform for Democratic campaigns, progressive organizations, and
+        charities working to create a better future.
+        We're supporting Rails Girls Summer of Code because we want to help
         women find innovative solutions to the world's biggest problems.
       years:
         - 2015
