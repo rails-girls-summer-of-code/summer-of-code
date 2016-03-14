@@ -11,8 +11,6 @@ twitter: RailsGirlsSoC
 ![Extra Week of OSS project submissions](/img/blog/2016/extra-week-for-oss-projects.gif)
 
 
-Extra Week of OSS project submissions starts today! 
-
 Good news for all project maintainers: We are re-opening up our project submissions for one extra special week. This gives you more time to submit your Open Source project still for RGSoC 2016!
 
 As you may have noticed, we have closed our project submissions in February. Since then, we have been receiving messages from people who really wanted to submit their projects as well, but for many reasons, they missed the deadline. After a careful reflection, we decided to give everyone an extra week to submit their OSS projects.
