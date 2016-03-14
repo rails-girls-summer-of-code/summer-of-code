@@ -4,7 +4,7 @@ layout: post
 created_at: Mon Mar 14 2016
 permalink: blog/2016-03-14-extra-week-for-oss-projects
 current: blog
-author: Ana Sofia and Anika
+author: Ana Sofia
 twitter: RailsGirlsSoC
 ---
 
