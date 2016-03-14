@@ -414,3 +414,9 @@
         - 2014
         - 2015
         - 2016
+    - name: Sentry
+      id: sentry
+      url: https://getsentry.com
+      text: |-
+      years:
+        - 2016
