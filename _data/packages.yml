@@ -114,6 +114,19 @@
         - 2013
         - 2014
         - 2016
+    - name: Compose
+      id: compose
+      url: https://compose.io
+      text: |-
+        <a href="https://www.compose.io/">Compose</a> is a Database As A Service (DBaaS)
+        company, offering developers the tools to deploy and manage MongoDB,
+        Elasticsearch, Redis, RethinkDB & PostgreSQL databases quickly and easily,
+        so developers don't have to worry about their database. Compose is
+        committed to equality in the technology field and is proud to partner
+        with Rails Girls Summer of Code.
+      years:
+        - 2015
+        - 2016
 - name: Silver
   title: Silver Sponsors
   sponsors:
