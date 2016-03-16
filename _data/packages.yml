@@ -420,3 +420,11 @@
       text: |-
       years:
         - 2016
+    - name: LaunchSchool
+      id: launchschool
+      url: http://launchschool.com
+      text: |-
+      years:
+        - 2014
+        - 2015
+        - 2016

@@ -112,19 +112,6 @@
     #     supporting diversity in tech and great open source projects at the same time.
     #   years:
     #     - 2015
-    # - name: Tealeaf Academy
-    #   id: tealeaf
-    #   url: http://gotealeaf.com
-    #   text: |-
-    #     <a href="http://www.gotealeaf.com/" target="_blank">Tealeaf Academy</a> is an
-    #     online school for learning professional grade web development. Its 3-course
-    #     bootcamp-style curriculum takes students from development fundamentals to
-    #     building complex production quality web applications. Tealeaf believes in the
-    #     RailsGirls mission, and are strong supporters of diversity in the programming
-    #     industry.
-    #   years:
-    #     - 2014
-    #     - 2015
     # - name: Site5
     #   id: site5
     #   url: http://www.eng5.com/rails-girls-summer-of-code
