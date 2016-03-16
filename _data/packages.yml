@@ -437,6 +437,11 @@
       id: launchschool
       url: http://launchschool.com
       text: |-
+        <a href="http://launchschool.com">Launch School</a> is an online school for
+        serious beginners who want to change careers to software development. Our
+        program is about slowly building up proficiency in fundamentals, while at the
+        same time exposing you to new workflows and practices. We believe in the
+        mission at RailsGirls and are proud 3rd time sponsors!
       years:
         - 2014
         - 2015
