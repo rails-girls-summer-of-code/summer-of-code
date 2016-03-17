@@ -1,0 +1,75 @@
+---
+title: How to apply for RGSoC 2016 — in five steps
+layout: post
+created_at: Tue Mar 17 2016
+permalink: blog/
+current: blog
+author: Lieke
+twitter: RailsGirlsSoC
+---
+
+![](/img/blog/2016/howtoapply_2016.png)
+
+<div style="text-align:right"><font color="grey"><small><i>Illustration: Rebecca Conrad</i></small></font></small></div>
+<br>
+Today we’re officially opening the applications for Rails Girls Summer of Code 2016! Our brilliant Rebecca Conrad crafted this step-by-step illustration about how to apply in 5 steps.
+
+### First things first: Who can apply?
+
+<img src="/img/blog/2016/you.jpg" style="width:200px">
+
+Our aim is to create opportunities for new coders on further learning. For this reason, we are looking for applicants who attended at least one Rails Girls or a comparable community-built workshop like Black Girls Code, PyLadies or similar initiatives.
+
+While no one is discouraged from applying on the basis of gender, preference will be given to applicants who identify or have been socialized as female.
+
+One of the most important things: you have to be able to  spend 3 months (July to September 2016) working full-time on your project, so you’re not able to go on holiday during this period.
+
+In short: if you identify as female, participated in a coding workshop and don’t have any (other) plans from July to September 2016, you’re very welcome to apply!
+
+### Second: Find a Pair
+
+<img src="/img/blog/2016/pair.jpg" style="width:200px">
+
+One of the requirements of the Summer of Code is that you are a two-person team, living in the same city and being able to meet up every day. It’s not possible to apply alone.
+
+If you don’t have a teammate yet, be sure to find one before submitting your application. Understand that it’s important that you're able work together very closely during the three months of the program. Setting up a team means not just finding someone else to lodge an application with, but someone who you will need to get along with in this period of intense project work.
+
+You don’t know how to find a pair? Read more in [our guide](http://railsgirlssummerofcode.org/students/finding-your-team/).
+
+### Third: Find coaches
+
+<img src="/img/blog/2016/coaches.jpg" style="width:200px">
+
+We require you to have at least two local coaches. Coaches are developers who are able to give you guidance during the summer: they sit down with you, guide you through relevant coding steps and fine-tune with you at regular intervals (4 to 8 hours a week).
+
+We’ve put together some advice on finding coaches [here](http://railsgirlssummerofcode.org/students/finding-your-team/).
+
+If you know someone who’d like to be your coach, you can direct them to our [guide for coaches](http://railsgirlssummerofcode.org/guide/coaching/).
+
+### Fourth: Find a coaching company / workspace
+
+<img src="/img/blog/2016/workspace.jpg" style="width:200px">
+
+A coaching company provides your team a place to work from during the summer. They’ll provide you with office space and a team of coaches. It is a bonus on your application if you can find a place where you’ll be working together with your teammate and your coaches.
+
+And yes, there’s also a guide for [coaching companies](http://railsgirlssummerofcode.org/guide/coaching-company/) for you to share.
+
+### Fifth: Choose a project
+
+<img src="/img/blog/2016/project.jpg" style="width:200px">
+
+If you found a teammate, coaches and a place to work, there’s only one thing left to do: choosing a project.
+
+A good place to start is to have a look here at [our list](https://teams.railsgirlssummerofcode.org/projects) of Open Source projects approved for RGSoC 2016. Be sure to ask your coaches for their input on which project they feel would be most suitable for you and for them to help you with.
+
+If you want to work on a project that’s not on the list, the maintainers need to submit their project to us first. You can find more information on becoming a Project Mentor and submitting a project in [our guide](http://railsgirlssummerofcode.org/guide/projects/) for Mentors.
+
+### Apply
+
+<img src="/img/blog/2016/apply.jpg" style="width:200px">
+
+Can you check off all of these steps? Yay! Then you’re ready to submit your application. Before you do, we recommend you to head over to our Students Section and to check out the full [application guide](http://railsgirlssummerofcode.org/students/application/). Good luck applying and we’re looking forward to reading your application!
+
+If you have more questions on how to apply, you can also hop into our [Student Support Slack channel](https://rgsoc-student-application.herokuapp.com/).
+
+Let’s get another amazing summer started!
