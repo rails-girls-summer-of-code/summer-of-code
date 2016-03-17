@@ -18,7 +18,7 @@ permalink: /students/application/
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
 
-**Applications for Rails Girls Summer of Code 2016 will open soon. We'll announce the exact date here and on [twitter](http://twitter.com/railsgirlssoc), so stay tuned.**.
+**Applications for Rails Girls Summer of Code 2016 are open and will close Sunday, April 10 2016 at 18:59:00 UTC**.
 
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
@@ -37,6 +37,7 @@ permalink: /students/application/
   <li><a href="#requirements-program">Requirements during the program</a></li>
   <li><a href="#volunteer-teams">A note on volunteer teams</a></li>
   <li><a href="#checklist">Before you apply: the checklist</a></li>
+  <li><a href="#student-support">More questions? Join our Student Support Channel</a></li>
 </ul>
 
 
@@ -148,5 +149,12 @@ Here is the basic checklist for your application:
 <span class="glyphicon glyphicon-unchecked"></span> Has your team found a suitable workspace for the duration of the program?  
 <span class="glyphicon glyphicon-unchecked"></span> Do you agree with and meet all of the requirements listed above?  
 
+Then go ahead and create your application here: <a href="https://teams.railsgirlssummerofcode.org/">https://teams.railsgirlssummerofcode.org/</a>
 
+If you need help setting up your application, go to the "Help" Section in our teams app: <a href="https://teams.railsgirlssummerofcode.org/">https://teams.railsgirlssummerofcode.org/pages/help<a href="https://teams.railsgirlssummerofcode.org/">. 
+
+<h3 id="student-support">More questions?</h3>
+
+
+If you have more questions on how to apply, you can also hop into our <a href="https://rgsoc-student-application.herokuapp.com/">Student Support Slack channel</a>.
 
