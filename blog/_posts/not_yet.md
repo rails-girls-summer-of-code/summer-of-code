@@ -2,7 +2,7 @@
 title: How to apply for RGSoC 2016 — in five steps
 layout: post
 created_at: Tue Mar 17 2016
-permalink: blog/2016-03-17-how-to-apply-2016
+permalink: blog/
 current: blog
 author: Lieke
 twitter: RailsGirlsSoC
