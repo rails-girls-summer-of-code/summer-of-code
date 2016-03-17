@@ -38,6 +38,7 @@ permalink: /students/application/
   <li><a href="#volunteer-teams">A note on volunteer teams</a></li>
   <li><a href="#checklist">Before you apply: the checklist</a></li>
   <li><a href="#student-support">More questions? Join our Student Support Channel</a></li>
+  <li><a href="#submit">Submit your application</a></li>
 </ul>
 
 
@@ -149,7 +150,9 @@ Here is the basic checklist for your application:
 <span class="glyphicon glyphicon-unchecked"></span> Has your team found a suitable workspace for the duration of the program?  
 <span class="glyphicon glyphicon-unchecked"></span> Do you agree with and meet all of the requirements listed above?  
 
-Then go ahead and create your application here: <a href="https://teams.railsgirlssummerofcode.org/">https://teams.railsgirlssummerofcode.org/</a>
+<h3 id="submit">Submit your application</h3>
+
+Can you tick off all these checkboxes? Then go ahead and create your application here: <a href="https://teams.railsgirlssummerofcode.org/">https://teams.railsgirlssummerofcode.org/</a>
 
 If you need help setting up your application, go to the "Help" Section in our teams app: <a href="https://teams.railsgirlssummerofcode.org/">https://teams.railsgirlssummerofcode.org/pages/help<a href="https://teams.railsgirlssummerofcode.org/">. 
 
