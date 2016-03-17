@@ -83,18 +83,6 @@
     #   years:
     #     - 2014
     #     - 2015
-    # - name: Blue Box
-    #   id: bluebox
-    #   url: http://www.blueboxcloud.com
-    #   text: |-
-    #     For over a decade, <a href="http://www.blueboxcloud.com">Blue Box</a>
-    #     has supported industry innovators who deliver top notch Web applications to the
-    #     world. Today, we continue that journey by offering Blue Box Cloud, our managed
-    #     Private Cloud as a Service (PCaas) product available in both hosted and on-prem
-    #     versions, powered by OpenStack. We’re thrilled to support the diversity that
-    #     RailsGirls promotes.
-    #   years:
-    #     - 2015
     # - name: Xing
     #   id: xing
     #   url: http://xing.com
