@@ -152,9 +152,9 @@ Here is the basic checklist for your application:
 
 <h3 id="submit">Submit your application</h3>
 
-Can you tick off all these checkboxes? Then go ahead and create your application here: <a href="https://teams.railsgirlssummerofcode.org/">https://teams.railsgirlssummerofcode.org/</a>
+Can you check off all these checkboxes? Then go ahead and create your application here: <a href="https://teams.railsgirlssummerofcode.org/">https://teams.railsgirlssummerofcode.org/</a>
 
-If you need help setting up your application, go to the "Help" Section in our teams app: <a href="https://teams.railsgirlssummerofcode.org/">https://teams.railsgirlssummerofcode.org/pages/help<a href="https://teams.railsgirlssummerofcode.org/">. 
+If you need help setting up your application, go to the "Help" Section in our teams app: <a href="https://teams.railsgirlssummerofcode.org/pages/help">https://teams.railsgirlssummerofcode.org/pages/help</a>. 
 
 <h3 id="student-support">More questions?</h3>
 
