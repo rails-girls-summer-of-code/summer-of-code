@@ -106,12 +106,6 @@ Here's the solution: Since Sinatra is structured slightly differently from Rails
 
 Big thanks to Sorcha, Rachelle and Daphne for teaching us the tiny details of MVC and Routes.
 
-#### Bonus: Lots of freebies
-
-![alt text](https://www.dropbox.com/sc/ueg6rawwimaxw72/AADeFEa_IBJ2E-hAlcg0DQE1a?dl=1)
-
-![alt text](https://www.dropbox.com/sc/xsaziedizmf7fbn/AACGdQetrpO0ygaa0zStksjka?dl=1)
-
 #### Sarah and the conference
 
 At first glance, this probably doesn't make sense.
@@ -121,8 +115,3 @@ In short, I actually had to make a quick trip up to Sydney (fun fact: it's a 1.5
 ## In closing…
 
 Thank you to the team at Rails Girls Summer of Code and Ruby Conference Australia for giving both of us the opportunity to attend Ruby Conf Au 2016.  It was fantastic and a great time was had by all! 
-
-  
-
-
-
