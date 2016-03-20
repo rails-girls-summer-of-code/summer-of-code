@@ -36,7 +36,7 @@ Ernie’s talk is fantastic and you can [watch a recording of his talk on empath
 
 Below is a picture of Ernie and I - don't forget to check out his awesome t-shirt!
 
-![](https://dl.dropboxusercontent.com/u/101847371/ernie-miller-and-vi-ruby-conf-au-2016.jpg)
+![ernie-miller-ruby-conference-australia-2016](https://dl.dropboxusercontent.com/u/101847371/ernie-miller-and-vi-ruby-conf-au-2016.jpg)
 
 
 **Takeaway #4 - Event sourcing as an alternative to using the CRUD accepted actions of “update or destroy”**
@@ -57,7 +57,7 @@ Arne will be introducing a really exciting screencast and he's an expert in Cloj
 
 So that’s a wrap!  If you wish to [see the full set of talks, they’re online  here](https://rubyconf.eventer.com/rubyconf-australia-2016-1489).  But, before I go, this is an Australian conference right?  So I’ll leave you with a collage of party pictures and the obligatory Aussie animal pictures.
 
-![](https://dl.dropboxusercontent.com/u/101847371/ruby-conf-au-collage.jpeg)
+![photo-collage-ruby-conference-australia](https://dl.dropboxusercontent.com/u/101847371/ruby-conf-au-collage.jpeg)
 
 Captions:  
 1. From left to right: my roomie, Indah who is a front-end dev, Jo who is lead developer at [Culture Amp](https://www.cultureamp.com/) and I at the opening party.  
