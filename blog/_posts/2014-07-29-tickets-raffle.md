@@ -13,19 +13,19 @@ All the students turned to Twitter, gave us their [conference](http://railsgirls
 ![raffle](https://cloud.githubusercontent.com/assets/1711357/3734491/b7877118-1717-11e4-9b4f-74c5b301eeb5.png)
 
 
-[Team Participate](http://teams.railsgirlssummerofcode.org/teams/6) - FrozenRails
+[Team Participate](https://teams.railsgirlssummerofcode.org/teams/6) - FrozenRails
 
-[ARIA Team](http://teams.railsgirlssummerofcode.org/teams/5) - Strangeloop
+[ARIA Team](https://teams.railsgirlssummerofcode.org/teams/5) - Strangeloop
 
-[code_padawans](http://teams.railsgirlssummerofcode.org/teams/2) - arrrrcamp
+[code_padawans](https://teams.railsgirlssummerofcode.org/teams/2) - arrrrcamp
 
-[Team Species+](http://teams.railsgirlssummerofcode.org/teams/12) - GoToConf
+[Team Species+](https://teams.railsgirlssummerofcode.org/teams/12) - GoToConf
 
-[Team Instructure (LTI)](http://teams.railsgirlssummerofcode.org/teams/8) - MadisonRuby
+[Team Instructure (LTI)](https://teams.railsgirlssummerofcode.org/teams/8) - MadisonRuby
 
-[RapidRailsGirls (RapidFTR)](http://teams.railsgirlssummerofcode.org/teams/14) - polyconf AND BaRuCo
+[RapidRailsGirls (RapidFTR)](https://teams.railsgirlssummerofcode.org/teams/14) - polyconf AND BaRuCo
 
-[Team Speakerinnen](http://teams.railsgirlssummerofcode.org/teams/18) - eurucamp
+[Team Speakerinnen](https://teams.railsgirlssummerofcode.org/teams/18) - eurucamp
 
 ###CONGRATULATIONS!
 

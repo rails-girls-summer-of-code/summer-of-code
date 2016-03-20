@@ -20,10 +20,10 @@ Apart from the tooling we are also very excited to announce that [Tealeaf](http:
 
 We are thrilled to have some of the Tealeaf junior join our helpdesk because we ourselves learned the most when explaining things to someone who is only slightly less advanced. And they are dying to help create useful contributions to Open Source, so we think this idea fits the Rails Girls Summer of Code concepts very well.
 
-You can find the list of our Remote Coaches here on our [Teams application](http://teams.railsgirlssummerofcode.org/).
+You can find the list of our Remote Coaches here on our [Teams application](https://teams.railsgirlssummerofcode.org/).
 
 ### Please join us!
 
 We are always looking for more people to join the helpdesk.
 
-In case you are interested, please register via our [Teams application](http://teams.railsgirlssummerofcode.org/) and specify your role as "Helping as a remote coach (helpdesk)". Then sign in to our [Campfire chat room](https://railsgirlssummerofcode.campfirenow.com/33c5b), and you're good to go!
+In case you are interested, please register via our [Teams application](https://teams.railsgirlssummerofcode.org/) and specify your role as "Helping as a remote coach (helpdesk)". Then sign in to our [Campfire chat room](https://railsgirlssummerofcode.campfirenow.com/33c5b), and you're good to go!

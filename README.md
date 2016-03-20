@@ -4,11 +4,11 @@ We are using Github Pages for the website. You can have a look at the `gh-pages`
 
 ## How to create a new blog post
 
-In order to add your blog post to our blog, you will go through the following steps:  
+In order to add your blog post to our blog, you will go through the following steps:
 
 - fork our repo
-- add your blog post  
-- commit and push your changes  
+- add your blog post
+- commit and push your changes
 - send us a pull request
 
 (By contributing, you agree to adhere to our [Code of Conduct](https://github.com/rails-girls-summer-of-code/summer-of-code/blob/master/CODE_OF_CONDUCT.md))
@@ -17,11 +17,23 @@ In order to add your blog post to our blog, you will go through the following st
 
 "Forking" basically just means "making a copy"; this allows you to copy our `summer-of-code` repo (found [here](https://github.com/rails-girls-summer-of-code/summer-of-code)) without affecting it. Follow the instructions on forking a repo [in the GitHub docs](https://help.github.com/articles/fork-a-repo/). When forking, you might be asked where you want to fork the repository to; select **your own Github profile**.
 
+### Run the website locally
+
+The website is build with [Jekyll](https://jekyllrb.com/). In order to see the pages on your machine you have to bundle the Gems and start jekyll.
+
+```
+gem install bundler
+bundle
+jekyll serve
+```
+
+then you type:  ```localhost:4000``` in your browser and :tada:
+
 ### Writing your blog post
 
-Once you have your local copy set up:  
+Once you have your local copy set up:
 
-- create a new file in the `summer-of-code/blog/_posts` folder (on your computer). 
+- create a new file in the `summer-of-code/blog/_posts` folder (on your computer).
 - Call this file `yyyy-mm-dd-your-blog-post-name.md`, where yyyy-mm-dd is the publishing date for your post. Don't forget the .md extension, which stands for `MarkDown`.
 - Add the Jekyll header for the meta data. See any of the posts in the `blog/_posts` folder for an example. Include the top section including the `---` lines and change the attributes where required (probably all of them except the `layout` attribute). The date should be the publishing date of your post. On the twitter line, please just add **your twitter handle without @ character**.
 - Add all your text.
@@ -53,7 +65,7 @@ than 250 kilobytes is too big.
 Please add a line with image credits and be sure to respect the privacy of others
 when uploading photos.
 
-### Committing your changes and sending a pull request 
+### Committing your changes and sending a pull request
 
 Once you're happy with your changes, commit them:
 

@@ -27,7 +27,7 @@ $.extend(BlogRoll.prototype, {
 
 $(function() {
   $.fn.blogroll = function() {
-    return new BlogRoll(this, 'http://teams.railsgirlssummerofcode.org/sources.json?kind=blog');
+    return new BlogRoll(this, 'https://teams.railsgirlssummerofcode.org/sources.json?kind=blog');
   };
   $('.blogroll').blogroll();
 });

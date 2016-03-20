@@ -85,7 +85,7 @@ this, please get in touch with us.
 ### What now?
 
 <!-- Once you've set up your blog/application please add the feed URL to your team
-profile in the [RGSoC Teams App](http://teams.railsgirlssummerofcode.org/). -->
+profile in the [RGSoC Teams App](https://teams.railsgirlssummerofcode.org/). -->
 
 If something's not clear, or you have any questions about what you need to
 do, please let us know by emailing

@@ -13,7 +13,7 @@ It's finally arrived! It's 1st of July and the Summer of Code starts in 3â€¦.2â€
 ![pistols_2 copy](https://f.cloud.github.com/assets/1711357/731300/2df67a3c-e268-11e2-99ee-c85dfa8693fb.png)
 
 
-HAPPY SUMMER OF CODE EVERYBODY! We are so happy to have [you all](http://teams.railsgirlssummerofcode.org) on board and we are so much looking forward to spending a fantastic summer with you. We couldn't be more excited! 
+HAPPY SUMMER OF CODE EVERYBODY! We are so happy to have [you all](https://teams.railsgirlssummerofcode.org) on board and we are so much looking forward to spending a fantastic summer with you. We couldn't be more excited!
 
 
 To make this wonderful day even better, we are proud to announce this wonderful news:

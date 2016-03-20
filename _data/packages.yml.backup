@@ -1,0 +1,499 @@
+    # - name: Mandrill
+    #   id: mandrill
+    #   url: http://mandrill.com
+    #   text: |-
+    #     Trusted by more than 375,000 customers, <a href="http://mandrill.com">Mandrill</a>
+    #     is a scalable, reliable, and secure email infrastructure service that's easy to
+    #     set up and integrate with existing apps. It’s really fast, too. With servers
+    #     all over the world, we can deliver your email in milliseconds. Our detailed
+    #     delivery reports, advanced analytics, and friendly interface mean your entire
+    #     team — from developers to marketers — can easily monitor and evaluate email
+    #     performance. We're happy to be supporting our first Rails Girls Summer of Code.
+    #   years:
+    #     - 2015
+    # - name: Liip
+    #   id: liip
+    #   url: https://www.liip.ch/en
+    #   text: |-
+    #     <a href="https://www.liip.ch/en">Liip</a> is one of Switzerland’s leading
+    #     developers of tailor-made, agile web applications. At Liip we notice that teams
+    #     profit a lot if they are mixed, but at present IT is a homogeneous world with
+    #     few women. There are enough technology-interested women but because of
+    #     demographic reasons many of them do not enter the IT world, or leave again. In
+    #     our eyes it is important to support all women interested in technology so that
+    #     they will join the IT world, feel comfortable and stay!  For us, Rails Girls
+    #     Summer of Code is a project which successfully demonstrates how we can get more
+    #     women into IT.
+    #   years:
+    #     - 2015
+    # - name: Elastic
+    #   id: elastic
+    #   url: http://elastic.co
+    #   text: |-
+    #     <a href="http://elastic.co">Elastic</a> is on a mission to make powerful
+    #     real-time data exploration easy and availability to anyone. To achieve that, we
+    #     spend our days engineering the world's most advanced open source search and
+    #     analytics engine, which is rapidly becoming the most popular solution in this
+    #     space.  Elastic is a proud sponsor of Rails Girls Summer of Code for many
+    #     reasons, but most especially we're proud we can support women programmers and
+    #     the creation of more skilled developers.
+    #   years:
+    #     - 2015
+    # - name: Turing School of Software & Design
+    #   id: turing
+    #   url: http://turing.io
+    #   text: |-
+    #     <a href="http://turing.io/" target="_blank">Turing School of Software &
+    #     Design</a> offers a seven-month combination of in-depth curriculum and hands-on
+    #     instruction that turns people from diverse backgrounds into professional
+    #     developers. Turing is proud to sponsor Rails Girls Summer of Code because we
+    #     are committed to collaborating with others working to open the world of
+    #     programming to more great people!
+    #   years:
+    #     - 2015
+    # - name: DaWanda
+    #   id: dawanda
+    #   url: http://www.dawanda.com
+    #   text: |-
+    #     <a href="http://www.dawanda.com" target="_blank">DaWanda</a>
+    #     is the online marketplace for unique and handmade items with over 5 million
+    #     users. Our engineers and designers pride themselves on a warm and welcoming
+    #     working environment, where collaboration and learning are actively promoted.
+    #     This Ruby/Rails-focused company cultivates diversity and creativity. From
+    #     juniors to experts, everyone is heard and encouraged to make a dent.
+    #   years:
+    #     - 2013
+    #     - 2014
+    #     - 2015
+    # - name: Thoughtworks
+    #   id: thoughtworks
+    #   url: http://www.thoughtworks.com
+    #   text: |-
+    #     <a href="https://www.thoughtworks.com" target="_blank">ThoughtWorks</a> is a
+    #     software company and a community of passionate, purpose-led individuals. We
+    #     think disruptively to deliver technology to address our clients' toughest
+    #     challenges, all while seeking to revolutionize the IT industry and create
+    #     positive social change.
+    #   years:
+    #     - 2014
+    #     - 2015
+    # - name: Hitfox
+    #   id: hitfox
+    #   url: http://www.hitfoxgroup.com
+    #   years:
+    #     - 2014
+    #     - 2015
+    # - name: Xing
+    #   id: xing
+    #   url: http://xing.com
+    #   text: |-
+    #   years:
+    #     - 2015
+    # - name: ImmobilienScout24
+    #   id: immobilienscout
+    #   url: http://www.immobilienscout24.de
+    #   text: |-
+    #     <a href="http://www.immobilienscout24.de">ImmobilienScout24</a> is Germany's
+    #     leading real estate platform as well as an attractive and diverse place to work
+    #     in Friedrichshain-Kreuzberg, the creative and multicultural heart of Berlin. We
+    #     are huge fans of the Rails Girls Summer of Code as we love the combination of
+    #     supporting diversity in tech and great open source projects at the same time.
+    #   years:
+    #     - 2015
+    # - name: Site5
+    #   id: site5
+    #   url: http://www.eng5.com/rails-girls-summer-of-code
+    #   text: |-
+    #     <a href="http://www.eng5.com/rails-girls-summer-of-code/"
+    #       target="_blank">Site5</a> provides award-winning customer support and hosting
+    #     solutions to customers around the world. Site5 strives to empower coders world
+    #     wide and we are proud to lend our support to Rails Girls Summer of Code to
+    #     empower young girls to explore their passion for programming.
+    #   years:
+    #     - 2014
+    #     - 2015
+    # - name: Ticketsolve
+    #   id: ticketsolve
+    #   url: http://www.ticketsolve.com
+    #   text: |-
+    #     <a href="http://www.ticketsolve.com/" target="_blank">Ticketsolve</a>
+    #     is a cloud based ticketing, reporting and box office software used by over 170+
+    #     arts centres, venues, theatres, festivals and tourist attractions across the UK
+    #     and Ireland. We are first and foremost a technology company, and are proud to
+    #     support the Rails Girls Summer of Code program, and their goals to promote
+    #     diversity and equality in technology.
+    #   years:
+    #     - 2015
+    # - name: New Relic
+    #   id: newrelic
+    #   url: http://newrelic.com
+    #   text: |-
+    #     <a href="http://newrelic.com" target="_blank">New Relic</a> is a Software
+    #     Analytics company that makes sense of billions of metrics across millions of
+    #     apps. We help the people who build modern software understand the stories their
+    #     data is trying to tell them. With firm roots in the Open Source Community,
+    #     we’re thrilled to support RailsGirls and the amazing work they do.
+    #   years:
+    #     - 2014
+    #     - 2015
+    # - name: Zweitag
+    #   id: zweitag
+    #   url: http://www.zweitag.de/en
+    #   text: |-
+    #     <a href="http://www.zweitag.de/en">Zweitag</a> has been synonymous with
+    #     innovative technology consulting and software development since 2008. Our
+    #     dynamic team creates sustainable solutions even for challenging requirements.
+    #     Always striving for an open-minded culture as well as equality and respect for
+    #     the individual within our organization and environment, we are proud to support
+    #     Rails Girls Summer of Code.
+    #   years:
+    #     - 2014
+    #     - 2015
+    # - name: Geckoboard
+    #   id: geckoboard
+    #   url: https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link
+    #   text: |-
+    #     <a href="https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link">Geckoboard</a>
+    #     is on a mission to give everyone instant access to their data, no matter where
+    #     they are. Founded in 2010, Geckoboard changed the game for data visualisation
+    #     tools with its simple and intuitive real-time dashboards. Geckoboard is proud
+    #     to be supporting Rails Girls Summer of Code and excited about the innovation
+    #     that’ll inevitably come from it.
+    #   years:
+    #     - 2015
+    # - name: Spotify
+    #   id: spotify
+    #   url: https://developer.spotify.com
+    #   text: |-
+    #     <a href="http://www.spotify.com">Spotify</a> brings you the right music for
+    #     every moment – on your computer, your mobile, your tablet, your home
+    #     entertainment system and more.  Spotify knows it is extremely important to
+    #     proactively support women in open source, and is therefore honored to be
+    #     sponsoring Rails Girls and their Summer of Code initiative.
+    #   years:
+    #     - 2015
+    # - name: Engineyard
+    #   id: engineyard
+    #   url: https://www.engineyard.com
+    #   text: |-
+    #     <a href="http://www.engineyard.com/" target="_blank">Engine Yard</a> is the
+    #     leading cloud application management platform empowering developers and DevOps
+    #     to provision, manage and monitor applications in the cloud. As an active
+    #     sponsor and participant in the Ruby on Rails community since 2006, we are very
+    #     proud to support Rails Girls Summer of Code!
+    #   years:
+    #     - 2013
+    #     - 2014
+    #     - 2015
+    # - name: Nedap
+    #   id: nedap
+    #   url: https://www.nedap.com
+    #   text: |-
+    #     <a href="http://www.nedap.com/" target="_blank">Nedap</a> is a manufacturer of
+    #     intelligent technological solutions for relevant themes. The success of Nedap
+    #     is based on creativity and a fundamental understanding of technology and
+    #     electronics. We are happy to support the Rails Girls Summer of Code and its
+    #     mission.
+    #   years:
+    #     - 2013
+    #     - 2015
+    # - name: Upworthy
+    #   id: upworthy
+    #   url: https://www.upworthy.com
+    #   text: |-
+    #     <a href="http://www.upworthy.com/" target="_blank">Upworthy</a> draws massive
+    #     amounts of attention to things that matter. The mission is to spread stories
+    #     for a better world. Our website is one of the most highly-trafficked Rails apps
+    #     in the world, and we're committed to building a diverse and inclusive team.
+    #   years:
+    #     - 2013
+    #     - 2015
+    # - name: Apcera
+    #   id: apcera
+    #   url: https://www.apcera.com
+    #   text: |-
+    #     <a href="https://apceral.com">Apcera</a> is disrupting the world of IT with the
+    #     world’s first OS for the Hybrid Cloud. Our Hybrid Cloud OS has policy and
+    #     governance built in at the core, allowing IT organizations and developers alike
+    #     to safely and easily develop, deploy, orchestrate and govern diverse workloads.
+    #     Apcera delivers an order of magnitude increase in security, freedom, and speed.
+    #   years:
+    #     - 2015
+    # - name: Airbnb
+    #   id: airbnb
+    #   url: https://www.airbnb.com
+    #   text: |-
+    #     <a href="https://www.airbnb.com">Airbnb</a> is a leading community-driven
+    #     hospitality company. On Airbnb people can list and book amazing properties from
+    #     around the globe. Airbnb seeks to create a world where people can belong
+    #     anywhere. As a part of this we support initiatives like Rails Girls Summer of
+    #     Code that promote diversity in the technology industry.
+    #   years:
+    #     - 2015
+    # - name: Railslove
+    #   id: railslove
+    #   url: http://www.railslove.com
+    #   years:
+    #     - 2015
+    # - name: Planio
+    #   id: planio
+    #   url: https://plan.io
+    #   text: |-
+    #     <a href="https://plan.io/" target="_blank">Planio</a> is a leading project
+    #     management suite and code hosting platform &mdash; proudly built upon one of
+    #     the oldest Open Source Rails projects: <a href="http://www.redmine.org/"
+    #     target="_blank">Redmine</a>. Maintaining and helping a big project with a long
+    #     history move from Rails version to version is both challenging and rewarding.
+    #     We'd love to see more women and girls in Open Source Rails projects!
+    #   years:
+    #     - 2014
+    #     - 2015
+    # - name: Kiskolabs
+    #   id: kiskolabs
+    #   url: http://kiskolabs.com
+    #   text: |-
+    #     <a href="http://kiskolabs.com">Kisko</a> is specialized in building new
+    #     professional tools on the web. We have been building tools on the web with
+    #     Ruby on Rails since 2007, making us one of the most experienced Rails companies
+    #     in Finland. It’s definitely our technology of choice, but we’ve also worked
+    #     with Django, Backbone, Angular and many more.
+    #   years:
+    #     - 2015
+    # - name: Synack
+    #   id: synack
+    #   url: https://www.synack.com/
+    #   text: |-
+    #     <a href="https://www.synack.com/">Synack</a> is a security startup that has
+    #     created a unique Crowd Security Intelligence™ platform that delivers the most
+    #     secure, continuous, scalable, security assessment on the market.  Our team is
+    #     proud to support Rails Girls Summer of Code and celebrate their efforts
+    #     promoting diversity and equality in technology.
+    #   years:
+    #     - 2015
+    # - name: Makerist
+    #   id: makerist
+    #   url: https://www.makerist.de/
+    #   text: |-
+    #     <a href="https://www.makerist.de/">Makerist</a> is an online school for
+    #     handicrafts and creative hobbies.  With high quality video tutorials, our users
+    #     learn new skills and share their experiences and results with others.  We
+    #     believe coding is also a craft, and encourage our team to learn, share, and
+    #     inspire each other, as well as others within the Rails community.
+    #   years:
+    #     - 2015
+    # - name: Weaveworks
+    #   id: weaveworks
+    #   url: http://weave.works
+    #   text: |-
+    #     <a href="http://weave.works">Weaveworks</a> is the home of the company that
+    #     makes Weave - the open source product.  Weave aims to make containerised
+    #     applications applications easy, freeing developers to focus on design rather
+    #     than deployment. We are thrilled to be sponsoring Rails Girls and supporting
+    #     their mission to foster diversity in open source.
+    #   years:
+    #     - 2015
+    # - name: Slack
+    #   id: slack
+    #   url: https://slack.com/
+    #   text: |-
+    #   years:
+    #     - 2015
+    # - name: Amazee Labs
+    #   id: amazeelabs
+    #   url: http://www.amazeelabs.com/en
+    #   text: |-
+    #   years:
+    #     - 2015
+    # - name: Digitalocean
+    #   id: digitalocean
+    #   url: http://www.digitalocean.com
+    #   text: |-
+    #     <a href="http://www.digitalocean.com/">DigitalOcean</a> is the world’s fastest
+    #     growing cloud hosting provider built for developers. Our mission is simple:
+    #     we’re passionate about making complex infrastructure simple and delighting
+    #     our customers with a seamless experience that brings them joy. New users can
+    #     easily deploy a blazing fast cloud server in 55 seconds with an intuitive
+    #     control panel interface, which can be replicated on a larger scale with the
+    #     company’s straightforward API.
+    #   years:
+    #     - 2014
+    #     - 2015
+    # - name: Rackspace
+    #   id: rackspace
+    #   url: https://www.rackspace.com
+    #   text: |-
+    #     <a href="http://www.rackspace.com/" target="_blank">Rackspace</a> delivers
+    #     enterprise-class hybrid cloud infrastructures to businesses of all sizes and
+    #     kinds around the world. It combines public cloud, private cloud, and dedicated
+    #     bare metal computing to provide the perfect infrastructure for each customer’s
+    #     specific needs.
+    #   years:
+    #     - 2013
+    #     - 2015
+    # - name: Carbonfive
+    #   id: carbonfive
+    #   url: http://carbonfive.com
+    #   text: |-
+    #     <a href="http://carbonfive.com/" target="_blank">Carbon Five</a> is a longtime
+    #     member and supporter of the Rails community. With locations in n San Francisco,
+    #     Santa Monica and Chattanooga, Carbon Five enjoys hosting and providing
+    #     mentorship at hack nights, tech talks, and workshops. They are excited to
+    #     sponsor the Rails Girls Summer of Code and help pave the path for young women
+    #     in technology.
+    #   years:
+    #     - 2014
+    #     - 2015
+    # - name: 8th Light
+    #   id: eighthlight
+    #   url: https://8thlight.com
+    #   text: |-
+    #     <a href="https://8thlight.com/" target="_blank">8th Light</a> is a
+    #     software consultancy that is passionate about crafting beautiful code
+    #     and sharing its knowledge with others. As a team, we work closely with
+    #     our clients to discover and solve challenging technical problems. We
+    #     deliver software solutions that are durable, extensible, and prepared
+    #     to handle even those future demands that nobody could anticipate. Our
+    #     craftsmen also host regular events in the community, and are always
+    #     eager to help aspiring programmers learn to write high quality code.
+    #   years:
+    #     - 2015
+
+
+
+    # <a href="http://www.digitalocean.com/">DigitalOcean</a> is
+    # the world’s fastest growing cloud hosting provider built for developers. Our
+    # mission is to make complex infrastructure simple and delight our customers with
+    # a seamless experience that brings them joy. The DigitalOcean site with built
+    # on Rails, making us all the more excited to support Rails Girls Summer of
+    # Code and its open source contributions.
+    # - name: Anynines
+    #   id: anynines
+    #   url: http://www.anynines.com
+    #   text: |-
+    #     <a href="http://www.anynines.com/" target="_blank">Anynines</a> is an upcoming
+    #     PaaS written in Ruby. Anynines is operated by enterprise-rails.com, a
+    #     Rails-focused hosting service and a division of Avarteq. This year they are
+    #     joining us as a co-organizer and supporter.
+    # - name: Orcasnet
+    #   id: orcasnet
+    #   url: http://orcasnet.com
+    #   text: |-
+    #     <a href="http://orcasnet.com" target="_blank">Orcas Net</a> develops
+    #     industry-leading financial advisor management software. Believing that a
+    #     diverse and open developer community strengthens our industry and improves our
+    #     world, we are delighted and proud to support the mission and participants of
+    #     the Rails Girls Summer of Code.
+    # - name: Cognitect
+    #   id: cognitect
+    #   url: http://cognitect.com
+    #   text: |-
+    #     <a href="http://cognitect.com" target="_blank">Cognitect</a> makes simple tools
+    #     (Clojure, Datomic) for solving complex information problems, and has a team of
+    #     expert consultants designing and building software solutions with those tools.
+    #     Cognitect believes in building thriving communities around technology,
+    #     empowering developers of all backgrounds to tackle hard problems.
+    # - name: Wooga
+    #   id: wooga
+    #   url: http://www.wooga.com
+    #   text: |-
+    #     <a href="http://www.wooga.com/" target="_blank">Wooga</a> is one of the most
+    #     popular social games developers for web and mobile in the world. The company is
+    #     based in Berlin and employs over 250 people from 40 nations, working together
+    #     on free-to-play games that are enjoyed by around 50 million players per
+    #     month.
+    # - name: Planio
+    #   id: planio
+    #   url: https://plan.io
+    #   text: |-
+    #     <a href="https://plan.io/" target="_blank">Planio</a> is a leading project
+    #     management suite and code hosting platform &mdash; proudly built upon one of
+    #     the oldest Open Source Rails projects: <a href="http://www.redmine.org/"
+    #     target="_blank">Redmine</a>. Maintaining and helping a big project with a long
+    #     history move from Rails version to version is both challenging and rewarding.
+    #     We'd love to see more women and girls in Open Source Rails projects!
+    # - name: Nuggad
+    #   id: nuggad
+    #   url: http://www.nugg.ad
+    #   text: |-
+    #     <a href="http://www.nugg.ad/" target="_blank">nugg.ad</a> was founded in 2006
+    #     and is Europe's largest targeting platform with cutting edge real-time
+    #     technology for audience targeting, efficient brand advertising and data
+    #     management. As such, we are very proud to support Rails Girls Summer of Code
+    #     and to help diversify tech!
+    # - name: Deutsche Messe
+    #   id: de_messe
+    #   url: http://www.messe.de
+    # - name: Agileanimal
+    #   id: agileanimal
+    #   url: http://agileanimal.com
+    #   text: |-
+    #     <a href="http://agileanimal.com" target="_blank">AGiLE ANiMAL</a> builds web
+    #     apps, mobile products and APIs for businesses. As the Founder, I have a selfish
+    #     reason for supporting Rails Girls SoC: my 2-year-old daughter Erika. She loves
+    #     lightsaber fights and sparkly shoes and I want the software industry to be a
+    #     great place for her to work by the time she’s old enough, if that’s what she
+    #     chooses.
+    # - name: Carnesmedia
+    #   id: carnesmedia
+    #   url: http://carnesmedia.com
+    #   text: |-
+    #     <a href="http://carnesmedia.com" target="_blank">Carnes Media</a> is a web and
+    #     mobile design and development consultancy. We believe strongly that the tech
+    #     industry should look a lot more like the population as a whole, and we're
+    #     excited to support Rails Girls Summer of Code.
+    # - name: Cloudcontrol
+    #   id: cloudcontrol
+    #   url: http://www.cloudcontrol.com
+    #   text: |-
+    #     <a href="http://www.cloudcontrol.com" target="_blank">cloudControl</a> is
+    #     Europe’s Platform-as-a-Service pioneer, supercharging software development
+    #     since 2009. Our platform for developing and running web applications enables
+    #     teams to focus on creating great apps. We’re sponsoring Rails Girls Summer of
+    #     Code because it supercharges women in the tech community – Go Rails Girls!
+    # - name: Paymill
+    #   id: paymill
+    #   url: http://paymill.com
+    #   text: |-
+    #     <a href="http://paymill.com" target="_blank">PAYMILL</a> provides online
+    #     businesses of all sizes easy access to online payments through a simple REST
+    #     API, many supported wrappers and languages. We believe that developer
+    #     communities can help us improving our products through the interaction &amp;
+    #     curiosity - therefore wishing all Girls a great time at Rails Girls Summer of
+    #     Code!
+    # - name: Groupon
+    #   id: groupon
+    #   url: http://groupon.com
+    #   text: |-
+    #     At <a href="http://www.groupon.com" target="_blank">Groupon</a> we rely heavily
+    #     on open source technologies to innovate in our daily work, and encourage our
+    #     engineers to give back to the OSS community.  Community matters to us on an
+    #     internal, local, and global scale — which is why we're excited to once again
+    #     sponsor Rails Girls Summer of Code.
+    # - name: Toptal
+    #   id: toptal
+    #   url: http://www.toptal.com/ruby-on-rails
+    #
+    #   text: |-
+    #     <a href="http://www.codegram.com/" target="_blank">Codegram</a> is a passionate
+    #     team of developers concerned with both quality and productivity which believes
+    #     that software development is fun when done properly.
+    #   text: |-
+    #     <a href="http://www.dockyard.com/" target="_blank">Dockyard</a> is a Ruby on
+    #     Rails, PostgreSQL, and Ember.js web application development software
+    #     consultancy based in Boston, MA.
+    #   text: |-
+    #     <a href="http://pivotallabs.com/" target="_blank">Pivotal Labs</a> has been at
+    #     the forefront of agile development for more than two decades building highly
+    #     reliable, scalable software for innovative industry leaders and emerging
+    #     companies across a number of industries.
+    #   text: |-
+    #     <a href="http://www.toptal.com/ruby-on-rails" target="_blank">Toptal</a> Toptal
+    #     is a marketplace that provides the highest quality of engineering talent for
+    #     any web, mobile, or desktop technology stack. At Toptal we appreciate the
+    #     diversity of our developers, and we are happy to once again support Rails Girls
+    #     with their mission of assisting female developers everywhere.
+    #   text: |-
+    #     <a href="http://www.wimdu.com/" target="_blank">Wimdu</a> is a leading online
+    #     platform offering private accommodation for all tastes and budgets. By
+    #     connecting guests and hosts worldwide, Wimdu offers an enjoyable, authentic
+    #     travel experience for those looking for a smart alternative to hotels.

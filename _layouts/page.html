@@ -7,12 +7,4 @@ sponsors: yes
   <article class="col-md-8">
     {{ content }}
   </article>
-  <aside class="col-md-3 col-md-offset-1 hidden-sm">
-    {% if page.sidebar == "content" %}
-      {% include content_sidebar.html %}
-    {% endif %}
-    {% if page.scribble %}
-      {% include scribble_aside.html %}
-    {% endif %}
-  </aside>
 </div>
