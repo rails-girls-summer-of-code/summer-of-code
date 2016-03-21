@@ -444,6 +444,13 @@
       id: sentry
       url: https://getsentry.com
       text: |-
+        <a href="https://getsentry.com">Sentry</a> is modern error logging. Get the
+        full stacktrace, request info, and user context of every error. Sentry is
+        completely open source (client and server), supports over two dozen languages
+        and frameworks, has hundreds of contributors, and is deployed in tens of
+        thousands of organizations. Sentry is excited to support Rails Girls Summer of
+        Code and help nurture the next generation of women engineers. We can't wait to
+        see what they can do!
       years:
         - 2016
     - name: LaunchSchool
