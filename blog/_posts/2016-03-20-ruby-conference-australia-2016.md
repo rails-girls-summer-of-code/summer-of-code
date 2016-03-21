@@ -36,7 +36,7 @@ Ernie’s talk is fantastic and you can [watch a recording of his talk on empath
 
 Below is a picture of Ernie and I — don't forget to check out his awesome t-shirt!
 
-<img src="/img/blog/2016/ernie-miller-and-vi-ruby-conf-au-2016.jpg" alt="Ernie Miller at Ruby Conf Au 2016">
+<img src="/img/blog/2016/ruby-conf-au-ernie-miller-and-vi.jpg" alt="Ernie Miller at Ruby Conf Au 2016">
 <br><font color="grey"><small><i> Ernie Miller at Ruby Conf Au 2016 (Photo: Vi Nguyen).</i></small></font>
 
 **Takeaway #4 — Event sourcing as an alternative to using the CRUD accepted actions of “update or destroy”**
@@ -57,7 +57,7 @@ Arne will be introducing a really exciting screencast and he's an expert in Cloj
 
 While not a ‘takeaway’, it’s also worth mentioning for those interested in business or who are operating their own business, that Jeff Casimir’s talk shared some great business gems (pun intended).  [Mila Dymnikova's](https://twitter.com/milameow1) visual notes on this highlight the main points from his talk perfectly.  A big thank you to Mila for allowing me to share her notes on this blog.
 
-<img src="/img/blog/2016/mila-dymnikova-jeff-casimir-notes.jpg" alt="Notes on Jeff Casimir talk by Mila">
+<img src="/img/blog/2016/ruby-conf-au-mila-dymnikova-jeff-casimir-notes.jpg" alt="Notes on Jeff Casimir talk by Mila">
 <br><font color="grey"><small><i> Ace notes on Jeff Casimir's talk by Mila Dymnikova (Notes and Photo: <a href="https://twitter.com/milameow1" target="_blank">Mila Dymnikova</a>).</i></small></font>
 
 So that’s a wrap!  If you wish to [see the full set of talks, they’re online  here](https://rubyconf.eventer.com/rubyconf-australia-2016-1489).  But, before I go, this is an Australian conference right?  So I’ll leave you with a collage of party pictures and the obligatory Aussie animal pictures.
@@ -107,7 +107,7 @@ I then deployed the app to heroku. A couple of us in the workshop were having a 
 
 Here's the solution: Since Sinatra is structured slightly differently from Rails, you'll need to modify *config.ru* since gems and classes are located in *config/application.rb*
 
-<img src="/img/blog/2016/sinatra-config-rails-girls-next.jpg" alt="Sinatra configuration">
+<img src="/img/blog/2016/ruby-conf-au-sinatra-config-rails-girls-next.jpg" alt="Sinatra configuration">
 <br><font color="grey"><small><i> Configuration set up of Sinatra in Rails (Photo: Sarah Ni).</i></small></font>
 
 
