@@ -36,16 +36,16 @@ Ernie’s talk is fantastic and you can [watch a recording of his talk on empath
 
 Below is a picture of Ernie and I - don't forget to check out his awesome t-shirt!
 
-![ernie-miller-ruby-conference-australia-2016](https://dl.dropboxusercontent.com/u/101847371/ernie-miller-and-vi-ruby-conf-au-2016.jpg)
-
+<img src="/img/blog/2016/ernie-miller-and-vi-ruby-conf-au-2016.jpg" alt="Ernie Miller at Ruby Conf Au 2016">
+<br><font color="grey"><small><i> Ernie Miller at Ruby Conf Au 2016 (Photo: Vi Nguyen).</i></small></font>
 
 **Takeaway #4 - Event sourcing as an alternative to using the CRUD accepted actions of “update or destroy”**
 
-The talk by Sebastian von Conrad questioned whether data should be destroyed or updated at all.  This was really useful to me because sometime in late 2015, my developer installed the [paranoia gem]( https://rubygems.org/gems/paranoia/versions/2.1.5) because I wasn’t comfortable with deleting data that was associated with say, a user account.  When a rails app destroys or updates data using Active Record, the original data is lost.   Is it right to lose data?  Well…something that might not be useful now may be useful later.   In the case of organizations that rely on user generated content, like Wikipedia, destroying data could create huge problems - imagine what would happen if a user were to be able to delete their account and have their associated contributions deleted aswell…
+The talk by Sebastian von Conrad questioned whether data should be destroyed or updated at all.  This was really useful to me because sometime in late 2015, my developer installed the [paranoia gem](https://rubygems.org/gems/paranoia/versions/2.1.5) because I wasn’t comfortable with deleting data that was associated with say, a user account.  When a rails app destroys or updates data using Active Record, the original data is lost.   Is it right to lose data?  Well…something that might not be useful now may be useful later.   In the case of organizations that rely on user generated content, like Wikipedia, destroying data could create huge problems - imagine what would happen if a user were to be able to delete their account and have their associated contributions deleted aswell…
 
 Sebastian talked about Event Sourcing which ensures that all changes to the application state are stored as a sequence of events - kind of like an accounting system so that nothing is deleted but rather a balance is kept of all that’s happened. With event sourcing you can query events and use logs to go back to a past state.  That’s pretty neat!
 
-If you’re interested in event sourcing, you can watch Sebastian’s talk [here]( https://rubyconf.eventer.com/rubyconf-australia-2016-1489/event-sourcing-or-why-activerecord-must-die-by-sebastian-von-conrad-1933). 
+If you’re interested in event sourcing, you can watch Sebastian’s talk [here](https://rubyconf.eventer.com/rubyconf-australia-2016-1489/event-sourcing-or-why-activerecord-must-die-by-sebastian-von-conrad-1933). 
 
 **Takeaway #5 - Programming is an expression. Read what’s out there and look at style guides but also, find your own voice.**
 
@@ -55,19 +55,24 @@ Arne will be introducing a really exciting screencast and he's an expert in Cloj
 
 **In conclusion…**
 
+While not a ‘takeaway’, it’s also worth mentioning for those interested in business or who are operating their own business, that Jeff Casimir’s talk shared some great business gems (pun intended).  [Mila Dymnikova's](https://twitter.com/milameow1) visual notes on this highlight the main points from his talk perfectly.  A big thank you to Mila for allowing me to share her notes on this blog.
+
+<img src="/img/blog/2016/mila-dymnikova-jeff-casimir-notes.jpg" alt="Notes on Jeff Casimir talk by Mila">
+<br><font color="grey"><small><i> Ace notes on Jeff Casimir's talk by Mila Dymnikova (Notes and Photo: [Mila Dymnikova](https://twitter.com/milameow1)).</i></small></font>
+
 So that’s a wrap!  If you wish to [see the full set of talks, they’re online  here](https://rubyconf.eventer.com/rubyconf-australia-2016-1489).  But, before I go, this is an Australian conference right?  So I’ll leave you with a collage of party pictures and the obligatory Aussie animal pictures.
 
-![photo-collage-ruby-conference-australia](https://dl.dropboxusercontent.com/u/101847371/ruby-conf-au-collage.jpeg)
-
-Captions:  
-1. From left to right: my roomie, Indah who is a front-end dev, Jo who is lead developer at [Culture Amp](https://www.cultureamp.com/) and I at the opening party.  
-2. A cutie pie koala, just because.  Image by Thomas (originally posted to Flickr as Koala Bear) [CC BY 2.0] (http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons.  
-3. From right to left: Timmy from [BuildKite](https://buildkite.com/), Indah and I at the opening party.  We forgot our logo tees.  
-4. A surprise breakfast for the speakers and volunteers at Sea World Resort – we had breakfast next to dolphins.  
-5. From left to right: Lauren and Jo, both Ruby Australia committee members at the closing party at Movie World.  
-6. An octopus, my favourite animal.  This is a blue-ringed octopus that you can find in Australia.  If you see it, get away from it quickly.  One of the few things that can kill you in Australia, other than crocodiles, poisonous spiders, snakes etc… Image by Elias Levy (Blue-Ringed Octopus) [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons.  
-7. From left to right: Allison and I.  Allison was a speaker and her talk was about remote working.  
-8. Batman and I.  He said I looked lovely… but then I heard him say that to all the other girls. 
+<img src="/img/blog/2016/ruby-conf-au-collage.jpg" alt="A collage of social events at Ruby Conf Au">
+<br><font color="grey"><small><i>
+1. From left to right: my roomie, Indah who is a front-end dev, Jo who is lead developer at [Culture Amp](https://www.cultureamp.com/) and I at the opening party (Photo: Vi Nguyen).  
+2. A cutie pie koala, just because (Photo: Thomas (originally posted to Flickr as Koala Bear) [CC BY 2.0] (http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons).  
+3. From right to left: Timmy from [BuildKite](https://buildkite.com/), Indah and I at the opening party.  We forgot our logo tees (Photo: Vi Nguyen).  
+4. A surprise breakfast for the speakers and volunteers at Sea World Resort – we had breakfast next to dolphins (Photo: [Freibuis](https://twitter.com/freibuis)).  
+5. From left to right: Lauren and Jo, both Ruby Australia committee members at the closing party at Movie World (Photo: Vi Nguyen).  
+6. An octopus, my favourite animal.  This is a blue-ringed octopus that you can find in Australia.  If you see it, get away from it quickly.  One of the few things that can kill you in Australia, other than crocodiles, poisonous spiders, snakes etc… (Photo: Elias Levy (Blue-Ringed Octopus) [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons).     
+7. From left to right: Allison and I.  Allison was a speaker and her talk was about remote working (Photo: Vi Nguyen).  
+8. Batman and I.  He said I looked lovely… but then I heard him say that to all the other girls (Photo: Indah).  
+</i></small></font>
 
 ## Rails Girls Next Workshop by Sarah.
 
@@ -102,7 +107,9 @@ I then deployed the app to heroku. A couple of us in the workshop were having a 
 
 Here's the solution: Since Sinatra is structured slightly differently from Rails, you'll need to modify *config.ru* since gems and classes are located in *config/application.rb*
 
-![alt text](https://www.dropbox.com/sc/6bzcmtnd9v6wk90/AADdZZf7Aejm3tPKOEUSEvEpa?dl=1)
+<img src="/img/blog/2016/sinatra-config-rails-girls-next.jpg" alt="Sinatra configuration">
+<br><font color="grey"><small><i> Configuration set up of Sinatra in Rails (Photo: Sarah Ni).</i></small></font>
+
 
 Big thanks to Sorcha, Rachelle and Daphne for teaching us the tiny details of MVC and Routes.
 
