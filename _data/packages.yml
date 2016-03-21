@@ -463,5 +463,14 @@
       id: ableton
       url: https://ww.ableton.com
       text: |-
+        <a href="https://ww.ableton.com">Ableton</a> is a Berlin-based music software
+        company. Ableton Live, Push and Link are used by a community of dedicated
+        musicians, sound designers and artists from across the world. In the same way
+        that the right to resample and remix fueled the electronic music revolution,
+        open source lifts the distinction between producers and consumers of
+        technology, unleashing a creative explosion at the boundary between art and
+        engineering. We’ve learned that achieving the best results comes from building
+        teams that are richly diverse, and thus able to explore problems from a wider
+        set of perspectives. That is why we support RGSoC.
       years:
         - 2016
