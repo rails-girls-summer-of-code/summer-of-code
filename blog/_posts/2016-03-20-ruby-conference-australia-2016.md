@@ -12,7 +12,7 @@ This year’s Ruby Conference Australia was held on the Gold Coast, a vibrant an
 
 Over two days in February, 26 amazing speakers from around the world came to Sea World Resort to share their knowledge in all things Ruby-related — technical and non-technical. There were five elective workshops that were offered on the first day being Developer Flow, Go, Trailblazer, Rails Girls and Rails Girls Next. As Vi attended the conference and Sarah attended a workshop separately, this blog post will be split in two parts. The first highlighting the main talking points from the various talks, whilst the second will be a description of Rails Girls Next, a workshop that follows from Rails Girls. Each section represents our own personal views and experiences.
 
-## 5 Take Aways from the Talks by Vi Nguyen
+### 5 Take Aways from the Talks by Vi Nguyen
 
 Though Ruby Conf was a technology conference, for me, it really brought home the idea that what enhances technology is the human element, and that code really is just an expression of that. 
 
@@ -74,7 +74,7 @@ So that’s a wrap!  If you wish to [see the full set of talks, they’re online
 <br>8. Batman and I.  He said I looked lovely… but then I heard him say that to all the other girls (Photo: Indah).  
 </i></small></font>
 
-## Rails Girls Next Workshop by Sarah.
+### Rails Girls Next Workshop by Sarah.
 
 What you need:
 
@@ -119,6 +119,6 @@ At first glance, this probably doesn't make sense.
 
 In short, I actually had to make a quick trip up to Sydney (fun fact: it's a 1.5 hour-long flight) to attend an awards ceremony. I'm humbled to have been nominated by GradConnection as one of the [Top 100 students in Australia](https://au.gradconnection.com/top100/), 2016.  
 
-## In closing…
+### In closing…
 
 Thank you to the team at Rails Girls Summer of Code and Ruby Conference Australia for giving both of us the opportunity to attend Ruby Conf Au 2016.  It was fantastic and a great time was had by all! 
