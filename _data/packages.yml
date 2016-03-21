@@ -481,3 +481,16 @@
         set of perspectives. That is why we support RGSoC.
       years:
         - 2016
+    - name: RefME
+      id: refme
+      url: https://www.refme.com
+      text: |-
+        <a href="https://www.refme.com">RefMe</a> is the world's leading multi-platform
+        tool that automates the citation, reference list and bibliography process in
+        over 7,500 citation styles. It is the most accurate citation generator and
+        management tool that allows users to cite any source with a click via web
+        platform or mobile app. RefME uses many high-quality open-source projects in
+        our tools, and thus we are proud to give something back to the open-source
+        community and support Rails Girls Summer of Code.
+      years:
+        - 2016
