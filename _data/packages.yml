@@ -229,6 +229,12 @@
       years:
         - 2015
         - 2016
+    - name: openSUSE
+      id: opensuse
+      url: https://www.opensuse.org/
+      text: |-
+      years:
+        - 2016
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
