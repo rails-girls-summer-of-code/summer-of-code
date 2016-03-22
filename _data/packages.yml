@@ -127,6 +127,12 @@
       years:
         - 2015
         - 2016
+    - name: Mozilla
+      id: mozilla
+      url: https://www.mozilla.org
+      text: |-
+      years:
+        - 2016
 - name: Silver
   title: Silver Sponsors
   sponsors:
