@@ -233,6 +233,10 @@
       id: opensuse
       url: https://www.opensuse.org/
       text: |-
+        The <a href="https://www.opensuse.org/">openSUSE</a> project is a worldwide
+        effort that promotes the use and development of Linux. openSUSE cares about the
+        Free and Open Source Software community and supports Rails Girls Summer of Code
+        because the FOSS community is a more vibrant community with female coders.
       years:
         - 2016
 - name: Bronze
