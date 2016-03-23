@@ -1,6 +1,6 @@
 # Rails Girls Summer of Code
 
-We are using Github Pages for the website. You can have a look at the `gh-pages` branch, and the preliminary version at [RailsGirlsBerlin.github.io/summer-of-code](http://railsgirlsberlin.github.io/summer-of-code/).
+We are using GitHub Pages for the website. You can have a look at the `gh-pages` branch, and the site can be found at [RailsGirlsSummerOfCode.org](http://railsgirlssummerofcode.org).
 
 ## How to create a new blog post
 
