@@ -235,19 +235,6 @@
     #   url: http://www.railslove.com
     #   years:
     #     - 2015
-    # - name: Planio
-    #   id: planio
-    #   url: https://plan.io
-    #   text: |-
-    #     <a href="https://plan.io/" target="_blank">Planio</a> is a leading project
-    #     management suite and code hosting platform &mdash; proudly built upon one of
-    #     the oldest Open Source Rails projects: <a href="http://www.redmine.org/"
-    #     target="_blank">Redmine</a>. Maintaining and helping a big project with a long
-    #     history move from Rails version to version is both challenging and rewarding.
-    #     We'd love to see more women and girls in Open Source Rails projects!
-    #   years:
-    #     - 2014
-    #     - 2015
     # - name: Kiskolabs
     #   id: kiskolabs
     #   url: http://kiskolabs.com
