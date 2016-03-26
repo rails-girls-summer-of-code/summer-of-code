@@ -98,7 +98,7 @@ A good place to start is to have a look <a href="https://teams.railsgirlssummero
 
 **Applications for Rails Girls Summer of Code 2016 are now open, and will close Sunday, April 10 2016 at 18:59:00 UTC**.
 
-In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application.
+In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will be asked to create a team (if you haven't done so yet). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
 
 The application form is split into three sections. In the first section, you will be asked to answer lots of questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. We want to get to know you! You and your teammate will fill in this information separately.  
 The other sections are related to your project and team setup and they should be filled out as a team. For the project section, you will select your project via a dropdown menu. You will also have the opportunity to select a secondary project, which is there as a back-up, in case you don't get your first choice.
@@ -152,7 +152,7 @@ Here is the basic checklist for your application:
 
 <h3 id="submit">Submit your application</h3>
 
-Can you check off all these checkboxes? Then go ahead and create your application here: <a href="https://teams.railsgirlssummerofcode.org/">https://teams.railsgirlssummerofcode.org/</a>
+Can you check off all these checkboxes? Then go ahead and create your application here: <a href="https://teams.railsgirlssummerofcode.org/apply">https://teams.railsgirlssummerofcode.org/apply</a>
 
 If you need help setting up your application, go to the "Help" Section in our teams app: <a href="https://teams.railsgirlssummerofcode.org/pages/help">https://teams.railsgirlssummerofcode.org/pages/help</a>. 
 
