@@ -14,13 +14,8 @@ developers passionate about helping newcomers and working on Open Source?
 
 You might just have what it takes to be a coaching company. -->
 
-Summer of Code students need a place to work; while working from home is an option for some
-participants, having the exposure to a productive work environment and ready
-access to coaches is extremely valuable.
-
-Companies that provide this work environment to our teams are called Coaching Companies.
-
-
+Summer of Code teams need a place to work - and having the exposure to a productive work environment and ready
+access to coaches is extremely valuable. Companies that provide this work environment to our teams are called Coaching Companies.
 
 * <a href="#q3">What does a Coaching Company do?</a>
 * <a href="#q2">What makes a good Coaching Company?</a>
@@ -34,57 +29,30 @@ Companies that provide this work environment to our teams are called Coaching Co
 
 <h3 id="q3">What does a Coaching Company do?</h3>
 
-* A coaching company provides students a home for three months including:
-	* Offer a dedicated space in an office from July - September
-	* Provide available coaches for questions and support
+* A coaching company provides a home for a team for three months including:
+	* a dedicated space in an office from July - September
+	* available coaches for questions and support
+	* an inclusive culture and safe space 
 
 <div class="resize">
 	<img src="/img/guides/coaching_company_rapidftr.jpg">
 </div>
 <font color="grey"><small><i>Coaching Company SoundCloud (Image: Team RapidFTR)</i></small></font>
 
-You share your office space two new and motivated developers - as well as introduce them to your working culture and support them throughout their journey. Students are required to have at least two local coaches.
+You share your office space two new and motivated developers - as well as introduce them to your working culture and support them throughout their journey. The teams are required to have at least two dedicated local coaches. 
 
-Furthermore it is totally up to you, how else you would like to involve the team. Maybe they will have daily stand-ups with the coaches, you can invite them to lunch and learns or let them join you to meetups and conferences. The teams will additionally have access to our #helpdesk Slack channel where they can get help from a team of remote coaches who are available for all teams of RGSoC. 
+Furthermore it is totally up to you, how else you would like to involve the team. Maybe they will have daily stand-ups with the coaches, you can invite them to lunch and meetups or workshops. The teams will additionally have access to our #helpdesk Slack channel where they can get help from a team of remote coaches who are available for all teams of RGSoC. 
 
+Any company with a respectful and inclusive culture, desk space, good internet, and a team of developers can make a good Coaching Company. Some selected companies who have been Coaching Companies in the past years are: Absolventa, Travis CI, SoundCloud, NIRD, GitHub, 6Wunderkinder.
 
-#### What Coaching Companies *don't* do
-
-* Coaching companies do not provide financial assistance to teams, nor should
-  they use remuneration as an incentive to attract a team.
-* Coaching companies don't get teams to work on their own non-Open Source
-  product.
-* Coaching companies can't demand their teams be chosen.
-
-<h3 id="q2">What makes a good Coaching Company?</h3>
+<h3 id="q1">Why should we become a Coaching Company?</h3>
 
 <div class="resize">
   <img src="/img/blog/2015/exercistas_first_day.jpg">
 </div>
 <font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
 
-Any company with a respectful and inclusive culture, desk space, good internet, and a team of developers can make a good Coaching Company.
-Here are some examples for Coaching Companies and how much success they had with the Rails Girls Summer of Code teams: 
-
-* Absolventa: <a href="https://www.absolventa.de/karriereguide/tipps/rails-girls-2">Rails Girls Summer of Code mit ABSOLVENTA</a>
-* Travis CI: <a href="https://blog.travis-ci.com/2015-03-12-travisci-supports-rgsoc/">Travis CI supports RGSoC</a>
-* SoundCloud <a href="https://blog.soundcloud.com/2015/03/09/celebrating-rails-girls-at-soundcloud/">Celebrating Rails Girls at SoundCloud</a>
-* NIRD, GitHub, 6Wunderkinder and more ...
-
-
-**We expect coaching companies to host teams in a safe and productive work
-environment**, but other than that, there is no "one size fits all" coaching company.
-The one thing they all have in common is the value they see in supporting a team.
-
-<h3 id="q1">Why should we become a Coaching Company?</h3>
-
-<div class="resize">
-  <img src="/img/blog/2015/CG-FirstWeekGH.JPG">
-</div>
-<font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>
-
-There are tons of good reasons to be a coaching company; giving back to the developer community, a more diverse Open Source
-contributor network, and more. However, one of the best parts of being a Coaching Company is the huge amount of organic publicity your company receives.
+There are tons of good reasons to be a coaching company; giving back to the developer community, a more diverse Open Source contributor network, and more. However, one of the best parts of being a Coaching Company is the huge amount of organic publicity your company receives.
 
 Coaching Companies get a lot of love from the community. Tweets, blog posts,
 personal recommendations from participants, mentions at conferences, events and many more.
