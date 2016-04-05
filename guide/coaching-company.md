@@ -22,31 +22,31 @@ Companies that provide this work environment to our teams are called Coaching Co
 
 
 
-* <a href="#q3">What is a Coaching Company?</a>
-* <a href="#q5">Where are Coaching Companies located?</a>
+* <a href="#q3">What does a Coaching Company do?</a>
 * <a href="#q2">What makes a good Coaching Company?</a>
-* <a href="#q6">Becoming a Coaching Company</a>
-* <a href="#q1">Why should we be a Coaching Company?</a>
+* <a href="#q1">Why should we become a Coaching Company?</a>
+* <a href="#q5">Where are Coaching Companies located?</a>x
+* <a href="#q6">How to become a Coaching Company</a>
+* <a href="#q6a">An example how to become a Coaching Company</a>
 * <a href="#q4b">What if our team is not chosen?</a>
 * <a href="#q7">We have more questions!</a>
 
 
-<h3 id="q3">What is a Coaching Company?</h3>
+<h3 id="q3">What does a Coaching Company do?</h3>
 
 * A coaching company provides students a home for three months including:
-	* A dedicated space in an office
-	* Available coaches
+	* Offer a dedicated space in an office from July - September
+	* Provide available coaches for questions and support
 
 <div class="resize">
 	<img src="/img/guides/coaching_company_rapidftr.jpg">
 </div>
 <font color="grey"><small><i>Coaching Company SoundCloud (Image: Team RapidFTR)</i></small></font>
 
-In essence, you give away a piece of space in your office for your team to work
-in and make sure that team have access to developers to coach them. All of the
-extras are up to you: You might want your team to present their work at weekly
-team meetings so you can stay up-to-date on their progress, or support them to
-attend conferences and meetups.
+You share your office space two new and motivated developers - as well as introduce them to your working culture and support them throughout their journey. Students are required to have at least two local coaches.
+
+Furthermore it is totally up to you, how else you would like to involve the team. Maybe they will have daily stand-ups with the coaches, you can invite them to lunch and learns or let them join you to meetups and conferences. The teams will additionally have access to our #helpdesk Slack channel where they can get help from a team of remote coaches who are available for all teams of RGSoC. 
+
 
 #### What Coaching Companies *don't* do
 
@@ -55,6 +55,63 @@ attend conferences and meetups.
 * Coaching companies don't get teams to work on their own non-Open Source
   product.
 * Coaching companies can't demand their teams be chosen.
+
+<h3 id="q2">What makes a good Coaching Company?</h3>
+
+<div class="resize">
+  <img src="/img/blog/2015/exercistas_first_day.jpg">
+</div>
+<font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
+
+Any company with a respectful and inclusive culture, desk space, good internet, and a team of developers can make a good Coaching Company.
+Here are some examples for Coaching Companies and how much success they had with the Rails Girls Summer of Code teams: 
+
+* Absolventa: <a href="https://www.absolventa.de/karriereguide/tipps/rails-girls-2">Rails Girls Summer of Code mit ABSOLVENTA</a>
+* Travis CI: <a href="https://blog.travis-ci.com/2015-03-12-travisci-supports-rgsoc/">Travis CI supports RGSoC</a>
+* SoundCloud <a href="https://blog.soundcloud.com/2015/03/09/celebrating-rails-girls-at-soundcloud/">Celebrating Rails Girls at SoundCloud</a>
+* NIRD, GitHub, 6Wunderkinder and more ...
+
+
+**We expect coaching companies to host teams in a safe and productive work
+environment**, but other than that, there is no "one size fits all" coaching company.
+The one thing they all have in common is the value they see in supporting a team.
+
+<h3 id="q1">Why should we become a Coaching Company?</h3>
+
+<div class="resize">
+  <img src="/img/blog/2015/CG-FirstWeekGH.JPG">
+</div>
+<font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>
+
+There are tons of good reasons to be a coaching company; giving back to the developer community, a more diverse Open Source
+contributor network, and more. However, one of the best parts of being a Coaching Company is the huge amount of organic publicity your company receives.
+
+Coaching Companies get a lot of love from the community. Tweets, blog posts,
+personal recommendations from participants, mentions at conferences, events and many more.
+
+Being a Coaching Company has a very direct effect on the lives and projects of
+participants, and makes your company an extremely attractive one to potential
+hires, conference organisers, tech bloggers, journalists and media outlets.
+
+<!-- // NEEDS TO FIND BETTER TWEETS (with more impressions)
+
+ <blockquote class="twitter-tweet" lang="en"><a href="https://twitter.com/search?q=%23SoundCloud&amp;src=hash">#SoundCloud</a> is awesome. Not only do they sponsor <a href="https://twitter.com/search?q=%23rgsoc&amp;src=hash">#rgsoc</a> they also give their space &amp; coaches to help us learn <a href="https://twitter.com/search?q=%23ruby&amp;src=hash">#ruby</a>.Thank you, <a href="https://twitter.com/SoundCloud">@SoundCloud</a>&mdash; Nina Breznik (@ninabreznik) <a href="https://twitter.com/ninabreznik/statuses/362902830358605825">August 1, 2013</a></blockquote>
+<script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><a href="https://twitter.com/SoundCloud">@SoundCloud</a> blog about <a href="https://twitter.com/search?q=%23RGSoC&amp;src=hash">#RGSoC</a> Rails Girls Summer of Code and our RailsGrrls team - <a href="http://t.co/XDDMgnLIBl">http://t.co/XDDMgnLIBl</a>&mdash; Rails Grrls (@RailsGrrls) <a href="https://twitter.com/RailsGrrls/statuses/358197565512093696">July 19, 2013</a></blockquote>
+<script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en">Supercool! &lt;3 The talk from <a href="https://twitter.com/RailsGrrls">@RailsGrrls</a> at the <a href="https://twitter.com/SoundCloud">@SoundCloud</a> office is online! <a href="http://t.co/JT2rpsSOy9">http://t.co/JT2rpsSOy9</a> <a href="https://twitter.com/search?q=%23RGSoC&amp;src=hash">#RGSoC</a>&mdash; Rails Girls SoC (@RailsGirlsSoC) <a href="https://twitter.com/RailsGirlsSoC/statuses/371982999614935040">August 26, 2013</a></blockquote>
+<script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+Here are some selected blog posts from 2013 to help illustrate what it means to
+support a team:
+
+* Rails Girls Summer of Code Blog: <a href="http://2013.railsgirlssummerofcode.org/blog/meet-team-rails-grrls">Meet Team Rails Grrls</a>
+* Rails Grrls Blog: <a href="http://railsgrrls.tumblr.com/post/59391220574/blast-from-the-past-1st-demo-at-soundcloud">1st demo at SoundCloud</a>
+* SoundCloud Blog: <a href="http://blog.soundcloud.com/2013/07/19/rails-girls-summer-of-code-welcoming-nicole-and-laura">Welcoming Nicole and Laura</a>
+
+
 
 <h3 id="q5">Where are Coaching Companies located?</h3>
 
@@ -72,22 +129,7 @@ could do with your support — wherever you are located.
 </div>
 <font color="grey"><small><i>Locations of Teams in 2015</i></small></font>
 
-<h3 id="q2">What makes a good Coaching Company?</h3>
 
-<div class="resize">
-  <img src="/img/blog/2015/exercistas_first_day.jpg">
-</div>
-<font color="grey"><small><i>Coaching Company NIRD (Image: Team Exercistas)</i></small></font>
-
-Any company with a respectful and inclusive culture, desk space, good internet, and a team of
-developers can make a good Coaching Company.
-
-Great examples for Coaching Companies include Absolventa and
-Travis CI (2013), 6Wunderkinder (2014), SoundCloud (2013, 2014, 2015), NIRD (2015) and GitHub (2015).
-
-**We expect coaching companies to host teams in a safe and productive work
-environment**, but other than that, there is no "one size fits all" coaching company.
-The one thing they all have in common is the value they see in supporting a team, no strings attached.
 
 <!--<h2 id="q4a">Working with a volunteer team</h2>
 
@@ -95,7 +137,7 @@ Teams who don't get a sponsored seat but still want to participate and work on
 their project are called volunteer teams. We will select a small number of volunteer teams that get a seat in our program. They will get the same support that sponsored teams get - minus the stipend. -->
 
 
-<h3 id="q6">Becoming a Coaching Company</h3>
+<h3 id="q6">How to become a Coaching Company</h3>
 
 To become a coaching company:
 
@@ -115,7 +157,7 @@ Include the info that you are offering your space and coaches. You can spread th
 
 Get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a RGSoC team. We're happy to share your post on our social networks, and help you find a team for 2016!
 
-#### An example on becoming a Coaching Company
+<h3 id="q6a">An example on how to become a Coaching Company</h3>
 
 Absolventa, a Berlin-based company which hosted a team during RGSoC 2013, wants to participate this year again. Here are the steps they took to promote themselves to the students.
 
@@ -144,43 +186,10 @@ They also **wrote a more detailed blog post** including the following details:
 ---
 Read their full blog post: <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/"> Let's work together during RGSoC 2016</a>
 
-<h3 id="q1">Why should we become a Coaching Company?</h3>
-
-<div class="resize">
-  <img src="/img/blog/2015/CG-FirstWeekGH.JPG">
-</div>
-<font color="grey"><small><i>CocoaGems at Coaching Company GitHub (Image: Team CocoaGems)</i></small></font>
-
-There are tons of good reasons to be a coaching company; giving back to the developer community, a more diverse Open Source
-contributor network, and more. However, one of the best parts of being a Coaching Company is the huge amount of organic publicity your company receives.
-
-<!-- // NEEDS TO FIND BETTER TWEETS (with more impressions)
-
- <blockquote class="twitter-tweet" lang="en"><a href="https://twitter.com/search?q=%23SoundCloud&amp;src=hash">#SoundCloud</a> is awesome. Not only do they sponsor <a href="https://twitter.com/search?q=%23rgsoc&amp;src=hash">#rgsoc</a> they also give their space &amp; coaches to help us learn <a href="https://twitter.com/search?q=%23ruby&amp;src=hash">#ruby</a>.Thank you, <a href="https://twitter.com/SoundCloud">@SoundCloud</a>&mdash; Nina Breznik (@ninabreznik) <a href="https://twitter.com/ninabreznik/statuses/362902830358605825">August 1, 2013</a></blockquote>
-<script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" lang="en"><a href="https://twitter.com/SoundCloud">@SoundCloud</a> blog about <a href="https://twitter.com/search?q=%23RGSoC&amp;src=hash">#RGSoC</a> Rails Girls Summer of Code and our RailsGrrls team - <a href="http://t.co/XDDMgnLIBl">http://t.co/XDDMgnLIBl</a>&mdash; Rails Grrls (@RailsGrrls) <a href="https://twitter.com/RailsGrrls/statuses/358197565512093696">July 19, 2013</a></blockquote>
-<script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" lang="en">Supercool! &lt;3 The talk from <a href="https://twitter.com/RailsGrrls">@RailsGrrls</a> at the <a href="https://twitter.com/SoundCloud">@SoundCloud</a> office is online! <a href="http://t.co/JT2rpsSOy9">http://t.co/JT2rpsSOy9</a> <a href="https://twitter.com/search?q=%23RGSoC&amp;src=hash">#RGSoC</a>&mdash; Rails Girls SoC (@RailsGirlsSoC) <a href="https://twitter.com/RailsGirlsSoC/statuses/371982999614935040">August 26, 2013</a></blockquote>
-<script async="async" src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
-Here are some selected blog posts from 2013 to help illustrate what it means to
-support a team:
-
-* Rails Girls Summer of Code Blog: <a href="http://2013.railsgirlssummerofcode.org/blog/meet-team-rails-grrls">Meet Team Rails Grrls</a>
-* Rails Grrls Blog: <a href="http://railsgrrls.tumblr.com/post/59391220574/blast-from-the-past-1st-demo-at-soundcloud">1st demo at SoundCloud</a>
-* SoundCloud Blog: <a href="http://blog.soundcloud.com/2013/07/19/rails-girls-summer-of-code-welcoming-nicole-and-laura">Welcoming Nicole and Laura</a>
-
-
-Coaching Companies get a lot of love from the community. Tweets, blog posts,
-personal recommendations from participants, mentions at conferences, events and many more.
-
-Being a Coaching Company has a very direct effect on the lives and projects of
-participants, and makes your company an extremely attractive one to potential
-hires, conference organisers, tech bloggers, journalists and media outlets.
 
 <h3 id="q4b">What if our team is not chosen?</h3>
+
+The teams have to apply for Rails Girls Summer of Code and usually we can only fund a small number of teams, but get a lot more applications. 
 
 If your team is not chosen (neither as a sponsored nor a volunteer team), you are still free to do your own summer of code together with two very passionate women working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions during the summer.
 
