@@ -18,7 +18,6 @@ Summer of Code teams need a place to work - and having the exposure to a product
 access to coaches is extremely valuable. Companies that provide this work environment to our teams are called Coaching Companies.
 
 * <a href="#q3">What does a Coaching Company do?</a>
-* <a href="#q2">What makes a good Coaching Company?</a>
 * <a href="#q1">Why should we become a Coaching Company?</a>
 * <a href="#q5">Where are Coaching Companies located?</a>x
 * <a href="#q6">How to become a Coaching Company</a>
