@@ -533,4 +533,30 @@
       text: |-
       years:
         - 2016
-
+    - name: Geckoboard
+      id: geckoboard
+      url: https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link
+      text: |-
+        <a href="https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link">Geckoboard</a>
+        is on a mission to give everyone instant access to their data, no matter where
+        they are. Founded in 2010, Geckoboard changed the game for data visualisation
+        tools with its simple and intuitive real-time dashboards. Geckoboard is proud
+        to be supporting Rails Girls Summer of Code and excited about the innovation
+        that’ll inevitably come from it.
+      years:
+        - 2015
+        - 2016
+    - name: Engineyard
+      id: engineyard
+      url: https://www.engineyard.com
+      text: |-
+        <a href="http://www.engineyard.com/" target="_blank">Engine Yard</a> is the
+        leading cloud application management platform empowering developers and DevOps
+        to provision, manage and monitor applications in the cloud. As an active
+        sponsor and participant in the Ruby on Rails community since 2006, we are very
+        proud to support Rails Girls Summer of Code!
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
