@@ -101,7 +101,7 @@ A good place to start is to have a look <a href="https://teams.railsgirlssummero
 In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will be asked to create a team (if you haven't done so yet). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
 
 The application form is split into three sections. In the first section, you will be asked to answer lots of questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. We want to get to know you! You and your teammate will fill in this information separately.  
-The other sections are related to your project and team setup and they should be filled out as a team. For the project section, you will select your project via a dropdown menu. You will also have the opportunity to select a secondary project, which is there as a back-up, in case you don't get your first choice.
+The other sections are related to your project and team setup and they should be filled out as a team. For the project section, you will select your project via a dropdown menu. You will also have the opportunity to select a secondary project, which is there as a back-up, in case you don't get your first choice. Adding a second project to your application is not mandatory.
 
 It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later. 
 
