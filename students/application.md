@@ -64,7 +64,7 @@ The scholarship will be based on where you live, how much your set expenses are,
 
 <h4 id="pair">Another student to pair with</h4>
 
-Finding a teammate before submitting your application is required. The team consists of exactly two people. Having a team that consists of more than two students is not possible. It is also not possible to apply alone. 
+Finding a teammate before submitting your application is required. The team consists of exactly two people, **working from the same city**. Having a team that consists of more than two students is not possible. It is also not possible to apply alone. 
 
 It is important that you both work well together as you will be working very closely throughout the summer, planning your team goals together, and being the closest support for one another!  
 
