@@ -35,4 +35,7 @@ permalink: /blog/categoryview/
       {% endfor %}
     </div>
   </div>
+  <div class="col-md-3 col-md-offset-1">
+    {% include blog_sidebar.html %}
+  </div>
 </div>
