@@ -538,11 +538,10 @@
       url: https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link
       text: |-
         <a href="https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link">Geckoboard</a>
-        is on a mission to give everyone instant access to their data, no matter where
-        they are. Founded in 2010, Geckoboard changed the game for data visualisation
-        tools with its simple and intuitive real-time dashboards. Geckoboard is proud
-        to be supporting Rails Girls Summer of Code and excited about the innovation
-        that’ll inevitably come from it.
+        is on a mission to enable all businesses to create a more open and transparent
+        culture through easy-to-use live TV dashboards for the office, which increase
+        focus and goal attainment. We're proud to support Rails Girls in its mission to
+        foster diversity in the community.
       years:
         - 2015
         - 2016
