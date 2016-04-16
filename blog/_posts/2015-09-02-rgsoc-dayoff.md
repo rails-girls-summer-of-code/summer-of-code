@@ -6,6 +6,8 @@ permalink: blog/2015-09-02-rgsoc-dayoff
 current: blog
 author: Sara
 twitter: RailsGirlsSoc
+categories: 
+- news
 ---
 Three months is a long time to go without a break, so we like to schedule a day
 off mid-program. While it’s not required to take the day off, we highly recommend

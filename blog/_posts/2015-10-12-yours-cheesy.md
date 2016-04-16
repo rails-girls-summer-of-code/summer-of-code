@@ -6,6 +6,8 @@ permalink: blog/2015-10-12-yours-cheesy
 current: blog
 author: Roos de Bildt & Maud de Vries
 twitter: team_cheesy
+categories: 
+- student-posts
 ---
 
 Our project was to change all of the RGSoC participants lives… aka working on the RGSoC Teams App! If you paid some attention this summer, you might already have noticed some of the amazing stuff we did. Here’s a summary of our milestones:

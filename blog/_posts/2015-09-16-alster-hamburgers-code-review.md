@@ -6,6 +6,8 @@ permalink: blog/2015-09-16-alster-hamburgers-code-review
 current: blog
 author: Anke and Aya
 twitter: alsterburgers
+categories: 
+- student-posts
 ---
 
 Project LEAP & what we’ve learned

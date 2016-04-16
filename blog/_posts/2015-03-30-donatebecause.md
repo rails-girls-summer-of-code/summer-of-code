@@ -6,6 +6,8 @@ permalink: blog/donatebecause
 current: blog
 author: Laura
 twitter: RailsGirlsSoC
+categories: 
+- news
 ---
 
 On March 5th, we opened up our crowd funding campaign. What a ride! Before we go on and give you the full rundown of what happened in the last 25 days, we'd just like to share how proud we are of our amazing community and sponsors with a gif:  

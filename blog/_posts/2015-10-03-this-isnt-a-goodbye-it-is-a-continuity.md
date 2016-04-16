@@ -6,6 +6,8 @@ permalink: blog/2015-10-03-this-isn't-a-goodbye-it-is-a-continuity
 current: blog
 author: Fanxhe Team
 twitter: fanxhe
+categories: 
+- student-posts
 ---
 
 It is incredible that three months have passed already and this code summer has ended. It seems like it was yesterday when we decided to participate in RGSoC and the moment that our small great adventure began feels even closer. However, when we recap these months, we realize how many things can happen in such a little time.  

@@ -6,6 +6,8 @@ permalink: blog/2015-08-25-how-to-survive-your-rgsoc
 current: blog
 author: Laura
 twitter: RailsGirlsSoc
+categories: 
+- tips-and-tricks
 ---
 
 It's already August and we're now halfway through the program. This means that as a team, you've already had six weeks of working together, pair-programming, discussing ideas and new concepts. For a lot of you, this may be a completely new experience, and we realise that it's difficult to cope with all these new tools and 'to-dos'.  

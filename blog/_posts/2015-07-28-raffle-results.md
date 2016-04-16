@@ -6,6 +6,9 @@ permalink: blog/2015-07-28-raffle-results
 current: blog
 author: Laura
 twitter: RailsGirlsSoc
+categories: 
+- conferences
+- news
 ---
 
 Last week, you sent us your conference wishlists via twitter, and the Conference Raffle Fairy Godmothers (Anika, Katrin, Sara and yours truly) sat down to – in true conference raffle fashion – pull out your team names from a jar and assign conferences to teams. This is what it looked like!

@@ -6,6 +6,8 @@ permalink: blog/2015-10-01-the-end-and-a-beginning
 current: blog
 author: Anika
 twitter: RailsGirlsSoc
+categories: 
+- news
 ---
 
 

@@ -6,6 +6,8 @@ permalink: blog/2015-07-28-introducing-team-codebenders
 current: blog
 author: Jayasi and Megha
 twitter: teamcodebenders
+categories: 
+- student-posts
 ---
 
 We are [Jayasi](https://teams.railsgirlssummerofcode.org/users/469) and [Megha](https://teams.railsgirlssummerofcode.org/users/26), a.k.a. [Team CodeBenders](https://teams.railsgirlssummerofcode.org/teams/54). We have started our Summer of Code in Delhi, India with our coaches [Kashyp](https://teams.railsgirlssummerofcode.org/users/306), [Bharti](https://teams.railsgirlssummerofcode.org/users/144) and [Shobhit](https://teams.railsgirlssummerofcode.org/users/247), mentor [Erik](https://teams.railsgirlssummerofcode.org/users/111) and supervisor [Benedikt](https://teams.railsgirlssummerofcode.org/users/474).

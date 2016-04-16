@@ -6,6 +6,8 @@ permalink: blog/2015-07-23-meet-the-teams
 current: blog
 author: Anika
 twitter: RailsGirlsSoc
+categories: 
+- news
 ---
 
 

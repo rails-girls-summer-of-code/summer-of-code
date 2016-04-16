@@ -6,6 +6,8 @@ permalink: blog/2015-07-14-Introducing-Team-Techylite
 current: blog
 author: Resla and Esther
 twitter: Techylite
+categories: 
+- student-posts
 ---
 
 Hello Everyone, it's Esther and Resla working on Speakerinnen. We come from Nairobi, Kenya: The Green City Under the Sun.

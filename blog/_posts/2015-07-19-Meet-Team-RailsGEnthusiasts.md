@@ -6,6 +6,8 @@ permalink: blog/2015-07-19-Meet-Team-RailsGEnthusiasts
 current: blog
 author: Boryana & Sophia
 twitter: RailsGEnthusia
+categories: 
+- student-posts
 ---
 
 

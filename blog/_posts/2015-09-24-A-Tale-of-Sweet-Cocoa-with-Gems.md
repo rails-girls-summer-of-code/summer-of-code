@@ -6,6 +6,8 @@ permalink: blog/2015-09-24-a-tale-of-sweet-cocoa-with-gems
 current: blog
 author: Karla and Emma
 twitter: cocoagems
+categories: 
+- student-posts
 ---
 <img src="/img/blog/2015/CG-FirstWeekGH.JPG" alt="Team CocoaGems">
 <br><font color="grey"><small><i> Emma and Karla during the first week in the GitHub office.</i></small></font>

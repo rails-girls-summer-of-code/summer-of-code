@@ -5,6 +5,8 @@ created_at: Tue February 23 2016
 permalink: blog/2016-02-23-crowdfunding-campaign-is-open
 author: Laura
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 The days are getting longer, the sun is a little more visible in the winter sky, and with spring nearing, we’re glad to announce there’s an even better reason to rejoice: [Our crowdfunding campaign is open](http://railsgirlssummerofcode.org/campaign/)!

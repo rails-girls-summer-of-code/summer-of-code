@@ -6,6 +6,8 @@ permalink: blog/2015-10-08-so-long-and-thanks-for-all-the-sea-monsters
 current: blog
 author: Shelly and Pilar
 twitter: teamtessie
+categories: 
+- student-posts
 ---
 
 Shelly:

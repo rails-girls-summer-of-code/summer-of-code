@@ -5,6 +5,8 @@ created_at: Wed February 10 2016
 permalink: blog/2016-02-10-call-for-organizers
 author: Anika
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 ![](/img/blog/2016/rgsoc_calls.jpg)

@@ -6,6 +6,9 @@ permalink: blog/2015-07-21-conferences
 current: blog
 author: Laura
 twitter: RailsGirlsSoc
+categories:
+- conferences
+- news
 ---
 
 We are three weeks into the program and it’s that time of the summer again for.. Yes, you’ve guessed it: our first conference raffle!

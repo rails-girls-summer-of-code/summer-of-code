@@ -6,6 +6,9 @@ permalink: blog/2015-09-11-baruco-its-not-just-the-talks
 current: blog
 author: Ania&Basia
 twitter: girlscoderswars
+categories: 
+- student-posts
+- conferences
 ---
 
 Well, it’s after [BaRuCo](http://www.fullstackfest.com/?from_baruco). We came back refreshed, full of new energy to work. We would like to tell you about this conference very subjectively, about our impressions, which consists of four elements: atmosphere, talks, community and Barcelona.

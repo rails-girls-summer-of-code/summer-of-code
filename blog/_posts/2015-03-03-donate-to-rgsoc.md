@@ -6,6 +6,8 @@ permalink: blog/2015-donations-open
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories: 
+- news
 ---
 
 The Rails Girls Summer of Code crowdfunding campaign

@@ -6,6 +6,8 @@ permalink: blog/2015-09-18-The-End-Of-a-Wonderful-Summer
 current: blog
 author: Sophiya and Boryana
 twitter: RailsGEnthusia 
+categories: 
+- student-posts
 ---
 
 <img src="/img/blog/2015/rails-g-enthusiasts-coffee.jpg" alt="Sophia & Boryana & Andrew">

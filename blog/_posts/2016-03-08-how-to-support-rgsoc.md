@@ -6,6 +6,8 @@ permalink: blog/how-to-support-rgsoc
 current: blog
 author: Anika
 twitter: RailsGirlsSoC
+categories:
+- tips-and-tricks
 ---
 
 

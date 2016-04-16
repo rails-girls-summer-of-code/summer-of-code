@@ -6,6 +6,8 @@ permalink: blog/2015-07-12-introducing-Team-Melbourne
 current: blog
 author: Vi and Sarah
 twitter: TeamMelbKoala
+categories: 
+- student-posts
 ---
 
 Hello from Aussie! We are Sarah and Vi, and together we make up the student part of Team Melbourne. We will be spending the summer working with the wonderful people from Discourse.org and our coaches, Jo, Adel and the amazing people from Redbubble.com

@@ -6,6 +6,8 @@ permalink: blog/2015-09-30-swag-packing
 current: blog
 author: Sara
 twitter: RailsGirlsSoc
+categories: 
+- news
 ---
 
 A tradition of the Rails Girls Summer of Code is to gather swag from our wonderful sponsors and send out care packages to our hardworking, dedicated participants.

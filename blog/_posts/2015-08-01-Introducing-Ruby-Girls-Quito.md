@@ -6,6 +6,8 @@ permalink: blog/2015-08-01-Introducing-Ruby-Girls-Quito
 current: blog
 author: Evy and Sofi
 twitter: zeroknowledge9
+categories: 
+- student-posts
 ---
 
 

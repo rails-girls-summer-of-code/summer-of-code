@@ -6,6 +6,8 @@ permalink: blog/2015-08-15-rgsoc-day-off-is-back
 current: blog
 author: Laura
 twitter: RailsGirlsSoc
+categories: 
+- news
 ---
 
 You've all been eagerly waiting for it and it's finally here – the 2015 RGSoC Day-Off!  
