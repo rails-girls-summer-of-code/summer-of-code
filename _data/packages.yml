@@ -531,12 +531,12 @@
       id: planetargon
       url: http://www.planetargon.com/
       text: |-
-        We simplify lives through digital technology. Founded in 2002, [Planet
-        Argon](http://www.planetargon.com/) is a creative agency in Portland, Oregon
-        that designs and develops web and mobile applications for the
-        [Healthcare](http://www.planetargon.com/healthcare) industry. We decided to
+        We simplify lives through digital technology. Founded in 2002,
+        <a href="http://www.planetargon.com/">Planet Argon</a> is a creative agency in
+        Portland, Oregon that designs and develops web and mobile applications for the
+        <a href="http://www.planetargon.com/healthcare">Healthcare</a> industry. We decided to
         sponsor Rails Girls because we believe in their mission, which aligns with the
-        [commitments that our organization has made](http://blog.planetargon.com/entries/2015/7/13/why-we-signed-the-portland-tech-diversity-pledge).
+        <a href="http://blog.planetargon.com/entries/2015/7/13/why-we-signed-the-portland-tech-diversity-pledge">commitments that our organization has made</a>.
         This shit is important.
       years:
         - 2016
