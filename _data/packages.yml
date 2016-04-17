@@ -566,3 +566,9 @@
         - 2014
         - 2015
         - 2016
+    - name: Babbel
+      id: babbel
+      url: https://www.babbel.com/
+      text: |-
+      years:
+        - 2016
