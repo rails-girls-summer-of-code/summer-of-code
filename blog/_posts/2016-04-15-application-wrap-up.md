@@ -10,15 +10,16 @@ twitter: RailsGirlsSoC
 
 It’s a wrap!
 
-[add applications closed image]
+![applications are closed!](/img/blog/2016/application-wrapup-closed.jpg)
+<font color="grey"><small><i>Applications closed. (Photo: Ana Sofia Pinho)</i></small></font>
 
 We finally recovered enough from the applications closing last Sunday to write about it. Just like last year, the last few hours before the 17:59 UTC deadline were **intense** and we sat in front of our screens until the very end to reply to all the support emails and questions coming in.
 
 This year, we received 92 applications — which is almost double the amount from last year. This is truly amazing! In the very last 24 hours of the application period, the number of submitted applications **quadrupled**, with the last application submitted a mere 32 seconds before deadline closed. That’s what we call LIVING ON THE EDGE!
 
 
-![4 Ways to Find a Team for RGSoC 2016](/img/blog/2016/application-wrapup-adele.gif)
-<font color="grey"><small><i>Living on the edge. (GIF: <a href="http://www.buzzfeed.com/lyapalater/the-tables-have-turned-adele" target="_blank">Buzzfeed</a>)</i></small></font>
+![living on the edge](/img/blog/2016/application-wrapup-adele.gif)
+<font color="grey"><small><i>Living on the edge. (Image: <a href="http://www.buzzfeed.com/lyapalater/the-tables-have-turned-adele" target="_blank">Buzzfeed</a>)</i></small></font>
 
 Because of how we’ve set up our selection process, we will not be able to share information about the location of the different applications just yet; this said, we’ve tried really hard to reach out to several new initiatives worldwide, including a lot of different programming language communities, in the hopes that we could have applicants from different backgrounds, locations, and languages. One thing’s for sure: the next few months are going to be legendary!
 
