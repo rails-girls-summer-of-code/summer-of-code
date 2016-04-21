@@ -1,22 +1,22 @@
 ---
-title: Thank you for letting us &#35;WelcomeMoreWomenToTech
+title: Thank you for letting us &#35;DiversifyTech
 layout: post
-created_at: Thu Apr 21 2016
-permalink: blog/2016-04-21-thank-you-and-welcome-more-women-to-tech
+created_at: Fri Apr 22 2016
+permalink: blog/2016-04-22-thank-you-lets-diversify-tech
 current: blog
 author: Ana Sofia
 twitter: RailsGirlsSoC
 ---
 
 
-![RGSoC 2016 Thank You Board](/img/blog/2016/2016-04-21-thank-you-and-welcome-more-women-to-tech-01.jpg)
+![RGSoC 2016 Thank You Board](/img/blog/2016/2016-04-22-thank-you-lets-diversify-tech-01.jpg)
 <font color="grey"><small><i>RGSoC 2016 Thank You Board (Photo: Ana Sofia Pinho)</i></small></font>
 
 This is our fourth year organising RGSoC and each year that goes by we feel extremely thankful for the support of the community: Each student who applies, each coach who gives us their time and knowledge to train our teams, each organizer helping to make the program a reality, each of you  who retweets us or contributes to our scholarships with donations, each company that supports us and each project maintainer who submits their project to RGSoC. This program was created by each and everyone of you, and it’s going strong because of the community that backs us every summer.
 
 Our community is the foundation of RGSoC and because of that, for the summer of 2016 we wanted to do something other than thank you, we wanted to show you the impact your contributions have to our program and consequently to all the people who, in some way or another, have been part of RGSoC.
 
-![Building the RGSoC 2016 Thank You Board](/img/blog/2016/2016-04-21-thank-you-and-welcome-more-women-to-tech-02.png)
+![Building the RGSoC 2016 Thank You Board](/img/blog/2016/2016-04-22-thank-you-lets-diversify-tech-02.png)
 <font color="grey"><small><i>Assembling the RGSoC 2016 Thank You Board square by square (Photo: Ana Sofia Pinho)</i></small></font>
 
 We built a board where we recreated the programming community, with its diversity percentages: roughly 80% men (in blue) and 20% women* (in red and yellow). The grey squares represent all the people outside the tech community who have no idea they have coding superpowers. Or they do, but they don’t have the means to pursue a career in tech (yet!).
@@ -28,12 +28,12 @@ We have put the name of each person and company who contributed to RGSoC on a sq
 <iframe src="https://player.vimeo.com/video/163633804" width="640" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/163633804">RGSoC</a> from <a href="https://vimeo.com/user51331690">Rails Girls Summer of Code</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Together we are creating an environment where women* feel more welcome. We are training more developers and helping them jumpstart their career. We are making Open Source a better place for everyone. We are creating the role models of the future. We are redefining the Tech community. We are helping to make  our communities more inclusive and empower individuals to contribute to Open Source with their amazing potential.
+Together we are creating an environment where women* feel more welcome. We are training more developers and helping them jumpstart their career. We are making Open Source a better place for everyone. We are creating the role models of the future. We are redefining the Tech community. We are helping to make  our communities more inclusive and empower individuals to contribute to Open Source with their amazing potential. We are making Tech more diverse!
 
 __You make RGSoC possible and we don’t take this for granted! Thank you!__
 
 With your support we have already put 445 squares in our board and funded 11 teams. This is amazing! Let’s [complete this board](http://railsgirlssummerofcode.org/campaign/) and fund even more teams! 
-__Let’s #WelcomeMoreWomenToTech!__
+__Let’s #DiversifyTech!__
 
 
 &#42; With women we mean in here all people with non-binary gender identities or who identify as women. 
