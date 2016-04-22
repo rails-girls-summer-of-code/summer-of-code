@@ -14,7 +14,7 @@ twitter: RailsGirlsSoC
 
 This is our fourth year organising RGSoC and each year that goes by we feel extremely thankful for the support of the community: Each student who applies, each coach who gives us their time and knowledge to train our teams, each organizer helping to make the program a reality, each of you  who retweets us or contributes to our scholarships with donations, each company that supports us and each project maintainer who submits their project to RGSoC. This program was created by each and everyone of you, and it’s going strong because of the community that backs us every summer.
 
-Our community is the foundation of RGSoC and because of that, for the summer of 2016 we wanted to do something other than thank you, we wanted to show you the impact your contributions have to our program and consequently to all the people who, in some way or another, have been part of RGSoC.
+Our community is the foundation of RGSoC and because of that, for the summer of 2016 we wanted to do something other than thank you: we wanted to show you the impact your contributions have to our program, and consequently to all the people who, in some way or another, have been part of RGSoC.
 
 ![Building the RGSoC 2016 thank_you board](/img/blog/2016/2016-04-22-thank-you-lets-diversify-tech-02.png)
 <font color="grey"><small><i>Assembling the RGSoC 2016 thank_you board square by square (Photo: Ana Sofia Pinho)</i></small></font>
@@ -36,6 +36,6 @@ With your support we have already put 445 squares in our board and funded 11 tea
 __Let’s #DiversifyTech!__
 
 
-&#42; With women we mean in here all people with non-binary gender identities or who identify as women. 
+&#42; With "women", we mean all people with non-binary gender identities or who identify as women. 
 
 
