@@ -585,3 +585,9 @@
         - 2013
         - 2015
         - 2016
+    - name: Clue
+      id: clue
+      url: http://helloclue.com/
+      text: |-
+      years:
+        - 2016
