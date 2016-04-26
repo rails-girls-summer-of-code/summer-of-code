@@ -244,6 +244,20 @@
         because the FOSS community is a more vibrant community with female coders.
       years:
         - 2016
+    - name: Elastic
+      id: elastic
+      url: http://elastic.co
+      text: |-
+        <a href="http://elastic.co">Elastic</a> is on a mission to make powerful
+        real-time data exploration easy and availability to anyone. To achieve that, we
+        spend our days engineering the world's most advanced open source search and
+        analytics engine, which is rapidly becoming the most popular solution in this
+        space.  Elastic is a proud sponsor of Rails Girls Summer of Code for many
+        reasons, but most especially we're proud we can support women programmers and
+        the creation of more skilled developers.
+      years:
+        - 2015
+        - 2016
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
