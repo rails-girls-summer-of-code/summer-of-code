@@ -248,13 +248,17 @@
       id: elastic
       url: http://elastic.co
       text: |-
-        <a href="http://elastic.co">Elastic</a> is on a mission to make powerful
-        real-time data exploration easy and availability to anyone. To achieve that, we
-        spend our days engineering the world's most advanced open source search and
-        analytics engine, which is rapidly becoming the most popular solution in this
-        space.  Elastic is a proud sponsor of Rails Girls Summer of Code for many
-        reasons, but most especially we're proud we can support women programmers and
-        the creation of more skilled developers.
+        Founded in 2012 by the people behind the Elasticsearch open source project,
+        <a href="http://www.elastic.co">Elastic</a> provides a software stack for developers to make massive amounts of
+        structured and unstructured data available and to utilize real-time insights to
+        power mission critical applications for search, logging, analytics, and more.
+        By focusing on scalability, ease-of-use, and ease-of-integration, Elastic’s
+        products — Elasticsearch, Kibana, Logstash, Beats, and Elastic Cloud power many
+        of the world’s leading mobile, social, consumer and business applications, and
+        to date have achieved more than 55 million cumulative downloads.  Elastic is
+        backed by Benchmark Capital, Index Ventures, and NEA with headquarters in
+        Amsterdam and Mountain View, California, and offices and employees around the
+        world. To learn more, visit <a href="http://www.elastic.co">www.elastic.co</a>.
       years:
         - 2015
         - 2016
