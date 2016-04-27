@@ -603,5 +603,11 @@
       id: clue
       url: http://helloclue.com/
       text: |-
+        <a href="http://helloclue.com/">Clue</a> uses science and data to provide
+        actionable personal insights into female health. Through our cycle tracking
+        app, we help users understand their cycles so they can discover how to live
+        full and healthy lives. Based in Berlin, our 30+ person team is committed to
+        gender equality and increasing diversity in the fields of science and
+        technology.
       years:
         - 2016
