@@ -6,6 +6,8 @@ permalink: blog/2016-04-15-application-wrap-up
 current: blog
 author: Laura
 twitter: RailsGirlsSoC
+categories:
+- news
 ---
 
 It’s a wrap!

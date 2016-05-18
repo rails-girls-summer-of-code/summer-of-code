@@ -6,6 +6,8 @@ permalink: blog/2016-04-22-thank-you-lets-diversify-tech
 current: blog
 author: Ana Sofia
 twitter: RailsGirlsSoC
+categories:
+- news
 ---
 
 
