@@ -13,13 +13,15 @@ permalink: /blog/categoryview/
     {% assign categories = site.categories | sort %}
       <ul class="list--none">
       {% for category in categories %}
-        <span class="site-tag">
-          <li>
-            <a href="#{{ category | first | slugify }}">
-                  {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
-            </a>
-          </li>
-        </span>
+        {% if category[0] != 'blog' %}
+          <span class="site-tag">
+            <li>
+              <a href="#{{ category | first | slugify }}">
+                    {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
+              </a>
+            </li>
+          </span>
+        {% endif %}
       {% endfor %}
     </ul>
     </div>
@@ -27,16 +29,18 @@ permalink: /blog/categoryview/
     <div id="index">
       <ul class="list--archive list--none">
         {% for category in categories %}
-          <a name="{{ category[0] }}"></a><h3>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }}) </h3>
-          {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-          {% for post in sorted_posts %}
-            {%if post.categories contains category[0]%}
-            <li>
-              {{ post.date | date:"%d %b %Y" }} <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-               <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-            </li>
-            {%endif%}
-          {% endfor %}
+          {% if category[0] != 'blog' %}
+            <a name="{{ category[0] }}"></a><h3>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }}) </h3>
+            {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+            {% for post in sorted_posts %}
+              {%if post.categories contains category[0]%}
+              <li>
+                {{ post.date | date:"%d %b %Y" }} <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                 <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+              </li>
+              {%endif%}
+            {% endfor %}
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
