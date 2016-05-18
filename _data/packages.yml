@@ -531,6 +531,13 @@
       id: planetargon
       url: http://www.planetargon.com/
       text: |-
+        We simplify lives through digital technology. Founded in 2002,
+        <a href="http://www.planetargon.com/">Planet Argon</a> is a creative agency in
+        Portland, Oregon that designs and develops web and mobile applications for the
+        <a href="http://www.planetargon.com/healthcare">Healthcare</a> industry. We decided to
+        sponsor Rails Girls because we believe in their mission, which aligns with the
+        <a href="http://blog.planetargon.com/entries/2015/7/13/why-we-signed-the-portland-tech-diversity-pledge">commitments that our organization has made</a>.
+        This shit is important.
       years:
         - 2016
     - name: Geckoboard
@@ -538,11 +545,10 @@
       url: https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link
       text: |-
         <a href="https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link">Geckoboard</a>
-        is on a mission to give everyone instant access to their data, no matter where
-        they are. Founded in 2010, Geckoboard changed the game for data visualisation
-        tools with its simple and intuitive real-time dashboards. Geckoboard is proud
-        to be supporting Rails Girls Summer of Code and excited about the innovation
-        that’ll inevitably come from it.
+        is on a mission to enable all businesses to create a more open and transparent
+        culture through easy-to-use live TV dashboards for the office, which increase
+        focus and goal attainment. We're proud to support Rails Girls in its mission to
+        foster diversity in the community.
       years:
         - 2015
         - 2016
@@ -558,5 +564,24 @@
       years:
         - 2013
         - 2014
+        - 2015
+        - 2016
+    - name: Babbel
+      id: babbel
+      url: https://www.babbel.com/
+      text: |-
+      years:
+        - 2016
+    - name: Nedap
+      id: nedap
+      url: https://www.nedap.com
+      text: |-
+        <a href="http://www.nedap.com/" target="_blank">Nedap</a> is a manufacturer of
+        intelligent technological solutions for relevant themes. The success of Nedap
+        is based on creativity and a fundamental understanding of technology and
+        electronics. We are happy to support the Rails Girls Summer of Code and its
+        mission.
+      years:
+        - 2013
         - 2015
         - 2016
