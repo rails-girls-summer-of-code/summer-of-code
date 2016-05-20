@@ -5,6 +5,8 @@ created_at: Sun Sep 21 2014
 permalink: blog/team-speakerinnen-2014
 current: blog
 author: Team Speakerinnen
+categories:
+- student-posts
 ---
 
 As we are both graduates from technical studies, we have first hand experience of how scarce women in technical studies and jobs are. The Rails Girls Summer of Code has given us the perfect opportunity to have some great first hand experience as developers.

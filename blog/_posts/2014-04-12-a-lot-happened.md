@@ -6,6 +6,8 @@ permalink: blog/2014-04-12-a-lot-happened
 current: blog
 author: Floor
 twitter: floordrees
+categories:
+- news
 ---
 
 Hi there! We have made some changes to the website and we thought we would let you know!

@@ -6,6 +6,8 @@ permalink: blog/applications-open
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 It's Friday and we are in love: With this we are officially opening the

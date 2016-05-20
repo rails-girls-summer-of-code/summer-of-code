@@ -6,6 +6,8 @@ permalink: blog/rubyconf-au-2014
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- conferences
 ---
 ## ... and The Spree Girls are going!
 The wonderful [RubyConf Australia](http://www.rubyconf.org.au/2015) organizing team decided to gift our Sydney-based volunteer team, [Tracy and Catherine of The Spree Girls](http://railsgirlssummerofcode.org/blog/spree-girls-downunder/) tickets to their conference, taking place early February next year.  

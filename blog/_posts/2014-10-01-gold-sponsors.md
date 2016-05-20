@@ -6,6 +6,8 @@ permalink: blog/gold-sponsors-2014
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 ### All are repeat sponsors for second year in a row.

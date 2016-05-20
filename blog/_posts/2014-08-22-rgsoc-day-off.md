@@ -6,6 +6,9 @@ permalink: blog/rgsoc-day-off
 current: blog
 author: Laura
 twitter: alicetragedy
+categories:
+- news
+- tips-and-tricks
 ---
 
 We love coding, we **really** do. But we also know that during a 3-month-long, hands-on coding program (or *cough cough* at work if you’re coding all day *cough cough*) your motivation might start to take a nosedive. This is why we are announcing a

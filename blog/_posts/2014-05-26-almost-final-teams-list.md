@@ -6,6 +6,8 @@ permalink: blog/final-team-list-2014
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 It's time to celebrate! After a great spurt in the campaign and with the

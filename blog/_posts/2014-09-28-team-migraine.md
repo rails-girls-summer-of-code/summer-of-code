@@ -6,6 +6,8 @@ permalink: blog/introducing-team-migraine
 current: blog
 author: Rocio Paez
 twitter: migraine_io
+categories:
+- student-posts
 ---
 
 ## About Me

@@ -6,6 +6,8 @@ permalink: blog/introducing-TeamOmniaExtares
 current: blog
 author: Lyz and Utah
 twitter: lyzellis
+categories:
+- student-posts
 ---
 
 We are Team Omnia Extares. 

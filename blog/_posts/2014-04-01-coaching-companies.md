@@ -6,6 +6,8 @@ permalink: blog/2014-04-01-6wunderkinder-envato-springest-are-coaching-companies
 current: blog
 author: Floor
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 [6wunderkinder](http://www.6wunderkinder.com/), [Envato](http://www.envato.com/) and [Springest](http://www.springest.co.uk/) support our Summer of Code by being [Coaching Companies](http://railsgirlssummerofcode.org/guide/coaching-company/), a role we defined for this year's edition as we noticed that some of last year’s most successful student teams have been supported greatly by local coaching companies. Companies like SoundCloud, who provided a place to work and a pool of coaches to help out two student teams at their Berlin office, inspired us to formalize this role.

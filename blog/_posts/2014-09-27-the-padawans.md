@@ -6,6 +6,8 @@ permalink: blog/code_padawans-2014
 current: blog
 author: Code_Padawans
 twitter: code_padawans
+categories:
+- student-posts
 ---
 <img src="http://code-padawans.de/wp-content/uploads/2014/09/cf_slide1-e1411132632956.jpg" align="center" width="600">
 
