@@ -6,6 +6,8 @@ permalink: blog/Bubbleconf_tickets
 current: blog
 author: Floor
 twitter: floordrees
+categories:
+- conferences
 ---
 
 Our friends at [Phusion](http://phusion.nl/) and [Nedap](http://www.nedap.com/nl/) are giving away **10 tickets to Bubbleconf** to Rails Girls (Summer of Code) alumni & supporters! And YOU want one. Why? [BubbleConf](http://www.bubbleconf.com/) is THE conference on design, development and entrepreneurship. It differs from all the

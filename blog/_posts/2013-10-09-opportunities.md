@@ -6,6 +6,8 @@ permalink: blog/opportunities
 current: blog
 author: Anika
 twitter: langziehohr
+categories:
+- tips-and-tricks
 ---
 
 Some of our teams are still rocking their projects, some have already finished, but this doesn't mean the coding needs to be over. There are some opportunities! We got offers for internships from companies: 

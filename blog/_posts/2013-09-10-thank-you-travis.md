@@ -6,13 +6,15 @@ permalink: blog/Thank_you_Travis
 current: blog
 author: Floor
 twitter: floordrees
+categories:
+- news
 ---
 <img src="https://si0.twimg.com/profile_images/1788260785/travis.png" height="250" style="padding-right: 10px;">
 <img src="https://dyrci3isikb50.cloudfront.net/files/172392/original/A45831E2-43A7-4D8D-B14C-86D787A131BC.gif" height="250">
 
 [Travis CI](http://travis-ci.org) is an open source company, based in beautiful Berlin. They build a hosted continuous integration service which is integrated with GitHub and supports a multitude of programming languages, like Python, Go, PHP, Java, C++... and of course Ruby! And I think it's fair to say that without Travis, there would not have been a Rails Girls Summer of Code, as they took on lead support and organization. 
 
-[Anika](https://twitter.com/langziehorh) - from now on referred to as 'Chief Spread the Word' of Rails Girls Summer of Code - wrote a cool post on the Travis blog the other day, on how our 'founders' went from ['dream to 19 scholarships in under 3 months'](http://about.travis-ci.org/blog/2013-09-05-travis-and-rails-girls-summer-of-code/). Which is indeed a huge accomplishment and worthy of a BIG thank you!
+[Anika](https://twitter.com/langziehohr) - from now on referred to as 'Chief Spread the Word' of Rails Girls Summer of Code - wrote a cool post on the Travis blog the other day, on how our 'founders' went from ['dream to 19 scholarships in under 3 months'](http://about.travis-ci.org/blog/2013-09-05-travis-and-rails-girls-summer-of-code/). Which is indeed a huge accomplishment and worthy of a BIG thank you!
 
 [Team Inchworms](https://twitter.com/inchworms_) found a suitable way to thank the Travis CI team for their efforts *(spoiler alert: they [baked a Travis CI cake](http://inchworms.net/travis) and there are awesome gifs involved!!*)<br>
 

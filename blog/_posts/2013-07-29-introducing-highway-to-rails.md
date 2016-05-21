@@ -6,6 +6,8 @@ permalink: blog/introducing-highway-to-rails
 current: blog
 author: Tam and Susanne
 twitter: highwaytorails
+categories:
+- student-posts
 ---
 
 **We are team [Highway to Rails](https://teams.railsgirlssummerofcode.org/teams/14).** We chose the name because of the ACDC song “Highway to Hell”. When you replace the word “hell” with “rails”, it really sounds like we’re doing something incredibly exciting, which, of course, we are!

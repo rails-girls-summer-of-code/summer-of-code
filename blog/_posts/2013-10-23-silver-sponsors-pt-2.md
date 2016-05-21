@@ -6,6 +6,8 @@ permalink: blog/silver-sponsors-pt-2
 current: blog
 author: Tam
 twitter: travelingtamm
+categories:
+- news
 ---
 [Last week,](http://railsgirlssummerofcode.org/blog/silver-sponsors-pt-1/) we presented the first five of our remarkable silver sponsors. Now you can learn more about the other half. These generous guys make RGSoC possible; we think they’re pretty awesome!
 

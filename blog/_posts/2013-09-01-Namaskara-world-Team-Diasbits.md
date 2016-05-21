@@ -6,6 +6,8 @@ permalink: blog/Namaskara-world-Team-Diasbits
 current: blog
 author: Sakshi and Pallavi
 twitter: s_jain1107
+categories:
+- student-posts
 ---
 
 We are Pallavi and Sakshi [Team Diasbits](http://defendingdiaspora.wordpress.com/) from India. The name Diasbits, as we are contributing a bit to [diaspora\*](https://github.com/diaspora/diaspora), the privacy-aware, decentralized social network. Also, Diasbits, came to our mind as assembling bits of diaspora* to enhance its developement.

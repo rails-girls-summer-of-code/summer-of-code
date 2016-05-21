@@ -6,6 +6,8 @@ permalink: blog/team-bundler
 current: blog
 author: Jen and Joyce
 twitter: RGSoCBundler
+categories:
+- student-posts
 ---
 <img src="https://f.cloud.github.com/assets/1711357/1235067/bbcc9eb4-2998-11e3-9f57-326bbeb8bd14.png" width="600">
 

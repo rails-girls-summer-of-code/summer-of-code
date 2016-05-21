@@ -6,6 +6,8 @@ permalink: blog/talk
 current: blog
 author: Tiffany
 twitter: theophani
+categories:
+- tips-and-tricks
 ---
 
 <div class="announce">

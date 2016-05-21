@@ -6,6 +6,8 @@ permalink: blog/hammertime
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
+categories:
+- news
 ---
 
 What a week! We can't even decide what to tell you first.

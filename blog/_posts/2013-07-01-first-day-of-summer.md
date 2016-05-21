@@ -6,6 +6,8 @@ permalink: blog/first-day-of-summer
 current: blog
 author: Anika
 twitter: langziehohr
+categories:
+- news
 ---
 
 It's finally arrived! It's 1st of July and the Summer of Code starts in 3….2….1…..

@@ -6,6 +6,9 @@ permalink: blog/conference-tips
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
+categories:
+- conferences
+- tips-and-tricks
 ---
 
 

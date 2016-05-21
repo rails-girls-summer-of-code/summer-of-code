@@ -6,6 +6,8 @@ permalink: blog/github-platinum-sponsor
 current: blog
 author: Alexandra
 twitter: troubalex
+categories:
+- news
 ---
 
 Hands up, who hasn't heard of GitHub? We probably won't see that many raising theirs. For those who are new to all these development details, here is what GitHub [writes about themselves:](https://github.com/about)

@@ -6,6 +6,8 @@ permalink: blog/thehague
 current: blog
 author: Anika
 twitter: langziehohr
+categories:
+- news
 ---
 
 The story of Rails Girls Summer of code is just crazy, amazing, inspiring and actually hard to believe (the idea stated only in May this year and now we are actually doing this!). So to tell other people about this, other Rails Girls students who are just at the beginning of falling in love with Rails, I visited [Rails Girls The Hague](https://www.facebook.com/RailsGirlsTheHague). 
