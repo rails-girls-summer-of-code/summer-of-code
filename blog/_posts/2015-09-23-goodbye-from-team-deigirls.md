@@ -6,6 +6,8 @@ permalink: blog/2015-09-23-goodbye-from-team-deigirls
 current: blog
 author: Inês & Rosa
 twitter: teamdeigirls
+categories: 
+- student-posts
 ---
 
 

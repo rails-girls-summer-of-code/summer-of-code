@@ -6,6 +6,8 @@ permalink: blog/2015-10-23-farewell-summer-of-code-farewell
 current: blog
 author: Ania&Basia
 twitter: girlscoderswars
+categories: 
+- student-posts
 ---
 
 Unfortunately the summer is over and we have to move on. Those were an amazing three months that completely changed our lives. At least we hoped so!

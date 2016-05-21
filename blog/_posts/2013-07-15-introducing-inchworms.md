@@ -6,6 +6,8 @@ permalink: blog/introducing-inchworms
 current: blog
 author: Anja and Carla
 twitter: _tyranja_
+categories:
+- student-posts
 ---
 
 Hej Everbody,

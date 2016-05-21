@@ -6,6 +6,8 @@ permalink: blog/2015-10-13-team-codebenders-wrap-up
 current: blog
 author: Jayasi and Megha
 twitter: teamcodebenders
+categories: 
+- student-posts
 ---
 <img align="center" src="/img/blog/2015/JayasiMeghaIntro.png">
 

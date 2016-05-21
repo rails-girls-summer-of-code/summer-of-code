@@ -6,6 +6,8 @@ permalink: blog/2015-07-13-introducing-deltaquadrant
 current: blog
 author: Julia and Maren
 twitter: anderspree
+categories: 
+- student-posts
 ---
 
 Hello! We are Maren and Julia of [Team Delta Quadrant](https://teams.railsgirlssummerofcode.org/teams/23). We'll work on [Diaspora*](https://diasporafoundation.org).

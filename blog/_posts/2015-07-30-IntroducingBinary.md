@@ -6,6 +6,8 @@ permalink: blog/2015-07-30-introducing-binary
 current: blog
 author: Lina and Angela
 twitter: TeamBinaryRG
+categories: 
+- student-posts
 ---
 
 Hello! We are [Angela and Lina](https://teams.railsgirlssummerofcode.org/teams/62) from Barranquilla, Colombia.  During our summer, we will be working on a Project which is called "Rubygems Adoption Center". For this project we have an incredible team working with us. Our coaches are Sebastian Sogamoso and Alfonso Mancilla and our mentors Nick Quaranto and Benjamin Fleischer. Our supervisor  Ramon Huidobro. They have been very helpful for our growth and progress throughout the project because every day we have feedbacks that help us to complete our tasks in the best way possible.

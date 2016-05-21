@@ -6,6 +6,8 @@ permalink: blog/2015-08-07-fanxhe-team-is-broadcasting-from-rgsoc
 current: blog
 author: Fanxhe Team
 twitter: fanxhe
+categories: 
+- student-posts
 ---
 
 # Hello World

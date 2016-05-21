@@ -6,6 +6,8 @@ permalink: blog/2015-applications-open
 current: blog
 author: Sara
 twitter: RailsGirlsSoC
+categories: 
+- news
 ---
 
 After a few months of very diligent work on our Teams App, we've made preparing your

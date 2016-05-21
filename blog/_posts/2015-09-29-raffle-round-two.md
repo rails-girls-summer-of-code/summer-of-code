@@ -6,6 +6,9 @@ permalink: blog/2015-09-29-raffle-round-two
 current: blog
 author: Laura
 twitter: RailsGirlsSoc
+categories: 
+- conferences
+- news
 ---
 
 As we're nearing the end of the program, it was also time to get the second round of our WORLD-FAMOUS conference raffle going. We're excited to finally announce the winners:

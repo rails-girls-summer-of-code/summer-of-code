@@ -6,6 +6,8 @@ permalink: blog/2015-08-03-introducing-Team-Hackrgirls
 current: blog
 author: Nidhiya and Anjaly
 twitter: RGSOC_hackrgirl
+categories: 
+- student-posts
 ---
 
 

@@ -6,6 +6,8 @@ permalink: blog/2014-05-07-meet-the-first-seven-teams-rgsoc-2014
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
+categories:
+- news
 ---
 
 We'd like to thank everyone who send in an application, the quality of

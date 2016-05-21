@@ -6,6 +6,8 @@ permalink: blog/2016-03-28-4-ways-to-find-a-team
 current: blog
 author: Ana Sofia
 twitter: RailsGirlsSoC
+categories:
+- tips-and-tricks
 ---
 
 ![4 Ways to Find a Team for RGSoC 2016](/img/blog/2016/4-ways-to-find-a-team-team-rubyherzlein-rgsoc-2015.png)

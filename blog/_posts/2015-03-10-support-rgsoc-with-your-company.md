@@ -6,6 +6,8 @@ permalink: blog/support-rgsoc-with-your-company
 current: blog
 author: Laura
 twitter: RailsGirlsSoC
+categories: 
+- tips-and-tricks
 ---
 
 

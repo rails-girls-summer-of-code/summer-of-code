@@ -6,6 +6,8 @@ permalink: blog/platinum-sponsors-2014
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 ###GitHub and Travis CI are major supporters of Rails Girls Summer of Code

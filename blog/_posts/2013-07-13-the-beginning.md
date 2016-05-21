@@ -6,6 +6,8 @@ permalink: blog/the-beginning
 current: blog
 author: Anika
 twitter: langziehohr
+categories:
+- news
 ---
 <img src="https://f.cloud.github.com/assets/1711357/792581/fdabc3fc-eba7-11e2-9fcc-b114f9a1d44f.png" align="middle" height="300">
 

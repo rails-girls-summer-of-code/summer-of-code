@@ -6,6 +6,8 @@ permalink: blog/rails-girls-summer-of-code-teams-announced
 current: blog
 author: Anika
 twitter: langziehohr
+categories:
+- news
 ---
 
 We are both very much thrilled and equally humbled about how Rails Girls Summer

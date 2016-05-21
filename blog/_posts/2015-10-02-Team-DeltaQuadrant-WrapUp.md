@@ -6,6 +6,8 @@ permalink: blog/2015-10-02-Team-Delta-Quadrant
 current: blog
 author: Maren and Julia
 twitter: zaziemo
+categories: 
+- student-posts
 ---
 ![](/img/blog/2015/delta-quadrant-wrapup-janeway.jpg)
 <font color="grey"><small><i>(Image: <a href="http://mistresscara1000.tumblr.com/post/61292922924/our-favourite-captains-expressions-can-sum-up-any" target="_blank">Tumblr</a>)</i></small></font>

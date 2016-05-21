@@ -6,6 +6,8 @@ permalink: blog/2015-07-06-introducing-tessie
 current: blog
 author: Shelly and Pilar
 twitter: teamtessie
+categories: 
+- student-posts
 ---
 
 Hello! We are Shelly and Pilar, and together we make up the student part of [Team Tessie](https://teams.railsgirlssummerofcode.org/teams/18). We will be spending the summer working with the wonderful people from [Hood.ie](http://hood.ie/). 

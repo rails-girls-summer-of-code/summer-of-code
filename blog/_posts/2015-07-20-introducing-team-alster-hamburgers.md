@@ -6,6 +6,8 @@ permalink: blog/2015-07-20-introducing-team-alster-hamburgers
 current: blog
 author: Anke and Aya
 twitter: alsterburgers
+categories: 
+- student-posts
 ---
 
 

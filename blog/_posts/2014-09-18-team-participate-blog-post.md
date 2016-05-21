@@ -5,6 +5,8 @@ created_at: Thu Sep 18 2014
 permalink: blog/2014-09-18-meet-team-participate
 current: blog
 author: Team Participate
+categories:
+- student-posts
 ---
 
 ### Who are we?

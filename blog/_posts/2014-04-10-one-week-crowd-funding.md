@@ -6,6 +6,8 @@ permalink: blog/2014-04-10-one-week-of-crowd-funding
 current: blog
 author: RGSoC team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 

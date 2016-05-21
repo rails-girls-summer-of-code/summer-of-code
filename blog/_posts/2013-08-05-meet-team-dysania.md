@@ -6,6 +6,8 @@ permalink: blog/meet-team-dysania
 current: blog
 author: Vyki and JZ
 twitter: krainboltgreene
+categories:
+- student-posts
 ---
 
 Hi! We’re [Vyki](https://twitter.com/toastergrrl) & [JZ](https://twitter.com/jzeta) of [Team Dysania](https://teams.railsgirlssummerofcode.org/teams/20) from Los Angeles, California, and we started as part-time RGSoC student volunteers on July 8. This summer, we’re web interns by day (Vyki at the [City of Santa Monica](http://www.smgov.net/departments/pcd/), JZ at [Walt Disney Animation Studios](http://www.disneyanimation.com/)), and Ruby OSS developers (with coach [Kurtis Rainbolt-Greene](https://twitter.com/krainboltgreene)) by night.

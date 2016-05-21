@@ -6,6 +6,8 @@ permalink: blog/introducing-TeamUnicorn
 current: blog
 author: Victoria and Hester
 twitter: RG_TeamUnicorn
+categories:
+- student-posts
 ---
 
 Hi everyone!

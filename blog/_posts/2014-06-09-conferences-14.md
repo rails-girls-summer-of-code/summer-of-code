@@ -6,6 +6,8 @@ permalink: blog/2014-06-09-conference-tickets
 current: blog
 author: Floor
 twitter: RailsGirlsSoc
+categories:
+- conferences
 ---
 
 Last year a number of conferences offered (team) tickets to Rails Girls Summer of Code students. A few of them even supported the students with their travel costs and accommodation. We heard great stories from our students how they made new friends, valuable connections, learned heaps and had tons of fun.

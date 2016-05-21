@@ -6,6 +6,8 @@ permalink: blog/magda
 current: blog
 author: Magda
 twitter: lippenka
+categories:
+- student-posts
 ---
 
 Hi, I'm Magda. This is my coding story.

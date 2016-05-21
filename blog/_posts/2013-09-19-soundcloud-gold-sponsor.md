@@ -6,6 +6,8 @@ permalink: blog/soundcloud-gold-sponsor
 current: blog
 author: Katrin
 twitter: _die_katrin
+categories:
+- news
 ---
 
 

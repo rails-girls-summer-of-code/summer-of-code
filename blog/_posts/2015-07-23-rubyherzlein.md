@@ -6,6 +6,8 @@ permalink: blog/2015-07-23-rubyherzlein
 current: blog
 author: Nynne and Franzi
 twitter: RubyherzleinRG
+categories: 
+- student-posts
 ---
 
 

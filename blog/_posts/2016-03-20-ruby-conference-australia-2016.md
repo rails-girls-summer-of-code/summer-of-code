@@ -6,6 +6,9 @@ permalink: blog/2016-03-20-ruby-conference-australia-2016
 current: blog
 author: Vi Nguyen and Sarah Ni
 twitter: teammelbkoala
+categories: 
+- conferences
+- student-posts
 ---
 
 This year’s Ruby Conference Australia was held on the Gold Coast, a vibrant and breathtaking city, known for its world famous Surfer’s Paradise — a beach and surfing haven — and home to the country’s most exciting theme parks.   

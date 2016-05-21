@@ -6,6 +6,8 @@ permalink: blog/your-summer-of-code
 current: blog
 author: Laura
 twitter: RailsGirlsSoC
+categories: 
+- tips-and-tricks
 ---
 
 We love it when people contribute to Open Source, and hopefully someday there will be no need for a “Rails Girls Summer of Code”, or similar programs, to make that happen. With that in mind, the fact that your team was not selected for this year’s Rails Girls Summer of Code doesn’t mean that you can’t have **your own Summer of Code**! And it certainly shouldn’t stop you from contributing to the project you had chosen (or to any other one, really).  

@@ -6,6 +6,8 @@ permalink: blog/2014-05-05-givie-is-here
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
+categories:
+- news
 ---
 
 

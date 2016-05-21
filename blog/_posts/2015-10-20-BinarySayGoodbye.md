@@ -6,6 +6,8 @@ permalink: blog/2015-10-20-binary-say-goodbye
 current: blog
 author: Lina and Angela
 twitter: TeamBinaryRG
+categories: 
+- student-posts
 ---
 
 It is the end of an incredible summer. We improved our skills so far and attended our first conference, [RubyConf Colombia](http://www.rubyconf.co/). We are very grateful with the program of Rails Girls Summer of Code.

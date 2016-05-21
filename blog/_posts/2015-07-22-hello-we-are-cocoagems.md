@@ -6,6 +6,8 @@ permalink: blog/2015-07-22-hello-we-are-cocoagems
 current: blog
 author: Karla and Emma
 twitter: cocoagems
+categories: 
+- student-posts
 ---
 
 ### An introduction. Who we are.

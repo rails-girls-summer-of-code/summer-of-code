@@ -6,6 +6,8 @@ permalink: blog/2015-07-10-hello-from-amsterdam
 current: blog
 author: Roos de Bildt
 twitter: team_cheesy
+categories: 
+- student-posts
 ---
 
 We are Maud and Roos, better known as Team Cheesy. Proud to be Dutch, we identify with our country’s best, and some argue even only, culinary treat. Greasy, smooth and tasty, that’s us! Also, we love to make people smile (“Say cheese!”) and joke around with a little cheesiness.

@@ -6,6 +6,8 @@ permalink: blog/2015-06-15-closing-the-campaign
 current: blog
 author: Laura
 twitter: RailsGirlsSoC
+categories: 
+- news
 ---
 
 Whoohoo! They said the third year will be the hardest – but in the end, we broke all records with our crowdfunding campaign. We still can’t wrap our heads around the fact that we can fund 16 teams this year: that’s 6 more than in the last two years.

@@ -6,6 +6,8 @@ permalink: blog/new-teams-on-board
 current: blog
 author: Anika
 twitter: langziehohr
+categories:
+- news
 ---
 
 

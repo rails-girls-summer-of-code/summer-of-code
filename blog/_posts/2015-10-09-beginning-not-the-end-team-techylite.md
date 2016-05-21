@@ -6,6 +6,8 @@ permalink: blog/2015-10-09-the-beginning-of-an-end
 current: blog
 author: Resla and Esther
 twitter: techylite
+categories: 
+- student-posts
 ---
 
 

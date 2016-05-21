@@ -6,6 +6,8 @@ permalink: blog/2015-09-30-exercistas-say-goodbye
 current: blog
 author: Mixolidia & Sarah
 twitter: exercistas
+categories: 
+- student-posts
 ---
 
 This summer we pushed, pulled, squashed, force pushed, gave lightning talks, exercised, interviewed, toured, travelled and became official core contributors to exercism. It's all due to Rails Girls Summer of Code and we're so grateful.

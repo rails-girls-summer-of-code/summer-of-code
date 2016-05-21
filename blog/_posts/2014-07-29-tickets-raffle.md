@@ -6,6 +6,8 @@ permalink: blog/2014-07-29-tickets-raffle
 current: blog
 author: Floor
 twitter: RailsGirlsSoc
+categories:
+- conferences
 ---
 
 All the students turned to Twitter, gave us their [conference](http://railsgirlssummerofcode.org/blog/2014-06-09-conference-tickets/) wishlists and the results are in! *And the conference tickets go to...*

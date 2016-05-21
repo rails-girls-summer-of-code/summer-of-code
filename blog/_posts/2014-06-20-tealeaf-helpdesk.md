@@ -6,6 +6,8 @@ permalink: blog/2014-06-19-tealeaf-helpdesk
 current: blog
 author: Floor
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 The Remote Helpdesk was part of the Rails Girls Summer of Code concept right from the beginning. Coaches who are not assigned to a team (or just want to help even more) check in on the Helpdesk chat room to assist students with ... any question they might have, should their local coaches not be immediately available.

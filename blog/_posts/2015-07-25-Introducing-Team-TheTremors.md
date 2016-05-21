@@ -6,6 +6,8 @@ permalink: blog/2015-07-25-introducing-Team-The-Tremors
 current: blog
 author: Nelly and Mercy
 twitter: teamtremors
+categories: 
+- student-posts
 ---
 
 ##Introducing Team The Tremors

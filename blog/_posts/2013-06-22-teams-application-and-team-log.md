@@ -6,6 +6,8 @@ permalink: blog/teams-application-and-team-log
 current: blog
 author: Sven
 twitter: svenfuchs
+categories:
+- tips-and-tricks
 ---
 
 Our little [Rails Girls Summer of Code Teams application](https://teams.railsgirlssummerofcode.org/teams)

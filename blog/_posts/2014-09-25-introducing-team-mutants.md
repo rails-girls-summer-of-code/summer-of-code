@@ -6,6 +6,8 @@ permalink: blog/introducing-team-mutants-2014
 current: blog
 author: Aayish and Akshata
 twitter: _MutantsTeam_
+categories:
+- student-posts
 ---
 
 ### About Us

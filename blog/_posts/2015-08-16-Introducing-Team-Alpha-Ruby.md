@@ -6,6 +6,8 @@ permalink: blog/2015-08-16-introducing-alpha-ruby
 current: blog
 author: Ariane and Ramya
 twitter: teamalpharuby
+categories: 
+- student-posts
 ---
 
 Hello everybody! We are [Team Alpha Ruby](https://teams.railsgirlssummerofcode.org/teams/83), Ariane and Ramya - no team name pun intended ;-).

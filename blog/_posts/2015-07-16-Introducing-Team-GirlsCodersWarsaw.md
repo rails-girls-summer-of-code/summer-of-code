@@ -6,6 +6,8 @@ permalink: blog/2015-07-16-introducing-team-girlscoderswarsaw
 current: blog
 author: Ania&Basia
 twitter: girlscoderswars
+categories: 
+- student-posts
 ---
 
 

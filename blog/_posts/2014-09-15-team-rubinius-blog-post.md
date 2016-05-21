@@ -5,6 +5,8 @@ created_at: Mon Sep 15 2014
 permalink: blog/introducing-team-rubinius-india
 current: blog
 author: Team Rubinius
+categories:
+- student-posts
 ---
 
 ### About Us

@@ -6,6 +6,8 @@ permalink: blog/2015-07-29-Introducing-Exercistas
 current: blog
 author: Mixolidia & Sarah
 twitter: exercistas
+categories: 
+- student-posts
 ---
 
 ##Introducing Exercistas!

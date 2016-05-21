@@ -6,6 +6,8 @@ permalink: blog/Google_Open_Source
 current: blog
 author: Floor
 twitter: floordrees
+categories:
+- news
 ---
 
 

@@ -6,6 +6,8 @@ permalink: blog/2015-08-05-introducing-team-ruby-and-bugs
 current: blog
 author: Raluca and Thuy
 twitter: rubyandbugs
+categories: 
+- student-posts
 ---
 <img src="/img/blog/2015/introducing-team-rnb-all.jpg" alt="Team Ruby'n'Bugs">
 

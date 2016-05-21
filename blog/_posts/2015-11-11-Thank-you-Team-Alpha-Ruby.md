@@ -6,6 +6,8 @@ permalink: blog/2015-11-11-Thank-You-Team-Alpha-Ruby
 current: blog
 author: Ramya and Ariane
 twitter: teamalpharuby
+categories:
+- student-posts
 ---
 
 Thank You Rails Girls Summer of Code for providing us an opportunity to work in a multicultural environment. Rails Girls Summer of Code allows to meet like-minded people and is a great opportunity to expand our knowledge. 

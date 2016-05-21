@@ -6,6 +6,8 @@ permalink: blog/conference
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
+categories:
+- conferences
 ---
 
 <img src="https://f.cloud.github.com/assets/1711357/862757/f30569be-f5fa-11e2-97ee-1b32a3da5138.png" width="600">

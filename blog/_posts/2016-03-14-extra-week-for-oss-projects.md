@@ -6,6 +6,8 @@ permalink: blog/2016-03-14-extra-week-for-oss-projects
 current: blog
 author: Ana Sofia
 twitter: RailsGirlsSoC
+categories:
+- news
 ---
 
 ![Extra Week of OSS project submissions](/img/blog/2016/extra-week-for-oss-projects.gif)

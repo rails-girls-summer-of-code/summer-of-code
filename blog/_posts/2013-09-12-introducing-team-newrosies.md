@@ -5,6 +5,8 @@ created_at: Thu September 12 2013
 permalink: blog/introducing-team-newrosies
 current: blog
 author: Laura and Adriana
+categories:
+- student-posts
 ---
 
 Hello, we are Laura and Adriana, two college students from Colombia and we are the [New Rosies](http://newrosies.tumblr.com/). We met each other one year ago in a computer networks class at college.

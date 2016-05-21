@@ -6,6 +6,9 @@ permalink: blog/2015-10-30-cocoagems-get-strange-at-strangeloop
 current: blog
 author: Karla and Emma
 twitter: cocoagems
+categories: 
+- conferences
+- student-posts
 ---
 ## What is Strange Loop?
 

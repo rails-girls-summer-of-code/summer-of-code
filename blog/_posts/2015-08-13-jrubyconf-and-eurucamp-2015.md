@@ -6,6 +6,8 @@ permalink: blog/2015-08-13-jrubyconf-and-eurucamp-2015
 current: blog
 author: Laura
 twitter: RailsGirlsSoc
+categories: 
+- conferences
 ---
 
 On the last week(end) of July, some of us – Rails Girls Summer of Code core organisers – headed to Potsdam for [JRubyConf](http://2015.jrubyconf.eu/) and [eurucamp](http://2015.eurucamp.org/). JRubyConf, a one-day conference, had reached out to us because they found themselves with a pretty terrible male to female speaker ratio. In order to make this problem more visible, they wanted to involve Sara and me as MCs and Anika as a speaker – talking about why we need diverse communities and how to achieve that. As the JRubyConf team explained very well in [this blog post](http://blog.eurucamp.org/2015/06/19/the-rails-girls-summer-of-code-team-at-the-jrubyconfeu/), it is everyone’s responsibility, especially conference organisers’, to try and change things.  

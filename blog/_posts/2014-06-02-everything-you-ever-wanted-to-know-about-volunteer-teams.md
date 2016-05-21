@@ -6,6 +6,8 @@ permalink: blog/everything-you-ever-wanted-to-know-about-volunteer-teams
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 ### Everything you ever wanted to know about volunteer teams

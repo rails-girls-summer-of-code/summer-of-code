@@ -6,6 +6,8 @@ permalink: blog/hello_world
 current: blog
 author: Sven
 twitter: svenfuchs
+categories:
+- news
 ---
 
     puts "Hello, Rails Girls world!"

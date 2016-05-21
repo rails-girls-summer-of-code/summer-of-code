@@ -6,6 +6,8 @@ permalink: blog/2015-09-27-Team-Melbourne
 current: blog
 author: Vi and Sarah
 twitter: TeamMelbKoala
+categories: 
+- student-posts
 ---
 
 G’day!  

@@ -6,6 +6,8 @@ permalink: blog/2015-10-15-goodbye-from-team-rubygirlsquito
 current: blog
 author: Sofi Cherenkov and Evy
 twitter: zeroknowledge9
+categories: 
+- student-posts
 ---
 
 So long and (and no thanks for the

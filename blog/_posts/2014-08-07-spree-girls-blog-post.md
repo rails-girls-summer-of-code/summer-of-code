@@ -5,6 +5,8 @@ created_at: Thu Aug 07 2014
 permalink: blog/spree-girls-downunder
 current: blog
 author: Spree Girls
+categories:
+- student-posts
 ---
 
 #Spree Girls Australia

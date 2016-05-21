@@ -6,6 +6,8 @@ permalink: blog/Summer_of
 current: blog
 author: Floor
 twitter: floordrees
+categories:
+- conferences
 ---
 
 We have been offered no less than 49 free tickets at some of the best Ruby conferences on 3 different continents. Behold, the conferences that so kindly sponsored tickets to their events (and in some cases even flight tickets!) for our Summer of Code participants:
