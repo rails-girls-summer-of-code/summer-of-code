@@ -615,3 +615,18 @@
         technology.
       years:
         - 2016
+    - name: Digitalocean
+      id: digitalocean
+      url: http://www.digitalocean.com
+      text: |-
+        <a href="http://www.digitalocean.com/">DigitalOcean</a> is the world’s fastest
+        growing cloud hosting provider built for developers. Our mission is simple:
+        we’re passionate about making complex infrastructure simple and delighting
+        our customers with a seamless experience that brings them joy. New users can
+        easily deploy a blazing fast cloud server in 55 seconds with an intuitive
+        control panel interface, which can be replicated on a larger scale with the
+        company’s straightforward API.
+      years:
+        - 2014
+        - 2015
+        - 2016
