@@ -7,37 +7,6 @@ sidebar: content
 permalink: /students/conferences/
 current: students
 ---
-
-<style>
-  table {
-    width: 100%;
-    margin-bottom: 3em;
-    border-collapse: collapse;
-  }
-  th, td {
-    width: 19%;
-    text-align: left;
-    border: 1px solid #ccc;
-    padding: 0.5em 1em;
-  }
-  th:nth-of-type(4), td:nth-of-type(4) {
-    width: 24%;
-  }
-
-  .tweet {
-    padding: 1em;
-    background-color: #eee;
-    border-color: #ccc;
-    border-radius: 10px;
-  }
-  h4 {
-    padding-top: 1.3em;
-  }
-  .conf-details {
-    line-height: 0.7em;
-  }
-</style>
-
 <h1>Go to a conference!</h1>
 
 The Summer of Code is all about contributing and being part of the community. As part of this, we want you – our students – to explore and experience the inspiring vibe of conferences, user groups and meetups. Obviously you should spend the precious work time that you have focussing on your work. But we’d also like you to get in touch with the community vis-a-vis, if possible, so you get a feeling for that vibe, too.
@@ -98,6 +67,7 @@ You are organizing a conference and want to provide free tickets for Rails Girls
 Our students are located all over the world. 2015 teams mainly work on projects using Ruby/Rails/Ruby-related frameworks. We now also have a few JS projects. But we are also looking for general topic developer conferences or full-stack conferences.
 
 There are a few things to consider though:
+
 * Your conference should be beginner friendly. That means, talks (or workshops) need to be suitable for people who haven’t done this for years.
 
 * You take care of a welcoming, respectful and harassment-free atmosphere. We expect you to either have a Code of Conduct in place or otherwise make an effort in dealing with - let us be plain - jerk behavior. Bonus points go to conferences who have assigned contact persons for potential incidents.
@@ -114,71 +84,73 @@ Interested? Any further questions? <a href="mailto:summer-of-code@railsgirls.com
 
 A huge **Thank You!** to all conferences who support our students and provide free tickets for the 2015 edition. 
 
-<h4><a href="http://2015.jrubyconf.eu/">JRubyConf EU</a></h4>
-<p class="conf-details"><a href="https://twitter.com/jrubyconfeu">@JRubyConfEU</a>, Potsdam (Germany), 31 July 2015</p>
+<div class="conferences">
+  <h4><a href="http://2015.jrubyconf.eu/">JRubyConf EU</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/jrubyconfeu">@JRubyConfEU</a>, Potsdam (Germany), 31 July 2015</p>
 
-<h4><a href="http://2015.eurucamp.org/">Eurucamp</a></h4>
-<p class="conf-details"><a href="https://twitter.com/eurucamp">@eurucamp</a>, Potsdam (Germany), 31 July – 02 August 2015</p>
+  <h4><a href="http://2015.eurucamp.org/">Eurucamp</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/eurucamp">@eurucamp</a>, Potsdam (Germany), 31 July – 02 August 2015</p>
 
-<h4><a href="http://www.deccanrubyconf.org/">Deccan RubyConf</a></h4>
-<p class="conf-details"><a href="https://twitter.com/deccanrubyconf">@deccanrubyconf</a>, Pune (India), 08 August 2015</p>
+  <h4><a href="http://www.deccanrubyconf.org/">Deccan RubyConf</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/deccanrubyconf">@deccanrubyconf</a>, Pune (India), 08 August 2015</p>
 
-<h4><a href="https://otsconf.com/">OTSConf</a></h4>
-<p class="conf-details"><a href="https://twitter.com/otsconf">@otsconf</a>, Dortmund (Germany), 15 - 16 August 2015</p>
+  <h4><a href="https://otsconf.com/">OTSConf</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/otsconf">@otsconf</a>, Dortmund (Germany), 15 - 16 August 2015</p>
 
-<h4><a href="http://madisonpl.us/ruby/">Madison+ Ruby</a></h4>
-<p class="conf-details"><a href="http://www.twitter.com/madisonruby">@madisonruby</a>, Madison (USA), 20 - 22 August 2015</p>
+  <h4><a href="http://madisonpl.us/ruby/">Madison+ Ruby</a></h4>
+  <p class="conf-details"><a href="http://www.twitter.com/madisonruby">@madisonruby</a>, Madison (USA), 20 - 22 August 2015</p>
 
-<h4><a href="http://www.fullstackfest.com/?from_baruco">BaRuCo</a> (part of FullStackFest)</h4>
-<p class="conf-details"><a href="https://twitter.com/fullstackfest">@fullstackfest</a>, Barcelona (Spain), 1 - 5 September 2015</p>
+  <h4><a href="http://www.fullstackfest.com/?from_baruco">BaRuCo</a> (part of FullStackFest)</h4>
+  <p class="conf-details"><a href="https://twitter.com/fullstackfest">@fullstackfest</a>, Barcelona (Spain), 1 - 5 September 2015</p>
 
-<h4><a href="http://rejectjs.org/">Reject.JS</a></h4>
-<p class="conf-details"><a href="https://twitter.com/rejectjs">@rejectjs</a>, Berlin (Germany), 24 September 2015</p>
+  <h4><a href="http://rejectjs.org/">Reject.JS</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/rejectjs">@rejectjs</a>, Berlin (Germany), 24 September 2015</p>
 
-<h4><a href="https://thestrangeloop.com/">Strange Loop</a></h4>
-<p class="conf-details"><a href="https://twitter.com/strangeloop_stl">@strangeloop_stl</a>, St. Louis (USA), 24 - 26 September 2015</p>
+  <h4><a href="https://thestrangeloop.com/">Strange Loop</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/strangeloop_stl">@strangeloop_stl</a>, St. Louis (USA), 24 - 26 September 2015</p>
 
-<h4><a href="http://railsclub.ru/">RailsClub</a></h4>
-<p class="conf-details"><a href="https://twitter.com/railsclub_ru">@railsclub_ru</a>, Moscow (Russia), 26 September 2015</p>
+  <h4><a href="http://railsclub.ru/">RailsClub</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/railsclub_ru">@railsclub_ru</a>, Moscow (Russia), 26 September 2015</p>
 
-<h4><a href="http://2015.arrrrcamp.be/">Arrrrcamp</a></h4>
-<p class="conf-details"><a href="http://twitter.com/arrrrcamp">​@arrrrcamp</a>, Ghent (Belgium), 1 - 2 October 2015</p>
+  <h4><a href="http://2015.arrrrcamp.be/">Arrrrcamp</a></h4>
+  <p class="conf-details"><a href="http://twitter.com/arrrrcamp">​@arrrrcamp</a>, Ghent (Belgium), 1 - 2 October 2015</p>
 
-<h4><a href="http://osfeels.com/">OpenSource &amp; Feelings</a></h4>
-<p class="conf-details"><a href="https://twitter.com/OSFeels">@OSFeels</a>, Seattle (USA), 2 -3 October 2015</p>
+  <h4><a href="http://osfeels.com/">OpenSource &amp; Feelings</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/OSFeels">@OSFeels</a>, Seattle (USA), 2 -3 October 2015</p>
 
-<h4><a href="https://2015.webcampzg.org/">Webcamp Zagreb</a></h4>
-<p class="conf-details"><a href="https://twitter.com/webcampzg">@webcampzg</a>, Zagreb (Croatia), 3 - 4 October 2015</p>
+  <h4><a href="https://2015.webcampzg.org/">Webcamp Zagreb</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/webcampzg">@webcampzg</a>, Zagreb (Croatia), 3 - 4 October 2015</p>
 
-<h4><a href="http://www.rubyconf.co/">RubyConf Colombia</a></h4>
-<p class="conf-details"><a href="https://www.twitter.com/RubyConfCo">@RubyConfCo</a>, Medell&iacute;n (Colombia), 16 - 17 October 2015</p>
+  <h4><a href="http://www.rubyconf.co/">RubyConf Colombia</a></h4>
+  <p class="conf-details"><a href="https://www.twitter.com/RubyConfCo">@RubyConfCo</a>, Medell&iacute;n (Colombia), 16 - 17 October 2015</p>
 
-<h4><a href="www.euruko2015.org">EuRuKo</a></h4>
-<p class="conf-details"><a href="https://twitter.com/euruko">@euruko</a>, Salzburg (Austria), 17 - 18 October</p>
+  <h4><a href="www.euruko2015.org">EuRuKo</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/euruko">@euruko</a>, Salzburg (Austria), 17 - 18 October</p>
 
-<h4><a href="http://beyondtellerrand.com/">beyond tellerrand</a></h4>
-<p class="conf-details"><a href="http://twitter.com/btconf">@btconf</a>, Berlin (Germany), 2 - 4 November 2015</p>
+  <h4><a href="http://beyondtellerrand.com/">beyond tellerrand</a></h4>
+  <p class="conf-details"><a href="http://twitter.com/btconf">@btconf</a>, Berlin (Germany), 2 - 4 November 2015</p>
 
-<h4><a href="http://berlin2015.codemotionworld.com/">Codemotion Berlin</a></h4>
-<p class="conf-details"><a href="https://twitter.com/CodemoBerlin">@CodemoBerlin</a>, Berlin (Germany), 2 - 3 November 2015</p>
+  <h4><a href="http://berlin2015.codemotionworld.com/">Codemotion Berlin</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/CodemoBerlin">@CodemoBerlin</a>, Berlin (Germany), 2 - 3 November 2015</p>
 
-<h4><a href="http://oredev.org/">&Oslash;redev</a></h4>
-<p class="conf-details"><a href="https://twitter.com/oredev">@oredev</a>, Malmö (Sweden), 3 - 6 November 2015</p>
+  <h4><a href="http://oredev.org/">&Oslash;redev</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/oredev">@oredev</a>, Malmö (Sweden), 3 - 6 November 2015</p>
 
-<h4><a href="http://www.startechconf.com/">StarTechConf Chile</a></h4>
-<p class="conf-details"><a href="https://twitter.com/startechconf">@startechconf</a>, Santiago (Chile), 6 - 7 November 2015</p>
+  <h4><a href="http://www.startechconf.com/">StarTechConf Chile</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/startechconf">@startechconf</a>, Santiago (Chile), 6 - 7 November 2015</p>
 
-<h4><a href="http://gotocon.com/berlin-2015/">GOTO Berlin</a></h4>
-<p class="conf-details"><a href="http://twitter.com/gotober">@gotober</a>, Berlin (Germany), 2 - 4 December 2015</p>
+  <h4><a href="http://gotocon.com/berlin-2015/">GOTO Berlin</a></h4>
+  <p class="conf-details"><a href="http://twitter.com/gotober">@gotober</a>, Berlin (Germany), 2 - 4 December 2015</p>
 
-<h4><a href="http://www.dotjs.io/">dotJS</a></h4>
-<p class="conf-details"><a href="https://twitter.com/dotJS">@dotJS</a>, Paris (France), 7 December 2015</p>
+  <h4><a href="http://www.dotjs.io/">dotJS</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/dotJS">@dotJS</a>, Paris (France), 7 December 2015</p>
 
-<h4><a href="http://rubykaigi.org/2015">RubyKaigi</a></h4>
-<p class="conf-details"><a href="https://twitter.com/rubykaigi">​@rubykaigi</a>, Tokyo (Japan), 11 - 13 December 2015</p>
+  <h4><a href="http://rubykaigi.org/2015">RubyKaigi</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/rubykaigi">​@rubykaigi</a>, Tokyo (Japan), 11 - 13 December 2015</p>
 
-<h4><a href="http://www.rubyconf.org.au/2015">Rubyconf Australia</a></h4>
-<p class="conf-details"><a href="https://twitter.com/rubyconf_au">@rubyconf_au</a>, Melbourne (Australia), 4 - 7 February 2016</p>
+  <h4><a href="http://www.rubyconf.org.au/2015">Rubyconf Australia</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/rubyconf_au">@rubyconf_au</a>, Melbourne (Australia), 4 - 7 February 2016</p>
 
-<h4><a href="http://rubyconf.ph/">RubyConf Philippines</a></h4>
-<p class="conf-details"><a href="https://twitter.com/rubyconfph">​@rubyconfph</a>, Manila (Philippines), 8 - 9 April 2016</p>
+  <h4><a href="http://rubyconf.ph/">RubyConf Philippines</a></h4>
+  <p class="conf-details"><a href="https://twitter.com/rubyconfph">​@rubyconfph</a>, Manila (Philippines), 8 - 9 April 2016</p>
+</div>
