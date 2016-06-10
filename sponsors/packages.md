@@ -37,78 +37,69 @@ permalink: /sponsors/packages/
     <h3>Partner Company Package</h3>
     <p>To find out more about the option for becoming a partner company and what partnercompanies do, please <a href="mailto:summer-of-code@railsgirls.com">write us an email</a>.</p>
 
-### Platinum
+    <h3>Platinum</h3>
 
-* Everything from the Gold package.
-* You get a bigger logo and will be listed in the topmost sponsors section.
-* Plus: Your company will be added to a "Hall of Fame" page (see below)
+    <ul>
+      <li>Everything from the Gold package.</li>
+      <li>You get a bigger logo and will be listed in the topmost sponsors section.</li>
+      <li>Plus: Your company will be added to a “Hall of Fame” page (see below)</li>
+    </ul>
 
-### Gold
+    <h3>Gold</h3>
 
-* Everything from the Silver package.
-* You get a bigger logo and will be listed higher up on these pages.
-* Plus: your logo in presentations about RGSoC (see below).
+    <ul>
+      <li>Everything from the Silver package.</li>
+      <li>You get a bigger logo and will be listed higher up on these pages.</li>
+      <li>Plus: your logo in presentations about RGSoC (see below).</li>
+    </ul>
 
-### Silver
+    <h3>Silver</h3>
 
-* Everything from the Bronze package.
-* You get a bigger logo and will be listed higher up on these pages.
-* Your testimonial will be included in our press kit.
+    <ul>
+      <li>Everything from the Bronze package.</li>
+      <li>You get a bigger logo and will be listed higher up on these pages.</li>
+      <li>Your testimonial will be included in our press kit.</li>
+    </ul>
 
-### Bronze
+    <h3>Bronze</h3>
 
-* Your logo will be placed on the footer of our [homepage](/).
-* You will be listed on our [sponsors page](/sponsors), which will be linked
-  to frequently (see our sponsors pages from
-  [2014](http://2014.railsgirlssummerofcode.org/sponsors) and
-  [2013](http://2013.railsgirlssummerofcode.org/sponsors-thanks)).
-* Your swag included in support packages sent out to all students during the summer (see below).
-* Your company will be included in the Sponsor opportunity Newsletter to participants.
-* Lots of tweet love, hype and buzz from the community.
+    <ul>
+      <li>Your logo will be placed on the footer of our <a href="/">homepage</a>.</li>
+      <li>You will be listed on our <a href="/sponsors">sponsors page</a>, which will be linked to frequently (see our sponsors pages from <a href="http://2014.railsgirlssummerofcode.org/sponsors">2014</a> and <a href="http://2013.railsgirlssummerofcode.org/sponsors-thanks">2013</a>).</li>
+      <li>Your swag included in support packages sent out to all students during the summer (see below).</li>
+      <li>Your company will be included in the Sponsor opportunity Newsletter to participants.</li>
+      <li>Lots of tweet love, hype and buzz from the community.</li>
+    </ul>
 
+    <p>Logos and links on the website will be sorted by package size and date donation confirmed.</p>
 
-Logos and links on the website will be sorted by package size and date donation confirmed.
+    <p>If you have any questions, comments, or don’t feel this list quite represents what you have to offer, please get in touch: <a href="mailto: summer-of-code@railsgirls.com">summer-of-code@railsgirls.com.</a></p>
 
-If you have
-any questions, comments, or don't feel this list quite represents what you have
-to offer, please get in touch: <a href="mailto:
-summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.
+    <h3>Your swag in student support packages</h3>
 
-### Your swag in student support packages
+    <p>If you send us your swag (e.g. stickers, pens, notebooks or other things that fit nicely with a Summer of Code learning project), we will include it in a “care package” that will be sent out to each student. Pictures of the contents of these packages often are tweeted and retweeted a lot.</p>
 
-If you send us your swag (e.g. stickers, pens, notebooks or other things
-that fit nicely with a Summer of Code learning project), we will include
-it in a "care package" that will be sent out to each student. Pictures of the
-contents of these packages often are tweeted and retweeted a lot.
+    <h3>Your company in the Sponsor opportunity Newsletter</h3>
 
-### Your company in the Sponsor opportunity Newsletter
+    <p>You may want to offer opportunities to our students such as (but not limited to) internships, interviews, special use of your service, invitations to events etc. </p>
 
-You may want to offer opportunities to our students such as (but not limited to) internships, interviews, special use of your service, invitations to events etc. 
+    <p>We are collecting all these information and will display them in order of sponsorship packages in an informative letter that goes out to all our participants. </p>
 
-We are collecting all these information and will display them in order of sponsorship packages in an informative letter that goes out to all our participants. 
+    <h3>Your logo on slides at presentations about RGSoC</h3>
 
-### Your logo on slides at presentations about RGSoC
+    <p>Students are strongly encouraged to give full talks or lightning talks at conferences (many of which donate free tickets for them) as well as local programming and tech meet ups. Students tend to present their projects at these meet ups, and how Summer of Code is helping them do it. Some organisers also present about the Summer of Code program as a whole.</p>
 
-Students are strongly encouraged to give full talks or lightning talks at
-conferences (many of which donate free tickets for them) as well as local
-programming and tech meetups. Students tend to present their projects at these
-meetups, and how Summer of Code is helping them do it. Some organizers also
-present about the Summer of Code program as a whole.
+    <p>All people presenting on behalf of or in conjunction with Summer of Code are asked to include a slide with all Gold and Platinum sponsors’ logos at the beginning of their presentation.</p>
 
-All people presenting on behalf of or in conjunction with Summer of Code are
-asked to include a slide with all Gold and Platinum sponsors'
-logos at the beginning of their presentation.
+    <h3>The Hall of Fame</h3>
 
-### The Hall of Fame
+    <p>Platinum (or bigger) sponsor logos for each year are kept on our “Hall of Fame” pages. The pages list the teams that participated, projects contributed to, success stories, and any truly special moments from the program.</p>
 
-Platinum (or bigger) sponsor logos for each year are kept on our "Hall of Fame" pages.
-The pages list the teams that participated, projects contributed to, success
-stories, and any truly special moments from the program.
+    <h2>Sponsorship Guidelines</h2>
 
-## Sponsorship Guidelines
+    <p>Rails Girls Summer of Code is here to support women on their way into Open Source.</p>
 
-Rails Girls Summer of Code is here to support women on their way into Open Source.<br>
-Please see our [Sponsorship Guidelines](/sponsorship-guidelines/) for further information on how we stand behind our values.
+    <p>Please see our <a href="/sponsorship-guidelines/">Sponsorship Guidelines</a> for further information on how we stand behind our values.</p>
 
-</div>
+  </div>
 </div>
