@@ -20,8 +20,6 @@ Money talks and donations are always a sensible topic, but it is a topic that we
 
 Our students understand how important this opportunity is for them and the impact they have on other people’s lives. Pursuing a career as a developer will automatically inspire other women to follow their steps or at least give them permission to dream about it; unfortunately, many women don’t even consider a career in tech because they never think it could be a viable possibility for them. When they see individuals they can relate to, people from all sorts of places, social backgrounds and ethnicities, their perception changes and beautiful things happen.
 
-We could be here days talking about all the amazing stories, actually over 100 stories, but we will just share some of them for now (yes, more secret projects to be announced soon! ;) ).
-
 ![RGSoC Students](/img/blog/2016/2016-05-27-RGSoC-campaign-wrap-up-teams.png)<font color="grey"><small><i>Some of our students (left to right): Carla and Anja (Team Inchworms); Resla and Esther (Team Techylite); Maren and Julia (Team Delta Quadrant); Rosa and Inês (Team DEIGirls)</i></small></font>
 
 So, every time you or your company donate, we can proudly say you are helping people like Carla and Anja, two students from Berlin who have participated in the first edition and since then, have started working as developers for Travis CI. Anja even co-founded an Open Source project with another group of amazing women. The name of that project is [Speakerinnen](https://speakerinnen.org/) and it’s a platform where women speakers from all over the world can create their profiles, making it easier for conference organisers to have more diverse panels and lineups. But their story doesn’t end here! 
@@ -32,8 +30,9 @@ Maren and Julia, from Germany, who, besides contributing with 1.850 lines of cod
 
 Inês and Rosa, the first team being selected from Portugal, who are now doing their internships at two of the best software companies in the country and kept contributing to the tech community by volunteering for several organizations. Fun fact (sorry if this isn’t very related to programming): Inês was even [retweeted](https://twitter.com/ines_opcoelho/status/681725407591284736?ref_src=twsrc%5Etfw) by Carrie Fisher, aka Princess Leia, when she [replied to people](http://edition.cnn.com/2015/12/30/entertainment/carrie-fisher-star-wars-aging-response-twitter/) talking about her appearance on the last Star Wars movie.
 
+We could be here days talking about all the amazing stories, actually over 100 stories, but we will just share some of them for now (yes, more secret projects to be announced soon! ;) ).
 
-**So the question of each RGSoC is still the same: how many lives are we going to change this summer?**
+**The question of each RGSoC is still the same: how many lives are we going to change this summer?**
 
 <iframe src="https://player.vimeo.com/video/170188877" width="640" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/170188877">Mia is trying to help with the RGSoC board!</a> from <a href="https://vimeo.com/user51331690">Rails Girls Summer of Code</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
