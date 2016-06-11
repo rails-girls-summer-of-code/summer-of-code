@@ -26,7 +26,7 @@ Every time you or your company donate, we can proudly say you are helping people
 
 In 2015 Speakerinnen was submitted as a project for RGSoC. Resla and Esther from Nairobi, Kenya, were the selected students to work on that project during the summer. And they didn’t stop there either: they are active members in their community and give talks at several events, like the 2nd Annual African Women in Tech Conference.
 
-And then there are record-breaker teams, like Team Delta Quadrant, who spent the Summer of Code not only contributing with 1.850 lines of code to [Diaspora](“https://diasporafoundation.org/”), but also speaking at eight events and helping out in seven workshops as coaches. Way to go Maren and Julia!
+And then there are record-breaker teams, like Team Delta Quadrant, who spent the Summer of Code not only contributing with 1.850 lines of code to [Diaspora](https://diasporafoundation.org/), but also speaking at eight events and helping out in seven workshops as coaches. Way to go Maren and Julia!
 
 So, as you can see, they really don't take participating in RGSoC lightly! We actually could spend days telling all the amazing stories (over 100 stories!!!), but we need to stop somewhere — at least for this post! However, we don’t want to ruin the surprise, but there might be some news about this topic very soon… ;)
 
