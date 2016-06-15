@@ -262,6 +262,13 @@
       years:
         - 2015
         - 2016
+    - name: coreOS
+      id: coreos
+      url: https://coreos.com/
+      # text: |-
+      #   <a href="https://coreos.com/">coreOS</a>
+      years:
+        - 2016
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
