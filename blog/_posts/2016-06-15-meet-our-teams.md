@@ -74,7 +74,7 @@ _Project_: Hoodie
 
 #### <span class="color-red">Periféricas (Emma and Geisa)</span>
 _Location_: Salvador, Brazil  
-_Project_: speakerinnen
+_Project_: Speakerinnen
 
 #### <span class="color-red">LoadToCode (Thea and Marie)</span>
 _Location_: Berlin, Germany  
