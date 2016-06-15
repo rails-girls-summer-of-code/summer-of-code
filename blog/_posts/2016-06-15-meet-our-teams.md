@@ -32,7 +32,7 @@ _Location_: Warsaw, Poland
 _Project_: Rails Girls Summer of Code — The Teams App
 
 #### <span class="color-red">Joda (Dayana and Johanna)</span>
-_Location_: Berlin, Germany
+_Location_: Berlin, Germany  
 _Project_: SoundDrop
 
 #### <span class="color-red">Twitches (Taneea and Vrinda)</span>
