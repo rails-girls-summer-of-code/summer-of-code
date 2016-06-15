@@ -22,61 +22,61 @@ And now, the moment we’ve all been waiting for: it’s time to announce the te
 
 ### Sponsored Teams
 
-#### <span class="color-red">KaUlah</span>
+#### <span class="color-red">KaUlah (Ula and Katarzyna)</span>
 _Location_: Warsaw, Poland  
 _Project_: GitLab Community Edition
 
 
-#### <span class="color-red">RubyCats</span>
+#### <span class="color-red">RubyCats (Izabela and Kinga)</span>
 _Location_: Warsaw, Poland  
 _Project_: Rails Girls Summer of Code — The Teams App
 
-#### <span class="color-red">joda</span>
+#### <span class="color-red">Joda (Dayana and Johanna)</span>
 _Location_: Berlin, Germany
 _Project_: SoundDrop
 
-#### <span class="color-red">Twitches</span>
+#### <span class="color-red">Twitches (Taneea and Vrinda)</span>
 
 _Location_: New Delhi, India  
 _Project_: OpenFarm
 
-#### <span class="color-red">MitPal</span>
+#### <span class="color-red">MitPal (Sherri and Anitha)</span>
 _Location_: Atlanta, USA  
 _Project_: Open Source Event Manager
 
-#### <span class="color-red">RGAU2016</span>
+#### <span class="color-red">RGAU2016 (Kylie and Ramya)</span>
 _Location_: Melbourne, Australia  
 _Project_: exercism.io
 
-#### <span class="color-red">l1ghtsab3r</span>
+#### <span class="color-red">l1ghtsab3r (Srishti and Soumya)</span>
 _Location_: New Delhi, India  
 _Project_: VOC
 
-#### <span class="color-red">kindr3d</span>
+#### <span class="color-red">kindr3d (Elvina and Micaela)</span>
 _Location_: Frankfurt, Germany  
 _Project_: Discourse – Visual Forum Analytics
 
-#### <span class="color-red">JaM</span>
+#### <span class="color-red">JaM (Malisa and Jeena)</span>
 _Location_: Portland, USA  
 _Project_: Servo
 
-#### <span class="color-red">XYZ</span>
+#### <span class="color-red">XYZ (Veronika and Daria)</span>
 _Location_: Prague, Czech Republic  
 _Project_: Keystone
 
-#### <span class="color-red">Echo</span>
+#### <span class="color-red">Echo (Naggita and Joannah)</span>
 _Location_: Kempala, Uganda  
 _Project_: qutebrowser
 
-#### <span class="color-red">Rookies</span>
+#### <span class="color-red">Rookies (Tehetena and Hyesoo)</span>
 _Location_: Helsinki, Finland  
 _Project_: Hoodie
 
-#### <span class="color-red">Periféricas</span>
+#### <span class="color-red">Periféricas (Emma and Geisa)</span>
 _Location_: Salvador, Brazil  
 _Project_: speakerinnen
 
-#### <span class="color-red">LoadToCode</span>
+#### <span class="color-red">LoadToCode (Thea and Marie)</span>
 _Location_: Berlin, Germany  
 _Project_: LEAP Encryption Access Project — Webapp
 
@@ -84,15 +84,15 @@ _Project_: LEAP Encryption Access Project — Webapp
 
 ### Volunteer Teams
 
-#### <span class="color-red">Fedex++</span>
+#### <span class="color-red">Fedex++ (Mansi and Sahar)</span>
 _Location_: New Delhi, India  
 _Project_: PyDSA
 
-#### <span class="color-red">Reactives</span>
+#### <span class="color-red">Reactives (Tu An and Shwetha)</span>
 _Location_: Singapore, Singapore  
 _Project_: Poetic Computation
 
-#### <span class="color-red">TeamASU</span>
+#### <span class="color-red">TeamASU (Nada and Randa)</span>
 _Location_: Cairo, Egypt  
 _Project_: Exception Notification
 
