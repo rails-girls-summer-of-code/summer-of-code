@@ -12,7 +12,9 @@ categories:
 
 We’ve had so many awesome applications this year, and picking only a few was incredibly tough; we really wish we could have had the money (and the resources) to have them all on board. But let’s not forget how far we’ve come this year already: Thanks to our amazing community and sponsors, we are able to fund not 11, not 12, but FOURTEEN (!!) teams for 2016 — and have an additional 3 take part as volunteer teams. Look at them all on our map:
 
-[INSERT MAP IMAGE]
+
+![RGSoC Teams 2016](/img/blog/2016/meet-our-teams-locations.png)
+<font color="grey"><small><i>All of our 2016 teams! (Image: Ana Sofia Pinho)</i></small></font>
 
 For the very first time in RGSoC history, we’ve got teams from Egypt, Singapore, the Czech Republic and Brazil — it’s so great to see teams applying from “new countries” every year, and we can only say a huge THANK YOU to you all for spreading the word among your own communities. 
 
