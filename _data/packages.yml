@@ -626,13 +626,11 @@
       id: digitalocean
       url: http://www.digitalocean.com
       text: |-
-        <a href="http://www.digitalocean.com/">DigitalOcean</a> is the world’s fastest
-        growing cloud hosting provider built for developers. Our mission is simple:
-        we’re passionate about making complex infrastructure simple and delighting
-        our customers with a seamless experience that brings them joy. New users can
-        easily deploy a blazing fast cloud server in 55 seconds with an intuitive
-        control panel interface, which can be replicated on a larger scale with the
-        company’s straightforward API.
+        <a href="http://www.digitalocean.com/">DigitalOcean</a> is on a mission to
+        simplify the complexity of web infrastructure.  We’re committed to building
+        cutting edge products that are robust and reliable, yet maintain our signature
+        simplicity and facilitate innovation. We’re excited to see what the next
+        generation of businesses build on top of our cloud in 2016.
       years:
         - 2014
         - 2015
