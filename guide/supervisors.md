@@ -9,6 +9,8 @@ permalink: /guide/supervisors/
 
 <h1>Becoming a supervisor</h1>
 
+![rgsoc-illus-2016-team-orga-v3b](https://cloud.githubusercontent.com/assets/1711357/16112590/407b5e08-33b8-11e6-86b4-3b23c487248e.jpg)
+
 <p>For every year we look for caring people to supervise 1-2 teams through the Summer of Code. Read below to see if it fits your profile. 
 
 <ul>
