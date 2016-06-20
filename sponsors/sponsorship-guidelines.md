@@ -8,7 +8,7 @@ stripe: yes
 permalink: sponsorship-guidelines/
 ---
 
-<h2 id="guidelines">Sponsorship Guidelines</h2>
+<h1 id="guidelines">Sponsorship Guidelines</h1>
 
 
 Rails Girls Summer of Code is – above all – about people. That’s what we stand by, and it is why we source the scholarship funding from individuals as well as companies.

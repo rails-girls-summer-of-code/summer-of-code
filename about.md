@@ -26,7 +26,7 @@ Rails Girls Summer of Code is a not-for-profit organization that operates
 solely on the generous donations of sponsors, and individuals from the
 community.
 
-Help make Open Source a better place for everyone.
+## Help make Open Source a better place for everyone.
 
 We want to provide a safe space for everyone involved. Please read our
 [Code of Conduct](/about/code-of-conduct).
@@ -37,7 +37,6 @@ For more information regarding project ideas, coaching, sponsoring or
 participating as a student, please email us on [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
 
 + *Social Media*: Follow Rails Girls Summer of Code on [Twitter](https://twitter.com/RailsGirlsSoC) and find us on [Facebook](https://www.facebook.com/pages/Rails-Girls-Summer-of-Code/620914904656191).
-
 + *Social Coding*: And of course we are also on [GitHub](https://github.com/rails-girls-summer-of-code).
 
 ### How to get involved

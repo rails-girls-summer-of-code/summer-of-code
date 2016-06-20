@@ -132,7 +132,6 @@ e.g. when a team has stopped working.
 A supervisor can be responsible for more than one team and is encouraged to
 ease to organizational workload.
 
-
 <h3 id="organizer">Organizer</h3>
 
 Organizers are a pretty multi-skilled bunch. They are developers, designers,

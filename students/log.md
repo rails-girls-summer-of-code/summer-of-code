@@ -8,7 +8,7 @@ permalink: /students/log/
 current: students
 ---
 
-## Keep a daily team log
+# Keep a daily team log
 
 In development teams there's a practice of doing stand-up meetings in the
 morning. In these meetings everyone very briefly tells the rest of the team

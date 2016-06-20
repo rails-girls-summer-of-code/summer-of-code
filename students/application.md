@@ -18,7 +18,7 @@ permalink: /students/application/
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
 
-**Applications for Rails Girls Summer of Code 2016 are open and will close Sunday, April 10 2016 at 17:59:00 UTC**.
+**Applications for Rails Girls Summer of Code 2016 are now closed.**
 
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
@@ -96,7 +96,7 @@ A good place to start is to have a look <a href="https://teams.railsgirlssummero
 
 <h3 id="place-application">Placing your application</h3>
 
-**Applications for Rails Girls Summer of Code 2016 are now open, and will close Sunday, April 10 2016 at 17:59:00 UTC**.
+**Applications for Rails Girls Summer of Code 2016 are now closed.**
 
 In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will be asked to create a team (if you haven't done so yet). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
 
@@ -143,12 +143,14 @@ Due to this, volunteer teams are also subjected to the selection process. In you
 
 Here is the basic checklist for your application:
 
-<span class="glyphicon glyphicon-unchecked"></span> Have you read, and fully understood, this guide?  
-<span class="glyphicon glyphicon-unchecked"></span> Have you found a teammate?  
-<span class="glyphicon glyphicon-unchecked"></span> Has your team selected a <a href="https://teams.railsgirlssummerofcode.org/projects">project</a>?  
-<span class="glyphicon glyphicon-unchecked"></span> Has your team found at least two coaches who will commit to helping you?  
-<span class="glyphicon glyphicon-unchecked"></span> Has your team found a suitable workspace for the duration of the program?  
-<span class="glyphicon glyphicon-unchecked"></span> Do you agree with and meet all of the requirements listed above?  
+<ul class="list--none">
+  <li><span class="glyphicon glyphicon-unchecked"></span> Have you read, and fully understood, this guide?</li>  
+  <li><span class="glyphicon glyphicon-unchecked"></span> Have you found a teammate?  </li>
+  <li><span class="glyphicon glyphicon-unchecked"></span> Has your team selected a <a href="https://teams.railsgirlssummerofcode.org/projects">project</a>?  </li>
+  <li><span class="glyphicon glyphicon-unchecked"></span> Has your team found at least two coaches who will commit to helping you?  </li>
+  <li><span class="glyphicon glyphicon-unchecked"></span> Has your team found a suitable workspace for the duration of the program?  </li>
+  <li><span class="glyphicon glyphicon-unchecked"></span> Do you agree with and meet all of the requirements listed above?  </li>
+</ul>
 
 <h3 id="submit">Submit your application</h3>
 
@@ -157,7 +159,6 @@ Can you check off all these checkboxes? Then go ahead and create your applicatio
 If you need help setting up your application, go to the "Help" Section in our teams app: <a href="https://teams.railsgirlssummerofcode.org/pages/help">https://teams.railsgirlssummerofcode.org/pages/help</a>. 
 
 <h3 id="student-support">More questions?</h3>
-
 
 If you have more questions on how to apply, you can also hop into our <a href="https://rgsoc-student-application.herokuapp.com/">Student Support Slack channel</a>.
 
