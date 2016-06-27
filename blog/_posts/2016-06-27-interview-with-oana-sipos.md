@@ -1,14 +1,16 @@
 ---
-title: Alumna Series — Oana Sipos
+title: Interview with Oana Sipos
 layout: post
 created_at: Lon Jun 27 2016
-permalink: blog/2016-06-27-alumna-series-oana-sipos
+permalink: blog/2016-06-27-interview-with-oana-sipos
 current: blog
 author: Laura
 twitter: RailsGirlsSoC
 categories:
 - alumna-series
 ---
+
+![Interview with Oana Sipos](/img/blog/2016/interview-with-oana-header.png)
 
 For the first installment of our “Alumna series", we’ve spoken to Oana Sipos, who took part in RGSoC 2013; she’s currently living in Belgium but is planning to move back to her home country, Romania, very very soon. When she’s not busy coordinating Rails Girls events (she’s organised four editions in Brussels so far and has started the Cluj and Timisoara chapters), she loves playing with bits all day long! 
 
