@@ -82,7 +82,7 @@ Here you'll see a sample schedule for one week. It serves as a guide and gives y
 
 
 <h3>Kick-off Call (Google Hangout)</h3>      
-We will start the program with an Onboarding Call using [Google Hangouts](http://www.google.com/+/learnmore/hangouts/).
+We will start the program with a Kick-off Call using [Google Hangouts](http://www.google.com/+/learnmore/hangouts/).
 
 Please make sure you have a Google account so you can join the Hangout. 
 
