@@ -19,4 +19,6 @@ It doesn’t have to be a huge party, and should be an opportunity to bond with 
 
 If you want us to connect you to other teams or alumna in your city, let us know — we’d be more than happy to do that. You can also open an issue in our Github summer-of-code [issue tracker](https://github.com/rails-girls-summer-of-code/summer-of-code/issues) if you want to make the event public or use that as an RSVP list.
  
-We wish you a wonderful kick-off day on Friday and an amazing kick-off party next week — we can’t wait to see how you celebrated your first full week of RGSoC. All pictures are welcome, and we’d love to see your videos, too. Let’s tweet under the hashtag #kickoffrgsoc!
+We wish you a wonderful kick-off day on Friday and an amazing kick-off party next week — we can’t wait to see how you celebrated your first full week of RGSoC. All pictures are welcome, and we’d love to see your videos, too.  
+
+Let’s tweet under the hashtag **#kickoffrgsoc**!
