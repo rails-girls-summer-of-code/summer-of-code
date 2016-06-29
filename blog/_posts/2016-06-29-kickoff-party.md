@@ -14,8 +14,8 @@ Only a couple of days to go until our program kicks off in 16 different location
 
 It doesn’t have to be a huge party, and should be an opportunity to bond with your coaches, your team mate, other local teams, and your local community. If you have a coaching company, maybe you can even ask them to cover some of the drinks/food, or to let you use the location after office hours. 
 
-![Chihuahua picnic](/img/blog/2016/kickoff-party-dog.jpg)
-<font color="grey"><small><i>Dog picnic! (Image: google/petsmagazine)</i></small></font>
+![Balloons in the sky](/img/blog/2016/kickoff-party-balloons.gif)
+<font color="grey"><small><i>Celebrations! (Image: <a href="https://www.flickr.com/photos/96602242@N00/174375234/">Dimitris Tsakanis</a> / <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">Some rights reserved</a>)</i></small></font>
 
 If you want us to connect you to other teams or alumna in your city, let us know — we’d be more than happy to do that. You can also open an issue in our Github summer-of-code [issue tracker](https://github.com/rails-girls-summer-of-code/summer-of-code/issues) if you want to make the event public or use that as an RSVP list.
  
