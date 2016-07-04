@@ -21,7 +21,7 @@ into the Open Source community. Below you'll find everything you will need durin
 
 <h2 id="support-network">Your Support Network</h2>
 
-The most important part in a community is the support people give to each other. Rails Girls Summer of Code provides a comprehensive support network that will help you and your team pair in all project related aspects.
+The most <img src="">portant part in a community is the support people give to each other. Rails Girls Summer of Code provides a comprehensive support network that will help you and your team pair in all project related aspects.
 
 <h3>Coaches and Mentor</h3>   
 The core team will be you and your pair along with your coaches and the mentor of your Open Source project.
@@ -63,18 +63,16 @@ Now there's only one thing left to say: Use all the channels there are and ask a
 Most of the aspects mentioned here need to be done at the beginning of the program. Follow these steps and you'll have a great setup for all the activities.
 
 <h3>RGSoC-Orga Slack Team</h3>
-All the members of the team will be invited to our Slack RGsoC-Orga Team. This is currently our favourite channel of communication and we set up several channels with different purposes so that you won't miss any important information. You can also talk with each other via private message.
+All RGSoC participants will be invited to our Slack RGsoC-Orga Team. This is currently our favourite channel of communication and we set up several channels with different purposes so that you won't miss any important information. You can also talk with each other via private message.
 
 We recommend your supervisor to set up a channel for the team members so that you can talk with each other on a daily basis (when we say daily, we are refering to work days). If your team doesn't like slack for internal communication, you can also use email or any other apps, however, we advise you not to lose track of RGSoC-Orga Slack channels,as most of the communication (with the organisers and other students, coaches, mentors and supervisors) will be done there.
 
 <h3>Daily Log</h3>     
-The daily log is a short list of things you do each day — a summary in the form of bullet points is perfectly fine. The Teams App will be the place to put these. 
+The daily log is a short list of things you do each day — a summary in the form of bullet points is perfectly fine. The Teams App will be the place to put these, you just have to login and go to Status Updates on the top of the page.
 
 Besides keeping your team in the loop, it'll get you familiar with good team practice, and with the high level of transparency that is typical for Open Source development. It will also help you greatly with self-reflection.
 
 We recommend to either combine the daily log with [a morning standup meeting](http://martinfowler.com/articles/itsNotJustStandingUp.html) or fill the log at the end of the day.
-
-To start making your status updates, you have to login on the RGSoC Teams app and go to Status Updates on the top of he page.
 
 <h3>Time Management</h3>      
 Set up a shared calendar for you and your pair and schedule regular, dedicated times for checking on your schedules. Once a week is minimum. Besides recurring events such as communication to your mentor and supervisor, there will be single social events (see below) that shouldn't get lost.
