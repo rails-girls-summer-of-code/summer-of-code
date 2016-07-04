@@ -2,7 +2,7 @@
 title: Interview with Emma Koszinowski
 layout: post
 created_at: Mon Jul 04 2016
-permalink: blog/2016-06-27-interview-with-emma-koszinowski
+permalink: blog/2016-07-04-interview-with-emma-koszinowski
 current: blog
 author: Laura
 twitter: RailsGirlsSoC
