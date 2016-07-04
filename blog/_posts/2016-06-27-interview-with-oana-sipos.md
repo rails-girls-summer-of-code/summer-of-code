@@ -1,7 +1,7 @@
 ---
 title: Interview with Oana Sipos
 layout: post
-created_at: Lon Jun 27 2016
+created_at: Mon Jun 27 2016
 permalink: blog/2016-06-27-interview-with-oana-sipos
 current: blog
 author: Laura
