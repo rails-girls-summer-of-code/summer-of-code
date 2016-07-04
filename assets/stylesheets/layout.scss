@@ -11,9 +11,13 @@ body {
   }
 }
 
+article li {
+  margin-bottom: $font-size-base / 3; // 6px
+}
+
 .landing-teaser, .landing-misc, .footer, .sidebar-content, .header, figcaption, #sponsor-packages {
   p, li {
-    font-size: 16px;
+    font-size: $font-size-small;
   }
 }
 
@@ -392,5 +396,12 @@ a.button-burger {
   img {
     width: 100%;
     height: auto;
+  }
+}
+
+.conferences {
+  h4 {
+    margin-top: .8em;
+    margin-bottom: .1em
   }
 }

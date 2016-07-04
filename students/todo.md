@@ -81,8 +81,8 @@ Here you'll see a sample schedule for one week. It serves as a guide and gives y
 ![sample schedule-01](https://cloud.githubusercontent.com/assets/2246045/6210947/08cf7384-b5d5-11e4-90c0-05a86aa6cd3c.png)
 
 
-<h3>Onboarding Call (Google Hangout)</h3>      
-We will start the program with an Onboarding Call using [Google Hangouts](http://www.google.com/+/learnmore/hangouts/).
+<h3>Kick-off Call (Google Hangout)</h3>      
+We will start the program with a Kick-off Call using [Google Hangouts](http://www.google.com/+/learnmore/hangouts/).
 
 Please make sure you have a Google account so you can join the Hangout. 
 
