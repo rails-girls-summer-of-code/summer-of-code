@@ -1,5 +1,5 @@
 markdown: kramdown
-permalink: /:title
+permalink: /:title/
 relative_permalinks: false
 sass:
   sass_dir: assets/stylesheets
