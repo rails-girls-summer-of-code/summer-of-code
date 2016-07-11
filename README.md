@@ -2,6 +2,12 @@
 
 We are using GitHub Pages for the website. You can have a look at the `gh-pages` branch, and the site can be found at [RailsGirlsSummerOfCode.org](http://railsgirlssummerofcode.org).
 
+## Blog post requirements
+
+Every team has to write two blog posts during the summer. **The first blog post** has to be done by **August 16th**; the second blog post should be scheduled **between September 19th and October 31st**.  
+Please add your team name [to the editorial calendar](https://docs.google.com/spreadsheets/d/1sDqiNdSZLrwcAkH468E-FkyZ2VtC-5SwqBlraWPiqJU/) next to the date you wish to publish your blog posts on; the posts will be published at 12:00pm UTC.  
+**Note: The blog post pull request must be submitted a minimum of 24h before publishing time to allow for feedback.**   
+
 ## How to create a new blog post
 
 In order to add your blog post to our blog, you will go through the following steps:
