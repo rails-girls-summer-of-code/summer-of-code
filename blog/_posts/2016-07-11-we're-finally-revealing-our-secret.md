@@ -8,7 +8,7 @@ author: Nada Ashraf and Mayar Alaa
 twitter: RubysSecretteam
 ---
 
-![Ruby's Secret Team](/img/blog/2016/us.jpg){:class="img-responsive"}
+![Ruby's Secret Team](/img/blog/2016/us.JPG){:class="img-responsive"}
 
 The dreamer and the realist ,Nada & Mayar, this is who we are , two girls with two completely different personalities but somehow we came together and became one team “Ruby’s Secret”,beside our believes in the healing powers of a good bar Chocolate and that there’s nothing Chocolate can’t solve ,our passion for code was this thing in common between us and what made us apply in RGSoC in first place and now we’re working hard and trying to do our best to learn and finally to be able to call ourselves Ruby on Rails developers.
 Here’s a little intro about each one of us
