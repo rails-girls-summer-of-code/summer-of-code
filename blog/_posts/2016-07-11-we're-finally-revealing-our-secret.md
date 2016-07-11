@@ -1,11 +1,13 @@
 ---
 title: Pssst...we're finally revealing our secret
 layout: post
-created_at: 2016-07-11
+created_at: Mon Jul 11 2016
 permalink: blog/2016-07-11-we're-finally-revealing-our-secret
 current: blog
 author: Nada Ashraf and Mayar Alaa
 twitter: RubysSecretteam
+categories:
+- student-posts
 ---
 
 ![Ruby's Secret Team](/img/blog/2016/us.JPG){:class="img-responsive"}
