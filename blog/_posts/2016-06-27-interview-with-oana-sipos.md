@@ -12,11 +12,11 @@ categories:
 
 ![Interview with Oana Sipos](/img/blog/2016/interview-with-oana-header.png)
 
-For the first installment of our “Alumna series", we’ve spoken to Oana Sipos, who took part in RGSoC 2013; she’s currently living in Belgium but is planning to move back to her home country, Romania, very very soon. When she’s not busy coordinating Rails Girls events (she’s organised four editions in Brussels so far and has started the Cluj and Timisoara chapters), she loves playing with bits all day long! 
+For the first installment of our “Alumna series", we’ve spoken to Oana Sipos, who took part in RGSoC 2013; she’s currently living in Belgium but is planning to move back to her home country, Romania, very very soon. When she’s not busy coordinating Rails Girls events (she’s organised four editions in Brussels so far and has started the Cluj and Timisoara chapters), she loves playing with bits all day long!
 
 ***Where do you currently work and what do you do?***
 
-I am currently working for UP-nxt, a Belgian company developing its own products for document processing.
+I am currently working for <a href="https://www.unifiedpost.com/" target="_blank">UnifiedPost</a>, a Belgian company developing its own products for document processing where I am a combination of a developer and a technical writer.
 
 ***What does your usual day look like?***
 
@@ -32,7 +32,7 @@ Not sure I have planned it, totally not after finishing university; however a se
 
 ***Which of your skills helped you most to be successful during RGSoC?***
 
-I was part of a volunteering team in RGSoC, as I couldn't find another girl to pair, and (now I say) luckily that lead to organizing all those Rails Girls events.
+I was part of a volunteering team in RGSoC, as I couldn't find another girl to pair, and (now I say) luckily that lead to organizing all those Rails Girls events. Critically thinking, it wasn't necessary a skill, but the ambition / perseverence / stubborness to join even if I was by myself, was what made my RGSoC experience a fruitful one.
 
 ***Which difficulties did you face during the program — and how did you overcome them?***
 
@@ -44,7 +44,7 @@ A very nice part of Rails Girls Summer of Code was that they handled free ticket
 
 ***Who do you look up to in your field? Do you have any role models?***
 
-My friends who told me about Ruby definitely are. All the people in the Ruby community who have been very helpful and encouraging also. I cannot pinpoint to a specific person, but they are definitely those closer to me, in the community.
+My friends who told me about Ruby definitely are. All the people in the Ruby community (with special thanks to <a href="http://rubybelgium.be/ruby-belgium-user-group/" target="_blank">Belgium Ruby User Group</a>) who have been very helpful and encouraging also. I cannot pinpoint to a specific person, but they are definitely those closer to me, in the community.
 
 ***Do you have any advice for future Rails Girls Summer of Code students and for women who wish to work in tech?***
 
