@@ -12,7 +12,7 @@ categories:
 
 
 
-# “Always two there are, no more, no less.”
+## “Always two there are, no more, no less.”
 ![Team Joda](/img/blog/2016/team_joda.jpg)<font color="grey"><small><i>jodas in their coaching company's office (Image: Team joda)</i></small></font>
 
 What master Yoda is trying to say here is that until the end of september both team joda members will spend almost every day together on their learning path working on SoundDrop.
