@@ -2,7 +2,7 @@
 title: Team joda says hello
 layout: post
 created_at: Thu Jul 14 2016
-permalink: blog/2016-07-15-team-joda-says-hello
+permalink: blog/2016-07-14-team-joda-says-hello
 current: blog
 author: Johanna Lang and Dayana Mick
 twitter: Teamjoda2016
@@ -13,7 +13,7 @@ categories:
 
 
 # “Always two there are, no more, no less.”
-![Team Joda](img/blog/2016/team_joda.jpg)<font color="grey"><small><i>jodas in their coaching company's office (Image: Team joda)</i></small></font>
+![Team Joda](/img/blog/2016/team_joda.jpg)<font color="grey"><small><i>jodas in their coaching company's office (Image: Team joda)</i></small></font>
 
 What master Yoda is trying to say here is that until the end of september both team joda members will spend almost every day together on their learning path working on SoundDrop.
 
@@ -34,12 +34,13 @@ In our first week and a half participating in the program, we of course haven’
 Currently we are preparing for the great task of building a json API for SoundDrop. For this goal we built our own small API and now practice testing on it. Once we’ve tested the whole CRUD cycle, we want to use our knowledge for the “big” SoundDrop API.
 Furthermore we profit a lot from the many deep dive sessions by our coaches, that provide us with theoretical “background” input.
 
-![Team joda](img/blog/2016/team_joda_collage.jpg)<font color="grey"><small><i>Team joda, coaches and one mentor (Image: Team joda)</i></small></font>
+![Team joda](/img/blog/2016/team_joda_collage.jpg)<font color="grey"><small><i>Team joda, coaches and one mentor (Image: Team joda)</i></small></font>
 
 
 ## “Always pass on what you have learned.”
 
 Almost two weeks into the program, we have already discovered some best practices we would like to share with our readers:
+
 * Take breaks regularly (e.g. 5 minutes every hour)
 * Try to solve problems on your own before you ask for help. Even though it might temporarily bring you frustration and suffering. But it is worth it, as in the end you will understand the solution better.
 * Ask for Deep Dive Sessions on basically any topic, concept or feature you don’t fully understand, because, as master Yoda says: “Named must your ~~fear~~ bug be before banish it you can.”
