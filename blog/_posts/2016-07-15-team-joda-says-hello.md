@@ -31,7 +31,7 @@ We are working on SoundDrop, a project that has participated twice on previous R
 
 ## “You will find only what you bring in.”
 In our first week and a half participating in the program, we of course haven’t “brought in” major features yet. We tried to get accustomed to the CSS/front end parts of the app by refactoring some of the code and fixing misplaced buttons and containers. Soon, you will be able to listen to SoundDrops (as the play button works now, yay!) and enjoy the responsive design even on your tablet screen :)
-Currently we are preparing for the great task of building a json API for SoundDrop. For this goal we built our own small API and now practice testing on it. Once we’ve tested the whole CRUD cycle, we want to use our knowledge for the “big” SoundDrop API.
+Currently we are preparing for the great task of building a JSON API for SoundDrop. For this goal we built our own small API and now practice testing on it. Once we’ve tested the whole CRUD cycle, we want to use our knowledge for the “big” SoundDrop API.
 Furthermore we profit a lot from the many deep dive sessions by our coaches, that provide us with theoretical “background” input.
 
 ![Team joda](/img/blog/2016/team_joda_collage.jpg)<font color="grey"><small><i>Team joda, coaches and one mentor (Image: Team joda)</i></small></font>
