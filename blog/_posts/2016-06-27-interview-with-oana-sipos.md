@@ -44,7 +44,7 @@ A very nice part of Rails Girls Summer of Code was that they handled free ticket
 
 ***Who do you look up to in your field? Do you have any role models?***
 
-My friends who told me about Ruby definitely are. All the people in the Ruby community (with special thanks to <a href="http://rubybelgium.be/ruby-belgium-user-group/" target="_blank">Belgium Ruby User Group</a>) who have been very helpful and encouraging also. I cannot pinpoint to a specific person, but they are definitely those closer to me, in the community.
+My friends who told me about Ruby definitely are. All the people in the Ruby community (with special thanks to <a href="http://rubybelgium.be/" target="_blank">Belgium Ruby User Group</a>) who have been very helpful and encouraging also. I cannot pinpoint to a specific person, but they are definitely those closer to me, in the community.
 
 ***Do you have any advice for future Rails Girls Summer of Code students and for women who wish to work in tech?***
 
