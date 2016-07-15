@@ -158,14 +158,17 @@
   width: 184px;
   height: 75px;
 }
-#sponsors .conferences h4 {
+#sponsors .conferences h4,
+#sponsors .companies h4 {
   top: 60px;
 }
-.sponsors.conferences a {
+.sponsors.conferences a,
+.sponsors.companies a {
   width: 151px;
   height: 61px;
   background-size: 151px;
 }
+
 .sponsors a .years {
   position: absolute;
   bottom: 0;
