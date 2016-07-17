@@ -35,7 +35,7 @@ jekyll serve
 
 then you type:  ```localhost:4000``` in your browser and :tada:  
 
-Note: if your post has a future date, you might not see it when running `jekyll serve`; in order to view your post correctly, you might have to running the jekyll command with a `--future` flag, like this:  
+Note: if your post has a future date, you will not see it when running `jekyll serve`; in order to view your post correctly, you have to run the jekyll command with a `--future` flag, like this:  
 
 ```
 jekyll serve --future
