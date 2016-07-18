@@ -7,7 +7,7 @@ current: blog
 author: Sherri
 twitter: MitPal2016
 categories:
-- news
+- student-posts
 ---
 
 ![Team Mitpal](/img/blog/2016/mitpal-sherri-anitha-2016.jpg )<font color="grey"><small><i>Sherri and Anitha on the First Day of RGSOC (Image: Team MitPal 2106)</i></small></font>
