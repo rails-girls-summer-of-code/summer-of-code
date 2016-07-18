@@ -1,5 +1,5 @@
 ---
-title: Team MitPal: Getting it Started
+title: Team MitPal – Getting it Started
 layout: post
 created_at: Mon Jul 18 2016
 permalink: blog/2016-07-18-team-mitpal-getting-it-started
