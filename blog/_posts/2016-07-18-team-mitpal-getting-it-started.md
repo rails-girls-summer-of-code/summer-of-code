@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 
-![Team Mitpal](/img/blog/2016/mitpal-sherri-anitha-2016.jpg )<font color="grey"><small><i>Sherri and Anitha on the First Day of RGSOC (Image: Team MitPal 2106)</i></small></font>
+![Team Mitpal](/img/blog/2016/team-mitpal-sherri-anitha-2016.jpg)<font color="grey"><small><i>Sherri and Anitha on the First Day of RGSOC (Image: Team MitPal 2016)</i></small></font>
 
 This July we, Anitha and Sherri, began our Rails Girls Summer of Code journey as Team MitPal. We first met at Rails Girls Atlanta meetings, and learned how similar our backgrounds were. We both have backgrounds working in the IT field in non-development roles and have some coding experience. Pamela Vickers, our Rails Girls Organizer recognized that we would make a good team for RGSOC and suggested that we pair up. She also upped the ante by becoming one of our coaches along with Pete Holiday. Our mentor, Henne Volgelsang, and supervisor, Shelly Coen, round out our team. Our project for this summer is Open Source Event Manager (OSEM), an open-source event management software tailored for free software conferences. We’ve been training on our own to become software developers, and have set some big goals for ourselves this summer. Our ultimate goal at the end of our journey is to find our first job in development.
 
@@ -20,7 +20,7 @@ This July we, Anitha and Sherri, began our Rails Girls Summer of Code journey as
 
 The first couple of weeks have been a blur, but as we reflect on it all we have gained a lot of valuable experience in a short time. We have gained experience working with another developer, figuring out things together instead of working alone. We get to learn by example by watching our coaches figure out problems, and then taking that knowledge and apply it to what we are doing. We’ve learned how to analyze an issue, troubleshoot a problem, and research different solutions. We are figuring out how to approach developing a solution. We’ve also learned how to use tools like Byebug, and most importantly how to ask for help and what questions to ask. Fail fast, and ask for help quickly.
 
-![Team Mitpal](/img/blog/2016/team-mitpal-2016.jpg)<font color="grey"><small><i>Team MitPal and Coaches. l-r clockwise: Anitha, Sherri, Pete, Pamela (Image: Team MitPal 2106)</i></small></font>
+![Team Mitpal](/img/blog/2016/team-mitpal-2016.jpg)<font color="grey"><small><i>Team MitPal and Coaches. l-r clockwise: Anitha, Sherri, Pete, Pamela (Image: Team MitPal 2016)</i></small></font>
 
 As we move through this experience, we learn more about ourselves and how to navigate this new landscape. Some of the most valuable lessons we’ve learned are:
 
