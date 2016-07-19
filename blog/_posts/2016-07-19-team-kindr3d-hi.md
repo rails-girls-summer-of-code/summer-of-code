@@ -114,6 +114,6 @@ Sometimes development is hard. Sometimes you have to wait for virtual box to dow
 
 **Thanks!**
 
-We feel very lucky to be part of this great community and contribute to such a meaningful project we also happen to like. To everyone else we wish the best of luck and many happy lunch breaks this summer. You guys are great!
+We feel very lucky to be part of this great community and contribute to such a meaningful project we also happen to like. To everyone else we wish the best of luck and many happy lunch breaks this summer. You folks are great!
 
 See you again in september, Ahoy!
