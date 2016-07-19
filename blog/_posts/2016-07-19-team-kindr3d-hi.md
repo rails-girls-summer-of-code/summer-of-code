@@ -9,10 +9,11 @@ twitter: TKindr3d
 categories:
 - student-posts
 ---
+[Content Note: many animated gifs]
 
 **Hello World!**
 
-We are Elvina and Micaela of team [kindr3d](https://github.com/kindr3d){:target="_blank"} ([<3 Octavia E. Butler](https://en.wikipedia.org/wiki/Kindred_(novel)){:target="_blank"}). We first met on the Rails Girls Frankfurt event last year and became bffs instantly (over cake and pizza).
+We are Elvina and Micaela of team [kindr3d](https://github.com/kindr3d) ([<3 Octavia E. Butler](https://en.wikipedia.org/wiki/Kindred_(novel))). We first met on the Rails Girls Frankfurt event last year and became bffs instantly (over cake and pizza).
 
 ![Instant BFFS](http://i.giphy.com/XA8LazQ9XQotG.gif)
 <font color="grey"><small><i>Instant BFFS</i></small></font>
@@ -26,7 +27,7 @@ Half a year later we decided to apply for RGSoC so we can move to the same city 
 - - -
 
 
-Now we are based in Frankfurt and dwell in the office of [Namics](https://www.namics.com){:target="_blank"} (unlimited fruit and coffee supply!), where our coaches ([Max](https://github.com/mtrense){:target="_blank"}, [Nino](https://github.com/ninoraubaum){:target="_blank"} and [Vincent](https://github.com/regexident){:target="_blank"}) happen to be working as well. All of this under caring supervision of [Max](https://github.com/klappradla){:target="_blank"}.
+Now we are based in Frankfurt and dwell in the office of [Namics](https://www.namics.com) (unlimited fruit and coffee supply!), where our coaches ([Max](https://github.com/mtrense), [Nino](https://github.com/ninoraubaum) and [Vincent](https://github.com/regexident)) happen to be working as well. All of this under caring supervision of [Max](https://github.com/klappradla).
 
 ![The team](/img/blog/2016/kindr3d-team.jpg)
 <font color="grey"><small><i>Team kindr3d</i></small></font>
@@ -39,7 +40,7 @@ This summer we are working on [Discourse](https://www.discourse.org) (under watc
 
 It has been more than 2 weeks already!!1111 It feels like ages and we’ve learnt so much and so little at the same time. Since we start from the opposite sides of web development (front- vs back-end) we are trying to create a curriculum, that fits everybody’s levels and needs.
 
-![how we felt starting the summer](https://media.giphy.com/media/l41lKfHQanuoCWJbi/giphy.gif)
+![how we felt starting the summer](http://i.giphy.com/3oEjHFBQuEteIo33RS.gif)
 <font color="grey"><small><i>how we felt starting the summer</i></small></font>
 - - -
 
@@ -65,10 +66,10 @@ All this information was at times overwhelming.
 <font color="grey"><small><i>hold on</i></small></font>
 - - -
 
-Sometimes development is hard. Sometimes you have to wait for virtual box to download (while installing Discourse).
+Sometimes development is hard. Sometimes you have to wait for virtual box to download (while installing Discourse). 
 
-![Mind blown](http://i.giphy.com/14jfWwYLzUb3Tq.gif)
-<font color="grey"><small><i>just like Mars's atmosphere</i></small></font>
+![Rebooting is not an option](http://i.giphy.com/5uGtnXX2tXCqA.gif)
+<font color="grey"><small><i>Rebooting is not an option</i></small></font>
 - - -
 
 **Any advice?**
@@ -81,7 +82,7 @@ Sometimes development is hard. Sometimes you have to wait for virtual box to dow
 
 * Fake it till you make it (most of the times).
 
-* Concerning previous point: Everyone has imposter syndrom. Talk it out and you will feel better 👊
+* Concerning previous point: Everyone suffers from Imposter Syndrome. Talk it out and you will feel better 👊
 
 * You are not alone 👽
 
