@@ -18,7 +18,8 @@ T: I hated you on sight.
 <br>
 V: I don’t even remember seeing you. But I remember asking your Mom for directions. She is so nice.
 <br>
-T: *Rolls her eyes* Oh, she remembers seeing me.
+T: *(Rolls her eyes)* Oh, she remembers seeing me.
+<br>
 <br>
 Just to give you a little introduction, T stands for **Taneea**:
 <br>
@@ -69,3 +70,5 @@ The RGSoC team even put us all on the ‘Thank You’ board, and the students go
 Like always, Albus Dumbledore has exactly the right words:
 
 ### *“Let us step into the night and pursue that flighty temptress, adventure.”*
+
+<font color="red"><small>Disclaimer: A special thanks to JK Rowling, and Khaled Hosseini for being amazing writers and providing us with quotes that we'll carry with us till the end of time.</small></font>
