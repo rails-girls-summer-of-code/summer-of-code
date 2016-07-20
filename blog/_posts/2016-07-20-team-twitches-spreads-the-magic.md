@@ -14,19 +14,16 @@ categories:
 
 Yeah, that’s not quite how the Twitches came into being. It was a heatstroke that led to us meeting. If you have ever seen a Bollywood movie, you will relate. On a scorching July morning, our protagonists/narrators met at a college orientation, that both of them would not end up joining. Vrinda was feeling too hot and was lost on the campus when she asked Taneea’s Mom for directions.
 
-T: I hated you on sight.
-<br>
-V: I don’t even remember seeing you. But I remember asking your Mom for directions. She is so sweet.
-<br>
+T: I hated you on sight.  
+V: I don’t even remember seeing you. But I remember asking your Mom for directions. She is so sweet.  
 T: *(Rolls her eyes)* Oh, she remembers seeing me.
-<br>
-<br>
+
 Just to give you a little introduction, T stands for **Taneea**:
-<br>
+
 *“I am an Indian student pursuing Bachelors of Technology (B.Tech) at IIIT-Delhi. I have a myriad of interests, coding being just one of them. A hacker, a programmer, and a hardcore Berlin Artparasites fan, I am an outdoorsy person who likes to solve problems in real life (including the ones where almost everyone on Earth spells my name wrong). I am a hopeless romantic and a geek, but an unlikely one. A day spent with my laptop, and an interesting problem to solve, having delicious food (with copious amount of exercise, of course!) only to get into bed with a hot cup of coffee in hand is my idea of bliss. I hope to touch lives and make a difference to the world through my work and expression. I want to be an engineer, a problem solver, and all things awesome!”*
 
 And V stands for **Vrinda**:
-<br>
+
 *“I am a Computer Science Engineering student at IIIT-Delhi. The best way to describe myself would be that I am a problem solver. For me, coding is a way to solve problems. I live for the rush that you get when your code finally does what you want it to do- or more often than not, something similar. I am also an avid reader and a language enthusiast (coding as well as natural languages). I can speak, English, Hindi, German and some Punjabi. Few things are important to me in life, programming being just one of them, and reading, and good food. Good food is paramount. So is Harry Potter - I am a fangirl @TheChirpyBitch. Also, I love TV- comedy shows, sci-fi thrillers, detective shows. My current obsessions include Orphan Black, Veep and everything Marvel.”*
 
 ### *"Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it."*
