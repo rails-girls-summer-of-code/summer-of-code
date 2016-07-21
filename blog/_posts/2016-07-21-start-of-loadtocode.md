@@ -25,6 +25,7 @@ So our Rails Girls Summer of Code has started, we got welcomed by our hosting co
 ## <span class="color-red">Here we are! LoadToCode = Thea + Marie</span>
 
 Psssst: Here we are, sitting at our desks, looking very serious and trying to understand Rails, Git & LEAP. I mean, this picture is an exception, we normally don't look that funny.
+
 Component "Marie": Finishing her Masters in Interdisciplinary Latin American Studies and was researching about the user experience of period tracking apps from a social perspective. She became curious for programming after a Rails Girls beginner's workshop in 2015. She is a fan of digital rights like encrypted communication and dared to dive more into coding. She is more than happy to combine many interests during the RGSoC.
 
 Component "Thea": She holds a bachelor degree in economic computer science and gained some work experience in that field. However she always wanted to deepen her programming knowledge. She then started to get involved with Ruby/Rails via the RubiesOnDaCloud study group in Summer 2015. Now with the RGSoC she is ready to put more effort in the project "to learn programming"!
