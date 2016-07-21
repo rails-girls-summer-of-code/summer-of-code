@@ -27,3 +27,9 @@
     }
   {% endfor %}
 {% endfor %}
+
+{% for company in site.data.companies %}
+  .sponsors .{{ company.id }} {
+    background-image: url(../../img/companies/{{ company.id }}.png);
+  }
+{% endfor %}

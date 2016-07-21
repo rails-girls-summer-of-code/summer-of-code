@@ -33,7 +33,14 @@ bundle
 jekyll serve
 ```
 
-then you type:  ```localhost:4000``` in your browser and :tada:
+then you type:  ```localhost:4000``` in your browser and :tada:  
+
+Note: if your post has a future date, you will not see it when running `jekyll serve`; in order to view your post correctly, you have to run the jekyll command with a `--future` flag, like this:  
+
+```
+jekyll serve --future
+```
+
 
 ### Writing your blog post
 
@@ -41,7 +48,7 @@ Once you have your local copy set up:
 
 - create a new file in the `summer-of-code/blog/_posts` folder (on your computer).
 - Call this file `yyyy-mm-dd-your-blog-post-name.md`, where yyyy-mm-dd is the publishing date for your post. Don't forget the .md extension, which stands for `MarkDown`.
-- Add the Jekyll header for the meta data. See any of the posts in the `blog/_posts` folder for an example. Include the top section including the `---` lines and change the attributes where required (probably all of them except the `layout` attribute). The date should be the publishing date of your post. On the twitter line, please just add **your twitter handle without @ character**.
+- Add the Jekyll header for the meta data. See any of the posts in the `blog/_posts` folder for an example. Include the top section including the `---` lines and change the attributes where required (probably all of them except the `layout` attribute). **The date (`created_at`) should be the publishing date of your post**. On the twitter line, please just add **your twitter handle without @ character**.
 - Add all your text.
 - don't forget to save your changes ;)
 
@@ -52,6 +59,7 @@ Ideally, your blog post's permalink is all lowercase letters. That's not mandato
 ```yaml
 title: Hello World
 layout: post
+created_at: Sun Jul 12 2015
 permalink: blog/2015-07-12-hello-world
 # ...
 ```
