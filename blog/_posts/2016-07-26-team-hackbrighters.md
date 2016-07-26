@@ -15,9 +15,9 @@ Patricia had lived her entire life in the Midwestern part of the United States, 
 
 Thanks for the intro, Patricia! Melissa comes to programming from the world of non-profits and higher education. Her interests in programming started in middle school where she was one of the first girls to join the computer club. However, she majored in English and American Literature in college. She loved the way literature "codes" the human brain to build worlds and emotions in the imagination.  She is a PhD candidate in English from the University of California, Berkeley.  She maintained her coding interests by making small web page projects. A friend once told her that reading good code is like reading good writing, which piqued her curiosity. Since that conversation, she went from teaching at the University of California, Merced to taking part-time coding classes, completing a Google Summer of Code internship, graduating from Hackbright Academy, and starting the Rails Girls Summer of Code fellowship.
 
-Together, we're working on the [Lektor](http:getlektor.com) project, a Python-based content management system. The project uses the Python programming language to build static web pages that also have a dedicated administration interface. The build system is in Python, admin UI is written in React.js, and the static pages use Markdown.
+Together, we're working on the [Lektor](https://getlektor.com) project, a Python-based content management system. The project uses the Python programming language to build static web pages that also have a dedicated administration interface. The build system is in Python, admin UI is written in React.js, and the static pages use Markdown.
 
-Our project mentor is [Armin Ronacher](http://lucumr.pocoo.org/about/). Our local coaches are [Ramil Nobleza](https://www.ramencodes.com), [Gavin Crooks](http:threeplus.com), [Samantha Trieu](https://ssstrieu.carbonmade.com), and [Seema Ullal](http://www.seemaullal.com)
+Our project mentor is [Armin Ronacher](http://lucumr.pocoo.org/about/). Our local coaches are [Ramil Nobleza](https://www.ramencodes.com), [Gavin Crooks](https://threeplus.com), [Samantha Trieu](https://ssstrieu.carbonmade.com), and [Seema Ullal](http://www.seemaullal.com)
 
 ## Below is our team:
 
@@ -37,7 +37,7 @@ Everyone at GitHub has been extremely supportive and welcoming us for our summer
 We also had our Kick-Off party with our sagely mentors. At the Kick-Off party, Melissa and Ramil caught a Zubat!
 ![Catching Zubats](/img/blog/2016/Zubat.jpg)
 
-To accomplish our task, we've reviewed our Javascript fundamentals, particularly solidifying our knowledge of scopes, closures and javascript objects. We found [Nodeschool](nodeschool.io/oakland) and the Node community really helpful and welcoming as we dived into Javascript! ![Team Hackbrighters at NPM](/img/blog/2016/Meeting-wombat.jpg)<font color="grey"><small><i>NPM's mascot Haggis, a wombat, was giving us moral support at Node School</i></small></font>
+To accomplish our task, we've reviewed our Javascript fundamentals, particularly solidifying our knowledge of scopes, closures and javascript objects. We found [Nodeschool](https://nodeschool.io/oakland) and the Node community really helpful and welcoming as we dived into Javascript! ![Team Hackbrighters at NPM](/img/blog/2016/Meeting-wombat.jpg)<font color="grey"><small><i>NPM's mascot Haggis, a wombat, was giving us moral support at Node School</i></small></font>
 
 We researched how developers test React.js components by interviewing every front-end developer we walked into.
 This is us, for most of our journey learning JavaScript and exploring the vast possibilities of front-end testing:
