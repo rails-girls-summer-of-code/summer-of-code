@@ -1,7 +1,7 @@
 ---
 title: Hello! From Team Hackbrighters
 layout: post
-created_at: Tues Jul 27 2016
+created_at: Tues Jul 26 2016
 permalink: blog/2016-07-27-team-hackbrighters
 current: blog
 author: Patricia and Melissa
