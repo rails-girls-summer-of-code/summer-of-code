@@ -68,7 +68,7 @@ Our first conference
 
 - Day 2 of the conference. On this day we did not have a talk but we listened to different panels being conducted by different women in the tech space in Africa. They talked about common reasons why women exit stem , how to succeed as a woman in tech , how to run  successful startups and the various innovation opportunities in the fintech space. We also witnessed some women led startups pitch their products and win funding and incubation space.We ended the day with getting some swag from google.
 
-![Day 1](/img/blog/2016/final day.jpg)
+![Day 1](/img/blog/2016/final day.JPG)
 
 And Yeah..our kickoff Party
 
