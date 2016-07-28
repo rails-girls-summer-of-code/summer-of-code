@@ -60,7 +60,7 @@ Our first conference
 - Arrival. We arrived in Nairobi, Kenya for the conference on Wednesday 20th of July 2017 in the morning. We rested for some hours before we started the conference.
 - Networking session. We attended this session on 20th/July/2017. We made alot of friends, exchanged business cards and it was an amazing evening.
 
-![Arrival](/img/blog/2016/teamEcho_1st_day_Nairobi.jpg)
+![Arrival](/img/blog/2016/teamEcho_1st_day_Nairobi.JPG)
 
 - Day 1 of the conference. We gave a presentation on how drones, sensors and apps are rewriting the rules in agriculture and the future. This talk pulled attention from the attendees after which we got an invite from one of them to do the same talk at another engineering conference in nairobi.We listened to other presentations from other women in the african tech space.
 
