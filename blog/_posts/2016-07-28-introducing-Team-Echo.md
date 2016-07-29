@@ -1,5 +1,5 @@
 ---
-title: The Echo from Uganda , We are Team Echo
+title: The Echo from Uganda, We are Team Echo
 layout: post
 created_at: Thu July 28 2016
 permalink: blog/introducing-team-echo-2016
