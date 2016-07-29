@@ -6,6 +6,8 @@ permalink: blog/application-wrap-up
 current: blog
 author: Laura
 twitter: RailsGirlsSoC
+categories: 
+- news
 ---
 
 Our application period has officially ended a few days ago; some of us (I'm looking at you, Sara and Anika) stayed up past the deadline to answer all of your questions. The last 24 hours before a deadline tend to be wild, and we've witnessed a lot of last-minute applications coming in – but we made it!  

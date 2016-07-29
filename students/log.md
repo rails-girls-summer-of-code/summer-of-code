@@ -8,7 +8,7 @@ permalink: /students/log/
 current: students
 ---
 
-## Keep a daily team log
+# Keep a daily team log
 
 In development teams there's a practice of doing stand-up meetings in the
 morning. In these meetings everyone very briefly tells the rest of the team
@@ -85,7 +85,7 @@ this, please get in touch with us.
 ### What now?
 
 <!-- Once you've set up your blog/application please add the feed URL to your team
-profile in the [RGSoC Teams App](http://teams.railsgirlssummerofcode.org/). -->
+profile in the [RGSoC Teams App](https://teams.railsgirlssummerofcode.org/). -->
 
 If something's not clear, or you have any questions about what you need to
 do, please let us know by emailing

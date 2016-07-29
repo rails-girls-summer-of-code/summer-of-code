@@ -11,6 +11,16 @@ body {
   }
 }
 
+article li {
+  margin-bottom: $font-size-base / 3; // 6px
+}
+
+.landing-teaser, .landing-misc, .footer, .sidebar-content, .header, figcaption, #sponsor-packages {
+  p, li {
+    font-size: $font-size-small;
+  }
+}
+
 a {
   color: $red;
 }
@@ -97,7 +107,7 @@ a:active {
     height: auto;
     padding: 0 1.5em;
     @media screen and (min-width: $screen-md) {
-      height: 210px;
+      height: 230px;
       padding: 0;
     }
   }
@@ -297,7 +307,7 @@ a.button-burger {
 
 .content--blog {
   .meta {
-    margin: 2em 0;
+    font-style: italic;
     color: $dark-grey;
     a {
       color: $dark-grey;
@@ -308,12 +318,18 @@ a.button-burger {
     width: 100%;
     height: auto;
   }
+  .smaller {
+    width: 30%;
+    height: auto;
+  }
   article  {
     padding-bottom: 3em;
     margin-bottom: 4em;
     border-bottom: 1px solid $dark-grey;
   }
 }
+
+
 
 .list--archive {
   li {
@@ -374,4 +390,18 @@ a.button-burger {
 .custom-donation-input {
   width: 48%;
   margin-right: 0 !important;
+}
+
+.resize {
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.conferences {
+  h4 {
+    margin-top: .8em;
+    margin-bottom: .1em
+  }
 }

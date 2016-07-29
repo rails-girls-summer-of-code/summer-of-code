@@ -6,9 +6,11 @@ permalink: blog/introducing-highway-to-rails
 current: blog
 author: Tam and Susanne
 twitter: highwaytorails
+categories:
+- student-posts
 ---
 
-**We are team [Highway to Rails](http://teams.railsgirlssummerofcode.org/teams/14).** We chose the name because of the ACDC song “Highway to Hell”. When you replace the word “hell” with “rails”, it really sounds like we’re doing something incredibly exciting, which, of course, we are!
+**We are team [Highway to Rails](https://teams.railsgirlssummerofcode.org/teams/14).** We chose the name because of the ACDC song “Highway to Hell”. When you replace the word “hell” with “rails”, it really sounds like we’re doing something incredibly exciting, which, of course, we are!
 
 “Don't need reason, don't need rhyme<br>
 Ain't nothing I would rather do<br>
@@ -16,7 +18,7 @@ Going down, party time<br>
 My friends are gonna be there too<br>
 I'm on the highway to RAILS.”
 
-We heard about RGSoC first and foremost on twitter, but we’re also members of a weekly Rails Girls project group in Berlin, so news quickly spread. We applied because we’re both at a sort of turning point in our lives: we want to change career paths, we’re interested in coding and technology, and it sounds like fun. 
+We heard about RGSoC first and foremost on twitter, but we’re also members of a weekly Rails Girls project group in Berlin, so news quickly spread. We applied because we’re both at a sort of turning point in our lives: we want to change career paths, we’re interested in coding and technology, and it sounds like fun.
 
 Unfortunately we weren’t accepted to the summer of code. However, we had already found a place to work (tables in the IT department at [Absolventa](http://www.absolventa.de/)) and a couple coaches (Carsten and Felix, developers at Absolventa). Luckily, the company was as sad about us not getting in as we were, and were nice enough to create two internship positions for us. So now we’re summer of code volunteer students, working full time on a project called event_girl that Absolventa will hopefully use when it’s done.
 

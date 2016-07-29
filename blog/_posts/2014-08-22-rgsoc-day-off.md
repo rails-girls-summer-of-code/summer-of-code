@@ -6,6 +6,9 @@ permalink: blog/rgsoc-day-off
 current: blog
 author: Laura
 twitter: alicetragedy
+categories:
+- news
+- tips-and-tricks
 ---
 
 We love coding, we **really** do. But we also know that during a 3-month-long, hands-on coding program (or *cough cough* at work if you’re coding all day *cough cough*) your motivation might start to take a nosedive. This is why we are announcing a
@@ -16,13 +19,13 @@ We love coding, we **really** do. But we also know that during a 3-month-long, h
 
 What that means: exit your terminal, close your laptop and do something awesome or relaxing with your team mate! Some of us are in Berlin, and there will be a small get together for local teams (yes, an afternoon on a houseboat - wonderfully sponsored and organized by [Applift](http://www.applift.com/?gclid=CNuxwer_psACFYrpwgodBD8A0Q)); but since RGSoC is a worldwide movement, we won’t let distance stop you from having a great time. We just want you (yes, YOU dearest students; but also coaches, mentors, supervisors..!) to have a fun day, wherever you may be!
 
-### *our favorite 10 ways to spent your day off*
+### *Our favorite 10 ways to spend your day off*
 
-We have gathered list of the best 10 ways to take a day off , feel free to try out some or all or to think up your own. And of course: you’re welcome to DOCUMENT ALL THE THINGS - e.g. sending us funny pictures of you relaxing with your favorite pet or going out for a hike. We love all your tweets.
+We have gathered a list of the best 10 ways to take a day off, feel free to try out some or all or to think up your own. And of course: you’re welcome to DOCUMENT ALL THE THINGS - e.g. sending us funny pictures of you relaxing with your favorite pet or going out for a hike. We love all your tweets.
 
 ### 1. Explore your hometown in an alternative way
-The [Laboratory of Experimental Tourism](http://www.latourex.org) has a few fun ways to explore places - even in your own hometown. Some of our favorite examples: 
-- Counter travel (Travel with a camera, but don't take pictures of the famous landmarks and tourist attractions. Stand with your back to the sight and snap that view instead.) 
+The [Laboratory of Experimental Tourism](http://www.latourex.org) has a few fun ways to explore places - even in your own hometown. Some of our favorite examples:  
+- Counter travel (Travel with a camera, but don't take pictures of the famous landmarks and tourist attractions. Stand with your back to the sight and snap that view instead.)  
 - Alternating Travel (Leave your home on foot. Take the first road on the right, then the next on the left, then the next on the right, then the next on the left, etc. Carry on until something, a no man's land, a building or a stretch of water, blocks your path and you can go no farther.)
   
 ### 2. Organise a picnic
@@ -52,7 +55,7 @@ Leave your laptop and phone at home, and just head out. After the first few minu
 ### 10. Go wild at an amusement park
 ..because roller-coasters and bumper cars are definitely not just for kids.
 
-### *Studies show that just "hanging around" and doing nothing and just lying on the couch all day won't let you feel very relaxed. Your brain wants to do things and experience stuff.*
+<blockquote>Studies show that just "hanging around" and doing nothing and just lying on the couch all day won't let you feel very relaxed. Your brain wants to do things and experience stuff.</blockquote>
 
 So make the best out of it, and **enjoy your RGSOC-DAY-OFF**!
 

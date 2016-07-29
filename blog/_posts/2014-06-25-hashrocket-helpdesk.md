@@ -6,6 +6,8 @@ permalink: blog/2014-06-25-hashrocket-helpdesk
 current: blog
 author: Floor
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 [We recently announced](http://railsgirlssummerofcode.org/blog/2014-06-19-tealeaf-helpdesk/) how a bunch of awesome Tealeaf students and alumni will help this year's Rails Girls Summer of Code participants get the answers-they-need. Today we are excited to share that [Hashrocket](http://hashrocket.com/) will also be joining our helpdesk team on [Campfire](https://railsgirlssummerofcode.campfirenow.com/33c5b). Committing to 10 hours per week for the entire span of the program, at least one Hashrocketeer will hang out in our support room between 14:00 and 22:00 UTC - every day!
@@ -19,4 +21,4 @@ And that's not all. Hashrocket supports Rails Girls Summer of Code as a Silver s
 
 We are always looking for more people to join the helpdesk.
 
-In case you are interested, please register via our [Teams application](http://teams.railsgirlssummerofcode.org/) and specify your role as "Helping as a remote coach (helpdesk)". Then sign in to our [Campfire chat room](https://railsgirlssummerofcode.campfirenow.com/33c5b), and you're good to go!
+In case you are interested, please register via our [Teams application](https://teams.railsgirlssummerofcode.org/) and specify your role as "Helping as a remote coach (helpdesk)". Then sign in to our [Campfire chat room](https://railsgirlssummerofcode.campfirenow.com/33c5b), and you're good to go!

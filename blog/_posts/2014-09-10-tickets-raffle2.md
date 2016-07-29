@@ -6,6 +6,8 @@ permalink: blog/2014-09-10-tickets-raffle2
 current: blog
 author: Floor
 twitter: RailsGirlsSoc
+categories:
+- conferences
 ---
 
 We have raffled and re-raffled. Here are the winners of the tickets our befriended conferences decided to give away:

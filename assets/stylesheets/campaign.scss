@@ -6,6 +6,7 @@
   width: 100%;
   margin-bottom: 0.5em;
   padding-left: 0px;
+  margin-top: 1.5em;
 }
 #sponsor-packages li {
   display: inline-block;
@@ -30,6 +31,7 @@
 #sponsor-packages h4 {
   margin: 0 0 1em 0;
   color: #444;
+  font-size: 22px;
 }
 #sponsor-packages p {
   text-align: left;
@@ -80,4 +82,20 @@
 
 .margin-top {
   margin-top: 2em;
+}
+
+.resize {
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.resize-whitespace {
+  img {
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
 }

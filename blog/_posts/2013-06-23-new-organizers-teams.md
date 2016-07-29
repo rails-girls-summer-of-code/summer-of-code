@@ -6,6 +6,8 @@ permalink: blog/new-organizers-teams
 current: blog
 author: Rails Girls Summer of Code organizers
 twitter: railsgirlssoc
+categories:
+- news
 ---
 
 Got some spare time and a knack for PR, community management, Sponsoring or Coding? Awesome!

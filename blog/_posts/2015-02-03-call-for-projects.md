@@ -6,6 +6,8 @@ permalink: blog/call-for-projects
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories: 
+- news
 ---
 
 Happy post-Superbowl-weekend Tuesday!

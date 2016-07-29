@@ -6,6 +6,8 @@ permalink: blog/2014-09-05-conferences
 current: blog
 author: Floor
 twitter: RailsGirlsSoc
+categories:
+- conferences
 ---
 [As promised](http://railsgirlssummerofcode.org/blog/2014-07-24-conferences/), we have a whole new round of great-conferences-you-can-visit-for-free! This time around we have both tickets and scholarships to draw your attention to. We've listed what you should do to get either of those in the list below. Good luck!
 

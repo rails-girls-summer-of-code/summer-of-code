@@ -6,6 +6,9 @@ permalink: blog/talktime-lunchtime
 current: blog
 author: Katrin
 twitter: _die_katrin
+categories:
+- conferences
+- news
 ---
 
 

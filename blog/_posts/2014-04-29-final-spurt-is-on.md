@@ -6,6 +6,8 @@ permalink: blog/2014-04-29-final-spurt-is-on
 current: blog
 author: RGSoC
 twitter: railsgirlssoc
+categories:
+- news
 ---
 
 

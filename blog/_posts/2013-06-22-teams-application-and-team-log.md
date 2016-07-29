@@ -6,9 +6,11 @@ permalink: blog/teams-application-and-team-log
 current: blog
 author: Sven
 twitter: svenfuchs
+categories:
+- tips-and-tricks
 ---
 
-Our little [Rails Girls Summer of Code Teams application](http://teams.railsgirlssummerofcode.org/teams)
+Our little [Rails Girls Summer of Code Teams application](https://teams.railsgirlssummerofcode.org/teams)
 is getting closer to actually being useful.
 
 This application is meant as a central place to aggregate activity at
@@ -29,7 +31,7 @@ hope to get out of this, etc.
 
 #### Your team's profile
 
-On the [teams list](http://teams.railsgirlssummerofcode.org/teams) check if
+On the [teams list](https://teams.railsgirlssummerofcode.org/teams) check if
 your team has already been added. If you're already part of this team then you
 can update your team's profile.
 

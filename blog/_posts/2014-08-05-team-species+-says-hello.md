@@ -6,6 +6,8 @@ permalink: blog/Team-Species+-says-hello
 current: blog
 author: TeamSpecies+
 twitter: RailsGirlsSoc
+categories:
+- student-posts
 ---
 
 

@@ -6,6 +6,8 @@ permalink: blog/the-big-conferenc-raffle-winners
 current: blog
 author: Anika
 twitter: langziehohr
+categories:
+- conferences
 ---
 
 <style>

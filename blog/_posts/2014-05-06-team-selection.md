@@ -6,6 +6,8 @@ permalink: blog/2014-05-06-team-selection
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
+categories:
+- news
 ---
 
 After 60 hours of rating over 100 applications for Rails Girls Summer of Code,

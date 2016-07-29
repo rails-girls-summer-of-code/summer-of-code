@@ -51,17 +51,19 @@ $.extend(Donations.Data, {
     'Silver':    2500,
     'Bronze':    1000
   },
-  TRAVIS: {
-    amount: undefined,
-    package: 'Partner',
-    name: 'Travis CI',
-    github_handle: 'travis-ci',
-    twitter_handle: 'travisci',
-    homepage: 'http://travis-ci.com',
-    gravatar_url: '/img/sponsors/travis_avatar.png',
-    comment: 'Proud to sponsor 1.5 fulltime organizer positions',
-    created_at: '2015-01-01T00:00:00Z'
-  }
+  PARTNERS: [
+    {
+      amount: undefined,
+      package: 'Partner',
+      name: 'Travis CI',
+      github_handle: 'travis-ci',
+      twitter_handle: 'travisci',
+      homepage: 'http://travis-ci.com',
+      gravatar_url: '/img/sponsors/travis_avatar.png',
+      comment: 'Proud to sponsor 1.5 fulltime organizer positions',
+      created_at: '2016-01-01T00:00:00Z'
+    }
+  ]
 });
 
 $.extend(Donations.Data.prototype, {
@@ -91,7 +93,9 @@ $.extend(Donations.Data.prototype, {
       return donation.package !== 'Custom';
     });
     sponsors = sponsors.sort(this.sortByAmount);
-    sponsors.unshift(Donations.Data.TRAVIS);
+    $.each(Donations.Data.PARTNERS, function(ix, partner) {
+      sponsors.unshift(partner);
+    });
     return sponsors;
   },
   normalize_data: function(data) {

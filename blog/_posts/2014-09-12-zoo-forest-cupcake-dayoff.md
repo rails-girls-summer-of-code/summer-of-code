@@ -6,6 +6,8 @@ permalink: blog/zoo-forest-cupcake-dayoff
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 On August 28th, 2014, after almost two months of full-time coding, we recommended to our students that they take a [day off](http://railsgirlssummerofcode.org/blog/rgsoc-day-off). It was a wonderful opportunity for everyone to get their minds off gems, classes, and variables, to take a breath and recharge. Here's some of the stuff that happened that day.

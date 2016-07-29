@@ -6,6 +6,8 @@ permalink: blog/selection-process
 current: blog
 author: Laura
 twitter: RailsGirlsSoC
+categories: 
+- news
 ---
 
 *Les jeux sont faits – The chips are down!*  

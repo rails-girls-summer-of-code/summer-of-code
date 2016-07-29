@@ -6,6 +6,7 @@ permalink: blog/meet-team-rails-grrls
 current: blog
 author: Laura and Nicole
 twitter: _railsgrrls_
+categories: student-posts
 ---
 
 We are Laura and Nicole, a.k.a. [Team Rails Grrls](http://railsgrrls.tumblr.com). We started our Summer of Code in Mid-June at the Soundcloud HQ office in Berlin. 

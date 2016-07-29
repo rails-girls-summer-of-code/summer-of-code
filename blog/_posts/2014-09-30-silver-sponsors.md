@@ -6,6 +6,8 @@ permalink: blog/silver-sponsors-2014
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 <a href="http://www.envato.com/"><img src="/img/sponsors/envato.png" width="450"></a>

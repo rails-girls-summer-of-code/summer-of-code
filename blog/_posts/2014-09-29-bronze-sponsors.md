@@ -6,6 +6,8 @@ permalink: blog/bronze-sponsors-2014
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 Rails Girls Summer of Code's Bronze sponsors make up the most numerous contingent in our roll call for 2014. Listing them out doesn't really do them justice, so here's a little about each of them.

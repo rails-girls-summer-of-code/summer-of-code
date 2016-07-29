@@ -6,6 +6,8 @@ permalink: blog/final-team-list-2014
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 It's time to celebrate! After a great spurt in the campaign and with the
@@ -104,7 +106,7 @@ UNICEF's side.
 
 Akshata Mohan and Aayish Shetty from Bangalore, India will be working on
 our Rails Girls Summer of Code
-[Teams application](http://teams.railsgirlssummerofcode.org),
+[Teams application](https://teams.railsgirlssummerofcode.org),
 putting it into an even better shape for students to connect, form teams
 and apply for next year's Summer of Code.
 [Monika Mahanthappa](http://about.me/monikamahanthappa),

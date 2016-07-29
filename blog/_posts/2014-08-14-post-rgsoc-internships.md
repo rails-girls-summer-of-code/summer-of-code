@@ -6,6 +6,8 @@ permalink: blog/rgsoc-internships
 current: blog
 author: Tam
 twitter: travelingtamm
+categories:
+- news
 ---
 
 The summer is reaching its halfway mark, so we're hard at work thinking about how to keep supporting our students when it ends. For a handful of selected women, RGSoC has marked a turn in their lives: they have spent hours coding, learning, and discovering a new world of programming possibilities.

@@ -6,6 +6,8 @@ permalink: blog/new-teams-on-board
 current: blog
 author: Anika
 twitter: langziehohr
+categories:
+- news
 ---
 
 
@@ -15,7 +17,7 @@ It's getting really warm outside in Berlin. And Rails Girls Summer of Code is ge
 
 ### Team Number 10
 
-We are super happy to announce that with the support from [Front Foot] (http://www.frontfoot.com.au/), [Readmill](http://readmill.com), [Gnip] (http://gnip.com) and with [Soundcloud] (http://soundcloud.com) becoming a gold sponsor plus extra donations from our amazing community[\*](#duana) ... we can now offer
+We are super happy to announce that with the support from [Front Foot](http://www.frontfoot.com.au/), [Readmill](http://readmill.com), [Gnip](http://gnip.com) and with [Soundcloud](http://soundcloud.com) becoming a gold sponsor plus extra donations from our amazing community[\*](#duana) ... we can now offer
 another sponsored team-spot for RGSoC!
 
 And that spot goes to this amazing team:

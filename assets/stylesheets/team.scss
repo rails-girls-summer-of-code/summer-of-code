@@ -1,3 +1,8 @@
+// Adds space on the top, same as on other pages
+#js-team {
+  margin-top: floor(($font-size-h1 * $headings-line-height)); // 64px
+}
+
 .list--team {
   overflow: auto;
   padding: 0;
@@ -23,6 +28,7 @@
   width: 18%;
   min-width: 130px;
   margin-right: 2%;
+  vertical-align: top;
 }
 .Grid--5 li:nth-child(5n) { margin-right: 0; }
 

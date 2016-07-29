@@ -6,6 +6,9 @@ permalink: blog/2014-03-18-three-ways-your-company-can-support-rgsoc
 current: blog
 author: Sara
 twitter: RailsGirlsSoc
+categories:
+- news
+- tips-and-tricks
 ---
 
 

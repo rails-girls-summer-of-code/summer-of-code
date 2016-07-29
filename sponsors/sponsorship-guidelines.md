@@ -8,7 +8,7 @@ stripe: yes
 permalink: sponsorship-guidelines/
 ---
 
-<h2 id="guidelines">Sponsorship Guidelines</h2>
+<h1 id="guidelines">Sponsorship Guidelines</h1>
 
 
 Rails Girls Summer of Code is – above all – about people. That’s what we stand by, and it is why we source the scholarship funding from individuals as well as companies.
@@ -48,4 +48,4 @@ If for some unforeseen reason the Rails Girls Summer of Code can’t go ahead as
 
 ## Left-over monies
 
-Any money left over from the campaign will be saved for next year’s Rails Girls Summer of Code. Should there be no Summer of Code in 2016, the Rails Girls organization will decide how to best spend any left over donation money on other non-profit initiatives.
+Any money left over from the campaign will be saved for next year’s Rails Girls Summer of Code. Should there be no Summer of Code in particular year, the Rails Girls organization will decide how to best spend any left over donation money on other non-profit initiatives.

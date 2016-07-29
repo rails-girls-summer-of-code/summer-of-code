@@ -6,6 +6,8 @@ permalink: blog/2014-07-24-conferences
 current: blog
 author: Floor
 twitter: RailsGirlsSoc
+categories:
+- conferences
 ---
 
 Get your twitter clients ready and join the rafflemania! 

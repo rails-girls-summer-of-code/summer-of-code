@@ -6,6 +6,8 @@ permalink: blog/rapidrailsgirls
 current: blog
 author: RapidRailsGirls
 twitter: RapidRailsGirls
+categories:
+- student-posts
 ---
 
 ###About us:

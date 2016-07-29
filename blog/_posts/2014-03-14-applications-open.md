@@ -6,6 +6,8 @@ permalink: blog/applications-open
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 It's Friday and we are in love: With this we are officially opening the
@@ -40,7 +42,7 @@ Application Guide: [railsgirlssummerofcode.org/application-guide/](http://railsg
 
 Projects examples: [railsgirlssummerofcode.org/blog/where-to-start/](http://railsgirlssummerofcode.org/blog/where-to-start/)
 
-Apply here: [teams.railsgirlssummerofcode.org/application](http://teams.railsgirlssummerofcode.org/application)
+Apply here: [teams.railsgirlssummerofcode.org/application](https://teams.railsgirlssummerofcode.org/application)
 
 
 

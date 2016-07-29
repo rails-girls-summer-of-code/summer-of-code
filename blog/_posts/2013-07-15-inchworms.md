@@ -6,6 +6,8 @@ permalink: blog/2013-07-14-inchworms
 current: blog
 author: Anika
 twitter: langziehohr
+categories:
+- news
 ---
 
 I guess you are as curious as we are about our teams, right?

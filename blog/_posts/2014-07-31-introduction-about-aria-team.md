@@ -6,6 +6,8 @@ permalink: blog/about-ariateam
 current: blog
 author: ARIA Team
 twitter: GirlsARIA
+categories:
+- student-posts
 ---
 
 Hi everybody, we are the **ARIA Team** and we want to say hi! My name is **Melissa Torregrosa**, I am 24 years old, and I’m a graduate in Computer Science. After my graduation I was working in the field of quality assurance and information system audit. I consider myself as an outgoing person, friendly and responsible. **Paola Garcia** is my teammate, she is 25 years old, she's from Barranquilla-Colombia and she’s a graduate in Computer Sciences as well. She was working as a Process Analyst before RGSoC. Her goal this year is to become a Ruby on Rails developer. Currently she spend her time studying and researching technology, and enjoying time with her family.

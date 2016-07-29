@@ -6,6 +6,8 @@ permalink: blog/BubbleConf_winners
 current: blog
 author: Floor
 twitter: floordrees
+categories:
+- conferences
 ---
 
 Our friends at <a href="http://www.phusion.nl/">Phusion</a> and <a href="http://www.nedap.com/nl/">Nedap</a> announced on Wednesday that they're giving away tickets to <a href="http://railsgirlssummerofcode.org/blog/Bubbleconf_tickets/">Bubbleconf</a> to Rails Girls (Summer of Code) alumni & supporters! We had a jury go through the crazy pictures you guys tweeted. And the winners are: 

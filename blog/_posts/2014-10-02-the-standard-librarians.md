@@ -6,6 +6,8 @@ permalink: blog/the-standard-librarians
 current: blog
 author: The Standard Librarians
 twitter: StdLibrarians
+categories:
+- student-posts
 ---
 
 # The Standard Librarians

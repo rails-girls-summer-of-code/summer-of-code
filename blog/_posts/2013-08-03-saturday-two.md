@@ -6,9 +6,11 @@ permalink: blog/hammertime
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
+categories:
+- news
 ---
 
-What a week! We can't even decide what to tell you first. 
+What a week! We can't even decide what to tell you first.
 Well, okay first things first. First, you'll get a hug! This week from Team Unicorn &hearts;
 
 
@@ -45,7 +47,7 @@ We are blown away by all these witty, smart and funny articles all the teams are
 
 ##RubyRubyRubyRuby!
 
-Thanks to RGSoC mentor [Andy](http://teams.railsgirlssummerofcode.org/users/115), everybody spent some minutes, hours, days addicted on this:
+Thanks to RGSoC mentor [Andy](https://teams.railsgirlssummerofcode.org/users/115), everybody spent some minutes, hours, days addicted on this:
 
 <a href="https://www.bloc.io/ruby-warrior#/"><img src="http://defendingdiaspora.files.wordpress.com/2013/07/ruby-warriors1.png" alt="everybody is obsessed with ruby warrior" width="550"></a>
 
@@ -54,5 +56,5 @@ We bet in a minute you'll be infected, too. Warrior.attack!
 
 Have a ruby weekend!
 
-P.S. Of course this is only a tiny fraction of what happened this week. Check out more here: [http://teams.railsgirlssummerofcode.org](http://teams.railsgirlssummerofcode.org)
+P.S. Of course this is only a tiny fraction of what happened this week. Check out more here: [https://teams.railsgirlssummerofcode.org](https://teams.railsgirlssummerofcode.org)
 

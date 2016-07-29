@@ -9,6 +9,12 @@ permalink: /guide/supervisors/
 
 <h1>Becoming a supervisor</h1>
 
+<p><div class="resize-whitespace">
+<img src="/img/guides/team_structure.jpg">
+</div>
+</p>
+
+
 <p>For every year we look for caring people to supervise 1-2 teams through the Summer of Code. Read below to see if it fits your profile. 
 
 <ul>

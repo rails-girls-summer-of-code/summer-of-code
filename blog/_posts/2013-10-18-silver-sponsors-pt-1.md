@@ -6,6 +6,8 @@ permalink: blog/silver-sponsors-pt-1
 current: blog
 author: Tam
 twitter: travelingtamm
+categories:
+- news
 ---
 
 In the lead up to the Rails Girls Summer of Code, female coders around the globe were frantically refreshing the RGSoC donate page. Everyone was talking about what an amazing opportunity this summer was, how it would change so many lives, and how it had the potential to jump start the careers of women who had discovered their love of programming a little later on in life. 

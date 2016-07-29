@@ -6,6 +6,9 @@ permalink: blog/conference-tips
 current: blog
 author: RGSoC Team
 twitter: railsgirlssoc
+categories:
+- conferences
+- tips-and-tricks
 ---
 
 
@@ -18,10 +21,7 @@ So here we have a small conference prep package for you! We stuffed it with the 
 ##Rock that Conference
 
 
-<img src="https://f.cloud.github.com/assets/1711357/1010419/97b3d93c-0b4a-11e3-9a9f-865fdaf7ed7e.png" width="150">
-<img src="https://f.cloud.github.com/assets/1711357/1010419/97b3d93c-0b4a-11e3-9a9f-865fdaf7ed7e.png" width="150">
-<img src="https://f.cloud.github.com/assets/1711357/1010419/97b3d93c-0b4a-11e3-9a9f-865fdaf7ed7e.png" width="150">
-<img src="https://f.cloud.github.com/assets/1711357/1010419/97b3d93c-0b4a-11e3-9a9f-865fdaf7ed7e.png" width="150">
+<div class="smaller"><img src="https://f.cloud.github.com/assets/1711357/1010419/97b3d93c-0b4a-11e3-9a9f-865fdaf7ed7e.png" width="150"></div>
 
 
 Lucas Pinto: *"My biggest tip would be not to be shy and go talk to people, make connections. A lot of people go to conferences not for the talks but mostly to meet fellow devs. It is always very inspiring and you always meet nice people. So if you come in gang, try not to stick with them 100% of the time plus it is easy to find an opener at a conf "hey, where do you come from, are you here alone/with your company, who do you work for, do you know the city well, etc. etc."*
@@ -40,10 +40,9 @@ by Zach Holman
 
 ##Rock that talk
 
-<img src="https://f.cloud.github.com/assets/1711357/1010421/9ac77458-0b4a-11e3-9eee-0871e47a8af3.png" width="150">
-<img src="https://f.cloud.github.com/assets/1711357/1010421/9ac77458-0b4a-11e3-9eee-0871e47a8af3.png" width="150">
-<img src="https://f.cloud.github.com/assets/1711357/1010421/9ac77458-0b4a-11e3-9eee-0871e47a8af3.png" width="150">
-<img src="https://f.cloud.github.com/assets/1711357/1010421/9ac77458-0b4a-11e3-9eee-0871e47a8af3.png" width="150">
+
+<div class="smaller"><img src="https://f.cloud.github.com/assets/1711357/1010421/9ac77458-0b4a-11e3-9eee-0871e47a8af3.png" width="150"></div>
+
 
 
 

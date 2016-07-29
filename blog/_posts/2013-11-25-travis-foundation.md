@@ -6,6 +6,8 @@ permalink: blog/travis-foundation
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoc
+categories:
+- news
 ---
 
 So much love! 
