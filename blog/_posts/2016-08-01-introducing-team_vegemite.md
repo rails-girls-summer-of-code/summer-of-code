@@ -13,8 +13,8 @@ categories: student-posts
 
 We are Team Vegemite: Ramya Ravindranath and Kylie Gusset from Melbourne, Australia. We are working on [Exercism.io](http://exercism.io), a website that offers crowd-sourced code mentorship where you can practice having thoughtful conversations about code. [Katrina Owen](https://twitter.com/kytrinyx) is our project mentor, [Jo Cranford](https://twitter.com/jocranford), [Tim Moore](https://twitter.com/tmoore), [Kevin Yank](https://twitter.com/sentience), [Sushma Girish](https://twitter.com/sporty_sush) and [Keira Hodgkison](https://twitter.com/keirasaid) are our coaches with their employer [Culture Amp](http://cultureamp.com) being our wonderful hosts. Vi is our project supervisor (and member of last year’s Australian Rails Girls Summer Of Code Team [Team Koala](https://twitter.com/TeamMelbKoala)).
 
-<!--Waiting for Owen photo of team vegemite -->
-<!--![Team Vegemite](/img/blog/2016/team-vegemite-railscamp.jpg)<font color="grey"><small><i>Team Vegemite eating Vegemite!</i></small></font> -->
+
+![Team Vegemite](/img/blog/2016/team-vegemite-railscamp.jpg)<font color="grey"><small><i>Team Vegemite eating Vegemite!</i></small></font> 
 
 ## Ramya
 
