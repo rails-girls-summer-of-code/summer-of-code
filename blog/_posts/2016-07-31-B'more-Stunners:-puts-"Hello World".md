@@ -17,7 +17,7 @@ We could not have gotten this far without the support of our beloved coaches, me
 Last winter a good friend of mine told me about the Rails Girls Summer of Code fellowship. I was working through ruby koans at the time with my mentor Will Barrett, now an unofficial  coach, and he encouraged me to pursue it. The hunt was on. 
 
 
-<img src="https://d13yacurqjgara.cloudfront.net/users/5019/screenshots/830558/monop-boh-ly_v1_zoom_dribbble.jpg" title="Baltimore’s Mascot by Baltimore’s graphic designer, Carlos Vigil">
+<img src="https://d13yacurqjgara.cloudfront.net/users/5019/screenshots/830558/monop-boh-ly_v1_zoom_dribbble_1x.jpg">
 
 
 ###Starting off on the right foot
@@ -49,7 +49,7 @@ Figure out how to Batch metrics to Librato Analytics API
 Stress less and continue to have fun! (ノ*゜▽゜*)
 
 
-![Do the right thing: Rosie Perez ](https://66.media.tumblr.com/23dea5dc1b386ee4fa293cd7d7c36e26/tumblr_n747rth4ge1qzk2apo1_500.gif)
+<img style="width:300" align="middle" src="https://66.media.tumblr.com/23dea5dc1b386ee4fa293cd7d7c36e26/tumblr_n747rth4ge1qzk2apo1_500.gif" title="Do the right thing: Rosie Perez">
 
 
 
