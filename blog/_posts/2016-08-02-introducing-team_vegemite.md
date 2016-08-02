@@ -5,7 +5,7 @@ created_at: Tue Aug 02 2016
 permalink: blog/2016-08-02-we-are-team-vegemite
 current: blog
 authors: Ramya and Kylie
-twitter: RGAU2016
+twitter: rgau2016
 categories: student-posts
 ---
 
