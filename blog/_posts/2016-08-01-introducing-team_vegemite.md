@@ -20,9 +20,7 @@ We are Team Vegemite: Ramya Ravindranath and Kylie Gusset from Melbourne, Austra
 
 She had lived her entire life in India until she moved to Australia in 2014. Like everyone else in her home country she did not have much options with her career. So she joined an engineering course in Computer Science where she was introduced to the  programming for the first time. Afterwards, she started working as a junior Java developer in one of the organizations in Bangalore.
 
-In the beginning, it was a bit of a struggle to cope with the transition from university to workplace. While she was still learning and making progress, she was released from the project due to the cost cutting issues and the reason was she was a junior in the team. As  a young aspiring developer she was demotivated by this event. So she decided move to Australia to pursue higher education.
-
-She went to Swinburne University, Melbourne and completed a Masters in IT. She is passionate about programming and thinks anything is possible if you believe in yourself. Her aim is to find a position as a developer in Australia.
+She went to Swinburne University and completed a Masters in IT. She is passionate about programming and thinks anything is possible if you believe in yourself. Her aim is to find a position as a developer in Australia.
 
 ## Kylie
 
