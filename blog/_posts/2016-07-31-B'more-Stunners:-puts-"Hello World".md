@@ -22,7 +22,8 @@ Last winter a good friend of mine told me about the Rails Girls Summer of Code f
 
 #####Starting off on the right foot
 
-This summer we are working alongside the Bundler team to create a public dashboard that will showcase its metrics. This dashboard will provide programmers with information such as "What is the most popular Ruby version? What is the least and/or most used bundler (is this a company? And should it therefore be capitalized?) version? etc." With these metrics, the folks at Bundler will not only be able to analyze this data, but also make precise decisions about future version upgrades. We are super excited to be apart of a project that will have a direct impact to the ruby community. As new developers, we couldn't have dreamed for a better way to jumpstart our careers! (not in love with this sentence, any ideas on how to make it better?) As new developers this opportunity is a dream come true, and couldn’t be a better way to jumpstart our careers. [?]
+This summer we are working alongside the Bundler team to create a public dashboard that will showcase its metrics. This dashboard will provide programmers with information such as "What is the most popular Ruby version? What is the least and/or most used 
+Bundler version? etc." With these metrics, the folks at Bundler will not only be able to analyze this data, but also make precise decisions about future version upgrades. We are super excited to be apart of a project that will have a direct impact to the ruby community. As new developers this opportunity is a dream come true, and couldn’t be a better way to jumpstart our careers.
 
 
 [Add “Beyonce Boss Ass Bitch” Giphy]
@@ -37,15 +38,15 @@ At the beginning we had a difficult time figuring out exactly where to start.Our
 
 Aspects of Agile Methodology for project planning purposes
 How to use a Public API and its request to the server
-The relationships of clients and servers, specifically within Bundler/RubyGems (relationship between clients and servers?)
+The relationships between clients and servers, specifically within Bundler/RubyGems
 Our coaches are the best human beings on Planet Earth.... 
 
 #####What's next to come
 
 Create a new controller and route with Rubygems repository, 
 Figure out where/how to display the dashboard
-Figure out how to Batch metrics to Librato(analytics) API
-Stress less and continue to have fun! (insert cute emoji)
+Figure out how to Batch metrics to Librato Analytics API
+Stress less and continue to have fun! (ノ*゜▽゜*)
 
 
 [Add Giphy]
@@ -53,5 +54,5 @@ Stress less and continue to have fun! (insert cute emoji)
 
 
 Be sure to follow [Ash](twitter.com/ashhjean) and [Ore](twitter.com/speculate7) on Twitter! 
-Annnnnnd, [follow our progress](https://teams.railsgirlssummerofcode.org/?kind=&team_id=116) this summer! (insert cute emoji)
+Annnnnnd, [follow our progress](https://teams.railsgirlssummerofcode.org/?kind=&team_id=116) this summer! (≧∇≦)/
 
