@@ -1,8 +1,8 @@
 ---
 title: We are Team Vegemite
 layout: post
-created_at: Mon Aug 08 2016
-permalink: blog/2016-08-01-we-are-team-vegemite
+created_at: Tue Aug 02 2016
+permalink: blog/2016-08-02-we-are-team-vegemite
 current: blog
 authors: Ramya & Kylie
 twitter: RGAU2016
