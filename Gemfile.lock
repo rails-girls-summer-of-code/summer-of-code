@@ -130,6 +130,3 @@ DEPENDENCIES
   github-pages (= 84)
   jekyll (~> 3.1.6)
   lolize
-
-BUNDLED WITH
-   1.11.2

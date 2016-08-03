@@ -1,3 +1,14 @@
+---
+title: B'More Stunners: Puts “Hello World!”
+layout: post
+created_at: Fri August 5 2016
+permalink: blog/B'More-Stunners:-Puts-“Hello World!”-2016
+current: blog
+author: Oreoluwa Akinsanmi and Ashley Jean
+twitter: _ashhjean_ _speculate7_
+categories:
+- student-posts
+---
 #B'More Stunners: Puts “Hello World!”
 
 ###Ready, Set, Go!
@@ -5,7 +16,7 @@
 We are Ashley and Ore of team B’More Stunners!! We first met at our city’s local Rails Meetup and we instantly clicked. After both coaching a Rails Workshop for Women this past February, we decided to take the plunge and apply for the RGSoC fellowship (Ore was very convincing). Through our various connections within the tech community, we were able to assemble a team of awesome coaches to help us this summer!
 
 
-![Top left to right: Benedikt, Jamie, Lynn, Beverly, Ashley, Ore, Andre, Will](http://img003.picture2life.net/26108706/rgsoccollage_web-large_medium.jpg)
+![Top left to right: Benedikt, Jamie, Lynn, Beverly, Ashley, Ore, Andre, Will](img/blog/2016/B\'More\ Stunners/jbl.jpg)
 
 *We could not have gotten this far without the support of our beloved coaches, mentors, supervisors, and the community!*
 
@@ -13,7 +24,7 @@ We are Ashley and Ore of team B’More Stunners!! We first met at our city’s l
 ###Who are we? 
 
 *Ashley* -  I was born and raised in New York, but happy to have called Baltimore home for the past six years! Last year, I attended a Rails Workshop where I was introduced to Ruby on Rails.  It’s safe to say I quickly became fascinated by the power of code, and I eagerly wanted to learn more. So, for the past year I dedicated myself to learning Ruby in my spare time. Although it has been quite challenging juggling a full time job and learning to program on nights and weekends, I could not be happier. When I am not writing code, I still find myself looking for opportunities to get involved within Baltimore's tech scene. I avidly attend Baltimore’s Rails and Girls Develop It! meetups. My other interest include, attending my weekly book club with friends, running, and taking naps. Lastly, I enjoy exploring my beautiful city through its eateries, breweries, art galleries, and music venues!
-![Ashley and Ore](https://dl2.pushbulletusercontent.com/aeowQhH6D0sqXnp9tTkYDYWEWJcRVlKR/2891_imagejpeg_2.jpg.jpeg "Ashley and Ore")
+![Ashley and Ore](img/blog/2016/B\'More\ Stunners/ash_and_ore.jpeg)
 
 *Ore* - I am a staunch advocate of increasing the visibility of women in the technology sector. Through my work with Women Who Code DC and the Baltimore Women in Tech community, I have a commitment to making the tech sector more inclusive. As a teacher for Code in the Schools, I provide quality computer science instruction to youth in Baltimore City.
 Last winter a good friend of mine told me about the Rails Girls Summer of Code fellowship. I was working through ruby koans at the time with my mentor Will Barrett, now an unofficial  coach, and he encouraged me to pursue it. The hunt was on. 
