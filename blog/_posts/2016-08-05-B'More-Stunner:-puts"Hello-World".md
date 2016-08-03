@@ -4,10 +4,8 @@ layout: post
 created_at: Fri August 5 2016
 permalink: blog/B'More-Stunners:-Puts-“Hello World!”-2016
 current: blog
-author: Oreoluwa Akinsanmi 
-author: Ashley Jean
+author: Oreoluwa Akinsanmi and Ashley Jean
 twitter: _ashhjean_ 
-twitter: _speculate7_
 categories:
 - student-posts
 ---
