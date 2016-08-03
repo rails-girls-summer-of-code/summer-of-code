@@ -15,7 +15,7 @@ We are Emma and Geisa from Salvador, a beautiful city in [Bahia](https://en.wiki
 
 We first met at [Raul Hackerspace](http://raulhc.cc/), where we are active members. We both care about diversity and, at RaulHC, we organized some hack nights to promote diversity and now we're living this amazing experience with other 19 teams around the world. When we received the news that we would be the first team from Brazil participating on the RGSoC, wowww. We just want to say how grateful we are for this great opportunity.
 
-<p><img src="/img/blog/2016/perifericas-coach-aurium.jpg" alt="Team Perifericas" /><font color="grey"><small><i>Coach Aurium, Me and Emma</i></small></font></p>
+<p><img src="/img/blog/2016/perifericas-coach-aurium.jpg" alt="Team Perifericas" /><font color="grey"><small><i>Coach Aurium, Geisa and Emma</i></small></font></p>
 
 <h2>Our team</h2>
 <p>
@@ -32,7 +32,7 @@ I love games, books, book clubs and study groups. You may say I'm a serial book 
 <p>
 Four senior developers are helping us during this summer: [Brena Monteiro](https://github.com/monteirobrena), Rails Girls organizer from [Governador Valadares](https://en.wikipedia.org/wiki/Governador_Valadares,_Minas_Gerais); from Salvador too, we have [Daniela Feitosa](https://gitlab.com/u/danielafeitosa), that also co-organizes Rails Girls Salvador; [Aurium](https://gitlab.com/u/aurium), an enthusiast of hacker culture, open scource and free software; and User_X, that is a member of [LampiãoSec](https://lampiaosec.github.io/), an infosec study group (the same group that Emma is).</p>
 
-<p>And we want to thank RGSoC organization for giving us an amazing supervisor (which is also a Portuguese-native speaker): [Inês Coelho](https://about.me/inescoelho). She participated in the [RGSoC 2014 edition](http://railsgirlssummerofcode.org/blog/2015-07-26-meet-team-deigirls).</p>
+<p>And we want to thank RGSoC organization for giving us an amazing supervisor (which is also a Portuguese-native speaker): [Inês Coelho](https://about.me/inescoelho). She participated in the [RGSoC 2015 edition](http://railsgirlssummerofcode.org/blog/2015-07-26-meet-team-deigirls).</p>
 
 
 <h2>What are we working on?</h2>
