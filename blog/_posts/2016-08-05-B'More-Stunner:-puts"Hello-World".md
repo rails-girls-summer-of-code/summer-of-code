@@ -15,9 +15,9 @@ categories:
 We are Ashley and Ore of team B’More Stunners!! We first met at our city’s local Rails Meetup and we instantly clicked. After both coaching a Rails Workshop for Women this past February, we decided to take the plunge and apply for the RGSoC fellowship (Ore was very convincing). Through our various connections within the tech community, we were able to assemble a team of awesome coaches to help us this summer!
 
 
-![coaches](/img/blog/2016/B'More Stunners/rgsoccollage.jpg)
+![coaches](/img/blog/2016/B'More Stunners/coaches.png)
 <br />
-*Top left to right: Benedikt, Jamie, Lynn, Beverly, Ashley, Ore, Andre, Will*
+*Top left to right: Beverly, Ashley, Ore, Jamie, Andre, Lynn, Benedikt, Will, Mira*
 
 *We could not have gotten this far without the support of our beloved coaches, mentors, supervisors, and the community!*
 
@@ -42,9 +42,8 @@ This summer we are working alongside the Bundler team to create a public dashboa
 Bundler version? etc." With these metrics, the folks at Bundler will not only be able to analyze this data, but also make precise decisions about future version upgrades. We are super excited to be apart of a project that will have a direct impact to the ruby community. As new developers this opportunity is a dream come true, and couldn’t be a better way to jumpstart our careers.
 
 
-![Elaine Brown](/img/blog/2016/B'More Stunners/Elaine-Brown.jpg "http://libcom.org/files/images/history/Elaine-Brown.jpg")
-<br />
-*Elaine Brown: social activist and inspiration*
+![Beyonce](/img/blog/2016/B'More Stunners/bey.gif "Beyonce-Lemonade")
+
 
 
 ### Struggles and breakthroughs
