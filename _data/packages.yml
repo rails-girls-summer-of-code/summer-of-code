@@ -635,3 +635,15 @@
         - 2014
         - 2015
         - 2016
+    - name: Movinga
+      id: movinga
+      url: http://www.digitalocean.com
+      text: |-
+        We at <a href=”https://www.movinga.com”>Movinga</a> are employing
+        modern technology to make moving easier. With us, everyone can move
+        from anywhere to everywhere without having to worry about the stress
+        usually associated with relocating to a new home. We promote diversity
+        within and without the confines of our company, and are therefore more
+        than happy to support Rails Girls Summer of Code.
+      years:
+        - 2016
