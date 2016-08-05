@@ -5,7 +5,7 @@ created_at: Fri August 5 2016
 permalink: blog/B'More-Stunners:-Puts-“Hello World!”-2016
 current: blog
 author: Oreoluwa Akinsanmi and Ashley Jean
-twitter: _ashhjean_ 
+twitter: ashhjean 
 categories:
 - student-posts
 ---
@@ -70,6 +70,6 @@ Stress less and continue to have fun! (ノ*゜▽゜*)
 
 
 
-Be sure to follow [Ash](twitter.com/ashhjean) and [Ore](twitter.com/speculate7) on Twitter! 
+Be sure to follow [Ash](https://twitter.com/ashhjean) and [Ore](https://twitter.com/speculate7) on Twitter! 
 Annnnnnd, [follow our progress](https://teams.railsgirlssummerofcode.org/?kind=&team_id=116) this summer! (≧∇≦)/
 
