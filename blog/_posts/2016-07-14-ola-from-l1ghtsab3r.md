@@ -16,7 +16,7 @@ Hi! We are [Soumya Sharma](https://twitter.com/soummyaah) and [Srishti Sengupta]
 
 ### Meet our team
 
-<center><img src="../img/blog/2016/l1ghtsab3r-team.png" alt="The l1ghtsab3r team!" style="width: 600px;"></center>
+<center><img src="/img/blog/2016/l1ghtsab3r-team.png" alt="The l1ghtsab3r team!" style="width: 600px;"></center>
 
 
 This is our complete team above:
@@ -28,17 +28,17 @@ This is our complete team above:
 Our coaches are : [Chiang Fong Lee](https://twitter.com/cflee), [Anuvrat Parashar](https://twitter.com/bhanuvrat), [Manish Goregaokar](https://twitter.com/ManishEarth), [Sambhav Satija](https://twitter.com/darkryder_s) and [Naman Gupta](https://twitter.com/namanspace).
 
 
-<center><img src="../img/blog/2016/l1ghtsab3r-soumya.png" alt="Soumya" style="width: 300px;"></center>
+<center><img src="/img/blog/2016/l1ghtsab3r-soumya.png" alt="Soumya" style="width: 300px;"></center>
 
 **Soumya:** I am a final year student at IIIT-Delhi who absolutely loves Star Wars! I love working in the tech industry and especially spending my weekends at hackathons learning new technology and making innovative things. I have varied interests which include curling up with a book and going on exciting hikes.
 
 
-<center><img src="../img/blog/2016/l1ghtsab3r-srishti.png" alt="Srishti" style="width: 300px;"></center>
+<center><img src="/img/blog/2016/l1ghtsab3r-srishti.png" alt="Srishti" style="width: 300px;"></center>
 
 **Srishti:** I am 21, currently residing in New Delhi, India and am pursuing a bachelor’s degree in Computer Science from IIIT-Delhi. I loved to tinker around with computers since childhood, and have always wanted to work in the field of computer sciences in the future as well. This very thought has fueled my desire to become a computer science engineer and use my knowledge to make a change. Other than programming, I have several hobbies which include playing the piano, graphic designing, and reading books.  I am a trained western solo pianist and have completed till Grade 5 of the solo piano course offered by Trinity College, London. I started learning piano in 2003 and have been addicted to it ever since.
 
 
-<center><img src="../img/blog/2016/l1ghtsab3r-soumyasrishti.png" alt="Soumya and Srishti" style="width: 300px;"></center>
+<center><img src="/img/blog/2016/l1ghtsab3r-soumyasrishti.png" alt="Soumya and Srishti" style="width: 300px;"></center>
 
 We (Soumya and Srishti) have known each other since the last three years and have done several course projects together in our institute. We've been roomies for a long time now and are BFFs! <3
 
@@ -60,4 +60,4 @@ Signing Off
 
 Team l1ghtsab3r
 
-<img src="../img/blog/2016/l1ghtsab3r-heart.png" alt="goodbye!" style="width: 300px;">
+<img src="/img/blog/2016/l1ghtsab3r-heart.png" alt="goodbye!" style="width: 300px;">
