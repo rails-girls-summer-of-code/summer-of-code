@@ -4,7 +4,7 @@ layout: post
 created_at: Mon Jul 25 2016
 permalink: blog/2016-07-25-time-for-rubycats-meowww
 current: blog
-authors: Iza & Kinga
+author: Iza & Kinga
 twitter: RubyCatsTeam
 categories: student-posts
 ---
