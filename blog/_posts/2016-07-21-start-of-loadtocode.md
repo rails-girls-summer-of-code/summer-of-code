@@ -4,7 +4,7 @@ layout: post
 created_at: Thu Jul 21 2016
 permalink: blog/2016-07-21-start-of-loadtocode
 current: blog
-authors: Marie & Thea
+author: Marie & Thea
 twitter: LoadToCode
 categories: student-posts
 ---
