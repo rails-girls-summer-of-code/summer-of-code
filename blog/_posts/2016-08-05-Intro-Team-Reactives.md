@@ -1,9 +1,10 @@
 ---
-title: Reatives - Bond For a Bang ☼.☼!
+title: Reactives - Bond For a Bang ☼.☼!
 layout: post
 created_at: Fri Aug 05 2016
 permalink: blog/2016-08-05-Intro-Team-Reactives
 current: blog
+twitter: @TeamReactives
 author: Shwetha & Tu An
 categories: student-posts
 ---
