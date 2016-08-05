@@ -5,7 +5,7 @@ created_at: Tue Aug 03 2016
 permalink: blog/2016-08-03-we-are-team-perifericas
 current: blog
 author: Emma Pinheiro and Geisa Santos
-twitter: Perifericas
+twitter: RailsGirlsSSA
 categories:
 - student-posts
 ---
@@ -15,19 +15,18 @@ We are Emma and Geisa from Salvador, a beautiful city in [Bahia](https://en.wiki
 
 We first met at [Raul Hackerspace](http://raulhc.cc/), where we are active members. We both care about diversity and, at RaulHC, we organized some hack nights to promote diversity and now we're living this amazing experience with other 19 teams around the world. When we received the news that we would be the first team from Brazil participating on the RGSoC, wowww. We just want to say how grateful we are for this great opportunity.
 
-<p><img src="/img/blog/2016/perifericas-coach-aurium.jpg" alt="Team Perifericas" /><font color="grey"><small><i>Coach Aurium, Geisa and Emma</i></small></font></p>
+<p><img src="/img/blog/2016/perifericas-coach-aurium.jpg" alt="Team Perifericas" /><font color="grey"><small><i>Coach Aurium, Geisa and Emma - (Image: Geisa Santos)</i></small></font></p>
 
 <h2>Our team</h2>
-<p>
-**Emma**: I'm a trans girl. I love to learn and to listen to metalcore music. I created the Raul Hacker Club in our city to motivate people to build interesting things and to make a hacker scene here :D. I’m interested in security and, for this reason, I've created a security research group with some friends (UserX, Gjr). On my free time, I like to study reverse engineer and cryptography/stenography. When I saw Nomi Marks (sense8) for the first time, I thought "I can be this girl".
-</p>
 
-<p>
+**Emma**: I'm a trans girl. I love to learn and to listen to metalcore music. I created the Raul Hacker Club in our city to motivate people to build interesting things and to make a hacker scene here :D. I’m interested in security and, for this reason, I've created a security research group with some friends (UserX, Gjr). On my free time, I like to study reverse engineer and cryptography/stenography. When I saw Nomi Marks (sense8) for the first time, I thought "I can be this girl".
+<br>
+
 **Geisa**: I'm a 220v person. I love to learn and I’m curious about everything. I’m an Advertising and Marketing graduated, with a MBA in Systems Information Management. Because I have suffered a lot for being a woman when I started working in the tech market, I support several local initiatives that promote diversify in tech. I co-organize Rails Girls since 2013 and, last year, I started a PyLadies chapter at my city. I also teach web, social media and entrepreneurship, once a year, at a non-profit organization for teens that live in the suburbs.
 I love games, books, book clubs and study groups. You may say I'm a serial book clubber.
-</p>
+<br>
 
-<p><img src="/img/blog/2016/perifericas-online-meeting.jpg" alt="Team Perifericas" /><font color="grey"><small><i>Online meeting with menthor Maren Heltsche, coaches Daniela Feitosa and Brena Monteiro and supervisor Ines Coelho</i></small></font></p>
+<p><img src="/img/blog/2016/perifericas-online-meeting.jpg" alt="Team Perifericas" /><font color="grey"><small><i>Online meeting with menthor Maren Heltsche, coaches Daniela Feitosa and Brena Monteiro and supervisor Ines Coelho (Image: Ines Coelho)</i></small></font></p>
 
 
 Four senior developers are helping us during this summer: [Brena Monteiro](https://github.com/monteirobrena), Rails Girls organizer from [Governador Valadares](https://en.wikipedia.org/wiki/Governador_Valadares,_Minas_Gerais); from Salvador too, we have [Daniela Feitosa](https://gitlab.com/u/danielafeitosa), that also co-organizes Rails Girls Salvador; [Aurium](https://gitlab.com/u/aurium), an enthusiast of hacker culture, open scource and free software; and User_X, that is a member of [LampiãoSec](https://lampiaosec.github.io/), an infosec study group (the same group that Emma is).
@@ -45,8 +44,9 @@ Our first goal was to spread this project in our community, so we translated the
 
 Also we were invited to be in charge of Speakerinnen’s expansion at Brazil in the long term. That is awesome! [Ruby Monsters](http://rubymonstas.org/) are the most important Ruby group that we know, they rock! And they're trusting us to take care of their project in our country for long. We are so honored!
 
+<h3>A short video filmed by Geisa Santos to show you the stunning view from Raul Hackerspace window, where Perifericas are hosted</h3>
 <p>
-<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:28.1944444444% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BHlOlpWB1GP/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">The stunning view from Raul Hackespace window - Rio Vermelho, Salvador-BA</a> em <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-07-08T01:15:23+00:00">Jul 7, 2016 às 6:15 PDT</time></p></div></blockquote>
+<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:28.1944444444% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BHlOlpWB1GP/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">The stunning view from Raul Hackespace window - Rio Vermelho, Salvador-BA (Video from Geisa Santos</a> em <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-07-08T01:15:23+00:00">Jul 7, 2016 às 6:15 PDT</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </p>
 
@@ -87,4 +87,4 @@ Twitter:
 <br>[@emmapinheiro](https://twitter.com/n3k00n3)
 
 <p>Our blog about RGSoC 2016:</p>
-http://perifericas.github.io
+[http://perifericas.github.io](http://perifericas.github.io)
