@@ -1,7 +1,7 @@
 ---
 title: Hello! From Team Hackbrighters
 layout: post
-created_at: Tues Jul 26 2016
+created_at: Tue Jul 26 2016
 permalink: blog/2016-07-27-team-hackbrighters
 current: blog
 author: Patricia and Melissa
@@ -11,7 +11,7 @@ categories: student-posts
 
 ## Who are we?
 We are [Patricia Arbona](https://github.com/arbonp) and [Melissa Fabros](https://github.com/go-bears), and we are based in the Bay Area of California.
-Patricia had lived her entire life in the Midwestern part of the United States, primarily in Ohio and Chicago. She attended the University of Chicago for college, and studied Latin American history in addition to Spanish and Portuguese. Afterwards, she had a career at a major educational publishing company, where she was an editor and translator (Spanish-English/English-Spanish) for Spanish High School textbooks. She believes passion for foreign langauges translates well to programming, because she views programming as learning a new type of foreign language. She moved out to the Bay Area earlier this year, to attend [Hackbright Academy](https://hackbrightacademy.com/), a fellowship for women who wish to transition to software development. It was at Hackbright where she met her dear friend, Melissa!
+Patricia had lived her entire life in the Midwestern part of the United States, primarily in Ohio and Chicago. She attended the University of Chicago for college, and studied Latin American history in addition to Spanish and Portuguese. Afterwards, she had a career at a major educational publishing company, where she was an editor and translator (Spanish-English/English-Spanish) for Spanish High School textbooks. She believes passion for foreign languages translates well to programming, because she views programming as learning a new type of foreign language. She moved out to the Bay Area earlier this year, to attend [Hackbright Academy](https://hackbrightacademy.com/), a fellowship for women who wish to transition to software development. It was at Hackbright where she met her dear friend, Melissa!
 
 Thanks for the intro, Patricia! Melissa comes to programming from the world of non-profits and higher education. Her interests in programming started in middle school where she was one of the first girls to join the computer club. However, she majored in English and American Literature in college. She loved the way literature "codes" the human brain to build worlds and emotions in the imagination.  She is a PhD candidate in English from the University of California, Berkeley.  She maintained her coding interests by making small web page projects. A friend once told her that reading good code is like reading good writing, which piqued her curiosity. Since that conversation, she went from teaching at the University of California, Merced to taking part-time coding classes, completing a Google Summer of Code internship, graduating from Hackbright Academy, and starting the Rails Girls Summer of Code fellowship.
 
@@ -44,7 +44,7 @@ This is us, for most of our journey learning JavaScript and exploring the vast p
 ![Pikachu..huh?](/img/blog/2016/pikachu_question.gif)
 
 ## What tips do we want to share about our journey?
-Transitioning from another career (We're both humanities majors previously deeply involved in Eduation) is really hard. Be nice to yourself while you're learning because learning to code is a marathon, not a sprint. Some days you won't be able to wrap your mind around a new or difficult concept.
+Transitioning from another career (We're both humanities majors previously deeply involved in Education) is really hard. Be nice to yourself while you're learning because learning to code is a marathon, not a sprint. Some days you won't be able to wrap your mind around a new or difficult concept.
 
 Transitioning careers is difficult. It's moving into the unknown, and some people won't understand why you'd pursue something new. People who are close to you will question you about your choices--they may see your decisions as rash and drastic. Others may doubt you. But if you invest time in yourself to learn, to meet people, and to establish new roots (whether in a new town or a new profession), the concepts and people who seemed mysterious start to make more sense.
 
