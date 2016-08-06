@@ -2,7 +2,7 @@
 title: B'More Stunners&#58; Puts “Hello World!”
 layout: post
 created_at: Fri August 5 2016
-permalink: blog/2016-08-05-B'More-Stunner:-puts"Hello-World"
+permalink: blog/2016-08-05-B-More-Stunners-puts-Hello-World
 current: blog
 author: Oreoluwa Akinsanmi and Ashley Jean
 twitter: ashhjean 
