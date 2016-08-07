@@ -13,6 +13,7 @@ categories:
 ## Team Rookies and Hoodie project with RGSoC
 
 ![Team Rookies, Tehetena and Hyesoo](/img/blog/2016/team-Rookies.jpg)
+<font color="grey"><small><i>We're team Rookies, Tehetena and HyeSoo!(Image: Tehetena Masresha and HyeSoo Park)</i></small></font>
 
 Hei, we are [Tehetena](https://github.com/titay2) and [HyeSoo](https://github.com/flyjwayur) from team [Rookies](https://twitter.com/hoodierookies). We want to keep our beginner mind throughout the RGSOC journey, so we made our team name ‘Rookies’. We’re living from [Helsinki, Finland]. We are studying Information technology and we love to learn new technologies. We started to know RG from the last year and we’re happy to be part of RGSoC 2016. 
 We chose [Hoodie project](http://hood.ie/) as our RGSoC project. Hoodie is a framework for frontend web applications that abstracts away the backend. Simply, Hoodie is a no-Backend technology! Hoodie is entirely written in JavaScript. It has been an amazing experience, since we have started working on the Hoodie desktop application project. For making it, we’ve been working on UI/UX on the application and learning how to use Git, Node, localStorage and API to implement functionalities. 
@@ -21,7 +22,7 @@ We chose [Hoodie project](http://hood.ie/) as our RGSoC project. Hoodie is a fra
 This is greeting from us :D It's a [video](https://youtu.be/tn7UmasvaKU).
 
 ![Kick-off meeting with mentor, coaches](/img/blog/2016/team-Rookies-kickoffcall.jpg)
-<font color="grey"><small><i>Rookies team in the main, at the bottom-right corner, from the left, are Esko, Gregor, Omid and Pilar.</i></small></font>
+<font color="grey"><small><i>Rookies team in the main, at the bottom-right corner, from the left, are Esko, Gregor, Omid and Pilar.(Image: Pilar Huidobro)</i></small></font>
 
 
 ## We’re team Rookies!!!
@@ -47,7 +48,7 @@ This is our [repository](https://github.com/Rookies-RGSOC2016/hoodie-electron-ap
 Sometimes there were certain problems which took longer time to solve, but working with advanced coaches: Omid, Esko and Musse and mentor Gregor taught us different ways to solve them, and most of the times the new approaches were even easier and clearer to understand. The mentors and coaches’ guidance helped us experiment on different coding practices we came across online. It also ensured us that there was someone whom we could rely on and ask questions.
 
 ![First meeting with Coaches in Helsinki, Finland](/img/blog/2016/team-Rookies-coaches.jpg)
-<font color="grey"><small><i>From left, Tehetena, Omid, Esko and Hyesoo.</i></small></font>
+<font color="grey"><small><i>From left, Tehetena, Omid, Esko and Hyesoo.(Image: Tehetena Masresha and HyeSoo Park)</i></small></font>
 
 ## Our next journey and our hope
 When UI is ready with several Usability test, we are going to add functionalities to the Hoodie desktop application. As the final step, we are going to wrap the UI and functionalities with Electron framework.
