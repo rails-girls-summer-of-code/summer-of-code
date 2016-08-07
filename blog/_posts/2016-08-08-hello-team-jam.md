@@ -41,7 +41,7 @@ Nick works at Mozilla, where he hacks on Firefox Developer tools and Spider Monk
 
 [Rust](https://doc.rust-lang.org/book/README.html) is a systems-level programming language that was started in 2010 by an employee at Mozilla. It is a compiled language, so creating executable code is slow, but runtime is fast. It is also memory safe, so pointers will only point to things that actually exist. Lastly, it is designed for concurrency and parallelism on multiple cores. You might consider using it for projects where you would otherwise write C++ code. Plus we think Rust is easier to read and write than C++.
 
-![rust-servo-doge](/img/blog/2016/team-jam-rust-servo.png)<font color="grey"><small><i>(photo: malisa/jeena)</i></small></font>
+![rust-servo-doge](/img/blog/2016/team-jam-rust-servo.png)<font color="grey"><small><i>(photo: www.rust-lang.org/en-US/, www.servo.org)</i></small></font>
 
 [Servo](https://servo.org/) is also Mozilla's baby. It is a parallel browser engine, and it is written in Rust! We are working on Servo this summer.
 
@@ -49,7 +49,8 @@ Nick works at Mozilla, where he hacks on Firefox Developer tools and Spider Monk
 
 <!-- malisa -->
 ### Our Project
-![fetch](/img/blog/2016/team-jam-make-fetch-happen.jpg)<font color="grey"><small><i>(photo: www.rust-lang.org/en-US/, www.servo.org)</i></small></font>
+
+![fetch](/img/blog/2016/team-jam-make-fetch-happen.jpg)<font color="grey"><small><i></i></small>(photo: www.slate.com. edited by: Malisa)</font>
 
 Within the vast codebase that is Servo, our task is to implement the Fetch API. The Fetch API sends an HTTP Request, [similar to XMLHttpRequest](https://developers.google.com/web/updates/2015/03/introduction-to-fetch). We are writing the Fetch API in Rust and connecting it to the JavaScript task.
 
