@@ -10,12 +10,12 @@ categories: student-posts
 ---
 
 # Our Team
-![Team Reactives](/img/blog/2016/team-reactives-coaches.jpg)<font color="grey"><small><i>Team Reatives with coaches Vanchi (left-most) &Arrchana (right-most)</i></small></font><br>
+![Team Reactives](/img/blog/2016/team-reactives-coaches.jpg)<font color="grey"><small><i>Team Reatives with coaches Vanchi (left-most) &Arrchana (right-most). Image taken by Arrchana</i></small></font><br>
 
 ## Who We Are
 Hello, everyone! We are Team Reactives: Shwetha and Tu An with our coaches Arrchana and Vanchi. All of us are in Singapore and living in the same university campus. Being 2 undergrads and 2 Ph.D. student, we haven't worked together before this and probably wouldn't have if not for the summer of code. We two met each other as fellow guitar players for our university's guitar orchestra and found our coaches through the Rails Girls website. This programme has brought us closer as we encounter and overcome obstacles together. 
 
-![Team Reactives](/img/blog/2016/team-reactives.jpg)<font color="grey"><small><i>Tu An (left) & Shwetha (right)</i></small></font>
+![Team Reactives](/img/blog/2016/team-reactives.jpg)<font color="grey"><small><i>Tu An (left) & Shwetha (right). Image taken by Arrchana</i></small></font>
 
 ## Shwetha
 
