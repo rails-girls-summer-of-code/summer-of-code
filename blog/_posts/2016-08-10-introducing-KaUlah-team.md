@@ -19,7 +19,7 @@ You probably may guess how we created our team's name, but we’re going to expl
 ### *Our team*
 
 ![KaUlah Team](/img/blog/2016/kaulah-team-with-coaches.jpg)
-<span><font color="grey"><small><i>KaUlah Team with coaches. From left: Tomasz, Kasia, Ula and Piotr.</i></small></font></span>
+<span><font color="grey"><small><i>KaUlah Team with coaches. From left: Tomasz, Kasia, Ula and Piotr. (Photo: Piotr Stachewicz) </i></small></font></span>
 
 **Ula:** I was a financial specialist and then one day I encountered coding, started to work on it, learn, research and met  a lot of fantastic people who helped me.
 I am involved into Geek Girls Carrots meet-ups, coordinate Python and mentoring SQL courses, and I go deeper and deeper into it. So in my free time I am helping others to run into IT, also I like traveling, mountain hiking and watching old episodes of TopGear.
@@ -28,7 +28,7 @@ I am involved into Geek Girls Carrots meet-ups, coordinate Python and mentoring 
 In my spare time I pet my two lovely cats (Janusz & Grazynka) or play handball.
 
 ![Gitlab Team](/img/blog/2016/kaulah-gitlab-team.jpg)
-<span><font color="grey"><small><i>From left: Yorick (mentor), Grzegorz and Tomasz (coaches), Lucas (supervisor).</i></small></font></span>
+<span><font color="grey"><small><i>From left: Yorick (mentor), Grzegorz and Tomasz (coaches), Lucas (supervisor). (Source: gitlab.com and Lucas Pinto twitter account)</i></small></font></span>
 
 Above you can see pictures of great developers who are helping us during this summer: [Piotr Szotkowski]('https://twitter.com/chastell') and [Tomasz Stachewicz]('https://twitter.com/_tomash') from [Rebased]('https://rebased.pl/') (first picture, they are joining RGSoC for third time!) and from GitLab [Tomasz Matczukin]('https://twitter.com/TomaszMaczukin') and [Grzegorz Bizon]('https://twitter.com/GrzegorzBizon') (first time coaches). Our mentor is [Yorick Peterse]('https://twitter.com/YorickPeterse') (who was a coach last year) and our supervisor - [Lucas Pinto]('https://twitter.com/medk_') (who is a newbie as we are).
 We are working at coaching company office so we meet Tomasz and Piotr everyday. With others we communicate via slack channel and Discussion section under issues.
