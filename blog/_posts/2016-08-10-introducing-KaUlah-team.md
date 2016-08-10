@@ -12,8 +12,8 @@ categories:
 
 ### *Who are we?*
 
-We are [Kasia]('https://twitter.com/kradydal') and [Ula]('https://twitter.com/KaUlah_Team') from Warsaw, Poland. We met on Ruby on Rails basic weekend course organized by Coders's Lab in November 2014.
-When we finished it, we started to think what we should do next. We decided to apply for RGSoC 2015 but we weren't chosen as a team. We didn’t give up and applied for 2016 edition and that's how [KaUlah]('https://twitter.com/KaUlah_Team') team was born :)
+We are [Kasia](https://twitter.com/kradydal) and [Ula](https://twitter.com/KaUlah_Team) from Warsaw, Poland. We met on Ruby on Rails basic weekend course organized by Coders's Lab in November 2014.
+When we finished it, we started to think what we should do next. We decided to apply for RGSoC 2015 but we weren't chosen as a team. We didn’t give up and applied for 2016 edition and that's how [KaUlah](https://twitter.com/KaUlah_Team) team was born :)
 You probably may guess how we created our team's name, but we’re going to explain it anyhow. First two letters are from Kasia’s name and remaining part is from Ula’s name. Some of you may tell that it sounds similar to known Mexican coffee liqueur „Kahlua”. It was our inspiration and finally occurs that both words are anagrams :)
 
 ### *Our team*
@@ -30,7 +30,7 @@ In my spare time I pet my two lovely cats (Janusz & Grazynka) or play handball.
 ![Gitlab Team](/img/blog/2016/kaulah-gitlab-team.jpg)
 <span><font color="grey"><small><i>From left: Yorick (mentor), Grzegorz and Tomasz (coaches), Lucas (supervisor). (Source: gitlab.com and Lucas Pinto twitter account)</i></small></font></span>
 
-Above you can see pictures of great developers who are helping us during this summer: [Piotr Szotkowski]('https://twitter.com/chastell') and [Tomasz Stachewicz]('https://twitter.com/_tomash') from [Rebased]('https://rebased.pl/') (first picture, they are joining RGSoC for third time!) and from GitLab [Tomasz Matczukin]('https://twitter.com/TomaszMaczukin') and [Grzegorz Bizon]('https://twitter.com/GrzegorzBizon') (first time coaches). Our mentor is [Yorick Peterse]('https://twitter.com/YorickPeterse') (who was a coach last year) and our supervisor - [Lucas Pinto]('https://twitter.com/medk_') (who is a newbie as we are).
+Above you can see pictures of great developers who are helping us during this summer: [Piotr Szotkowski](https://twitter.com/chastell) and [Tomasz Stachewicz](https://twitter.com/_tomash) from [Rebased](https://rebased.pl/) (first picture, they are joining RGSoC for third time!) and from GitLab [Tomasz Matczukin](https://twitter.com/TomaszMaczukin) and [Grzegorz Bizon](https://twitter.com/GrzegorzBizon) (first time coaches). Our mentor is [Yorick Peterse](https://twitter.com/YorickPeterse) (who was a coach last year) and our supervisor - [Lucas Pinto](https://twitter.com/medk_) (who is a newbie as we are).
 We are working at coaching company office so we meet Tomasz and Piotr everyday. With others we communicate via slack channel and Discussion section under issues.
 So far we’ve mentioned our team but on our slack channel there are more people who support us - other GitLab employees.
 
