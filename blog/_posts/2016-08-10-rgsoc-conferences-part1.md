@@ -16,11 +16,11 @@ Sponsors, coaches, mentors, supervisors decided to play a part in bringing diver
 
 We encourage our students to attend conferences as part of their scholarship program. We believe that a novice coder can benefit a lot from a good conference, be it learning new things, making new contacts or getting in touch with a larger community.
 
-This year we decided to experiment and don't make a [conference raffle](/blog/2015-07-28-raffle-results); instead we asked students which conferences they were most interested in and tried to make their wishes come true.
+This year we decided to experiment and don't make a [conference raffle](/blog/2015-07-28-raffle-results); instead we asked students about conferences they were most interested in and tried to make their wishes come true.
 
 We are very grateful to the conferences and their amazing organizers, who support us this year. It takes lots of efforts to organize a good conference and make it accessible to everyone. We appreciate this a lot!
 
-Here are some of the the conferences which generously granted **free tickets** to our students this year.
+Here are some of the conferences which generously granted **free tickets** to our students this year.
 
 #### <span class="color-red"><a href="http://warsaw2016.codemotionworld.com/">Codemotion WARSAW</a></span> -- <b>Team KaUlah</b>
 
