@@ -1,7 +1,7 @@
 ---
 title: Meet Team KaUlah
 layout: post
-created_at: Wed August 10 2016
+created_at: Tue August 9 2016
 permalink: blog/2016-08-10-introducing-KaUlah-team
 current: blog
 author: Katarzyna Kobierska and Ula Budziszewska
