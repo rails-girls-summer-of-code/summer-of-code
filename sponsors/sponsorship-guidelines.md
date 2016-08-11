@@ -48,6 +48,12 @@ If for some unforeseen reason the Rails Girls Summer of Code can’t go ahead as
 
 ## Left-over monies
 
+<!-- Calculate the relevant year -->
 {% assign season_month = (site.time | date: "%m" | round ) %}
-Any money left over from the campaign will be saved for next year’s Rails Girls Summer of Code. Should there be no Summer of Code in {% if season_month < 6 %}{{ site.time | date: "%Y" }}{% else %}{{ site.time | date: "%Y" | plus: 1}}{% endif %}, the Rails Girls organization will decide how to best spend any left over donation money on other non-profit initiatives.
+{% assign season = (site.time | date: "%Y") %}
+{% if season_month > 5 %}
+  {% assign season = (site.time | date: "%Y" | plus: "1") %}
+{% endif %}
+
+Any money left over from the campaign will be saved for next year’s Rails Girls Summer of Code. Should there be no Summer of Code in {{ season }}, the Rails Girls organization will decide how to best spend any left over donation money on other non-profit initiatives.
 
