@@ -16,8 +16,7 @@ We are Ashley and Ore of team B’More Stunners!! We first met at our city’s l
 
 
 ![coaches](/img/blog/2016/bmorestunners-coaches.png)
-<span><font color="grey"><small><i> author: Ashley Jean; </i></small></font></span>
-<font color="grey"><small><i>Top left to right: Beverly, Ashley, Ore, Jamie, Andre, Lynn, Benedikt, Will, Mira</i></small></font>
+<font color="grey"><small><i>Top left to right: Beverly, Ashley, Ore, Jamie, Andre, Lynn, Benedikt, Will, Mira (Image: Ashley Jean)</i></small></font>
 *We could not have gotten this far without the support of our beloved coaches, mentors, supervisors, and the community!*
 
 
@@ -27,7 +26,7 @@ We are Ashley and Ore of team B’More Stunners!! We first met at our city’s l
 
 ![Ashley and Ore](/img/blog/2016/bmorestunners-ash_and_ore.jpeg)
 <br />
-<font color="grey"><small><i> author: Ashley Jean</i></small></font>
+<font color="grey"><small><i>Image: Ashley Jean</i></small></font>
 
 *Ore* - I am a staunch advocate of increasing the visibility of women in the technology sector. Through my work with Women Who Code DC and the Baltimore Women in Tech community, I have a commitment to making the tech sector more inclusive. As a teacher for Code in the Schools, I provide quality computer science instruction to youth in Baltimore City.
 Last winter a good friend of mine told me about the Rails Girls Summer of Code fellowship. I was working through ruby koans at the time with my mentor Will Barrett, now an unofficial  coach, and he encouraged me to pursue it. The hunt was on. 
@@ -35,7 +34,7 @@ Last winter a good friend of mine told me about the Rails Girls Summer of Code f
 
 ![monoboh](/img/blog/2016/bmorestunners-monoboh.jpg)
 <br />
-<font color="grey"><small><i> source:Baltimore’s Mascot: by Baltimore’s graphic designer, Carlos Vigil (https://dribbble.com/carlosvigil)</i></small></font>
+<font color="grey"><small><i> Baltimore’s Mascot (Image courtesy of Baltimore’s graphic designer, Carlos Vigil (https://dribbble.com/carlosvigil))</i></small></font>
 
 
 ### Starting off on the right foot
@@ -45,7 +44,7 @@ Bundler version? etc." With these metrics, the folks at Bundler will not only be
 
 
 ![Beyonce](/img/blog/2016/bmorestunners-bey2.gif "Beyonce-Lemonade:")
-<font color="grey"><small><i>source:http://giphy.com/gifs/beyonce-lemonade-l3V0wkKBGQhDmeEJG</i></small></font>
+<font color="grey"><small><i>(Image source: <a href="http://giphy.com/gifs/beyonce-lemonade-l3V0wkKBGQhDmeEJG">giphy</a>)</i></small></font>
 
 
 ### Struggles and breakthroughs
@@ -69,7 +68,7 @@ At the beginning we had a difficult time figuring out exactly where to start.Our
 
 
 ![fighting words](/img/blog/2016/bmorestunners-rosiep.gif "Do the right thing: Rosie Perez, Spike Lee")
-<font color="grey"><small><i>source:http://giphy.com/gifs/favorite-movies-rosie-perez-do-the-right-thing-8SHI2TWSsk7Ly</i></small></font>
+<font color="grey"><small><i> (Image source: <a href="http://giphy.com/gifs/favorite-movies-rosie-perez-do-the-right-thing-8SHI2TWSsk7Ly">giphy</a>)</i></small></font>
 
 
 
