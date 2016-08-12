@@ -46,7 +46,7 @@ We don’t really know about tax laws everywhere in the world but according to o
 
 If for some unforeseen reason the Rails Girls Summer of Code can’t go ahead as planned, sponsors will be offered a refund of their donation. Alternatively you can decide to have your donation go to the Rails Girls organization to share your donation with other, future Rails Girls events across the globe.
 
-## Left-over monies
+## Left-over money
 
 <!-- Calculate the relevant year -->
 {% assign season_month = (site.time | date: "%m" | round ) %}
