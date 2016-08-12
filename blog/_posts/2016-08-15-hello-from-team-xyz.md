@@ -32,6 +32,8 @@ Veronika comes from Moravia, specifically the Zlín region, which is a part of C
 Her background is in traditional linguistics - she studied English and Italian Linguistics and Literature.
 She became interested in programming and related technical disciplines at the time when she was working in customer service and wanted something new and exciting to learn. JavaScript and Python seemed very well suited for a novice learner, so at first, she was browsing tutorials and online courses, and later she started attending various workshops and intensive courses.
 
+![Team-XYZ](/img/blog/2016/xyz-team-working.png)
+
 ### What we have achieved so far
 * Became better in Javascript (crossing fingers)
 * Merged password complexity API, min/max options for text field, smooth scrolling and docs to Keystonejs repo
