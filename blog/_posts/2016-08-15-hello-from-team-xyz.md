@@ -40,8 +40,13 @@ She became interested in programming and related technical disciplines at the ti
 * Built blog with Keystonejs
 * Tried out ReactJS
 * Tried out working in coworking
-* Learnt many other small things (jade, markdown, basics of jsx)
+* Learnt many other small things (jade, markdown, basics of jsx, ...)
 
 ### Tips we would like to share
 
 ### Our next steps within the project
+* Make own Twitter field for Keystone
+* Build a visualization of available lists in Keystone's Admin UI
+* Submit a "How to build a blog with Keystone" article for Keystone documentation
+* Learn more about React
+* Become fluent in Javascript (one can only hope)
