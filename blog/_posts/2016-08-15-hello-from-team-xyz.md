@@ -24,7 +24,8 @@ Why XYZ? Well, we put that name into our application as a placeholder, and we th
 
 [Team-XYZ](/img/blog/2016/team-xyz.jpg)
 
-Daria
+Daria’s journey to software development started with working as content-manager or simply copy-paster of content into CMS and e-shops. She realized she actually wants to learn the “behind-the-scenes” technology, so she started with creating simple HTML/CSS webpages then continued into modifying WordPress themes, and in the end got her first job as WordPress developer for a small marketing agency. Since smaller scale web development doesn’t necessarily mean actual programming, she kept postponing learning any language seriously and concentrated on learning tools instead. After landing accidently on a big project as frontend developer, she had to quickly get the basics of modern frontend tooling and realized how badly she lacked decent Javascript (or any other language) knowledge. She is really grateful to RGSoC and Keystone for such amazing opportunity to work on dynamically developing open-source project and learn a lot about react, node.js, mongodb, git and many other exciting technologies.
+
 
 Veronika comes from Moravia, specifically the Zlín region, which is a part of Czech Republic right next to the border with Slovakia.
 Her background is in traditional linguistics - she studied English and Italian Linguistics and Literature.
