@@ -16,17 +16,21 @@ We are Daria and Veronika, from Prague, Czech Republic, and together we form Tea
 
 We met at the Prague Women in Tech meetup in July 2015. Daria was already part of the group since it started, and Veronika had just returned to Prague after living abroad for three years, and she was looking for a support study group to continue her learning. Eventually, we both became involved in organizing meetups and coding sessions, and we decided to apply for Rails Girls Summer of Code together.
 
+We are working on [KeystoneJS](http://keystonejs.com/), an exciting open source framework for developing websites, applications and APIs. Our project is mainly built using JavaScript based technologies - Node.js, Express.js, ReactJS and MongoDB.
+
 Why XYZ? Well, we put that name into our application as a placeholder, and we thought we would come up with something a little catchier later on. But we got used to it and we kind of grew to like this name, so we decided to keep it.
 
 ### This is our team:
 
-Picture
+[Team-XYZ](/img/blog/2016/team-xyz.jpg)
 
 Daria
 
-Veronika
+Veronika comes from Moravia, specifically the Zlín region, which is a part of Czech Republic right next to the border with Slovakia.
+Her background is in traditional linguistics - she studied English and Italian Linguistics and Literature.
+She became interested in programming and related technical disciplines at the time when she was working in customer service and wanted something new and exciting to learn. JavaScript and Python seemed very well suited for a novice learner, so at first, she was browsing tutorials and online courses, and later she started attending various workshops and intensive courses.
 
-### What have we achieved so far
+### What we have achieved so far
 
 ### Tips we would like to share
 
