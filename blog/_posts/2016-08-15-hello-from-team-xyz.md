@@ -39,10 +39,10 @@ She became interested in programming and related technical disciplines at the ti
 * Used npm for package management and running local environment for Node.js
 * Wrote our own unit tests
 * Learn basics of deployment to Heroku
-* Built blog with Keystonejs
+* Built bl  og with Keystonejs
 * Tried out ReactJS
 * Tried out working in coworking
-* Learnt many other small things (jade, markdown, basics of jsx, ...)
+* Learnt many other small things (jade, markdown, basics of jsx)
 
 ### Tips we would like to share
 
@@ -53,8 +53,3 @@ She became interested in programming and related technical disciplines at the ti
 * **Strengthen your theoretical knowledge as well!** Don't lose your curiosity to find out how things work behind the outer layer.
 
 ### Our next steps within the project
-* Make own Twitter field for Keystone
-* Build a visualization of available lists in Keystone's Admin UI
-* Submit a "How to build a blog with Keystone" article for Keystone documentation
-* Learn more about React
-* Become fluent in Javascript (one can only hope)
