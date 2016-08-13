@@ -4,6 +4,49 @@ title: Press
 class: page page-projects
 current: press
 permalink: /about/press/
+images:
+  - image_path: /img/press/rgsoc-2016-xyz-team-coaches-prague-cz
+    title: Team XYZ
+    extension: jpg
+  - image_path: /img/press/rgsoc-2016-rubys-secret-team-coaches-cairo-eg
+    title: Team Ruby's Secret
+    extension: jpg
+  - image_path: /img/press/rgsoc-2016-rookies-team02-helsinki.fi
+    title: Team Rookies
+    extension: png
+  - image_path: /img/press/rgsoc-2016-reactives-team-coaches-01-singapore-sg
+    title: Team Reactives
+    extension: jpg
+  - image_path: /img/press/rgsoc-2016-mitpal-team-atlanta-us
+    title: Team Mitpal
+    extension: jpg
+  - image_path: /img/press/rgsoc-2016-l1ghtsab3r-team-newdelhi-in
+    title: Team L1ghtsab3r
+    extension: jpg
+  - image_path: /img/press/rgsoc-2016-joda-team-coaches-03-berlin-de
+    title: Team Joda
+    extension: jpg
+  - image_path: /img/press/rgsoc-2016-hackbrighters-team-sanfrancisco-us
+    title: Team Hackbrighters
+    extension: jpg
+  - image_path: /img/press/rgsoc-2015-tessie-team-vienna-at
+    title: Team Tessie
+    extension: jpg
+  - image_path: /img/press/rgsoc-2015-rubynbugs-team-berlin-de
+    title: Team RubyNBugs
+    extension: jpg
+  - image_path: /img/press/rgsoc-2015-hackrgirls-team-cochin-in
+    title: Team Hackrgirls
+    extension: png
+  - image_path: /img/press/rgsoc-2015-deltaquadrant-team-coaches-berlin-de
+    title: Team DeltaQuadrant
+    extension: jpg
+  - image_path: /img/press/rgsoc-2015-cheesy-amsterdam-nl
+    title: Team Cheesy
+    extension: jpg
+  - image_path: /img/press/rgsoc-2015-alpharuby-team-luxembourg-lu
+    title: Team AlphaRuby
+    extension: jpg
 ---
       <h1>{{page.title}}</h1>
       <h3>About Rails Girls Summer of Code</h3>
@@ -65,6 +108,18 @@ permalink: /about/press/
       <h3>Logos</h3>
 
       <p>Coming soon. </p>
+
+      <h3>Images</h3>
+
+      <p>Below are samples from teams of the Rails Girls Summer of Code during 2015 and 2016. There are many more in our Press Kit.</p>
+
+      <ul class="photo-gallery">
+        {% for image in page.images %}
+          <a href="{{ image.image_path }}.{{ image.extension }}">
+            <li><img src="{{ image.image_path }}-thumb.{{ image.extension }}" alt="{{ image.title}}"/></li>
+          </a>
+        {% endfor %}
+      </ul>
 
       <h3>Press Kit</h3>
 
