@@ -1,18 +1,31 @@
-# .sponsors .arrrrcamp       { background-image: url(../img/confs/arrrrcamp.png); }
-# .sponsors .devcon          { background-image: url(../img/confs/devcon.png); }
-# .sponsors .distill         { background-image: url(../img/confs/distill.png); }
-# .sponsors .dotrb           { background-image: url(../img/confs/dotrb.png); }
-# .sponsors .eurucamp        { background-image: url(../img/confs/eurucamp.png); }
-# .sponsors .futurestack     { background-image: url(../img/confs/futurestack.png); }
-# .sponsors .jrubyconfeu     { background-image: url(../img/confs/jrubyconfeu.png); }
-# .sponsors .madisonruby     { background-image: url(../img/confs/madisonruby.png); }
-# .sponsors .railsisrael     { background-image: url(../img/confs/railsisrael.png); }
-# .sponsors .rubyshift       { background-image: url(../img/confs/rubyshift.png); }
-# .sponsors .rupy            { background-image: url(../img/confs/rupy2.png); }
-# .sponsors .socoded         { background-image: url(../img/confs/socoded.png); }
-# .sponsors .startech        { background-image: url(../img/confs/startech.png); }
-# .sponsors .strangeloop     { background-image: url(../img/confs/strangeloop.png); }
-# .sponsors .wickedgoodruby  { background-image: url(../img/confs/wickedgoodruby.png); }
-# .sponsors .cssconf         { background-image: url(../img/confs/cssconf.png); }
-# .sponsors .roguerails      { background-image: url(../img/confs/roguerails.png); }
-# .sponsors .bubbleconf      { background-image: url(../img/confs/bubbleconf.png); }
+- name: Codemotion
+  id: codemotion
+  url: http://warsaw2016.codemotionworld.com/
+
+- name: The Strange Loop
+  id: strangeloop
+  url: http://www.thestrangeloop.com
+
+- name: EuRuKo
+  id: euruko
+  url: http://euruko2016.org/
+
+- name: RubyConf Brazil
+  id: rubyconfbr
+  url: http://rubyconfbrcfp.com.br/
+
+- name: GoTo Copenhagen
+  id: gotocph
+  url: https://gotocon.com/cph-2016/
+
+- name: Connect.Tech
+  id: connectjs
+  url: http://connect-js.com/
+
+- name: RubyConf Portugal
+  id: rubyconfpt
+  url: http://rubyconf.pt/
+
+- name: RubyConf Australia
+  id: rubyconfau
+  url: http://rubyconf.org.au/2017
