@@ -1,10 +1,11 @@
 ---
 title: Introducing Team l1ghtsab3r India
 layout: post
-created_at: Thur Jul 14 2016
-permalink: blog/2016-07-14-introducing-team-l1ghtsab3r-india
+created_at: Sat Aug 13 2016
+permalink: blog/2016-08-13-introducing-team-l1ghtsab3r-india
 current: blog
 author: Team l1ghtsab3r
+twitter: SoUmmYaah
 categories:
 - student-posts
 ---
