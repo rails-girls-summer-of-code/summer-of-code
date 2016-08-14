@@ -35,8 +35,6 @@ She was hooked, and later on she decided to take this hobby to the next level an
 
 Here we are at work, apparently very busy and focusing on something important:
 
-![Daria and Veronika](/img/blog/2016/xyz-locus.jpg)
-
 ![Team-XYZ](/img/blog/2016/xyz-team-working.png)
 
 ### What we have achieved so far
