@@ -44,12 +44,12 @@ We are Python lovers. We get a problem and the first way that comes in our mind 
 * We were so disappointed by the fact that there is such low awareness amongst women and we realised the importance of initiatives like RGSoC to promote girls into this environment.
 * It also happened to be the place where we first met our Mentor, [_**Amit Kumar**_](http://iamit.in/ "Amit Kumar") who also introduced us to two of our coaches, [_**Anuvrat Parashar**_](http://anuvrat.in/ "Anuvrat Parashar") and [_**Saurabh Kumar**_](https://saurabh-kumar.com "Saurabh Kumar").
 
-##### **Coaches and Mentors**
+##### **Coaches, Mentors and Supervisors**
 * We got introduced to our mentor in the PyDelhi Conference who did an amazing job at encouraging us to apply for RGSoC. He even helped us find out coaches. 
 * We found another coach amongst our friends, [_**Ankit Sultana**_](https://ankitsultana.me "Ankit Sultana") and the other one being our professor at IIITD, [_**Dr. Rahul Purandare**_](https://www.iiitd.edu.in/~purandare/ "Dr. Rahul Purandare"). 
-* All our Coaches form a highly enthusiastic group of programmers who never fail to encourage us, are available 24/7 for help and are more than willing to motivate us to continue our journey in Open Source that we have started with RGSoC.
-
-
+* All our Coaches form a highly enthusiastic group of programmers who never fail to encourage us, are available 24/7 for help and are more than willing to motivate us to continue our journey in Open Source that we have started with RGSoC.   
+* We have been fortunate enough to have [_**Vaishali Thakkar**_](http://vthakkar1994.github.io/ "Vaishali Thakkar") and [_**Sophia Takeva**_](http://soff22.github.io/ "Sophia Takeva") as our amazing supervisors throughout this journey of RGSoC.  
+    
 ![Team-Fedex++ at Work](/img/blog/2016/TeamFedex++3.jpeg)    
 *image taken by Sahar Siddiqui* 
 
@@ -64,11 +64,11 @@ We are Python lovers. We get a problem and the first way that comes in our mind 
 * Completed the list of algorithms mentioned in the list of algorithms required for the first official release.     
 
 In the process, we have reviewed some Pull Requests made by others and we have sent a few of them ourselves.   
-* <https://github.com/pydsa/pydsa/issues/107>   
-* <https://github.com/pydsa/pydsa/pull/116>   
-* <https://github.com/pydsa/pydsa/pull/120>    
-* <https://github.com/pydsa/pydsa/pull/116/commits/3d4e52114e89eae33310a379f6031a955b9d19d2>    
-* <https://github.com/pydsa/pydsa/pull/124>
+* [Created issue #107 to resolve the issue #80](https://github.com/pydsa/pydsa/issues/107 "Issue #107")   
+* [PR for Counting Inversions algorithm](https://github.com/pydsa/pydsa/pull/116 "Counting Inversions")   
+* [PR for Longest Increasing Subsequence algorithm](https://github.com/pydsa/pydsa/pull/120 "Longest_Increasing_Subsequence")    
+* [PR for Shell Sort algorithm](https://github.com/pydsa/pydsa/pull/116/commits/3d4e52114e89eae33310a379f6031a955b9d19d2 "Shell Sort")    
+* [PR to update the documentation of BFS algorithm](https://github.com/pydsa/pydsa/pull/124 "Docs for BFS")   
     
 ### **Our Goals for the Future**    
 * To set up the official web app on Django platform.   
