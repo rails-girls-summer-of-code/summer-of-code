@@ -15,7 +15,7 @@ categories:
 *Play in pain, Play in problem and Play in all sorts of conditions.*  
             - [_Roger Federer_](https://twitter.com/rogerfederer "Roger Federer")
 
-![Team-Fedex++](/img/blog/2016/TeamFedex++1.jpeg)
+![Team-Fedex++](/img/blog/2016/TeamFedex++1.jpeg)    
 *image taken by Sahar Siddiqui*  
 
 
@@ -35,7 +35,7 @@ We both knew it is going to be tough considering the academic workload we have i
 Project '[PyDSA](https://github.com/pydsa/pydsa "PyDSA")' is an Open Source Python Library for the implementations of various Data Structures and Algorithms. Along with this, it provides a visualisation tool for beginners to have a deeper understanding of working of Algorithms.  
 We are Python lovers. We get a problem and the first way that comes in our mind to solve it is through Python. Choosing PyDSA over any other project was comfortable for us and at the same time challenging considering our ardent love for Algorithms and Python. We have got to give it our best :p
 
-![Team PyDSA](/img/blog/2016/TeamFedex++2.jpeg)
+![Team PyDSA](/img/blog/2016/TeamFedex++2.jpg)    
 *All images have been taken from Rails Girls Team App with permissions*   
 
 ##### **First Pydelhi Conference**
@@ -50,34 +50,34 @@ We are Python lovers. We get a problem and the first way that comes in our mind 
 * All our Coaches form a highly enthusiastic group of programmers who never fail to encourage us, are available 24/7 for help and are more than willing to motivate us to continue our journey in Open Source that we have started with RGSoC.
 
 
-![Team-Fedex++ at Work](/img/blog/2016/TeamFedex++3.jpeg)
+![Team-Fedex++ at Work](/img/blog/2016/TeamFedex++3.jpeg)    
 *image taken by Sahar Siddiqui* 
 
 
 ### **What we have achieved so far?**
-* We designed the basic draft of PyDSA visualisation website. Link to wireframes : <https://goo.gl/8paaNx>
-* We learnt about Pep8 format, Python Tests, Travis CI and a few issues and their solutions.
-* We set up a Django server and made a Test App in it. 
-* As guided by our coaches, we started learning more about d3.js library and tried to code a few visualisations in it. 
-* We learnt how does the interaction between the frontend and backend works using d3.js in frontend and Django framework.
-* We learnt about classes and objects in Python and Design Patterns that should be implemented in order to structure the PyDSA library.
-* Completed the list of algorithms mentioned in the list of algorithms required for the first official release.   
+* We designed the basic draft of PyDSA visualisation website. Link to wireframes : <https://goo.gl/8paaNx>  
+* We learnt about Pep8 format, Python Tests, Travis CI and a few issues and their solutions.  
+* We set up a Django server and made a Test App in it.   
+* As guided by our coaches, we started learning more about d3.js library and tried to code a few visualisations in it.    
+* We learnt how does the interaction between the frontend and backend works using d3.js in frontend and Django framework.   
+* We learnt about classes and objects in Python and Design Patterns that should be implemented in order to structure the PyDSA library.   
+* Completed the list of algorithms mentioned in the list of algorithms required for the first official release.     
 
-In the process, we have reviewed some Pull Requests made by others and we have sent a few of them ourselves.
-* <https://github.com/pydsa/pydsa/issues/107> 
-* <https://github.com/pydsa/pydsa/pull/116>
-* <https://github.com/pydsa/pydsa/pull/120>
-*<https://github.com/pydsa/pydsa/pull/116/commits/3d4e52114e89eae33310a379f6031a955b9d19d2>
+In the process, we have reviewed some Pull Requests made by others and we have sent a few of them ourselves.   
+* <https://github.com/pydsa/pydsa/issues/107>   
+* <https://github.com/pydsa/pydsa/pull/116>   
+* <https://github.com/pydsa/pydsa/pull/120>    
+* <https://github.com/pydsa/pydsa/pull/116/commits/3d4e52114e89eae33310a379f6031a955b9d19d2>    
 * <https://github.com/pydsa/pydsa/pull/124>
-
-### **Our Goals for the Future**
-* To set up the official web app on Django platform.
-* To implement all the basic visualisation algorithms using d3.js
-* To complete the documentation of the algorithms such that they are easily understandable.
-* To prepare further algorithms in such a way that the code is reusable in the Open Source Community.
+    
+### **Our Goals for the Future**    
+* To set up the official web app on Django platform.   
+* To implement all the basic visualisation algorithms using d3.js.    
+* To complete the documentation of the algorithms such that they are easily understandable.   
+* To prepare further algorithms in such a way that the code is reusable in the Open Source Community.   
 * Keep helping others and spreading the word about Open Source :D
-
-![With Love](/img/blog/2016/TeamFedex++4.jpeg)
+     
+![With Love](/img/blog/2016/TeamFedex++4.jpg)    
 *image taken by Mansi Goel* 
 
 We are so glad to be a part of Rails Girls Summer of Code’16 and Open Source itself and really hope this journey doesn’t end with the Summers. We wish to contribute to the community as much as we can! :)
