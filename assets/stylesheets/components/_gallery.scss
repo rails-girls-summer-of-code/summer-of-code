@@ -9,6 +9,11 @@
     background-position:50% 50%;
     display: inline-block;
     width: 32%;
+
+    @media (max-width: $screen-sm-min) {
+      width: 49%;
+    }
+
     img{
       width: 100%;
       height: 100%;
