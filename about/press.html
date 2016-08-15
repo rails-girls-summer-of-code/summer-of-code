@@ -115,9 +115,11 @@ images:
 
       <ul class="photo-gallery">
         {% for image in page.images %}
-          <a href="{{ image.image_path }}.{{ image.extension }}">
-            <li><img src="{{ image.image_path }}-thumb.{{ image.extension }}" alt="{{ image.title}}"/></li>
-          </a>
+          <li style="background-image:url({{ image.image_path }}-thumb.{{ image.extension }})">
+            <a href="{{ image.image_path }}.{{ image.extension }}">
+              <img src="{{ image.image_path }}-thumb.{{ image.extension }}" alt="{{ image.title}}"/>
+            </a>
+          </li>
         {% endfor %}
       </ul>
 
