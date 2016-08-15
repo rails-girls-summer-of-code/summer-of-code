@@ -25,7 +25,7 @@ We, students, get immense support from our coaches Jano and Josef, for which we 
 ### This is our team:
 
 ![Team-XYZ](/img/blog/2016/team-xyz.jpg)
-(Images in this collage were provided by the respective team members)
+<font color="grey"><small><i>(Images in this collage were provided by the respective team members)</i></small></font>
 
 Daria’s journey to software development started with working as content-manager or simply copy-paster of content into CMS and e-shops. She realized she actually wants to learn the “behind-the-scenes” technology, so she started with creating simple HTML/CSS webpages then continued into modifying WordPress themes, and in the end got her first job as WordPress developer for a small marketing agency. Since smaller scale web development doesn’t necessarily mean actual programming, she kept postponing learning any language seriously and concentrated on learning tools instead. After landing accidently on a big project as frontend developer, she had to quickly get the basics of modern frontend tooling and realized how badly she lacked decent Javascript (or any other language) knowledge. She is really grateful to RGSoC and Keystone for such amazing opportunity to work on dynamically developing open-source project and learn a lot about react, node.js, mongodb, git and many other exciting technologies.
 
@@ -37,7 +37,7 @@ She was hooked, and later on she decided to take this hobby to the next level an
 Here we are at work, apparently very busy and focusing on something important:
 
 ![Team-XYZ](/img/blog/2016/xyz-team-working.png)
-(Picture by Fred)
+<font color="grey"><small><i>(Picture by Fred)</i></small></font>
 
 ### What we have achieved so far
 
@@ -57,7 +57,7 @@ Here we are at work, apparently very busy and focusing on something important:
 This is the view from our office:
 
 ![Office view](/img/blog/2016/prague-coworking.jpg)
-(Photo by Veronika)
+<font color="grey"><small><i>(Photo by Veronika)</i></small></font>
 
 ### Tips we would like to share
 
