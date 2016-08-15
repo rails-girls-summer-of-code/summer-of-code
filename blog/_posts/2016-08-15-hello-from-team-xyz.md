@@ -6,7 +6,6 @@ permalink: blog/2016-08-15-hello-from-team-xyz
 current: blog
 author: Veronika and Daria
 twitter: xyzcoode
-published: false
 categories:
 - student-posts
 ---
