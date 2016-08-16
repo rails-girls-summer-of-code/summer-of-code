@@ -8,6 +8,7 @@ body {
   overflow-x: hidden;
   @media screen and (max-width: $screen-sm) {
     padding-top: 3em;
+    overflow-x: visible;
   }
 }
 
@@ -81,13 +82,15 @@ a:active {
   overflow: hidden;
   will-change: height;
   transition: 200ms ease height;
+  .mobile-home {
+    padding-top: 3px;
+  }
   ul {
     padding: 1em 0;
     li {
       padding: .2em 0;
     }
     li:first-child {
-      margin-bottom: .5em;
       font-size: 20px;
     }
   }
@@ -199,7 +202,7 @@ a.button-burger {
       display: block;
     }
     .fa:first-child {
-      display: none;
+      // display: none;
     }
   }
 }
