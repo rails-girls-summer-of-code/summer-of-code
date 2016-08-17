@@ -4,8 +4,9 @@ We're always very happy about contributions to our website, so thank you for tak
 
 ## Setting up and getting started
 
-The Rails Girls Summer of Code website is built using [Jekyll](https://jekyllrb.com/). In order to set up and run the site locally for development, you'll need to have Ruby installed on your machine and create a GitHub account (if you don't already have one). 
-Fork [this repo](https://github.com/rails-girls-summer-of-code/summer-of-code) and go through all the usual steps to [clone your fork](https://help.github.com/articles/fork-a-repo/). Once you're all set up, you'll have to bundle the gems using bundler and start jekyll:
+The Rails Girls Summer of Code website is built using [Jekyll](https://jekyllrb.com/). In order to set up and run the site locally for development, you'll need to have Ruby installed on your machine, create a GitHub account (if you don't already have one), and fork our repo.  
+"Forking" basically just means "making a copy"; this allows you to copy our `summer-of-code` repo (found [here](https://github.com/rails-girls-summer-of-code/summer-of-code)) without affecting it. Follow the instructions on forking a repo and cloning your fork [in the GitHub docs](https://help.github.com/articles/fork-a-repo/). When forking, you might be asked where you want to fork the repository to; select **your own Github profile**.  
+Once you're all set up, you'll have to bundle the gems using bundler and start jekyll:
 
 ```
 gem install bundler
