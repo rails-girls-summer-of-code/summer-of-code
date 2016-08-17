@@ -2,6 +2,17 @@
 
 We're always very happy about contributions to our website, so thank you for taking the time to contribute! Here you will find some guidelines about what is expected from contributors. Before getting started, please make sure you read and understand our [Code of Conduct](https://github.com/rails-girls-summer-of-code/summer-of-code/blob/gh-pages/CODE_OF_CONDUCT.md), and be aware that every contributor is expected to abide by it.
 
+#### Table of contents
+
+1. [Setting up and getting started](#setting-up-and-getting-started)
+2. [Reporting a bug](#reporting-a-bug)
+3. [Suggesting a new feature](#suggesting-a-new-feature)
+4. [Contributing to an existing issue](#contributing-to-an-existing-issue)
+5. [Additional info](#additional-info)
+
+
+
+
 ## Setting up and getting started
 
 The Rails Girls Summer of Code website is built using [Jekyll](https://jekyllrb.com/). In order to set up and run the site locally for development, you'll need to have Ruby installed on your machine, create a GitHub account (if you don't already have one), and fork our repo.  
@@ -28,7 +39,7 @@ As with filing a bug report, before suggesting a new feature or giving feedback 
 
 ## Contributing to an existing issue
 
-You can view all of the currently open issues [on our issue tracker](https://github.com/rails-girls-summer-of-code/summer-of-code/issues). Most are labeled (more on that later), to give you an idea of the sort of contribution that is expected. 
+You can view all of the currently open issues [on our issue tracker](https://github.com/rails-girls-summer-of-code/summer-of-code/issues). Most are [labeled](#issue-labels), to give you an idea of the sort of contribution that is expected. 
 
 ### Finding an issue
 
