@@ -64,6 +64,7 @@ We are Python lovers. We get a problem and the first way that comes in our mind 
 * Completed the list of algorithms mentioned in the list of algorithms required for the first official release.     
 
 In the process, we have reviewed some Pull Requests made by others and we have sent a few of them ourselves.   
+
 * [Created issue #107 to resolve the issue #80](https://github.com/pydsa/pydsa/issues/107 "Issue #107")   
 * [PR for Counting Inversions algorithm](https://github.com/pydsa/pydsa/pull/116 "Counting Inversions")   
 * [PR for Longest Increasing Subsequence algorithm](https://github.com/pydsa/pydsa/pull/120 "Longest_Increasing_Subsequence")    
