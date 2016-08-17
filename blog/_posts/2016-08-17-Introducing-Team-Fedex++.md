@@ -1,8 +1,8 @@
 ---
 title: Introducing Team Fedex++
 layout: post
-created_at: Mon August 15 2016
-permalink: blog/2016-08-15-Introducing-Team-Fedex++
+created_at: Wed August 17 2016
+permalink: blog/2016-08-17-Introducing-Team-Fedex++
 current: blog
 author: Mansi and Sahar
 twitter: TeamFedex
