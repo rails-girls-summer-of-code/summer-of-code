@@ -43,3 +43,35 @@ The most important thing to keep in mind is that all pull requests should be mad
 ## Additional Info
 
 ### Issue labels
+
+
+We use labels to track, manage and organize issues and pull requests.
+
+| Label Name         | Issues                  | Description |
+| ------------------ |:-----------------------:| ------------|
+| `beginner-friendly`| [🔍][beginner]      | Less complex issues, suitable for your first steps in open source. |
+| `bug`              | [🔍][bug]           | Confirmed misbehavior of the application code. |
+| `documentation`    | [🔍][documentation] | improvements to current documentation (e.g. README, contribution files) |
+| `duplicate`        | [🔍][duplicate]     | Issues which have already been reported. |
+| `enhancement`      | [🔍][enhancement]   | *"nice to have"* features, but not necessary. |
+| `help-wanted`      | [🔍][help-wanted]   | Issues which are desperately looking for contributors! |
+| `in progress`      | [🔍][in progress]   | Work in progress, things which are already taken care of. |
+| `#pairwithme`      | [🔍][#pairwithme]   | Looking for someone to pair on this. |
+| `question`         | [🔍][question]      | Feature and code related questions which are no bug reports or feature requests. |
+| `ready`            | [🔍][ready]         | Issues and pull requests which have been reviewed and are ready to be closed or merged. |
+| `styling`          | [🔍][styling]       | CSS and UI related things. |
+| `wontfix`          | [🔍][wontfix]       | The team has decided to not fix these things for now, e.g. because the whole feature will be replaced soon. |
+
+
+[beginner]:      https://github.com/rails-girls-summer-of-code/summer-of-code/labels/beginner-friendly
+[bug]:           https://github.com/rails-girls-summer-of-code/summer-of-code/labels/bug
+[documentation]: https://github.com/rails-girls-summer-of-code/summer-of-code/labels/documentation
+[duplicate]:     https://github.com/rails-girls-summer-of-code/summer-of-code/labels/duplicate
+[enhancement]:   https://github.com/rails-girls-summer-of-code/summer-of-code/labels/enhancement
+[help-wanted]:   https://github.com/rails-girls-summer-of-code/summer-of-code/labels/help-wanted
+[in progress]:   https://github.com/rails-girls-summer-of-code/summer-of-code/labels/in%20progress
+[#pairwithme]:   https://github.com/rails-girls-summer-of-code/summer-of-code/labels/%23pairwithme
+[question]:      https://github.com/rails-girls-summer-of-code/summer-of-code/labels/question
+[ready]:         https://github.com/rails-girls-summer-of-code/summer-of-code/labels/ready
+[styling]:       https://github.com/rails-girls-summer-of-code/summer-of-code/labels/styling
+[wontfix]:       https://github.com/rails-girls-summer-of-code/summer-of-code/labels/wontfix
