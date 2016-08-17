@@ -21,6 +21,11 @@ To see the site locally, just head to `http://localhost:4000` in your browser. Y
 
 Before reporting a bug, please check if it has [already been reported](https://github.com/rails-girls-summer-of-code/summer-of-code/issues?&q=is%3Aissue%20label%3Abug%20). If it hasn't and you want to file [a new bug report](https://github.com/rails-girls-summer-of-code/summer-of-code/issues/new), provide as many details as possible: How can the error be reproduced? What was the expected and what the actual behaviour? Can you provide an error message or a screenshot that illustrates the problem?  
 
+## Suggesting a new feature
+
+We are open to suggestions and ideas to improve the website or to contribute content for our [blog](http://railsgirlssummerofcode.org/blog/).  
+As with filing a bug report, before suggesting a new feature or giving feedback please check it has not been [suggested before](https://github.com/rails-girls-summer-of-code/summer-of-code/issues). And if it hasn't, feel free to share your ideas [on our issue tracker](https://github.com/rails-girls-summer-of-code/summer-of-code/issues/new)!
+
 ## Contributing to an existing issue
 
 You can view all of the currently open issues [on our issue tracker](https://github.com/rails-girls-summer-of-code/summer-of-code/issues). Most are labeled (more on that later), to give you an idea of the sort of contribution that is expected. 
@@ -32,18 +37,14 @@ Before getting started, please check that no one else is working on the issue: t
 
 If it seems like no one is working on the issue, great! You've officially found an issue to work on. You can leave a comment mentioning you'd like to work on the issue. Feel free to also leave a comment with your questions if anything is unclear or if you need help: Is the issue still valid? Are there any more detailed specifications to the issue?  
 
-
 ### Creating a pull request
 
 You can find very thorough information on Pull Requests in [GitHub's documentation](https://help.github.com/articles/creating-a-pull-request/).
 The most important thing to keep in mind is that all pull requests should be made against `gh-pages`, which is our main branch.
 
-## Suggesting a new feature
-
 ## Additional Info
 
 ### Issue labels
-
 
 We use labels to track, manage and organize issues and pull requests.
 
