@@ -44,7 +44,7 @@ TeamMembers.prototype = {
 		var prevRole = '';
 		var prevUser = '';
 		$.each(this.roles, function(k, v) {
-			output += '<h2 class="color--red">'+ self.capitalizePluralize(v) +'</h2>';
+			output += '<h2>'+ self.capitalizePluralize(v) +'</h2>';
 			output += '<ul class="list--none list--team Grid--5">';
 			$.each(data, function(key, val) {
 				$.each(val.roles, function(kr, vr) {

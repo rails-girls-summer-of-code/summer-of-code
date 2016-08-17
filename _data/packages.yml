@@ -262,6 +262,26 @@
       years:
         - 2015
         - 2016
+    - name: coreOS
+      id: coreos
+      url: https://coreos.com/
+      # text: |-
+      #   <a href="https://coreos.com/">coreOS</a>
+      years:
+        - 2016
+    - name: Thoughtworks
+      id: thoughtworks
+      url: http://www.thoughtworks.com
+      text: |-
+        <a href="https://www.thoughtworks.com" target="_blank">ThoughtWorks</a> is a
+        software company and a community of passionate, purpose-led individuals. We
+        think disruptively to deliver technology to address our clients' toughest
+        challenges, all while seeking to revolutionize the IT industry and create
+        positive social change.
+      years:
+        - 2014
+        - 2015
+        - 2016
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
@@ -545,6 +565,18 @@
         - 2014
         - 2015
         - 2016
+    - name: Apcera
+      id: apcera
+      url: https://www.apcera.com
+      text: |-
+        <a href="https://apceral.com">Apcera</a> is disrupting the world of IT with the
+        world’s first OS for the Hybrid Cloud. Our Hybrid Cloud OS has policy and
+        governance built in at the core, allowing IT organizations and developers alike
+        to safely and easily develop, deploy, orchestrate and govern diverse workloads.
+        Apcera delivers an order of magnitude increase in security, freedom, and speed.
+      years:
+        - 2015
+        - 2016
     - name: Planet Argon
       id: planetargon
       url: http://www.planetargon.com/
@@ -613,5 +645,30 @@
         full and healthy lives. Based in Berlin, our 30+ person team is committed to
         gender equality and increasing diversity in the fields of science and
         technology.
+      years:
+        - 2016
+    - name: Digitalocean
+      id: digitalocean
+      url: http://www.digitalocean.com
+      text: |-
+        <a href="http://www.digitalocean.com/">DigitalOcean</a> is on a mission to
+        simplify the complexity of web infrastructure.  We’re committed to building
+        cutting edge products that are robust and reliable, yet maintain our signature
+        simplicity and facilitate innovation. We’re excited to see what the next
+        generation of businesses build on top of our cloud in 2016.
+      years:
+        - 2014
+        - 2015
+        - 2016
+    - name: Movinga
+      id: movinga
+      url: http://www.digitalocean.com
+      text: |-
+        We at <a href=”https://www.movinga.com”>Movinga</a> are employing
+        modern technology to make moving easier. With us, everyone can move
+        from anywhere to everywhere without having to worry about the stress
+        usually associated with relocating to a new home. We promote diversity
+        within and without the confines of our company, and are therefore more
+        than happy to support Rails Girls Summer of Code.
       years:
         - 2016

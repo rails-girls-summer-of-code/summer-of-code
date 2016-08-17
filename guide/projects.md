@@ -91,8 +91,8 @@ On the “All Projects” page, you can view all submitted projects and their st
 <h3 id="q6">I'd like to submit my project, but what if I have no time to be a mentor?</h3>
 
 We want to make this clear: for a project to be considered for the program, the students must have someone they can rely on to answer their project-specific questions. As such, we feel that a core contributor of the project fits this role of "project mentor" best.
-However we understand that the maintainers of some established projects have busy schedules; which is why we encourage you to ask the community for help! If there are other regular and motivated contributors to your project who you think fit the profile of a good mentor and whom you trust to be experts on the subject, please ask them if they would be interested in being project mentors. If that doesn't work, get in touch with us directly – maybe we can find a solution together.
 
+However we understand that the maintainers of some established projects have busy schedules; which is why we encourage you to ask the community for help! If there are other regular and motivated contributors to your project who you think fit the profile of a good mentor and whom you trust to be experts on the subject, please ask them if they would be interested in being project mentors. If that doesn't work, get in touch with us directly – maybe we can find a solution together.
 
 <p>If you have any further questions, drop us a line at <a href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.</p>
 

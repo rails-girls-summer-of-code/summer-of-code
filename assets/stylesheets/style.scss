@@ -5,6 +5,7 @@
 
 @import "shariff.min";
 @import "bootstrap";
+@import "typography";
 @import "layout";
 @import "landing";
 @import "donations";
@@ -25,4 +26,10 @@
       background-image: url(../../img/sponsors/{{ sponsor.id }}.png);
     }
   {% endfor %}
+{% endfor %}
+
+{% for company in site.data.companies %}
+  .sponsors .{{ company.id }} {
+    background-image: url(../../img/companies/{{ company.id }}.png);
+  }
 {% endfor %}

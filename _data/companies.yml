@@ -1,0 +1,62 @@
+- name: Rebased
+  id: rebased
+  url: https://rebased.pl/
+  location: Warsaw, Poland
+  team: KaUlah
+
+- name: Culture Amp
+  id: culture_amp
+  url: https://www.cultureamp.com/
+  location: Melbourne, Australia
+  team: Vegemite
+
+- name: Elevator Factory
+  id: elevator_factory
+  url: http://www.elevatorfactory.com/
+  location: Atlanta, US
+  team: MitPal
+
+- name: Namics
+  id: namics
+  url: https://www.namics.com/en/
+  location: Frankfurt, Germany
+  team: Kindr3d
+
+- name: CodeQuest
+  id: codequest
+  url: http://www.codequest.com/
+  location: Warsaw, Poland
+  team: RubyCats
+
+- name: Raul Hacker Club
+  id: raul-hacker-club
+  url: http://raulhc.cc/
+  location: Salvador, Brazil
+  team: Periféricas
+
+- name: ABSOLVENTA
+  id: absolventa
+  url: https://www.absolventa.de/
+  location: Berlin, Germany
+  team: Joda
+
+- name: GitHub
+  id: github
+  url: http://github.com
+  location: San Francisco, US
+  team: Hackbrighters
+
+- name: OutBox
+  id: outbox
+  url: http://www.outbox.co.ug/
+  location: Kampala, Uganda
+  team: Echo
+
+- name: SoundCloud
+  id: soundcloud
+  url: https://soundcloud.com/
+  location: Berlin, Germany
+  team: LoadToCode
+
+
+
