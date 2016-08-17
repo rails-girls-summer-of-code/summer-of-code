@@ -1,0 +1,10 @@
+<li class="sponsors conferences">
+  <h4>Conferences</h4>
+  <ul>
+  {% for conference in site.data.conferences %}
+    <li>
+      <a href="{{ conference.url }}" class="{{ conference.id }}"></a>
+    </li>
+  {% endfor %}
+  </ul>
+</li>

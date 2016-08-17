@@ -33,3 +33,9 @@
     background-image: url(../../img/companies/{{ company.id }}.png);
   }
 {% endfor %}
+
+{% for conference in site.data.conferences %}
+  .sponsors .{{ conference.id }} {
+    background-image: url(../../img/confs/{{ conference.id }}.png);
+  }
+{% endfor %}
