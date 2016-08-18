@@ -1,6 +1,6 @@
 # Contributing to the Rails Girls Summer of Code website
 
-We're always very happy about contributions to our website, so thank you for taking the time to contribute! Here you will find some guidelines about what is expected from contributors. Before getting started, please make sure you read and understand our [Code of Conduct](https://github.com/rails-girls-summer-of-code/summer-of-code/blob/gh-pages/CODE_OF_CONDUCT.md), and be aware that every contributor is expected to abide by it.
+We're always very happy about contributions to our website, so thank you for taking the time to contribute! Here you will find some guidelines about what is expected from contributors. Before getting started, please make sure you read and understand our [Code of Conduct](https://github.com/rails-girls-summer-of-code/summer-of-code/blob/gh-pages/CODE_OF_CONDUCT.md).
 
 #### Table of contents
 
@@ -30,7 +30,12 @@ To see the site locally, just head to `http://localhost:4000` in your browser. I
 
 ## Reporting a bug
 
-Before reporting a bug, please check if it has [already been reported](https://github.com/rails-girls-summer-of-code/summer-of-code/issues?&q=is%3Aissue%20label%3Abug%20). If it hasn't and you want to file [a new bug report](https://github.com/rails-girls-summer-of-code/summer-of-code/issues/new), provide as many details as possible: How can the error be reproduced? What was the expected and what the actual behaviour? Can you provide an error message or a screenshot that illustrates the problem?  
+Before reporting a bug, please check if it has [already been reported](https://github.com/rails-girls-summer-of-code/summer-of-code/issues?&q=is%3Aissue%20label%3Abug%20). If it hasn't and you want to file [a new bug report](https://github.com/rails-girls-summer-of-code/summer-of-code/issues/new), provide the following information: 
+
+* Where/on which page did the error happen?
+* How can the error be reproduced? 
+* What was the expected and what the actual behaviour? 
+* Can you provide an error message or a screenshot that illustrates the problem?  
 
 ## Suggesting a new feature
 
