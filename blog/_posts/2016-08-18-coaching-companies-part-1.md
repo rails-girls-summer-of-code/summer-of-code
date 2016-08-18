@@ -6,7 +6,8 @@ permalink: blog/2016-08-18-coaching-companies-part-1
 current: blog
 author: Ana Sofia Pinho
 twitter: RailsGirlsSoC
-categories:
+categories: 
+- news
 ---
 
 Every year, our students work from the most varied places: university campuses, coworking spaces or coaching companies... Even though you can work on RGSoC from anywhere, coaching companies not only provide the space for our students to work, but also coaching support. We could be here talking about all the benefits from being a coaching company or a student at a company, but we thought it would be best for you learn from the students’ and the coaching companies’ own words. And to make things more interesting, there are pictures of the workspaces too! :)
