@@ -8,7 +8,8 @@ We're always very happy about contributions to our website, so thank you for tak
 2. [Reporting a bug](#reporting-a-bug)
 3. [Suggesting a new feature](#suggesting-a-new-feature)
 4. [Contributing to an existing issue](#contributing-to-an-existing-issue)
-5. [Additional info](#additional-info)
+5. [Blog post contributions](#blog-post-contributions)
+6. [Additional info](#additional-info)
 
 
 
@@ -55,8 +56,71 @@ If it seems like no one is working on the issue, great! You've officially found 
 
 ### Creating a pull request
 
+Once you're happy with your changes, commit them:
+
+- `git add .`
+- `git commit -m "your commit message"`
+- `git push origin your-branch` (where `your-branch` is the name of the branch you created at the beginning). Yhis will push your changes to `your-branch` of your own fork of the `summer-of-code` repo on github)
+- make a pull request by navigating to your repo (`http://www.github.com/your_username/summer-of-code`) and your branch (`your-branch`), and by clicking the "Compare & Review" button, as explained [here](https://help.github.com/articles/using-pull-requests/).
+
 You can find very thorough information on Pull Requests in [GitHub's documentation](https://help.github.com/articles/creating-a-pull-request/).
 The most important thing to keep in mind is that all pull requests should be made against `gh-pages`, which is our main branch.
+
+## Blog post contributions
+
+### Requirements  
+
+Every RGSoC team has to write two blog posts during the summer. **The first blog post** has to be done by **August 16th**; the second blog post should be scheduled **between September 19th and October 31st**.  
+Please add your team name [to the editorial calendar](https://docs.google.com/spreadsheets/d/1sDqiNdSZLrwcAkH468E-FkyZ2VtC-5SwqBlraWPiqJU/) next to the date you wish to publish your blog posts on; the posts will be published at 12:00pm UTC.  
+**Note: The blog post pull request must be submitted a minimum of 24h before publishing time to allow for feedback.**   
+
+### Creating a new blog post
+
+First off, go through the instructions to [set up and get started](#setting-up-and-getting-started). Once you have your local copy set up:
+
+- create a new file in the `summer-of-code/blog/_posts` folder (on your computer).
+- Call this file `yyyy-mm-dd-your-blog-post-name.md`, where yyyy-mm-dd is the publishing date for your post. Don't forget the .md extension, which stands for `MarkDown`.
+- Add the Jekyll header for the meta data. See any of the posts in the `blog/_posts` folder for an example. Include the top section including the `---` lines and change the attributes where required (probably all of them except the `layout` attribute). **The date (`created_at`) should be the publishing date of your post**. On the twitter line, please just add **your twitter handle without @ character**.  
+- Add all your text.
+- don't forget to save your changes ;)
+
+**IMPORTANT**: If you don't add your twitter handle or remove the twitter line in front matter, the metadata will not render properly. If your team doesn't have a team twitter account, you can:
+- use one of your personal accounts or
+- use our twitter handle (RailsGirlsSoC)
+
+### Permalink
+
+Ideally, your blog post's permalink is all lowercase letters. That's not mandatory, though, but please include the date in your blog post's permalink like so:
+
+```yaml
+title: Hello World
+layout: post
+created_at: Sun Jul 12 2015
+permalink: blog/2015-07-12-hello-world
+# ...
+```
+
+### Images
+
+Please upload the images referenced by your blog post to the `img/blog/<year>`
+folder and name them so that they can easily be linked to your article.
+Uploading the images is the preferred way since externally referenced graphics
+may become unavailable, leaving your blog post with missing image data.
+
+Images will be downscaled to a maximum width of approx. 600 pixels. Please do
+not upload images much larger than that (resize them using a very simple image
+manipulation tool of your choosing). As a rule of thumb: An image "heavier"
+than 250 kilobytes is too big. There are several tools you can use online to compress your images, for example [TinyPNG](https://tinypng.com/) or [compressor.io](https://compressor.io).
+
+Please add a line with image credits under each picture, crediting the person who took the photo or created the image by name, or linking to the source of the image if you found it on the internet (URL/website). Last but not least, be sure to respect the privacy of others when uploading photos. **Adding image credits is not mandatory and we will not accept any post without them**.
+
+### CSS/inline styles
+
+Where you can, please avoid adding inline styling (e.g. css that changes the color of the font or makes the images a certain size) as that slowly becomes unmanageable. Keep in mind that the website design or layout might change in the future and that the site should be mobile-friendly (i.e. absolute image sizes in pixels are discouraged). 
+
+### Committing your changes and sending a pull request
+
+All that's left is to commit your changes and make a pull request. Find all the info about it [here](#creating-a-pull-request)!
 
 ## Additional Info
 
