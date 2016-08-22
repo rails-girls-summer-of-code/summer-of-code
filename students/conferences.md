@@ -83,13 +83,14 @@ Interested? Any further questions? <a href="mailto:summer-of-code@railsgirls.com
 
 A huge **Thank You!** to all conferences who support our students and provide free tickets for the 2016 edition.
 
-<table style="margin-top: 20px; margin-bottom: 40px">
+<section class="conference-table">
+
+<table>
   <tr>
     <td>
       <a href="http://warsaw2016.codemotionworld.com/">
-      <img src="/img/blog/2016/conferences/CodemoWarsaw-logo.png" style="width:200px"></a>
+      <img src="/img/blog/2016/conferences/CodemoWarsaw-logo.png"></a>
     </td>
-    <td style="width: 20px"></td>
     <td>
       <b><a href="http://warsaw2016.codemotionworld.com/">Codemotion WARSAW</a></b> <br>
       <b>Date: </b>September 15-16, 2016 <br>
@@ -99,13 +100,12 @@ A huge **Thank You!** to all conferences who support our students and provide fr
   </tr>
 </table>
 
-<table style="margin-top: 20px; margin-bottom: 40px">
+<table>
   <tr>
     <td>
       <a href="http://www.thestrangeloop.com">
-      <img src="/img/blog/2016/conferences/strange-loop-logo.jpg" style="width:200px"></a>
+      <img src="/img/blog/2016/conferences/strange-loop-logo.jpg"></a>
     </td>
-    <td style="width: 20px"></td>
     <td>
       <b><a href="http://www.thestrangeloop.com">The StrangeLoop</a></b> <br>
       <b>Codemotion WARSAW</b> <br>
@@ -116,13 +116,12 @@ A huge **Thank You!** to all conferences who support our students and provide fr
   </tr>
 </table>
 
-<table style="margin-top: 20px; margin-bottom: 40px">
+<table>
   <tr>
     <td>
       <a href="http://euruko2016.org/">
-      <img src="/img/blog/2016/conferences/euruko-logo.png" style="width:200px"></a>
+      <img src="/img/blog/2016/conferences/euruko-logo.png"></a>
     </td>
-    <td style="width: 20px"></td>
     <td>
       <b><a href="http://euruko2016.org/">EuRuKo</a></b> <br>
       <b>Date: </b>September 23-24, 2016 <br>
@@ -132,13 +131,12 @@ A huge **Thank You!** to all conferences who support our students and provide fr
   </tr>
 </table>
 
-<table style="margin-top: 20px; margin-bottom: 40px">
+<table>
   <tr>
     <td>
       <a href="http://rubyconfbrcfp.com.br/">
-      <img src="/img/blog/2016/conferences/rubyconf-br-logo.png" style="width:200px"></a>
+      <img src="/img/blog/2016/conferences/rubyconf-br-logo.png"></a>
     </td>
-    <td style="width:20px"></td>
     <td>
       <b><a href="http://rubyconfbrcfp.com.br/">RubyConf Brazil</a></b> <br>
       <b>Date: </b> September 23-24, 2016 <br>
@@ -147,13 +145,12 @@ A huge **Thank You!** to all conferences who support our students and provide fr
   </tr>
 </table>
 
-<table style="margin-top: 20px; margin-bottom: 40px">
+<table>
   <tr>
     <td>
       <a href="https://gotocon.com/cph-2016/">
-      <img src="/img/blog/2016/conferences/goto-cph-logo.png" style="width:200px"></a>
+      <img src="/img/blog/2016/conferences/goto-cph-logo.png"></a>
     </td>
-    <td style="width:20px"></td>
     <td>
       <b><a href="https://gotocon.com/cph-2016/">GoTo Copenhagen</a></b> <br>
       <b>Date: </b> October 3-6, 2016 <br>
@@ -163,13 +160,12 @@ A huge **Thank You!** to all conferences who support our students and provide fr
   </tr>
 </table>
 
-<table style="margin-top: 20px; margin-bottom: 40px">
+<table>
   <tr>
     <td>
       <a href="http://connect-js.com/">
-      <img src="/img/blog/2016/conferences/connect-tech-logo.png" style="width:200px"></a>
+      <img src="/img/blog/2016/conferences/connect-tech-logo.png"></a>
     </td>
-    <td style="width:20px"></td>
     <td>
       <b><a href="http://connect-js.com/">Connect.Tech</a></b> <br>
       <b>Date: </b> October 20-22, 2016 <br>
@@ -179,13 +175,12 @@ A huge **Thank You!** to all conferences who support our students and provide fr
   </tr>
 </table>
 
-<table style="margin-top: 20px; margin-bottom: 40px">
+<table>
   <tr>
     <td>
       <a href="http://rubyconf.pt/">
-      <img src="/img/blog/2016/conferences/rubyconf-pt-logo.png" style="width:200px"></a>
+      <img src="/img/blog/2016/conferences/rubyconf-pt-logo.png"></a>
     </td>
-    <td style="width:20px"></td>
     <td>
       <b><a href="http://rubyconf.pt/">RubyConf Portugal</a></b> <br>
       <b>Date: </b> October 27-28, 2016 <br>
@@ -195,13 +190,12 @@ A huge **Thank You!** to all conferences who support our students and provide fr
   </tr>
 </table>
 
-<table style="margin-top: 20px; margin-bottom: 40px">
+<table>
   <tr>
     <td>
       <a href="http://rubyconf.org.au/2017">
-      <img src="/img/blog/2016/conferences/rubyconf-au-logo.jpg" style="width:200px"></a>
+      <img src="/img/blog/2016/conferences/rubyconf-au-logo.jpg"></a>
     </td>
-    <td style="width:20px"></td>
     <td>
       <b><a href="http://rubyconf.org.au/2017">RubyConf Australia</a></b> <br>
       <b>Date: </b> February 9-10, 2017 <br>
@@ -210,3 +204,5 @@ A huge **Thank You!** to all conferences who support our students and provide fr
     </td>
   </tr>
 </table>
+
+</section>
