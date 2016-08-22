@@ -40,11 +40,11 @@ We contact conference organizers and ask for support. All the tickets we get, we
 
 * teams' preferences
 
-* suitabitily (location/financial aspects, topic of conference)
+* suitability (location/financial aspects, topic of conference)
 
 Usually we recommend students pick local conferences -- for financial reasons. However, if you are able to attend a conference at a far-away place, feel free to apply for one.
 
-We announce conferences and teams associated with them in two goes. After your conference is officially announced, we connect you with the conference organizers. You can then directly talk about the details of how to actually get your personal tickets. Depending on how it’s done, you might need to sign-up somewhere or simply provide your names so the organizers can put you on the list.
+We announce conferences and teams associated with them in two rounds. After your conference is officially announced, we connect you with the conference organizers. You can then directly talk about the details of how to actually get your personal tickets. Depending on how it’s done, you might need to sign-up somewhere or simply provide your names so the organizers can put you on the list.
 
 <h3>Is this also for volunteer teams?</h3>
 Yes!
@@ -58,7 +58,7 @@ Lightning Talks are usually 10-20 minutes long. The topic can and preferably sho
 We also have in mind that it will probably be the first public talk for you. Scary thought, right? We know. Stage fright is something we all experience, even if we already have held a lot of talks. We will help you in dealing with it! Here’s a start: <a href="http://railsgirlssummerofcode.org/blog/2014-07-29-talk-tips">How to ace your lightning talk</a>.
 
 <h2 id="travel">What About Travel and Accommodation?</h2>
-Unfortunately, we are not able to provide additional financial support for travel & accommodation. If we see an opportunity, we will ask conference organizers about it, but please consider that providing travel grants is a big effort for everyone involved and happens not that often.
+Unfortunately, we are not able to provide additional financial support for travel & accommodation. If we see an opportunity, we will ask conference organizers about it, but please consider that providing travel grants is a big effort for everyone involved and doesn't happen that often.
 
 Many companies support their employees in attending conferences. Ask your coaches if there’s an opportunity at your place!
 
@@ -71,7 +71,7 @@ There are a few things to consider though:
 
 * Your conference should be beginner friendly. That means, talks (or workshops) need to be suitable for people who haven’t done this for years.
 
-* You take care of a welcoming, respectful and harassment-free atmosphere. We expect you to either have a Code of Conduct in place or otherwise make an effort in dealing with -- let us be plain -- jerk behavior. Bonus points go to conferences who have assigned contact persons for potential incidents.
+* You take care of a welcoming, respectful and harassment-free atmosphere. We expect you to have a Code of Conduct in place and to make an effort in dealing with -- let us be plain -- jerk behavior. Bonus points go to conferences who have assigned contact persons for potential incidents.
 
 At the conference, we want our students to hold a lightning talk about their project. If you have slots for this, we’d be very happy if a team could use one of them. If not, no worries.
 
