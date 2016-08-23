@@ -12,7 +12,7 @@ categories:
 
 # **Team Crackers**
 
-![Team Crackers](/img/blog/2016/teamCrackers1.jpg)    
+![Team Crackers](/img/blog/2016/teamCrackers1.JPG)    
 
 hello everyone!!
 this is team Crackers. We are nikita and nishtha from Gandhinagar,India.
@@ -41,10 +41,10 @@ During initial days there was a bit miscommunication between the team and the me
 ### **What are our future goals?**
 
 Our present focus is on console task as it cannot afford to bring or have any sort of error because that would result in problems in publishing any information live. Later we will focus on following tasks provided by mentor:
-	- Update API Documentation
-	- Add validation on user input
-	- Use service workers in the website to improve performance
-	- make a map which will pin point locations of NGO/campaigns that are registered
+	* Update API Documentation
+	* Add validation on user input
+	* Use service workers in the website to improve performance
+	* make a map which will pin point locations of NGO/campaigns that are registered
 
 
 #### **Follow us at :)**
