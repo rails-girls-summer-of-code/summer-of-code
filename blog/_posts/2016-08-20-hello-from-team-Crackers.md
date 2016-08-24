@@ -12,7 +12,8 @@ categories:
 
 # **Team Crackers**
 
-![Team Crackers](/img/blog/2016/teamCrackers1.JPG)    
+![Team Crackers](/img/blog/2016/teamCrackers1.JPG)   
+*image taken by Nikita Bhagat* 
 
 hello everyone!!
 this is team Crackers. We are nikita and nishtha from Gandhinagar,India.
@@ -28,6 +29,7 @@ Being in a closely knit community, surrounded by technology enthusiasts, and tal
 I am currenty studying in 3rd year(undergrad) for the course Information and Communication Technology. I started coding with basic C and HTML since my high school. Later I got to know about web development, attended various workshops and discussions which acted as an ignition to working with web applications. Then I started studying various online courses and making informal projects. Later last summer I had my internship on educational web applications where I met very great people who taught me advance techniques in this field which is quite helpful for the project. In my free time I go out and play football with my team or fiddle around arts and crafts. Also I like travelling and mountain hiking.
 
 ![Team Crakers](/img/blog/2016/teamCrackers2.jpg)
+*image taken by Nishtha Boda*
 
 ### **ABOUT OUR PROJECT**
 
@@ -41,10 +43,10 @@ During initial days there was a bit miscommunication between the team and the me
 ### **What are our future goals?**
 
 Our present focus is on console task as it cannot afford to bring or have any sort of error because that would result in problems in publishing any information live. Later we will focus on following tasks provided by mentor:
-	* Update API Documentation
-	* Add validation on user input
-	* Use service workers in the website to improve performance
-	* make a map which will pin point locations of NGO/campaigns that are registered
+* Update API Documentation
+* Add validation on user input
+* Use service workers in the website to improve performance
+* make a map which will pin point locations of NGO/campaigns that are registered
 
 
 #### **Follow us at :)**
