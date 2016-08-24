@@ -33,7 +33,7 @@ Thank you, Code Quest!"*
 
 
 ## LoadToCode and [SoundCloud](https://soundcloud.com/)
-Berlin, Germany
+(Berlin, Germany)
 
 ![LoadToCode at SoundCloud](/img/blog/2016/rgsoc-2016-coaching-companies_loadtocode-soundcloud.png)<font color="grey"><small><i>Thea and Marie at SoundCloud! (Image: Thea and Marie)</i></small></font>
 
@@ -52,7 +52,7 @@ Berlin, Germany
 *"RGSoC is a way for us to address diversity issues in our industry, contribute to open source and sharpen our mentoring skills-but the biggest reward is seeing how people from such different backgrounds can thrive in code and help us forge a more inclusive and diverse tech culture."*
 
 ## Echo and [The Innovation Village](http://innovationvillage.co.ug/)
-Kampala, Uganda
+(Kampala, Uganda)
 
 ![Echo at The Innovation Village](/img/blog/2016/rgsoc-2016-coaching-companies_echo-the-innovation-village.png)<font color="grey"><small><i>Naggita and Joannah at The Innovation Village! (Image: Naggita and Joannah)</i></small></font>
 
@@ -74,7 +74,7 @@ It has helped us in becoming better speakers by giving us a platform to speak at
 
 
 ## KaUlah and [Rebased](http://rebased.pl/) 
-Warsaw, Poland
+(Warsaw, Poland)
 
 ![KaUlah at Rebased](/img/blog/2016/rgsoc-2016-coaching-companies_kaulah-rebased.png)<font color="grey"><small><i>Ula and Katarzyna at Rebased! (Image: Ula and Katarzyna)</i></small></font>
 
@@ -99,7 +99,7 @@ the code to production!) is always a great experience."*
 
 
 ## Vegemite and [Culture Amp](https://www.cultureamp.com/) 
-Melbourne, Australia
+(Melbourne, Australia)
 
 ![Vegemite at Culture Amp](/img/blog/2016/rgsoc-2016-coaching-companies_vegemite-culture-amp.png)<font color="grey"><small><i>Ramya and Kylie at Culture Amp! (Image: Ramya and Kylie)</i></small></font>
 
