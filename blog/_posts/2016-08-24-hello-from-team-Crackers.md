@@ -1,8 +1,8 @@
 ---
-title: hello from Team Crackers!!
+title: Hello from Team Crackers!!
 layout: post
-created_at: Sat August 20 2016
-permalink: blog/2016-08-20-hello-from-team-Crackers
+created_at: Wed Aug 24 2016
+permalink: blog/2016-08-24-hello-from-team-Crackers
 current: blog
 author: Nikita and Nishtha
 twitter: Team Crackers
@@ -10,9 +10,7 @@ categories:
 - student-posts
 ---
 
-# **Team Crackers**
-
-![Team Crackers](/img/blog/2016/teamCrackers1.JPG)   
+![Team Crackers](/img/blog/2016/teamCrackers1.jpg)   
 *image taken by Nikita Bhagat* 
 
 hello everyone!!
@@ -43,6 +41,7 @@ During initial days there was a bit miscommunication between the team and the me
 ### **What are our future goals?**
 
 Our present focus is on console task as it cannot afford to bring or have any sort of error because that would result in problems in publishing any information live. Later we will focus on following tasks provided by mentor:
+
 * Update API Documentation
 * Add validation on user input
 * Use service workers in the website to improve performance
