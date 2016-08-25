@@ -1,8 +1,8 @@
 ---
 title: RGSoC in a Coaching Company - Part 2
 layout: post
-created_at: Thu August 25 2016
-permalink: blog/2016-08-18-coaching-companies-part-2
+created_at: Fri Aug 26 2016
+permalink: blog/2016-08-26-coaching-companies-part-2
 current: blog
 author: Ana Sofia Pinho
 twitter: RailsGirlsSoC
@@ -48,7 +48,7 @@ Thank you so much for being part of the program! <3
 *"The learning curve is steep at the beginning of the summer: There's new lingo left and right, a project whose complexity might be intimidating, there's lots of new people, and the team has to find their own workflow. But as the weeks pass, mysteries dissolve into knowledge and the once foreign codebase has not only lost its scariness, but feels a bit like home. Three months of working on Open Source builds a tremendous amount of developer self-confidence!"*
 
 
-## kind3d and [Namics](http://namics.com)
+## kindr3d and [Namics](http://namics.com)
 (Frankfurt, Germany)
 
 
