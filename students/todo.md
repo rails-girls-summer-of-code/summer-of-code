@@ -80,7 +80,7 @@ Set up a shared calendar for you and your pair and schedule regular, dedicated t
 Here you'll see a sample schedule for one week. It serves as a guide and gives you an impression on how to organize your Summer of Code. 
 
 <i>Please be aware: This is just an example. The actual dates will vary. Especially, the calls will depend on how the mentor and the supervisor will have time. Also, RGSoC Social Stuff will sometimes take more, but mostly way less time.</i>
-![sample schedule-01](https://cloud.githubusercontent.com/assets/2246045/6210947/08cf7384-b5d5-11e4-90c0-05a86aa6cd3c.png)
+![sample schedule-01](/img/guides/todo-sample-schedule.png)
 
 
 <h3>Kick-off Call (Google Hangout)</h3>      
