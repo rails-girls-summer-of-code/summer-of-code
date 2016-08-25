@@ -83,7 +83,11 @@ a:active {
   will-change: height;
   transition: 200ms ease height;
   .mobile-home {
-    padding-top: 3px;
+    padding: 0;
+    display: block;
+    @media screen and (min-width: $screen-md) {
+      display: none;
+    }
   }
   ul {
     padding: 1em 0;
