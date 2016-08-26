@@ -1,8 +1,8 @@
 ---
 title: RGSoC in a Coaching Company - Part 2
 layout: post
-created_at: Fri Aug 26 2016
-permalink: blog/2016-08-26-coaching-companies-part-2
+created_at: Thu Aug 25 2016
+permalink: blog/2016-08-25-coaching-companies-part-2
 current: blog
 author: Ana Sofia Pinho
 twitter: RailsGirlsSoC
