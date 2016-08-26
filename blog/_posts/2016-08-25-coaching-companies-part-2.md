@@ -76,7 +76,7 @@ We also had a chance to observe real-life team software development (agile style
 
 *As seniors, coaches are helping us to thrive in this path. Rather than giving us the solutions right away, our coaches are giving us tips and advice, guiding us and enabling us to find the answers by ourselves.
 
-Brena Monteiro is the co-founder of [UpriseIT](http://www.upriseit.com/), a software company based in Gov. Valadares in Belo Horizonte state. She has large experience in software projects and development with Ruby and Rails. Daniela Feitosa and Aurélio A. Heckert are from [Colivre](http://colivre.coop.br/), a cooperative service company that supplies solutions for Internet, development and consultancy in free software. Victor Flores aka User_X, a senior development represents [LampiãoSec](https://lampiaosec.github.io/), a security research group.*
+Brena Monteiro is the co-founder of [UpriseIT](http://www.upriseit.com/), a software company based in Gov. Valadares in Minas Gerais state. She has large experience in software projects and development with Ruby and Rails. Daniela Feitosa and Aurélio A. Heckert are from [Colivre](http://colivre.coop.br/), a cooperative service company that supplies solutions for Internet, development and consultancy in free software. Victor Flores aka User_X, a senior development represents [LampiãoSec](https://lampiaosec.github.io/), a security research group.*
 "*
 
 ## MitPal and [Elevator Factory](http://www.elevatorfactory.com/)
