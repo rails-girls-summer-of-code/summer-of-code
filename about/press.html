@@ -4,6 +4,25 @@ title: Press
 class: page page-projects
 current: press
 permalink: /about/press/
+links:
+  - icon: pencil-square-o
+    title: Logos
+    href: logos
+  - icon: file-text-o
+    title: Press Releases
+    href: press-releases
+  - icon: video-camera
+    title: Videos
+    href: videos
+  - icon: camera
+    title: Images
+    href: images
+  - icon: quote-right
+    title: Quotes
+    href: quotes
+  - icon: newspaper-o
+    title: Articles
+    href: articles
 images:
   - image_path: /img/press/rgsoc-2016-xyz-team-coaches-prague-cz
     title: Team XYZ
@@ -102,12 +121,17 @@ images:
       <p>For press inquiries, send us an email to <a href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.</p>
 
       <br>
+      {% for link in page.links %}
+        <a href="#{{ link.href }}"><i class="fa fa-{{ link.icon }}"></i>{{ link.title }}</a>
+      {% endfor %}
+
+      <br>
       <h2>Press Releases and Media</h2>
 
       <p>We gathered on the following sections a group of resources, such as press releases, logos, images, videos, quotes and some of the articles written about the program. Please feel free to use them, and in order to make the download easier, you can find the whole press kit <a href="https://www.dropbox.com/sh/ng9p8d5hba425ht/AAB18_F_NZzX_UlQL8LB1caMa?dl=0">here</a>.</p>
 
       <br>
-      <h3>Press Releases</h3>
+      <h3 id="press-releases">Press Releases</h3>
 
       <p>
         <i>
@@ -157,12 +181,12 @@ images:
       </p>
 
       <br>
-      <h3>Logos</h3>
+      <h3 id="logos">Logos</h3>
 
       <p>Coming soon. </p>
 
       <br>
-      <h3>Images</h3>
+      <h3 id="images">Images</h3>
 
       <p>Below are samples from teams of the Rails Girls Summer of Code during 2015 and 2016. There are many more in our Press Kit.</p>
 
@@ -177,7 +201,7 @@ images:
       </ul>
 
       <br>
-      <h3>Videos</h3>
+      <h3 id="videos">Videos</h3>
 
       <p>A selection of RGSoC's videos and talks done by people who were part of the program.</p>
 
@@ -214,7 +238,7 @@ images:
       <p/>
 
       <br>
-      <h3>What they say about us</h3>
+      <h3 id="quotes">What they say about us</h3>
 
       <br>
       <h4>Students</h4>
@@ -421,7 +445,7 @@ images:
 
 
       <br>
-      <h3>Press Coverage</h3>
+      <h3 id="articles">Press Coverage</h3>
 
       <p>
         <a href="http://sengeba.org.br/mulheres-e-tecnologia-foi-destaque-na-i-secomtec/">“Mulheres e tecnologia” foi destaque na I Secomtec</a> (SENGE Bahia, Portuguese)
