@@ -418,3 +418,53 @@ a.button-burger {
     width: 200px
   }
 }
+
+.image-credits {
+  color: grey;
+  font-style: italic;
+  font-size: 75%;
+  margin-top: .5em;
+  margin-bottom: 2em;
+}
+
+.students-image-map-4x5 {
+  div {
+    width: 100%;
+    position: relative;
+  }
+  img {
+    width: 100%;
+  }
+  a {
+    position: absolute;
+    width: 25%;
+    height: 20%;
+  }
+  .row1 {
+    top: 0%;
+  }
+  .row2 {
+    top: 20%;
+  }
+  .row3 {
+    top: 40%;
+  }
+  .row4 {
+    top: 60%;
+  }
+  .row5 {
+    top: 80%;
+  }
+  .col1 {
+    left: 0%;
+  }
+  .col2 {
+    left: 25%;
+  }
+  .col3 {
+    left: 50%;
+  }
+  .col4 {
+    left: 75%;
+  }
+}
