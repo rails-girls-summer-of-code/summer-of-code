@@ -19,6 +19,7 @@
 @import "layouts/sidebar";
 
 @import "components/button";
+@import "components/gallery";
 
 {% for package in site.data.packages %}
   {% for sponsor in package.sponsors %}

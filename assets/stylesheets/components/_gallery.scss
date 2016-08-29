@@ -1,0 +1,26 @@
+.photo-gallery {
+	list-style: none;
+	padding: 0;
+  li {
+    height: 150px;
+    overflow: hidden;
+    vertical-align: top;
+    background-size:cover;
+    background-position:50% 50%;
+    display: inline-block;
+    width: 32%;
+
+    @media (max-width: $screen-sm-min) {
+      width: 49%;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      /* OLD IE */
+      zoom: 1;
+      filter: alpha(opacity=0);
+    }
+  }
+}
