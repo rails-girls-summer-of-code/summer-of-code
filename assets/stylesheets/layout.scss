@@ -419,12 +419,18 @@ a.button-burger {
   }
 }
 
+.image-credits {
+  color: grey;
+  font-style: italic;
+  font-size: 75%;
+  margin-top: .5em;
+  margin-bottom: 2em;
+}
+
 .students-image-map-4x5 {
   div {
     width: 100%;
     position: relative;
-    margin-top: 2em;
-    margin-bottom: 2em;
   }
   img {
     width: 100%;
