@@ -229,19 +229,21 @@ a.button-burger {
   p {
     margin-bottom: 0;
   }
-  &:after {
-    content: "";
-    position: absolute;
-    top: -3%;
-    right: 20%;
-    display: block;
-    width: 175px;
-    height: 150px;
-    background: {
-      repeat: no-repeat;
-      size: cover;
-      image: url(../images/megaphone.png);
+  @media screen and (min-width: $screen-md) {
+    &:after {
+      content: "";
+      position: absolute;
+      top: -3%;
+      right: 20%;
+      display: block;
+      width: 175px;
+      height: 150px;
+      background: {
+        repeat: no-repeat;
+        size: cover;
+        image: url(../images/megaphone.png);
     }
+  }
   }
 }
 .footer-child {
