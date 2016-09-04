@@ -93,7 +93,7 @@
     }
 
   .badge:after {
-    font-family: Helvetica Neue, Arial, sans-serif;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
     text-align: center;
     position: absolute;
     color: #FFF;
@@ -162,8 +162,7 @@
 #sponsors .companies h4 {
   top: 60px;
 }
-.sponsors.conferences a,
-.sponsors.companies a {
+.sponsors.conferences a {
   width: 151px;
   height: 61px;
   background-size: 151px;
@@ -246,4 +245,33 @@
 }
 .sponsors-text {
   padding-top: 1em;
+}
+
+/* Coaching Companies */
+
+.coaching-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  min-height:100vh;
+}
+
+.coaching-item {
+  margin: 5rem 0.5rem 0;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  @media screen and (min-width: $screen-sm) {
+    width: calc(47% - 1rem);
+  }
+  @media screen and (min-width: $screen-md) {
+    width: calc(30% - 1rem);
+  }
+}
+
+.coaching-logo {
+  width: 70%;
+  height: auto;
+  text-align: left;
 }

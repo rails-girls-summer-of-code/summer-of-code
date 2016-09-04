@@ -29,11 +29,12 @@
   {% endfor %}
 {% endfor %}
 
-{% for company in site.data.companies %}
-  .sponsors .{{ company.id }} {
-    background-image: url(../../img/companies/{{ company.id }}.png);
-  }
-{% endfor %}
+/* TODO: await review */
+// {% for company in site.data.companies %}
+//   .sponsors .{{ company.id }} {
+//     background-image: url(../../img/companies/{{ company.id }}.png);
+//   }
+// {% endfor %}
 
 {% for conference in site.data.conferences %}
   .sponsors .{{ conference.id }} {
