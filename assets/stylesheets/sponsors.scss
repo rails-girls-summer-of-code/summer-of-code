@@ -275,3 +275,30 @@
   height: auto;
   text-align: left;
 }
+
+/* Conferences */
+
+.conference-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  @media screen and (max-width: 544px) {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.conference-logo {
+  flex: 1 1 35%;
+  @media screen and (max-width: 544px) {
+    margin: 0;
+  }
+}
+
+.conference-text {
+  flex: 1 1 60%;
+  margin-left: 1em;
+  @media screen and (max-width: 544px) {
+    margin: 0 0 2em 0;
+  }
+}
