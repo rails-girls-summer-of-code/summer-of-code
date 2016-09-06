@@ -79,7 +79,7 @@ We are not able to support our students with travel & accommodation. If you have
 
 Interested? Any further questions? <a href="mailto:summer-of-code@railsgirls.com">Write us an email</a> and we can talk about the details.
 
-<h2 id="conferences">Conference Sponsors in 2016 (incomplete list)</h2>
+<h2 id="conferences">Conference Sponsors in 2016</h2>
 
 A huge **Thank You!** to all conferences who support our students and provide free tickets for the 2016 edition.
 
@@ -88,14 +88,44 @@ A huge **Thank You!** to all conferences who support our students and provide fr
 <table>
   <tr>
     <td>
+      <a href="http://githubuniverse.com/">
+      <img src="/img/blog/2016/conferences/github-universe-logo.png"></a>
+    </td>
+    <td>
+      <b><a href="http://githubuniverse.com/">GitHub Universe</a></b> <br>
+      <b>Date: </b>September 13-15, 2016 <br>
+      <b>Location: </b>San Fransisco, US <br>
+      <b>Twitter: </b><a href="https://twitter.com/githubuniverse">@githubuniverse</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <a href="http://warsaw2016.codemotionworld.com/">
       <img src="/img/blog/2016/conferences/CodemoWarsaw-logo.png"></a>
     </td>
     <td>
-      <b><a href="http://warsaw2016.codemotionworld.com/">Codemotion WARSAW</a></b> <br>
+      <b><a href="http://warsaw2016.codemotionworld.com/">Codemotion Warsaw</a></b> <br>
       <b>Date: </b>September 15-16, 2016 <br>
       <b>Location: </b>Warsaw, Poland <br>
       <b>Twitter: </b><a href="https://twitter.com/CodemoWarsaw">@CodemoWarsaw</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://jsfoo.in/2016/">
+      <img src="/img/blog/2016/conferences/jsfoo-logo.png"></a>
+    </td>
+    <td>
+      <b><a href="https://jsfoo.in/2016/">JSFoo</a></b> <br>
+      <b>Date: </b>September 15-16, 2016 <br>
+      <b>Location: </b>Bangalore, India <br>
+      <b>Twitter: </b><a href="https://twitter.com/jsfoo">@jsfoo</a>
     </td>
   </tr>
 </table>
@@ -163,6 +193,21 @@ A huge **Thank You!** to all conferences who support our students and provide fr
 <table>
   <tr>
     <td>
+      <a href="https://za.pycon.org/">
+      <img src="/img/blog/2016/conferences/pycon-za-logo.png"></a>
+    </td>
+    <td>
+      <b><a href="https://za.pycon.org/">PyCon ZA</a></b> <br>
+      <b>Date: </b>October 6-7, 2016 <br>
+      <b>Location: </b>Cape Town, SA <br>
+      <b>Twitter: </b><a href="https://twitter.com/pyconza">@pyconza</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <a href="http://connect-js.com/">
       <img src="/img/blog/2016/conferences/connect-tech-logo.png"></a>
     </td>
@@ -171,6 +216,21 @@ A huge **Thank You!** to all conferences who support our students and provide fr
       <b>Date: </b> October 20-22, 2016 <br>
       <b>Location: </b> Atlanta, US <br>
       <b>Twitter: </b><a href="https://twitter.com/connect_js">@connect_js</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="http://berlin2016.codemotionworld.com/">
+      <img src="/img/blog/2016/conferences/codemoberlin-logo.png"></a>
+    </td>
+    <td>
+      <b><a href="http://berlin2016.codemotionworld.com/">Codemotion Berlin</a></b> <br>
+      <b>Date: </b>October 24-25, 2016 <br>
+      <b>Location: </b>Berlin, Germany <br>
+      <b>Twitter: </b><a href="https://twitter.com/codemoberlin">@codemoberlin</a>
     </td>
   </tr>
 </table>
@@ -193,6 +253,66 @@ A huge **Thank You!** to all conferences who support our students and provide fr
 <table>
   <tr>
     <td>
+      <a href="https://beyondtellerrand.com">
+      <img src="/img/blog/2016/conferences/beyond-tellerrand-logo.png"></a>
+    </td>
+    <td>
+      <b><a href="https://beyondtellerrand.com">Beyond Tellerrand</a></b> <br>
+      <b>Date: </b>November 7-9, 2016 <br>
+      <b>Location: </b>Berlin, Germany <br>
+      <b>Twitter: </b><a href="https://twitter.com/btconf">@btconf</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://gotocon.com/berlin-2016/">
+      <img src="/img/blog/2016/conferences/goto-berlin-logo.png"></a>
+    </td>
+    <td>
+      <b><a href="https://gotocon.com/berlin-2016/">GoTo Berlin</a></b> <br>
+      <b>Date: </b>November 14-16, 2016 <br>
+      <b>Location: </b>Berlin, Germany <br>
+      <b>Twitter: </b><a href="https://twitter.com/gotober">@gotober</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="http://www.dotjs.io/">
+      <img src="/img/blog/2016/conferences/dotjs-logo.png"></a>
+    </td>
+    <td>
+      <b><a href="http://www.dotjs.io/">dotJS</a></b> <br>
+      <b>Date: </b>December 2, 2016 <br>
+      <b>Location: </b>Paris, France <br>
+      <b>Twitter: </b><a href="https://twitter.com/dotJS">@dotJS</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="http://rubyconfindia.org/">
+      <img src="/img/blog/2016/conferences/rubyconf-india-logo.png"></a>
+    </td>
+    <td>
+      <b><a href="http://rubyconfindia.org/">RubyConf India</a></b> <br>
+      <b>Date: </b>January 27-29, 2017 <br>
+      <b>Location: </b>Le Meridien, Kochi, India <br>
+      <b>Twitter: </b><a href="https://twitter.com/RubyConfIndia">@RubyConfIndia</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <a href="http://rubyconf.org.au/2017">
       <img src="/img/blog/2016/conferences/rubyconf-au-logo.jpg"></a>
     </td>
@@ -201,6 +321,21 @@ A huge **Thank You!** to all conferences who support our students and provide fr
       <b>Date: </b> February 9-10, 2017 <br>
       <b>Location: </b> Melbourne, Australia <br>
       <b>Twitter: </b> <a href="https://twitter.com/rubyconf_au">@rubyconf_au</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="http://2017.fossasia.org/">
+      <img src="/img/blog/2016/conferences/fossasia-logo.png"></a>
+    </td>
+    <td>
+      <b><a href="http://2017.fossasia.org/">FOSSASIA</a></b> <br>
+      <b>Date: </b>March 17-19, 2016 <br>
+      <b>Location: </b>Singapore <br>
+      <b>Twitter: </b><a href="https://twitter.com/fossasia">@fossasia</a>
     </td>
   </tr>
 </table>
