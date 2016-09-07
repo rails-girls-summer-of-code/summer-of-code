@@ -1,8 +1,8 @@
 ---
 title: More conferences 2016
 layout: post
-created_at: Wed Sep 7 2016
-permalink: blog/2016-09-07-conferences-part2
+created_at: Thu Sep 8 2016
+permalink: blog/2016-09-08-conferences-part2
 current: blog
 author: Maria
 twitter: RailsGirlsSoC
