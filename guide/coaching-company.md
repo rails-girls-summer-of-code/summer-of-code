@@ -19,7 +19,7 @@ access to coaches is extremely valuable. Companies that provide this work enviro
 
 * <a href="#q3">What does a Coaching Company do?</a>
 * <a href="#q1">Why should we become a Coaching Company?</a>
-* <a href="#q5">Where are Coaching Companies located?</a>x
+* <a href="#q5">Where are Coaching Companies located?</a>
 * <a href="#q6">How to become a Coaching Company</a>
 * <a href="#q6a">An example how to become a Coaching Company</a>
 * <a href="#q4b">What if our team is not chosen?</a>
@@ -31,16 +31,16 @@ access to coaches is extremely valuable. Companies that provide this work enviro
 * A coaching company provides a home for a team for three months including:
 	* a dedicated space in an office from July - September
 	* available coaches for questions and support
-	* an inclusive culture and safe space 
+	* an inclusive culture and safe space
 
 <div class="resize">
 	<img src="/img/guides/coaching_company_rapidftr.jpg">
 </div>
 <font color="grey"><small><i>Coaching Company SoundCloud (Image: Team RapidFTR)</i></small></font>
 
-You share your office space two new and motivated developers - as well as introduce them to your working culture and support them throughout their journey. The teams are required to have at least two dedicated local coaches. 
+You share your office space two new and motivated developers - as well as introduce them to your working culture and support them throughout their journey. The teams are required to have at least two dedicated local coaches.
 
-Furthermore it is totally up to you, how else you would like to involve the team. Maybe they will have daily stand-ups with the coaches, you can invite them to lunch and meetups or workshops. The teams will additionally have access to our #helpdesk Slack channel where they can get help from a team of remote coaches who are available for all teams of RGSoC. 
+Furthermore it is totally up to you, how else you would like to involve the team. Maybe they will have daily stand-ups with the coaches, you can invite them to lunch and meetups or workshops. The teams will additionally have access to our #helpdesk Slack channel where they can get help from a team of remote coaches who are available for all teams of RGSoC.
 
 Any company with a respectful and inclusive culture, desk space, good internet, and a team of developers can make a good Coaching Company. Some selected companies who have been Coaching Companies in the past years are: Absolventa, Travis CI, SoundCloud, NIRD, GitHub, 6Wunderkinder.
 
@@ -156,7 +156,7 @@ Read their full blog post: <a href="http://devnull.absolventa.de/2016/02/25/we-w
 
 <h3 id="q4b">What if our team is not chosen?</h3>
 
-The teams have to apply for Rails Girls Summer of Code and usually we can only fund a small number of teams, but get a lot more applications. 
+The teams have to apply for Rails Girls Summer of Code and usually we can only fund a small number of teams, but get a lot more applications.
 
 If your team is not chosen (neither as a sponsored nor a volunteer team), you are still free to do your own summer of code together with two very passionate women working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions during the summer.
 

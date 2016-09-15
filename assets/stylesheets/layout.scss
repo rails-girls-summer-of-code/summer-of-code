@@ -21,6 +21,18 @@ article li {
   }
 }
 
+@media screen and (max-width: $screen-xs-max) {
+    h1 {
+      font-size: 2.3em;
+    }
+    h2 {
+      font-size: 1.9em;
+    }
+    h3 {
+      font-size: 1.6em;
+    }
+  }
+
 a {
   color: $red;
 }
@@ -229,19 +241,21 @@ a.button-burger {
   p {
     margin-bottom: 0;
   }
-  &:after {
-    content: "";
-    position: absolute;
-    top: -3%;
-    right: 20%;
-    display: block;
-    width: 175px;
-    height: 150px;
-    background: {
-      repeat: no-repeat;
-      size: cover;
-      image: url(../images/megaphone.png);
+  @media screen and (min-width: $screen-md) {
+    &:after {
+      content: "";
+      position: absolute;
+      top: -3%;
+      right: 20%;
+      display: block;
+      width: 175px;
+      height: 150px;
+      background: {
+        repeat: no-repeat;
+        size: cover;
+        image: url(../images/megaphone.png);
     }
+  }
   }
 }
 .footer-child {
@@ -276,7 +290,7 @@ a.button-burger {
     }
     .fa {
       margin-right: .3em;
-      font-size: 22px
+      font-size: 22px;
     }
   }
 }
@@ -403,19 +417,6 @@ a.button-burger {
   h4 {
     margin-top: .8em;
     margin-bottom: .1em
-  }
-}
-
-.conference-table {
-  table {
-    margin-top: 2em;
-    margin-bottom: 2em
-  }
-  td {
-    padding-right: 1em
-  }
-  img {
-    width: 200px
   }
 }
 
