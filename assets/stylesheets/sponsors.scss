@@ -283,20 +283,21 @@
   align-items: center;
   justify-content: space-between;
   @media screen and (max-width: 544px) {
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
     align-items: flex-start;
   }
 }
 
 .conference-logo {
-  flex: 1 1 35%;
+  flex: 1 1 100%;
   @media screen and (max-width: 544px) {
     margin: 0;
   }
 }
 
 .conference-text {
-  flex: 1 1 60%;
+  flex: 1 1 100%;
   margin-left: 1em;
   @media screen and (max-width: 544px) {
     margin: 0 0 2em 0;
