@@ -79,11 +79,26 @@ We are not able to support our students with travel & accommodation. If you have
 
 Interested? Any further questions? <a href="mailto:summer-of-code@railsgirls.com">Write us an email</a> and we can talk about the details.
 
-<h2 id="conferences">Conference Sponsors in 2016 (incomplete list)</h2>
+<h2 id="conferences">Conference Sponsors in 2016</h2>
 
 A huge **Thank You!** to all conferences who support our students and provide free tickets for the 2016 edition.
 
 <section class="conferences-container">
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://githubuniverse.com/">
+      <img src="/img/blog/2016/conferences/github-universe-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://githubuniverse.com/">GitHub Universe</a></b> <br>
+      <b>Date: </b>September 13-15, 2016 <br>
+      <b>Location: </b>San Fransisco, US <br>
+      <b>Twitter: </b><a href="https://twitter.com/githubuniverse">@githubuniverse</a>
+    </p>
+  </div>
+
+
   <div class="conference-item">
     <p class="conference-logo">
       <a href="http://warsaw2016.codemotionworld.com/">
@@ -98,6 +113,21 @@ A huge **Thank You!** to all conferences who support our students and provide fr
     </p>
   </div>
 
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="https://jsfoo.in/2016/">
+      <img src="/img/blog/2016/conferences/jsfoo-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="https://jsfoo.in/2016/">JSFoo</a></b> <br>
+      <b>Date: </b>September 15-16, 2016 <br>
+      <b>Location: </b>Bangalore, India <br>
+      <b>Twitter: </b><a href="https://twitter.com/jsfoo">@jsfoo</a>
+    </p>
+  </div>
+
+
   <div class="conference-item">
     <p class="conference-logo">
       <a href="http://www.thestrangeloop.com">
@@ -106,7 +136,7 @@ A huge **Thank You!** to all conferences who support our students and provide fr
     </p>
     <p class="conference-text">
       <b><a href="http://www.thestrangeloop.com">The StrangeLoop</a></b> <br>
-      <b>Codemotion WARSAW</b> <br>
+      <b>The StrangeLoop</b> <br>
       <b>Date: </b>September 15-17, 2016 <br>
       <b>Location: </b>St. Louis, MO, US <br>
       <b>Twitter: </b><a href="https://twitter.com/strangeloop_stl">@strangeloop_stl</a>
@@ -156,6 +186,19 @@ A huge **Thank You!** to all conferences who support our students and provide fr
 
   <div class="conference-item">
     <p class="conference-logo">
+      <a href="https://za.pycon.org/">
+      <img src="/img/blog/2016/conferences/pycon-za-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="https://za.pycon.org/">PyCon ZA</a></b> <br>
+      <b>Date: </b>October 6-7, 2016 <br>
+      <b>Location: </b>Cape Town, SA <br>
+      <b>Twitter: </b><a href="https://twitter.com/pyconza">@pyconza</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
       <a href="http://connect-js.com/">
         <img src="/img/blog/2016/conferences/connect-tech-logo.png">
       </a>
@@ -167,6 +210,20 @@ A huge **Thank You!** to all conferences who support our students and provide fr
       <b>Twitter: </b><a href="https://twitter.com/connect_js">@connect_js</a>
     </p>
   </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://berlin2016.codemotionworld.com/">
+      <img src="/img/blog/2016/conferences/codemoberlin-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://berlin2016.codemotionworld.com/">Codemotion Berlin</a></b> <br>
+      <b>Date: </b>October 24-25, 2016 <br>
+      <b>Location: </b>Berlin, Germany <br>
+      <b>Twitter: </b><a href="https://twitter.com/codemoberlin">@codemoberlin</a>
+    </p>
+  </div>
+
 
   <div class="conference-item">
     <p class="conference-logo">
@@ -184,6 +241,62 @@ A huge **Thank You!** to all conferences who support our students and provide fr
 
   <div class="conference-item">
     <p class="conference-logo">
+      <a href="https://beyondtellerrand.com">
+      <img src="/img/blog/2016/conferences/beyond-tellerrand-logo.png"></a>
+    </p>
+    <p class= "conference-text">
+      <b><a href="https://beyondtellerrand.com">Beyond Tellerrand</a></b> <br>
+      <b>Date: </b>November 7-9, 2016 <br>
+      <b>Location: </b>Berlin, Germany <br>
+      <b>Twitter: </b><a href="https://twitter.com/btconf">@btconf</a>
+    </p>
+  </div>
+
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="https://gotocon.com/berlin-2016/">
+      <img src="/img/blog/2016/conferences/goto-berlin-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="https://gotocon.com/berlin-2016/">GoTo Berlin</a></b> <br>
+      <b>Date: </b>November 14-16, 2016 <br>
+      <b>Location: </b>Berlin, Germany <br>
+      <b>Twitter: </b><a href="https://twitter.com/gotober">@gotober</a>
+    </p>
+  </div>
+
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://www.dotjs.io/">
+      <img src="/img/blog/2016/conferences/dotjs-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://www.dotjs.io/">dotJS</a></b> <br>
+      <b>Date: </b>December 2, 2016 <br>
+      <b>Location: </b>Paris, France <br>
+      <b>Twitter: </b><a href="https://twitter.com/dotJS">@dotJS</a>
+    </p>
+  </div>
+
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://rubyconfindia.org/">
+      <img src="/img/blog/2016/conferences/rubyconf-india-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://rubyconfindia.org/">RubyConf India</a></b> <br>
+      <b>Date: </b>January 27-29, 2017 <br>
+      <b>Location: </b>Le Meridien, Kochi, India <br>
+      <b>Twitter: </b><a href="https://twitter.com/RubyConfIndia">@RubyConfIndia</a>
+    </p>
+  </div>
+
+
+  <div class="conference-item">
+    <p class="conference-logo">
       <a href="http://rubyconf.org.au/2017">
         <img src="/img/blog/2016/conferences/rubyconf-au-logo.jpg">
       </a>
@@ -195,4 +308,18 @@ A huge **Thank You!** to all conferences who support our students and provide fr
       <b>Twitter: </b> <a href="https://twitter.com/rubyconf_au">@rubyconf_au</a>
     </p>
   </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://2017.fossasia.org/">
+      <img src="/img/blog/2016/conferences/fossasia-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://2017.fossasia.org/">FOSSASIA</a></b> <br>
+      <b>Date: </b>March 17-19, 2016 <br>
+      <b>Location: </b>Singapore <br>
+      <b>Twitter: </b><a href="https://twitter.com/fossasia">@fossasia</a>
+    </p>
+  </div>
+
 </section>
