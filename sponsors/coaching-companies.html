@@ -10,26 +10,38 @@ permalink: sponsors/coaching-companies/
   <div class="wrapper clearfix">
     <h1>{{page.title}}</h1>
 
-    <section class="sponsors-intro">
-
-      
-    </section>
+    <!-- <section class="sponsors-intro">
+    </section> -->
 
     <section class="sponsors-list">
-    <ul>
+    <!-- <ul>
       {% for company in site.data.companies %}
         <li id="{{company.id}}" class="row">
-          <div class="sponsors companies sponsors-logo col-md-4">
+          <div class="sponsors companies sponsors-logo col-md-3">
             <a href="{{ company.url }}" class="{{ company.id }}" target="_blank"></a>
-          </div> 
-          <div class="sponsors-text col-md-8">
+          </div>
+          <div class="sponsors-text">
             Location: {{company.location}}
             <br>Hosted Team: {{company.team}}
           </div>
 
         </li>
       {% endfor %}
-    </ul>
+    </ul> -->
+
+    <div class="coaching-container">
+      {% for company in site.data.companies %}
+        <div id="{{company.id}}" class="coaching-item">
+          <p class="coaching-link-box"><a href="{{ company.url }}" class="{{ company.id }}" target="_blank">
+            <img src="/img/companies/{{ company.id }}.png" class="coaching-logo">
+          </a></p>
+          <p class="sponsors-text">
+            Location: {{company.location}}
+            <br>Hosted Team: {{company.team}}
+          </p>
+        </div>
+      {% endfor %}
+    </div>
     </section>
   </div>
 </section>
