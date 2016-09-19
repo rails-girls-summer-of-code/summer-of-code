@@ -6,10 +6,12 @@ permalink: blog/2016-09-19-The-Miracle
 current: blog
 author: Nada Ashraf and Mayar Alaa
 twitter: RubysSecretteam
+categories:
+- student-posts
 ---
 The Miracle <3
 
-![Ruby's Secret Team](/img/blog/2016/2016-09-19-RGSoC-dayoff.jpg.jpg){RGSoC-dayoff}
+![Ruby's Secret Team](/img/blog/2016/2016-09-19-RGSoC-dayoff.jpg){RGSoC-dayoff}
 
 
 Learning Ruby on Rails and working on some applications, We thought we became experts, till the very first week of July.. Suddenly, we found ourselves sailing on a very small boat, on a deep ocean, stuck in a very bad storm, not having any supplies to survive except hope, perseverance and determination. Day by day, we started to enjoy this adventure between the waves. Together we decided to fight these rough waves, the waves of ignorance. We discovered that we still have a lot to learn.
