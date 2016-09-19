@@ -10,7 +10,7 @@ twitter: RubysSecretteam
 The Miracle <3
 
 ![Ruby's Secret Team](/img/blog/2016/2016-09-19-RGSoC-dayoff.jpg.jpg){:class="img-responsive"}
-https://www.flickr.com/photos/143847572@N07/29166631394/in/dateposted-public/
+
 
 Learning Ruby on Rails and working on some applications, We thought we became experts, till the very first week of July.. Suddenly, we found ourselves sailing on a very small boat, on a deep ocean, stuck in a very bad storm, not having any supplies to survive except hope, perseverance and determination. Day by day, we started to enjoy this adventure between the waves. Together we decided to fight these rough waves, the waves of ignorance. We discovered that we still have a lot to learn.
 In our first call with our beloved supervisor Linda, she asked us a question: “what are your expectations after the RGSoC experience?" Our answer was mainly focused on the technical experience that we would gain , but now, after two and a half months we discovered that  not only our technical background was enriched but also our non-technical.
