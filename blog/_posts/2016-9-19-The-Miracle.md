@@ -1,7 +1,7 @@
 ---
 title: The Miracle
 layout: post
-created_at: 2016-09-19
+created_at: Mon Sept 19 2016
 permalink: blog/2016-09-19-The-Miracle
 current: blog
 author: Nada Ashraf and Mayar Alaa
