@@ -29,11 +29,11 @@ Speaking of all those achievements it's time to also mention failures. We worked
 
 ## <span class="color-red">Oooooooooooooooooom</span>
 
-Having all about programming was fun, even on our #rgsocdayoff we didn't stop programming. Instead on programming on our computers we preferred to connect with an IT-monk in Thailand and program on our minds on that special day.
+Having all about programming was fun, even on our #rgsocdayoff we didn't stop programming. Instead of programming on our computers we preferred to connect with an IT-monk in Thailand and program on our minds on that special day.
 
-![#rgsocdayoff](/img/blog/2016/2016-09-21-rgsocdayoff.png) <font color="grey"><small><i>Programming our minds on the #rgsocdayoff (Image: Screenshot of <a href="https://twitter.com/starkcoffee/status/766562289084489728">Duana's Tweet</a>by Team LoadToCode)</i></small></font><br>
+![#rgsocdayoff](/img/blog/2016/2016-09-21-rgsocdayoff.png) <font color="grey"><small><i>Programming our minds on the #rgsocdayoff (Image: Screenshot of <a href="https://twitter.com/starkcoffee/status/766562289084489728">Duana's Tweet</a> by Team LoadToCode)</i></small></font><br>
 
-## <span class="color-red">Whats next?</span>
+## <span class="color-red">What's next?</span>
 
 At the beginning we couldn't imagine that this Rails Girls Summer of Code would end somehow someday... Now that there are only a few days of it left, we can actually see the end coming /o\ ! However, we know that this Summer of Code is meant to be a start of something bigger and not only a short & intense moment of coding in our lives. So we are preparing ourselves to keep working on code and watch out for internship opportunities. Excitingly, we will be able to share our journey by attending conferences (yes, you've read it right, conferenceS(!) ) and hopefully meet many of the RGSoC people in real life! So to help us keep going, meeting more Ruby-enthusiasts and getting more into conference world of code, we are invited to
 * <a href="https://rubyconf.pt">RubyConfPt</a> in Braga/Portugal at the end of October and to
