@@ -15,7 +15,7 @@ Two months ago we blogged about our start — about us being [loaded to code](/b
 
 ![LoadtoCode KANBAN](/img/blog/2016/2016-09-21-KANBAN.gif) <font color="grey"><small><i>READY, STEADY, PUSH, DONE: Our KANBAN-Board in movement! (Image: Team LoadToCode)</i></small></font><br>
 
-## <span class="color-red">Sharing is caring is <3 is RGSoC!</span
+## <span class="color-red">Sharing is caring is <3 is RGSoC!</span>
 
 With this newly created structure of walking the (KANBAN-)board in the morning, we were able to have more awareness on the tasks and reach out to our amazing coaches more effectively. Speaking of it, when RGSoC taught us one thing then it was for sure support and patience. We were lucky and had those qualities in person: Duana, Remy and Sergio. Having the "I’m learning so much!"-attitude, as all of our coaches had, is the best present in the world to us newbies. Newbies, having no clue at all and asking how it works over and over again. Having passionate supporters which are fighting for a world without stupid questions is the most valuable RGSoC experience. Next to the great coaches in the SoundCloud-Office the #helpdesk-rgsoc-channel was always there when we needed it. <a href="https://github.com/">GIT</a> almost became our friend — ALMOST.
 
