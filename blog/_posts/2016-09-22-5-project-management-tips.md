@@ -68,7 +68,7 @@ Often you might feel that it's not necessary because:
 * nobody demands notes from me, so why would I lose precious time writing them;
 * and my personal favorite: we *won't forget* this anyway.
 
-Time goes, things change. Sometimes it's very useful to **refer to history**, whether you want to understand why things went the way they went, or need facts to argue with someone, want to give a quick update on the project to someone who wasn't there with the team for some time.
+Time goes, things change. Sometimes it's very useful to **refer to history**, whether you want to understand why things went the way they went, need facts to argue with someone, or want to give a quick update on the project to someone who wasn't there with the team for some time.
 
 ### <span class="color-red">5. Stay in touch with the project maintainer</span>
 Whenever you have a customer, a product owner or an OSS project maintainer — a person who is interested in developing a project — it's good to keep them in the loop. Show them what you have accomplished every once in a while, even if it's not a big piece of software and even if you send pull requests anyway.
