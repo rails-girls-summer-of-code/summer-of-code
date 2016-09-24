@@ -9,7 +9,6 @@ twitter: HeartRGSoC_sf
 categories:
 - student-posts
 ---
-# A Universe of Creativity and Curiosity
 
 ![GitHub Universe Flag](/img/blog/2016/Github Universe/universe.png)<font color="grey"><small><i>Photo taken by Patricia Arbona</i></small></font>
 
