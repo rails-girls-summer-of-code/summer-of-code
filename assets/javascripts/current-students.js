@@ -8,7 +8,7 @@ CurrentStudents.prototype = {
 
 	queryUrl: 'https://teams.railsgirlssummerofcode.org/students.json',
 	queryData: {},
-	// see getTeamFromData
+	// see getStudentsPerTeam
 	teams: [],
 
 	init: function() {
@@ -16,8 +16,6 @@ CurrentStudents.prototype = {
 		$.get(this.queryUrl)
 			.done(function(data) {
 				this.queryData = data;
-				// self.getRolesFromData(this.queryData);
-				// self.getTeamFromData(this.queryData);
 				self.getStudentsPerTeam(this.queryData);
 				self.buildPage(this.queryData);
 				$('.is-loading').removeClass('is-loading');
@@ -26,31 +24,16 @@ CurrentStudents.prototype = {
 				console.log('That didn\'t work. Maybe a CORS thing?');
 			});
 	},
-	// iterates over data and creates an array of all team names
-	// TODO: might be overwritten by getStudentsPerTeam!
-	// And indeed not be necessary, since team name is part of the array there.
-	// getTeamFromData: function(data) {
-	// 	var self = this;
-	// 	$.each(data, function(k, v){
-	// 		$.each(v.roles, function(key, val) {
-	// 			if($.inArray(val.team.name, self.teams) === -1) {
-	// 				self.teams.push(val.team.name);
-	// 			}
-	// 		});
-	// 	});
-	// },
-
 	// Iterates over data and creates an array
 	getStudentsPerTeam: function(data) {
 		var self = this;
 		$.each(data, function(k, v) {
-			// Aiming for this array:
-			// [{teamName: YEW, teamMembers: [{jeweilige Students aus data'}]}]
+			// Structure for this array:
+			// [{teamName: name, teamMembers: [{respective students from data}]}]
 			var teamName = v.roles[0].team.name;
 
-
-			// leere Variable, die in der for-loop befüllt und im if-Statement
-			// genutzt wird
+			// empty variable, which is filled in the for loop and
+			// used in the if statement
 			var existingTeam;
 			for (var i = 0; i < self.teams.length; i++) {
 				// Saves recent entry into variable 'team'
@@ -63,18 +46,15 @@ CurrentStudents.prototype = {
 					break;
 				}
 			}
-			// If: wenn Objekt mit dem TeamNamen bereits vorhanden, dann nimm das existierende
-			// und hänge Student in das Member-Array rein
-			// else: kreiere ein neues Objekt
-
+			// If: Object with a team name already exists, use the existing object
+			// and just add the next member
+			// else: create a new object inside the teams-array
 			if (existingTeam) {
 				existingTeam.Members.push(v);
 			}else {
 				var team = {Name: teamName, Members: [v]};
 				self.teams.push(team);
 			}
-
-
 		});
 	},
 	buildPage: function(data) {
@@ -83,7 +63,7 @@ CurrentStudents.prototype = {
 		var avatar = '';
 		console.log(this.teams);
 		// Structure is:
-		// [{teamName: YEW, teamMembers: [{jeweilige Students aus data'}]}]
+		// [{teamName: name, teamMembers: [{respective students from data}]}]
 		$.each(this.teams, function(k, v) {
 			output += '<h2>'+ 'Team ' + v.Name +'</h2>';
 			output += '<ul class="list--none list--team Grid--5">';
