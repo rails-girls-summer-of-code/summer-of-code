@@ -1,5 +1,5 @@
 ---
-title: “Amazing summer journey from RGSOC 2016 team Rookies :D"
+title: Amazing summer journey from RGSOC 2016 team Rookies :D
 layout: post
 created_at: Sun Sep 25 2016
 permalink: blog/2016-09-25-Amazing-summer-journey-from-RGSOC-2016-team-Rookies
@@ -14,7 +14,7 @@ Hey, we are Team [Rookies](https://twitter.com/hoodierookies). Our summer story 
 And,,,,, Now, are you ready to listen our amazing & exciting summer journey? :D
 
 ![Summary of our Hoodie-RGSoC summer journey](/img/blog/2016/team-Rookies-SummryJourney.jpg)<br>
-<font color="grey"><small><i>This is a visualization of our Hoodie-RGSoC summer journey.(Image: HyeSoo)</i></small></font>
+<font color="grey"><small><i>This is a visualization of our Hoodie-RGSoC summer journey. (Image: HyeSoo)</i></small></font>
 
 ## Positive mindset & Take an action
 
@@ -22,7 +22,7 @@ It has been a happy summer for us to grow up and make progress in our __Hoodie d
 We also have been wondering how we can write a clean and efficient code and how we can broaden our horizon as a developer. While we were talking with the mentor and coaches, we learned an important lesson. If we just read lots of books and do not __take an action__ to make an application, we are likely to forget what we have read/studied. But if we practice what we read by getting our hands dirty by making actual applications, we can grasp more concrete concepts by experiences. We are happy that we can approach current/future projects with a positive mindset and walk through them in a better direction.
 
 ![2nd Monthly call with a mentor, coaches and a supervisor](/img/blog/2016/team-Rookies-Monthlycall.png)<br>
-<font color="grey"><small><i>Tehetena is in the center, from the bottom left are Esko, HyeSoo, Omid, Pilar and Gregor.(Image: Gregor)</i></small></font>
+<font color="grey"><small><i>Tehetena is in the center, from the bottom left are Esko, HyeSoo, Omid, Pilar and Gregor. (Image: Gregor)</i></small></font>
 
 ## Improvements and progress of Team Rookies' project
 
@@ -31,7 +31,7 @@ While implementing several features for our project, we used ‘event.preventDef
 We also learned two advanced JS topics. One is ‘promise’ and ‘closure’. We both have never worked with promise and closure before. It took us a while to grasp the concepts. Thanks to Gregor's helpful tutorials, we have managed to work with promises for making our API work asynchronously and closure for our API safer from the scope of the anonymous function with a private variable.
 
 ![Promise and Closure](/img/blog/2016/team-Rookies-code.png)<br>
-<font color="grey"><small><i>This is an example of our API which with promise and closure.(Image: Tehetena)</i></small></font>
+<font color="grey"><small><i>This is an example of our API which with promise and closure. (Image: Tehetena)</i></small></font>
 
 When we reviewed the [code feedback](https://github.com/Rookies-RGSOC2016/hoodie-electron-app/commits/gh-pages) done by Gregor, we learned how to clean up our current code and how to make an uniform format with a standard style throughout our code.
 The other important thing we have learned this month was working with APIs. In the beginning our application main.js file contained all its logics and methods on one long JavaScript file. Now we have tried to split the code into several different tags, using __‘Riot.js’__, so that we can manage our code more efficiently. [Gregor’s example code](https://github.com/gr2m/riot-router-example) was very helpful to understand how to divide our application into several tags that will show and hide according to the routing.
