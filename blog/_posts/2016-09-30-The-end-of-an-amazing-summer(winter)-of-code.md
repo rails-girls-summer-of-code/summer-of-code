@@ -2,7 +2,7 @@
 title: The end of an amazing summer(winter) of code.
 layout: post
 created_at: Fri sept 30 2016
-permalink: blog/2016-09-30-The-end-of-an-amazing-summer(winter)-of-code.
+permalink: blog/2016-09-30-The-end-of-an-amazing-summer(winter)-of-code
 current: blog
 author: Ramya
 twitter: ramya690
