@@ -43,6 +43,13 @@ We couldn't have make it without a lot of amazing people, it was inspiring to se
 
 Also we would like to thanks to our supervisor Lucas, who always remembered about organizing things and RGSoC Organizers and Sponsors for selecting us and making this summer possible.
 
+### *Codemotion*
+
+On 15th - 16th September we attend the Codemotion Warsaw 2016 Conference. This was a special event for us, not only because of talks but also we  meet our remote coaches from GitLab and talk with RubyCats Team and people from Rebased. For a warm-up we've listen to keynote hosted by James Weaver "Navigating all the knowledge", where we saw how to use programming to find connections between people, things, etc. Conference programme included wide range of interests like TDD techniques, Internet of Things, Machine learning, Agile manifesto, JS, Regex, Continous Integration, Communication and so on. Thanks to RGSoC we spent ispiring time.
+
+![Conference Codemotion Warsaw](/img/blog/2016/kaulah_codemotion_conference.jpg)
+<span><font color="grey"><small><i>Source: KaUlah</i></small></font></span>
+
 ### *What are our plans*
 
 **Ula:**  I've left my job before starting the Summer of Code, so now I'am looking for a new one, or an internship. I hope after RGSoC it will be easier to change my career path.
