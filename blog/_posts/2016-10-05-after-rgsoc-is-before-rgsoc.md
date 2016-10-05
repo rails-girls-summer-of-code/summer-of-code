@@ -35,3 +35,7 @@ After the summer is before the summer! In October, we will tie all loose ends an
 We’ll also be looking for volunteers, organisers, and anyone who wants to lend a hand. If this is something that interests you, [drop us a line](mailto:summer-of-code@railsgirls.com).  
 
 Have a wonderful autumn, and see you next year!
+
+<div class="videoWrapper">
+  <iframe src="https://player.vimeo.com/video/185049421" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
