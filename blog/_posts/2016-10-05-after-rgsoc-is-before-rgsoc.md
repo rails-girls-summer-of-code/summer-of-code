@@ -29,6 +29,10 @@ This year has been an amazing one — and after receiving a Ruby Award from the 
 
 To finish it all off, we’ve collected all of the tweets about the celebrations around the world, thanks to [Twitter Moments](https://twitter.com/i/moments/781856123217448960). Look at these  many happy faces!  
 
+
+![Excerpt from Twitter Moment: celebration at SoundCloud](/img/blog/2016/after-rgsoc-tweet.png)
+<span><font color="grey"><small><i>End-of-Summer celebration at SoundCloud (Image: Anika Lindtner)</i></small></font></span>
+
 ### What’s next?
 
 After the summer is before the summer! In October, we will tie all loose ends and, believe it or not, start working on the 2017 edition of RGSoC. We’re getting most of the team together in Portugal, after [RubyConfPT](http://rubyconf.pt/), to talk about our future plans: improving the program to make the experience for every one even better next year. If you happen to be around in Braga on October 27–28, come say hi! We’d love to chat.
