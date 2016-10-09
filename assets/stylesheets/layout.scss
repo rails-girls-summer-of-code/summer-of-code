@@ -79,6 +79,10 @@ a:active {
     list-style: none;
   }
 
+  > div.container {
+    z-index: 80;
+  }
+
   @media screen and (max-width: $screen-sm) {
     position: fixed;
     top: 0;
@@ -93,6 +97,7 @@ a:active {
   overflow: hidden;
   will-change: height;
   transition: 200ms ease height;
+  z-index: 100;
   ul {
     padding: 1em 0;
     li {
@@ -118,9 +123,14 @@ a:active {
   &.is-open {
     height: auto;
     padding: 0 1.5em;
-    @media screen and (min-width: $screen-md) {
-      height: 230px;
-      padding: 0;
+    @media screen and (max-width: $screen-sm) {
+      background: #eee;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 100px;
+      bottom: 0;
+      overflow: auto;
     }
   }
 }
@@ -207,6 +217,7 @@ a.button-burger {
     display: none;
   }
   &.is-open {
+    text-decoration: none;
     .fa:last-child {
       display: block;
     }
@@ -319,7 +330,7 @@ a.button-burger {
   }
 }
 
-/* BLOG STYLES */ 
+/* BLOG STYLES */
 
 .content--blog {
   .meta {
