@@ -20,10 +20,10 @@ Our project has ended with a functional application that supplements the usage o
 
 ### What's our plan?
 
-Besides improving our project, we look forward to widening our technical skills and open source involvement during this year Hacktoberfest and completing our university study. For Tu An, she hopes to actively apply and hone skills after RGSOC in her internship front front-end web development. Shwetha will continue to explore hardware and software engineering fields in NUS before embarking on a year-long internship of the NUS Overseas College Program. 
+Besides improving our project, we look forward to widening our technical skills and open source involvement during this year Hacktoberfest and completing our university study. For Tu An, she hopes to actively apply and hone skills after RGSoC in her internship in front-end web development. Shwetha will continue to explore hardware and software engineering fields in NUS before embarking on a year-long internship of the NUS Overseas College Program. 
 
 ### Our last words
 
 We can't express enough gratitude towards our amazing mentor, coaches and supervisor throughout this program. We learned technical skills, project management and inter-personal communication, made new friends and honed our character. The lessons about appreciation of one another, timely and transparent communication will remain our key takeaways regardless of our career in the future. 
 
-We really hope that RGSOC and other similar programs will multiply and widen their impact all over the world. Inspirational women and supportive men from these initiatives will continue to advocate for more inclusive and fair education and job opportunities in tech industries.
+We really hope that RGSoC and other similar programs will multiply and widen their impact all over the world. Inspirational women and supportive men from these initiatives will continue to advocate for more inclusive and fair education and job opportunities in tech industries.
