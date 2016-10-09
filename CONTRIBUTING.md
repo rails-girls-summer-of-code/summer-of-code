@@ -60,7 +60,7 @@ Once you're happy with your changes, commit them:
 
 - `git add .`
 - `git commit -m "your commit message"`
-- `git push origin your-branch` (where `your-branch` is the name of the branch you created at the beginning). Yhis will push your changes to `your-branch` of your own fork of the `summer-of-code` repo on github)
+- `git push origin your-branch` (where `your-branch` is the name of the branch you created at the beginning). This will push your changes to `your-branch` of your own fork of the `summer-of-code` repo on github)
 - make a pull request by navigating to your repo (`http://www.github.com/your_username/summer-of-code`) and your branch (`your-branch`), and by clicking the "Compare & Review" button, as explained [here](https://help.github.com/articles/using-pull-requests/).
 
 You can find very thorough information on Pull Requests in [GitHub's documentation](https://help.github.com/articles/creating-a-pull-request/).
