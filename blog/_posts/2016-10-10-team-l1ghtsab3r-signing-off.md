@@ -1,5 +1,5 @@
 ---
-title: “Team l1ghtsab3r signing off...”
+title: Team l1ghtsab3r signing off...
 layout: post
 created_at: Mon Oct 10 2016
 permalink: blog/2016-10-10-team-l1ghtsab3r-signing-off
