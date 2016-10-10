@@ -69,6 +69,7 @@ Thanks to all the amazing teams out there who were also our support system. We l
 ![Team l1ghtsab3r](/img/blog/2016/l1ghtsab3r-helping.gif)<font color="grey"><small><i>Diversify Tech! B) (Credits: Giphy)</i></small></font>
 
 * You can do it, don’t ever think that it’s not the right time, because it IS. There will always be that little voice in your head which will tell you that you’re probably not ready for this. You know what, chuck that voice. ;) Go ahead and be awesome!
+![Team l1ghtsab3r](/img/blog/2016/l1ghtsab3r-motivationalpenguin.gif)<font color="grey"><small><i> Just listen to the penguin (Credits: Giphy)</i></small></font>
 
 * We love the party parrot <3
 ![Team l1ghtsab3r](/img/blog/2016/l1ghtsab3r-partyparrot.gif)<font color="grey"><small><i> Party Parrot ROCKS!!! (Credits: Giphy)</i></small></font>
