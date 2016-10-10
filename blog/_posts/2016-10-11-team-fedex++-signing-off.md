@@ -14,7 +14,7 @@ categories: student-posts
             - [_Roger Federer_](https://twitter.com/rogerfederer "Roger Federer")
 
 ![Team-Fedex++](/img/blog/2016/TeamFedex++intro.jpg)    
-*image taken with proper permissions*  
+*image taken by Sahar's Mom when we were working on the project together*  
 
 As appropriately quoted by Federer, when you start with something really good, it becomes so close to your heart that you don’t want to let it go. So is our connection with the RGSoC program and the community. It’s been 4 months since we became a part of it and it seems this journey had just begun a while ago.
 
@@ -29,7 +29,7 @@ It all started with our selection to Rails Girls Summer of Code as a volunteer t
 
 
 ![Team PyDSA](/img/blog/2016/TeamFedex++pydsa.png)    
-*All images have been taken from Rails Girls Team App with permissions*   
+*Snapshot of the video call attended by all coaches, mentor and supervisor taken by Mansi*   
 
 ### **What we achieved** - Majorly Web App 
 - In the second half of the program, we focussed upon the frontend part of the WebApp of PyDSA.
@@ -37,7 +37,7 @@ It all started with our selection to Rails Girls Summer of Code as a volunteer t
 - Though the PyDSA App is still in development mode, stay tuned for it first official release :)
 
 ![Bubble Sort visualization](/img/blog/2016/TeamFedex++sort.gif) 
-
+*a gif to show the working of Bubble Sort Visualisation created using D3.js by Sahar Siddiqui*
 
 ### **Key Learnings**
 - Never be hesitant to ask your doubts. Clarify as soon as possible or else you would be losing your own time.
@@ -56,7 +56,7 @@ Go girls! :’)
 
      
 ![With Andreas Mueller](/img/blog/2016/TeamFedex++pycon.jpg)    
-*image taken with proper permission* 
+*image with Andreas Mueller who was present as a keynote speaker taken by a friend at PyCon India 2016* 
 
 ### **Thanks to PyDSA Team**
 - On this journey, we met a lot of great people who inspired us at every step and motivated us to push our boundaries and target more.
@@ -66,7 +66,7 @@ Go girls! :’)
 - Also we like to thank the entire RGSoC community. They have done a great job in motivating us and keeping up the spirit all throughout.
 
 ![With Mentors](/img/blog/2016/TeamFedex++mentor.jpg)    
-*image taken with proper permission* 
+*image taken by Mansi Goel with PyDSA mentors - Amit and Sanyam* 
 
 ### **What’s next?**
 - We will be working on the project further and will keep contributing to it.
