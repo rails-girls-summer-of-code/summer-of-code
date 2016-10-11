@@ -112,7 +112,7 @@ not upload images much larger than that (resize them using a very simple image
 manipulation tool of your choosing). As a rule of thumb: An image "heavier"
 than 250 kilobytes is too big. There are several tools you can use online to compress your images, for example [TinyPNG](https://tinypng.com/) or [compressor.io](https://compressor.io).
 
-Please add a line with image credits under each picture, crediting the person who took the photo or created the image by name, or linking to the source of the image if you found it on the internet (URL/website). Last but not least, be sure to respect the privacy of others when uploading photos. **Adding image credits is not mandatory and we will not accept any post without them**.
+Please add a line with image credits under each picture, crediting the person who took the photo or created the image by name, or linking to the source of the image if you found it on the internet (URL/website). Last but not least, be sure to respect the privacy of others when uploading photos. **Adding image credits is  mandatory and we will not accept any post without them**.
 
 ### CSS/inline styles
 
