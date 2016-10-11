@@ -33,7 +33,7 @@ It all started with our selection to Rails Girls Summer of Code as a volunteer t
 
 ### **What we achieved** - Majorly Web App 
 - In the second half of the program, we focussed upon the frontend part of the WebApp of PyDSA.
-- We explored D3.js , tried some things in it and finally made the visualisation of Bubble Sort Algorithm and Graph Data Structure using it. 
+- We explored D3.js, tried some things in it and finally made the visualisation of Bubble Sort Algorithm and Graph Data Structure using it. 
 - Though the PyDSA App is still in development mode, stay tuned for it first official release :)
 
 ![Bubble Sort visualization](/img/blog/2016/TeamFedex++sort.gif) 
@@ -76,7 +76,7 @@ Go girls! :’)
 - We have already formed a ‘Women in Tech Chapter’ in our institute (IIIT-D) along with the other RGSoC participants and Anita Borg Scholars from our institute.
 
 ### **Last Words - Signing Off!**
-Some experiences in life leave such a great impact that all you can remember are the postivities and learnings. They encourage you to carry the legacy forward, inspire others and motivate them like anything. 
+Some experiences in life leave such a great impact that all you can remember are the positivities and learnings. They encourage you to carry the legacy forward, inspire others and motivate them like anything. 
 Our journey in RGSoC was one such experience for us so we can happily say that it is not the end here, it's just the beginning. :D
 
 
