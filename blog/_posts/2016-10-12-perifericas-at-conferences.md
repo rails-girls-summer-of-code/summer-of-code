@@ -57,7 +57,7 @@ I was able to watch international talks with President Beef from [Breakman](http
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-rubyconfbr_PBeef.jpg)<font color="grey"><small><i>Justin Collins aka President Beef. (Image Credits: Geisa Santos)</i></small></font>
 
-![Team Perifericas](https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xpa1/t51.2885-15/e35/14350445_1060519570735293_7930454733205012480_n.jpg)<font color="grey"><small><i>Three simultaneous talks! It was hard to pick one. (Image Credits: Geisa Santos)</i></small></font>
+![Team Perifericas](/img/blog/2016/teamperifericas-conferences-talks.jpg)<font color="grey"><small><i>Three simultaneous talks! It was hard to pick one. (Image Credits: Geisa Santos)</i></small></font>
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-rubyconfbr_Akira.jpg)<font color="grey"><small><i>Akira Matsuda talking about Ruby and community. (Image Credits: Geisa Santos)</i></small></font>
 
