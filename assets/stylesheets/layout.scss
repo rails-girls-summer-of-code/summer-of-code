@@ -79,6 +79,10 @@ a:active {
     list-style: none;
   }
 
+  > div.container {
+    z-index: 80;
+  }
+
   @media screen and (max-width: $screen-sm) {
     position: fixed;
     top: 0;
@@ -93,6 +97,7 @@ a:active {
   overflow: hidden;
   will-change: height;
   transition: 200ms ease height;
+  z-index: 100;
   ul {
     padding: 1em 0;
     li {
@@ -118,9 +123,14 @@ a:active {
   &.is-open {
     height: auto;
     padding: 0 1.5em;
-    @media screen and (min-width: $screen-md) {
-      height: 230px;
-      padding: 0;
+    @media screen and (max-width: $screen-sm) {
+      background: #eee;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 100px;
+      bottom: 0;
+      overflow: auto;
     }
   }
 }
@@ -207,6 +217,7 @@ a.button-burger {
     display: none;
   }
   &.is-open {
+    text-decoration: none;
     .fa:last-child {
       display: block;
     }
@@ -319,32 +330,6 @@ a.button-burger {
   }
 }
 
-.content--blog {
-  .meta {
-    font-style: italic;
-    color: $dark-grey;
-    a {
-      color: $dark-grey;
-      text-decoration: underline;
-    }
-  }
-  img {
-    width: 100%;
-    height: auto;
-  }
-  .smaller {
-    width: 30%;
-    height: auto;
-  }
-  article  {
-    padding-bottom: 3em;
-    margin-bottom: 4em;
-    border-bottom: 1px solid $dark-grey;
-  }
-}
-
-
-
 .list--archive {
   li {
     padding: .2em 0;
@@ -420,52 +405,4 @@ a.button-burger {
   }
 }
 
-.image-credits {
-  color: grey;
-  font-style: italic;
-  font-size: 75%;
-  margin-top: .5em;
-  margin-bottom: 2em;
-}
 
-.students-image-map-4x5 {
-  div {
-    width: 100%;
-    position: relative;
-  }
-  img {
-    width: 100%;
-  }
-  a {
-    position: absolute;
-    width: 25%;
-    height: 20%;
-  }
-  .row1 {
-    top: 0%;
-  }
-  .row2 {
-    top: 20%;
-  }
-  .row3 {
-    top: 40%;
-  }
-  .row4 {
-    top: 60%;
-  }
-  .row5 {
-    top: 80%;
-  }
-  .col1 {
-    left: 0%;
-  }
-  .col2 {
-    left: 25%;
-  }
-  .col3 {
-    left: 50%;
-  }
-  .col4 {
-    left: 75%;
-  }
-}
