@@ -1,8 +1,8 @@
 ---
 title: Perifericas at conferences!
 layout: post
-created_at: Sunday Oct 16 2016
-permalink: blog/2016-10-16-perifericas-at-confereces
+created_at: Wed Oct 12 2016
+permalink: blog/2016-10-12-perifericas-at-conferences
 current: blog
 author: Emma Pinheiro and Geisa Santos
 twitter: RailsGirlsSSA
@@ -29,7 +29,7 @@ Our coach X was there too, talking about [Assembly](https://lampiaosec.github.io
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-secomtec_X.jpg)<font color="grey"><small><i>Coach X talking about Assembly. (Image Credits: Geisa Santos)</i></small></font>
 
-![Team Perifericas](/img/blog/2016/teamperifericas-conferences-secomtec_girls)<font color="grey"><small><i>Geisa and Emma before the talk started. (Image Credits: Geisa Santos)</i></small></font>
+![Team Perifericas](/img/blog/2016/teamperifericas-conferences-secomtec_girls.jpg)<font color="grey"><small><i>Geisa and Emma before the talk started. (Image Credits: Geisa Santos)</i></small></font>
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-secomtec.jpg)<font color="grey"><small><i>Team Perifericas at I SECOMTEC! (Image Credits: SECOMTEC organizers)</i></small></font>
 
