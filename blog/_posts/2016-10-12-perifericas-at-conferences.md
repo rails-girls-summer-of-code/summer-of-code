@@ -1,8 +1,8 @@
 ---
 title: Perifericas at conferences!
 layout: post
-created_at: Sunday Oct 16 2016
-permalink: blog/2016-10-16-perifericas-at-confereces
+created_at: Wednesday Oct 12 2016
+permalink: blog/2016-10-12-perifericas-at-confereces
 current: blog
 author: Emma Pinheiro and Geisa Santos
 twitter: RailsGirlsSSA
@@ -64,8 +64,8 @@ I was able to watch international talks with President Beef from [Breakman](http
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-rubyconfbr_rgscomark.jpg)<font color="grey"><small><i>#RGSoC was heeereee!. (Image Credits: Geisa Santos)</i></small></font>
 
-**Did I mention 3 conferences?
-So, there's one more! Like a bonus. :)**
+**Did I mention 3 conferences?<br>
+So, there's one more! Like a bonus. :)**<br>
 
 <h3>Perifericas at VI EnSI</h3>
 
