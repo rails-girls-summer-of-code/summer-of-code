@@ -72,6 +72,7 @@ Overall we're grateful for the opportunity to grow as software developers under 
 <br>
 Here are our shoutouts in no particular order:
 
+*   [Andrea Kao](https://twitter.com/eirinikos)
 *   [Armin Ronacher](http://lucumr.pocoo.org/about/)
 *   [David Baumgold](https://www.davidbaumgold.com/)
 *   [Ramil Nobleza](https://www.ramencodes.com/)
