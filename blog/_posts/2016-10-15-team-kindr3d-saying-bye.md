@@ -2,7 +2,7 @@
 title: Team kindr3d – Saying Bye!
 layout: post
 created_at: Tue Oct 15 2016
-permalink: blog/2016-07-19-team-kindr3d-saying-bye
+permalink: blog/2016-10-15-team-kindr3d-saying-bye
 current: blog
 author: kindr3d
 twitter: TKindr3d
