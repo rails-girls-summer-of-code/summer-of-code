@@ -1,8 +1,8 @@
 ---
 title: Aloha, Rails Girls Summer of Code and GitHub!
 layout: post
-created_at: Wed Oct 12 2016
-permalink: blog/2016-10-12-Aloha-Rails-Girls-Summer-of-Code-and-GitHub
+created_at: Fri Oct 14 2016
+permalink: blog/2016-10-14-Aloha-Rails-Girls-Summer-of-Code-and-GitHub
 current: blog
 author: Melissa Fabros and Patricia Arbona
 twitter: HeartRGSoC_sf
