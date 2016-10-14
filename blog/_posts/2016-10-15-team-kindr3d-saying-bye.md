@@ -2,7 +2,7 @@
 title: Team kindr3d – Saying Bye!
 layout: post
 created_at: Tue Oct 15 2016
-permalink: blog/2016-07-19-team-kindr3d-saying-hi
+permalink: blog/2016-07-19-team-kindr3d-saying-bye
 current: blog
 author: kindr3d
 twitter: TKindr3d
@@ -15,11 +15,11 @@ categories:
 
 Apparently quite a lot. We wanted to tell you how in one summer we became better developers and hopefully better humans as well.
 
-![BFFs](/img/blog/2016/team-kindr3d-berlin.jpg)
+![BFFs](/img/blog/2016/team-kindr3d-berlin.jpg)*so many memories already!*
 
 We feel so lucky to have spent those three months learning, communicating and building things. We suddenly became part of a bigger community of people who care about each other and are ready to give their time to help beginners. It is very humbling and empowering to feel surrounded by amazing people. But at the same time we became aware of giving back our gratitude to the this community. Also we learned the value of beginners. Our enthusiasm and drive are valuable and and needed in the world where innovation is the king.
 
-![labyrinth 1](http://i.giphy.com/10DNd65ckdlA9q.gif)*beating negativity and self doubt*
+![labyrinth 1](/img/blog/2016/kindr3d-labyrinth-1.gif)*beating negativity and self doubt - Source: giphy*
 
 We’ve also got to work at a big tech agency and look into the life of “real devs” from the inside (spoiler, there is a lot of free food).
 
@@ -27,11 +27,11 @@ We’ve also got to work at a big tech agency and look into the life of “real 
 
 We spent a lot of time carefully picking our project for the summer. Having worked on Discourse, with a whole feature just by ourselves was challenging, to say the least. Yet it also allowed us a great deal of creative freedom. Our mentor [Robin](https://github.com/eviltrout) was so supportive that most times he would encourage us to step out of the road for a while and dig into learning things which were less related to our project just so we would figure out the answers by ourselves.
 
-![labyrinth 2](http://i.giphy.com/3o6ZteSaqojk5pR0WI.gif)*so many winding roads*
+![labyrinth 2](/img/blog/2016/kindr3d-labyrinth-2.gif)*so many winding roads - Source: giphy*
 
 Building a dashboard for the statistics of a forum is not a simple task and we found ourselves jumping from databases, rails api to d3 to ember, sass and templating engines and trying to make sense out of the connexion between all these elements was probably what took us the most time.
 
-![labyrinth 3](http://i.giphy.com/LDigvipQYPfoc.gif)*oh, wait a minute*
+![labyrinth 3](/img/blog/2016/kindr3d-labyrinth-3.gif)*waaaaait! - Source: giphy*
 
 
 Yet for the first time we were working on the big well organised project, where all perks of best practices were apparent. And it has disciplined us quite a bit.
@@ -66,4 +66,4 @@ We are no longer living in the same city, but the summer experience keeps us tog
 
 We are lucky-lucky women who have been surrounded by wonderful people all this summer long. We send love to our patient and supportive supervisor [Max](https://github.com/klappradla) and most zen mentor [Robin](https://github.com/eviltrout). Thanks to the coaches for sticking with us and showing us more than we expected to find. But most of all we send love to the community of people who spend their time to make other people’s day brighter. We love you Rails Girls! Keep on being awesome!
 
-![bright future](http://i.giphy.com/bk8HS9MJFve5q.gif)
+![bright future](/img/blog/2016/kindr3d-labyrinth-4.gif) - Source: giphy
