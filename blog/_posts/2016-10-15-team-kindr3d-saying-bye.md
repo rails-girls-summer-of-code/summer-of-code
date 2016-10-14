@@ -15,9 +15,11 @@ categories:
 
 Apparently quite a lot. We wanted to tell you how in one summer we became better developers and hopefully better humans as well.
 
-![labyrinth 1](http://i.giphy.com/10DNd65ckdlA9q.gif)*beating negativity and self doubt*
+![BFFs](/img/blog/2016/team-kindr3d-berlin.jpg)
 
 We feel so lucky to have spent those three months learning, communicating and building things. We suddenly became part of a bigger community of people who care about each other and are ready to give their time to help beginners. It is very humbling and empowering to feel surrounded by amazing people. But at the same time we became aware of giving back our gratitude to the this community. Also we learned the value of beginners. Our enthusiasm and drive are valuable and and needed in the world where innovation is the king.
+
+![labyrinth 1](http://i.giphy.com/10DNd65ckdlA9q.gif)*beating negativity and self doubt*
 
 We’ve also got to work at a big tech agency and look into the life of “real devs” from the inside (spoiler, there is a lot of free food).
 
@@ -51,7 +53,7 @@ As we tried to make the most of our trip [we met up with the two awesome RGSoC B
 
 **Future**
 
-Without this program we probably would not have gained the confidence to keep on learning and building serious careers in tech. It was really enlightening for both of us to find each other’s support as two women passionate about coding. And then because of rgsoc find more people like us out there. (shoutout to Rails Girls, Techettes, RGSoC, Rubymonstas...).
+Without this program we probably would not have gained the confidence to keep on learning and building serious careers in tech. It was really enlightening for both of us to find each other’s support as two women passionate about coding. And then because of rgsoc find more people like us out there. (shoutout to [Rails Girls](http://railsgirls.com/), [Techettes](http://techettes-frankfurt.com/), [RGSoC](http://railsgirlssummerofcode.org), [Rubymonstas](http://rubymonstas.org/)...).
 Stepping out of isolation and learning together while seeing other people’s works inspire us played a big role in our road to empowerment. Let’s never stop learning from each other, folks!
 
 ![last week of summer weather](/img/blog/2016/team-kindr3d-summer.jpg)*Photo by Veronica Jonsson*
