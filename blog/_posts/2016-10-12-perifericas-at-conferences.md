@@ -1,8 +1,8 @@
 ---
 title: Perifericas at conferences!
 layout: post
-created_at: Sunday Oct 16 2016
-permalink: blog/2016-10-16-perifericas-at-confereces
+created_at: Wednesday Oct 12 2016
+permalink: blog/2016-10-12-perifericas-at-confereces
 current: blog
 author: Emma Pinheiro and Geisa Santos
 twitter: RailsGirlsSSA
@@ -35,8 +35,7 @@ Our coach X was there too, talking about [Assembly](https://lampiaosec.github.io
 
 <h3>Perifericas at Jusbrasil Tech Day</h3>
 
-On the 2 of September, I was at [Jusbrasil Tech Day]((https://medium.com/@tupydabahia/jusbrasil-tech-day-2-de-setembro-2016-32b56c8b86dd#.rni7glrst)), a comemorative event for the 5 years of Jusbrasil - one of the most promissing companies in Bahia and the one of the most accessible [legal portals in Brazil](http://www.jusbrasil.com.br/home).
-
+On the 2 of September, I was at [Jusbrasil Tech Day](https://medium.com/@tupydabahia/jusbrasil-tech-day-2-de-setembro-2016-32b56c8b86dd#.rni7glrst), a comemorative event for the 5 years of Jusbrasil - one of the most promissing companies in Bahia and the one of the most accessible [legal portals in Brazil](http://www.jusbrasil.com.br/home).
 
 They support the local Tech community. The first edition of [Rails Girls Salvador](http://railsgirls.com/salvador201310) was held there.
 It was an opportunity to meet my friends and learn about Docker, Continuos Delivery, project management and others topics, so it was really great.
@@ -48,8 +47,7 @@ It was an opportunity to meet my friends and learn about Docker, Continuos Deliv
 <h3>Perifericas at RubyConf Brazil</h3>
 
 Oh, how i loved to be there!
-So many great talks, so many friends, so many new people I got to met.
-It was my first [RubyConf Brazil](http://www.rubyconf.com.br/). Yay!
+So many great talks, so many friends, so many new people I got to meet. My first [RubyConf Brazil](http://www.rubyconf.com.br/). Yay!
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-rubyconfbr_group.jpg)<font color="grey"><small><i>Geisa representing Team Perifericas at RubyConf BR! (Image Credits: Marla Dore)</i></small></font>
 
