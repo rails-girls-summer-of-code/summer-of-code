@@ -2,7 +2,7 @@
 title: Perifericas at conferences!
 layout: post
 created_at: Wednesday Oct 12 2016
-permalink: blog/2016-10-12-perifericas-at-confereces
+permalink: blog/2016-10-12-perifericas-at-conferences
 current: blog
 author: Emma Pinheiro and Geisa Santos
 twitter: RailsGirlsSSA
@@ -29,7 +29,7 @@ Our coach X was there too, talking about [Assembly](https://lampiaosec.github.io
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-secomtec_X.jpg)<font color="grey"><small><i>Coach X talking about Assembly. (Image Credits: Geisa Santos)</i></small></font>
 
-![Team Perifericas](/img/blog/2016/teamperifericas-conferences-secomtec_girls)<font color="grey"><small><i>Geisa and Emma before the talk started. (Image Credits: Geisa Santos)</i></small></font>
+![Team Perifericas](/img/blog/2016/teamperifericas-conferences-secomtec_girls.jpg)<font color="grey"><small><i>Geisa and Emma before the talk started. (Image Credits: Geisa Santos)</i></small></font>
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-secomtec.jpg)<font color="grey"><small><i>Team Perifericas at I SECOMTEC! (Image Credits: SECOMTEC organizers)</i></small></font>
 
@@ -47,7 +47,7 @@ It was an opportunity to meet my friends and learn about Docker, Continuos Deliv
 <h3>Perifericas at RubyConf Brazil</h3>
 
 Oh, how i loved to be there!
-So many great talks, so many friends, so many new people I got to meet. My first [RubyConf Brazil](http://www.rubyconf.com.br/). Yay!
+So many great talks, so many friends, so many new people I got to met. My first [RubyConf Brazil](http://www.rubyconf.com.br/). Yay!
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-rubyconfbr_group.jpg)<font color="grey"><small><i>Geisa representing Team Perifericas at RubyConf BR! (Image Credits: Marla Dore)</i></small></font>
 
@@ -63,7 +63,7 @@ I was able to watch international talks with President Beef from [Breakman](http
 
 ![Team Perifericas](/img/blog/2016/teamperifericas-conferences-rubyconfbr_rgscomark.jpg)<font color="grey"><small><i>#RGSoC was heeereee!. (Image Credits: Geisa Santos)</i></small></font>
 
-**Did I mention 3 conferences?<br>
+**Did I mention 3 conferences?  
 Well, there's one more! Like a bonus. :)**<br>
 
 <h3>Perifericas at VI EnSI</h3>
