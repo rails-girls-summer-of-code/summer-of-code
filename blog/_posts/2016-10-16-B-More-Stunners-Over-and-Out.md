@@ -13,7 +13,7 @@ categories:
 
 ![teamphoto](/img/blog/2016/ashley.jpeg)
 
-It’s with heavy hearts we bid Rails Girls Summer of Code a farewell. We feel very humble to have been apart of this fellowship. RGSOC has given us the opportunity to not only sharpen in our programming skills, but to also connect with an amazing community and form long-lasting friendships. 
+It’s with heavy hearts we bid Rails Girls Summer of Code a farewell. We feel very humble to have been apart of this fellowship. RGSOC has given us the opportunity to not only sharpen our programming skills, but to also connect with an amazing community and form long-lasting friendships. 
 This summer we had the opportunity to work on the Bundler project alongside supervisor André Arko. We were tasked with the project of making modification to Bundlers’ metrics dashboard so that it can accurately reflect its current metrics. 
 
 
@@ -43,7 +43,7 @@ This summer we had the opportunity to work on the Bundler project alongside supe
 
 
 ### Future plans:
-*Ashley*  - I fully attend to continue working on Bundler/Rubygems.org. There is still a lot of work that needs to be complete within the metrics project! Additionally, I will be starting my new job as a Junior Developer at a local tech company located in Baltimore. :D 
+*Ashley*  - I fully attend to continue working on Bundler/Rubygems.org. There is still a lot of work that needs to be completed within the metrics project! Additionally, I will be starting my new job as a Junior Developer at a local tech company located in Baltimore. :D 
 
 *Ore* - I'm more motivated than ever to finish the project. I got a lot further on the project than I ever thought, which has been a huge boost of confidence. 
 
