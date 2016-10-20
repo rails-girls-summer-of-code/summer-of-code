@@ -85,7 +85,7 @@ We were invited to speak about our RGSoC and a give a talk on how drones , senso
 ![Day 1](/img/blog/2016/presentation.jpg)
 
 
-### African Women in Technology Conference
+### Smart Automation
 
 After speaking at the african women in technology conference, we got another invite to speak about drones , sensors and apps at the first smart Automation conference that took place from 2nd- 3rd september in Nairobi Kenya. We got another chance to network with automation engineers and got to learn about what technology can do in industry automation.
 
@@ -116,17 +116,17 @@ We learnt alot during RGSoC, in addition to what we learnt during the month of l
 
 We cannot say thank you enough to all the people that made RGSoC 2016 a  success for Team Echo atleast. You made it possible for us to learn and be better people. We would like to extend our sincere thanks to the following people;
 
-    **Our mentor**: Florian Bruhin, it has been a real pleasure working with you! Thank you for being liberal and welcoming to newbies like us but now gurus. I would recommend new comers to start with qutebrowser because of the welcoming community. Your were the best mentor and you made RGSoC a great summer for us thank you so much.
+**Our mentor**: Florian Bruhin, it has been a real pleasure working with you! Thank you for being liberal and welcoming to newbies like us but now gurus. I would recommend new comers to start with qutebrowser because of the welcoming community. Your were the best mentor and you made RGSoC a great summer for us thank you so much.
 
-    **Our coaches**: Wilson Kiggundu and Kisitu Augustine, you are the best coaches we could have! We are immensely grateful for all your help and most importantly for taking your busy time off your full time jobs. For staying up for calls with the unfavourable time zones. A big shout out to you.
+**Our coaches**: Wilson Kiggundu and Kisitu Augustine, you are the best coaches we could have! We are immensely grateful for all your help and most importantly for taking your busy time off your full time jobs. For staying up for calls with the unfavourable time zones. A big shout out to you.
 
-    **Our supervisor**: Kasia jarmołkowicz , thanks for all your support, for attending all the meetings, for listening to us and for always encouraging us, we are forever grateful.
-    RGSoC 2016 Teams: Cheers to all the 2016 teams. You helped us, guided us, made us your friends and shared your experiences with us. You made RGSoC a loving community to belong to.
-    RGSoC Organizers: Thank you so much for selecting us from the many  to be a part of this incredible journey. We are so thankful for helping us everytime we needed you, for encouraging us and for making RGSoC a great community.
+**Our supervisor**: Kasia jarmołkowicz , thanks for all your support, for attending all the meetings, for listening to us and for always encouraging us, we are forever grateful.
+RGSoC 2016 Teams: Cheers to all the 2016 teams. You helped us, guided us, made us your friends and shared your experiences with us. You made RGSoC a loving community to belong to.
+RGSoC Organizers: Thank you so much for selecting us from the many  to be a part of this incredible journey. We are so thankful for helping us everytime we needed you, for encouraging us and for making RGSoC a great community.
 
-    **RGSoC Sponsors**: Thank you for making it possible for us to ditch everything else for three months and dive full-time into learning! For the swagg..you really made these months worth it.
+**RGSoC Sponsors**: Thank you for making it possible for us to ditch everything else for three months and dive full-time into learning! For the swagg..you really made these months worth it.
 
-    **Our friends and community**: Thank you for bearing with us and supporting us while we were engaged in our RGSoC. You encouraged and pushed us to continue and pursue our dreams. We shall forever be thankful. Innovation Village, we value all your support, your encouragement, the space you gave us to host Rails Girls Kampala and for giving us a chance to speak at your events. 
+**Our friends and community**: Thank you for bearing with us and supporting us while we were engaged in our RGSoC. You encouraged and pushed us to continue and pursue our dreams. We shall forever be thankful. Innovation Village, we value all your support, your encouragement, the space you gave us to host Rails Girls Kampala and for giving us a chance to speak at your events. 
 
 ### What are our plans after RGSoC ?
 
