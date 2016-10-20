@@ -2,7 +2,7 @@
 title: And the bits goes on...
 layout: post
 created_at: Thursday Oct 20 2016
-permalink: blog/2016-10-20-And-the-bits-goes-on
+permalink: blog/2016-10-20-and-the-bits-goes-on
 current: blog
 author: Geisa Santos and Emma Pinheiro
 twitter: railsgirlsssa
