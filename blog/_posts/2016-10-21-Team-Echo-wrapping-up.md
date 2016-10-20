@@ -10,10 +10,9 @@ categories:
 - student-posts
 ---
 
-### Team Echo Wrapping up up RGSoC
+### Team Echo: Our RGSoC Landing
 
-It has  been three awesome  months of learning, connecting, coding and changing lives.
-We pushed, pulled, squashed, force pushed, gave talks, revived Rails Girls Kampala, interviewed, toured, travelled and became official contributors to qutebrowser.
+Like any flight its like our RGSoC plane just landed .It has  been three awesome  months of learning, connecting, coding and changing lives. We pushed, pulled, squashed, force pushed, gave talks, revived Rails Girls Kampala, interviewed, toured, travelled and became official contributors to qutebrowser.
 
 The unforgettable memories of  updating teams app, responding to emails and slack messages, having our PRs merged, attending conferences, renewing Rails Girls Kampala and so much more made Rails Girls Summer of Code an amazing  experience. The summer is over and we are back to putting what we learnt and our experience to work in our communities.
 
