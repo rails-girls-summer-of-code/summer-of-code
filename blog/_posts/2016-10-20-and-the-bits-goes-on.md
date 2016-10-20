@@ -24,7 +24,7 @@ The first time I invited Emma to get along with me to the applications of Rails 
 
 We pushed ourselves so much to work and study for hours, even in the weekend. We were so worried to disappoint Ana Sofia and our team (mentors and Ines) that we made some sprints in the first week. Only after talking with them we realized that we forget the most important thing: **learning** having fun. RGSoC is not about work.
 
-![Daily meeting](/img/blog/2016/teamperifericas_final_spearkerinnen.jpg)<span class ="image-credits">Sharing ideas and choosing issues at daily meeting.</span><br><font color="grey"><small><i>(Image Credit: Geisa Santos)</i></small></font>
+![Daily meeting](/img/blog/2016/teamperifericas_final_speakerinnen.jpg)<span class ="image-credits">Sharing ideas and choosing issues at daily meeting.</span><br><font color="grey"><small><i>(Image Credit: Geisa Santos)</i></small></font>
 
 We could talk here about impostor syndrome but we want to tell you about how/when we started to believe in ourselves. Hearing our own voice. RGSoC is a journey about of knowledge, a journey of self discover and the better part is you don't have to walk alone. There are a lot of people supporting you in every step. That is most important achievement we get from it: we can do whatever we want to because we are capable of. You don't have to be 100% or an expert from the beginning, in fact you always will be learning.
 
