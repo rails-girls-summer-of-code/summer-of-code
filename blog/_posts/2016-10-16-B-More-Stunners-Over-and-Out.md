@@ -34,7 +34,11 @@ This summer we had the opportunity to work on the Bundler project alongside supe
 
 
 
-![newfriends2](/img/blog/2016/team jam.jpg)
+![newfriends2](/img/blog/2016/team jam.jpg) #### Setting the bar high with Strange Loop
+
+Yes, it's true. Conferences can be diverse and inclusive while being absolutely phenomenal! And now I kind of assuming every tech conference I go to will be the same. 
+The was never a dull moment or boring talk at STL. Every workshop room or auditorium was always packed. I started my time there with the ally skills workshop hosted by [Valerie](). Then moved right onto visualizing deep learning with [](). I truly enjoyed the museum, a literal adult playground. But was again more captivated by the talk Ashley Nelson-Hornstein gave. Talks ranged from using code to map central african classical music tones to "the future of web development" with Paul Kinlan. I even got to see my mentor Andrei give a talk on "damn lies metrics". I was fortunate enough to meet Crystal from launch-code, Ashe Dryden from Alter conf. and Nicola Hughes from thoughtworks and who gave an amazing talk. I want to give a special shout out to Team JaM for letting me join their crew on this amazing adventure. I will definitely be going next year. Thanks you so much Railsgirlssummerofcode form sending me there.
+
 <br/>
 <font color="grey"><small><i> Team Jam and Ore at the Strange Loop Conference.</i></small></font>
 
