@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 
-Hey, we are [HyeSoo](https://github.com/flyjwayur) and [Tehetena](https://github.com/titay2) from team [Rookies](https://twitter.com/hoodierookies).
+Hey, we are [HyeSoo](https://github.com/flyjwayur) and [Tehetena](https://github.com/titay2) from team [Rookies](https://twitter.com/hoodierookies) :D
 
 Team Rookies flied to Copenhagen to participate in 'GotoConf Copenhagen'. It was a huge and lively conference with a beautiful blue color. Tehetena had a personal issue to solve, so we decide that I(HyeSoo) go there on behalf of the team and I shared interesting topics, what I have seen and how was the conference with her. It was a really amazing time to listen interesting talks about speakers' experiences and cutting-edge technologies. It also gave me a chance to meet several inspiring and friendly people from different backgrounds.
 
