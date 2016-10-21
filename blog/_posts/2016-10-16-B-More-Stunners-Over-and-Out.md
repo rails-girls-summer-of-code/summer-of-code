@@ -36,8 +36,14 @@ This summer we had the opportunity to work on the Bundler project alongside supe
 
 ![newfriends2](/img/blog/2016/team jam.jpg) #### Setting the bar high with Strange Loop
 
-Yes, it's true. Conferences can be diverse and inclusive while being absolutely phenomenal! And now I kind of assuming every tech conference I go to will be the same. 
-The was never a dull moment or boring talk at STL. Every workshop room or auditorium was always packed. I started my time there with the ally skills workshop hosted by [Valerie](). Then moved right onto visualizing deep learning with [](). I truly enjoyed the museum, a literal adult playground. But was again more captivated by the talk Ashley Nelson-Hornstein gave. Talks ranged from using code to map central african classical music tones to "the future of web development" with Paul Kinlan. I even got to see my mentor Andrei give a talk on "damn lies metrics". I was fortunate enough to meet Crystal from launch-code, Ashe Dryden from Alter conf. and Nicola Hughes from thoughtworks and who gave an amazing talk. I want to give a special shout out to Team JaM for letting me join their crew on this amazing adventure. I will definitely be going next year. Thanks you so much Railsgirlssummerofcode form sending me there.
+Yes, it is true. Conferences can be diverse and inclusive while being absolutely phenomenal! Now, I hope every tech conference I go to will be just as progressive.
+
+There was never a dull moment or boring talk at STL. Every workshop room or auditorium was consistently packed. I started my experience off with the ally skills workshop hosted by [Valerie Aurora](https://frameshiftconsulting.com/) where I was reminded that even I (a marginalized person) have biases that can be damaging if left unchecked; there's always room for personal growth. [Nicola Hughes](https://twitter.com/GirlMeetsCode) talk, Is it a Bug or a Story, proved that tech can change the way we interact with information and produce justfying results. It affirimed alot about how I believe information shuld be represented. I wont forget how sore my legs were the next day from all the fun I had at City Museum. It was a literal adult playground, it had a 10-story slide and of course I took the trip down.
+The entire audience including myself was captivated by the talk Ashley Nelson-Hornstein gave on the intersection of technology and hummanities. She really hit home when she introduced how gaming has been used to cope with cancer and depression.
+Talks ranged from deconstructing and systematising music from central africa by [Chris Ford](https://twitter.com/ctford)
+to "the future of web development" with [Paul Kinlan](https://twitter.com/Paul_Kinlan). I even got to see my mentor [Andrei Arko](https://twitter.com/indirect) give a talk, LIES, DAMN LIES, AND METRICS, on the very project 
+I was working on. 
+I was fortunate enough to meet Crystal from launch-code, Ashe Dryden from Alter conf. I want to give a special shout out to Team JaM for letting me join their crew on this amazing adventure. I will definitely be going next year. Thanks you so much Railsgirlssummerofcode form sending me there.
 
 <br/>
 <font color="grey"><small><i> Team Jam and Ore at the Strange Loop Conference.</i></small></font>
