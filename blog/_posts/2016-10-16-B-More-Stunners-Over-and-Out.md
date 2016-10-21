@@ -43,7 +43,7 @@ The entire audience including myself was captivated by the talk Ashley Nelson-Ho
 Talks ranged from deconstructing and systematising music from central africa by [Chris Ford](https://twitter.com/ctford)
 to "the future of web development" with [Paul Kinlan](https://twitter.com/Paul_Kinlan). I even got to see my mentor [Andrei Arko](https://twitter.com/indirect) give a talk, LIES, DAMN LIES, AND METRICS, on the very project 
 I was working on. 
-I was fortunate enough to meet Crystal from launch-code, Ashe Dryden from Alter conf. I want to give a special shout out to Team JaM for letting me join their crew on this amazing adventure. I will definitely be going next year. Thanks you so much Railsgirlssummerofcode form sending me there.
+I was fortunate enough to meet Crystal Martin CoderGirl Program Director at launch-code and Ashe Dryden from Alter conf! I want to give a special shout out to [Team JaM](http://twitter.com/rgsocJaM) for letting me join their crew on this amazing adventure. I will definitely be going next year. Thanks you so much Railsgirlssummerofcode form sending me there.
 
 <br/>
 <font color="grey"><small><i> Team Jam and Ore at the Strange Loop Conference.</i></small></font>
