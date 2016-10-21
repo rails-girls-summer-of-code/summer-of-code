@@ -1,8 +1,8 @@
 ---
 title: Our end of RGSoC,:( !
 layout: post
-created_at: Thu July 28 2016
-permalink: blog/Team-Echo-wrapping-up-2016
+created_at: Fri October 21 2016
+permalink: blog/2016-10-21-Team-Echo-wrapping
 current: blog
 author: Naggita Keziah and Nanjekye Joannah
 twitter: _TeamEchoUg_
@@ -18,6 +18,7 @@ The unforgettable memories of  updating teams app, responding to emails and slac
 
 ![team picture](/img/blog/2016/team_echo2.jpg)
 <br />
+Team Echo photo taken by Ian Yatich at AWIT conference(East african)
 
 ### Our summer Achievements 
 
@@ -50,17 +51,21 @@ We have made other contributions to other projects during our summer. We have op
 
 During summer,we revived Rails Girls Kampala chapter. A community that had  been started by thoughtworks and died after thoughtworks closing their kampala offices. We started an eight week ruby on rails training attended by 25 participants with support of our coaching company the [The Innovation Village kampala](http://innovationvillage.co.ug/). We are still running the sessions and they will end at the end of October 2016. The goal of the training is to impart ruby on rails skills to the participants and ensure that they are in position to build something in form of a project at the end of the eight weeks. The participants shall write blogs on the projects they have developed which we shall tweet about.
 
-![team picture](/img/blog/2016/rg1.jpg)
+![team picture](/img/blog/2016/TeamEcho_bg2_rgk1.jpg)
 <br />
+Team Echo photo taken by simoen at the innovation village kampala
 
-![team picture](/img/blog/2016/rg2.jpg)
+![team picture](/img/blog/2016/TeamEcho_bg2_rgk2.jpg)
 <br />
+Team Echo photo taken by simoen at the innovation village kampala
 
-![team picture](/img/blog/2016/rg3.jpg)
+![team picture](/img/blog/2016/TeamEcho_bg2_rgk3.jpg)
 <br />
+Team Echo photo taken by simoen at the innovation village kampala
 
-![team picture](/img/blog/2016/rg4.jpg)
+![team picture](/img/blog/2016/TeamEcho_bg2_rgk4.jpg)
 <br />
+Team Echo photo taken by simoen at the innovation village kampala
 
 
 ### Conferences
@@ -71,11 +76,13 @@ We recieved diversity tickets much thanks to pyconZA through RGSoC to attend and
 
 We gave a talk on contributing to python open source infrastructure and projects. The [Talk](https://www.youtube.com/watch?v=y7SwS7hIb1o&feature=youtu.be) and [Presentation](https://speakerdeck.com/pyconza/contributing-to-python-open-source-infrastructure-and-projects-by-joannah-nanjekye/) were  published.
 
-![team picture](/img/blog/2016/pyconza2.jpg)
+![team picture](/img/blog/2016/TeamEcho_bg2_pyconza2.jpg)
 <br />
+Team Echo photo taken by Humphrey batua during pyconza 2016 , capetown
 
-![team picture](/img/blog/2016/pyconza1.jpg)
+![team picture](/img/blog/2016/TeamEcho_bg2_pyconza1.jpg)
 <br />
+Team Echo photo taken by the media team during pyconza 2016 , capetown
 
 ### African Women in Technology Conference
 
@@ -88,14 +95,17 @@ We were invited to speak about our RGSoC and a give a talk on how drones , senso
 
 After speaking at the african women in technology conference, we got another invite to speak about drones , sensors and apps at the first smart Automation conference that took place from 2nd- 3rd september in Nairobi Kenya. We got another chance to network with automation engineers and got to learn about what technology can do in industry automation.
 
-![team picture](/img/blog/2016/sa1.jpg)
+![team picture](/img/blog/2016/TeamEcho_bg2_sa1.jpg)
 <br />
+Team Echo photo taken by Ian Yatich during smart Automation conference in Nairobi
 
-![team picture](/img/blog/2016/sa2.jpg)
+![team picture](/img/blog/2016/TeamEcho_bg2_sa2.jpg)
 <br />
+Team Echo photo taken by Ian Yatich during smart Automation conference in Nairobi
 
-![team picture](/img/blog/2016/sa3.jpg)
+![team picture](/img/blog/2016/TeamEcho_bg2_sa3.jpg)
 <br />
+Team Echo photo taken by Ian Yatich during smart Automation conference in Nairobi
 
 ### What we have learnt
 
