@@ -50,7 +50,7 @@ It was a really great time to listen invaluable talks and meet all the inspiring
 It was a precious and amazing time in Copenhagen.
 I am happy to have a chance to share the conference experience with Rails Girls Summer of code communities.
 
-@RailsGirlsSoC, @GOTOcph
+**@RailsGirlsSoC, @GOTOcph**
 Thank you so much all these wonderful opportunities. It was truly amazing! :D   
 
 For further information on Goto Copenhagen Conference, please visit [Goto Copenhagen](https://gotocon.com/cph-2016/).
