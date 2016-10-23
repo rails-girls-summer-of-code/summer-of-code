@@ -6,7 +6,8 @@ permalink: blog/2016-10-14-Aloha-Rails-Girls-Summer-of-Code-and-GitHub
 current: blog
 author: Melissa Fabros and Patricia Arbona
 twitter: HeartRGSoC_sf
-categories: student-posts
+categories: 
+- student-posts
 ---
 ##### *What accomplishments are you proud of?*
 ![Patricia Setting Up her Development Environment at Github](/img/blog/2016/hackbrighters_patricia_setup.jpg)<span class ="image-credits">Patricia hacking away.</span><br><font color="grey"><small><i>(Image Credit: <a href="https://www.linkedin.com/in/melissa-fabros-5a1b35b">Melissa Fabros</a>)</i></small></font>

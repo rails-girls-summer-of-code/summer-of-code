@@ -8,6 +8,7 @@ author: kindr3d
 twitter: TKindr3d
 categories:
 - student-posts
+- conferences
 ---
 [Content Note: again, many animated gifs]
 

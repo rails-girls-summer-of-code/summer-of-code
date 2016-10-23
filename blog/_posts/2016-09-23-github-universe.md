@@ -8,6 +8,7 @@ author: Melissa Fabros and Patricia Arbona
 twitter: HeartRGSoC_sf
 categories:
 - student-posts
+- conferences
 ---
 
 ![GitHub Universe Flag](/img/blog/2016/Github Universe/universe.png)<font color="grey"><small><i>Photo taken by Patricia Arbona</i></small></font>

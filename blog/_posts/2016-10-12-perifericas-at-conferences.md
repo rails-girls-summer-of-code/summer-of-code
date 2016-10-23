@@ -8,6 +8,7 @@ author: Emma Pinheiro and Geisa Santos
 twitter: RailsGirlsSSA
 categories:
 - student-posts
+- conferences
 ---
 
 Can't believe RGSoC is done.

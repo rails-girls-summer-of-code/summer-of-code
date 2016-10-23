@@ -6,7 +6,10 @@ permalink: blog/2016-09-29-rubycats-at-codemotion-warsaw-and-euruko
 current: blog
 author: Iza & Kinga
 twitter: RubyCatsTeam
-categories: student-posts
+categories: 
+- student-posts
+- conferences
+
 ---
 
 ## <span class="color-red">Codemotion Warsaw 2016 Conference</span>

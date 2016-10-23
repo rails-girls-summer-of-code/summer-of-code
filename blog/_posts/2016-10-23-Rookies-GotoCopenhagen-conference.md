@@ -8,6 +8,7 @@ author: HyeSoo Park
 twitter: hoodierookies
 categories:
 - student-posts
+- conferences
 ---
 
 Hey, we are [HyeSoo](https://github.com/flyjwayur) and [Tehetena](https://github.com/titay2) from team [Rookies](https://twitter.com/hoodierookies) :D

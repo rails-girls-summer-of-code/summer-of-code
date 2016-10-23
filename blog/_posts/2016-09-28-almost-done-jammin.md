@@ -8,6 +8,7 @@ author: Jeena Lee and Malisa Smith
 twitter: rgsocJaM
 categories:
 - student-posts
+- conferences
 ---
 
 Summer is over! Sadly this means our summer of code is also coming to an end.
