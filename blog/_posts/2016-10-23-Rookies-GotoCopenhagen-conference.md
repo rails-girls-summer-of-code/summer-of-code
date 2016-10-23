@@ -12,13 +12,13 @@ categories:
 
 Hey, we are [HyeSoo](https://github.com/flyjwayur) and [Tehetena](https://github.com/titay2) from team [Rookies](https://twitter.com/hoodierookies) :D
 
-Team Rookies flied to Copenhagen to participate in 'GotoConf Copenhagen'. It was a huge and lively conference with a beautiful blue color. Tehetena had a personal issue to solve, so we decide that I(HyeSoo) go there on behalf of the team and I shared interesting topics, what I have seen and how was the conference with her. It was a really amazing time to listen interesting talks about speakers' experiences and cutting-edge technologies. It also gave me a chance to meet several inspiring and friendly people from different backgrounds.
+Team Rookies flew to Copenhagen to participate in 'GotoConf Copenhagen'. It was a huge and lively conference with a beautiful blue color. Tehetena had a personal issue to solve, so we decide that I (HyeSoo) go there on behalf of the team and I shared interesting topics, what I have seen and how was the conference with her. It was a really amazing time to listen interesting talks about speakers' experiences and cutting-edge technologies. It also gave me a chance to meet several inspiring and friendly people from different backgrounds.
 
 ![Blue passion towards technologies and people](/img/blog/2016/team-Rookies-GotoConfGPH-Blue.jpg)<br>
 <font color="grey"><small><i>It is an entrance of the GotoConf Copenhagen. I felt full of bule passions towards technologies and people. It was very exciting time.(Image: HyeSoo)</i></small></font>
 
 
-##Wonderful & Interesting talks
+## Wonderful & Interesting talks
 
 On 3rd of October, there were 6 tracks about Effective Deliver, Languages, Deep Learning Analytics, IoT and Robotics, Android and Solutions and Case Studies1. All the tracks had interesting topics and helped me to broaden the horizon to see and hear about not only IT topics of my interest but also new fields of IT beyond my interest.
 
@@ -31,13 +31,13 @@ In 'Exploring StackOverflow Data' talk, I learned playing with data can start fr
 On the second day, there were 5 tracks about Microservices, Tactics for better Teams, Web Frontend, Disruptive Technologies – Case Studies and Solutions and Case Studies2.
 In the morning, I listened the talks about 'A Quick Introduction to Angular 2' and 'Elm: Friendly Functional Programming for the web'.
 I learned what are the new features in Angular2 and how we can use it in the project. There was another talk about the functional programming. It was about Elm. Elm does not have runtime exceptions and it has a library of interesting name called 'Maybe' which represents value that may or may not exist. It gives clear messages about error or what does not match the syntax. I was happy to know new language for the web.
-In the afternoon, I was in talks about 'The Return of Stream I/O' and 'Progressive Web app – the Return of the Web'. With progressive web app, we can expect from native apps to the mobile browser experience, using standards-based technologies. It has some of the core tenets such as Services Workers, App Shell and Installability & App Manifest. It was an interesting technology to help programmers who want to launch app in both the web and mobile.
+In the afternoon, I was in talks about 'The Return of Stream I/O' and 'Progressive Web app – the Return of the Web'. With progressive web app, we can expect from native apps to the mobile browser experience, using standards-based technologies. It has some of the core tenets such as Services Workers, App Shell and Installability & App Manifest. It was an interesting technology to help programmers who want to launch app in both the web and mobile.  
 
 ![Happy time in GotoCopenhagen](/img/blog/2016/team-Rookies-GotoConfGPH-HyeSoo.jpg)<br>
 <font color="grey"><small><i>Team Rookies had a happy time in GotoCopenhagen Conference with wonderful talks and inspiring developers(Image: HyeSoo)</i></small></font>
 
 
-##Inspiring & friendly people from different backgrounds
+## Inspiring & friendly people from different backgrounds
 There were chances to meet friendly participants in the GotoConf Copenhagen. During a lunch time, I met one engineer from a company that makes an application for visually handicapped people. The application has sounds and tough features to help them find the information in the application. He has used 'Typescript' to make it work both in the web and mobile for them. We also talked about 'high level concepts of the programming languages'. I have been wondering why many people said that programmers might be able to adapt the other language easily, if they know one language deeply. He explained that 'high level concepts of the programming languages' (for example inheritance, abstraction etc) embrace the common concepts of the languages, so it can help programmers to understand and use other languages easier beyond the different syntax from different languages.
 
 I met another engineer from Unity. She has been building the Backend in the company. She came to the conference to learn Microservices for her work. 'Microservices' seems a buzzword these days. It is a self contained process that provides a unique business capabilities. With Microservices, it takes the capabilities and put them into the separate processes and it focuses on a single business capability. I had a chance to hear how she started to work on Backend after her graduation from her university. She had done internship and she used Python for her work and she has been using Python for the Backend, since then. It was a good time to talk with her to hear her work & how to grow up as a Backend developer and learn what is 'Microservice' which was a new term for me.
@@ -46,12 +46,13 @@ I met one girl who joined the conference with a diversity grant. She is a studen
 
 It was a really great time to listen invaluable talks and meet all the inspiring developers. While I listened how they explored their fields and how they improve their work and the world, I felt full of their passion and enthusiasm towards making world a better place, sharing their experiences.
 It was a precious and amazing time in Copenhagen.
-I am happy to have a chance to share the conference experience with Rails Girls Summer of code communities.
-![Wonderful and Interesting talks](/img/blog/2016/team-Rookies-GotoConfGPH-talk.jpg)<br>
-<font color="grey"><small><i>There were wonderful and interesting 6 tracks on the first day and 5 tracks on the second day.(Image: HyeSoo)</i></small></font>
+I am happy to have a chance to share the conference experience with Rails Girls Summer of code communities.  
 
-**@RailsGirlsSoC, @GOTOcph**
+![Wonderful and Interesting talks](/img/blog/2016/team-Rookies-GotoConfGPH-talk.jpg)<br>
+<font color="grey"><small><i>There were wonderful and interesting 6 tracks on the first day and 5 tracks on the second day.(Image: HyeSoo)</i></small></font>  
+
+**@RailsGirlsSoC, @GOTOcph**  
 Thank you so much all these wonderful opportunities. It was truly amazing! :D   
 
-For further information on Goto Copenhagen Conference, please visit [Goto Copenhagen](https://gotocon.com/cph-2016/).
+For further information on Goto Copenhagen Conference, please visit [Goto Copenhagen](https://gotocon.com/cph-2016/).  
 <3
