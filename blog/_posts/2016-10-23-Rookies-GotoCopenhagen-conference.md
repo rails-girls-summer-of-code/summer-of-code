@@ -1,8 +1,8 @@
 ---
 title: Rookies GotoCopenhagen conference!
 layout: post
-created_at: Wed Oct 19 2016
-permalink: blog/2016-10-19-Rookies-GotoCopenhagen-conference
+created_at: Sat Oct 23 2016
+permalink: blog/2016-10-23-Rookies-GotoCopenhagen-conference
 current: blog
 author: HyeSoo Park
 twitter: hoodierookies
