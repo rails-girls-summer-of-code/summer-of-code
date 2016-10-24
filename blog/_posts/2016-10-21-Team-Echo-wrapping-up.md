@@ -12,17 +12,17 @@ categories:
 
 ### Team Echo: Our RGSoC Landing
 
-Like any flight its like our RGSoC plane just landed .It has  been three awesome  months of learning, connecting, coding and changing lives. We pushed, pulled, squashed, force pushed, gave talks, revived Rails Girls Kampala, interviewed, toured, travelled and became official contributors to qutebrowser.
+Like a flight we just landed our RGSoC plane.It has  been three awesome  months of learning, connecting, coding and changing lives. We pushed, pulled, squashed, force pushed, gave talks, revived Rails Girls Kampala, interviewed, toured, travelled and became official contributors to qutebrowser.
 
 The unforgettable memories of  updating teams app, responding to emails and slack messages, having our PRs merged, attending conferences, renewing Rails Girls Kampala and so much more made Rails Girls Summer of Code an amazing  experience. The summer is over and we are back to putting what we learnt and our experience to work in our communities.
 
 ![team picture](/img/blog/2016/team_echo2.jpg)
 <br />
-Team Echo photo taken by Ian Yatich at AWIT conference(East african)
+Team Echo photo put together by Keziah Naggita
 
 ### Our summer Achievements 
 
-The biggest highlight was the fact that RGSoC introduced us to open source software development. We all made our first PRS during RGSoC and have also contributed to other FOSS projects during our summer and intend to continue doing so after such inspired mentorship from ([Florian](https://twitter.com/the_compiler)) and ([Kasia](https://twitter.com/_idengager)) not forgetting our coaches Wilson Kiggundu and Augustine Kisitu.
+The biggest highlight was the fact that RGSoC introduced us to open source software development. We all made our first PRS during RGSoC and have also contributed to other FOSS projects during our summer and intend to continue doing so after such inspired mentorship from [Florian Bruhin](https://twitter.com/the_compiler) and [Kasia jarmołkowicz](https://twitter.com/_idengager) not forgetting our coaches [Wilson Kiggundu](https://twitter.com/WilsonKiggundu)and [Augustine Kisitu](https://twitter.com/austiine04).
 
 RGSoC has taught us so many things ranging from writing clean and clear code to soft skills. We have come to appreciate the need to impact our communities as well. We have become better  speakers , mentors and coaches because we know exactly how it feels to be on the other side of life. Life is a learning experience and were glad on our way we met RGSoC to also teach us.
 
@@ -86,9 +86,10 @@ Team Echo photo taken by the media team during pyconza 2016 , capetown
 
 ### African Women in Technology Conference
 
-We were invited to speak about our RGSoC and a give a talk on how drones , sensors and apps are rewriting the  rules in agriculture at the african women in technology conference that took in Nairobi from 21st - 22nd of july 2016. W had good feedback and were also inspired by great talks from different women in technology fron the african tech space.
+We were invited to speak about RGSoC and a give a talk on how drones , sensors and apps are rewriting the  rules in agriculture at the african women in technology conference that took in Nairobi from 21st - 22nd of july 2016. We had good feedback and were also inspired by great talks from different women in technology fron the african tech space.
 
 ![Day 1](/img/blog/2016/presentation.jpg)
+Team Echo photo taken by Ian Yatich at the african women in tech conference(East Africa) Nairobi,Kenya
 
 
 ### Smart Automation
@@ -109,7 +110,7 @@ Team Echo photo taken by Ian Yatich during smart Automation conference in Nairob
 
 ### What we have learnt
 
-We learnt alot during RGSoC, in addition to what we learnt during the month of learning, we learnt many soft skills some of which include the following;
+We learnt alot during RGSoC , some of the skills which got include the following;
 
 - We learnt the open source workflow , community engagement and handling code reviews for our own and other people's code.
 - Lots of problem solving and working with big code bases.
@@ -125,12 +126,13 @@ We learnt alot during RGSoC, in addition to what we learnt during the month of l
 
 We cannot say thank you enough to all the people that made RGSoC 2016 a  success for Team Echo atleast. You made it possible for us to learn and be better people. We would like to extend our sincere thanks to the following people;
 
-**Our mentor**: Florian Bruhin, it has been a real pleasure working with you! Thank you for being liberal and welcoming to newbies like us but now gurus. I would recommend new comers to start with qutebrowser because of the welcoming community. Your were the best mentor and you made RGSoC a great summer for us thank you so much.
+**Our mentor**: Florian Bruhin, it has been a real pleasure working with you! Thank you for being liberal and welcoming to newbies like us but now gurus. I would recommend new comers to start with qutebrowser because of the welcoming community. You were the best mentor and you made RGSoC a great summer for us thank you so much. Also before we forget thanks for the stickers.
 
 **Our coaches**: Wilson Kiggundu and Kisitu Augustine, you are the best coaches we could have! We are immensely grateful for all your help and most importantly for taking your busy time off your full time jobs. For staying up for calls with the unfavourable time zones. A big shout out to you.
 
 **Our supervisor**: Kasia jarmołkowicz , thanks for all your support, for attending all the meetings, for listening to us and for always encouraging us, we are forever grateful.
-RGSoC 2016 Teams: Cheers to all the 2016 teams. You helped us, guided us, made us your friends and shared your experiences with us. You made RGSoC a loving community to belong to.
+
+**RGSoC 2016 Teams:** Cheers to all the 2016 teams. You helped us, guided us, made us your friends and shared your experiences with us. You made RGSoC a loving community to belong to.
 RGSoC Organizers: Thank you so much for selecting us from the many  to be a part of this incredible journey. We are so thankful for helping us everytime we needed you, for encouraging us and for making RGSoC a great community.
 
 **RGSoC Sponsors**: Thank you for making it possible for us to ditch everything else for three months and dive full-time into learning! For the swagg..you really made these months worth it.
@@ -139,13 +141,13 @@ RGSoC Organizers: Thank you so much for selecting us from the many  to be a part
 
 ### What are our plans after RGSoC ?
 
-We have been started off to FOSS contribution and are not looking back.We are already contributing to other FOSS projects.We shall therefore continue contributing to qutebrowser and other open source projects. We shall also take it upon ourselves to mentor someone to begin contributing to open source projects. 
+We have been started off to FOSS contribution and are not looking back.We are already contributing to other FOSS projects.We shall therefore continue contributing to qutebrowser and other open source projects. We shall also take it upon ourselves to mentor others to begin contributing to open source projects. 
 
 We shall ensure Rails girls kampala is sustained and all its activities.This shall act as a mentoring platform for even future scholars. We shall  finish Rails Girls Kampala 2016 cohort and prepare for the next cohorts.
 
 Keziah will go back to university to finish her final year in software engineering at Makerere University , but she will continue writing code and mentoring others.
 
-Joannah will  continue with her studies in Aeronautical Engineering at the east afrocan school of aviation in Nairobi Kenya. Trying to merge code in aviation. She shall continue contributing to FOSS and mentoring others to.
+Joannah will  continue with her studies in Aeronautical Engineering at the east african school of aviation in Nairobi Kenya. Trying to marry code and aviation. She shall continue contributing to FOSS and mentoring others to.
 
 The RGSoC community we shall still keep in touch because you are an amazing community.Looking forward to future work with you be it mentoring , coaching name it. Always Available!!!!
 
