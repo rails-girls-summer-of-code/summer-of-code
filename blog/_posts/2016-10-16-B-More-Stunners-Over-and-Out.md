@@ -84,4 +84,4 @@ Lastly, We would like to thank the wonderful organizers of Rails Girls Summer Of
 And for that we are eternally grateful <3 
 
 ![Dance](/img/blog/2016/dino.gif)
-<font><small><i>(Image Credit: giphy.com)</i></small></font>
+<i><small><font>(Image Credit: giphy.com)</i></small></font>
