@@ -1,8 +1,8 @@
 ---
 title: Our end of RGSoC,:( !
 layout: post
-created_at: Fri October 21 2016
-permalink: blog/2016-10-21-Team-Echo-wrapping
+created_at: Wed October 26 2016
+permalink: blog/2016-10-26-Team-Echo-wrapping
 current: blog
 author: Naggita Keziah and Nanjekye Joannah
 twitter: _TeamEchoUg_
