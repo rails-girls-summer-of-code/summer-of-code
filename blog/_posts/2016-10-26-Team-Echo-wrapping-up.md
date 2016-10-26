@@ -5,7 +5,7 @@ created_at: Wed October 26 2016
 permalink: blog/2016-10-26-Team-Echo-wrapping-up
 current: blog
 author: Naggita Keziah and Nanjekye Joannah
-twitter: _TeamEchoUg_
+twitter: TeamEchoUg
 categories:
 - student-posts
 ---
