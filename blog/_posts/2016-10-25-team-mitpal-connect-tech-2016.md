@@ -1,7 +1,7 @@
 ---
 title: Team MitPal: Connect Tech 2016
 layout: post
-created_at: Tue Oct25 2016
+created_at: Tue Oct 25 2016
 permalink: blog/2016-10-25-team-mitpal-connect-tech-2016
 current: blog
 author: Sherri
