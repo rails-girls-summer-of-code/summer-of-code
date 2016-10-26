@@ -1,5 +1,5 @@
 ---
-title: B'More Stunners&#58; B'More Stunners&#58 Over and Out!
+title: B'More Stunners&#58 Over and Out!
 layout: post
 created_at: Sunday October 16, 2016
 permalink: blog/2016-10-16-B-More-Stunners-Over-and-Out
