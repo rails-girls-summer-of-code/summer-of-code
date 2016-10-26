@@ -14,6 +14,8 @@ categories:
 ![teamphoto](/img/blog/2016/ashley.jpeg)
 <br/>
 <font color="grey"><small><i> Pair Programming Session with coach Beverly.</i></small></font>
+<br/>
+<small><i>(Image Credit: Oreoluwa Akinsanmi)</i></small></font>
 
 
 It’s with heavy hearts we bid Rails Girls Summer of Code a farewell. We feel very humble to have been apart of this fellowship. RGSOC has given us the opportunity to not only sharpen our programming skills, but to also connect with an amazing community and form long-lasting friendships. 
@@ -31,7 +33,8 @@ This summer we had the opportunity to work on the Bundler project alongside supe
 ![newfriends1](/img/blog/2016/strangeloop.jpg)
 <br/>
 <font color="grey"><small><i>Ore and [Nicola Hughes](https://twitter.com/GirlMeetsCode) at the Strange Loop Conference</i></small></font>
-
+<br/>
+<small><i>(Image Credit: Oreoluwa Akinsanmi)</i></small></font>
 
 
 
@@ -39,7 +42,9 @@ This summer we had the opportunity to work on the Bundler project alongside supe
 
 ![newfriends2](/img/blog/2016/team jam.jpg) 
 <br/>
-<font color="grey"><small><i> Team Jam and Ore at the Strange Loop Conference.</i></small></font>
+<font color="grey"><small><i> Team JaM and Ore at the Strange Loop Conference.</i></small></font>
+<br/>
+<small><i>(Image Credit: Team JaM)</i></small></font>
 
 ### Setting the bar high with Strange Loop
 
