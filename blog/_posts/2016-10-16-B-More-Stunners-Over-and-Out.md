@@ -23,7 +23,7 @@ This summer we had the opportunity to work on the Bundler project alongside supe
 
 
 ### Here’s a little short summary of what we’ve accomplished:
-- A better understanding of how Bundler and Rubygems.orgs works
+- A better understanding of how Bundler and Rubygems.org works
 - Submitted a Pull Request to Rubygems.org server 
 - Built a class that focuses on capturing system information and the options run with Bundler upon installation
 - Refactoring our code…followed by a little more refactoring 
@@ -48,7 +48,7 @@ This summer we had the opportunity to work on the Bundler project alongside supe
 
 ### Setting the bar high with Strange Loop
 
-Ore - Yes, it is true. Conferences can be diverse and inclusive while being absolutely phenomenal! Now, I hope every tech conference I go to will be just as progressive.
+*Ore* - Yes, it is true. Conferences can be diverse and inclusive while being absolutely phenomenal! Now, I hope every tech conference I go to will be just as progressive.
 
 There was never a dull moment or boring talk at STL. Every workshop room or auditorium was consistently packed. I started my experience off with the ally skills workshop hosted by [Valerie Aurora](https://frameshiftconsulting.com/) where I was reminded that even I (a marginalized person) have biases that can be damaging if left unchecked; there's always room for personal growth. [Nicola Hughes](https://twitter.com/GirlMeetsCode) talk, Is it a Bug or a Story, proved that tech can change the way we interact with information and produce justfying results. It affirimed alot about how I believe information should be represented. 
 I won't forget how sore my legs were the next day from all the fun I had at City Museum. It was a literal adult playground with a 10-story slide!.
