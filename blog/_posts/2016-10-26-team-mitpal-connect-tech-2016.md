@@ -6,8 +6,7 @@ permalink: blog/2016-10-26-team-mitpal-connect-tech-2016
 current: blog
 author: Sherri
 twitter: MitPal2016
-categories:
-- news
+categories: student-posts
 ---
 
 Summing up Rails Girls Summer of Code (RGSOC) is not a simple task. True. RGSOC was an opportunity to work on an open source project, but the experience was so much more than that. After 3 months of working together on our project, Open Source Event Management System (OSEM), we had developed our own team vibe. We had our routine down pat. We spent our mornings working through our latest issue. We ate our lunches together outside followed by a walk around the block. These times became as important as our time coding. That was our time to talk about our lives, our interests, experiences, and sometimes fears. We learned a lot about working with Ruby, but we learned even more about ourselves as we worked on our project. Ups, downs, joy, laughter (lot's of laughter), learning, frustration, and accomplishment. We went through it all. Together. That was one of the best parts.
