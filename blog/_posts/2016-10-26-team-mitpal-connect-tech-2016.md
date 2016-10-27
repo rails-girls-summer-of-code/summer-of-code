@@ -1,5 +1,5 @@
 ---
-title: Team MitPal: Connect Tech 2016
+title: Team MitPal - Connect Tech 2016
 layout: post
 created_at: Wed Oct 26 2016
 permalink: blog/2016-10-26-team-mitpal-connect-tech-2016
