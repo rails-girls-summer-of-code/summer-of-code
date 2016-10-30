@@ -1,8 +1,8 @@
 ---
 title: B'More Stunners&#58 Over and Out!
 layout: post
-created_at: Sunday October 16, 2016
-permalink: blog/2016-10-16-B-More-Stunners-Over-and-Out
+created_at: Sunday October 30, 2016
+permalink: blog/2016-10-30-B-More-Stunners-Over-and-Out
 current: blog
 author: Oreoluwa Akinsanmi and Ashley Jean
 twitter: ashhjean 
@@ -13,9 +13,9 @@ categories:
 
 ![teamphoto](/img/blog/2016/ashley.jpeg)
 <br/>
-<font color="grey"><small><i> Pair Programming Session with coach Beverly.</i></small></font>
+<span class="image-credits">Pair Programming Session with coach Beverly.</span>
 <br/>
-<small><i>(Image Credit: Oreoluwa Akinsanmi)</i></small></font>
+<span class="image-credits">(Image Credit: Oreoluwa Akinsanmi)</span>
 
 
 It’s with heavy hearts we bid Rails Girls Summer of Code a farewell. We feel very humble to have been apart of this fellowship. RGSOC has given us the opportunity to not only sharpen our programming skills, but to also connect with an amazing community and form long-lasting friendships. 
@@ -32,9 +32,9 @@ This summer we had the opportunity to work on the Bundler project alongside supe
 
 ![newfriends1](/img/blog/2016/strangeloop.jpg)
 <br/>
-<font color="grey"><small><i>Ore and [Nicola Hughes](https://twitter.com/GirlMeetsCode) at the Strange Loop Conference</i></small></font>
+<span class="image-credits">Ore and [Nicola Hughes](https://twitter.com/GirlMeetsCode) at the Strange Loop Conference</span>
 <br/>
-<small><i>(Image Credit: Oreoluwa Akinsanmi)</i></small></font>
+<span class="image-credits">(Image Credit: Oreoluwa Akinsanmi)</span>
 
 
 
@@ -42,9 +42,9 @@ This summer we had the opportunity to work on the Bundler project alongside supe
 
 ![newfriends2](/img/blog/2016/team jam.jpg) 
 <br/>
-<font color="grey"><small><i> Team JaM and Ore at the Strange Loop Conference.</i></small></font>
+<span class="image-credits">Team JaM and Ore at the Strange Loop Conference.</span>
 <br/>
-<small><i>(Image Credit: Team JaM)</i></small></font>
+<span class="image-credits">(Image Credit: Team JaM)</span>
 
 ### Setting the bar high with Strange Loop
 
@@ -85,4 +85,4 @@ And for that we are eternally grateful <3
 
 ![Dance](/img/blog/2016/dino.gif)
 <br/>
-<i><small><font>(Image Credit: giphy.com)</i></small></font>
+<span class="image-credits">(Image Credit: giphy.com)</span>
