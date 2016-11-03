@@ -1,15 +1,15 @@
 ---
 title: Team MitPal - Connect Tech 2016
 layout: post
-created_at: Wed Oct 26 2016
-permalink: blog/2016-10-26-team-mitpal-connect-tech-2016
+created_at: Tue Nov 01 2016
+permalink: blog/2016-11-01-team-mitpal-connect-tech-2016
 current: blog
 author: Sherri
 twitter: MitPal2016
 categories: student-posts
 ---
 
-Summing up Rails Girls Summer of Code (RGSOC) is not a simple task. True. RGSOC was an opportunity to work on an open source project, but the experience was so much more than that. After 3 months of working together on our project, Open Source Event Management System (OSEM), we had developed our own team vibe. We had our routine down pat. We spent our mornings working through our latest issue. We ate our lunches together outside followed by a walk around the block. These times became as important as our time coding. That was our time to talk about our lives, our interests, experiences, and sometimes fears. We learned a lot about working with Ruby, but we learned even more about ourselves as we worked on our project. Ups, downs, joy, laughter (lot's of laughter), learning, frustration, and accomplishment. We went through it all. Together. That was one of the best parts.
+Summing up Rails Girls Summer of Code (RGSOC) is not a simple task. True. RGSOC was an opportunity to work on an open source project, but the experience was so much more than that. After 3 months of working together on our project, Open Source Event Management System (OSEM), we had developed our own team vibe. We had our routine down pat. We spent our mornings working through our latest issue. We ate our lunches together outside followed by a walk around the block. These times became as important as our time coding. That was our time to talk about our lives, our interests, experiences, and sometimes fears. We learned a lot about working with Ruby, but we learned even more about ourselves as we worked on our project. Ups, downs, joy, laughter (lots of laughter), learning, frustration, and accomplishment. We went through it all. Together. That was one of the best parts.
 
 Anitha and I (Sherri) are Team MitPal. We are two geeky women who decided to change careers. We had the support of two awesome coaches, Pamela Vickers and Pete Holiday. Their help was invaluable. They guided us when we needed to be guided, nudged us when appropriate, and pushed us when necessary.
 
@@ -29,7 +29,7 @@ Team MitPal attended the Connect.Tech conference here in Atlanta. A few weeks ha
 
 ***Plan ahead***
 
-![Team Mitpal](/img/blog/2016/20161021-mitpal-conf-registration.jpg )<font color="grey"><small><i>Connect.Tech Conference Check In (Image: Team MitPal 2106)</i></small></font>
+![Team Mitpal](/img/blog/2016/20161021-mitpal-conf-registration.jpg )<font color="grey"><small><i>Connect.Tech Conference Check In (Image: Team MitPal 2016)</i></small></font>
 
 Check out the conference schedule ahead of time and decide which sessions you want to attend. If you are attending with another person, discuss which sessions you have chosen and if you are not going to all of the same talks plan where you will meet afterwards.
 
@@ -37,11 +37,11 @@ Check out the conference schedule ahead of time and decide which sessions you wa
 
 Companies come to conferences with lots of stuff to give, and before you know it your bag will be full. So a good rule of thumb is to pack lightly. Don't bring a lot of extra stuff with you. It's just more to carry at the end of the day.
 
-![Team Mitpal](/img/blog/2016/20161021-mitpal-conf-sponsors.jpg )<font color="grey"><small><i>Connect.Tech Conference Sponsors (Image: Team MitPal 2106)</i></small></font>
+![Team Mitpal](/img/blog/2016/20161021-mitpal-conf-sponsors.jpg )<font color="grey"><small><i>Connect.Tech Conference Sponsors (Image: Team MitPal 2016)</i></small></font>
 
 ***Don't Miss the Keynote***
 
-![Team Mitpal](/img/blog/2016/20161022-mitpal-conf-keynote.jpg )<font color="grey"><small><i>Connect.Tech Conference Keynote (Image: Team MitPal 2106)</i></small></font>
+![Team Mitpal](/img/blog/2016/20161022-mitpal-conf-keynote.jpg )<font color="grey"><small><i>Connect.Tech Conference Keynote (Image: Team MitPal 2016)</i></small></font>
 
 Although you may be tempted to sleep in, resist the urge and attend the keynote talks. YOu'll find some really interesting speakers and divers subjects are covered during the keynotes. It's also a good time to meet some new people.
 
@@ -51,11 +51,11 @@ Speaking of new people...
 
 If you're like me, you hate the word "Network". Trying to "Network" just makes me feel awkward. Focus on talking to new people and connecting. Two of the speakers at this Connect.Tech this year were people that I had met at previous conferences. They are really smart and amazing people, and their talks were very imformative.
 
-![Team Mitpal](/img/blog/2016/20161022-mitpal-conf-vr-erica.jpg )<font color="grey"><small><i>Erica Stanely Speaking about Web-Based Virtual Reality (Image: Team MitPal 2106)</i></small></font>
+![Team Mitpal](/img/blog/2016/20161022-mitpal-conf-vr-erica.jpg )<font color="grey"><small><i>Erica Stanely Speaking about Web-Based Virtual Reality (Image: Team MitPal 2016)</i></small></font>
 
 ![Team Mitpal](/img/blog/2016/20161022-mitpal-conf-vr.jpg )<font color="grey"><small><i>Connect.Tech Conference Web VR (Image: Team MitPal 2106)</i></small></font>
 
-![Team Mitpal](/img/blog/2016/20161022-mitpal-conf-kanye.jpg )<font color="grey"><small><i>Delicia Brummet Speaking on How to Pick a Tech Stack (Image: Team MitPal 2106)</i></small></font>
+![Team Mitpal](/img/blog/2016/20161022-mitpal-conf-kanye.jpg )<font color="grey"><small><i>Delicia Brummet Speaking on How to Pick a Tech Stack (Image: Team MitPal 2016)</i></small></font>
 
 The last tip I have is to take care of yourself. Conferences make for long days. Drink plenty of water. Pace yourself. You don't have to attend every session. The slides and/or video will be available after the conference. Have fun and enjoy yourself. We sure did!
 
