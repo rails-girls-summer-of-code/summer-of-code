@@ -1,5 +1,5 @@
 ---
-title: Visiting the Ruby Conference in Portugal
+title: Attending the Ruby Conference in Portugal
 layout: post
 created_at: Tues Nov 08 2016
 permalink: blog/2016-11-08-RubyConfPt
