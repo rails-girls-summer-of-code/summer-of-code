@@ -26,11 +26,11 @@ The topic we chose for our talk was "Falling into Rabbit Holes", because this se
 
 The People behind the Conference, mainly being part of <a href="https://subvisual.co/">subvisual</a>, were very welcoming and caring - we were even invited to a super delicious dinner for the speakers, where we were lucky enough to share the table with awesome people like <a href="https://twitter.com/martinfowler">Martin Fowler</a>, <a href="https://twitter.com/hiro_asari">Hiro</a>, <a href="https://twitter.com/pat">Pat Allan</a> and <a href="https://twitter.com/PragTob">Tobias Pfeiffer</a>. The <a href="https://twitter.com/RubysSecretteam">Ruby's Secret</a> Team even got a <a href="https://twitter.com/tenderlove/status/791683611040817152">Selfie with Aaron Patterson</a>.
 
-The most interesting thing about the conference that we strongly felt is "Diversity".We met so many people from different countries ,with different cultres and backgrounds and speaking different languages but having one thing in common which is programming.
+The most interesting thing about the conference that we strongly felt is "Diversity". We met so many people from different countries, with different cultures as well as backgrounds and speaking different languages but having one thing in common which is programming.
 
 ## <span class="color-red">Thank you!</span>
 
-We are super gratful for this opportunity and experience. It was awesome to realize how big the Rails Girls Summer of Code community really is, because a lot of people at the Ruby Conference in Portugal participated in some way in the past, and to also have had the support and patience by the rest of the audience.
+We are super grateful for this opportunity and experience. It was awesome to realize how big the Rails Girls Summer of Code community really is, because a lot of people at the Ruby Conference in Portugal participated in some way in the past, and to also have had the support and patience by the rest of the audience.
 
 ![RGSoC generation-wide](/img/blog/2016/2016-11-08-RubyConf-allrgsoc.jpg) <font color="grey"><small><i>Four generations of Rails Girls Summer of Code in one photo! (Image: <a href="https://twitter.com/railsgirlssoc/status/792112104471924736">Tweet by RailsGirlsSoC</a>)</i></small></font><br>
 
