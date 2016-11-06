@@ -6,6 +6,7 @@ permalink: blog/2016-11-08-RubyConfPt
 current: blog
 author: Thea Amanda Kupler, Marie-Luise Kochsiek, Mayar Alaa and Nada Ashraf
 twitter: loadtocode
+         RubysSecretteam
 categories:
 - conferences
 ---
