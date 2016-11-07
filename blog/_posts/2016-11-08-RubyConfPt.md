@@ -5,6 +5,7 @@ created_at: Tues Nov 08 2016
 permalink: blog/2016-11-08-RubyConfPt
 current: blog
 author: Thea Amanda Kupler, Marie-Luise Kochsiek, Mayar Alaa and Nada Ashraf
+twitter: loadtocode
 categories:
 - conferences
 - student-posts
