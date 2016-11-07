@@ -5,10 +5,9 @@ created_at: Tues Nov 08 2016
 permalink: blog/2016-11-08-RubyConfPt
 current: blog
 author: Thea Amanda Kupler, Marie-Luise Kochsiek, Mayar Alaa and Nada Ashraf
-twitter: loadtocode
-         RubysSecretteam
 categories:
 - conferences
+- student-posts
 ---
 ## <span class="color-red">Chasing the Sun</span>
 
@@ -24,7 +23,7 @@ The topic we chose for our talk was "Falling into Rabbit Holes", because this se
 
 ![RGSoC On Stage](/img/blog/2016/2016-11-08-RubyConfOnStage.jpg) <font color="grey"><small><i>The Rails Girls Summer of Code Women on Stage at the Ruby Conference in Portugal (Image: Picture taken by RubyConf Portugal )</i></small></font><br>
 
-The People behind the Conference, mainly being part of <a href="https://subvisual.co/">subvisual</a>, were very welcoming and caring - we were even invited to a super delicious dinner for the speakers, where we were lucky enough to share the table with awesome people like <a href="https://twitter.com/martinfowler">Martin Fowler</a>, <a href="https://twitter.com/hiro_asari">Hiro</a>, <a href="https://twitter.com/pat">Pat Allan</a> and <a href="https://twitter.com/PragTob">Tobias Pfeiffer</a>. The <a href="https://twitter.com/RubysSecretteam">Ruby's Secret</a> Team even got a <a href="https://twitter.com/tenderlove/status/791683611040817152">Selfie with Aaron Patterson</a>.
+The People behind the Conference, mainly being part of <a href="https://subvisual.co/">subvisual</a>, were very welcoming and caring - we were even invited to a super delicious dinner for the speakers, where we were lucky enough to share the table with awesome people like <a href="https://twitter.com/martinfowler">Martin Fowler</a>, <a href="https://twitter.com/hiro_asari">Hiro Asari</a>, <a href="https://twitter.com/pat">Pat Allan</a> and <a href="https://twitter.com/PragTob">Tobias Pfeiffer</a>. The <a href="https://twitter.com/RubysSecretteam">Ruby's Secret</a> Team even got a <a href="https://twitter.com/tenderlove/status/791683611040817152">Selfie with Aaron Patterson</a>.
 
 The most interesting thing about the conference that we strongly felt is "Diversity". We met so many people from different countries, with different cultures as well as backgrounds and speaking different languages but having one thing in common which is programming.
 
