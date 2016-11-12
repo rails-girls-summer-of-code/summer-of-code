@@ -77,12 +77,17 @@ By submitting your project for Rails Girls Summer of Code, you are allowing your
 <em>Note: Submissions are now closed for 2016. See you next year!</em>
 <br>You can submit your project on our [Teams App](https://teams.railsgirlssummerofcode.org); you will need to authenticate with GitHub. Once logged in:
 
-* click on “Submit your project” in the navigation bar
+* Click on “Submit your project” in the navigation bar.
 * By default, we assume the submitter is also the primary mentor. If that isn’t the case, enter the name of the primary Mentor as well as their email address and GitHub handle.
-* Add a title and a description: what the project is about, what stage it’s at, and maybe something about the team behind it
-* Add Issues and features: outline features you’re planning for the future—or just make a list of issues that need work
-* Add keywords: this can mean a language, like Ruby, but also specific technologies or concepts needed.
-* You can flag your project as “suitable for beginners” by using the available checkbox
+* Add the project's name, website, repo and a description: what the project is about, what stage it’s at, and maybe something about the team behind it.
+* Add features and tasks: outline how you image the students to contribute, features you're planning to work on, issues that need help.
+* Add requirements: describe skills and experience students should bring to work on the project, e.g.
+  * Provide a small example or coding challenge for students to solve upfront.
+  * Add links to online courses or katas students should be confident with.
+  * Frame possible features students could work on.
+  * ...or just ask the students to contact you for this.
+* Add keywords: this can mean a language, like "Python", framework like "React", but also specific technologies or concepts.
+* You can flag your project as “suitable for beginners” by using the available checkbox.
 * Click Submit!
 
 On the “All Projects” page, you can view all submitted projects and their status (proposed, accepted, rejected) as well as edit or delete your submission.
@@ -95,4 +100,3 @@ We want to make this clear: for a project to be considered for the program, the 
 However we understand that the maintainers of some established projects have busy schedules; which is why we encourage you to ask the community for help! If there are other regular and motivated contributors to your project who you think fit the profile of a good mentor and whom you trust to be experts on the subject, please ask them if they would be interested in being project mentors. If that doesn't work, get in touch with us directly – maybe we can find a solution together.
 
 <p>If you have any further questions, drop us a line at <a href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.</p>
-
