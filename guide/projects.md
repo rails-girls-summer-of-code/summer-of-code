@@ -41,6 +41,8 @@ Having a Code of Conduct or similar guidelines on your project is encouraged. Pr
 Mentors are patient, tolerant and open people! Ideally you are already familiar with the [Rails Girls](http://www.railsgirls.com) movement or other newcomer initiatives. You care about diversity and making Open Source projects more accessible to newcomers.
 A mentor is a maintainer of the proposed project (or a core-contributor) and is the dedicated contact person for the team over the summer.
 
+RGSoC teams have their nuances, but in general a good mentor is one that is approachable and stays informed on the students' progress. After getting acquainted, teams set up their communication channel (oftentimes the RGSoC Slack group) and keep it there. Some student teams will reach out to you often, others will do so only when truly stuck. It's important to get a feel for when it's time to check in with the students and see if there's a way you can help.
+
 Being a mentor entails:
 
 * providing guidance and feedback concerning your project through the summer
