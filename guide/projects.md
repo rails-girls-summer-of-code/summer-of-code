@@ -94,6 +94,8 @@ By submitting your project for Rails Girls Summer of Code, you are allowing your
 
 On the “All Projects” page, you can view all submitted projects and their status (proposed, accepted, rejected) as well as edit or delete your submission.
 
+After submitting your project, it's likely that one of the organizers will offer feedback or ask questions. It's a good idea to keep an eye out for these!
+
 
 <h3 id="q6">I'd like to submit my project, but what if I have no time to be a mentor?</h3>
 
