@@ -18,7 +18,7 @@ We also met [Nynne](https://twitter.com/nynnest), last year’s alumni and also 
 
 
 ![Don't Panic](https://saintsebastian.github.io/content/images/2016/11/FullSizeRender.jpg)
-*helpful advice*
+*helpful advice - Source: kindr3d*
 
 
 ### What is it?
@@ -34,7 +34,7 @@ The moment [Sacha Judd](http://www.sachajudd.com) made a hall full of tech folk 
 
 
 ![team kindr3d gif](/img/blog/2016/team-kindr3d-btconf.gif)
-*team reunion*
+*team reunion - Source: kindr3d*
 
 There were funny and hands-on talks, where we've been scribbling notes constantly. Big themes across them were accessibility, taking care of people outside the bubble of european/north american high-speed paradise, and relying on simple and robust technologies (so no React love). There was funny, creative (if slightly salty) [advice on writing less code](https://vimeo.com/channels/beyondtellerrand/190834530) by [Heydon Pickering](http://www.heydonworks.com) (we are tempted to buy his book). Useful and very needed at the moment list of [refactoring practices](https://vimeo.com/channels/beyondtellerrand/190866449). Also notable talks on [typography in interfaces](https://vimeo.com/channels/beyondtellerrand/190844058) and [image optimisation](https://vimeo.com/channels/beyondtellerrand/190871719)
 
@@ -52,4 +52,4 @@ Overall several days after the conference we still pondering over many ideas peo
 
 
 ![team kindr3d and Nynne](/img/blog/2016/team-kindr3d-btconf.jpg)
-*Nynne and team kindr3d vs unfortunate lighting*
+*Nynne and team kindr3d vs unfortunate lighting - Source: kindr3d*
