@@ -17,8 +17,9 @@ Team kindr3d were lucky enough to get free tickets for this year [Berlin BTconf]
 We also met [Nynne](https://twitter.com/nynnest), last year’s alumni and also our supervisor for a week this summer. And we had great conversations and exchanged our experience about our own RGSoC and being a female junior developer.
 
 
-![Don't Panic](https://saintsebastian.github.io/content/images/2016/11/FullSizeRender.jpg)
-*helpful advice - Source: kindr3d*
+![Don't Panic](/img/blog/2016/team-kindr3d-dontpanic.jpg)
+*helpful advice - Source: kindr3d
+*
 
 
 ### What is it?
