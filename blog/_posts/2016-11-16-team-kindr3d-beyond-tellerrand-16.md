@@ -2,7 +2,7 @@
 title: Team kindr3d @ Beyond Tellerrand 16
 layout: post
 created_at: Tue Nov 16 2016
-permalink: blog/2016-11-16-team-kindr3d-beyond-tellerland-16
+permalink: blog/2016-11-16-team-kindr3d-beyond-tellerrand-16
 current: blog
 author: kindr3d
 twitter: TKindr3d
