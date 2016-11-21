@@ -12,8 +12,9 @@ You wish to support women working full-time on Open Source projects for three mo
 
 Here is some general information about your role as a mentor, as well as guidelines for the submission; RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language!
 
-<strong><em>Note: Submissions are now closed.</em></strong>
+<em>Submissions are now open for 2017 — apply <a href="https://teams.railsgirlssummerofcode.org/">here</a>.</em>
 
+<br>
 <ul>
 <li><a href="#q1">What is a good project?</a></li>
 <li><a href="#q2">What does a good mentor do?</a></li>
@@ -76,8 +77,7 @@ By submitting your project for Rails Girls Summer of Code, you are allowing your
 
 <h3 id="q5">How do I submit my project?</h3>
 
-<em>Note: Submissions are now closed for 2016. See you next year!</em>
-<br>You can submit your project on our [Teams App](https://teams.railsgirlssummerofcode.org); you will need to authenticate with GitHub. Once logged in:
+<br>You have until January 31st, 2017 (23:59:00 UTC) to submit your project on our [Teams App](https://teams.railsgirlssummerofcode.org); you will need to authenticate with GitHub. Once logged in:
 
 * Click on “Submit your project” in the navigation bar.
 * By default, we assume the submitter is also the primary mentor. If that isn’t the case, enter the name of the primary Mentor as well as their email address and GitHub handle.
