@@ -11,12 +11,13 @@ categories:
 - conferences
 ---
 ## <span class="color-red">Intercontinental conference meeting @GOTOber in Berlin</span>
-![Team Twitches, Team Ruby's Secret and Team LoadToCode go GOTOber](/img/blog/2016/20161128-GOTOber_1.gif)<font color="grey"><small><i>Team LoadToCode goes GOTOber</i></small></font>
+![Team Twitches, Team Ruby's Secret and Team LoadToCode go GOTOber ](/img/blog/2016/20161128-GOTOber_1.gif)<font color="grey"><small><i>Team LoadToCode goes GOTOber</i></small></font>
 
-So bla bla bla
+GOTO Berlin is two days of conference November 14 & 15, and it is about learning, networking and meeting developers.
+
 ## <span class="color-red">...so the second tech conference for Team Load to Code is taking place in their home town: Berlin!</span>
 
-**Berlin Team meeting Team Twitches from New Delhi/India and re-meeting Team Ruby's Secret from Cairo/Egypt**
+**Berlin Team LoadtoCode meeting Team Twitches from New Delhi/India and re-meeting Team Ruby's Secret from Cairo/Egypt**
 
 ![The 3 Teams meeting keynote speaker Carina Zona](/img/blog/2016/20161128-GOTOber_2.jpg)<font color="grey"><small><i>All the teams on GOTOber stage</i></small></font>
 
@@ -25,30 +26,22 @@ Spending time with the extraordinary Carina Zona
 
 ## <span class="color-red">Podcasting for #RGSoC</span>
 
-![Team LoadToCode](/img/blog/2016//img/blog/2016/20161128-GOTOber_3.jpg)<font color="grey"><small><i> (Image: Team LoadToCode)</i></small></font>
+![Tobi interviewing Vrinda about her Rails Girls Summer of Code 2016 experience](img/blog/2016/20161128-GOTOber_3.jpg)<font color="grey">
 
-GOTO Berlin is two days of conference November 14 & 15, and it is about learning, networking and meeting developers.
+So we ran into [Tobi](https://twitter.com/pragtob) again, after meeting him at [RubyConfPt](/blog/2016-11-08-RubyConfPt) as a speaker! He joined our second podcasting episode and did a spontaneous interview with Vrinda. Tobi is a coach at RubyCorns, a weekly study group of the Rails Girls Berlin chapter and took part in previous RGSoCs!
 
-So we met [Tobi](https://twitter.com/pragtob) again, he was a speaker at [RubyConfPt](https://rubyconf.pt)
-We had very inspiring conversations with [Carina](https://twitter.com/cczona) you can find more about her talk [here](https://gotocon.com/berlin-2016/speaker/Carina+C.+Zona) and seeing her on stage for the final keynote on Tuesday was definitely one of the highlights. It was about engaging in a critical approach towards algorithms and the unintended effects they might have on users.
+We had very inspiring conversations with [Carina](https://twitter.com/cczona) you can find out more about her [here](https://gotocon.com/berlin-2016/speaker/Carina+C.+Zona) and seeing her on stage for the final keynote on Tuesday was definitely one of the highlights. It was about engaging in a critical approach towards algorithms and the unintended effects they might have on users.
 
-Sal has given a very personal talk about autism, that was very touching but also raising awareness of neurodiversity of different people and colleagues, social environments especially in tech companies.
+![Nada shared her thoughts on the talk in a tweet](/img/blog/2016//img/blog/2016/20161128-GOTOber_5.jpg)<font color="grey">
 
-![Meeting the director of Women Who Code Berlin](/img/blog/2016/20161128-GOTOber_4.jpg)<font color="grey"><small><i>Team Picture of Thea & Marie (Image: Team LoadToCode)</i></small></font>
+
+[Sal](https://gotocon.com/berlin-2016/speaker/Sallyann+Freudenberg) has given a very personal talk about autism, raising awareness of neurodiversity within all the different people and colleagues, especially in tech environments & companies.
+
+![Meeting the director of Women Who Code Berlin](/img/blog/2016/20161128-GOTOber_4.jpg)<font color="grey"><small><i>The 3 teams & Aleksandra</i></small></font>
 
 ## <span class="color-red">What we learned</span>
-* Overview of LEAP Architecture: Learning about Bitmask, Soledad, Pixelated! It is complex, but not impossible to understand, we recommend to start using these services. They care for your security and privacy!
-* Web Applications with Rails, creating a blog webapp with Rails
-* Git & Github
+* Be mindful when it comes to unintended effects of algorithms
+* Meeting other RGSoC teams is one of the best parts of #RGSoC
+* Podcasting is great fun!
 
-## <span class="color-red">What comes next:</span>
-
-So in order to get more structure and keep track of our tasks, what we have done and we're we heading to, we created a Kanban board.
-
-![Team LoadToCode](/img/blog/2016/team-loadtocode-Reallife-KANMAN-board.jpg)<font color="grey"><small><i>Kanban Board: Goals, ongoing tasks and Backlog :) (Image: Team LoadToCode)</i></small></font>
-
-At the end of our 3rd week we're gonna improve our presentational skills and give an overview of the LEAP project to our coaches at SoundCloud. 20 minutes of presentation and 10 minutes Q&A, so we hope to be prepared enough for the tricky questions.
-
-At the end some dog content! \o/ Here you see our favourite Colleague, adorable mate and patient listener!
-
-![Team LoadToCode](/img/blog/2016/team-loadtocode-favourite-colleague.jpg)<font color="grey"><small><i>CTO of SoundCloud (Images: Team LoadToCode)</i></small></font>
+## <span class="color-red">And NOW: start you own podcasting episode for #RGSoC</span>
