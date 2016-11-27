@@ -1,7 +1,7 @@
 ---
 title: Intercontinental conference meeting @GOTOber in Berlin
 layout: post
-created_at: Mon Nov 28 2016
+created_at: Sun Nov 27 2016
 permalink: blog/2016-11-28-intercontinental-gotober
 current: blog
 author: Marie & Thea, Taneea & Vrinda, Mayar & Nada
@@ -10,7 +10,7 @@ categories:
 - student-posts
 - conferences
 ---
-
+## <span class="color-red">Intercontinental conference meeting @GOTOber in Berlin</span>
 ![Team Twitches, Team Ruby's Secret and Team LoadToCode go GOTOber](/img/blog/2016/20161128-GOTOber_1.gif)<font color="grey"><small><i>Team LoadToCode goes GOTOber</i></small></font>
 
 So bla bla bla
