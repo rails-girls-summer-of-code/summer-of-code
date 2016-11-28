@@ -89,6 +89,7 @@ By submitting your project for Rails Girls Summer of Code, you are allowing your
   * Frame possible features students could work on.
   * ...or just ask the students to contact you for this.
 * Add keywords: this can mean a language, like "Python", framework like "React", but also specific technologies or concepts.
+* Add the name of your license in the "license" field.
 * You can flag your project as “suitable for beginners” by using the available checkbox.
 * Click Submit!
 
