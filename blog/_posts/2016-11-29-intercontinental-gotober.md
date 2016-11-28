@@ -12,7 +12,9 @@ categories:
 ---
 ![RGSoC goes GOTOber](/img/blog/2016/20161128-GOTOber_1.gif)<font color="grey"><small><i>Team Twitches, Team Ruby's Secret and Team LoadToCode go GOTOber</i></small></font>
 
-Happiness was in the air when Mayar from team Ruby's secret and Taneea and Vrinda from team Twitches were informed that they won the diversity grant tickets, having already vowed that team Ruby's secret will always be united, Nada decided to launch a crowd funding campaign to travel to Berlin and in just 4 days the total expenses were raised. For nada going to GoTo wasn't just meant to but with a little bit of persistence and the support of the amazing community of RGSoC and GoTo, Ruby's secret were reunited.
+Happiness was in the air when Mayar from team Ruby's secret and Taneea and Vrinda from team Twitches were informed that they won the diversity grant tickets, having already vowed that team Ruby's secret will always be united, Nada decided to launch a crowd funding campaign to travel to Berlin and in just 4 days the total expenses were raised. For nada going to GOTO wasn't just meant to but with a little bit of persistence and the support of the amazing community of RGSoC and GOTO, Ruby's secret were reunited.
+
+**[Nada](https://twitter.com/Nada_Ashraf96) was endlessly grateful for the support: Thank you <3 <3**
 
 So GOTO Berlin meant two days of conference in Berlin on November 14th & 15th, and it is all about learning, networking and meeting developers. But it was not just another conference. Not only Team LoadToCode from Berlin was attending, but also
 Team Twitches from New Delhi/India and Team Ruby's Secret from Cairo/Egypt \o/!
@@ -40,10 +42,14 @@ We also met Aleksandra, who is one of the directors of [Women Who Code Berlin](h
 ## <span class="color-red">Company Stalls At The Conference</span>
 Along with the attendees of the conference, there were company stalls that were showcasing their work at GOTO Berlin. Some companies like Thoughtworks and eBay were present.  The stall tables were usually laden with give-away stickers or pens or cards that were strategically placed to invite the attendees to visit the stall. What was next was that the people manning the stall would tell you about their company or product and encourage you to use it or visit their site. Some companies were especially helpful for students in giving away internships.
 
+It was the first time Team Twitches was traveling abroad. While we'd expected that the trip to Berlin wouldn't be easy to forget,  we didn't realize that we would have so much fun! Berlin was a sure highlight, but nothing tops the conference, and the diverse set of people we got to meet. We heard inspiring stories, made new friends and realized that mansplaining happens more often than you'd think (thanks to Carina C. Zona).
+**Overall, pretty productive couple of days, eh?**
+
 ## <span class="color-red">What we learned</span>
 
 * Be mindful when it comes to unintended effects of algorithms
 * Meeting other RGSoC teams is one of the best parts of #RGSoC
+* At conferences watch out for possible internship or job opportunities
 * Podcasting is great fun!
 
 **And NOW: start you own podcasting episode for #RGSoC**
