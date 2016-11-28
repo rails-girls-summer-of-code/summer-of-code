@@ -17,7 +17,7 @@ Happiness was in the air when Mayar from team Ruby's secret and Taneea and Vrind
 
 **[Nada](https://twitter.com/Nada_Ashraf96) was endlessly grateful for the support: Thank you <3 <3**
 
-![The 3 Teams meeting keynote speaker Carina Zona taken by Fritz the photographer at GoTo](/img/blog/2016/20161128-GOTOber_2.jpg)<font color="grey"><small><i>All the teams on GOTOber stage with Carina C. Zona</i></small></font>
+![The 3 Teams meeting keynote speaker Carina Zona taken by Fritz the photographer at GOTO](/img/blog/2016/20161128-GOTOber_2.jpg)<font color="grey"><small><i>All the teams on GOTOber stage with Carina C. Zona</i></small></font>
 
 Spending time with the extraordinary [Carina Zona](https://twitter.com/cczona) led to very inspiring conversations you can find out more about her [here](https://gotocon.com/berlin-2016/speaker/Carina+C.+Zona). Seeing her on stage for the final keynote on Tuesday was definitely one of the highlights. It was about engaging in a critical approach towards algorithms and the unintended effects they might have on users.
 
