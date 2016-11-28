@@ -12,12 +12,10 @@ categories:
 ---
 ![RGSoC goes GOTOber](/img/blog/2016/20161128-GOTOber_1.gif)<font color="grey"><small><i>Team Twitches, Team Ruby's Secret and Team LoadToCode go GOTOber</i></small></font>
 
-Happiness was in the air when Mayar from team Ruby's secret and Taneea and Vrinda from team Twitches were informed that they won the diversity grant tickets, having already vowed that team Ruby's secret will always be united, Nada decided to launch a crowd funding campaign to travel to Berlin and in just 4 days the total expenses were raised. For nada going to GOTO wasn't just meant to but with a little bit of persistence and the support of the amazing community of RGSoC and GOTO, Ruby's secret were reunited.
+So GOTO Berlin meant two days of conference in Berlin on November 14th & 15th, and it is all about learning, networking and meeting developers. But it was not just another conference. Not only Team LoadToCode from Berlin was attending, but also Team Twitches from New Delhi/India and Team Ruby's Secret from Cairo/Egypt \o/!
+then after that happiness was in the air when Mayar from team Ruby's secret and Taneea and Vrinda from team Twitches were informed that they won the diversity grant tickets, having already vowed that team Ruby's secret will always be united, Nada decided to launch a crowd funding campaign to travel to Berlin and in just 4 days the total expenses were raised. For nada going to GOTO wasn't just meant to but with a little bit of persistence and the support of the amazing community of RGSoC and GOTO, Ruby's secret were reunited.
 
 **[Nada](https://twitter.com/Nada_Ashraf96) was endlessly grateful for the support: Thank you <3 <3**
-
-So GOTO Berlin meant two days of conference in Berlin on November 14th & 15th, and it is all about learning, networking and meeting developers. But it was not just another conference. Not only Team LoadToCode from Berlin was attending, but also
-Team Twitches from New Delhi/India and Team Ruby's Secret from Cairo/Egypt \o/!
 
 ![The 3 Teams meeting keynote speaker Carina Zona](/img/blog/2016/20161128-GOTOber_2.jpg)<font color="grey"><small><i>All the teams on GOTOber stage with Carina C. Zona</i></small></font>
 
