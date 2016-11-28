@@ -29,7 +29,7 @@ Here is some general information about your role as a mentor, as well as guideli
 A good Open Source project to propose for RGSoC 2016:
 
 
-* has an open-source license
+* has at least one [open-source license](https://opensource.org/licenses/alphabetical) (dual, OS/commercial licenses are usually ok but will be looked at on a case-by-case basis)
 * is established enough to allow collaboration (beyond the set-up phase)
 * has a dedicated contact person/maintainer
 * is beginner/junior-friendly (open to newcomers, maintains an inviting, helpful and understanding communication and a non-discriminating environment, etc.)
