@@ -1,8 +1,8 @@
 ---
 title: Intercontinental conference meeting @GOTOber in Berlin
 layout: post
-created_at: Mon Nov 28 2016
-permalink: blog/2016-11-28-intercontinental-gotober
+created_at: Tue Nov 29 2016
+permalink: blog/2016-11-29-intercontinental-gotober
 current: blog
 author: Marie & Thea, Taneea & Vrinda, Mayar & Nada
 twitter: LoadToCode
@@ -12,7 +12,9 @@ categories:
 ---
 ![RGSoC goes GOTOber](/img/blog/2016/20161128-GOTOber_1.gif)<font color="grey"><small><i>Team Twitches, Team Ruby's Secret and Team LoadToCode go GOTOber</i></small></font>
 
-GOTO Berlin means two days of conference in Berlin on November 14th & 15th, and it is all about learning, networking and meeting developers. But it was not just another conference. Not only Team LoadToCode from Berlin was attending, but also
+Happiness was in the air when Mayar from team Ruby's secret and Taneea and Vrinda from team Twitches were informed that they won the diversity grant tickets, having already vowed that team Ruby's secret will always be united, Nada decided to launch a crowd funding campaign to travel to Berlin and in just 4 days the total expenses were raised. For nada going to GoTo wasn't just meant to but with a little bit of persistence and the support of the amazing community of RGSoC and GoTo, Ruby's secret were reunited.
+
+So GOTO Berlin meant two days of conference in Berlin on November 14th & 15th, and it is all about learning, networking and meeting developers. But it was not just another conference. Not only Team LoadToCode from Berlin was attending, but also
 Team Twitches from New Delhi/India and Team Ruby's Secret from Cairo/Egypt \o/!
 
 ![The 3 Teams meeting keynote speaker Carina Zona](/img/blog/2016/20161128-GOTOber_2.jpg)<font color="grey"><small><i>All the teams on GOTOber stage with Carina C. Zona</i></small></font>
@@ -33,6 +35,10 @@ So we ran into [Tobi](https://twitter.com/pragtob) again, after meeting him at [
 ![Meeting the director of Women Who Code Berlin](/img/blog/2016/20161128-GOTOber_4.jpg)<font color="grey"><small><i>Meeting the director of Women Who Code Berlin Aleksandra</i></small></font>
 
 We also met Aleksandra, who is one of the directors of [Women Who Code Berlin](https://twitter/com/wwcodeberlin), that are organizing really cool events for women who are coding or who are interested in doing so! We got invited to join the meet up later that week!
+
+
+## <span class="color-red">Company Stalls At The Conference</span>
+Along with the attendees of the conference, there were company stalls that were showcasing their work at GOTO Berlin. Some companies like Thoughtworks and eBay were present.  The stall tables were usually laden with give-away stickers or pens or cards that were strategically placed to invite the attendees to visit the stall. What was next was that the people manning the stall would tell you about their company or product and encourage you to use it or visit their site. Some companies were especially helpful for students in giving away internships.
 
 ## <span class="color-red">What we learned</span>
 
