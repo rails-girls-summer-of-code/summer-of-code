@@ -1,7 +1,7 @@
 ---
 title: Intercontinental conference meeting @GOTOber in Berlin
 layout: post
-created_at: Tue Nov 29 2016
+created_at: Wed Nov 30 2016
 permalink: blog/2016-11-30-intercontinental-gotober
 current: blog
 author: Marie & Thea, Taneea & Vrinda, Mayar & Nada
@@ -22,7 +22,7 @@ Happiness was in the air when Mayar from team Ruby's secret and Taneea and Vrind
 
 Spending time with the extraordinary [Carina Zona](https://twitter.com/cczona) led to very inspiring conversations you can find out more about her [here](https://gotocon.com/berlin-2016/speaker/Carina+C.+Zona). Seeing her on stage for the final keynote on Tuesday was definitely one of the highlights. It was about engaging in a critical approach towards algorithms and the unintended effects they might have on users.
 
-![RGSoC goes GOTOber](/img/blog/2016/20161128-GOTOber_5.jpg)<font color="grey">
+![RGSoC goes GOTOber](/img/blog/2016/20161128-GOTOber_5.jpg)<font color="grey"><small><i>Nada shared her thoughts on the talk in a tweet</i></small></font>
 
 [Sal Freudenberg](https://gotocon.com/berlin-2016/speaker/Sallyann+Freudenberg) has given a very personal talk about autism, raising awareness of neurodiversity within all the different people and colleagues, especially in tech environments & companies.
 
