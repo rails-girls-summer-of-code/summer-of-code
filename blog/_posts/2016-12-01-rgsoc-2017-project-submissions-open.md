@@ -27,8 +27,9 @@ You may have noticed that this year you will have two full months to submit your
 
 #### <span class="color-red">Sharing is <strike>caring</strike> making tech more inclusive</span>
 
-Call to Action: Please share this tweet or facebook post with your friends! Thank you!
+Call to Action: Please share this [tweet](https://twitter.com/RailsGirlsSoC/status/804328063794343936?lang=en) or [facebook post](https://www.facebook.com/620914904656191/videos/1219773604770315/) with your friends! Thank you!
 
-TWEET
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🎉 Are you ready for RGSoC 2017? We are! OSS Project Submissions are now OPEN until Jan 31st!<br>Apply here 👉 <a href="https://t.co/xT0bjfr0ga">https://t.co/xT0bjfr0ga</a> <a href="https://t.co/VOhLJK7gRJ">pic.twitter.com/VOhLJK7gRJ</a></p>&mdash; Rails Girls SoC (@RailsGirlsSoC) <a href="https://twitter.com/RailsGirlsSoC/status/804328063794343936">December 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Let’s make RGSoC 2017 the year with the most diverse selection of projects so far!
