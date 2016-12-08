@@ -17,7 +17,8 @@ CurrentStudents.prototype = {
 			.done(function(data) {
 				this.queryData = data;
 				self.getStudentsPerTeam(this.queryData);
-				self.buildPage(this.queryData);
+				self.sortTeamsByName();
+				self.buildPage();
 				$('.is-loading').removeClass('is-loading');
 
 			}).fail(function() {
@@ -30,7 +31,7 @@ CurrentStudents.prototype = {
 		$.each(data, function(k, v) {
 			// Structure for this array:
 			// [{teamName: name, teamMembers: [{respective students from data}]}]
-			var teamName = v.roles[0].team.name;
+			var teamName = v.roles[0].team.name.trim();
 
 			// empty variable, which is filled in the for loop and
 			// used in the if statement
@@ -51,17 +52,27 @@ CurrentStudents.prototype = {
 			// else: create a new object inside the teams-array
 			if (existingTeam) {
 				existingTeam.Members.push(v);
-			}else {
+			} else {
 				var team = {Name: teamName, Members: [v]};
 				self.teams.push(team);
 			}
 		});
 	},
-	buildPage: function(data) {
+
+	sortTeamsByName: function() {
+		var self = this;
+		self.teams.sort(self.compareNames);
+	},
+
+	compareNames: function(a, b) {
+		var opts = {sensitivity:'base'};
+		return a.Name.localeCompare(b.Name, 'en', opts);
+	},
+
+	buildPage: function() {
 		var self = this;
 		var output = '';
 		var avatar = '';
-		console.log(this.teams);
 		// Structure is:
 		// [{teamName: name, teamMembers: [{respective students from data}]}]
 		$.each(this.teams, function(k, v) {
