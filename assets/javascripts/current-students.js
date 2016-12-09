@@ -75,8 +75,12 @@ CurrentStudents.prototype = {
 		var avatar = '';
 		// Structure is:
 		// [{teamName: name, teamMembers: [{respective students from data}]}]
+		output += '<h2> 2016 Students </h2>';
+		output += '<div class="students-container">';
+
 		$.each(this.teams, function(k, v) {
-			output += '<h2>'+ 'Team ' + v.Name +'</h2>';
+			output += '<div class="students-item">';
+			output += '<h4>'+ 'Team ' + v.Name +'</h4>';
 			output += '<ul class="list--none list--team Grid--5">';
 			$.each(v.Members, function(key, val) {
 				if(val.avatar_url === null) {
@@ -95,7 +99,9 @@ CurrentStudents.prototype = {
 				output += '</p></figcaption></li>';
 			});
 			output += '</ul>';
+			output += '</div>';
 		});
+    output += '</div>';
 		$('#js-students').append(output);
 	},
 };

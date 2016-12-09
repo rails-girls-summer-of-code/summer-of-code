@@ -13,7 +13,9 @@
   text-align: center;
 }
 .list--team figure img {
-  width: 60%;
+  width: 10vw;
+  max-width: 12rem;
+  min-width: 60%;
   border-radius: 50%;
   overflow: hidden;
 }
@@ -42,4 +44,22 @@
   background-image: url('../../../img/ajax-loader.gif');
   background-repeat: no-repeat;
   background-position: center;
+}
+
+/*
+ * Student grid
+ */
+#js-students {
+  h2 {
+    margin-top: floor(($font-size-h1 * $headings-line-height)); // 64px
+  }
+  .students-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    .students-item {
+      text-align: center;
+      width: 300px;
+    }
+  }
 }
