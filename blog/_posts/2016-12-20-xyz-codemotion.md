@@ -2,7 +2,7 @@
 title: Code in Motion: Story of the XYZ team in Berlin
 layout: post
 created_at: Sun Dec 04 2016
-permalink: blog/2016-12-04-xyz-codemotion
+permalink: blog/2016-12-20-xyz-codemotion
 current: blog
 author: Veronika and Daria
 twitter: xyzcoode
