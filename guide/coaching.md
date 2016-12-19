@@ -49,6 +49,8 @@ permalink: /guide/coaching/
 
 <p>It is important for coaches to teach the process of programming - showing the way to a solution rather than telling the answer. This will sometimes include going over the basics, showing how to debug and troubleshoot, or discussing concepts on paper. Coaches should spend time with their students in front of the screen, guiding them through the relevant coding steps (eg. by asking mindful questions). Every project is different; just make sure your students really understand what you are trying to teach them, at the risk of not being <abbr title="Don't Repeat Yourself">DRY</abbr> :)</p>
 
+<p>While we know that sometimes life gets in the way and that unexpected events happen: We really encourage all coaches supporting a team to try their hardest to commit, and not to drop out of the program halfway through. <strong>Your support is essential for teams to succeed</strong>!</p>
+
 <h3 id="time">How much time does coaching take?</h3>
 
 * A couple of hours a day during office hours

@@ -60,7 +60,7 @@ Once you're happy with your changes, commit them:
 
 - `git add .`
 - `git commit -m "your commit message"`
-- `git push origin your-branch` (where `your-branch` is the name of the branch you created at the beginning). Yhis will push your changes to `your-branch` of your own fork of the `summer-of-code` repo on github)
+- `git push origin your-branch` (where `your-branch` is the name of the branch you created at the beginning). This will push your changes to `your-branch` of your own fork of the `summer-of-code` repo on github)
 - make a pull request by navigating to your repo (`http://www.github.com/your_username/summer-of-code`) and your branch (`your-branch`), and by clicking the "Compare & Review" button, as explained [here](https://help.github.com/articles/using-pull-requests/).
 
 You can find very thorough information on Pull Requests in [GitHub's documentation](https://help.github.com/articles/creating-a-pull-request/).
@@ -112,7 +112,7 @@ not upload images much larger than that (resize them using a very simple image
 manipulation tool of your choosing). As a rule of thumb: An image "heavier"
 than 250 kilobytes is too big. There are several tools you can use online to compress your images, for example [TinyPNG](https://tinypng.com/) or [compressor.io](https://compressor.io).
 
-Please add a line with image credits under each picture, crediting the person who took the photo or created the image by name, or linking to the source of the image if you found it on the internet (URL/website). Last but not least, be sure to respect the privacy of others when uploading photos. **Adding image credits is not mandatory and we will not accept any post without them**.
+Please add a line with image credits under each picture, crediting the person who took the photo or created the image by name, or linking to the source of the image if you found it on the internet (URL/website). Last but not least, be sure to respect the privacy of others when uploading photos. **Adding image credits is  mandatory and we will not accept any post without them**.
 
 ### CSS/inline styles
 
