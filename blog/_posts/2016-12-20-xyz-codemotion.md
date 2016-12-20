@@ -1,5 +1,5 @@
 ---
-title: Code in Motion: Story of the XYZ team in Berlin
+title: Code in Motion&#58; Story of the XYZ team in Berlin
 layout: post
 created_at: Tue Dec 20 2016
 permalink: blog/2016-12-20-xyz-codemotion
