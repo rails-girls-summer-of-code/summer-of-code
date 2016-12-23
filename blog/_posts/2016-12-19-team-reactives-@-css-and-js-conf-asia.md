@@ -21,7 +21,7 @@ CSS conf was a great learning opportunity about all the neat things that front e
 
 ![QR code](/img/blog/2016/team-reactives-cssconf-QRcode.jpg)
 
-Source: Team Reactives
+<font color="grey"><small><i>Source: Team Reactives</i></small></font>
 
 We attended JS conf on the second day and third days. It started right off with a talk by Cheng Zhao from Github who shared with us the community story behind Electron and how it grew from just single user to a tool that helps developers produce new apps everyday, a framework that we used for our RGSoC project! There were plenty of cool talks throughout the day and the two of the most memorable ones featured Kelsey Bresemann from Tessel who showed us a live demonstration of how she communicates with her microcontroller using javascript and Kenneth Auchenberg from Microsoft who shared with us how he and other devTool managers at Microsoft wished to revolutionise the way web developers handled their workflow.
 
