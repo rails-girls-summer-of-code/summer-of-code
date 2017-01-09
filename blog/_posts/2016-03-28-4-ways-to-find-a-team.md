@@ -60,7 +60,7 @@ Another important thing is to mention us [@RailsGirlsSoC](https://twitter.com/Ra
 
 When you sign up to the [RGSoC Teams App](http://teams.railsgirlssummerofcode.org), on the top right corner you will find our a link to our [Community](https://teams.railsgirlssummerofcode.org/users). There are over 800 people there and even though it is not a seamless process (please bear with us, we are working on it!), here you can filter people by their roles or interests. This means you can look for students who want to find a team or a developer who wants to help out as a coach. Then, you can sort the info by country or city.
 
-We hope this helps! Once again, it is never too much to remind about our Guides, like the [Application Guide](http://railsgirlssummerofcode.org/students/application/) or [Finding a Team Guide](http://railsgirlssummerofcode.org/students/finding-your-team/#find-coaches). If you need extra help reach out to us on [facebook](https://www.facebook.com/Rails-Girls-Summer-of-Code-620914904656191/), [twitter](https://twitter.com/RailsGirlsSoC) or send us an email at summer-of-code@railsgirls.com.
+We hope this helps! Once again, it is never too much to remind about our Guides, like the [Application Guide](http://railsgirlssummerofcode.org/students/application/) or [Finding a Team Guide](http://railsgirlssummerofcode.org/students/finding-your-team/#find-coaches). If you need extra help reach out to us on [facebook](https://www.facebook.com/Rails-Girls-Summer-of-Code-620914904656191/), [twitter](https://twitter.com/RailsGirlsSoC) or send us an email at contact@rgsoc.org.
 
 Good luck!
 

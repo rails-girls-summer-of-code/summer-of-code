@@ -55,4 +55,4 @@ As this is a worldwide program with students all across the globe, we are lookin
 * Chicago, IL
 * Los Angeles, CA
 
-If you’re looking for talented women who are eager to continue learning, or just want more info about how you can help out after RGSoC, please [get in touch](mailto:summer-of-code@railsgirls.com)!
+If you’re looking for talented women who are eager to continue learning, or just want more info about how you can help out after RGSoC, please [get in touch](mailto:contact@rgsoc.org)!

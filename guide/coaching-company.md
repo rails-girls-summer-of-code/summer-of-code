@@ -164,5 +164,5 @@ If your team is not chosen (neither as a sponsored nor a volunteer team), you ar
 <h2 id="q7">We have more questions!</h2>
 
 If we didn't cover your question here, then
-<a href="mailto:summer-of-code@railsgirls.com">drop us a line</a>!
+<a href="mailto:contact@rgsoc.org">drop us a line</a>!
 We'd be happy to talk about what you have to offer as a coaching company.

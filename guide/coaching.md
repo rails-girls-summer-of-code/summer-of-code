@@ -78,4 +78,4 @@ permalink: /guide/coaching/
 
 <p>We also have a <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>: send an email introducing yourself and offering to become a coach. Additionally, you can spread the word on Twitter mentioning <a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a> and we'll retweet and help you connect to students.</p>
 
-<p>If you have any further questions, drop us a line at <a href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.</p>
+<p>If you have any further questions, drop us a line at <a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a>.</p>

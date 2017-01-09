@@ -23,7 +23,7 @@ Just like last year, we have several sponsoring packages for you to choose from:
 
 ### Supporters  
 *Like sponsors, but different*  
-Outside of the monthly stipend itself, we also try to enable learning for our accepted students during and after the Summer of Code. And what better way to learn than to be part of a study group, to read books on interesting new topics, or to join an online class? In the previous editions of the Rails Girls Summer of Code, we've been very lucky to find supporters in the form of conferences, online learning platforms, book publishers, and the like, who offered what they do best: conference tickets, vouchers for free classes, and great free books to keep the learning going. We know that education can come in the most diverse form, and we welcome any offer or support that we feel will help our teams get the best out of their learning experience. Willing to commit to leading a study group for a year? Got a special deal on educational material for our teams? We want it all! [Contact us](mailto:summer-of-code@railsgirls.com).
+Outside of the monthly stipend itself, we also try to enable learning for our accepted students during and after the Summer of Code. And what better way to learn than to be part of a study group, to read books on interesting new topics, or to join an online class? In the previous editions of the Rails Girls Summer of Code, we've been very lucky to find supporters in the form of conferences, online learning platforms, book publishers, and the like, who offered what they do best: conference tickets, vouchers for free classes, and great free books to keep the learning going. We know that education can come in the most diverse form, and we welcome any offer or support that we feel will help our teams get the best out of their learning experience. Willing to commit to leading a study group for a year? Got a special deal on educational material for our teams? We want it all! [Contact us](mailto:contact@rgsoc.org).
 
 ### Coaching  
 *Coaches are our hidden gems*  
@@ -44,7 +44,7 @@ In the past, we have also had people on our core team being supported by their c
 <img src="/img/blog/2015/support-with-your-company-jump.png" width="600">
 <font color="grey"><small><i>We need all the support we can get! (Photo: Anika Lindtner)</i></small></font>
 
-Hopefully, we have given you a couple of ideas to support us this summer. [Contact us](mailto:summer-of-code@railsgirls.com) if you have more questions.
+Hopefully, we have given you a couple of ideas to support us this summer. [Contact us](mailto:contact@rgsoc.org) if you have more questions.
 
 Help us make Rails Girls Summer of Code 2015 happen: [crowdfunding campaign](http://railsgirlssummerofcode.org/campaign)!
 
