@@ -36,7 +36,7 @@ To finish it all off, we’ve collected all of the tweets about the celebrations
 ### What’s next?
 
 After the summer is before the summer! In October, we will tie all loose ends and, believe it or not, start working on the 2017 edition of RGSoC. We’re getting most of the team together in Portugal, after [RubyConfPT](http://rubyconf.pt/), to talk about our future plans: improving the program to make the experience for every one even better next year. If you happen to be around in Braga on October 27–28, come say hi! We’d love to chat.
-We’ll also be looking for volunteers, organisers, and anyone who wants to lend a hand. If this is something that interests you, [drop us a line](mailto:summer-of-code@railsgirls.com).  
+We’ll also be looking for volunteers, organisers, and anyone who wants to lend a hand. If this is something that interests you, [drop us a line](mailto:contact@rgsoc.org).  
 
 Have a wonderful autumn, and see you next year!
 

@@ -104,4 +104,4 @@ We want to make this clear: for a project to be considered for the program, the 
 
 However we understand that the maintainers of some established projects have busy schedules; which is why we encourage you to ask the community for help! If there are other regular and motivated contributors to your project who you think fit the profile of a good mentor and whom you trust to be experts on the subject, please ask them if they would be interested in being project mentors. If that doesn't work, get in touch with us directly – maybe we can find a solution together.
 
-<p>If you have any further questions, drop us a line at <a href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.</p>
+<p>If you have any further questions, drop us a line at <a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a>.</p>

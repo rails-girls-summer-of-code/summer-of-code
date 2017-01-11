@@ -89,7 +89,7 @@ about Rails Girls Summer of Code.
 ### Email us for personal questions
 
 If there should be anything you would not want to discuss publicly then send us
-an email to [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com).
+an email to [contact@rgsoc.org](mailto:contact@rgsoc.org).
 
 This email address forwards to our internal organizers mailinglist and only
 organizers have access to it.

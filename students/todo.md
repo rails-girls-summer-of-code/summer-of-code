@@ -53,7 +53,7 @@ A primary goal of Rails Girls Summer of Code is to be inclusive to the all of ou
 We have a [Code of Conduct](/about/code-of-conduct) in place and will again set up a trust committee that consists of both people involved with organizing, and externals. You can contact the person you feel most comfortable reaching out to.
 
 <h3>Orga Team</h3>     
-And if all else fails, we are always here to support you. Send us an email at [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com) and we'll figure out the rest together. 
+And if all else fails, we are always here to support you. Send us an email at [contact@rgsoc.org](mailto:contact@rgsoc.org) and we'll figure out the rest together. 
 
 Now there's only one thing left to say: Use all the channels there are and ask all the questions you have!
 
@@ -100,7 +100,7 @@ A blog can be a great place for a more general recap of your project work, refle
 
 <br>
 
-If you have any concerns or questions on these points, please contact us at [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com) before the start of the program.
+If you have any concerns or questions on these points, please contact us at [contact@rgsoc.org](mailto:contact@rgsoc.org) before the start of the program.
 
 
 <h2 id="social-events">Social Events and Conferences</h2>      

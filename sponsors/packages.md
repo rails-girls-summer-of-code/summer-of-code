@@ -35,7 +35,7 @@ permalink: /sponsors/packages/
 <div class="row">
   <div class="col-md-8 col-md-offset-2">
     <h3>Partner Company Package</h3>
-    <p>To find out more about the option for becoming a partner company and what partnercompanies do, please <a href="mailto:summer-of-code@railsgirls.com">write us an email</a>.</p>
+    <p>To find out more about the option for becoming a partner company and what partnercompanies do, please <a href="mailto:contact@rgsoc.org">write us an email</a>.</p>
 
     <h3>Platinum</h3>
 
@@ -73,7 +73,7 @@ permalink: /sponsors/packages/
 
     <p>Logos and links on the website will be sorted by package size and date donation confirmed.</p>
 
-    <p>If you have any questions, comments, or don’t feel this list quite represents what you have to offer, please get in touch: <a href="mailto: summer-of-code@railsgirls.com">summer-of-code@railsgirls.com.</a></p>
+    <p>If you have any questions, comments, or don’t feel this list quite represents what you have to offer, please get in touch: <a href="mailto: contact@rgsoc.org">contact@rgsoc.org.</a></p>
 
     <h3>Your swag in student support packages</h3>
 

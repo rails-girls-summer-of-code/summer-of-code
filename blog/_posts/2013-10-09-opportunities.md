@@ -21,5 +21,5 @@ Look around and ask your local communities to help you. Get involved with your l
 
 ###Sponsors, Companies, friends
 
-If you want to give our talented students the opportunity to work with you and your team or have a recommendation: drop us a line at [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
+If you want to give our talented students the opportunity to work with you and your team or have a recommendation: drop us a line at [contact@rgsoc.org](mailto:contact@rgsoc.org)
 

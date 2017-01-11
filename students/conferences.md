@@ -77,7 +77,7 @@ At the conference, we want our students to hold a lightning talk about their pro
 
 We are not able to support our students with travel & accommodation. If you have any means to financially support people (e.g. a travel scholarship or a diversity program), please let us know about the details. We will inform the students about how it works for your conference.
 
-Interested? Any further questions? <a href="mailto:summer-of-code@railsgirls.com">Write us an email</a> and we can talk about the details.
+Interested? Any further questions? <a href="mailto:contact@rgsoc.org">Write us an email</a> and we can talk about the details.
 
 <h2 id="conferences">Conference Sponsors in 2016</h2>
 

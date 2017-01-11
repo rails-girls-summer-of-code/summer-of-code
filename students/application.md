@@ -105,7 +105,7 @@ The other sections are related to your project and team setup and they should be
 
 It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later.
 
-If you have any queries about the application process, please <a href="mailto:summer-of-code@railsgirls.com">contact us</a>.
+If you have any queries about the application process, please <a href="mailto:contact@rgsoc.org">contact us</a>.
 
 <h3 id="selection">Selection and judging</h3>
 
@@ -131,7 +131,7 @@ During the Summer of Code we have the following requirements which students have
 
 Rails Girls Summer of Code will assist and support you with any of these requirements. As a further insight on this, or on setting up a good working environment, please read our article on <a href="/students/todo/">“What to expect”</a>, where we gathered suggestions and recommendations for students.
 We strongly advise you to get acquainted with these requirements before and during application time. We will make sure they are complied with and will take steps in case of breaches.  
-If you have any questions about the above list, please <a href="mailto:summer-of-code@railsgirls.com">contact us</a>.
+If you have any questions about the above list, please <a href="mailto:contact@rgsoc.org">contact us</a>.
 
 <h3 id="volunteer-teams">A note on volunteer teams</h3>
 

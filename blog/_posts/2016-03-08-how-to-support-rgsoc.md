@@ -49,7 +49,7 @@ Your can register here: [https://teams.railsgirlssummerofcode.org/](https://team
 Your devs can also help out in our remote #helpdesk Slack channel during the summer, where students can ask for help if their coaches are not available or are stuck as well. If you are interested in that, you should register in our [Teams-App](https://teams.railsgirlssummerofcode.org/) as well and tick the "Interested in helping out as helpdesk coach" box. We'll write a grateful blog post about your involvmeent and will mention you in our tweets and Facebookpostings with lots of love.
 
 
-We hope you'll join us in one way or another on our journey to bring more women into the OSS world. [Contact us](mailto:summer-of-code@railsgirls.com) if you have more questions.
+We hope you'll join us in one way or another on our journey to bring more women into the OSS world. [Contact us](mailto:contact@rgsoc.org) if you have more questions.
 
 Help us make Rails Girls Summer of Code 2016 happen: [Donate now!](http://railsgirlssummerofcode.org/campaign)!
 

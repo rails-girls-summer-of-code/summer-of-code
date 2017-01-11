@@ -39,7 +39,7 @@ We are so happy to have shared this summer with you! It was a-ma-zing!
 
 
 
-P.S. No need to fall in to a post-RGSoC-blues! After RGSoC is before RGSoC: You can already [sponsor the 2016 edition](http://railsgirlssummerofcode.org/campaign/). Or get involved with organizing: drop us [an email](mailto:summer-of-code@railsgirls.com)! 
+P.S. No need to fall in to a post-RGSoC-blues! After RGSoC is before RGSoC: You can already [sponsor the 2016 edition](http://railsgirlssummerofcode.org/campaign/). Or get involved with organizing: drop us [an email](mailto:contact@rgsoc.org)! 
 
 
 

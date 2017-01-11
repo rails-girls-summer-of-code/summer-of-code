@@ -34,7 +34,7 @@ We want to provide a safe space for everyone involved. Please read our
 ### Get in touch
 
 For more information regarding project ideas, coaching, sponsoring or
-participating as a student, please email us on [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
+participating as a student, please email us on [contact@rgsoc.org](mailto:contact@rgsoc.org)
 
 + *Social Media*: Follow Rails Girls Summer of Code on [Twitter](https://twitter.com/RailsGirlsSoC) and find us on [Facebook](https://www.facebook.com/pages/Rails-Girls-Summer-of-Code/620914904656191).
 + *Social Coding*: And of course we are also on [GitHub](https://github.com/rails-girls-summer-of-code).

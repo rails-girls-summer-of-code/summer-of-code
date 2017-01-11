@@ -91,4 +91,4 @@ Paris, France
 We’ll announce the winners of the conference raffle later this week. We are still talking to more conference organisers, so if you don’t get a ticket for this first raffle, don’t worry! We will be doing a second one next month with the remaining conferences. Hooray!
 
 *Are you an organizer of a Rails, Ruby, JavaScript or web development-related conference – and would you like to give our students an unforgettable experience and join the list of awesome conferences above? Let’s talk!  
-Shoot us an email: summer-of-code@railsgirls.com*
+Shoot us an email: contact@rgsoc.org*

@@ -89,6 +89,6 @@ profile in the [RGSoC Teams App](https://teams.railsgirlssummerofcode.org/). -->
 
 If something's not clear, or you have any questions about what you need to
 do, please let us know by emailing
-[summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
+[contact@rgsoc.org](mailto:contact@rgsoc.org)
 
 
