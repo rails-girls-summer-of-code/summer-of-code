@@ -1,0 +1,86 @@
+links:
+  - icon: file-text-o
+    title: Press Releases
+    href: press-releases
+  - icon: pencil-square-o
+    title: Logos
+    href: logos
+  - icon: camera
+    title: Images
+    href: images
+  - icon: video-camera
+    title: Videos
+    href: videos
+  - icon: quote-right
+    title: Quotes
+    href: quotes
+  - icon: newspaper-o
+    title: Articles
+    href: articles
+
+logos:
+  - image_path: /img/press/section-logos/rgsoc-logo_white-red-background
+    title: White logo with red background
+    extension: png
+  - image_path: /img/press/section-logos/rgsoc-logo_red-transparent-background
+    title: Red logo with transparent background
+    extension: png
+  - image_path: /img/press/section-logos/rgsoc-logo_bw-transparent-background
+    title: Black and white logo with transparent background
+    extension: png
+  - image_path: /img/press/section-logos/rgsoc-logo_white-red-background-square
+    title: White logo with red background - square
+    extension: png
+  - image_path: /img/press/section-logos/rgsoc-logo_red-transparent-background-square
+    title: Red logo with transparent background -square
+    extension: png
+  - image_path: /img/press/section-logos/rgsoc-logo_bw-transparent-background-square
+    title: Black and white logo with transparent background -square
+    extension: png
+
+images:
+  - image_path: /img/press/section-images/rgsoc-2016-reactives-team-coaches-01-singapore-sg
+    title: Team Reactives
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2016-rubys-secret-team-coaches-cairo-eg
+    title: Team Ruby's Secret
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2016-joda-team-coaches-03-berlin-de
+    title: Team Joda
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2016-echo-team-kampala-ug
+    title: Team Echo
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2016-jam-team-portland-us
+    title: Team JaM
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2016-twitches-team-coaches-new-delhi-in
+    title: Team Twitches
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2016-rookies-team02-helsinki.fi
+    title: Team Rookies
+    extension: png
+  - image_path: /img/press/section-images/rgsoc-2016-hackbrighters-team-sanfrancisco-us
+    title: Team Hackbrighters
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2015-tessie-team-vienna-at
+    title: Team Tessie
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2015-rubynbugs-team-berlin-de
+    title: Team RubyNBugs
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2015-hackrgirls-team-cochin-in
+    title: Team Hackrgirls
+    extension: png
+  - image_path: /img/press/section-images/rgsoc-2015-deltaquadrant-team-coaches-berlin-de
+    title: Team DeltaQuadrant
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2015-cheesy-amsterdam-nl
+    title: Team Cheesy
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2016-perifericas-team-coaches-salvador-br
+    title: Team Perifericas
+    extension: jpg
+  - image_path: /img/press/section-images/rgsoc-2016-xyz-team-coaches-prague-cz
+    title: Team XYZ
+    extension: jpg
