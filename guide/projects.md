@@ -26,7 +26,7 @@ Here is some general information about your role as a mentor, as well as guideli
 
 <h3 id="q1">What is a good project?</h3>
 
-A good Open Source project to propose for RGSoC 2016:
+A good Open Source project to propose for RGSoC 2017:
 
 
 * has at least one [open-source license](https://opensource.org/licenses/alphabetical) (dual, OS/commercial licenses are usually ok but will be looked at on a case-by-case basis)
