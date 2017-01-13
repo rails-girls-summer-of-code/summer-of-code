@@ -117,6 +117,8 @@ Remember: Successful applications are not “first in, best dressed”, but are 
 On top of the <a href="#eligibility">eligibity criteria</a> above, there are a few other things which we pay attention to during the selection process and which can impact the final rating of your application.
 
 * **Community involvement** is important. The more you are involved the better.
+* **Experience**. We want you to have some experience in programming and working in a team. We don’t expect you to be an expert, but knowledge of some basic concepts and practices is an advantage.
+
 * **Concise code examples**. The best case scenario is linking to a completed coding challenge provided by your mentor (if provided). Links to good and somewhat laconic examples of code written by you are a good option, too.  
 * Don’t hesitate to share your **prior accomplishments**. Have you ever build something cool? Do you have achievements you are proud of? Or just small but functioning things you made for fun? Your ability to work and achieve matters.  
 * We don’t require you having **local coaches**, but strong local support is a factor which makes your team stronger and you Summer of Code more productive. However we understand that not all locations make it easy to find local coaches and consider this circumstance, too.
