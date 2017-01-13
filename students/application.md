@@ -18,7 +18,7 @@ permalink: /students/application/
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
 
-**Applications for Rails Girls Summer of Code 2016 are now closed.**
+**Applications for RGSoC 2017 will open on February 1st, 2017.**
 
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
@@ -48,9 +48,11 @@ All people with non-binary gender identities or who identify as women are welcom
 
 * who are involved with, or have attended one or more workshops organized by communities like <a href="http://railsgirls.com/">Rails Girls</a>, Railsbridge, Black Girls Code, PyLadies, or similar initiatives.
 
-* with at least a year’s experience of continuous learning, i.e. has significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples.
+* with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples.
 
-* who can spend 3 months (July to September 2016) working **full-time** on their Open Source project of choice.
+* who can spend 3 months (July to September 2017) working **full-time** on their Open Source project of choice.
+
+* who are proficient (spoken and written) in English. You will be communicating with several people from different countries, and English is our main language of communication.
 
 * who have never participated in our program as a sponsored team before.
 
@@ -92,11 +94,11 @@ As a team, you will be required to define your goals for the program, and plan t
 
 <h4 id="project">A project</h4>
 
-A good place to start is to have a look <a href="https://teams.railsgirlssummerofcode.org/projects">here</a> at our list of projects approved for RGSoC 2016. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community - in particular, people who are familiar with your experience so far.  
+Your project must be selected from <a href="https://teams.railsgirlssummerofcode.org/projects">our list of projects approved for RGSoC 2017</a>. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community - in particular, people who are familiar with your experience so far.  
 
 <h3 id="place-application">Placing your application</h3>
 
-**Applications for Rails Girls Summer of Code 2016 are now closed.**
+**Applications for RGSoC 2017 will open on February 1st, 2017.**
 
 In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will be asked to create a team (if you haven't done so yet). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
 
@@ -120,7 +122,7 @@ Along with this application guide, please also read about <a href="/students/tod
 
 During the Summer of Code we have the following requirements which students have to agree with and, in case of being selected, will sign for in a written agreement:
 
-* Participate full-time from July 1st to September 30th 2016
+* Participate full-time from July 1st to September 30th 2017
 * Continuously work on the chosen and approved Open Source project.
 * Keep track of your work with a short, daily summary.
 * Keep regular contact to your supervisor and your mentor and abide to reaction times for communication.
