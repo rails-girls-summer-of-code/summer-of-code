@@ -98,7 +98,7 @@ Your project must be selected from <a href="https://teams.railsgirlssummerofcode
 
 <h3 id="place-application">Placing your application</h3>
 
-**Applications for RGSoC 2017 will open on February 1st, 2017.**
+**Applications for RGSoC 2017 will open on February 1st, 2017 and will close on March 1st, 2017.**
 
 In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will be asked to create a team (if you haven't done so yet). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
 
