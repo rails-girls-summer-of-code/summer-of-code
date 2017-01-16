@@ -18,7 +18,7 @@ permalink: /students/application/
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
 
-**Applications for Rails Girls Summer of Code 2016 are now closed.**
+**Applications for RGSoC 2017 will open on February 1st, 2017.**
 
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
@@ -48,9 +48,11 @@ All people with non-binary gender identities or who identify as women are welcom
 
 * who are involved with, or have attended one or more workshops organized by communities like <a href="http://railsgirls.com/">Rails Girls</a>, Railsbridge, Black Girls Code, PyLadies, or similar initiatives.
 
-* with at least a year’s experience of continuous learning, i.e. has significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples.
+* with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples.
 
-* who can spend 3 months (July to September 2016) working **full-time** on their Open Source project of choice.
+* who can spend 3 months (July to September 2017) working **full-time** on their Open Source project of choice.
+
+* who are proficient (spoken and written) in English. You will be communicating with several people from different countries, writing daily logs and blog posts, and English is our main language of communication.
 
 * who have never participated in our program as a sponsored team before.
 
@@ -73,7 +75,7 @@ For further information on finding a teammate we have prepared a detailed guide 
 
 <h4 id="coaches">Coaches</h4>
 
-Coaches are developers who sit down with you, guide you through relevant coding steps and troubleshoot with you at regular intervals. Consequently, it is **required** that they are based in the same city as your team.  
+Coaches are developers who sit down with you, guide you through relevant coding steps and troubleshoot with you at regular intervals. Consequently, it is **recommended** that they are based in the same city as your team.  
 From past experiences, we recommend a time of 4-8 hours per week of coaching time. Therefore, we require a minimum of 2 coaches, so they can share the time commitment, and you and your teammate will have more flexible support.  
 
 Our <a href="/guide/coaching/">guide for coaches</a> will help to give you insight on what is required of them, and help you to explain this to prospective coaches. For further information on how to find coaches, we have also prepared a detailed guide <a href="/students/finding-your-team">here</a>.
@@ -92,11 +94,11 @@ As a team, you will be required to define your goals for the program, and plan t
 
 <h4 id="project">A project</h4>
 
-A good place to start is to have a look <a href="https://teams.railsgirlssummerofcode.org/projects">here</a> at our list of projects approved for RGSoC 2016. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community - in particular, people who are familiar with your experience so far.  
+Your project must be selected from <a href="https://teams.railsgirlssummerofcode.org/projects">our list of projects approved for RGSoC 2017</a>. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community - in particular, people who are familiar with your experience so far. We also recommend getting in touch with the mentor of the project you are applying with to introduce yourself, get to know them, and see whether they think you'd be a good fit.    
 
 <h3 id="place-application">Placing your application</h3>
 
-**Applications for Rails Girls Summer of Code 2016 are now closed.**
+**Applications for RGSoC 2017 will open on February 1st, 2017 and will close on March 1st, 2017.**
 
 In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will be asked to create a team (if you haven't done so yet). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
 
@@ -105,12 +107,26 @@ The other sections are related to your project and team setup and they should be
 
 It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later.
 
+**Want to get a headstart on your application?** You can already create your team on the <a href="https://teams.railsgirlssummerofcode.org/teams">Teams App</a>: On the “Teams” page, click on “New Team” and add your team members (team mate, coaches) to your new team!
+
 If you have any queries about the application process, please <a href="mailto:contact@rgsoc.org">contact us</a>.
 
 <h3 id="selection">Selection and judging</h3>
 
 Applications are reviewed on a case-by-case basis by a group of real human beings in the coding community; we aim for a diverse group of teams consisting of different countries, projects, backgrounds and skill levels.  
-Remember: Successful applications are not “first in, best dressed”, but are judged on how well they fulfill eligibility criteria. Don’t rush your application, but rather take your time to find your teammate, your coaches, and to choose the most suitable project for your team.  
+Remember: Successful applications are not “first in, best dressed”, but are judged on how well they fulfill eligibility criteria.
+
+On top of the <a href="#eligibility">eligibity criteria</a> above, there are a few other things which we pay attention to during the selection process and which can impact the final rating of your application.
+
+* **Community involvement** is important. The more you are involved the better.
+* **Experience**. We want you to have some experience in programming and working in a team. We don’t expect you to be an expert, but knowledge of some basic concepts and practices is an advantage.
+
+* **Concise code examples**. The best case scenario is linking to a completed coding challenge provided by your mentor (if provided). Links to good and somewhat laconic examples of code written by you are a good option, too.  
+* Don’t hesitate to share your **prior accomplishments**. Have you ever build something cool? Do you have achievements you are proud of? Or just small but functioning things you made for fun? Your ability to work and achieve matters.  
+* We don’t require you having **local coaches**, but strong local support is a factor which makes your team stronger and you Summer of Code more productive. However we understand that not all locations make it easy to find local coaches and consider this circumstance, too.
+* The **project of your choice** might also impact our selection decisions. We don't often choose more than one team per project; so the higher competition for the project of your choice is, the harder it may be to go through the selection process. You can see how many teams applied to which projects <a href="https://teams.railsgirlssummerofcode.org/projects/">here</a>.
+
+Don’t rush your application, but rather take your time to find your teammate, your coaches, and to choose the most suitable project for your team.  
 
 Applications sent after the deadline cannot be considered for judging.
 
@@ -120,7 +136,7 @@ Along with this application guide, please also read about <a href="/students/tod
 
 During the Summer of Code we have the following requirements which students have to agree with and, in case of being selected, will sign for in a written agreement:
 
-* Participate full-time from July 1st to September 30th 2016
+* Participate full-time from July 1st to September 30th 2017
 * Continuously work on the chosen and approved Open Source project.
 * Keep track of your work with a short, daily summary.
 * Keep regular contact to your supervisor and your mentor and abide to reaction times for communication.
@@ -139,7 +155,7 @@ As well as the funded teams, every year Rails Girls Summer of Code has also had 
 Volunteer teams adhere to the same guidelines as funded teams and apart from the stipend, they receive the same amount of support as the other teams and are just as involved in the social activities.
 Due to this, volunteer teams are also subjected to the selection process. In your application, you will have the option to select whether you are applying as a funded team, a volunteer team, or you can select both options.
 
-<h3 id="volunteer-teams">Before you apply: the checklist</h3>
+<h3 id="checklist">Before you apply: the checklist</h3>
 
 Here is the basic checklist for your application:
 
@@ -147,6 +163,7 @@ Here is the basic checklist for your application:
   <li><span class="glyphicon glyphicon-unchecked"></span> Have you read, and fully understood, this guide?</li>  
   <li><span class="glyphicon glyphicon-unchecked"></span> Have you found a teammate?  </li>
   <li><span class="glyphicon glyphicon-unchecked"></span> Has your team selected a <a href="https://teams.railsgirlssummerofcode.org/projects">project</a>?  </li>
+  <li><span class="glyphicon glyphicon-unchecked"></span> Have you gotten in touch with the mentor of the project you have selected?</li>
   <li><span class="glyphicon glyphicon-unchecked"></span> Has your team found at least two coaches who will commit to helping you?  </li>
   <li><span class="glyphicon glyphicon-unchecked"></span> Has your team found a suitable workspace for the duration of the program?  </li>
   <li><span class="glyphicon glyphicon-unchecked"></span> Do you agree with and meet all of the requirements listed above?  </li>
