@@ -153,7 +153,7 @@ As well as the funded teams, every year Rails Girls Summer of Code has also had 
 Volunteer teams adhere to the same guidelines as funded teams and apart from the stipend, they receive the same amount of support as the other teams and are just as involved in the social activities.
 Due to this, volunteer teams are also subjected to the selection process. In your application, you will have the option to select whether you are applying as a funded team, a volunteer team, or you can select both options.
 
-<h3 id="volunteer-teams">Before you apply: the checklist</h3>
+<h3 id="checklist">Before you apply: the checklist</h3>
 
 Here is the basic checklist for your application:
 
