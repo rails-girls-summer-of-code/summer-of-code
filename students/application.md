@@ -107,6 +107,8 @@ The other sections are related to your project and team setup and they should be
 
 It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later.
 
+**Want to get a headstart on your application?** You can already create your team on the <a href="https://teams.railsgirlssummerofcode.org/teams">Teams App</a>: On the “Teams” page, click on “New Team” and add your team members (team mate, coaches) to your new team!
+
 If you have any queries about the application process, please <a href="mailto:contact@rgsoc.org">contact us</a>.
 
 <h3 id="selection">Selection and judging</h3>
