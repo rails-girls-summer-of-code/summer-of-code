@@ -59,7 +59,7 @@ permalink: /sponsors/packages/
       <li>Everything from the Bronze package.</li>
       <li>You get a bigger logo and will be listed higher up on these pages.</li>
       <li>Your testimonial will be included in our press kit.</li>
-      <li>Your swag included in support packages sent out to all students during the summer(see below).</li>
+      <li>Your swag included in support packages sent out to all students during the summer (see below).</li>
     </ul>
 
     <h3>Bronze</h3>
