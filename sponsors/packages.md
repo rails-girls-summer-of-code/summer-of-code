@@ -59,7 +59,7 @@ permalink: /sponsors/packages/
       <li>Everything from the Bronze package.</li>
       <li>You get a bigger logo and will be listed higher up on these pages.</li>
       <li>Your testimonial will be included in our press kit.</li>
-      <li>Your swag included in support packages sent out to all students during the summer (see below).</li>
+      <li>All your swag included in support packages sent out to all students during the summer (see below).</li>
     </ul>
 
     <h3>Bronze</h3>
@@ -67,7 +67,7 @@ permalink: /sponsors/packages/
     <ul>
       <li>Your logo will be placed on the footer of our <a href="/">homepage</a>.</li>
       <li>You will be listed on our <a href="/sponsors">sponsors page</a>, which will be linked to frequently (see our sponsors pages from <a href="http://2015.railsgirlssummerofcode.org/sponsors/">2015</a> and <a href="http://2016.railsgirlssummerofcode.org/sponsors/">2016</a>).</li>
-      <li>Your stickers included in support packages sent out to all students during the summer (see below).</li>
+      <li>Your stickers or other small swag included in support packages sent out to all students during the summer (see below).</li>
       <li>Your company will be included in the Sponsor opportunity Newsletter to participants.</li>
       <li>Lots of tweet love, hype and buzz from the community.</li>
     </ul>
@@ -78,7 +78,7 @@ permalink: /sponsors/packages/
 
     <h3>Your swag in student support packages</h3>
 
-    <p>If you send us your swag, we will include it in a “care package” that will be sent out to each student. Bronze sponsors are very welcome to send stickers, Silver sponsors and upwards may send additional swag (e.g. pens, notebooks, web-cam covers or other things that fit nicely with a Summer of Code learning project). </p>
+    <p>If you send us your swag, we will include it in a “care package” that will be sent out to each student. Bronze sponsors are very welcome to send stickers, or other small items that fit into an envelope. Silver sponsors and upwards may send additional swag (e.g. pens, notebooks, web-cam covers or other things that fit nicely with a Summer of Code learning project). </p>
 
     <h3>Your company in the Sponsor opportunity Newsletter</h3>
 
