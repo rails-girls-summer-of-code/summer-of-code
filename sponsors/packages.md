@@ -35,7 +35,7 @@ permalink: /sponsors/packages/
 <div class="row">
   <div class="col-md-8 col-md-offset-2">
     <h3>Partner Company Package</h3>
-    <p>To find out more about the option for becoming a partner company and what partnercompanies do, please <a href="mailto:contact@rgsoc.org">write us an email</a>.</p>
+    <p>To find out more about the option for becoming a partner company and what partnercompanies do, please <a href="mailto:campaign@rgsoc.org">write us an email</a>.</p>
 
     <h3>Platinum</h3>
 
