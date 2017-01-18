@@ -66,7 +66,7 @@ permalink: /sponsors/packages/
 
     <ul>
       <li>Your logo will be placed on the footer of our <a href="/">homepage</a>.</li>
-      <li>You will be listed on our <a href="/sponsors">sponsors page</a>, which will be linked to frequently (see our sponsors pages from <a href="http://2014.railsgirlssummerofcode.org/sponsors">2014</a> and <a href="http://2013.railsgirlssummerofcode.org/sponsors-thanks">2013</a>).</li>
+      <li>You will be listed on our <a href="/sponsors">sponsors page</a>, which will be linked to frequently (see our sponsors pages from <a href="http://2015.railsgirlssummerofcode.org/sponsors/">2015</a> and <a href="http://2016.railsgirlssummerofcode.org/sponsors/">2016</a>).</li>
       <li>Your stickers included in support packages sent out to all students during the summer (see below).</li>
       <li>Your company will be included in the Sponsor opportunity Newsletter to participants.</li>
       <li>Lots of tweet love, hype and buzz from the community.</li>
