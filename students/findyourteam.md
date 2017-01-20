@@ -24,6 +24,7 @@ Here is some info on putting together your team, including tips on finding coach
       <li><a href="#good-teammate">What makes a suitable teammate?</a></li>
       <li><a href="#find-teammate">Where do I find a teammate?</a></li>
     </ul>
+  <li><a href="#guidelines">Guidelines on public posts and tweets</a></li>
 </ul>
 
 <h3 id="coaches">Coaches</h3>
@@ -64,3 +65,20 @@ A great place to start with this is with your local Rails Girls chapter. Speak t
 Another suggestion is to attend, and speak to people in your local Ruby meetup group — or other user groups relevant to whichever language prospective projects are in.
 
 If you have no luck, or live in an area where there is no Rails Girls chapter or no user group, ask on <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">the Rails Girls Summer of Code community mailing list</a>, or via <a href="https://www.twitter.com/railsgirlssoc">@RailsGirlsSoC</a> on Twitter. We will happily connect and retweet you!
+
+<h3 id="guidelines">Guidelines on public posts and tweets</h3>
+
+When you post either to the mailing list or to twitter, please follow these simple guidelines. They'll help you get the best out of our network!
+
+<h4>Mailing List</h4>
+
+* <strong>Put your location in the post subject</strong>. Writing where you will be located for the summer (city and country) right in the subject will make it easier for people to find you.
+* <strong>Give context</strong>. Write in your post what your background is, what kind of support you're looking for (coaches, team mate, students to coach), and the programming languages you know and/or plan to use during RGSoC. 
+* <strong>Mark the topic as completed once you've found a match</strong>. If someone replies to you and you successfully find your team mate / student team / coach, **please** mark the topic as completed. This will avoid people reaching out to you in vain, and will help us keep track of who is still looking for whom.
+
+<h4>Twitter</h4>
+* <strong>Write your location in your tweet</strong>. That way, we can retweet you easily.
+* <strong>Mention our account (@RailsGirlsSoC) in your tweet</strong>. We'll get notified about your tweet and will be able to share it with our network.
+* <strong>Try to add some context or give as much useful information as possible</strong>. An example of a good tweet would be: <em>“Looking for a coach (remote or local) for @RailsGirlsSoC; we are based in Berlin, Germany and plan to work on a Python or Ruby project!”</em> This shows all the information needed for someone interested in helping you out: who you're looking for, your location, and your preferred languages.
+
+Good luck!
