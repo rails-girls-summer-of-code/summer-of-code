@@ -25,7 +25,10 @@ We started with a [plan](https://github.com/TeamDeltaQuadrant/project_plan/blob/
 
 For our most complex issue, the implementation of a map to show geo-location data we prepared a small screencast to see the results:
 
-<iframe src="https://player.vimeo.com/video/140902101?color=ff0179" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/140902101">Diaspora* Map Demo</a> from <a href="https://vimeo.com/user42699530">Julia</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="videoWrapper">
+<iframe src="https://player.vimeo.com/video/140902101?color=ff0179"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+</div>
+<p><a href="https://vimeo.com/140902101">Diaspora* Map Demo</a> from <a href="https://vimeo.com/user42699530">Julia</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ###5 tips from our side:
