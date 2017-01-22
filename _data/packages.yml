@@ -19,6 +19,7 @@
         - 2014
         - 2015
         - 2016
+        - 2017
     - name: GitHub
       id: github
       url: http://github.com
@@ -37,6 +38,7 @@
         - 2014
         - 2015
         - 2016
+        - 2017
 - name: Platinum
   title: Platinum Sponsors
   sponsors:
@@ -60,6 +62,7 @@
         support women following those same passions.
       years:
         - 2016
+        - 2017
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
@@ -86,9 +89,11 @@
         diversity in Open Source.
       years:
         - 2016
+        - 2017
     - name: Agilebloom
       id: agilebloom
       url: https://www.agilebloom.com/
       text: |-
       years:
         - 2016
+        - 2017
