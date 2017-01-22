@@ -1,0 +1,675 @@
+- name: Partners
+  title: Partner Companies
+  sponsors:
+    - name: Travis CI
+      id: travis
+      url: http://travis-ci.com
+      partner: true
+      text: |-
+        <a href="https://travis-ci.com" target="_blank">Travis</a> is an Open Source
+        company, born and raised in beautiful Berlin. Travis CI is their hosted
+        continuous integration service for the open source community. It is integrated
+        with GitHub and offers first class support for a ton of programming languages,
+        like Python, Go, PHP, Java, C++ and of course Ruby. They also launched <a
+        href="http://foundation.travis-ci.org">Travis Foundation</a>, a non-profit
+        organisation which aims to make Open Source an even better place. One of their
+        goals is to make Rails Girls Summer of Code a recurring tradition.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+    - name: GitHub
+      id: github
+      url: http://github.com
+      partner: true
+      text: |-
+        <a href="https://github.com" target="_blank">GitHub</a> is the best place to
+        share code with friends, co-workers, classmates, and complete strangers. Over
+        three million people use GitHub to build amazing things together. With the
+        collaborative features of GitHub.com, our desktop and mobile apps, and GitHub
+        Enterprise, it has never been easier for individuals and teams to write better
+        code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ
+        Hyett to simplify sharing code, GitHub has grown into the largest code host in
+        the world.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+- name: Platinum
+  title: Platinum Sponsors
+  sponsors:
+    - name: Google
+      id: google
+      url: https://developers.google.com/open-source
+      text: |-
+        <a href="https://developers.google.com/open-source/" target="_blank">Google</a>
+        is a multinational corporation specializing in Internet-related services and
+        products. They also are contributing to Open Source whith their own Open Source
+        program. Their Open Source section releases Google-created code, providing
+        vital infrastructure, supporting Open Source organizations, handling internal
+        Open Source compliance, and by running student outreach programs such as Google
+        Summer of Code and Google Code-in.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+- name: Gold
+  title: Gold Sponsors
+  sponsors:
+    - name: GitLab
+      id: gitlab
+      url: https://about.gitlab.com
+      text: |-
+        <a href="https://about.gitlab.com/">GitLab</a> is a community project primarily
+        written in Ruby on Rails. Over 1000 people worldwide have contributed! GitLab
+        Inc. is an active participant in this community, and we support organizations
+        and individuals using GitLab.  Our team is distributed across the globe, and
+        we're always growing. We're excited to sponsor RailsGirls Summer of Code to
+        help get more women involved in Rails.
+      years:
+        - 2016
+    - name: Basecamp
+      id: basecamp
+      url: https://basecamp.com
+      text: |-
+        <a href="https://basecamp.com/">Basecamp</a> is the world's #1 project
+        management tool. We make it easy for people in different roles with different
+        responsibilities to communicate and work together. <a
+        href="https://basecamp.com/">Basecamp</a> is proud to support Rails Girls
+        Summer of Code 2015 because we believe in fostering a supportive space for
+        women in the open source community. Ruby on Rails is the heart and soul of
+        Basecamp, and we wouldn't exist without contributions from people like the
+        Rails Girls!
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+    - name: Malwarebytes
+      id: malwarebytes
+      url: http://www.malwarebytes.org
+      text: |-
+        <a href="http://www.malwarebytes.org" target="_blank">Malwarebytes</a> builds
+        Internet security software that detects and removes malware antivirus doesn't
+        catch. As a company we are deeply invested in the developer community and
+        believe brilliant code can change the world. That's why we are proud supporters
+        of the Rails Girls Summer of Code, its participants, and its mission.
+      years:
+        - 2014
+        - 2016
+    - name: Honeybadger
+      id: honeybadger
+      url: https://www.honeybadger.io
+      text: |-
+        <a href="https://www.honeybadger.io" target="_blank">Honeybadger</a> is the
+        best exception monitoring service on the planet — in fact, it’s so awesome,
+        you’ll want to get more errors in your application just so you can use it more!
+        Built on Rails, it helps developers deliver great experiences to their users.
+        We at Honeybadger love the open source community, and we are happy to sponsor
+        Rails Girls Summer of Code to help make that community even better.
+      years:
+        - 2013
+        - 2014
+        - 2016
+    - name: Compose
+      id: compose
+      url: https://compose.io
+      text: |-
+        <a href="https://www.compose.io/">Compose</a> is a Database As A Service
+        (DBaaS) company, offering developers the tools to deploy and manage MongoDB,
+        PostgreSQL, Redis, RethinkDB, Elasticsearch, etcd and RabbitMQ databases
+        quickly and easily, so developers don't have to worry about their database.
+        Compose is committed to equality in the technology field and is proud to
+        partner with Rails Girls Summer of Code.
+      years:
+        - 2015
+        - 2016
+    - name: Mozilla
+      id: mozilla
+      url: https://www.mozilla.org
+      text: |-
+        At <a href="https://www.mozilla.org">Mozilla</a>, we’re a global community of technologists, thinkers and builders
+        working together so people worldwide can be informed contributors and
+        creators of the Web. Our mission is to ensure the Internet is a global
+        public resource, open and accessible to all, where individuals can shape
+        their own experience and are empowered, safe and independent.
+      years:
+        - 2016
+- name: Silver
+  title: Silver Sponsors
+  sponsors:
+    - name: Softwire
+      id: softwire
+      url: http://www.softwire.com/
+      text: |-
+        <a href="http://www.softwire.com/" target="_blank">Softwire</a> is a bespoke
+        software design and development company with offices in London and Bristol.
+        Our brilliant staff have a passion for technology and Open Source (we're keen
+        contributors to 24 Pull Requests) and we're excited to help Rails Girls Summer of Code
+        support women following those same passions.
+      years:
+        - 2016
+    - name: The James Golick Grant for Women in Computology
+      id: james_golick_grant
+      url: http://jamesgolick.com/2013/10/16/women-in-open-source.html
+      text: |-
+        <a href="https://medium.com/@benkaufman/remembering-james-golick-23c1dc3ab920">James Golick</a>,
+        a well-known figure in the Ruby community, CTO of
+        <a href="https://nrml.com/">Normal</a>, friend to many, master of the headstand
+        and self-proclaimed computologist was  an outspoken advocate for women in
+        technology. After James and fellow developer Danielle Bessler died in a car
+        accident in December 2014, his friends and family created a fund to continue
+        James' work making tech a better place for women. James
+        <a href="http://jamesgolick.com/2013/10/16/women-in-open-source.html">believed</a>
+        that working on open source was a path to success in the software industry and
+        a great way for women to advance their careers. That is why the board of
+        <a href="https://jamesgolick.bitmakerlabs.com/">The James Golick Grant for Women
+        in Computology</a> is so happy to partner with Rails Girls Summer of Code.
+      years:
+        - 2015
+        - 2016
+    - name: Mapbox
+      id: mapbox
+      url: https://www.mapbox.com
+      text: |-
+        <a href="https://www.mapbox.com">Mapbox</a> is a custom mapping platform for
+        developers and designers. With mapping APIs for web and mobile applications,
+        developers use Mapbox to bring maps to their applications. We work in the open
+        and build our product with open source software and open data. We're proud to
+        support Rails Girls Summer of Code and know that our help will strengthen our
+        community.
+      years:
+        - 2015
+        - 2016
+    - name: Twilio
+      id: twilio
+      url: https://www.twilio.com
+      text: |-
+        <a href="https://www.twilio.com">Twilio</a> is a cloud communications
+        platform for software developers to build, scale and operate real time
+        communications in their software applications.  Twilio powers the
+        future of business communications, enabling phones, VoIP, and messaging
+        to be embedded into web, desktop, and mobile software. We take care of
+        the messy telecom hardware and expose a globally available cloud API
+        that developers can interact with intelligent & complex communications
+        systems.  Twilio is excited to help Rails Girls Summer of Code inspire
+        and equip women to build the future of communications
+      years:
+        - 2015
+        - 2016
+    - name: DNSimple
+      id: dnsimple
+      url: https://dnsimple.com
+      text: |-
+      years:
+        - 2016
+    - name: Innoq
+      id: innoq
+      url: http://www.innoq.com
+      text: |-
+        <a href="https://www.innoq.com" target="_blank">innoQ</a> is a
+        consulting and software development firm with a focus on technology and
+        architecture, doing Rails development since 2007. We are supporting
+        Rails Girls Summer of Code for the fourth time because we want to help
+        increase the number of women who consider a career in tech and foster
+        their chances to achieve this goal.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+    - name: Blue Box
+      id: bluebox
+      url: http://www.blueboxcloud.com
+      text: |-
+        For over a decade, <a href="http://www.blueboxcloud.com">Blue Box</a>
+        has supported industry innovators who deliver top notch Web applications to the
+        world. Today, we continue that journey by offering Blue Box Cloud, our managed
+        Private Cloud as a Service (PCaas) product available in both hosted and on-prem
+        versions, powered by OpenStack. We’re thrilled to support the diversity that
+        RailsGirls promotes.
+      years:
+        - 2015
+        - 2016
+    - name: openSUSE
+      id: opensuse
+      url: https://www.opensuse.org/
+      text: |-
+        The <a href="https://www.opensuse.org/">openSUSE</a> project is a worldwide
+        effort that promotes the use and development of Linux. openSUSE cares about the
+        Free and Open Source Software community and supports Rails Girls Summer of Code
+        because the FOSS community is a more vibrant community with female coders.
+      years:
+        - 2016
+    - name: Elastic
+      id: elastic
+      url: http://elastic.co
+      text: |-
+        Founded in 2012 by the people behind the Elasticsearch open source project,
+        <a href="http://www.elastic.co">Elastic</a> provides a software stack for developers to make massive amounts of
+        structured and unstructured data available and to utilize real-time insights to
+        power mission critical applications for search, logging, analytics, and more.
+        By focusing on scalability, ease-of-use, and ease-of-integration, Elastic’s
+        products — Elasticsearch, Kibana, Logstash, Beats, and Elastic Cloud power many
+        of the world’s leading mobile, social, consumer and business applications, and
+        to date have achieved more than 55 million cumulative downloads.  Elastic is
+        backed by Benchmark Capital, Index Ventures, and NEA with headquarters in
+        Amsterdam and Mountain View, California, and offices and employees around the
+        world. To learn more, visit <a href="http://www.elastic.co">www.elastic.co</a>.
+      years:
+        - 2015
+        - 2016
+    - name: coreOS
+      id: coreos
+      url: https://coreos.com/
+      # text: |-
+      #   <a href="https://coreos.com/">coreOS</a>
+      years:
+        - 2016
+    - name: Thoughtworks
+      id: thoughtworks
+      url: http://www.thoughtworks.com
+      text: |-
+        <a href="https://www.thoughtworks.com" target="_blank">ThoughtWorks</a> is a
+        software company and a community of passionate, purpose-led individuals. We
+        think disruptively to deliver technology to address our clients' toughest
+        challenges, all while seeking to revolutionize the IT industry and create
+        positive social change.
+      years:
+        - 2014
+        - 2015
+        - 2016
+- name: Bronze
+  title: Bronze Sponsors
+  sponsors:
+    - name: Soundcloud
+      id: soundcloud
+      url: https://soundcloud.com
+      text: |-
+        <a href="https://soundcloud.com" target="_blank">SoundCloud</a> is the world’s
+        leading social sound platform where anyone can create sounds and share them
+        everywhere. Recording and uploading sounds to SoundCloud lets people easily
+        share them privately with their friends or publicly to blogs, sites and social
+        networks.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+    - name: Exam Success
+      id: examsuccess
+      url: https://www.examsuccess.com.au/
+      text: |-
+        <a href="https://www.examsuccess.com.au/">Exam Success</a> helps students ace their
+        selective school entrance tests, scholarship exams and IELTS exams through a range of
+        online learning materials such as online courses, test papers and social writing
+        practice. <a href="https://www.examsuccess.com.au/">Exam Success</a> is delighted to
+        support the amazing team at Rails Girls Summer of Code 2016 in continuing to enhance
+        diversity in Open Source.
+      years:
+        - 2016
+    - name: Hashrocket
+      id: hashrocket
+      url: http://hashrocket.com
+      text: |-
+        <a href="http://hashrocket.com">Hashrocket</a> is a premier software
+        consultancy passionate about technology and community. They build powerful web
+        and mobile applications, provide design and development training, and
+        frequently contribute to the open source community. Hashrocket is proud to
+        support Rails Girls in their mission to encourage diversity and bring newcomers
+        into the tech industry.
+      years:
+        - 2014
+        - 2015
+        - 2016
+    - name: Wooga
+      id: wooga
+      url: http://www.wooga.com
+      text: |-
+        Founded in 2009, <a href="http://www.wooga.com/" target="_blank">Wooga</a> has
+        become one of the most popular developers of mobile games in the world. At its
+        HQ in Berlin, employees from more than 40 nations develop high quality
+        free-to-play games. Wooga’s focus is on regularly creating hits such as Jelly
+        Splash, Pearl’s Peril, Diamond Dash and most recently Agent Alice. Over 50
+        million people play Wooga’s games every month, world-wide.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+    - name: Bendyworks
+      id: bendyworks
+      url: http://bendyworks.com
+      text: |-
+        <a href="http://bendyworks.com/" target="_blank">Bendyworks</a> delivers
+        high-value consulting, resulting in software that can flex in the face of
+        changing business needs. They are composed exclusively of creative and involved
+        programmers who dedicate themselves to sharing joy and success in their craft.
+        Bendyworks is thrilled to once again support Rails Girls Summer of Code.
+      years:
+        - 2013
+        - 2015
+        - 2016
+    - name: Buffer
+      id: buffer
+      url: https://bufferapp.com
+      text: |-
+        <a href="https://bufferapp.com">Buffer</a> was started in 2010 as a simple way
+        to schedule posts on Twitter. Today we're honored to be the tool that more than
+        2 million amazing customers use to save time on social media by scheduling and
+        sharing to all their favorite social media networks. We're a growing remote
+        team located all around the world with a passion for self-improvement and
+        positivity. We can't think of a better way to support our values than by
+        supporting Rails Girls!
+      years:
+        - 2015
+        - 2016
+    - name: Keenio
+      id: keenio
+      url: http://keen.io
+      text: |-
+        <a href="http://keen.io/" target="_blank">Keen IO</a> is an analytics API for
+        the modern developer. Use Keen IO to collect JSON events from any source and
+        make charts, graphs, and reports based on the data you've collected. We're a
+        big supporter for equality and diversity initiatives in technology and are very
+        proud to be a part of the Rails Girls Summer of Code program.
+      years:
+        - 2014
+        - 2015
+        - 2016
+    - name: Synack
+      id: synack
+      url: https://www.synack.com/
+      text: |-
+        <a href="https://www.synack.com/">Synack</a> is a security startup that has
+        created a unique Crowd Security Intelligence™ platform that delivers the most
+        secure, continuous, scalable, security assessment on the market.  Our team is
+        proud to support Rails Girls Summer of Code and celebrate their efforts
+        promoting diversity and equality in technology.
+      years:
+        - 2015
+        - 2016
+    - name: Dreamfactory
+      id: dreamfactory
+      url: https://www.dreamfactory.com/
+      text: |-
+        As an open source project, <a href="https://www.dreamfactory.com">DreamFactory</a>
+        is delighted to be helping make the ecosystem more diverse and
+        accessible through supporting Rails Girls Summer of Code. Through
+        building an open source platform that allows for the automatic
+        generation of secure REST APIs, we've found great value in the open
+        source ethos and community. We look forward to welcoming the 2016 Rails
+        Girls SoC participants and technologists from all backgrounds to share
+        these communities with us.
+      years:
+        - 2016
+    - name: ActBlue
+      id: actblue
+      url: http://actblue.com
+      text: |-
+        <a href="http://actblue.com">ActBlue</a> builds and powers the premier online
+        fundraising platform for Democratic campaigns, progressive organizations, and
+        charities working to create a better future.
+        We're supporting Rails Girls Summer of Code because we want to help
+        women find innovative solutions to the world's biggest problems.
+      years:
+        - 2015
+        - 2016
+    - name: Bugsnag
+      id: bugsnag
+      url: https://bugsnag.com/
+      text: |-
+        <a href="https://bugsnag.com/">Bugsnag</a> detects crashes in your deployed
+        applications written in almost all popular programming languages and
+        frameworks. You’ll spend a fraction of the time finding and fixing bugs,
+        leaving you to work on the projects that matter most. Bugsnag team members have been
+        involved as mentors in the past, so we're excited to support Summer of Code in
+        a new way!
+      years:
+        - 2015
+        - 2016
+    - name: Envato
+      id: envato
+      url: http://www.envato.com
+      text: |-
+        <a href="http://www.envato.com/" target="_blank">Envato</a> is the
+        Melburne-based company behind an ecosystem of sites that helps millions of
+        people earn and learn. They love Summer, Rails, and supporting women in the
+        tech community, which makes Rails Girls Summer of Code & Envato a match made in
+        Internet heaven.
+      years:
+        - 2013
+        - 2014
+        - 2016
+    - name: Buildkite
+      id: buildkite
+      url: https://buildkite.com
+      text: |-
+        <a href="https://buildkite.com/">Buildkite</a> allows your team to build any
+        test infrastructure they wish. Install the modern, light-weight build agent to
+        run as many build jobs as you wish, and get deep integration with Github,
+        Github Enterprise, Slack and Docker. We’re excited to help Rails Girls Summer
+        of Code provide a diverse range of students the opportunity to work, learn,
+        have fun and contribute to Open Source.
+      years:
+        - 2015
+        - 2016
+    - name: StatusPage
+      id: statuspage
+      url: https://statuspage.io
+      text: |-
+        <a href="https://statuspage.io/">StatusPage</a> lets anyone build a
+        beautiful, hosted status page. Whether public for your customers or
+        private for your internal employees, companies like New Relic,
+        Atlassian, and Dyn use StatusPage to build trust and cut inbound
+        support costs through transparent downtime and maintenance
+        communication. StatusPage is built on Ruby and Rails, so we're thrilled
+        to support Rails Girls Summer of Code and their efforts to increase
+        diversity in tech.
+      years:
+        - 2016
+    - name: Articulate
+      id: articulate
+      url: https://www.articulate.com
+      text: |-
+        <a href="https://www.articulate.com/" target="_blank">Articulate</a> makes
+        software that gives millions of people access to life-changing education. We’re
+        passionate about removing barriers to learning, and supporting women in tech.
+        Sponsoring Rails Girls is one way we’re living out these values. We’re honored
+        to help bring more women into the wonderful world of code.
+      years:
+        - 2014
+        - 2015
+        - 2016
+    - name: Shopify
+      id: shopify
+      url: https://www.shopify.com
+      text: |-
+        <a href="http://www.shopify.com/" target="_blank">Shopify</a>
+        is a leading cloud-based, multichannel commerce platform designed for small and
+        medium-sized businesses. Shopify currently powers over 243,000 businesses in
+        approximately 150 countries, and was one of the first companies built on Ruby
+        on Rails. We are proud to support Rails Girls Summer of Code in their mission
+        to increase diversity in tech and contribute to Open Source projects.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+    - name: Sentry
+      id: sentry
+      url: https://getsentry.com
+      text: |-
+        <a href="https://getsentry.com">Sentry</a> is modern error logging. Get the
+        full stacktrace, request info, and user context of every error. Sentry is
+        completely open source (client and server), supports over two dozen languages
+        and frameworks, has hundreds of contributors, and is deployed in tens of
+        thousands of organizations. Sentry is excited to support Rails Girls Summer of
+        Code and help nurture the next generation of women engineers. We can't wait to
+        see what they can do!
+      years:
+        - 2016
+    - name: LaunchSchool
+      id: launchschool
+      url: http://launchschool.com
+      text: |-
+        <a href="http://launchschool.com">Launch School</a> is an online school for
+        serious beginners who want to change careers to software development. Our
+        program is about slowly building up proficiency in fundamentals, while at the
+        same time exposing you to new workflows and practices. We believe in the
+        mission at RailsGirls and are proud 3rd time sponsors!
+      years:
+        - 2014
+        - 2015
+        - 2016
+    - name: Ableton
+      id: ableton
+      url: https://www.ableton.com
+      text: |-
+        <a href="https://ww.ableton.com">Ableton</a> builds music software and hardware
+        that is used by a community of dedicated musicians, sound designers and artists
+        from across the world. Open source lifts the distinction between producers and
+        consumers of technology, unleashing a creative explosion at the boundary
+        between art and engineering. We support RGSoC because the best results are
+        achieved by richly diverse teams, and thus able to explore problems from a wide
+        set of perspectives.
+      years:
+        - 2016
+    - name: RefME
+      id: refme
+      url: https://www.refme.com
+      text: |-
+        <a href="https://www.refme.com">RefME</a> is the world's leading multi-platform
+        tool that automates the citation, reference list and bibliography process in
+        over 7,500 citation styles. It is the most accurate citation generator and
+        management tool that allows users to cite any source with a click via web
+        platform or mobile app. RefME uses many high-quality open-source projects in
+        our tools, and thus we are proud to give something back to the open-source
+        community and support Rails Girls Summer of Code.
+      years:
+        - 2016
+    - name: Planio
+      id: planio
+      url: https://plan.io
+      text: |-
+        <a href="https://plan.io/" target="_blank">Planio</a> is a leading project
+        management suite and code hosting platform &mdash; proudly built upon one of
+        the oldest Open Source Rails projects: <a href="http://www.redmine.org/"
+        target="_blank">Redmine</a>. Maintaining and helping a big project with a long
+        history move from Rails version to version is both challenging and rewarding.
+        We'd love to see more women and girls in Open Source Rails projects!
+      years:
+        - 2014
+        - 2015
+        - 2016
+    - name: Apcera
+      id: apcera
+      url: https://www.apcera.com
+      text: |-
+        The <a href="https://apceral.com">Apcera</a> trusted cloud platform is a highly secure, 
+        policy-driven multi-cloud platform for cloud-native applications, containers, 
+        microservices and legacy applications. Apcera enables developers and DevOps teams to use 
+        any modern tool or software they want while giving IT and Operations teams the assurance that 
+        their infrastructure is safe and secure. With Apcera, companies can innovate at speed with full confidence and trust.
+
+      years:
+        - 2015
+        - 2016
+    - name: Planet Argon
+      id: planetargon
+      url: http://www.planetargon.com/
+      text: |-
+        We simplify lives through digital technology. Founded in 2002,
+        <a href="http://www.planetargon.com/">Planet Argon</a> is a creative agency in
+        Portland, Oregon that designs and develops web and mobile applications for the
+        <a href="http://www.planetargon.com/healthcare">Healthcare</a> industry. We decided to
+        sponsor Rails Girls because we believe in their mission, which aligns with the
+        <a href="http://blog.planetargon.com/entries/2015/7/13/why-we-signed-the-portland-tech-diversity-pledge">commitments that our organization has made</a>.
+        This shit is important.
+      years:
+        - 2016
+    - name: Geckoboard
+      id: geckoboard
+      url: https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link
+      text: |-
+        <a href="https://www.geckoboard.com/?utm_campaign=railsgirls&utm_source=event&utm_medium=sponsorship&utm_term=sponsorship&utm_content=link">Geckoboard</a>
+        is on a mission to enable all businesses to create a more open and transparent
+        culture through easy-to-use live TV dashboards for the office, which increase
+        focus and goal attainment. We're proud to support Rails Girls in its mission to
+        foster diversity in the community.
+      years:
+        - 2015
+        - 2016
+    - name: Engineyard
+      id: engineyard
+      url: https://www.engineyard.com
+      text: |-
+        <a href="http://www.engineyard.com/" target="_blank">Engine Yard</a> is the
+        leading cloud application management platform empowering developers and DevOps
+        to provision, manage and monitor applications in the cloud. As an active
+        sponsor and participant in the Ruby on Rails community since 2006, we are very
+        proud to support Rails Girls Summer of Code!
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+    - name: Babbel
+      id: babbel
+      url: https://www.babbel.com/
+      text: |-
+      years:
+        - 2016
+    - name: Nedap
+      id: nedap
+      url: https://www.nedap.com
+      text: |-
+        <a href="http://www.nedap.com/" target="_blank">Nedap</a> is a manufacturer of
+        intelligent technological solutions for relevant themes. The success of Nedap
+        is based on creativity and a fundamental understanding of technology and
+        electronics. We are happy to support the Rails Girls Summer of Code and its
+        mission.
+      years:
+        - 2013
+        - 2015
+        - 2016
+    - name: Clue
+      id: clue
+      url: http://helloclue.com/
+      text: |-
+        <a href="http://helloclue.com/">Clue</a> uses science and data to provide
+        actionable personal insights into female health. Through our cycle tracking
+        app, we help users understand their cycles so they can discover how to live
+        full and healthy lives. Based in Berlin, our 30+ person team is committed to
+        gender equality and increasing diversity in the fields of science and
+        technology.
+      years:
+        - 2016
+    - name: Digitalocean
+      id: digitalocean
+      url: http://www.digitalocean.com
+      text: |-
+        <a href="http://www.digitalocean.com/">DigitalOcean</a> is on a mission to
+        simplify the complexity of web infrastructure.  We’re committed to building
+        cutting edge products that are robust and reliable, yet maintain our signature
+        simplicity and facilitate innovation. We’re excited to see what the next
+        generation of businesses build on top of our cloud in 2016.
+      years:
+        - 2014
+        - 2015
+        - 2016
+    - name: Movinga
+      id: movinga
+      url: http://www.digitalocean.com
+      text: |-
+        We at <a href=”https://www.movinga.com”>Movinga</a> are employing
+        modern technology to make moving easier. With us, everyone can move
+        from anywhere to everywhere without having to worry about the stress
+        usually associated with relocating to a new home. We promote diversity
+        within and without the confines of our company, and are therefore more
+        than happy to support Rails Girls Summer of Code.
+      years:
+        - 2016
