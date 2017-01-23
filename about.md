@@ -33,18 +33,17 @@ We want to provide a safe space for everyone involved. Please read our
 
 ### Get in touch
 
-For more information regarding project ideas, coaching, sponsoring or
-participating as a student, please email us on [contact@rgsoc.org](mailto:contact@rgsoc.org)
+For more information regarding project ideas, coaching, or
+participating as a student, please email us at [contact@rgsoc.org](mailto:contact@rgsoc.org). If you are interested in sponsoring, you can send an email to [campaign@rgsoc.org](mailto:campaign@rgsoc.org).
 
 + *Social Media*: Follow Rails Girls Summer of Code on [Twitter](https://twitter.com/RailsGirlsSoC) and find us on [Facebook](https://www.facebook.com/pages/Rails-Girls-Summer-of-Code/620914904656191).
 + *Social Coding*: And of course we are also on [GitHub](https://github.com/rails-girls-summer-of-code).
 
 ### How to get involved
-+ [Become an organizer](/about/team): To help with the organizing of Rails Girls SoC, please join our [Organizers mailing list](https://groups.google.com/forum/?fromgroups#!forum/rails-girls-summer-of-code).
++ [Become an organizer](/about/team): To help with the organizing of RGSoC, please join our [Organizers mailing list](https://groups.google.com/forum/?fromgroups#!forum/rails-girls-summer-of-code).
 + [Become a coach](/guide/coaching): You are a developer and want to support a team of students? Find all the information about working side-by-side with students on their project.
-+ [Become a Coaching Company](/guide/coaching-company): Your company  is passionate about Open Source and has space and developer time to spare for a team? Find out how to become a Coaching Company.
++ [Become a Coaching Company](/guide/coaching-company): Your company is passionate about Open Source and has space and developer time to spare for a team? Find out how to become a Coaching Company.
 + [Become a Project Mentor](/guide/projects): You are core contributor to a great Open Source project and want to give students the opportunity to work on it? Read all about what it means to mentor an RGSoC team.
 + [Become a Supervisor](/guide/supervisors/): Are you keen on directly supporting 1-2 teams with their organizational and non-coding issues and provide moral support? Check what it takes to become a supervisor.
 + [Become a Sponsor](/sponsors/packages): You want to support our mission of getting more women working on Open Source projects? Find out how all about our sponsor packages and perks.
-+ [Donate](/campaign): Be one of the people who are making Rails Girls Summer of Code a reality, through their
-individual donations
++ [Donate](/campaign): Be one of the people who are making Rails Girls Summer of Code a reality, through their individual donations.
