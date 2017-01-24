@@ -63,17 +63,6 @@
     width: 100px;
   }
 
-  a i:before {
-    content: "\f005";
-    display: block;
-    float: right;
-    font-family: FontAwesome;
-    font-style: normal;
-    font-size: 10px;
-    color: #d82222;
-    margin: 3px 0px;
-  }
-
   a:last-child {
     margin-right: 0;
   }
@@ -168,9 +157,9 @@
   background-size: 151px;
 }
 
-.sponsors a .years {
+.sponsors .years {
   position: absolute;
-  bottom: 0;
+  bottom: -4px;
   right: 7px;
   width: 100px;
   height: 25px;
@@ -180,7 +169,25 @@
 .sponsors .year {
   vertical-align: top;
   margin-right: 0;
+  i:before {
+    content: "\f005";
+    display: block;
+    float: right;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-size: 10px;
+    color: #d82222;
+    margin: 3px 0px;
+  }
 }
+.sponsors.bronze .years {
+  bottom: -7px;
+  right: 6px;
+}
+.sponsor.bronze .year {
+  font-size: 9px;
+}
+
 
 
 .sponsors-cta {

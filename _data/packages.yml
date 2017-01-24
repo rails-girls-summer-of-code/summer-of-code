@@ -77,6 +77,23 @@
       years:
         - 2016
         - 2017
+    - name: Wooga
+      id: wooga
+      url: http://www.wooga.com
+      text: |-
+        Founded in 2009, <a href="http://www.wooga.com/" target="_blank">Wooga</a> has
+        become one of the most popular developers of casual mobile games in the world.
+        Based in Berlin, employees from more than 40 nations develop high quality
+        puzzle, simulation and hidden object games for a global audience. Wooga's focus
+        is on regularly creating free-to-play hits such as Jelly Splash, Pearl's Peril
+        and Diamond Dash. Most recently, Wooga released Bubble Island 2 for iPhone &
+        iPad and Android.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+        - 2017
     - name: Exam Success
       id: examsuccess
       url: https://www.examsuccess.com.au/
@@ -95,22 +112,5 @@
       url: https://www.agilebloom.com/
       text: |-
       years:
-        - 2016
-        - 2017
-    - name: Wooga
-      id: wooga
-      url: http://www.wooga.com
-      text: |-
-        Founded in 2009, <a href="http://www.wooga.com/" target="_blank">Wooga</a> has
-        become one of the most popular developers of casual mobile games in the world.
-        Based in Berlin, employees from more than 40 nations develop high quality
-        puzzle, simulation and hidden object games for a global audience. Wooga's focus
-        is on regularly creating free-to-play hits such as Jelly Splash, Pearl's Peril
-        and Diamond Dash. Most recently, Wooga released Bubble Island 2 for iPhone &
-        iPad and Android.
-      years:
-        - 2013
-        - 2014
-        - 2015
         - 2016
         - 2017
