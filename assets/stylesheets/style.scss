@@ -24,18 +24,12 @@
 
 {% for package in site.data.packages %}
   {% for sponsor in package.sponsors %}
-    .sponsors .{{ sponsor.id }} {
+    .sponsors .{{ sponsor.id }},
+    .sponsors-list .{{ sponsor.id }} {
       background-image: url(../../img/sponsors/{{ sponsor.id }}.png);
     }
   {% endfor %}
 {% endfor %}
-
-/* TODO: await review */
-// {% for company in site.data.companies %}
-//   .sponsors .{{ company.id }} {
-//     background-image: url(../../img/companies/{{ company.id }}.png);
-//   }
-// {% endfor %}
 
 {% for conference in site.data.conferences %}
   .sponsors .{{ conference.id }} {
