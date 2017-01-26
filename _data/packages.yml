@@ -82,6 +82,26 @@
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
+    - name: Exam Success
+      id: examsuccess
+      url: https://www.examsuccess.com.au/
+      text: |-
+        <a href="https://www.examsuccess.com.au/">Exam Success</a> helps students ace their
+        selective school entrance tests, scholarship exams and IELTS exams through a range of
+        online learning materials such as online courses, test papers and social writing
+        practice. <a href="https://www.examsuccess.com.au/">Exam Success</a> is delighted to
+        support the amazing team at Rails Girls Summer of Code 2016 in continuing to enhance
+        diversity in Open Source.
+      years:
+        - 2016
+        - 2017
+    - name: Agilebloom
+      id: agilebloom
+      url: https://www.agilebloom.com/
+      text: |-
+      years:
+        - 2016
+        - 2017
     - name: openSUSE
       id: opensuse
       url: https://www.opensuse.org/
@@ -108,25 +128,5 @@
         - 2013
         - 2014
         - 2015
-        - 2016
-        - 2017
-    - name: Exam Success
-      id: examsuccess
-      url: https://www.examsuccess.com.au/
-      text: |-
-        <a href="https://www.examsuccess.com.au/">Exam Success</a> helps students ace their
-        selective school entrance tests, scholarship exams and IELTS exams through a range of
-        online learning materials such as online courses, test papers and social writing
-        practice. <a href="https://www.examsuccess.com.au/">Exam Success</a> is delighted to
-        support the amazing team at Rails Girls Summer of Code 2016 in continuing to enhance
-        diversity in Open Source.
-      years:
-        - 2016
-        - 2017
-    - name: Agilebloom
-      id: agilebloom
-      url: https://www.agilebloom.com/
-      text: |-
-      years:
         - 2016
         - 2017
