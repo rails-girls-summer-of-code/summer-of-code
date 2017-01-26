@@ -130,3 +130,18 @@
         - 2015
         - 2016
         - 2017
+    - name: Apcera
+      id: apcera
+      url: https://www.apcera.com
+      text: |-
+        The <a href="https://apceral.com">Apcera</a> trusted cloud platform is
+        a highly secure, policy-driven multi-cloud platform for cloud-native
+        applications, containers, microservices and legacy applications. Apcera
+        enables developers and DevOps teams to use any modern tool or software
+        they want while giving IT and Operations teams the assurance that their
+        infrastructure is safe and secure. With Apcera, companies can innovate
+        at speed with full confidence and trust.
+      years:
+        - 2015
+        - 2016
+        - 2017
