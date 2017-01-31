@@ -18,7 +18,7 @@ permalink: /students/application/
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
 
-**Applications for RGSoC 2017 will open on February 1st, 2017.**
+**Applications for RGSoC 2017 will open on February 1st, 2017 at 18:00 UTC. Apply <a href="https://teams.railsgirlssummerofcode.org/apply">here</a>!**
 
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
