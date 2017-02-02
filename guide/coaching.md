@@ -89,7 +89,7 @@ permalink: /guide/coaching/
 * Write an email on the <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">RGSoC community mailing list</a>
 * Spread the word on Twitter
 
-<p>As a first step you can register yourself as a coach here: <a href="https://teams.railsgirlssummerofcode.org/">teams.railsgirlssummerofcode.org/</a>.
+<p>As a first step you can register yourself as a coach <a href="https://teams.railsgirlssummerofcode.org/">on our Teams app</a>; just log in with GitHub and, under “My Account > Edit”, select what you're interested in helping with (as a coach or as a remote coach/helpdesk). 
 
 <p>If you don't know any students yet, reach out to your local female developer initiatives like <a href="http://railsgirls.com/">Rails Girls</a>, <a href="http://www.pyladies.com/">PyLadies</a> or whatever is available in your city and fits your technology stack. There you can get to know students and other coaches. We also recommend reaching out to local developer user groups, as well as study groups (if there are any in your area).</p>
 
