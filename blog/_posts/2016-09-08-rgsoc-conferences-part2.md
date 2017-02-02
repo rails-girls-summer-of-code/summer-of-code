@@ -186,7 +186,7 @@ And now, **the conference tickets go to**…
         <img src="/img/blog/2016/conferences/fossasia-logo.png"></a>
       </td>
       <td>
-        <b>Date: </b>March 17-19, 2016 <br>
+        <b>Date: </b>March 17-19, 2017 <br>
         <b>Location: </b>Singapore <br>
         <b>Twitter: </b><a href="https://twitter.com/fossasia">@fossasia</a> <br>
         <small>Interested in attending this conference too? <a href="mailto:contact@rgsoc.org">Contact us</a> for getting 50% off promo code.</small>

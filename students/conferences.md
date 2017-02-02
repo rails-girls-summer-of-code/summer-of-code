@@ -316,7 +316,7 @@ A huge **Thank You!** to all conferences who support our students and provide fr
     </p>
     <p class="conference-text">
       <b><a href="http://2017.fossasia.org/">FOSSASIA</a></b> <br>
-      <b>Date: </b>March 17-19, 2016 <br>
+      <b>Date: </b>March 17-19, 2017 <br>
       <b>Location: </b>Singapore <br>
       <b>Twitter: </b><a href="https://twitter.com/fossasia">@fossasia</a>
     </p>
