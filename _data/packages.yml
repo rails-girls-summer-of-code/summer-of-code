@@ -179,3 +179,17 @@
         - 2015
         - 2016
         - 2017
+    - name: Ableton
+      id: ableton
+      url: https://www.ableton.com
+      text: |-
+        <a href="https://ww.ableton.com">Ableton</a> builds music software and hardware
+        that is used by a community of dedicated musicians, sound designers and artists
+        from across the world. Open source lifts the distinction between producers and
+        consumers of technology, unleashing a creative explosion at the boundary
+        between art and engineering. We support RGSoC because the best results are
+        achieved by richly diverse teams, and thus able to explore problems from a wide
+        set of perspectives.
+      years:
+        - 2016
+        - 2017
