@@ -181,7 +181,7 @@
         - 2017
     - name: Ableton
       id: ableton
-      url: https://www.ableton.com
+      url: https://www.ableton.com/en/about/
       text: |-
         <a href="https://ww.ableton.com">Ableton</a> builds music software and hardware
         that is used by a community of dedicated musicians, sound designers and artists
