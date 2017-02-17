@@ -11,17 +11,100 @@ permalink: campaign/
 
 <h2>Help us fund Rails Girls Summer of Code 2017!</h2>
 
-<div class="margin-top"> 
-
-  <p>The official fundraising campaign for RGSoC 2017 will open in spring, but we're currently raising funds with our Early Bird sponsor campaign.</p>
-
-  <p>Curious about becoming an Early Bird sponsor for 2017 and having your logo on our page when we open our fundraising campaign? Read more about our sponsor packages and <strong><a href="/sponsors/packages">sign up as an Early Bird sponsor here</a></strong> or get in touch if you're interested: <a href="mailto:campaign@rgsoc.org">campaign@rgsoc.org</a>.</p>
+<div class="margin-top">
+  <p class="stats">
+A total of <strong class="total"></strong> has been donated for 2017. That means this many teams have been funded:
+</p>
 </div>
 
+<div class="margin-bottom">
+  <div id="progress">
+    <div class="goal"></div>
+    <div class="completed"></div>
+  </div>
+</div>
+
+
+<!--
 <div class="margin-top">
-  <h3>Let's #DiversifyTech</h3>
+  <strong>The Fundraising campaign for 2017 is now open!</strong>
+</div>
+-->
+
+<div class="margin-top">
+  <h3>Support us now</h3>
+  <p>Make your donation below, and help us get more women into Open Source.
+  <p class="custom-donation">
+    <input type="number" id="custom-donation-amount" placeholder="75.00 $" min="0" step="25.00"/>
+      <a href="#" class="donate-button button" data-custom="true" data-name="Custom"> Donate Now <i class="icon-star-white"></i></a>
+  </p>
+  <p class="stripe-note">
+    Secure Payments by <a href="https://stripe.com/blog/stripe-checkout">Stripe Checkout</a>
+  </p>
+</div>
+
+<h3>Become a Sponsor for 2017!</h3>
+ 
+ <br>
+ <p>To support us in bigger steps, we can offer you different sponsoring packages. Read more about the <a href="/sponsors/packages">perks and details</a>. You can also become a sponsor right now by choosing one of these packages below:</p>
+
+{% include sponsor_packages.html %}
+
+<h3>Become Partner Company</h3>
+
+<p>To find out more about options for becoming a partner company, like <a href="http://travis-ci.com">Travis CI</a> and <a href="http://github.com">GitHub</a>, please <a href="mailto:campaign@rgsoc.org">contact us</a>.</p>
+
+
+<div class="margin-top">
+  <h3>#5YearsOfRGSoC</h3>
+
+  <p>This year will be our 5th year organising RGSoC, and we'll be using the hashtag #5YearsOfRGSoC to share some of our history with you — in the meanwhile, don't forget to spread the word about our campaign to help us diversify our Open Source community!</p>
 </div>
 
 <div class="videoWrapper">
 <iframe src="https://player.vimeo.com/video/185049421" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
+
+
+<section id="thanks-folks">
+<h2>Thank you so much — You are all awesome:</h2>
+
+  <table>
+   <colgroup>
+     <col class="col-gravatar"></col>
+     <col class="col-name"></col>
+     <col class="col-amount"></col>
+     <col class="col-package"></col>
+     <col class="col-date"></col>
+     <col class="col-comment"></col>
+   </colgroup>
+   <thead>
+     <tr>
+       <th colspan="2">
+         <h3>Sponsors</h3>
+       </th>
+     </tr>
+   </thead>
+   <tbody id="sponsors"></tbody>
+   <thead>
+     <tr>
+       <th colspan="2">
+         <h3>Individual Donors</h3>
+       </th>
+       <th colspan="4">
+         {% include pagination.html %}
+       </th>
+     </tr>
+   </thead>
+   <tbody id="donations"></tbody>
+   <thead>
+     <tr>
+       <th colspan="6">
+         {% include pagination.html %}
+       </th>
+     </tr>
+   </thead>
+  </table>
+
+  <p>This community is just amazing. Thank you so much!</p>
+</section>
