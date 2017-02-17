@@ -28,7 +28,7 @@ Stats.Data = function(callback) {
 };
 $.extend(Stats.Data, {
   URLS: {
-    production:  'http://campaign.railsgirlssummerofcode.org/donations/stats.json',
+    production:  'https://campaign.railsgirlssummerofcode.org/donations/stats.json',
     development: 'http://localhost:3000/donations/stats.json'
   },
 });
