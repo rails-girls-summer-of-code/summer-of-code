@@ -1,7 +1,7 @@
 ---
 title: Our Anniversary campaign is open - Celebrate with us!
 layout: post
-created_at: Thu February 16 2016
+created_at: Fri February 17 2017
 permalink: blog/2016-02-16-anniversary-campaign
 author: Anika
 twitter: RailsGirlsSoc
