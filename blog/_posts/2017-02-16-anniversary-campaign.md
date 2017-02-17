@@ -41,7 +41,7 @@ In the last few weeks, we’ve been reaching out to companies and are happy to a
 
 This is why we are extremely happy to not only welcome some of our most faithful partners and sponsors (yes, you, **GitHub**, **Travis CI** and **innoQ**) again on board this year but also some news companies (OHAI **Nokia** and **Heroku**) as well as our two earliest earlybird sponsors **examsuccess, agilebloom**. 
 
-Together with the fantastic sponsors **Lauchschool, Ableton, OpenSuse, Apcera, articulate and Honeybadger** all you amazing early birds you show to us and the world that you care. About our program, our mission and diversity in tech! Thank you for that. We are so proud to be changing the world and our communities together with you step by step.
+Together with the fantastic sponsors **Launchschool, Ableton, OpenSuse, Apcera, articulate and Honeybadger** all you amazing early birds you show to us and the world that you care. About our program, our mission and diversity in tech! Thank you for that. We are so proud to be changing the world and our communities together with you step by step.
 
 <a href="https://railsgirlssummerofcode.org/sponsors/"><img src="/img/blog/2017/2017-02-16-earlybirds.png"></a>
 
