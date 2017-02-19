@@ -1,8 +1,9 @@
 ---
+redirect_from: "/blog/2016-02-16-anniversary-campaign"
 title: Our Anniversary campaign is open - Celebrate with us!
 layout: post
 created_at: Fri February 17 2017
-permalink: blog/2016-02-16-anniversary-campaign
+permalink: blog/2017-02-16-anniversary-campaign
 author: Anika
 twitter: RailsGirlsSoc
 categories:
