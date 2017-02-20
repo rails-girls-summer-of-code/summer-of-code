@@ -16,7 +16,6 @@ categories:
 Do you want to spend three months coding on Open Source projects? Then this is for you! February 1st is finally here, and **we will be opening our applications later today, at 18:00 UTC**. You will have exactly **one month** to fill out and place your application; applications will close on Wednesday March 1st, 2017 at 18:00 UTC. Here is our [application guide](http://railsgirlssummerofcode.org/students/application/). 
 
 Before you get started, let’s make sure you’ve got everything ready to go to work on your application; we’ve summarised the steps you need to take before creating an application below.
-(Content note: we could use Becci’s illustrations here like last year)
 
 ### Who can apply?  
 
