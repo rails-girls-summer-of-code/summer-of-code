@@ -13,7 +13,7 @@ permalink: /sponsors/packages/
     <h1>Become a Sponsor</h1>
     <p>Rails Girls Summer of Code enables women to learn and code
     on Open Source projects from July to September each year. You can help make this
-    a reality by sponsoring a package or partnering with us.</p>
+    a reality by sponsoring a package or partnering with us. Donate <a href="https://railsgirlssummerofcode.org/campaign/">here</a> or send us an email to <a href="mailto:campaign@rgsoc.org">get in touch</a>.</p>
 
     {% include sponsor_benefits.html %}
 
@@ -22,7 +22,7 @@ permalink: /sponsors/packages/
     Open Source learning projects full-time. As a sponsor, you are a crucial part of
     providing the Summer of Code subsidies. Your sponsorship will enter a budget
     pool, from which the selected students will be paid.</p>
-    <p>If you would like to know more about RGSoC or present our program to your company, you can also take a look at this <a href="https://speakerdeck.com/langziehohr/rails-girls-summer-of-code-2016">pitch deck</a>.</p>
+    <p>If you would like to know more about RGSoC or present our program to your company, you can also take a look at this <a href="https://speakerdeck.com/langziehohr/rails-girls-summer-of-code-2017">pitch deck</a>.</p>
   </div>
 </div>
 
@@ -35,7 +35,7 @@ permalink: /sponsors/packages/
 <div class="row">
   <div class="col-md-8 col-md-offset-2">
     <h3>Partner Company Package</h3>
-    <p>To find out more about the option for becoming a partner company and what partnercompanies do, please <a href="mailto:campaign@rgsoc.org">write us an email</a>.</p>
+    <p>To find out more about the option for becoming a partner company and what partner companies do, please <a href="mailto:campaign@rgsoc.org">write us an email</a>.</p>
 
     <h3>Platinum</h3>
 
