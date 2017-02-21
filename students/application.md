@@ -94,7 +94,7 @@ As a team, you will be required to define your goals for the program, and plan t
 
 <h4 id="project">A project</h4>
 
-Your project must be selected from <a href="https://teams.railsgirlssummerofcode.org/projects">our list of projects approved for RGSoC 2017</a>. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community - in particular, people who are familiar with your experience so far. We also recommend getting in touch with the mentor of the project you are applying with to introduce yourself, get to know them, and see whether they think you'd be a good fit.    
+Your project must be selected from <a href="https://teams.railsgirlssummerofcode.org/projects">our list of projects approved for RGSoC 2017</a>. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community — in particular, people who are familiar with your experience so far. We also recommend getting in touch with the mentor of the project you are applying with to introduce yourself, get to know them, and see whether they think you'd be a good fit.    
 
 <h3 id="place-application">Placing your application</h3>
 
