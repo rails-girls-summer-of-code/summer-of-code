@@ -100,14 +100,12 @@ Your project must be selected from <a href="https://teams.railsgirlssummerofcode
 
 **Applications for RGSoC 2017 will open on February 1st, 2017 and will close on March 1st, 2017.**
 
-In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will be asked to create a team (if you haven't done so yet). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
+In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will need to create a team: click on “New Team” on the <a href="https://teams.railsgirlssummerofcode.org/teams">Teams page</a> and add your team members (team mate and coaches). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
 
 The application form is split into three sections. In the first section, you will be asked to answer lots of questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. We want to get to know you! You and your teammate will fill in this information separately.  
-The other sections are related to your project and team setup and they should be filled out as a team. For the project section, you will select your project via a dropdown menu. You will also have the opportunity to select a secondary project, which is there as a back-up, in case you don't get your first choice. Adding a second project to your application is not mandatory.
+The other sections are related to your project and team setup and they should be filled out as a team. For the project section, you will select your project via a dropdown menu. You will also have the opportunity to select a secondary project, which is there as a back-up, in case you don't get your first choice. Adding a second project to your application is not mandatory.  
 
-It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later.
-
-**Want to get a headstart on your application?** You can already create your team on the <a href="https://teams.railsgirlssummerofcode.org/teams">Teams App</a>: On the “Teams” page, click on “New Team” and add your team members (team mate, coaches) to your new team!
+It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later. **Once your application is submitted, it won't be possible to edit or delete it**, so only submit the application once everything has been filled out properly. 
 
 If you have any queries about the application process, please <a href="mailto:contact@rgsoc.org">contact us</a>.
 
