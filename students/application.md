@@ -44,7 +44,7 @@ permalink: /students/application/
 
 <h3 id="eligibility">Who is eligible to apply?</h3>
 
-All people with non-binary gender identities or who identify as women are welcome to apply. Further to this, we look for applicants;
+All people with non-binary gender identities or who identify as women (transgender or cisgender) are welcome to apply. Further to this, we look for applicants;
 
 * who are involved with, or have attended one or more workshops organized by communities like <a href="http://railsgirls.com/">Rails Girls</a>, Railsbridge, Black Girls Code, PyLadies, or similar initiatives.
 
