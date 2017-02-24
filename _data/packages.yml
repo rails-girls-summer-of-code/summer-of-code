@@ -206,3 +206,16 @@
         - 2014
         - 2016
         - 2017
+    - name: ActBlue
+      id: actblue
+      url: http://actblue.com
+      text: |-
+        <a href="http://actblue.com">ActBlue</a> builds and powers the premier online
+        fundraising platform for Democratic campaigns, progressive organizations, and
+        charities working to create a better future.
+        We're supporting Rails Girls Summer of Code because we want to help
+        women find innovative solutions to the world's biggest problems.
+      years:
+        - 2015
+        - 2016
+        - 2017
