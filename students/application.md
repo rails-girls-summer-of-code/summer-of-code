@@ -105,7 +105,9 @@ In order to submit your application, you are **required** to have a teammate and
 The application form is split into three sections. In the first section, you will be asked to answer lots of questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. We want to get to know you! You and your teammate will fill in this information separately.  
 The other sections are related to your project and team setup and they should be filled out as a team. For the project section, you will select your project via a dropdown menu. You will also have the opportunity to select a secondary project, which is there as a back-up, in case you don't get your first choice. Adding a second project to your application is not mandatory.  
 
-It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later. **Once your application is submitted, it won't be possible to edit or delete it**, so only submit the application once everything has been filled out properly. 
+It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later. **Once your application is submitted, it won't be possible to edit or delete it**, so only submit the application once everything has been filled out properly.  
+
+Due to some application glitches last year, which might or might not have been the result of simultaneous editing, we’d recommend team members not to fill out the application form at the same time, as this can result in loss of data.
 
 If you have any queries about the application process, please <a href="mailto:contact@rgsoc.org">contact us</a>.
 
