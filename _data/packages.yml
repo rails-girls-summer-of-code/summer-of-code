@@ -223,7 +223,7 @@
       id: cobot
       url: https://www.cobot.me
       text: |-
-       Cobot is the leading management platform for coworking spaces. Our software help 
+       <a href="https://www.cobot.me">Cobot</a> is the leading management platform for coworking spaces. Our software help 
        spaces ranging from small creative shared studios in Berlin over rural workspaces 
        in the countryside of France to large hubs with thousands of people in New Delhi or San Francisco.
        At Cobot we value diversity in all aspects of our team and are committed towards 
@@ -234,7 +234,7 @@
       id: turing
       url: http://turing.io
       text: |-
-       a href="http://turing.io/" target="_blank">Turing School of Software &
+       <a href="http://turing.io/">Turing School of Software &
          Design</a> offers a seven-month combination of in-depth curriculum and hands-on
        instruction that turns people from diverse backgrounds into professional
          developers. Turing is proud to sponsor RGSoC because we
