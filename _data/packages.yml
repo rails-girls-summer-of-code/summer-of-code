@@ -200,7 +200,7 @@
         you’ll want to get more errors in your application just so you can use it more!
         Built on Rails, it helps developers deliver great experiences to their users.
         We at Honeybadger love the open source community, and we are happy to sponsor
-        Rails Girls Summer of Code to help make that community even better.
+        RGSoC to help make that community even better.
       years:
         - 2013
         - 2014
@@ -213,9 +213,34 @@
         <a href="http://actblue.com">ActBlue</a> builds and powers the premier online
         fundraising platform for Democratic campaigns, progressive organizations, and
         charities working to create a better future.
-        We're supporting Rails Girls Summer of Code because we want to help
+        We're supporting RGSoC because we want to help
         women find innovative solutions to the world's biggest problems.
       years:
         - 2015
         - 2016
+        - 2017  
+    - name: Cobot 
+      id: cobot
+      url: https://www.cobot.me
+      text: |-
+       Cobot is the leading management platform for coworking spaces. Our software help 
+       spaces ranging from small creative shared studios in Berlin over rural workspaces 
+       in the countryside of France to large hubs with thousands of people in New Delhi or San Francisco.
+       At Cobot we value diversity in all aspects of our team and are committed towards 
+       closing the gender gap in the tech industry which is why we are proud to support RGSoC.
+      years:
         - 2017
+    - name: Turing School of Software & Design 
+      id: turing
+      url: http://turing.io
+      text: |-
+       a href="http://turing.io/" target="_blank">Turing School of Software &
+         Design</a> offers a seven-month combination of in-depth curriculum and hands-on
+       instruction that turns people from diverse backgrounds into professional
+         developers. Turing is proud to sponsor RGSoC because we
+         are committed to collaborating with others working to open the world of
+         programming to more great people!
+      years:
+        - 2015
+        - 2017
+
