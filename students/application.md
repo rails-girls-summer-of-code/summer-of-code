@@ -18,7 +18,7 @@ permalink: /students/application/
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
 
-**Applications for RGSoC 2017 will open on February 1st, 2017 at 18:00 UTC. Apply <a href="https://teams.railsgirlssummerofcode.org/apply">here</a>!**
+**Applications for RGSoC 2017 will open on February 1st, 2017 at 18:00 UTC and close on March 8th, 2017 at 18:00 UTC. Apply <a href="https://teams.railsgirlssummerofcode.org/apply">here</a>!**
 
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
@@ -44,7 +44,7 @@ permalink: /students/application/
 
 <h3 id="eligibility">Who is eligible to apply?</h3>
 
-All people with non-binary gender identities or who identify as women are welcome to apply; while no one is excluded from applying on the basis of gender, female and genderfluid applicants will be given preference during selection. Further to this, we look for applicants;
+All people with non-binary gender identities or who identify as women (transgender or cisgender) are welcome to apply. Further to this, we look for applicants;
 
 * who are involved with, or have attended one or more workshops organized by communities like <a href="http://railsgirls.com/">Rails Girls</a>, Railsbridge, Black Girls Code, PyLadies, or similar initiatives.
 
@@ -94,20 +94,20 @@ As a team, you will be required to define your goals for the program, and plan t
 
 <h4 id="project">A project</h4>
 
-Your project must be selected from <a href="https://teams.railsgirlssummerofcode.org/projects">our list of projects approved for RGSoC 2017</a>. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community - in particular, people who are familiar with your experience so far. We also recommend getting in touch with the mentor of the project you are applying with to introduce yourself, get to know them, and see whether they think you'd be a good fit.    
+Your project must be selected from <a href="https://teams.railsgirlssummerofcode.org/projects">our list of projects approved for RGSoC 2017</a>. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community — in particular, people who are familiar with your experience so far. We also recommend getting in touch with the mentor of the project you are applying with to introduce yourself, get to know them, and see whether they think you'd be a good fit.    
 
 <h3 id="place-application">Placing your application</h3>
 
-**Applications for RGSoC 2017 will open on February 1st, 2017 and will close on March 1st, 2017.**
+**Applications for RGSoC 2017 will open on February 1st, 2017 and will close on March 8th, 2017 (18:00 UTC).**
 
-In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will be asked to create a team (if you haven't done so yet). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
+In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will need to create a team: click on “New Team” on the <a href="https://teams.railsgirlssummerofcode.org/teams">Teams page</a> and add your team members (team mate and coaches). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
 
 The application form is split into three sections. In the first section, you will be asked to answer lots of questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. We want to get to know you! You and your teammate will fill in this information separately.  
-The other sections are related to your project and team setup and they should be filled out as a team. For the project section, you will select your project via a dropdown menu. You will also have the opportunity to select a secondary project, which is there as a back-up, in case you don't get your first choice. Adding a second project to your application is not mandatory.
+The other sections are related to your project and team setup and they should be filled out as a team. For the project section, you will select your project via a dropdown menu. You will also have the opportunity to select a secondary project, which is there as a back-up, in case you don't get your first choice. Adding a second project to your application is not mandatory.  
 
-It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later.
+It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later. **Once your application is submitted, it won't be possible to edit or delete it**, so only submit the application once everything has been filled out properly.  
 
-**Want to get a headstart on your application?** You can already create your team on the <a href="https://teams.railsgirlssummerofcode.org/teams">Teams App</a>: On the “Teams” page, click on “New Team” and add your team members (team mate, coaches) to your new team!
+Due to some application glitches last year, which might or might not have been the result of simultaneous editing, we’d recommend team members not to fill out the application form at the same time, as this can result in loss of data.
 
 If you have any queries about the application process, please <a href="mailto:contact@rgsoc.org">contact us</a>.
 
