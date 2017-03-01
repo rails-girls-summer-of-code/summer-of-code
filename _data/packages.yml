@@ -243,4 +243,11 @@
       years:
         - 2015
         - 2017
-
+    - name: egghead 
+      id: egghead
+      url: http://egghead.io
+      text: |-
+       High quality, concise web development screencasts. 
+       Coding with expert open-source contributors. Let's make the web better. ❤️
+      years:
+        - 2017
