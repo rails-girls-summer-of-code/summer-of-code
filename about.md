@@ -12,7 +12,7 @@ scribble: scribble6
 
 So what is Rails Girls Summer of Code all about?
 
-Rails Girls Summer of Code is an [award-winning](https://rubyheroes.com/heroes/2016){:target="_blank"} global fellowship program aimed at bringing
+Rails Girls Summer of Code is an [award-winning](/blog/2016-06-01-ruby-heroes-2016){:target="_blank"} global fellowship program aimed at bringing
 more diversity into Open Source. Successful applicants are paid a monthly
 stipend, from July to September, to work on Open Source projects of their choice.
 
