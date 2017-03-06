@@ -280,3 +280,12 @@
       years:
         - 2016
         - 2017
+    - name: coreOS
+      id: coreos
+      url: https://coreos.com/
+      # text: |-
+      #   <a href="https://coreos.com/">coreOS</a>
+      years:
+        - 2016
+        - 2017
+        
