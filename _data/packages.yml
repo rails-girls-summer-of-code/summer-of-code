@@ -287,5 +287,16 @@
       #   <a href="https://coreos.com/">coreOS</a>
       years:
         - 2016
-        - 2017
-        
+        - 2017  
+    - name: Spotify
+      id: spotify
+      url: https://developer.spotify.com
+      text: |-
+         <a href="http://www.spotify.com">Spotify</a> brings you the right music for
+         every moment – on your computer, your mobile, your tablet, your home
+         entertainment system and more.  Spotify knows it is extremely important to
+         proactively support women in open source, and is therefore honored to be
+         sponsoring RGSoC.
+      years:
+        - 2016
+        - 2017  
