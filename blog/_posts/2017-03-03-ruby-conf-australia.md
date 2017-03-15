@@ -11,9 +11,8 @@ categories: student-posts
 
 I had a privilege to attend RubyConf held in Melbourne last month as a part of the Rails Girls Summer of Code program. The Venue was set at the Melbourne Convention Hall and it was a great opportunity to meet so many interesting people in the Ruby community. Also a good learning experience. 
 
-
-![Ruby Conf Australia](/img/blog/2017/2017-03-03-rubyconf-logo
--au.jpg)<font color="grey"><small><i>Ruby Conf Australia</i></small></font> 
+![Ruby Conf Australia](/img/blog/2017/2017-03-03-rubyconf-logo-au.jpg)
+<div class="image-credits">photo: RubyConf Australia</div>
 
 Following are some of my personal favorite talks:
 
@@ -33,7 +32,7 @@ Ruby has its own limitations when it comes to dealing with the concurrency over 
 
 ### Aja Hammerly: DataCenter Fires and other Minor Disasters
 
-![Aja Hammerly](/img/blog/2017/2017-03-03-rubyconf-au.jpg)<font color="grey"><small><i>Aja Hammerly</i></small></font> 
+![Aja Hammerly](/img/blog/2017/2017-03-03-rubyconf-au.jpg)<font color="grey"><small><i></i>photo: RubyConf Australia</small></font> 
 
 She mentioned - “If nothing bad happens, you don’t have a good story to tell”. She shared her experience working with the google data center. She talked about the mistakes she made, which helped her understand the importance of the automation. How having a team with different background added to the learning and could save a day in many aspects. It was a impressive one.
 
