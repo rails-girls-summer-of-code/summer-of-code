@@ -28,7 +28,7 @@ With great interest comes greater responsibility (and more support): in the last
 
 ### Last minute and all over the world
 And, because the best time to submit an application is right before the deadline, the last application to come in before the deadline was submitted at **17:59:45 UTC** (that is, 15 seconds before our 18:00:00 UTC deadline). Hats off to that team living on the edge! 
-As always, the applications are scattered across the world, on every continent, with some potential new countries such as Nepal or Albania joining the ranks of countries RGSoC applicants are located in. To get a better idea of all the possible locations of RGSoC teams, take a look at the map below!
+As always, the applications are scattered across the world, on every continent, with some potential new countries such as Nepal or Albania joining the ranks of countries RGSoC applicants are located in. To get a better idea of all the possible locations of RGSoC teams, <a href="https://drive.google.com/open?id=15KXn6frHYAlOTegJhkoRoAtZTFM&usp=sharing">take a look at the map</a> below!
 
 ![OMG!](/img/blog/2017/2017-03-17-map.png)
 <div class="image-credits">Our 2017 applications (Image: Google Maps/Anika Lindtner)</div>
