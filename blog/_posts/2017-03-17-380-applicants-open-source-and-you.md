@@ -12,7 +12,8 @@ categories:
 
 Last week, on International Women’s Day, we closed our applications for 2017. Since then, we’ve been absolutely speechless at the amount of interest we received from applicants worldwide. **ONE HUNDRED AND NINETY APPLICATIONS**! Yes, you’ve read that correctly — this year, 190 teams (meaning 380 applicants!) applied to our 3-month scholarship program from all over the world. 
 
-https://twitter.com/RailsGirlsSoC/status/839563940925476874
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You did it! 💪  <a href="https://twitter.com/hashtag/RGSoC2017?src=hash">#RGSoC2017</a> Applications are closed! We can&#39;t wait to read your submissions — all 190 of them 😱 <a href="https://t.co/PJ3f7JKDML">pic.twitter.com/PJ3f7JKDML</a></p>&mdash; RGSoC 2017 (@RailsGirlsSoC) <a href="https://twitter.com/RailsGirlsSoC/status/839563940925476874">March 8, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Exponential growth
 This year is our fifth year running the program, and the numbers speak for themselves: since 2016, the number of applications has doubled, and it’s quadrupled since 2015. That’s what they call exponential growth! 
@@ -33,6 +34,5 @@ As always, the applications are scattered across the world, on every continent, 
 <div class="image-credits">Our 2017 applications (Image: Google Maps/Anika Lindtner)</div>
 
 
-
 ### We need you
-We’ve just finished putting together our selection committee for the year and for the next few weeks we’ll be busy rating all the applications we received. Until then, we need your help! With the funds we’ve collected so far, we can “only” fund 6 teams to participate in RGSoC this year. Our goal for 2017 is to fund at least twice as many, so if you’re as passionate about our mission to bring more diversity into Open Source as we are: reach out to your community, to your friends, and to your company; ask them to donate, support, or sponsor our program, so that we can support at least 12 teams of amazing people!
+We’ve just finished putting together our selection committee for the year and for the next few weeks we’ll be busy rating all the applications we received. Until then, we need your help! With the funds we’ve collected so far, we can “only” fund 6 teams to participate in RGSoC this year. Our goal for 2017 is to fund at least twice as many, so if you’re as passionate about our mission to bring more diversity into Open Source as we are: reach out to your community, to your friends, and to your company; ask them to [donate](https://railsgirlssummerofcode.org/campaign/), support, or [sponsor our program](https://railsgirlssummerofcode.org/sponsors/packages/), so that we can support at least 12 teams of amazing people!
