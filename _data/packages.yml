@@ -325,4 +325,18 @@
          sponsoring RGSoC.
       years:
         - 2016
-        - 2017  
+        - 2017 
+    - name: Bugsnag
+      id: bugsnag
+      url: https://bugsnag.com/
+      text: |-
+        <a href="https://bugsnag.com/">Bugsnag</a> detects crashes in your deployed
+        applications written in almost all popular programming languages and
+        frameworks. You’ll spend a fraction of the time finding and fixing bugs,
+        leaving you to work on the projects that matter most. Bugsnag team members have been
+        involved as mentors in the past, so we're excited to support Summer of Code in
+        a new way!
+      years:
+        - 2015
+        - 2016 
+        - 2017
