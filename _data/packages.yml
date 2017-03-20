@@ -104,6 +104,12 @@
         - 2015
         - 2016
         - 2017
+    - name: Zalando
+      id: zalando
+      url: http://www.zalando.de
+      #text: |-
+      years:
+        - 2017
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
