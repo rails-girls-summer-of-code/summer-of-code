@@ -315,12 +315,12 @@
     - name: coreOS
       id: coreos
       url: https://coreos.com/
-       text: |-
-         <a href="https://coreos.com/">CoreOS</a> is Securing the Internet. Our mission 
-         is to improve the security and reliability of the internet.  
-         The CoreOS team wants to enable companies to run their applications securely and 
-         reliably in any environment. We hope to dramatically improve the security of "the stack" 
-         while making advancements in modern server infrastructure.
+      text: |- 
+         <a href="https://coreos.com/">CoreOS</a> is Securing the Internet. 
+         Our mission is to improve the security and reliability of the internet. 
+         The CoreOS team wants to enable companies to run their applications securely 
+         and reliably in any environment. We hope to dramatically improve the security of 
+         'the stack'while making advancements in modern server infrastructure.
       years:
         - 2016
         - 2017  
@@ -348,3 +348,11 @@
         - 2015
         - 2016 
         - 2017
+    - name: solarisBank 
+      id: solarisbank
+      url: https://www.solarisbank.de/press
+      #text: |-
+      # 
+      years:
+        - 2017
+
