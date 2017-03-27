@@ -42,7 +42,7 @@ Donations.Data = function(callback) {
 };
 $.extend(Donations.Data, {
   URLS: {
-    production:  'http://campaign.railsgirlssummerofcode.org/donations.json',
+    production:  'https://campaign.railsgirlssummerofcode.org/donations.json',
     development: 'http://localhost:3000/donations.json'
   },
   PACKAGES: {

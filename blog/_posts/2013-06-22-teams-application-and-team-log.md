@@ -71,6 +71,6 @@ Read more about how to use and set up IRC: [https://github.com/rails-girls-summe
 If you think something is unclear or should be improved, or if you find a
 bug, then please [report an issue](https://github.com/rails-girls-summer-of-code/rgsoc-teams/issues).
 
-Or email us at [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
+Or email us at [contact@rgsoc.org](mailto:contact@rgsoc.org)
 
 

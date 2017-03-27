@@ -92,7 +92,7 @@ Head over to our campaign page <a href="/campaign">to donate!</a>
 
 If you have contacts to companies that might be interested in supporting this
 short term, please send us an introduction to
-<a href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a>.
+<a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a>.
 
 
 ### Let's kick this off!

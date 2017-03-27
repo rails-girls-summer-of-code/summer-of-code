@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 
-###About us:
+### About us:
 We are [Kathi Zwick](https://www.xing.com/profile/Katharina_Zwick2) and [Brigitte Markmann](https://www.xing.com/profile/Brigitte_Markmann), two aspiring software developers based in Berlin. We met in December 2013 at our first Rails Girls Workshop. We figured out that we would make a great team for the Rails Girls Summer of Code - and as you can see - we got accepted as a volunteer team! Yeah! :)
 
 **Kathi:** 
@@ -23,10 +23,10 @@ What else? I love to invent silly taglines and titles, can wiggle my ears (up an
 Perfect material for a decent developer, don’t you think? ;) “
 
 
-###Why Rapid?!
+### Why Rapid?!
 Because we learn at a high pace ;) but also because the project we chose to start with is called RapidFTR. It’s a Ruby on Rails/Android application that lets aid workers collect and share information about unaccompanied children in emergency situations, so they can be reunited with their families. We will help upgrading the current app to version 2.0.
 
-###Things we learned so far:
+### Things we learned so far:
 * how to use a Mac (yap, involving terminal commands and funny symbols )
 * how to use Twitter (just have to overcome our general fear of actually using it).
 * learned the English words for all the punctuation marks.
@@ -34,22 +34,22 @@ Because we learn at a high pace ;) but also because the project we chose to star
 * real coding stuff like git, GitHub, Ajax, jQuery, RSpec, Slim, DOM, rubocop, Ruby keywords, TDD, code coverage, etymology of foo, bar, etc. ! :)
 * how to be a good programmer in terms of style, community involvement etc...
 
-###Things we are amazed by:
+### Things we are amazed by:
 * all the hearty support we experienced so far! So many people in the Ruby community as well as SoundClouders have been very kind and super encouraging. From making us feel welcome to offering classes on whatever topic people are experts on! 
 * our coaches/mentors/supervisors obviously! Erik Michaels-Ober (SoundCloud), Klaus Fleerköetter (ThoughtWorks), Steffi Tinder (ThoughtWorks) and Tam Eastley: thank you so much for your dedication and patience! And for motivating and inspiring us! 
 * how much you can learn in 7 weeks!
 * how many different things you actually *have* to learn in order to make a Rails Application work
 
-###Things we would change about the Summer of Code:
+### Things we would change about the Summer of Code:
 * turn the program into “Winter of Code”. We realized that the current “Summer of Code” makes one too excited about coding and thus you spend most of the time in front of a computer, neglecting the beautiful sunshine outside.
 * we would not choose SoundCloud as an office again. It’s just too fabulous, too cozy, too many goodies for the employees, too good food …. the result being that we’re now totally spoiled.
 
-###Anyways…
+### Anyways…
 … if you’d like to stay tuned about our Summer Code, check out [our blog](http://rapidrailsgirls.weebly.com/)!
 
 … and if you’d like to hire us, don’t be shy - message us [on Twitter](https://twitter.com/RapidRailsGirls) or XING!
 
-<img src="http://rapidrailsgirls.weebly.com/uploads/3/1/5/5/31550247/7705121_orig.jpg" width="600" title="That’s Erik, Brigitte, Kathi, Steffi and Klaus">
+<img src="/img/blog/2014/rapidrailsgirls.jpg" title="That’s Erik, Brigitte, Kathi, Steffi and Klaus">
 
 
 

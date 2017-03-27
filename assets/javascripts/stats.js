@@ -28,7 +28,7 @@ Stats.Data = function(callback) {
 };
 $.extend(Stats.Data, {
   URLS: {
-    production:  'http://campaign.railsgirlssummerofcode.org/donations/stats.json',
+    production:  'https://campaign.railsgirlssummerofcode.org/donations/stats.json',
     development: 'http://localhost:3000/donations/stats.json'
   },
 });
@@ -58,9 +58,9 @@ var Progress = function(element) {
 }
 
 $.extend(Progress, {
-  TEAMS_COUNT: 16,
-  GOAL:  112865,
-  // PER_ITEM: 90000
+  TEAMS_COUNT: 12,
+  GOAL:  120000,
+  // PER_ITEM: 10000
 });
 
 $.extend(Progress.prototype, {

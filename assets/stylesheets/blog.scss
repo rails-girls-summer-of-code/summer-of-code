@@ -22,21 +22,6 @@
     border-bottom: 1px solid $dark-grey;
   }
 
-  /* class for iframe videos */
-  .videoWrapper {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
-    padding-top: 25px;
-    height: 0;
-  }
-  .videoWrapper iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-
   /* credits for images */
 
   .image-credits {
@@ -89,5 +74,18 @@
   }
   .col4 {
     left: 75%;
+  }
+}
+
+.conference-table {
+  table {
+    margin-top: 2em;
+    margin-bottom: 2em
+  }
+  td {
+    padding-right: 1em
+  }
+  img {
+    width: 200px
   }
 }

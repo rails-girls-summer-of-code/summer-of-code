@@ -50,7 +50,7 @@ And now, **the conference tickets go to**…
         <b>Date: </b>September 15-16, 2016 <br>
         <b>Location: </b>Warsaw, Poland <br>
         <b>Twitter: </b><a href="https://twitter.com/CodemoWarsaw">@CodemoWarsaw</a> <br>
-        <small>Interested in attending this conference too? <a href="mailto:summer-of-code@railsgirls.com">Contact us</a> for getting 20% off promo code.</small>
+        <small>Interested in attending this conference too? <a href="mailto:contact@rgsoc.org">Contact us</a> for getting 20% off promo code.</small>
       </td>
     </tr>
   </table>
@@ -102,7 +102,7 @@ And now, **the conference tickets go to**…
         <b>Date: </b>October 24-25, 2016 <br>
         <b>Location: </b>Berlin, Germany <br>
         <b>Twitter: </b><a href="https://twitter.com/codemoberlin">@codemoberlin</a> <br>
-        <small>Interested in attending this conference too? <a href="mailto:summer-of-code@railsgirls.com">Contact us</a> for getting 20% off promo code.</small>
+        <small>Interested in attending this conference too? <a href="mailto:contact@rgsoc.org">Contact us</a> for getting 20% off promo code.</small>
       </td>
     </tr>
   </table>
@@ -137,7 +137,7 @@ And now, **the conference tickets go to**…
         <b>Date: </b>November 14-16, 2016 <br>
         <b>Location: </b>Berlin, Germany <br>
         <b>Twitter: </b><a href="https://twitter.com/gotober">@gotober</a> <br>
-        <small>Interested in attending this conference too? <a href="mailto:summer-of-code@railsgirls.com">Contact us</a> for getting 10% off promo code or getting involved as a conference volunteer.</small>
+        <small>Interested in attending this conference too? <a href="mailto:contact@rgsoc.org">Contact us</a> for getting 10% off promo code or getting involved as a conference volunteer.</small>
       </td>
     </tr>
   </table>
@@ -186,10 +186,10 @@ And now, **the conference tickets go to**…
         <img src="/img/blog/2016/conferences/fossasia-logo.png"></a>
       </td>
       <td>
-        <b>Date: </b>March 17-19, 2016 <br>
+        <b>Date: </b>March 17-19, 2017 <br>
         <b>Location: </b>Singapore <br>
         <b>Twitter: </b><a href="https://twitter.com/fossasia">@fossasia</a> <br>
-        <small>Interested in attending this conference too? <a href="mailto:summer-of-code@railsgirls.com">Contact us</a> for getting 50% off promo code.</small>
+        <small>Interested in attending this conference too? <a href="mailto:contact@rgsoc.org">Contact us</a> for getting 50% off promo code.</small>
       </td>
     </tr>
   </table>

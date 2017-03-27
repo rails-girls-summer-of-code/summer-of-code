@@ -35,7 +35,7 @@ Here are some of the conferences which generously granted **free tickets** to ou
       <b>Date: </b>September 15-16, 2016 <br>
       <b>Location: </b>Warsaw, Poland <br>
       <b>Twitter: </b><a href="https://twitter.com/CodemoWarsaw">@CodemoWarsaw</a> <br>
-      <small>Interested in attending this conference too? <a href="mailto:summer-of-code@railsgirls.com">Contact us</a> for getting 20% off promo code.</small>
+      <small>Interested in attending this conference too? <a href="mailto:contact@rgsoc.org">Contact us</a> for getting 20% off promo code.</small>
     </td>
   </tr>
 </table>
@@ -103,7 +103,7 @@ Here are some of the conferences which generously granted **free tickets** to ou
       <b>Date: </b> October 3 - 6, 2016 <br>
       <b>Location: </b> Copenhagen, Denmark <br>
       <b>Twitter: </b><a href="https://twitter.com/GOTOcph">@GOTOcph</a> <br>
-      <small>Interested in attending this conference too? <a href="mailto:summer-of-code@railsgirls.com">Contact us</a> for getting 10% off promo code or getting involved as a conference volunteer.</small>
+      <small>Interested in attending this conference too? <a href="mailto:contact@rgsoc.org">Contact us</a> for getting 10% off promo code or getting involved as a conference volunteer.</small>
     </td>
   </tr>
 </table>
@@ -138,7 +138,7 @@ Here are some of the conferences which generously granted **free tickets** to ou
       <b>Date: </b> October 27-28, 2016 <br>
       <b>Location: </b> Braga, Portugal <br>
       <b>Twitter: </b> <a href="https://twitter.com/rubyconfpt">@rubyconfpt</a> <br>
-      <small>Interested in attending this conference? <a href="mailto:summer-of-code@railsgirls.com">Contact us</a> for getting a promo code.</small>
+      <small>Interested in attending this conference? <a href="mailto:contact@rgsoc.org">Contact us</a> for getting a promo code.</small>
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ Here are some of the conferences which generously granted **free tickets** to ou
       <b>Date: </b> February 9-10, 2017 <br>
       <b>Location: </b> Melbourne, Australia <br>
       <b>Twitter: </b> <a href="https://twitter.com/rubyconf_au">@rubyconf_au</a> <br>
-      <small>Interested in attending this conference, contributing to the diversity ticket fund or giving a talk? <a href="mailto:summer-of-code@railsgirls.com">Contact us</a> for more details.</small>
+      <small>Interested in attending this conference, contributing to the diversity ticket fund or giving a talk? <a href="mailto:contact@rgsoc.org">Contact us</a> for more details.</small>
     </td>
   </tr>
 </table>

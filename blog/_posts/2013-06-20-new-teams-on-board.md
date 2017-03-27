@@ -49,7 +49,7 @@ our &lt;3.
 
 Hopefully, many more students will follow and we can have a really great
 Summer of Code together. Let us know if you want to join as a volunteering
-team: [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
+team: [contact@rgsoc.org](mailto:contact@rgsoc.org)
 
 We are so happy that you are joining RGSoC and we are looking forward to a fantastic time.
 May the ☼ be always with you!

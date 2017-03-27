@@ -27,7 +27,9 @@ We believe that a community changes when its individuals become agents of that c
 
 We have put the name of each person and company who contributed to RGSoC on a square and gave it a coordinate on the board. This is your place in our hearts! <3 Individual donors will have a square on the board and companies, depending on the type of sponsorship package, will get a specific number of squares. Each time someone donates, a grey square is converted into a colorful one. We took a picture of each time we put a square on the board and made a stop motion video for you. 
 
-<iframe src="https://player.vimeo.com/video/163780646" width="640" height="419" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="videoWrapper">
+  <iframe src="https://player.vimeo.com/video/163780646" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/163780646">Thank you! \o/ Let&#039;s #diversifytech!</a> from <a href="https://vimeo.com/user51331690">Rails Girls Summer of Code</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Together we are creating an environment where women* feel more welcome. We are training more developers and helping them jumpstart their career. We are making Open Source a better place for everyone. We are creating the role models of the future. We are redefining the Tech community. We are helping to make  our communities more inclusive and empower individuals to contribute to Open Source with their amazing potential. We are making Tech more diverse!

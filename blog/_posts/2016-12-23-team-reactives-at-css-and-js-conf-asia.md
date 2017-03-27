@@ -1,8 +1,8 @@
 ---
-title: Team Reactives @ css and js conf Asia
+title: Team Reactives at css and js conf Asia
 layout: post
-created_at: Monday Dec 19 2016
-permalink: blog/2016-12-19-team-reactives-@-css-and-js-conf-asia
+created_at: Fri Dec 23 2016
+permalink: blog/2016-12-23-team-reactives-at-css-and-js-conf-asia
 current: blog
 author: Team Reactives
 twitter: shwetha_ravi3

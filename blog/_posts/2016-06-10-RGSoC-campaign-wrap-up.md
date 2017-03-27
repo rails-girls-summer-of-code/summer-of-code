@@ -32,7 +32,9 @@ So, as you can see, they really don't take participating in RGSoC lightly! We ac
 
 **The question of each RGSoC is still the same: how many lives are we going to change this summer?**
 
+<div class="videoWrapper">
 <iframe src="https://player.vimeo.com/video/170188877" width="640" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/170188877">Mia is trying to help with the RGSoC board!</a> from <a href="https://vimeo.com/user51331690">Rails Girls Summer of Code</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 

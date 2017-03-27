@@ -45,4 +45,4 @@ permalink: /guide/supervisors/
 
 <h3 id="apply">How can I apply?</h3>
 
-<p>The best way is to just drop us a line at <a href="mailto:summer-of-code@railsgirls.com">summer-of-code@railsgirls.com</a> telling us you want to help out. We can't wait!</p>
+<p>The best way is to just drop us a line at <a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a> telling us you want to help out. We can't wait!</p>

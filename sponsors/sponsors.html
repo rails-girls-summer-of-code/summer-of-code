@@ -9,21 +9,18 @@ permalink: sponsors/
 
 <section class="main container">
   <div class="wrapper clearfix">
-
-    
-    <h1>Our 2016 Sponsors</h1>
-    
+    <h1>Our 2017 Sponsors</h1>
 
     <section class="sponsors-intro">
       <p>
         Rails Girls Summer of Code helps bring more diversity into Open
         Source, by subsidising programming newcomers to work on an Open Source
-        project of their choice. This is made possible through the generosity of
-        our sponsors.
+        project of their choice. This is only possible due to the generosity
+        of our amazing sponsors.
       </p>
       <p>
-        You can find details about our sponsor packages <a href="/sponsors/packages">here</a>.
-        If you have any questions please don't hesitate to <a href="mailto:summer-of-code@railsgirls.com">email us</a>.
+        Find details about our sponsor packages <a href="/sponsors/packages">here</a>.
+        If you have any questions please don't hesitate to <a href="mailto:campaign@rgsoc.org">email us</a>.
       </p>
     </section>
 
@@ -34,7 +31,7 @@ permalink: sponsors/
         </div>
         <ul>
           {% for sponsor in package.sponsors %}
-            <li id="{{sponsor.id}}" class="row">
+            <li id="{{sponsor.id}}" class="sponsor row">
               <div class="sponsors {{ package.name | downcase }} sponsors-logo col-md-4">
                 <a href="{{ sponsor.url }}" class="{{ sponsor.id }}" target="_blank"></a>
               </div>
@@ -42,6 +39,14 @@ permalink: sponsors/
                 <p>
                   {{ sponsor.text }}
                 </p>
+                <h4>
+                  Sponsor in:
+                </h4>
+                <ul class="years">
+                  {% for year in sponsor.years %}
+                    <li class="year" title="Sponsor in {{ year }}">{{ year }}</li>
+                  {% endfor %}
+                </ul>
               </div>
             </li>
           {% endfor %}

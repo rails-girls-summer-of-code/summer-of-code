@@ -36,4 +36,4 @@ Last year, our dear friends at SoundCloud offered coaching and space to our stud
 
 Envato is also one of our Early Bird sponsors. And they have some [great video tutorials about Ruby](http://hub.tutsplus.com/search?utf8=%E2%9C%93&search%5Bkeywords%5D=Ruby&button=). Just saying.
 
-Do you have free space for at least a one to two-person team to work? Do have developers passionate about helping newcomers, and working on Open Source? You might just have what it takes to be a Coaching Company. Do register your company by emailing us: summer-of-code@railsgirls.com.
+Do you have free space for at least a one to two-person team to work? Do have developers passionate about helping newcomers, and working on Open Source? You might just have what it takes to be a Coaching Company. Do register your company by emailing us: contact@rgsoc.org.

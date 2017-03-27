@@ -21,7 +21,7 @@ Even though our name has the word “Rails” in it, <b>our Summer of Code accep
 
 [![The project submission page on the Teams App (image by Ana Sofia Pinho)](/img/blog/2016/2016-12-01-rgsoc-2017-project-submissions-open-page-teams-app.png)](https://teams.railsgirlssummerofcode.org/projects/new)<font color="grey"><small><i>The project submission page on the Teams App (image by Ana Sofia Pinho)</i></small></font>
 
-If you would like to know more about submitting a project or being a mentor during our summer of code, please take a look at our [“Becoming a Project Mentor”](http://railsgirlssummerofcode.org/guide/projects/) guide. You can also send us an email to [summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com) if you have specific questions.
+If you would like to know more about submitting a project or being a mentor during our summer of code, please take a look at our [“Becoming a Project Mentor”](http://railsgirlssummerofcode.org/guide/projects/) guide. You can also send us an email to [contact@rgsoc.org](mailto:contact@rgsoc.org) if you have specific questions.
 
 You may have noticed that this year you will have two full months to submit your project; this will give everyone more time to think things through and will hopefully help us reach as many project maintainers as possible.
 

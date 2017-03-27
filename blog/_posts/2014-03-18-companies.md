@@ -52,7 +52,7 @@ talks, mentions in our press kit and newsletters, blog posts dedicated to
 sponsors, lots of tweets and of course love from the community.
 
 Want to be one of our early-bird sponsors? Get in touch with us:
-[summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
+[contact@rgsoc.org](mailto:contact@rgsoc.org)
 
 ## 2. Coaching companies
 
@@ -86,7 +86,7 @@ sponsored seat by helping them prepare an outstanding application.
 
 
 If you have the ability to be a "Coaching Company" we'd love to hear from you:
-[summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
+[contact@rgsoc.org](mailto:contact@rgsoc.org)
 
 ## 3. Supporting organizers
 
@@ -106,5 +106,5 @@ honesty, and will be vetted to ensure they will make terrific use of a paid
 position.
 
 If you are interested in this new initiative, then please get in touch:
-[summer-of-code@railsgirls.com](mailto:summer-of-code@railsgirls.com)
+[contact@rgsoc.org](mailto:contact@rgsoc.org)
 

@@ -82,10 +82,12 @@ Now heeeeere you can watch how winners were picked. Make sure to watch it
 [in HD in fullscreen mode](https://vimeo.com/71424538),
 it's fun :)
 
-<iframe src="http://player.vimeo.com/video/71424538" width="615" height="336" frameborder="0" allowFullScreen="allowFullScreen">
+<div class="videoWrapper">
+<iframe src="http://player.vimeo.com/video/71424538" frameborder="0" allowFullScreen="allowFullScreen">
 </iframe>
+</div>
 
-Here's the full [transscript of the raffle](https://gist.github.com/svenfuchs/e557df65a033367030c9).
+Here's the full [transcript of the raffle](https://gist.github.com/svenfuchs/e557df65a033367030c9).
 
 ## And finally - drum rollll
 
