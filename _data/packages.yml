@@ -262,6 +262,15 @@
        closing the gender gap in the tech industry which is why we are proud to support RGSoC.
       years:
         - 2017
+    - name: Nextcloud 
+      id: nextcloud
+      url: https://nextcloud.com/
+      text: |-
+       Nextcloud is the next generation open source, self-hosted, enterprise-ready file access and communication platform. 
+       Sync yourfiles, contacts, calendars and communicate & collaborate across your devices. 
+       Nextcloud puts you back in control and is built by an open community where you can contribute!
+      years:
+        - 2017
     - name: Turing School of Software & Design 
       id: turing
       url: http://turing.io
@@ -350,9 +359,27 @@
         - 2017
     - name: solarisBank 
       id: solarisbank
-      url: https://www.solarisbank.de/press
-      #text: |-
-      # 
+      url: https://www.solarisbank.de
+      text: |-
+       <a href="https://www.solarisbank.de">solarisBank</a> is a tech company with a banking license,
+       but none of it would be possible without our tech team! solarisBank believes deeply in diversity -
+       our team hails from 21 different countries and includes men and women of all ages. We are excited to 
+       support the RGSoC community and empower women in tech and open source!
       years:
+        - 2017
+    - name: Planio
+      id: planio
+      url: https://plan.io
+      text: |-
+        <a href="https://plan.io/" target="_blank">Planio</a> is a leading project
+        management suite and code hosting platform &mdash; proudly built upon one of
+        the oldest Open Source Rails projects: <a href="http://www.redmine.org/"
+        target="_blank">Redmine</a>. Maintaining and helping a big project with a long
+        history move from Rails version to version is both challenging and rewarding.
+        We'd love to see more women and girls in Open Source Rails projects!
+      years:
+        - 2014
+        - 2015
+        - 2016
         - 2017
 
