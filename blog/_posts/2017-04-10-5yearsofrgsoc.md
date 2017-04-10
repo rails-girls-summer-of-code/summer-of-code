@@ -31,9 +31,7 @@ One of the special highlights of 2013 was the amazing support we got from the co
 
 2014 was the year we got a little more organised. We introduced a [Code of Conduct](https://railsgirlssummerofcode.org/about/code-of-conduct/) and our Trust Committee, to help us handle Code of Conduct breaches; that year, we also introduced supervisors from the beginning of the summer (instead of halfway-through as we did in 2013), to help better support all of our teams, sponsored and volunteering. While our application rate stayed roughly the same, we were able to collect more funds for our teams and had participants in new locations (such as Peru and Australia).
 
-[add image of organisers / volunteers holding signs]
-
-The organisers team also grew a lot throughout the preparation phase of the 2014 edition — so many people from the Berlin tech scene and beyond started helping out, working on the Teams App, offering to supervise, coach, and write posts on our blog.  
+The organisers team also grew a lot throughout the preparation phase of the 2014 edition — so many people from the Berlin tech scene and beyond started helping out, working on the Teams App, offering to supervise, coach, and write posts on our blog. You can find a few of them [here](http://2014.railsgirlssummerofcode.org/blog/2014-10-06-last-days/) <3 — with their messages about RGSoC and the soundtrack of their summer! 
 
 ### 90% of our participants stay in tech
 
