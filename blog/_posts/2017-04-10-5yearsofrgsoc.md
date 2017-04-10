@@ -62,7 +62,8 @@ Our team has grown, but it’s still pretty small (3 core organisers, 10 organis
 ![2017 donation progress bar](/img/blog/2017/2017-04-10-donations-2017.png)
 <div class="image-credits">Our donations as of April 10th, 2017! (Source: railsgirlssummerofcode.org)</div>
 
-In the next 5 days, you will still be able to donate to RGSoC to help support teams for this year. We’ve already funded 10 teams with the help of our sponsors and of individual donors — but we know we can do better! If there are any companies you want to reach out to, [we’ve prepared a small document for you](https://docs.google.com/document/d/1a7bS6M78ZqUCCBxa6G-1_RgUxaJ0mCBylOK54poaFK0/edit?usp=sharing) with a step-by-step to reach out to your contacts. We have 4 days left! [Let's get the last one and a half team funded!](https://railsgirlssummerofcode.org/campaign/) 
+
+In the next 4 days, you will still be able to donate to RGSoC to help support teams for this year. We’ve already funded 10 teams with the help of our sponsors and of individual donors — but we know we can do better! If there are any companies you want to reach out to, [we’ve prepared a small document for you](https://docs.google.com/document/d/1a7bS6M78ZqUCCBxa6G-1_RgUxaJ0mCBylOK54poaFK0/edit?usp=sharing) with a step-by-step to reach out to your contacts. [Let's get the last one and a half team funded!](https://railsgirlssummerofcode.org/campaign/) 
 
 ![Map of team locations, 2013–2016](/img/blog/2017/2017-04-10-2013-2016-map.png)
 <div class="image-credits">Map of team locations, 2013–2016. (Image: Anika Lindtner)</div>
