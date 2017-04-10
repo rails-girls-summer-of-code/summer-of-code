@@ -49,6 +49,22 @@
         <a href="https://www.nokia.com" target="_blank">Nokia</a> is a global leader in creating the technologies at the heart of our connected world. Powered by the research and innovation of Nokia Bell Labs, we serve communications service providers, governments, large enterprises and consumers, with the industry's most complete, end-to-end portfolio of products, services and licensing.
       years:
         - 2017
+- name: Platinum
+  title: Platinum Sponsors
+  sponsors:
+    - name: Malwarebytes
+      id: malwarebytes
+      url: http://www.malwarebytes.org
+      text: |-
+        <a href="http://www.malwarebytes.org" target="_blank">Malwarebytes</a> builds
+        Internet security software that detects and removes malware antivirus doesn't
+        catch. As a company we are deeply invested in the developer community and
+        believe brilliant code can change the world. That's why we are proud supporters
+        of the Rails Girls Summer of Code, its participants, and its mission.
+      years:
+        - 2014
+        - 2016
+        - 2017
 - name: Silver
   title: Silver Sponsors
   sponsors:
