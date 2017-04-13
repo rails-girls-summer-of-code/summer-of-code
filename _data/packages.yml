@@ -303,7 +303,7 @@
       id: nextcloud
       url: https://nextcloud.com/
       text: |-
-       Nextcloud is the next generation open source, self-hosted, enterprise-ready file access and communication platform. 
+       <a href="https://nextcloud.com/">Nextcloud</a> is the next generation open source, self-hosted, enterprise-ready file access and communication platform. 
        Sync yourfiles, contacts, calendars and communicate & collaborate across your devices. 
        Nextcloud puts you back in control and is built by an open community where you can contribute!
       years:
