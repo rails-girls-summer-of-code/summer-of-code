@@ -59,7 +59,7 @@ var Progress = function(element) {
 
 $.extend(Progress, {
   TEAMS_COUNT: 12,
-  GOAL:  120000,
+  GOAL:  119000, // hacked in order to show a reached goal
   // PER_ITEM: 10000
 });
 
