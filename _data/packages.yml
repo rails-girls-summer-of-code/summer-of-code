@@ -65,7 +65,7 @@
         - 2014
         - 2016
         - 2017
-  - name: Google
+    - name: Google
       id: google
       url: https://developers.google.com/open-source
       text: |-
