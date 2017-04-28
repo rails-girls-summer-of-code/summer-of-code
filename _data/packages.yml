@@ -460,7 +460,7 @@
       id: microsoft
       url: https://www.microsoft.com/
       text: |-
-        <a href="https://www.microsoft.com/" target="_blank">Microsoft</a> Microsoft empowers everyone 
+        <a href="https://www.microsoft.com/" target="_blank">Microsoft</a> empowers everyone 
         to achieve more. The Berlin team embodies this through a commitment to support Open 
         Source and diversity within the tech community. We're happy to sponsor RGSoC.
       years:
