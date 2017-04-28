@@ -143,6 +143,13 @@
       #text: |-
       years:
         - 2017
+    - name: Bitcrowd
+      id: bitcrowd
+      url: http://bitcrowd.net/en
+      #text: |-
+        #<a href="http://bitcrowd.net/en" target="_blank">Bitcrowd</a> 
+      years:
+        - 2017
     - name: Soundcloud
       id: soundcloud
       url: https://soundcloud.com
@@ -158,6 +165,9 @@
         - 2015
         - 2016
         - 2017
+
+
+
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
@@ -435,5 +445,14 @@
         - 2014
         - 2015
         - 2016
+        - 2017
+    - name: Microsoft
+      id: microsoft
+      url: https://www.microsoft.com/
+      text: |-
+        <a href="https://www.microsoft.com/" target="_blank">Microsoft</a> Microsoft empowers everyone 
+        to achieve more. The Berlin team embodies this through a commitment to support Open 
+        Source and diversity within the tech community. We're happy to sponsor RGSoC.
+      years:
         - 2017
 
