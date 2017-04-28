@@ -165,9 +165,6 @@
         - 2015
         - 2016
         - 2017
-
-
-
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
@@ -446,6 +443,19 @@
         - 2015
         - 2016
         - 2017
+    - name: Runtastic
+      id: runtastic
+      url: http://runtastic.com/
+      text: |-
+        As Runtastics, we want every individual to live a more aware and active lifestyle 
+        with our products, leading to a longer, happier life! Our engineering team with people
+        from 33+ countries plays a vital role in making this a reality. We build large-scale
+        services to support our ever-growing user base of 100+ million in our mobile apps 
+        and on <a href="http://runtastic.com/">Runtastic.com</a>; leveraging open source technologies. 
+        It's a pleasure for us to get the chance to support the open source community through 
+        RGSoC's unique mission.
+      years:
+        - 2017
     - name: Microsoft
       id: microsoft
       url: https://www.microsoft.com/
@@ -455,4 +465,3 @@
         Source and diversity within the tech community. We're happy to sponsor RGSoC.
       years:
         - 2017
-
