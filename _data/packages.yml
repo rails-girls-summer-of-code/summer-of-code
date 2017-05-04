@@ -465,3 +465,10 @@
         Source and diversity within the tech community. We're happy to sponsor RGSoC.
       years:
         - 2017
+    - name: Testplus GmbH
+      id: testplus
+      url: http://www.testplus.at/
+      text: |-
+        At <a href="https://www.testplus.at/" target="_blank">Testplus</a>, we're always looking for great projects to sponsor and since diversity in software testing is a project close to our heart, we're happy to support Rails Girls Summer of Code. Open source is a part we're passionate about and we hope to ensure with our engagement not only the quality of code but the work per se.
+      years:
+        - 2017
