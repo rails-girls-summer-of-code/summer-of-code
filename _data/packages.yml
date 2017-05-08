@@ -418,6 +418,30 @@
         - 2015
         - 2016 
         - 2017
+    - name: Sentry
+      id: sentry
+      url: https://getsentry.com
+      text: |-
+        <a href="https://getsentry.com">Sentry</a> is modern error logging. Get the
+        full stacktrace, request info, and user context of every error. Sentry is
+        completely open source (client and server), supports over two dozen languages
+        and frameworks, has hundreds of contributors, and is deployed in tens of
+        thousands of organizations. Sentry is excited to support Rails Girls Summer of
+        Code and help nurture the next generation of women engineers. We can't wait to
+        see what they can do!
+      years:
+        - 2016
+        - 2017
+    - name: Alterconf
+      id: alterconf
+      url: https://alterconf.com
+      text: |-
+        <a href="https://alterconf.com">AlterConf</a> is a traveling conference focused 
+        on moving the discussion of diversity and inclusion in tech beyond a 101-level. 
+        The conference and it's community projects support marginalized people and their 
+        success in the industry.
+      years:
+        - 2017
     - name: solarisBank 
       id: solarisbank
       url: https://www.solarisbank.de
