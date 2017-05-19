@@ -165,6 +165,21 @@
         - 2015
         - 2016
         - 2017
+    - name: DaWanda
+      id: dawanda
+      url: http://www.dawanda.com
+      text: |- 
+         <a href="http://www.dawanda.com" target="_blank">DaWanda</a>
+         is the online marketplace for unique and handmade items with over 5 million
+         users. Our engineers and designers pride themselves on a warm and welcoming
+         working environment, where collaboration and learning are actively promoted.
+         This Ruby/Rails-focused company cultivates diversity and creativity. From
+         juniors to experts, everyone is heard and encouraged to make a dent.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2017   
 - name: Bronze
   title: Bronze Sponsors
   sponsors:
@@ -500,18 +515,4 @@
         not only the quality of code but the work per se.
       years:
         - 2017
-    - name: DaWanda
-      id: dawanda
-      url: http://www.dawanda.com
-      text: |- 
-         <a href="http://www.dawanda.com" target="_blank">DaWanda</a>
-         is the online marketplace for unique and handmade items with over 5 million
-         users. Our engineers and designers pride themselves on a warm and welcoming
-         working environment, where collaboration and learning are actively promoted.
-         This Ruby/Rails-focused company cultivates diversity and creativity. From
-         juniors to experts, everyone is heard and encouraged to make a dent.
-      years:
-        - 2013
-        - 2014
-        - 2015
-        - 2017
+ 
