@@ -493,6 +493,25 @@
       id: testplus
       url: http://www.testplus.at/
       text: |-
-        At <a href="http://www.testplus.at/" target="_blank">Testplus</a>, we're always looking for great projects to sponsor and since diversity in software testing is a project close to our heart, we're happy to support Rails Girls Summer of Code. Open source is a part we're passionate about and we hope to ensure with our engagement not only the quality of code but the work per se.
+        At <a href="http://www.testplus.at/" target="_blank">Testplus</a>, we're always 
+        looking for great projects to sponsor and since diversity in software testing is a 
+        project close to our heart, we're happy to support Rails Girls Summer of Code. 
+        Open source is a part we're passionate about and we hope to ensure with our engagement 
+        not only the quality of code but the work per se.
       years:
+        - 2017
+    - name: DaWanda
+      id: dawanda
+      url: http://www.dawanda.com
+      text: |- 
+         <a href="http://www.dawanda.com" target="_blank">DaWanda</a>
+         is the online marketplace for unique and handmade items with over 5 million
+         users. Our engineers and designers pride themselves on a warm and welcoming
+         working environment, where collaboration and learning are actively promoted.
+         This Ruby/Rails-focused company cultivates diversity and creativity. From
+         juniors to experts, everyone is heard and encouraged to make a dent.
+      years:
+        - 2013
+        - 2014
+        - 2015
         - 2017
