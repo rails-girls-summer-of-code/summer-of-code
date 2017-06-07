@@ -12,8 +12,6 @@ You wish to support women working full-time on Open Source projects for three mo
 
 Here is some general information about your role as a mentor, as well as guidelines for the submission; RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language!
 
-<em>Submissions are now open for 2017 — apply <a href="https://teams.railsgirlssummerofcode.org/">here</a>.</em>
-
 <br>
 <ul>
 <li><a href="#q1">What is a good project?</a></li>
