@@ -165,6 +165,19 @@
         - 2015
         - 2016
         - 2017
+    - name: ImmobilienScout24
+      id: immobilienscout
+      url: http://www.immobilienscout24.de
+      text: |-
+         <a href="http://www.immobilienscout24.de">ImmobilienScout24</a> is Germany's leading
+         real estate platform as well as an attractive and diverse place to work in 
+         Friedrichshain-Kreuzberg, the creative and multicultural heart of Berlin. 
+         We are huge fans of RGSoC as we love the combination of supporting diversity 
+         in tech and great open source projects at the same time.
+      years:
+        - 2015
+        - 2017
+
     - name: DaWanda
       id: dawanda
       url: http://www.dawanda.com
