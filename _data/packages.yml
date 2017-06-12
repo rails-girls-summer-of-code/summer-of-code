@@ -169,11 +169,12 @@
       id: immobilienscout
       url: http://www.immobilienscout24.de
       text: |-
-         <a href="http://www.immobilienscout24.de">ImmobilienScout24</a> is Germany's leading
-         real estate platform as well as an attractive and diverse place to work in 
-         Friedrichshain-Kreuzberg, the creative and multicultural heart of Berlin. 
-         We are huge fans of RGSoC as we love the combination of supporting diversity 
-         in tech and great open source projects at the same time.
+         <a href="http://www.immobilienscout24.de">ImmobilienScout24</a> is the leading digital 
+         real estate platform in Germany, inspiring decisions and connecting people and homes. 
+         We are a diverse workplace in Friedrichshain-Kreuzberg, the creative and multicultural
+         heart of Berlin. ImmobilienScout 24 is happy to continue supporting RGSoC as we love 
+         supporting diversity in tech and open source projects at the same time.
+
       years:
         - 2015
         - 2017
