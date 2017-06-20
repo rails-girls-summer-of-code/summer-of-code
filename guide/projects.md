@@ -8,9 +8,11 @@ permalink: /guide/projects/
 ---
 <h1>Becoming a Project Mentor</h1>
 
+**All projects for RGSoC 2017 have already been chosen! If you're interested in participating in RGSoC as a project mentor, check back end of 2017.**
+
 You wish to support women working full-time on Open Source projects for three months, want to help newcomers get into Open Source and plan to submit your project?
 
-Here is some general information about your role as a mentor, as well as guidelines for the submission; RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language!
+Here is some general information about your role as a mentor, as well as guidelines for the 2017 submission; RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language!
 
 <br>
 <ul>

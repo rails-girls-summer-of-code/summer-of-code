@@ -8,6 +8,8 @@ permalink: /guide/coaching/
 ---
 <h1>Becoming a Coach</h1>
 
+**All teams for RGSoC 2017 have already been formed! If you're interested in participating in RGSoC as a team coach, check back end of 2017.**
+
 <p>You heard about Rails Girls Summer of Code and want to be a coach for a team? Here you’ll find all you need to know about what coaching actually means.</p>
 
 <ul>

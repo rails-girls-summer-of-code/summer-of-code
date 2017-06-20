@@ -14,8 +14,9 @@ permalink: /guide/supervisors/
 </div>
 </p>
 
+**All supervisors for RGSoC 2017 have already been chosen! If you're interested in participating in RGSoC as a supervisor, check back end of 2017.**
 
-<p>For every year we look for caring people to supervise 1-2 teams through the Summer of Code. Read below to see if it fits your profile. 
+<p>For every year we look for caring people to supervise 1-2 teams through the Summer of Code. Read below to see if it fits your profile.</p> 
 
 <ul>
 <li><a href="#what-it-takes">What it takes to be a good supervisor</a></li>
