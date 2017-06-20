@@ -14,6 +14,8 @@ developers passionate about helping newcomers and working on Open Source?
 
 You might just have what it takes to be a coaching company. -->
 
+**All teams for RGSoC 2017 have already been formed! If you're interested in participating in RGSoC as a coaching company, check back end of 2017 or drop us a line at contact@rgsoc.org.**
+
 Summer of Code teams need a place to work - and having the exposure to a productive work environment and ready
 access to coaches is extremely valuable. Companies that provide this work environment to our teams are called Coaching Companies.
 
