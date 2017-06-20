@@ -18,7 +18,7 @@ permalink: /students/application/
 <p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
 
 
-**Applications for RGSoC 2017 are now closed! <a href="https://railsgirlssummerofcode.org/blog/2017-05-22-teams-2017">Here</a> is a list of our current teams.**
+**Applications for RGSoC 2017 are now closed! <a href="https://railsgirlssummerofcode.org/blog/2017-05-22-teams-2017">Here</a> is a list of our current teams. The guidelines below are for our 2017 applications and might differ slightly from our 2018 requirements.**
 
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
