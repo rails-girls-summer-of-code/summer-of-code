@@ -529,4 +529,16 @@
         not only the quality of code but the work per se.
       years:
         - 2017
+    - name: Redfin
+      id: redfin
+      url: https://www.redfin.com/
+      text: |-
+        <a href="https://www.redfin.com/" target="_blank">Redfin</a> is a customer-first real estate brokerage that represents people buying
+        and selling homes. Founded and run by technologists, Redfin has a team of
+        experienced, full-service real estate agents who are advocates, not
+        salespeople, earning customer-satisfaction bonuses, not commissions.
+        Redfin advocates for an equal representation of women in engineering and is excited to
+        sponsor Rails Girls Summer of Code 2017!
+      years:
+        - 2017
  
