@@ -13,7 +13,7 @@ categories:
 
 
 
-Hi, we’re [Emma](https://twitter.com/EmmaMDeacon) and [Kara](https://twitter.com/KaraMarck), the members of Pivotal, London! We’re working on [Babel](https://github.com/babel/babel) the JavaScript language compiler, with the help of our incredible supervisor [Henry Zhu](https://twitter.com/left_pad), our supportive mentor Ines, and our amazing hosts [Pivotal](https://twitter.com/pivotal). We’re so lucky to be in this position, and we cannot thank Rails Girls Summer of Code enough!!
+Hi, we’re [Emma](https://twitter.com/EmmaMDeacon) and [Kara](https://twitter.com/KaraMarck), the members of Pivotal, London! We’re working on [Babel](https://github.com/babel/babel) the JavaScript language compiler, with the help of our incredible mentor [Henry Zhu](https://twitter.com/left_pad), our supportive supervisor [Ines](https://twitter.com/ines_opcoelho), and our amazing hosts [Pivotal](https://twitter.com/pivotal). We’re so lucky to be in this position, and we cannot thank Rails Girls Summer of Code enough!!
 
 ![Alt Text](https://media.giphy.com/media/k3kqJ2d8cUvSM/giphy.gif)
 
@@ -25,15 +25,15 @@ We met through [Founders and Coders](https://twitter.com/founderscoders), and we
 
 Emma is currently doing her MSc in Technology Entrepreneurship at UCL, and Kara was working as a developer at Ticketmaster before joining Rails Girls Summer of Code. Both of us have been involved in smaller team projects through Founders and Coders, but this is the first time we have been heavily involved in Open Source projects.
 
-One of the best things about working somewhere like Pivotal is the incredibly open and friendly environment (as well as the amazingggg breakfasts 😍 😍), and despite having only been here two days, we have already learnt a tonne about Babel and compilers in general. We’re really lucky to have so many mentors, who are truly interested and passionate about promoting women in technology, and women in open source. We’ve had two informative and engaging lunch and learns with them (and we’ve haven't even been here two full days!), where we’ve explored working in a technology company, and the scope of future technology teams.  
+One of the best things about working somewhere like Pivotal is the incredibly open and friendly environment (as well as the amazingggg breakfasts 😍 😍), and despite having only been here two days, we have already learnt a tonne about Babel and compilers in general. We’re really lucky to have so many coaches, who are truly interested and passionate about promoting women in technology, and women in open source. We’ve had two informative and engaging lunch and learns with them (and we’ve haven't even been here two full days!), where we’ve explored working in a technology company, and the scope of future technology teams.  
 
-And now... we’re pleased to introduce you to our mentors!!
+And now... we’re pleased to introduce you to our coaches!!
 
 ![Alt Text](https://media.giphy.com/media/MJVEi3fmDjd1S/giphy.gif)
 
 ***drum roll, please***
 
-Firstly, we have [Denise Yu](https://twitter.com/deniseyu21), who has acted as our primary lead mentor at Pivotal, and who we hope to be one day ❤️ As well as Denise, we are privilleged and incredibly humbled to have a huge and overwhelming number of additional mentors. This is just proof of how kind and thoughtful Pivotal is; we could not have asked for more opportunities, and we are both overwhelmed by the amount of support we are receiving. We have support and mentorship from [Jonathan Sharpe](https://twitter.com/jonrsharpe), [Josh Hill](https://twitter.com/jamesjoshuahill), [Derik Evangelista](@kirederik), [Winifred Bridgewater](@thepreviewmode), Maria Ntalla and Thomas Godkin! We are so lucky to have the support from these Pivots, and we cannot wait to work with them for the next three months.
+Firstly, we have [Denise Yu](https://twitter.com/deniseyu21), who has acted as our primary lead coach at Pivotal, and who we hope to be one day ❤️ As well as Denise, we are privilleged and incredibly humbled to have a huge and overwhelming number of additional coaches. This is just proof of how kind and thoughtful Pivotal is; we could not have asked for more opportunities, and we are both overwhelmed by the amount of support we are receiving. We have coaching support and guidance from [Jonathan Sharpe](https://twitter.com/jonrsharpe), [Josh Hill](https://twitter.com/jamesjoshuahill), [Derik Evangelista](@kirederik), [Winifred Bridgewater](@thepreviewmode), Maria Ntalla and Thomas Godkin! We are so lucky to have the support from these Pivots, and we cannot wait to work with them for the next three months.
 
 ![Alt Text](../../img/blog/2017/2017-07-04-and-so-it-begins.jpg)
 
