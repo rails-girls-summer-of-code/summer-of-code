@@ -70,9 +70,8 @@ The most important thing to keep in mind is that all pull requests should be mad
 
 ### Requirements  
 
-Every RGSoC team has to write two blog posts during the summer. **The first blog post** has to be done by **August 16th**; the second blog post should be scheduled **between September 19th and October 31st**.  
-Please add your team name [to the editorial calendar](https://docs.google.com/spreadsheets/d/1sDqiNdSZLrwcAkH468E-FkyZ2VtC-5SwqBlraWPiqJU/) next to the date you wish to publish your blog posts on; the posts will be published at 12:00pm UTC.  
-**Note: The blog post pull request must be submitted a minimum of 24h before publishing time to allow for feedback.**   
+Every RGSoC team has to write two blog posts during the summer. **The first blog post** has to be done by **August 14th**; the second blog post should be submitted **by September 30th**.  
+Your team name has been added to two slots in [the editorial calendar](https://docs.google.com/spreadsheets/d/1XT5jSw4urCbRPtTpDpBdzw-S6MuygU5mbaA9tPYG_bc/edit?usp=sharing); please double-check that the date works for you and **make your PR by no later than 12:00 PM UTC on that day**.  
 
 ### Creating a new blog post
 
@@ -112,7 +111,7 @@ not upload images much larger than that (resize them using a very simple image
 manipulation tool of your choosing). As a rule of thumb: An image "heavier"
 than 250 kilobytes is too big. There are several tools you can use online to compress your images, for example [TinyPNG](https://tinypng.com/) or [compressor.io](https://compressor.io).
 
-Please add a line with image credits under each picture, crediting the person who took the photo or created the image by name, or linking to the source of the image if you found it on the internet (URL/website). Last but not least, be sure to respect the privacy of others when uploading photos. **Adding image credits is  mandatory and we will not accept any post without them**.
+Please add a line with image credits under each picture, crediting the person who took the photo or created the image by name, or linking to the source of the image if you found it on the internet (URL/website). Last but not least, be sure to respect the privacy of others when uploading photos. **Adding image credits is mandatory and we will not accept any post without them**.
 
 ### CSS/inline styles
 
