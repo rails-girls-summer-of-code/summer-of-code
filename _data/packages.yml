@@ -551,4 +551,12 @@
         to automate business processes, BigchainDB looks, acts and feels like a database but has the core blockchain characteristics that enterprises want.
       years:
         - 2017
+    - name: Nextjournal
+      id: nextjournal
+      url: https://nextjournal.com
+      text: |-
+        <a href="https://nextjournal.com" target="_blank">Nextjournal</a> Nextjournal makes research explorable - uniting prose, code, data and visualizations
+         in beautiful, ready-to-run, living documents. We love open source and are excited to support RGSoC 2017 and see what you build!
+      years:
+        - 2017
  
