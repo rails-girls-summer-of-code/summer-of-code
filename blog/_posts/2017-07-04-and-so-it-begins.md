@@ -1,9 +1,9 @@
 ---
 title: And so it begins!
 class: page blog
-layout: bootstrap
-current: blog
+layout: post
 permalink: blog/2017-07-04-and-so-it-begins
+current: blog
 author: Emma Deacon
 twitter: EmmaMDeacon
 categories:
