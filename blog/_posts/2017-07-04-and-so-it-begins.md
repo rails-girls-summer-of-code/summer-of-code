@@ -57,7 +57,8 @@ As well as being involved with an awesome team, we’ve embarked on an even more
 
 Because we rarely give up in the face of a challenge, we’re planning on making a projection graph over the summer to pinpoint our ping pong growth (which we all know is the more complicated element of learning to code). Some may say it's - in fact - the most crucial element to learn...
 
-**Our goals are**
-* Help and contribute to Babel, and be involved in as many aspects of the project as possible
-* Become better JavaScript developers
-* Apply for the 2020 Olympic Ping Pong team
+**Our goals are**  
+
+* Help and contribute to Babel, and be involved in as many aspects of the project as possible  
+* Become better JavaScript developers  
+* Apply for the 2020 Olympic Ping Pong team  
