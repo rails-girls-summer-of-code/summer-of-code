@@ -13,7 +13,7 @@ categories:
 We are [Saskia](https://twitter.com/lipskasa) and [Chris](https://twitter.com/daiyitastic) working together on [re-frame](https://github.com/Day8/re-frame) from Berlin. It still feels a bit unreal that our summer of code has finally started this week!
 
 ![saskia and chris](/img/blog/2017/clj-saskia-and-daiyi_xl.jpg)
-*image drawn by Chris Sun*
+<div class="image-credits">image drawn by Chris Sun</div>
 
 ## about us!
 
@@ -30,12 +30,12 @@ We have [ClojureBridge Berlin](http://clojurebridge-berlin.org/) and the greater
 Sometime last year, we'd both seen _the same tweet_ about RGSoC from our mutual friend and notable clojurian [Arne](https://twitter.com/plexus):
 
 ![plexus rgsoc tweet](/img/blog/2017/clj-plexus-rgsoc-tweet.jpg) 
-*screenshot taken by Chris Sun*  
+<div class="image-credits">screenshot taken by Chris Sun</div>
 
 **Saskia**: RGSoC and re-frame had been on the back of my head for a while already, as I remember having seen that tweet. I thought I wouldn't be able to participate, as I had a job that I wanted to continue over the summer. To my surprise and luck, my job ended one day before the applications opened. From there, everything seemed to fall into place. We didn't know each other, but a friend pointed me (Saskia) to this tweet that Chris had posted:
 
 ![looking for teammate tweet](/img/blog/2017/clj-teammate-tweet.png) 
-*screenshot taken by Saskia Lindner*
+<div class="image-credits">screenshot taken by Saskia Lindner</div>
 
 Chris and I got connected, I went to the ClojureD conference here in Berlin where I got the chance to talk to many people from the community and we found six coaches who were willing to support us for this project.
 
@@ -51,7 +51,7 @@ We spend our work week at two different companies in the heart of Berlin nearby 
 Most days we're at [NextJournal](https://nextjournal.com), which actually uses Clojurescript and re-frame for their front-end, so we have opportunities to exchange ideas and ask upcoming questions! We also visit [bitcrowd](https://bitcrowd.net/en), which frequently also hosts Clojure and Ruby community events in their office with a beautiful rooftop balcony.
 
 ![courtyard](/img/blog/2017/clj-sky.jpg) 
-*picture taken by Saskia Lindner*
+<div class="image-credits">picture taken by Saskia Lindner</div>
 
 We have so many awesome coaches experienced with different parts of clojure and clojurescript development! They are spread out all over, so sometimes we'll meet in co-working spaces, other times at our host companies, and some of our coaches even invited us to their homes. It'll be really nice to get some air and feel some sun (or not, haha Berlin) when we step out to have 2:1's with our coaches. And Chris is super excited to have an excuse to ride their bike around the city more. We'll introduce all the coaches next time!
 
@@ -65,7 +65,7 @@ And then we have our friend and RGSoC liaison/supervisor, [Arne](https://twitter
 So many exciting things are ahead of us, we can't wait!
 
 ![tea](/img/blog/2017/clj-tea.jpg) 
-*picture taken by Saskia Lindner*
+<div class="image-credits">picture taken by Saskia Lindner</div>
 
 In two weeks, there will be another Clojure conference here in Berlin where we will get to meet a lot of people from the global community.
 
