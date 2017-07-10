@@ -15,7 +15,7 @@ categories:
 [Saumya](https://github.com/saumya1906), an ECE undergrad from IIIT- Delhi and [Katyayani](https://github.com/Katy310), a CSE undergrad from [IIIT- Delhi](https://iiitd.ac.in/) are the learners from Team Victorious Secret. They’ve been teammates since their first semester and have been friends for most of the bumpy ride that college can be. They are always up for a challenge and are truly grateful to RGSoC for giving them the opportunity to learn, work and code together. 
 
 ![Team Victorious Secret](/img/blog/2017/team_victorious_secret.jpg)
-<font color="grey"><small><i>Katyayani and Saumya</i></small></font>
+<div class="image-credits">Katyayani and Saumya</div>
 - - -
 
 # 5 Things You Didn’t Know About Saumya
