@@ -2,8 +2,8 @@
 title: 4 Tips to Make Your RGSoC Successful
 class: page blog
 layout: post
-created_at: Sat July 8 2017
-permalink: blog/2017-07-08-4-tips-to-make-your-rgsoc-successful
+created_at: Tue July 11 2017
+permalink: blog/2017-07-11-4-tips-to-make-your-rgsoc-successful
 current: blog
 author: Vi Nguyen
 twitter: RailsGirlsSoC
