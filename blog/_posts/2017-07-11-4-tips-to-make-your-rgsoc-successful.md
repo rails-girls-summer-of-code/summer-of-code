@@ -19,13 +19,13 @@ Now that you’re doing Rails Girls Summer of Code (RGSoC), you’re going to be
 This blog post is intended to be a practical guide to help you with the ‘doing’ part guide of RGSoC so that you can have a successful three months!
 
 
-**Tip 1: Manage your role well – that’s the dual role of teacher and student**
+**Tip 1: Manage your role well — that’s the dual role of teacher and student**
 
 RGSoC is a self-guided program and a crucial part of your success relies on you managing the dual the roles of “teacher” and “student” well.  
 
 Just like a teacher will set homework, the student completes it, the teacher assesses it and the loop continues—you also need to set your own “homework”, complete, assess and repeat.  If you’ve just come from university or a workplace where someone manages you by giving you work and assessing you, this dual role may require adjusting to.  
 
-Don’t wait for someone to give you work – set it yourself.
+Don’t wait for someone to give you work — set it yourself.
 
 So...how do you manage this dual role successfully?  
 
@@ -42,7 +42,7 @@ When you’ve completed tasks under the role of the teacher, the role of student
 
 **Tip 2: Set clear goals and figure out how RGSoC fits in with your broader life plans**
 
-Finding a job in web development is one of the common goals students going through RGSoC have.  That’s a career goal and success in achieving this goal depends on interviews, finding suitable employers and more.  RGSoC is not a guaranteed pathway to a job (just like university isn’t a guaranteed pathway). However, with RGSoC, you could view the work produced as being part of a portfolio to demonstrate your coding ability to potential employers.   
+Finding a job in web development is one of the common goals students going through RGSoC have. That’s a career goal and success in achieving this goal depends on interviews, finding suitable employers and more. RGSoC is not a guaranteed pathway to a job (just like university isn’t a guaranteed pathway). However, with RGSoC, you could view the work produced as being part of a portfolio to demonstrate your coding ability to potential employers.   
 
 RGSoC can be seen as a stepping-stone in the career goal of finding a job. The goal then, in RGSoC, is to come out with a high-quality portfolio of work.
 
@@ -68,13 +68,13 @@ Communication is something to prioritize straightaway, even before doing work.  
 Many people are supporting you and invested in your success in this program.    Giving them regular updates and clear communication is courteous and shows them the respect that they deserve.
 
 
-**Tip 4: Take feedback, as it is – feedback on your work**
+**Tip 4: Take feedback, as it is — feedback on your work**
 
 Open source software is software that anyone can examine and is peer-reviewed.
 
 What does that mean for you?
 
-It means you’re likely to get feedback on your work.  From people you know and from strangers.  The feedback might be positive, it might be negative and it could be something in between or off the spectrum – regardless, it will be **public**.  
+It means you’re likely to get feedback on your work.  From people you know and from strangers.  The feedback might be positive, it might be negative and it could be something in between or off the spectrum — regardless, it will be **public**.  
 
 The Internet also has a habit of creating [online disinhibition](https://en.wikipedia.org/wiki/Online_disinhibition_effect), so feedback may come across in quite a direct or curt way.  Just make sure that you distinguish between real feedback that is designed to help you improve your code versus bad behavior disguised under the guise of “feedback”. 
 
@@ -102,4 +102,4 @@ In reality, things never go to plan perfectly. When I was doing RGSoC and in my 
 
 Lastly, what you get from RGSoC is **an opportunity to contribute to open source with support**.  What you make of that opportunity now and beyond is up to you. 
 
-[Vi Nguyen](https://github.com/ladydanger) is a former RGSoC student (2015) and supervisor & [sponsor](https://www.examsuccess.com.au/) (2016 & 2017) of Rails Girls Summer of Code.
+*[Vi Nguyen](https://github.com/ladydanger) is a former RGSoC student (2015) and supervisor & [sponsor](https://www.examsuccess.com.au/) (2016 & 2017) of Rails Girls Summer of Code.*
