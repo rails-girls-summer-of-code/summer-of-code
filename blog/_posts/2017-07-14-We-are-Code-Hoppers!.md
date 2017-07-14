@@ -56,7 +56,7 @@ During summer we hope to:
 #### What we are looking forward to this summer?
 * We want to **learn** as much as possible and improve our programming skills and move to a higher level with our programming experience. 
 * We are looking forward to **share** this experience with the developers here and hope to encourage more ladies to take up ruby on rails 
-* Have fun through this process, its never that serious 💃🏽
+* Have **fun** through this process, its never that serious 💃🏽
 
 We would like to thank: 
 Our Mentor: Simon
