@@ -17,7 +17,7 @@ categories:
 
 Hello World!🌍, we are _Cynthia_ and _Roselyne_ from Nairobi,Kenya🇰🇪. We are Code_Hoppers! Throughout summer we will be working on OpenFarm. 
 
-We met on Twitter while trying to find partners to collaborate with for the program. Once we connected we realized that we had so much more in common, other than our interest in participating in #rgsoc. We realized that we had both attended the same high school but in diffrent years. We had both stayed in the same domitory while in high school and we were ruby on rails developers. We were only left with a week before the applications for rgsoc closed so we quickly had to put our application together, submitted and hoped and prayed that we make it this year(Cynthia had applied the previous year and she was not successful😭) and as they say .... the rest is history🎉.
+We met on Twitter while trying to find partners to collaborate with for the program. Once we connected we realized that we had so much more in common, other than our interest in participating in #rgsoc. We realized that we had both attended the same high school but in diffrent years. We had both stayed in the same domitory while in high school and we were ruby on rails developers. We were only left with one week before the applications for RGSoC closed so we quickly had to put our application together, submitted and hoped and prayed that we make it this year(Cynthia had applied the previous year and she was not successful😭) and as they say .... the rest is history🎉.
 
 #### Who are we?  
 We are enthusiastic Ruby on Rails developers!
