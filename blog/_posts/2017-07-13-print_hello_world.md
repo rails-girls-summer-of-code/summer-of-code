@@ -86,7 +86,7 @@ We would like to support this great project during our Summer of Code. Foodshari
 
 
 
-### N42 Plans @RGSoC’17
+### NK42 Plans @RGSoC’17
 
 * Improve our ability to understand and write code 
 * Better orientate in technical documentation and find the solutions for implementation 
