@@ -14,6 +14,8 @@ categories: student-posts
 ![Team nk42](/img/blog/2017/meetup_screenshot.png)
 <div class="image-credits"><b>PyLadies meetup page</b></div>
 
+<br>
+<br>
 
 Ines read it, googled “Rails Girls Summer of Code”, read it again and went to bed. A crazy idea to spend a whole summer with coding! She has a job and and … Ines really wants to speed up her coding skills. So she decided at the next day it might be a good idea to meet Marie. 
 
@@ -26,6 +28,10 @@ Six months later we are sitting together at the Hackdays at ImmobilienScout Berl
 ### So, Ines: who is Marie?
 
 ![Team nk42](/img/blog/2017/marie.jpg)
+<div class="image-credits"> Photo by Natasha Linde, @photolinde</div>
+
+<br>
+<br>
 
 I could give you some data points about her (from Czech Republic, lives in Neukölln, studied German language and literature, ...) but that doesn't really say much about Marie. So let me tell you something else – and there are two obvious facts to talk about:
 
@@ -38,6 +44,10 @@ I could give you some data points about her (from Czech Republic, lives in Neuk�
 ### And Marie: who is Ines?
 
 ![Team nk42](/img/blog/2017/ines.jpg)
+<div class="image-credits"> Photo by KAthrin Gütt</div>
+
+<br>
+<br>
 
 * Ines is a Marketing expert, studied Museology and Art History and also lives in Neukölln (that’s why our name starts with NK).
 * Ines does not like text written in points (see this text!), she likes paragraphs.
