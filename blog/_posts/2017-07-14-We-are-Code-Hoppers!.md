@@ -46,6 +46,13 @@ We are working on OpenFarm.OpenFarm is a free and open database for farming and 
 We chose this project because it relates to farmers and trying to provide open farming knowledge to farmers is a nobal cause 
 We would also want to learn as much as possible about Ruby and Rails and Angular JS in the process.  
 
+During summer we hope to:
+
+* Make UI changes on the footer
+* Redesign the Homepage UI
+* Create a search page, ensure that the architectural flow in the search page is according to the description and fix the existing bugs
+* Work on a bunch of Newcomer issues
+
 #### What we are looking forward to this summer?
 * We want to **learn** as much as possible and improve our programming skills and move to a higher level with our programming experience. 
 * We are looking forward to **share** this experience with the developers here and hope to encourage more ladies to take up ruby on rails 
