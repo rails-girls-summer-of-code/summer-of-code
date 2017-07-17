@@ -13,7 +13,7 @@ categories:
 ## Introducing Team Code_Hoppers
 
 <img src="/img/blog/2017/code_hoppers.jpg" alt="Cynthia and Roselyne">
-<br><div class="image-credits"> Roselyne and Cynthia (Image: Cynthia)</div>
+<div class="image-credits">Roselyne and Cynthia (Image: Cynthia)</div>
 
 Hello World!🌍, we are _Cynthia_ and _Roselyne_ from Nairobi,Kenya🇰🇪. We are Code_Hoppers! Throughout summer we will be working on OpenFarm. 
 
