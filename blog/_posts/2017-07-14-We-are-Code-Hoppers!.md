@@ -10,10 +10,10 @@ categories:
 - student-posts
 ---
 
-##Introducing Team Code_Hoppers
+## Introducing Team Code_Hoppers
 
 <img src="/img/blog/2017/code_hoppers.jpg" alt="Cynthia and Roselyne">
-<br><font color="black"><small><i> Roselyne and Cynthia (Image: Cynthia)</i></small></font>
+<br><div class="image-credits"> Roselyne and Cynthia (Image: Cynthia)</div>
 
 Hello World!🌍, we are _Cynthia_ and _Roselyne_ from Nairobi,Kenya🇰🇪. We are Code_Hoppers! Throughout summer we will be working on OpenFarm. 
 
@@ -58,10 +58,10 @@ During summer we hope to:
 * We are looking forward to **share** this experience with the developers here and hope to encourage more ladies to take up ruby on rails 
 * Have **fun** through this process, its never that serious 💃🏽
 
-We would like to thank: 
-Our Mentor: Simon
-Our Supervisor: Kasia
-RGSoC Team 
+We would like to thank:   
+Our Mentor: Simon  
+Our Supervisor: Kasia  
+RGSoC Team   
 
 
 Follow us on twitter @code_Hoppers
