@@ -19,12 +19,12 @@ We are __Jenny__ and __Sophie__ from __Melbourne, Australia__. It’s winter her
 ### __ABOUT US!__
 ![Our First day at Zendesk](/img/blog/2017/ifpair-Zendesk.jpg)
 
-#### __Jenny:__
+#### __[Jenny:](https://twitter.com/JennyNamster)__
  __Hot Wheels and Nexo Knight Advocate, learning ukulele, eating chocolate, fruit lover, curious about the world__
 
  __Why coding?__ I am interested in languages and communities. For me coding is an interesting language that has the ability to create something of value to the community. I feel that this could be a way that I can contribute positively to the community.
 
-##### __Sophie:__
+#### __[Sophie:](https://twitter.com/sophierose239)__
 __Domestic household engineer & Tantrum and Meltdown negotiator. Unwinds by creating handmade cards and the occasional glass of white wine__
 
 Before becoming a full-time mother, I worked in the beauty industry, in some of Australia’s top spas, as a Beauty Therapist. I am now making a career change into web development and have been doing so by self-directed learning.
