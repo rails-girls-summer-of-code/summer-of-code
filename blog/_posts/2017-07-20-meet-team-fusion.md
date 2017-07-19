@@ -33,7 +33,7 @@ It started, with Kasun Delgolla (currently a coach of Team Fusion), mentioning R
 Then having a teammate in her mind, she turned to Kasun Delgolla and Tharindu Delgolla, asking them to be a part of the team, as coaches. They said YES!!✌ and offered their help in finding the rest of the team coaches. The best part comes when Janakshi, asked from Kalpani to be her teammate. Janakshi didn't know that Kalpani has lots of girls asking her to be their teammate for RGSoC, so she asked.
 
 ![A screenshot of our first chat on RGSoC](/img/blog/2017/2017-07-20-how-we-got-together.jpg)
-<div class="image-credits"><b>A screenshot of our first chat on RGSoC (Image : Kalpani)</b></div>
+<div class="image-credits"><b>A screenshot of our first chat on RGSoC (Image : Facebook Messenger & Kalpani's Phone)</b></div>
 
 They say, girls are experts in saving screenshots for later.. See what they got out of it now? **Memories!**
 
