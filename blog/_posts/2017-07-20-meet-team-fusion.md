@@ -77,7 +77,7 @@ Since you all know about the two of us now, here’s an intro for the rest of ou
 
 *[Milindu Kumarage:](https://lk.linkedin.com/in/agentmilindu)* He’s an independent Information Technology and Services Professional from CAKE LABS- Sri Lanka. He’s very enthusiastic when it comes to helping the IT Community in Sri Lanka. He’s doing the best he can to help us and guide us through all the project related work as our mentor.
 
-### **_ Our Supervisor_**
+### **_Our Supervisor_**
 
 *[Ramón Huidobro:](https://twitter.com/senorhuidobro?lang=en)* He’s a freelance software engineer who knows how to have fun. He loves to help people. He enjoys swimming and hiking too. The best thing is, he’s our supervisor for this summer! 
 
