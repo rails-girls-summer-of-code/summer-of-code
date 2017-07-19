@@ -5,7 +5,7 @@ created_at: Monday July 17 2017
 permalink: blog/2017-07-17-ifPairElseUnknown
 current: blog
 author: ifPairElseUnknown
-twitter: IfPairElse  ‏
+twitter: IfPairElse
 categories:
 - student-posts
 ---

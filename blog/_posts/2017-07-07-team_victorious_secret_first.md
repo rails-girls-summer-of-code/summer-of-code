@@ -5,7 +5,7 @@ created_at: Fri July 7 2017
 permalink: blog/2017-07-07-team-victorious-secret
 current: blog
 author: Victorious Secret
-twitter: VictoriuSecret  ‏
+twitter: VictoriuSecret
 categories:
 - student-posts
 ---
