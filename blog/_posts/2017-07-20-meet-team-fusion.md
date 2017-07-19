@@ -1,4 +1,4 @@
-﻿---
+---
 title: ✨ Meet Team Fusion ✨
 layout: post
 created_at: Thu Jul 20 2017
