@@ -20,7 +20,7 @@ We are _Janakshi_ and _Kalpani_ from **Team Fusion**, working on project **OpenD
 
 We are two young ladies who love to code. But, that's not enough for an introduction.. So this is who we really are. 👇
 
-[__Jankashi :__](https://lk.linkedin.com/in/janakshidulanga) Janakshi Dulanga (22 years) is from Kegalle, Sri Lanka. She’s someone who loves to do lots of things, that's right, a multi-tasker. Cooking comes first, then wandering about stars and music, and guess what? She loves Programming too.. She had to choose them all! She’s currently a software engineering undergraduate, from APIIT Sri Lanka, who's waiting for her final degree results, and hoping to become a Software Engineer who can cook! 🔭💻👩‍🍳
+[__Janakshi :__](https://lk.linkedin.com/in/janakshidulanga) Janakshi Dulanga (22 years) is from Kegalle, Sri Lanka. She’s someone who loves to do lots of things, that's right, a multi-tasker. Cooking comes first, then wandering about stars and music, and guess what? She loves Programming too.. She had to choose them all! She’s currently a software engineering undergraduate, from APIIT Sri Lanka, who's waiting for her final degree results, and hoping to become a Software Engineer who can cook! 🔭💻👩‍🍳
 
 [__Kalpani :__](https://lk.linkedin.com/in/kalpani-bhagya-ranasinghe-256585110) Kalpani Ranasinghe (22 years) is from Kegalle, Sri Lanka.She is a Karate player, guitarist and pianist. She loves programming too. She wants to become a game developer and a Karate Referee in World Karate Federation one day. 🎮💻🥋 Currently she’s a computer science undergraduate, from University of Colombo School of Computing and apart from her studies she is playing for the Karate Team of University of Colombo. 
 
