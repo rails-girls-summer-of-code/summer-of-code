@@ -24,7 +24,6 @@ Additionally, we suggest you to visit a conference. They are an important aspect
 * <a href="#conference">At the Conference</a>
 * <a href="#travel">What About Travel and Accommodation?</a>
 * <a href="#organizers">Infos for Conference Organizers</a>
-* <a href="#conferences">Conference Sponsors in 2016</a>
 
 <h2 id="basics">The Basics</h2>
 The RGSoC orga team is in touch with many conference organizers all over the world. We try to provide free tickets for suitable conferences in your area. We are looking for conferences that are related to your main programming language or are well-fit general topic conferences that are beginner friendly. Additionally, we make sure conferences have a code of conduct in place or otherwise make an effort in creating a harassment-free atmosphere where everyone feels welcome and respected.
