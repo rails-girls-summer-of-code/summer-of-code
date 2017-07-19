@@ -22,10 +22,10 @@ We are two young ladies who love to code. But, that's not enough for an introduc
 
 [__Janakshi :__](https://lk.linkedin.com/in/janakshidulanga) Janakshi Dulanga (22 years) is from Kegalle, Sri Lanka. She’s someone who loves to do lots of things, that's right, a multi-tasker. Cooking comes first, then wandering about stars and music, and guess what? She loves Programming too.. She had to choose them all! She’s currently a software engineering undergraduate, from APIIT Sri Lanka, who's waiting for her final degree results, and hoping to become a Software Engineer who can cook! 🔭💻👩‍🍳
 
-[__Kalpani :__](https://lk.linkedin.com/in/kalpani-bhagya-ranasinghe-256585110) Kalpani Ranasinghe (22 years) is from Kegalle, Sri Lanka.She is a Karate player, guitarist and pianist. She loves programming too. She wants to become a game developer and a Karate Referee in World Karate Federation one day. 🎮💻🥋 Currently she’s a computer science undergraduate, from University of Colombo School of Computing and apart from her studies she is playing for the Karate Team of University of Colombo. 
+[__Kalpani :__](https://lk.linkedin.com/in/kalpani-bhagya-ranasinghe-256585110) Kalpani Ranasinghe (22 years) is from Kegalle, Sri Lanka. She is a Karate player, guitarist and pianist. She loves programming too. She wants to become a game developer and a Karate Referee in World Karate Federation one day. 🎮💻🥋 Currently she’s a computer science undergraduate, from University of Colombo School of Computing and apart from her studies she is playing for the Karate Team of University of Colombo. 
 
 **So what are the similarities between them?**
-	Both of them are from the same school, were in the same class, from the same area, having the same height, left handers when it comes to writing, and the list goes on.. And the most important similarity, that made them a part of RGSoC, is the love for being a part of something bigger. 😊✨
+	Both of them are from the same school, were in the same class, from the same area, having the same height, left handers when it comes to writing, and the list goes on.. And the most important similarity, that made them a part of RGSoC, is their love for being a part of something bigger. 😊✨
 
 ## The origin story!
 
@@ -38,8 +38,8 @@ Then having a teammate in her mind, she turned to Kasun Delgolla and Tharindu De
 They say, girls are experts in saving screenshots for later.. See what they got out of it now? **Memories!**
 
 Just like that Kalpani took a bit of time to make her choice.. And guess what she said YES!!!..✌ See? Is it even possible saying NO to your childhood friend? Nah.. Because both of them knew, they are gonna make a great team..😇
-Then they were preparing for the application . First they came up with the name Fusion, which means "The process or result of joining two or more things together to form a single entity."⚛, Thank you google for letting us know about this beautiful meaning. 
-As the next step, they went through the approved project list, and kept their eyes on two projects considering their familiarity with the required skills. With the help of Kasun and Tharindu, they finalized their decision. While the application process is happening, they wanted to find a suitable working place, what place is better than the place you learned it all? yeah, that's why they wanted to work in one of their universities. 
+Then they were preparing for the application . First they came up with the name Fusion, which means "The process or result of joining two or more things together to form a single entity."⚛ Thank you google for letting us know about this beautiful meaning. 
+As the next step, they went through the approved project list, and kept their eyes on two projects considering their familiarity with the required skills. With the help of Kasun and Tharindu, they finalized their decision. While the application process is happening, they wanted to find a suitable working place. What place is better than the place you learned it all? yeah, that's why they wanted to work in one of their universities. 
 
 ### **_“If you have to ask, you’ll never know. If you know, you need only ask.”_**
 #### ― J.K. Rowling, Harry Potter and the Deathly Hallows ⚡
@@ -81,13 +81,13 @@ Since you all know about the two of us now, here’s an intro for the rest of ou
 
 *[Ramón Huidobro:](https://twitter.com/senorhuidobro?lang=en)* He’s a freelance software engineer who knows how to have fun. He loves to help people. He enjoys swimming and hiking too. The best thing is, he’s our supervisor for this summer! 
 
-And this is our lovely team! Looking fantastic right?
+And this is our lovely team!😎👇 Looking fantastic right?
 ![Team Fusion](/img/blog/2017/2017-07-20-team-fusion.jpg)
 <div class="image-credits"><b>Our Fabulous Team.. (Image : Team member photos: Provided by themselves and RGSoC logo: twitter.com)</b></div>
 
 ## The Project- OpenDF
 
-Project *[OpenDF](https://github.com/scorelab/OpenDF)* is a cloud based digital forensics tool which tracks cyber-crimes. It enables the investigators, mine the evidences effectively and report successfully. Through OpenDF, the usability of analysis of processed forensics data can be improved. It supports team collaboration in investigations and has been able to increase the confidentiality and security of the investigation.  Mind Blowing !! 😎 .. Isn’t it? 
+Project *[OpenDF](https://github.com/scorelab/OpenDF)* is a cloud based digital forensics tool which tracks cyber-crimes. It enables the investigators, mine the evidences effectively and report successfully. Through OpenDF, the usability of analysis of processed forensics data can be improved. It supports team collaboration in investigations and has been able to increase the confidentiality and security of the investigation.  Mind Blowing !!.. Isn’t it? 
 
 ![Mind blowing](/img/blog/2017/2017-07-20-mind-blowing.gif)
 <div class="image-credits"><b>Mind blowing!.. (Image : Buzzfeed.com)</b></div>
@@ -110,9 +110,9 @@ During the last 2 weeks of June, we had many discussions with our mentor Milindu
 So we were ready for the Start of RGSoC 2017! And were pretty confident too. Because we did months of preparing and had a great plan!. 
 
 ### After the start
-Even before July1st, the starting date of RGSoC, we knew this summer is going to play a huge part of our lives. So we couldn't just start it without celebrating! That's how our tiny kick-off celebration, which happened on July 3rd 2017, the very first working day of RGSoC, came into the picture. That was a wonderful and lovely day for all of us.Even some of our coaches could make it to the event. They helped us finishing the special cake! Actually they did the coaching for that too.. How to slice a cake better! 🎂🔪
+Even before July 1st, the starting date of RGSoC, we knew this summer is going to play a huge part of our lives. So we couldn't just start it without celebrating! That's how our tiny kick-off celebration, which happened on July 3rd 2017, the very first working day of RGSoC, came into the picture. That was a wonderful and lovely day for all of us. Even some of our coaches could make it to the event. They helped us finishing the special cake! Actually they did the coaching for that too.. How to slice a cake better! 🎂🔪
 
-And this is how our first day of RGSoC 2017 looked like. 
+And this is how our first day of RGSoC 2017 looked like.👇 
 ![Our first day of RGSoC](/img/blog/2017/2017-07-20-our-first-day.jpg)
 <div class="image-credits"><b>Our first day of RGSoC (Image : Coach Kasun’s Phone & Janakshi’s Tab)</b></div>
 
@@ -122,7 +122,7 @@ By the end of our 1st Week of RGSoC, we could finalize the user stories and the 
 ![Stress releasing](/img/blog/2017/2017-07-20-stress-release.gif)
 <div class="image-credits"><b>Stress releasing.. (Image :  giphy.com)</b></div>
 
-Opportunities were always on our side, we just had to take them. One day a very special person visited to see how we work. And that was professor Gamindu, from APIIT Sri Lanka. And he suggested an interesting way to improve how we work. That's scrum meetings. :D According to his suggestions, we are starting Scrum meetings from this week onwards. And our scrum master, is none other than Dr. Gamindu, himself! 
+Opportunities were always on our side, we just had to take them. One day a very special person visited to see how we work. And that was professor Gamindu, from APIIT Sri Lanka. And he suggested an interesting way to improve how we work. That's **Scrum Meetings**. According to his suggestions, we are starting Scrum meetings from this week onwards. And our Scrum Master, is none other than Dr. Gamindu, himself! 
 Our coaches are very helpful .. Although we disturb them every week, every day and actually every time, they do not hesitate to give us the best support they can give. And since we are learning most of the new technologies from scratch, their helping hands are precious to us.. 
 Be it an UI related matter, an issue related to implementation, or project management issue, our coaches always made time to give us the best possible solution. So they saved us through the struggles. 😁
 
@@ -136,12 +136,12 @@ Thank you very much for everything you’ve done for us so far and making sure w
 ![Thank you](/img/blog/2017/2017-07-20-thank-you.gif)
 <div class="image-credits"><b>Thank you for real.. (Image :  giphy.com)</b></div>
 
-For these three weeks of RGSOC, we have learnt about Javascript, Git, React , Redux, JSON, ES6 vs ES5, Swagger annotations, APIs and etc. by giving our highest commitment.
-Time is flying so fast. So, we started our development process. So, currently we are working on the searchable fields panel and Query bar of our file browser. It was off to a good start! And now our trello board looks good and the Done and In-Progress lists are keep getting populated! ✅
+For these three weeks of RGSOC, we have learnt about Javascript, Git, React , Redux, JSON, ES6 vs ES5, Swagger annotations, APIs and etc by giving our highest commitment.
+Time is flying so fast. So, we started the development process. Currently we are working on the searchable fields panel and Query bar of our file browser. It is off to a good start! And now our weekly Trello boards looks good and the Done and In-Progress lists are keep getting populated! ✅
 	
 ## Our goals for this summer
  
-We want to **learn more** about the technologies from the technology stack of OpenDF and other related technologies which are being used in the industry. And our final aim for this summer is to **give our best shot at it** and do our tasks, in the best possible way. And of course yes!, We are going learn so much! 💻📚😌 Both of us **share our knowledge** with each other. Most of the times we do self studies in separate machines and discuss the things that we have learnt. That is a better a way to learn quickly. We want to continue this throughout this summer. 😌
+We want to **learn more** about the technologies from the technology stack of OpenDF and other related technologies which are being used in the industry. And our final aim for this summer is to **give our best shot at it** and do our tasks, in the best possible way. And of course yes!, We are going learn so much! 💻📚😌 Both of us **share our knowledge** with each other. Most of the times we do self studies in separate machines and discuss the things that we have learned. That is a better a way to learn quickly. And we want to continue this throughout this summer. 😌
 
 And most importantly, we all know that a work like this can be very stressful. But it depends on how we embrace it. So why don't we **enjoy** it instead - which is the exact thing we do. 😎💃🍕🍨 Our team find these kind of work more entertaining, than frustrating, which makes it more interesting in return.
 
