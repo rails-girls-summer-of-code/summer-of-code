@@ -141,7 +141,7 @@ Time is flying so fast. So, we started our development process. So, currently we
 	
 ## Our goals for this summer
  
-We want to learn more about the technologies on our technology stack and other related technologies which are using in the industry. And our final aim for this summer is to give our best shot at it and do our tasks, in the best way possible. And of course yes! We are going learn so much! 💻📚😌 Both of us share our knowledge with each other. Most of the times we do self studies in separate machines and discuss the things that we have learnt. That is a better a way to learn quickly. We want to continue this throughout this summer. 😌
+We want to learn more about the technologies from the technology stack of OpenDF and other related technologies which being used in the industry. And our final aim for this summer is to give our best shot at it and do our tasks, in the best possible way. And of course yes!, We are going learn so much! 💻📚😌 Both of us share our knowledge with each other. Most of the times we do self studies in separate machines and discuss the things that we have learnt. That is a better a way to learn quickly. We want to continue this throughout this summer. 😌
 
 And most importantly, we all know that a work like this can be very stressful. But it depends on how we embrace it. So why don't we enjoy it instead - which is the exact thing we do. 😎💃 Our team find these works more entertaining than frustrating, which makes it more interesting in return.
 
