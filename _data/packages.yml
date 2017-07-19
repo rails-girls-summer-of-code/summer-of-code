@@ -559,4 +559,12 @@
          in beautiful, ready-to-run, living documents. We love open source and are excited to support RGSoC 2017 and see what you build!
       years:
         - 2017
+    - name: Manifold
+      id: manifold
+      url: https://www.manifold.co/
+      text: |-
+        <a href="https://www.manifold.co/" target="_blank">Manifold</a> is the best way to add cloud services to your application on any cloud, made by developers, 
+        with love. We are honored to be able to support diversity and empowerment in Open Source through such a wonderful cause. Excited to see what y'all build! 🤗
+      years:
+        - 2017
  
