@@ -42,7 +42,7 @@ Then they were preparing for the application . First they came up with the name 
 As the next step, they went through the approved project list, and kept their eyes on two projects considering their familiarity with the required skills. With the help of Kasun and Tharindu, they finalized their decision. While the application process is happening, they wanted to find a suitable working place. What place is better than the place you learned it all? yeah, that's why they wanted to work in one of their universities. 
 
 ### **_“If you have to ask, you’ll never know. If you know, you need only ask.”_**
-#### ― J.K. Rowling, Harry Potter and the Deathly Hallows ⚡
+####― J.K. Rowling, Harry Potter and the Deathly Hallows ⚡
 	
 They asked from APIIT Sri lanka, because they always knew, universities will never say “No” to the real need of students, and actually they did say YES!!..✌ See everything started with a YES for them.. So finding the room of requirement from APIIT, was a success! 🎉
 
@@ -63,7 +63,8 @@ Since you all know about the two of us now, here’s an intro for the rest of ou
 
 ### **_Coaches_**
 
-*[Kasun Delgolla:](https://lk.linkedin.com/in/kasundananjaya)* He’s a senior software engineer from Riverview B2B- Sri Lanka, who’s currently working as the Head of Mobile Development in the same company. He’s loves to help people and play cricket. He’s our lead coach.
+*[Kasun Delgolla:](https://lk.linkedin.com/in/kasundananjaya)* He’s currently working as the Head of Mobile Development in 	
+Riverview B2B- Sri Lanka. He's a Enterprise Mobility & IoT Enthusiast. He’s loves to help people and play cricket. He’s our lead coach.
 
 *[Tharindu Delgolla:](https://lk.linkedin.com/in/tharindudananjaya)* He’s a well experienced software engineer from IFS- Sri Lanka, who’s also a technical consultant at the same company. He hopes to become a great film maker one day. Well, Good luck Tharindu!. He’s our remote coach, who’s gonna do the code reviewing for us.
 
@@ -75,7 +76,7 @@ Since you all know about the two of us now, here’s an intro for the rest of ou
 
 ### **_Our Mentor_**
 
-*[Milindu Kumarage:](https://lk.linkedin.com/in/agentmilindu)* He’s an independent Information Technology and Services Professional from CAKE LABS- Sri Lanka. He’s very enthusiastic when it comes to helping the IT Community in Sri Lanka. He’s doing the best he can to help us and guide us through all the project related work as our mentor.
+*[Milindu Kumarage:](https://lk.linkedin.com/in/agentmilindu)* He’s a software engineer from Sysco Labs- Sri Lanka. He’s very enthusiastic when it comes to helping the IT Community in Sri Lanka. He’s doing the best he can to help us and guide us through all the project related work as our mentor.
 
 ### **_Our Supervisor_**
 
@@ -87,7 +88,7 @@ And this is our lovely team!😎👇 Looking fantastic right?
 
 ## The Project- OpenDF
 
-Project *[OpenDF](https://github.com/scorelab/OpenDF)* is a cloud based digital forensics tool which tracks cyber-crimes. It enables the investigators, mine the evidences effectively and report successfully. Through OpenDF, the usability of analysis of processed forensics data can be improved. It supports team collaboration in investigations and has been able to increase the confidentiality and security of the investigation.  Mind Blowing !!.. Isn’t it? 
+Project *[OpenDF](https://github.com/scorelab/OpenDF)* is a cloud based digital forensics tool which helps forensics investigators in investigating forensics evidences. It enables the investigators, mine the evidences effectively and report successfully. Through OpenDF, the usability of analysis of processed forensics data can be improved. It supports team collaboration in investigations and has been able to increase the confidentiality and security of the investigation.  Mind Blowing !!.. Isn’t it? 
 
 ![Mind blowing](/img/blog/2017/2017-07-20-mind-blowing.gif)
 <div class="image-credits"><b>Mind blowing!.. (Image: Buzzfeed.com)</b></div>
@@ -150,6 +151,5 @@ So let’s enjoy being a part of RGSoC family!.. 😇🎉
 ![Team Spirit](/img/blog/2017/2017-07-20-team-spirit.gif)
 <div class="image-credits"><b>We are in this together.. (Image: giphy.com)</b></div>
 
-Follow us on Twitter at [@TeamFusionJK](https://twitter.com/TeamFusionJK), [@JanakshiDulanga](https://twitter.com/JanakshiDulanga) and [@KbKalpani](https://twitter.com/KbKalpani)
-Read our [blog](https://rgsocteamfusion.wordpress.com/) on WordPress.
+Follow us on Twitter at [@TeamFusionJK](https://twitter.com/TeamFusionJK), [@JanakshiDulanga](https://twitter.com/JanakshiDulanga) and [@KbKalpani](https://twitter.com/KbKalpani) and Read our [blog](https://rgsocteamfusion.wordpress.com/) on WordPress.
 
