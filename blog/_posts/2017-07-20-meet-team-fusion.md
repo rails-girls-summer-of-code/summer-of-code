@@ -75,7 +75,7 @@ Since you all know about the two of us now, here’s an intro for the rest of ou
 
 ### **_Our Mentor_**
 
-*[Milindu Kumarage:](https://lk.linkedin.com/in/agentmilindu)* He’s a software engineer from Syscolabs- Sri Lanka. He’s very enthusiastic when it comes to helping the IT Community in Sri Lanka. He’s doing the best he can to help us and guide us through all the project related work as our mentor.
+*[Milindu Kumarage:](https://lk.linkedin.com/in/agentmilindu)* He’s a software engineer from Sysco Labs- Sri Lanka. He’s very enthusiastic when it comes to helping the IT Community in Sri Lanka. He’s doing the best he can to help us and guide us through all the project related work as our mentor.
 
 ### **_Our Supervisor_**
 
