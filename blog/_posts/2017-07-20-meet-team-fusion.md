@@ -63,7 +63,8 @@ Since you all know about the two of us now, here’s an intro for the rest of ou
 
 ### **_Coaches_**
 
-*[Kasun Delgolla:](https://lk.linkedin.com/in/kasundananjaya)* He’s a senior software engineer from Riverview B2B- Sri Lanka, who’s currently working as the Head of Mobile Development in the same company. He’s loves to help people and play cricket. He’s our lead coach.
+*[Kasun Delgolla:](https://lk.linkedin.com/in/kasundananjaya)* He’s currently working as the Head of Mobile Development in 	
+Riverview B2B- Sri Lanka. He's a Enterprise Mobility & IoT Enthusiast. He’s loves to help people and play cricket. He’s our lead coach.
 
 *[Tharindu Delgolla:](https://lk.linkedin.com/in/tharindudananjaya)* He’s a well experienced software engineer from IFS- Sri Lanka, who’s also a technical consultant at the same company. He hopes to become a great film maker one day. Well, Good luck Tharindu!. He’s our remote coach, who’s gonna do the code reviewing for us.
 
@@ -87,7 +88,7 @@ And this is our lovely team!😎👇 Looking fantastic right?
 
 ## The Project- OpenDF
 
-Project *[OpenDF](https://github.com/scorelab/OpenDF)* is a cloud based digital forensics tool which tracks cyber-crimes. It enables the investigators, mine the evidences effectively and report successfully. Through OpenDF, the usability of analysis of processed forensics data can be improved. It supports team collaboration in investigations and has been able to increase the confidentiality and security of the investigation.  Mind Blowing !!.. Isn’t it? 
+Project *[OpenDF](https://github.com/scorelab/OpenDF)* is a cloud based digital forensics tool which helps forensics investigators in investigating forensics evidences. It enables the investigators, mine the evidences effectively and report successfully. Through OpenDF, the usability of analysis of processed forensics data can be improved. It supports team collaboration in investigations and has been able to increase the confidentiality and security of the investigation.  Mind Blowing !!.. Isn’t it? 
 
 ![Mind blowing](/img/blog/2017/2017-07-20-mind-blowing.gif)
 <div class="image-credits"><b>Mind blowing!.. (Image : Buzzfeed.com)</b></div>
