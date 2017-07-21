@@ -42,7 +42,7 @@ Then they were preparing for the application . First they came up with the name 
 As the next step, they went through the approved project list, and kept their eyes on two projects considering their familiarity with the required skills. With the help of Kasun and Tharindu, they finalized their decision. While the application process is happening, they wanted to find a suitable working place. What place is better than the place you learned it all? yeah, that's why they wanted to work in one of their universities. 
 
 ### **_“If you have to ask, you’ll never know. If you know, you need only ask.”_**
-####― J.K. Rowling, Harry Potter and the Deathly Hallows ⚡
+#### _― J.K. Rowling, Harry Potter and the Deathly Hallows_ ⚡
 	
 They asked from APIIT Sri lanka, because they always knew, universities will never say “No” to the real need of students, and actually they did say YES!!..✌ See everything started with a YES for them.. So finding the room of requirement from APIIT, was a success! 🎉
 
@@ -68,7 +68,7 @@ Riverview B2B- Sri Lanka. He's a Enterprise Mobility & IoT Enthusiast. He’s lo
 
 *[Tharindu Delgolla:](https://lk.linkedin.com/in/tharindudananjaya)* He’s a well experienced software engineer from IFS- Sri Lanka, who’s also a technical consultant at the same company. He hopes to become a great film maker one day. Well, Good luck Tharindu!. He’s our remote coach, who’s gonna do the code reviewing for us.
 
-*[Imran Hishaam:](https://lk.linkedin.com/in/imranhishaam)* He’s a software engineer from Riverview Mobility Solutions - Sri Lanka. He may be young, but he’s a genius and very passionate, when it comes to coding. He’s helping Team Fusion with ReactJS app development as a local coach.
+*[Imran Hishaam:](https://lk.linkedin.com/in/imranhishaam)* He’s a software engineer from Riverview B2B- Sri Lanka. He may be young, but he’s a genius and very passionate, when it comes to coding. He’s helping Team Fusion with ReactJS app development as a local coach.
  
 *[Udani Gunasena:](https://lk.linkedin.com/in/udanie-gunasena-191b8730)* She’s a well experienced software engineer from ICTA Sri Lanka. She loves music and she’s a great pianist. And we must say, she has a keen eye, when it comes to reviewing UI designs. Currently she’s helping our team as a local coach.
 
