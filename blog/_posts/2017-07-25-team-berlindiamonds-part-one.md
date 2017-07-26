@@ -7,10 +7,11 @@ current: blog
 author: Kaja
 twitter: AlizeNero
 categories:
-- news
+- student-posts
 ---
 
 ![image](../img/blog/2017/2017-07-firstday-confetti.jpg)
+<div class="image-credits">Kaja at her desk / Photo by: Jen</div>
 
 Hello Hello!
 
@@ -23,7 +24,7 @@ I am a passionate Ruby developer and a member of the Rails Girls Berlin. Origina
 
 Jen
 
-Since I originally come from photography and psychology, I love to connect creativity and coding. So building web apps with Rails is just the right medium for me. I also joined the Opend Tech School Berlin and soon met the Rails Girls Berlin at some events at our co-working space. I love to travel and see beautiful things and I can do some tricks on the skateboard.
+Since I originally come from photography and psychology, I love to connect creativity and coding. So building web apps with Rails is just the right medium for me. I also joined the Open Tech School Berlin and soon met the Rails Girls Berlin at some events at our co-working space. I love to travel and see beautiful things and I can do some tricks on the skateboard.
 
 
 The First Days
@@ -39,4 +40,5 @@ Our Plugin
 
 We already got quite far within the first weeks and finished building a plugin for Discourse that can upload backup files to Google Drive. If you want to check out the code and see our progress, please take a look at our [Github Repo](https://github.com/berlindiamonds/discourse-googledrive-backup). Although the plugin itself is technically working, as good coders we will still refactor our code and also create a reusable structure in order to build more backup plugins after that. 
 All in all this project has really made us feel more competent and growing with every problem we solve. We feel very empowered and happy and are very thankful for the chance of being part of the RailsGirls Summer of Code. Thanks to all contributers and organizers! We love it <3 
-![image](../img/blog/2017/2017-07-empowered-diamonds.jpg) Photo by: Markus from Absolventa
+![image](../img/blog/2017/2017-07-empowered-diamonds.jpg)
+<div class="image-credits">Kaja and Jen / Photo by: Markus from Absolventa</div> 
