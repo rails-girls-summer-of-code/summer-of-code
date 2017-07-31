@@ -10,8 +10,8 @@ categories:
 - student-posts
 ---
 
-![image](../img/blog/2017/2017-07-teamimpactdevs.jpg)
-<div class="image-credits">Team ImpactDevs</div>
+<img src="/img/blog/2017/2017-07-teamimpactdevs.jpg" alt="team impactdevs at work">
+<div class="image-credits">Photo taken by Nuno Cruz</div>
 
 Team Impact Devs - Amsterdam
 
