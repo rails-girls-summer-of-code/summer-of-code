@@ -15,6 +15,7 @@ categories:
 
 Team Impact Devs - Amsterdam
 
+
 Four years ago I was on the tube late at night in London. Some drunk girls were being noisy and boisterous, squealing and moaning about their painful feet in their high-heels. 
 
 A goth-attired man in his mid 30s looked up from his book and said “don’t wear those shoes if they hurt, no one wants to hear your shrieking.”
