@@ -20,7 +20,7 @@ Jona and Xheni met each other 5 years ago at the University of Tirana, Faculty o
 [Jona](https://twitter.com/jonatoni) was really interested to learn more on how to be a Linux system administrator that's why she is part of the Fedora Project and became the first Fedora Ambassador in Albania promoting this operating system in her country. On the other hand [Xheni](https://twitter.com/xh3n1) was really interested on security stuff and that's why she is studying Msc in Information Security and wants to become an ethical hacker. In the meanwhile, they have discovered the gender gap that exists in tech industry and especially in open source communities, something they don't face at their local hackerspace because 70% of the members are girls. That's why when they travel to different conferences they try to share the situation they have at Open Labs with other people to encourage them and feel more motivated. Even though not all the girls part of Open Labs know how to code, they are willing to learn, that's why Jona and Xheni want to help girls start coding and get them on board. Their future plans include establishing a Django Girls and Rails Girls local community, starting with some beginner workshops at Open Labs.
 
 ![image](/img/blog/2017/codeaholics_working.jpg)
-<div class="image-credits">Team Codeaholics - Working time! Photo: Kristi Progri (on the left) and Jona Azizaj (on the right), Creative Commons Attribution-Share Alike 4.0 International.</div>
+<div class="image-credits">Team Codeaholics - Working time! Photo: Kristi Progri and Jona Azizaj, Creative Commons Attribution-Share Alike 4.0 International.</div>
 
 ### __RGSoC, let's apply!__
 
@@ -52,7 +52,7 @@ The Nextcloud mentor is [Jan-Christoph Borchardt](https://twitter.com/jancborcha
 On 1st of July they organized their first event at Open Labs Hackerspace at 6pm. A lot of participants attended and they were really interested on this scholarship and eager to learn more on how to apply for the next round of RGSoC. They also had a short video call just to say Hello to their amazing team, kudos to Laura and Jan for joining the video call. After the introduction to the program and the video call, they had a small party with the participants, that made the atmosphere more friendly and enjoyable.
 
 ![image](/img/blog/2017/codeaholics_OL.jpg)
-<div class="image-credits">Codeaholics during kick off event at Open Labs. Photo: Anxhelo Lushka, Creative Commons Attribution-Share Alike 4.0 International.<div>
+<div class="image-credits">Codeaholics during kick off event at Open Labs. Photo: Anxhelo Lushka, Creative Commons Attribution-Share Alike 4.0 International.</div>
 
 By the way, do you know the great news from their [municipality of Tirana](https://nextcloud.com/blog/the-capital-of-albania-moves-to-nextcloud/)? 
 The Municipality of Tirana, the biggest municipality in the country serving over 800,000 citizens, goes free open source by using Nextcloud! An important contributor in raising the public awareness on the importance of free open source culture in general and the public administration embracing it in particular, has been the local community of the Open Labs Hackerspace where Xheni and Jona are involved.
