@@ -18,7 +18,7 @@ It has been an amazing, incredible, wonderful experience! The people we work wit
 About our team name: why RailsGyn?
 We are from a Brazilian city called Goiânia - or GYN. So, both our name and our logo is related to our city. 
 
-<img src="/img/blog/2017/railsgyn_logo-rails-gyn.jpg" alt="Logo RailsGyn"/>
+![image](/img/blog/2017/railsgyn_logo-rails-gyn.jpg)
 <div align="center" class="image-credits"> The connection of our logo with our city.(Logo: Juliana Dias) </div>
 
 
@@ -33,7 +33,7 @@ We are from a Brazilian city called Goiânia - or GYN. So, both our name and our
 - I believe that being a programmer made me more concerned about the woman's role in the society.
 - My dream is to become a digital nomad and work remotely from different places around the world! 
 
-<img src="/img/blog/2017/railsgyn_amanda.jpg" alt="amanda"/>
+![image](/img/blog/2017/railsgyn_amanda.jpg)
 <div align="center" class="image-credits"> Amanda (Photo: Juliana dias) </div>
 
 #### [Juliana Dias](https://github.com/juuh42dias)
@@ -46,7 +46,7 @@ We are from a Brazilian city called Goiânia - or GYN. So, both our name and our
 - I prefer Telegram than What's App (Of course I want to make this clear for the rest of the world)
 - My programming life started in the university when I learned some languages like C, Java and PHP. But I just started to work with as a developer in the last course year and since then I'm coding (more specifically with Ruby on Rails for last 3 years)
 
-<img src="/img/blog/2017/railsgyn_juliana.jpg" alt="juliana"/>
+![image](/img/blog/2017/railsgyn_juliana.jpg)
 <div align="center" class="image-credits"> Juliana (Photo: Juliana dias)</div>
 
 ### The journey to find a partner
@@ -61,7 +61,7 @@ From then on we began to fill out our application form, with little hope since t
 When we heard about our approval, we almost did not believe!
 Juliana already had some open source contributions, but for Amanda is being the first time.
 
-<img src="/img/blog/2017/railsgyn_students.jpg" alt="students"/>
+![image](/img/blog/2017/railsgyn_students.jpg)
 <div align="center" class="image-credits"> Us: Juliana and Amanda (Photo: Kaio Magalhães) </div>
 
 
@@ -82,7 +82,7 @@ This support makes all the difference, and maybe this is one of the things that 
 - I have been working with a remote and distributed team for the last couple of years and learned how important communication is. Let's talk!
 - I also love sports and games ( Games of sports included 🙂 ). 
 
-<img src="/img/blog/2017/railsgyn_halisson.jpg" alt="coach-halisson"/>
+![image](/img/blog/2017/railsgyn_halisson.jpg)
 <div align="center" class="image-credits"> Halisson, one of our coaches (Photo: Amanda Branquinho) </div>
 
 #### [Kaio Magalhães](https://github.com/kaiomagalhaes)
@@ -90,16 +90,16 @@ This support makes all the difference, and maybe this is one of the things that 
 - I know some good jokes
 - I do an awesome sandwich
 - I break dance fight
-What else do you need?
 - I’ve worked with a lot of projects in a lot of different languages like PHP, C#, Java, Javascript, Groovy, and Ruby. With a lot of frameworks like Grails, Rails, React and NodeJS. For a lot of platforms like Desktop, WEB, Android, and Hololens.
 - I love programming related topics like code quality, software engineer, best practices, design patterns and I write about it always that I have time to.
 
 <img src="/img/blog/2017/railsgyn_kaio.jpg" alt="coach-kaio"/>
+
 <div align="center" class="image-credits"> Kaio, another coach (Photo: Amanda Branquinho) </div>
 
 That is our team!
 
-<img src="/img/blog/2017/railsgyn_all-team.jpg" alt="team"/>
+![image](/img/blog/2017/railsgyn_all-team.jpg)
 <div align="center" class="image-credits"> All the team together! (Photo: some guy that was passing by)  </div>
 
 ### What do we want
