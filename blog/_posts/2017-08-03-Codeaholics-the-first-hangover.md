@@ -66,7 +66,7 @@ Nextcloud is a safe home for all your data – community-driven, free & open sou
 
 ### __And...__
 
-…Jona and Xheni want to thank everyone involved, their mentor Jan, their coaches Morrison, Joas, Aldo and Edi, their supervisor Benedikt, and also the amazing RGSoC organising team for offering one of the best ways spending the summer to all winning teams!! Keep up the good work.
+…Jona and Xheni want to thank everyone involved, their mentor Jan, their coaches Morris, Joas, Aldo and Edi, their supervisor Benedikt, and also the amazing RGSoC organising team for offering one of the best ways spending the summer to all winning teams!! Keep up the good work.
 
 __Happy coding!__ 🙂
 
