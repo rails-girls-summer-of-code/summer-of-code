@@ -10,17 +10,16 @@ categories:
 - student-posts
 ---
 
-###Hello, everyone! 
+### Hello, everyone! 
 We are the team RailsGyn and we are from Brazil. We had the privilege of being selected for the RailsGirls TeamsApp project. 
 
-It has been an amazing, incredible, wonderful experience! The people we work with are extremely helpful and careful. We are loving to work with all of them!
+It has been an amazing, incredible, wonderful experience! The people we work with are extremely helpful and careful. We love working with all of them!
 
 About our team name: why RailsGyn?
 We are from a Brazilian city called Goiânia - or GYN. So, both our name and our logo is related to our city. 
 
 ![image](/img/blog/2017/railsgyn_logo-rails-gyn.jpg)
 <div align="center" class="image-credits"> The connection of our logo with our city.(Logo: Juliana Dias) </div>
-
 
 ### Our Team - the students
 
@@ -51,19 +50,18 @@ We are from a Brazilian city called Goiânia - or GYN. So, both our name and our
 
 ### The journey to find a partner
 
-Since I (Amanda) started with technology, I am involved with woman groups in tech. 
+Since I (Amanda) started working in technology, I've become involved with women in tech groups.
 In a beautiful day, in a WhatsApp group related with woman who codes, some girl sent the RGSoC link.
-I loved the idea and I had all the pre-requirements except one other girl to apply with me.
+I loved the idea and I had all the pre-requirements except another girl to partner with me.
 Since then, I started a really long journey looking for a girl to apply with me. It was not easy, in fact, I did not know how hard it would be. 
 I published in Facebook groups, I talked with college girls, I asked for help for the conference's organizers. There was nobody.
 When I was almost giving up, Juliana answered a message from one of the Facebook groups I had posted.
 From then on we began to fill out our application form, with little hope since there were many girls competing. 
 When we heard about our approval, we almost did not believe!
-Juliana already had some open source contributions, but for Amanda is being the first time.
+Juliana already had some open source contributions, but for Amanda this is the first time.
 
 ![image](/img/blog/2017/railsgyn_students.jpg)
 <div align="center" class="image-credits"> Us: Juliana and Amanda (Photo: Kaio Magalhães) </div>
-
 
 ### Our project choice
 
@@ -97,19 +95,40 @@ This support makes all the difference, and maybe this is one of the things that 
 
 <div align="center" class="image-credits"> Kaio, another coach (Photo: Amanda Branquinho) </div>
 
+#### [Marcelo Giovane](https://github.com/mgswolf)
+We also count on Juliana's brother support. He is always really helpful and close. 
+He has been working with ruby on rails for six years.
+
 That is our team!
 
 ![image](/img/blog/2017/railsgyn_all-team.jpg)
 <div align="center" class="image-credits"> All the team together! (Photo: some guy that was passing by)  </div>
 
+### Our team - remote members
+
+Last, but not least we will present our dear remote members - our two mentors Carsten and Max and our supervisor Ines.
+
+Our mentors are always around and involved with our PR's. Their suggestions always make our code better. It is really good to have help from them, with all their attention and care.
+
+Ines is our dear, sweet, lovely supervisor :heart:
+She helps us with all the thing (not code related) and also she talks with us about random things and Game of Thrones.
+
+Our team is the best! :heart:
+
+![image](/img/blog/2017/railsgyn_remote-members.jpg)
+<div align="center" class="image-credits"> Our dear remote team! (Photo: Each one's github)  </div>
+
 ### What do we want
 
-We would love to use the work as a background to promote a Rails Girls event here in our city. 
-In this event, we will talk about the summer and we will help girls to start coding with ruby on rails.
-We have already found a company to help us on this and we are really excited!
-We believe this will help encourage more girls to participate in these initiatives. 
+We would love to use our experience as RGSoC students to organize a Rails Girls event here in our city. 
+In this event, we will talk about our summer and we will help girls to start coding with ruby on rails.
+
+We have already found a company to help us on this and we are really excited! 
+We believe this will encourage more girls to participate in these initiatives.
+
 We think this is necessary because where we live, it was really difficult to find a partner. 
-We want to show the girls that they can do it and we want to show them all support we had and make them interested in joining to RGSoC in the next year.
+
+We want to show the girls that they can do it and we want to show them all support we had and make them interested in applying to RGSoC next year.
 
 ### Follow us closely
 
