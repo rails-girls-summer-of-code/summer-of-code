@@ -10,9 +10,11 @@ categories:
 - student-posts
 ---
 
-Hello, everyone! 
+###Hello, everyone! 
 We are the team RailsGyn and we are from Brazil. We had the privilege of being selected for the RailsGirls TeamsApp project. 
+
 It has been an amazing, incredible, wonderful experience! The people we work with are extremely helpful and careful. We are loving to work with all of them!
+
 About our team name: why RailsGyn?
 We are from a Brazilian city called Goiânia - or GYN. So, both our name and our logo is related to our city. 
 
@@ -78,7 +80,7 @@ This support makes all the difference, and maybe this is one of the things that 
 - I am a software engineer with more than 10 years of experience and I still learn something new every day. And I love it!
 - I am passionate about writing code! Clean and expressive code. No matter if it's backend or frontend, mobile or web, test or bugfix. Let me code!.
 - I have been working with a remote and distributed team for the last couple of years and learned how important communication is. Let's talk!
-- I also love sports and games ( Games of sports included :D ). 
+- I also love sports and games ( Games of sports included 🙂 ). 
 
 <img src="/img/blog/2017/railsgyn_halisson.jpg" alt="coach-halisson"/>
 <div align="center" class="image-credits"> Halisson, one of our coaches (Photo: Amanda Branquinho) </div>
@@ -102,18 +104,18 @@ That is our team!
 
 ### What do we want
 
-We would love to use the work as a background to promote an Rails Girls event here in our city. 
+We would love to use the work as a background to promote a Rails Girls event here in our city. 
 In this event, we will talk about the summer and we will help girls to start coding with ruby on rails.
 We have already found a company to help us on this and we are really excited!
-We believe this will help encouraging more girls to participate in these initiatives. 
+We believe this will help encourage more girls to participate in these initiatives. 
 We think this is necessary because where we live, it was really difficult to find a partner. 
-We want to show the girls that they can do it and we want to show them all support we had and make them interested in join to RGSoC in the next year.
+We want to show the girls that they can do it and we want to show them all support we had and make them interested in joining to RGSoC in the next year.
 
 ### Follow us closely
 
-We have [twitter](https://twitter.com/RailsGyn), [facebook group](https://www.facebook.com/railsgirlsgyn/), [medium blog](https://medium.com/@railsgirlsgyn)... 
+We have [twitter](https://twitter.com/RailsGyn), [facebook](https://www.facebook.com/railsgirlsgyn/), [medium blog](https://medium.com/@railsgirlsgyn)... 
 Feel free to follow us, add us on all social medias and everything. We love to get close to the community, let's stay close!
 
 That is our story! we are open to answering any question, just ping us on twitter and we can start talking! 
 
-####Thank you all :D
+#### Thank you all 🙂
