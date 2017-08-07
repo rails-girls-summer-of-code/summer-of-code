@@ -45,13 +45,13 @@ A little more background about our mentors and coaches -
 
 **Nick-** A CSS nerd, as he likes to call himself, Nick is a developer and UX/UI expert at Village Reach. He is excited about tools and capacity building. 
 
-**Tenly-** She works towards building a vibrant OpenLMIS community interacting with the existing and new OpenLMIS partner. She has an extensive experience of over eight years in international development in Africa. 
+**Tenly-** She works towards building a vibrant OpenLMIS community interacting with the existing and new OpenLMIS partner. She has over eight years in international development in Africa. 
 
 **Karan-** A technology enthusiast, Karan loves to get his hands dirty with any new tool he comes across and has won numerous hackathons. One the most creative and sincere guys we know from our college, Karan has been a constant support to us and has helped us incredibly during our application too!
 
 **Chhavi-** A Noogler, Chhavi has participated as a mentor in various programs that support women in tech. She has also been facilitated by the Honorable President of India for securing first prize in Code for India.
 
-**Jigyasa-** She has recently been awarded Red Hat Women in Open Source Award. Jigyasa has carved her name as an Open Source enthusiast helping her friends as a mentor. She is also the director of Women who code.
+**Jigyasa-** She has recently been awarded Red Hat Women in Open Source Award. Jigyasa has carved her name as an Open Source enthusiast helping her friends as a mentor. She is also the director of Women Who Code, Delhi.
 
 ### __What’s in store?__
 One month of RGSoC has already gone by and the experience so far has been nothing but simply amazing! We have already taken our toddler steps towards contributing to the open source community together. This summer, we wish to learn a lot, face new challenges every day to keep ourselves on our toes, debug our codes, develop solutions to new issues, be able to critically analyse and design a solution. 
