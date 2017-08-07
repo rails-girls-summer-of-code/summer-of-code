@@ -2,10 +2,10 @@
 title: From Gyn to the world!
 layout: post
 created_at: Friday August 04 2017
-permalink: blog/2017-08-04-From-Gyn-to-world
+permalink: blog/2017-08-04-railsgyn-from-gyn-to-the-world
 current: blog
 author: RailsGyn
-twitter: @RailsGyn
+twitter: RailsGyn
 categories:
 - student-posts
 ---
@@ -116,7 +116,7 @@ She helps us with all the thing (not code related) and also she talks with us ab
 Our team is the best! :heart:
 
 ![image](/img/blog/2017/railsgyn_remote-members.jpg)
-<div align="center" class="image-credits"> Our dear remote team! (Photo: Each one's github)  </div>
+<div align="center" class="image-credits"> Our dear remote team! (Photo: Github)  </div>
 
 ### What do we want
 
