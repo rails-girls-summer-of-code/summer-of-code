@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 
-## Who are we?! How did we come together?! 
+## Who are we? How did we come together? 
 
 ![image](/img/blog/2017/bansheebandits-liz.jpg)
 <div align="center" class="image-credits">Shelby and Lillian with Public Lab's Director of Community Development, Liz Barry (Photo via Shelby Firebaugh)</div>
@@ -20,7 +20,7 @@ categories:
 ![image](/img/blog/2017/bansheebandits-publiclab.png)
 <div align="center" class="image-credits">Photo via <a href="https://twitter.com/publiclab">Public Lab on Twitter</a></div>
 
-## Why did we choose Public Lab?!?
+## Why did we choose Public Lab?
 
 [Public Lab](https://publiclab.org/home) promotes a hands-on, do-it-yourself ethos--one that supports the concept of exploration, in which members of specific communities across the globe can participate in the collection of environmental data, through DIY methods explained via the Public Lab website. The monumental idea promoted by Public Lab is that technical development and real-life applications can be derived through data experiments conducted by everyday people. 
 
@@ -50,7 +50,7 @@ Jeffrey is a co-founder and the Research Director for Public Laboratory for Open
 <div align="center" class="image-credits">Photo via <a href="https://github.com/Nada1996">Nada Ashraf on GitHub</a></div>
 Nada Ashraf is a past participant in Rails Girls Summer of Code, and has been an integral part of the support system available to Shelby and Lillian throughout this process. Based in Egypt, she is interested in computer science and inclusive programs in the realm of technological information!
 
-## What’s up next!?!
+## What’s up next?
 
 For the past couple of weeks, Shelby and Lillian have been becoming accustomed to Github through opensource contributions involving Public Lab’s tagging interface, specifically within the realm of powertags. In essence, powertags are an advanced feature which can add extra functions and layout options to Wiki pages or Research Notes on PublicLab.org.
 
