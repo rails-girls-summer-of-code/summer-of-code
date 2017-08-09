@@ -30,22 +30,22 @@ Both Lillian and Shelby have an interest in open-source projects, and believe th
 
 ## Meet the team
 
-### **Katie Adee** *Coach*
+### **Katie Adee**, *Coach*
 ![image](/img/blog/2017/bansheebandits-katie.png)
 <div align="center" class="image-credits">Photo via <a href="https://opentrons.com/team">OpenTrons</a></div>
 Every week Katie commutes from the North Fork of Long Island into New York City to *both* teach at NYU’s Tandon School of Engineering and develop projects at OpenTrons, where she serves as the company’s lead UX/UI designer. Her classroom banter is as hilarious as it is understandable, aiding in our perspective of how dynamic people in technology can be. Katie  loves solving problems, and exploring how data representations, games, and emerging web technologies can spark interest in students, children and sceptics. Her interests include bikes, food, the Gowanus Canal, and making beautiful/fun things with math and code. 
 
-### **Marcela Godoy** *Coach*
+### **Marcela Godoy**, *Coach*
 ![image](/img/blog/2017/bansheebandits-marcela.jpg)
 <div align="center" class="image-credits">Photo via <a href="http://godoymarcela.com/about">Marcela Godoy</a></div>
 Marcela is a designer and maker. She has worked on interactive art installations, wearables, web design and physical computing projects. She brings interaction design to the physical world by designing 3D models, mockups and renders. She holds a Master’s diploma in Interactive Telecommunications from the New York University and a Bachelor degree in Architecture. Currently she works as part of the team of YesYesNo, a multidisciplinary company that specializes in interactive art installations and commercial interactive projects. In addition, she is working as an design professor through the Interactive Media Arts program at New York University Shanghai.
 
-### **Jeffrey Warren** *Mentor*
+### **Jeffrey Warren**, *Mentor*
 ![image](/img/blog/2017/bansheebandits-jeff.jpg)
 <div align="center" class="image-credits">Photo via <a href="https://github.com/jywarren">Jeffrey Warren on Github</a></div>
 Jeffrey is a co-founder and the Research Director for Public Laboratory for Open Technology and Science, Jeffrey Warren designs mapping and civic science tools and professionally flies balloons and kites. Notable software he has created include the vector-mapping framework Cartagen and orthorectification tool MapKnitter, as well as open spectral database and toolkit Spectral Workbench.
 
-### **Nada Ashraf** *Supervisor*
+### **Nada Ashraf**, *Supervisor*
 ![image](/img/blog/2017/bansheebandits-nada.jpg)
 <div align="center" class="image-credits">Photo via <a href="https://github.com/Nada1996">Nada Ashraf on GitHub</a></div>
 Nada Ashraf is a past participant in Rails Girls Summer of Code, and has been an integral part of the support system available to Shelby and Lillian throughout this process. Based in Egypt, she is interested in computer science and inclusive programs in the realm of technological information!
