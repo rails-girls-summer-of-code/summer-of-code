@@ -2,7 +2,7 @@
 title: Open source, here we come!
 layout: post
 created_at: Monday August 10 2017
-permalink: blog/
+permalink: blog/2017-08-10-meet-the-crazy-two-involved
 current: blog
 author: Gemini
 twitter: Team_Gemini_
