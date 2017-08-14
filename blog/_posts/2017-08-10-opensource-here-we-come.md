@@ -15,7 +15,7 @@ categories:
 ![image](/img/blog/2017/TeamGemini.jpg)
 <div align="center" class="image-credits"> Team Gemini(Image Courtesy: Shagun Kapur)</div>
 
-[Akarsha](https://github.com/aksh98) and [Ramya](https://github.com/meriki) are not your regular individuals, a dash of crazy, a drop of weird and a couple of undiscovered unusual ingredients makes them up.  They can be found studying in the same college of IIIT Delhi and sharing the same hostel room, adding a whole new meaning to birds of a feather flock together. Their acquaintance started with their mutual interest in coding and fascination for artificial intelligence. Slowly but steadily started bonding and came to realise that despite one being from North India and the other from South, one being a die hard Korean fan and the other a Game of Thrones fan, they are eerily similar. Their sun signs (which both are extremely fond of) also matched! While looking for the perfect team name, ‘Gemini’ which literally means ‘The Twins’ made perfect sense. In the short span of two years, they have managed to gather all sorts of memories with each other, reading for tests together, doing assignments together, bickering and laughing the next moment, watching youtube videos, heated discussions on random topics or just not seeing eye to eye with one other. They’ve been through it all and vehemently attest that their bond keeps going strong because of all their experiences together.
+[Akarsha](https://github.com/aksh98) and [Ramya](https://github.com/meriki) are not your regular individuals, a dash of crazy, a drop of weird and a couple of undiscovered unusual ingredients makes them up.  They can be found studying in the same college of IIIT Delhi and sharing the same hostel room, adding a whole new meaning to birds of a feather flock together. Their acquaintance started with their mutual interest in coding and fascination for artificial intelligence. Slowly but steadily they started bonding and realized that despite one being from North India and the other from South, one being a die hard Korean fan and the other a Game of Thrones fan, they are eerily similar. Their sun signs (which both are extremely fond of) also matched! While looking for the perfect team name, ‘Gemini’ which literally means ‘The Twins’ made perfect sense. In the short span of two years, they have managed to gather all sorts of memories with each other, reading for tests together, doing assignments together, bickering and laughing the next moment, watching youtube videos, heated discussions on random topics or just not seeing eye to eye with one other. They’ve been through it all and vehemently attest that their bond keeps going strong because of all their experiences together.
 
 # Fun facts about the team
 
@@ -79,12 +79,13 @@ Hpdang is internationally educated business professional with focus on open tech
 Mario is the co-founder of Fossasia and the founder of Susi.AI. He works as the Development lead and Fossasia summit organiser. He is also the founder of a startup named awaike. 
 
 ### Supervisor 
+
 #### [Vaishali](https://github.com/nerdyvaishali)
 
 She is an Open Source enthusiast and works as a Linux kernel engineer at Oracle. She is also a blogger and outreachy alumni. She motivates everyone to get started with linux kernel and also takes up workshops for the same.
 
 ## What we’ve done so far and the Road ahead
 
-Time indeed flies. We’ve already sifted through the large code base, understanding it, made small PRs here and there, learnt git, understand what a frontend architecture like react does and realise the effort that a community does in maintaining a project. It was one hectic month! We are really proud of the progress we’ve made in our open source journey so far.
+Time indeed flies. We’ve already sifted through the large code base, understood it, made small PRs here and there, learnt git, understood what a frontend architecture like react does and realized the effort a community puts in maintaining a project. It was one hectic month! We are really proud of the progress we’ve made in our open source journey so far.
 
 We aim to solve more complex and core issues now and hope to bring in our own ideas to the project we are working on. Fingers crossed and full steam ahead!
