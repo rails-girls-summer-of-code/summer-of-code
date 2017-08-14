@@ -40,7 +40,7 @@ Anagha describes herself as a melophile who is passionate about open source. A b
 <div align="center" class="image-credits">photo credits: Amrita's phone</div>
 
 I am a voracious reader(I don't even leave the cereal boxes unread) and an open source enthusiast. My primary interest is Web Dev and Rails is my favorite right from the time I started working with it. I have always been passionate about contributing to open source because the joy of collaborating with people from all over the globe and creating something for everyone to enjoy, is indescribable. Like others at our club, I help my juniors with Rails, getting them in touch with people in the industry who can guide them. 
-In my free time, I read some more and try clicking candid photo's of my friends :)
+In my free time, I read some more and try clicking candid photos of my friends :)
  
 ### Introducing Team Bundledore's superheroes:
 
