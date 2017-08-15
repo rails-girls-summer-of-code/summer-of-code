@@ -28,7 +28,7 @@ Step 4 wait for reaction tweets (see below)
 </pre>
 
 <img src="/img/blog/2015/swag-package.gif" alt="the care package process" width="auto" height="450px">
-<font color="grey"><small><i>(Image: Sara Regan)</i></small></font>
+<div align="center" class="image-credits"> (Image: Sara Regan)</div>
 
 <br>
 
