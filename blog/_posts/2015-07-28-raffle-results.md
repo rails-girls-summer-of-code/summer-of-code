@@ -14,13 +14,13 @@ categories:
 Last week, you sent us your conference wishlists via twitter, and the Conference Raffle Fairy Godmothers (Anika, Katrin, Sara and yours truly) sat down to – in true conference raffle fashion – pull out your team names from a jar and assign conferences to teams. This is what it looked like!
 
 ![laura raffle](/img/blog/2015/raffle-results-laura.gif){: .smaller }
-<br><font color="grey"><small><i>(Image: Anika Lindtner)</i></small></font>
+<div align="center" class="image-credits"> (Image: Anika Lindtner)</div>
 <br>
 ![sara raffle](/img/blog/2015/raffle-results-sara.gif){: .smaller }
-<br><font color="grey"><small><i>(Image: Anika Lindtner)</i></small></font>
+<div align="center" class="image-credits"> (Image: Anika Lindtner)</div>
 
 ![sara katrin raffle](/img/blog/2015/raffle-results-sarakatrin.png){: .smaller }
-<br><font color="grey"><small><i>(Image: Anika Lindtner)</i></small></font>
+<div align="center" class="image-credits"> (Image: Anika Lindtner)</div>
 
 But enough suspense – here are the winners of our first conference raffle for the summer:
 
