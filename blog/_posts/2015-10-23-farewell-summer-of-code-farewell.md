@@ -66,4 +66,4 @@ __Summary__
 Being part of Rails Girls Summer of Code was a great adventure. We strongly recommend to try it. Just get involved: as a student, supervisor, mentor, coach or sponsor and give the best of yourself.
 
 <img src="/img/blog/2015/introducing-girlscoderswarsaw-team.png" alt="Our big team">
-<br><font color="grey"><small><i>L-R: Piotr, Tomasz, Ania, Basia, Jarek, Łukasz, Tomek. (Image: Magda, CodeQuest)</i></small></font>
+<div align="center" class="image-credits">L-R: Piotr, Tomasz, Ania, Basia, Jarek, Łukasz, Tomek. (Image: Magda, CodeQuest)</div>
