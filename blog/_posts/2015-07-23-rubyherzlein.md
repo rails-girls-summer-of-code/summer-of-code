@@ -21,7 +21,7 @@ Why Rubyherzlein
 While deciding on a name, we talked about how the Rails Girls Society is so full of hearts! Its the logo for most events and also quite often used as an emoji within the RGSoC community. As we are beginners, we thought of calling ourselves Rubyherzlein, which in German means ‘little Ruby heart’! <3<3<3
 
 <img src="/img/blog/2015/rubyherzlein.JPG" alt="Team Rubyherzlein" width="600">
-<br><font color="grey"><small><i>Rubyherzlein Team + extended Team: Erik, Duana, Hannes  (Image: Rubyherzlein Team)</i></small></font> 
+<div align="center" class="image-credits">Rubyherzlein Team + extended Team: Erik, Duana, Hannes  (Image: Rubyherzlein Team) </div>
 
 
 
@@ -31,7 +31,7 @@ How we met
 We both live in Berlin and have attended multiple RG events, but nonetheless never bumped into one another. We got to know each other via the internet - like real programmers ;) Tweeting and sharing on twitter led to a coffee in a cute café in Berlin-Mitte. We really hit it off - it was like love at first sight! Shortly thereafter we were on track with our application, with much help from our coach, Erik, and mentors, Duana and Tam.
 
 <img src="/img/blog/2015/rubyherzlein_team.jpg" alt="Team Rubyherzlein" width="600">
-<br><font color="grey"><small><i>Rubyherzlein - on our 1st Day (Image: Rubyherzlein Team)</i></small></font> 
+<div align="center" class="image-credits"> Rubyherzlein - on our 1st Day (Image: Rubyherzlein Team)</div>
 
 
 
