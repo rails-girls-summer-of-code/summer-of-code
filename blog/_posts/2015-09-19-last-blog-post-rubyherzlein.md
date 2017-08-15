@@ -45,7 +45,7 @@ This checklist looks pretty long, actually we probably covered much more ground 
 <br>
 
 <img src="/img/blog/2015/rubyherzlein-eurucamp-lecture_room.jpg" alt="Eurucamp 2015">
-<br><font color="grey"><small><i> Image: Bitcrowd</i></small></font>
+<div align="center" class="image-credits">Image: Bitcrowd </div>
 
 
 Eurucamp
@@ -56,7 +56,7 @@ Besides working on the SoundDrop app and learning all those basics, we also atte
 <br>
 
 <img src="/img/blog/2015/rubyherzlein-eurucamp-tweet.jpg" alt="Eurucamp 2015 Tweet">
-<br><font color="grey"><small><i> Image: Twitter/Speakerinnen</i></small></font>
+<div align="center" class="image-credits">Image: Twitter/Speakerinnen </div>
 
 <br>
 
@@ -65,7 +65,7 @@ Its really cool that a tech conference with *that* many women were our first eve
 <br>
 
 <img src="/img/blog/2015/rubyherzlein-eurucamp-presentation.jpg" alt="Eurucamp 2015 Rubyherzlein presentation">
-<br><font color="grey"><small><i> Image: Team Rubyherzlein</i></small></font>
+<div align="center" class="image-credits"> Image: Team Rubyherzlein</div>
 
 <br>
 
@@ -74,7 +74,7 @@ On the first day of the conference, we both coached at the Rails Girls Beginners
 <br>
 
 <img src="/img/blog/2015/rubyherzlein-eurucamp-slide.jpg" alt="Eurucamp 2015 slide">
-<br><font color="grey"><small><i> Image: Team Rubyherzlein</i></small></font>
+<div align="center" class="image-credits">Image: Team Rubyherzlein </div>
 
 <br>
 
@@ -83,8 +83,8 @@ Important elements include: the Rails Girls Community, SoundCloud team, our Soun
 <br>
 
 <img src="/img/blog/2015/rubyherzlein-fullstack-fest.jpeg" alt="Full Stack Fest 2015">
-
-(Photo by Amanda Kievet)
+<div align="center" class="image-credits">(Photo by Amanda Kievet)
+ </div>
 <br>
 
 Full Stack Fest
@@ -101,8 +101,8 @@ Erik, Alex Duana, Tam, Txus, Jano, Sara, Sergio and George!
 <br>
 
 <img src="/img/blog/2015/rubyherzlein-fullstack-lunch.jpeg" alt="Full Stack Fest 2015 lunch">
+<div align="center" class="image-credits"> (Photo by Amanda Kievet)</div>
 
-(Photo by Amanda Kievet)
 
 <br>
 
@@ -111,7 +111,7 @@ our personal highlight was it to meet Matz in person. We guess it’s always goo
 <br>
 
 <img src="/img/blog/2015/rubyherzlein-meet-matz.jpg" alt="Full Stack Fest 2015 MATZ!">
-<br><font color="grey"><small><i> Image: Team Rubyherzlein</i></small></font>
+<div align="center" class="image-credits"> Image: Team Rubyherzlein </div>
 
 <br>
 
@@ -120,7 +120,7 @@ It was great meeting so many people from the ruby and javascript community. The 
 <br>
 
 <img src="/img/blog/2015/rubyherzlein-fullstack-franzi.jpg" alt="Full Stack Fest 2015 Franzi!">
-<br><font color="grey"><small><i> Image: Team Rubyherzlein</i></small></font>
+<div align="center" class="image-credits">Image: Team Rubyherzlein </div>
 
 <br>
 
