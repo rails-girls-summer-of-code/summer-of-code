@@ -13,7 +13,7 @@ categories:
 Unfortunately the summer is over and we have to move on. Those were an amazing three months that completely changed our lives. At least we hoped so!
 
 <img src="/img/blog/2015/barucomatz.jpg" alt="With Matz">
-<br><font color="grey"><small><i>L-R: Ania, [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz), Basia (Image: Piotr Szotkowski)</i></small></font>
+<div align="center" class="image-credits">L-R: Ania, [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz), Basia (Image: Piotr Szotkowski)</div>
 
 __First of all, we wrote a lot of code.__
 
