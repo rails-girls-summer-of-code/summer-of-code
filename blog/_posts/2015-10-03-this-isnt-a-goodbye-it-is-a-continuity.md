@@ -22,14 +22,8 @@ A brief answer would be an infinity of things, but we believe that it is worth t
 We have turned into a great unit team. One that is not only shaped for both of us but also:  
 
 <div align="center"><img src="/img/blog/2015/fanxhe-team.gif" alt="Fanxhe Team" style= "width: 560px" height="315px"></div>  
+<div align="center" class="image-credits"> Fanxhe Team (left to right: Jonathan Tapia, Ignacio Galindo, Alejandro Espinoza, Gilberto Villa, Anyelina Moreno and Estefanía Cano) =) </div>
 
-<p align="center">
-  <font color="grey">
-    <small>
-      <i>Fanxhe Team (left to right: Jonathan Tapia, Ignacio Galindo, Alejandro Espinoza, Gilberto Villa, Anyelina Moreno and Estefanía Cano) =)</i>
-    </small>
-  </font>
-</p>
 
 Our coaches Nacho, Tapia and Gil that have had a great patience, they have dedicated us their time and they have put all their efforts,  determination and desire to teach us everything that was possible and they have become an example to follow and they’re both great teachers.
 
@@ -46,13 +40,8 @@ And for all those people who have been there when we have needed help or support
 The summer of Rails Girls has transformed us, and when we think about the moment we arrived at the office, this comes into our minds:
 
 <div align="center"><img src="/img/blog/2015/fanxhe-team-crazy.gif" alt="Fanxhe Team" style= "width: 150px" height="120px"></div>  
-<p align="center">
-  <font color="grey">
-    <small>
-      <i>(Image: <a href="http://ar.cdn01.mundotkm.com/2014/11/buying-tickets-gif.gif" target="_blank">mundotkm.com</a>)</i>
-    </small>
-  </font>
-</p>
+<div align="center" class="image-credits"> (Image: <a href="http://ar.cdn01.mundotkm.com/2014/11/buying-tickets-gif.gif" target="_blank">mundotkm.com</a>) </div>
+
 
 A new world opened in front of us, and it was inevitable that we felt insecure, they were hard times… we even thought that all of this was too much for us.  
 
@@ -61,14 +50,8 @@ But as after the storm comes calmness, we had to make a great effort: practice, 
 The summer of code hasn’t only made us grow as programmers, but also personally. We both have learned more about ourselves, and also about the other; we have won more confidence and we have noticed that perseverance and tenacity, before or after, everything is possible. So we just think that we have been transformed after this summer.  
 
 <div align="center"><img src="/img/blog/2015/fanxhe-team-superwoman.gif" alt="Fanxhe Team" style= "width: 150px" height="120px"></div>  
+<div align="center" class="image-credits"> (Image: <a href="http://www.giphy.com" target="_blank">giphy</a>) </div>
 
-<p align="center">
-  <font color="grey">
-    <small>
-      <i>(Image: <a href="http://www.giphy.com" target="_blank">giphy</a>)</i>
-    </small>
-  </font>
-</p>
 
 ### LEARNING  
 
@@ -112,14 +95,8 @@ Our team will tell you about our experience in this video
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/LCV5QfbjWVU" frameborder="0" allowfullscreen></iframe>
 </div>
+<div align="center" class="image-credits"> <a href= "https://twitter.com/zazvick">By @zazvic</a> </div>
 
-<p align="center">
-  <font color="grey">
-    <small>
-      <a href= "https://twitter.com/zazvick">By @zazvic</a>
-    </small>
-  </font>
-</p>
 
 And last but not least, to thank. To thank for each second of these three months that marked and changed our lives. Thank infinitely our coaches [Ignacio Galindo](https://twitter.com/joiggama), [Jonathan Tapia](https://twitter.com/jonat_on) and [Gilberto Villa](https://twitter.com/ingilniero), for supporting us, teaching  us so much, for being the best teachers and yet best people. Thankful to Living Style Guide for having opened us so many doors, to [Nico Hagenburger](https://twitter.com/Hagenburger) for allowing us work with him, helping us in this process, and letting us collaborate in his gem. To [Jennifer Geacone-Cruz](https://twitter.com/anomiseditrix), for being a huge support and a person with whom we can always count.  
 
