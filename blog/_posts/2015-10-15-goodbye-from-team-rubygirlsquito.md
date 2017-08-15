@@ -47,8 +47,9 @@ we spent coding will be part of our fondest life memories! :)
 
 <img src="/img/blog/2015/rubygirlsquito-goodbye-bitcoin.jpg" alt="Bitcoin"
 width="auto" height="300px"><br>
-<font color="grey"><small><i>Pretty much what implementing Bitcoin feels
-like (image from www.bidnessetc.com)</i></small></font>
+<div align="center" class="image-credits">Pretty much what implementing Bitcoin feels
+like (image from www.bidnessetc.com)</div>
+
 
 But apart from everything that was learnt (git, Rails, the evil haml,
 javascript, bitcoin functionality, Braintree functionality, etc.) we had a
@@ -84,5 +85,5 @@ your code complete and useful is, in a word, priceless.
 
 <img src="/img/blog/2015/rubygirlsquito-goodbye-thankyou.jpg" alt="Thank you" width="auto" height="300px">
 <br>
-<font color="grey"><small><i>Oh, Sean Bean, we love you so much (image from:
-worldbuilderblog.me)</i></small></font>
+<div align="center" class="image-credits"> Oh, Sean Bean, we love you so much (image from:
+worldbuilderblog.me) </div>
