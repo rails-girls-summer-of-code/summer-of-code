@@ -84,9 +84,9 @@ Go Team Bundledore <3
 
 We have a three pronged plan on what we can do. Ideas are always welcome.
 
--Encourage our juniors and any one we can to contribute to open source. We currently lead a group of very excited girls who plan on making it big in the open source world.
--Contribute and give back to the community. We would not be here if not for the support of the members of the Kerala Ruby Users Group. We'd like to help and foster open source culture among the women here because even now, there are very few of them.
--Lastly, host a Rails Girls Workshop, here in Kollam ! It's inline with our future plans and we have started preping up :)
+* Encourage our juniors and any one we can to contribute to open source. We currently lead a group of very excited girls who plan on making it big in the open source world.
+* Contribute and give back to the community. We would not be here if not for the support of the members of the Kerala Ruby Users Group. We'd like to help and foster open source culture among the women here because even now, there are very few of them.
+* Lastly, host a Rails Girls Workshop, here in Kollam ! It's inline with our future plans and we have started preping up :)
 
 ### You can find us on :
 [Twitter](https://twitter.com/teambundledore?lang=en), [Blog](https://teambundledore.wordpress.com/author/teambundledore/)
