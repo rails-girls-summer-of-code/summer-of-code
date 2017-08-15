@@ -47,5 +47,5 @@ My favourite moments in a nutshell: Seeing the Rubycorns on stage, Team AlsterHa
 Sadly, at the end of the conference, the organisers announced that there would be no eurucamp 2016 – at least not in this size. It is a mammoth task to organise a conference, and eurucamp (for all the pleasure it gives the attendees and organisers) is no exception. We should all show our gratitude to the unsung heroes and heroines of our community, who do everything to make these events possible. To all organisers, volunteers and extra hands that helped make eurucamp happen: Thank You! Your hard work is not lost on us. Enjoy your well-deserved break and know that your event has made a huge mark on many lives and that we are looking forward to the next one - whenever it will be.
 
 <img src="/img/blog/2015/jrubyconf-and-eurucamp-team.jpg">
-<font color="grey"><small><i>(Photo: eurucamp/<a href="https://www.flickr.com/photos/134486457@N04/20082974339/in/pool-eurucamp-2015/" target="_blank">Fanny Krebs</a>)</i></small></font>  
+<div align="center" class="image-credits"> (Photo: eurucamp/<a href="https://www.flickr.com/photos/134486457@N04/20082974339/in/pool-eurucamp-2015/" target="_blank">Fanny Krebs</a>)</div>
 
