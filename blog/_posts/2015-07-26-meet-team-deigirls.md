@@ -20,7 +20,7 @@ Hello world! We are Inês and Rosa, two crazy girls from [Coimbra](http://worldh
 Together with Christian Weyer, Pablo Porto and Tiago Mendes-Costa (our beloved coaches) we make the [team DEIGirls](https://teams.railsgirlssummerofcode.org/teams/66), under the supervising of Alex Williams!
 
 <img src="/img/blog/2015/introducing-teamDEIGirls-team.jpg">
-<br><font color="grey"><small><i>The elements of Team DEIGirls (Image: Team DEIGirls)</i></small></font>
+<div align="center" class="image-credits"> The elements of Team DEIGirls (Image: Team DEIGirls)</div>
 
 #### Rosa: 
 I'm the craziest and cookie-addicted 27-year-old girl who has a Master's Degree in some other engineering stuff that decided that programming was her thing.  
@@ -40,7 +40,7 @@ I (Inês) learned about the RGSoC when I participated in a Rails Girls event at 
 Because we study in the Department of Informatics Engineering (in Portuguese, Departamento de Engenharia Informática - DEI) and we are girls (surprise!). Simple as that!
 
 <img src="/img/blog/2015/introducing-teamDEIGirls-girls.jpg">
-<br><font color="grey"><small><i>The girls from Team DEIGirls (Image: Team DEIGirls)</i></small></font>
+<div align="center" class="image-credits">The girls from Team DEIGirls (Image: Team DEIGirls) </div>
 
 ### What project are you working on?
 We are working on [Lotus](http://lotusrb.org/), a web framework for Ruby. We will be doing the mailer gem for that project, guided by our mentors Luca Guidi and Trung Lê.
