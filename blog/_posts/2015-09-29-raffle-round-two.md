@@ -24,7 +24,7 @@ RubyConf Philippines (8-9 Apr 2016): Tessie
 Ruby Conf Kenya (5-7 May 2016): CocoaGems  
 
 ![excitement](/img/blog/2015/round-two-raffle-space-cat.gif)
-<div align="center" class="image-credits"> (Image: <a href="http://www.omgcatsinspace.com" target="_blank">omg cats in space</a>)</div>
+<div class="image-credits"> (Image: <a href="http://www.omgcatsinspace.com" target="_blank">omg cats in space</a>)</div>
 
 ### Congratulations!
 
