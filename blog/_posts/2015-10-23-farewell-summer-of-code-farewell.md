@@ -13,7 +13,7 @@ categories:
 Unfortunately the summer is over and we have to move on. Those were an amazing three months that completely changed our lives. At least we hoped so!
 
 <img src="/img/blog/2015/barucomatz.jpg" alt="With Matz">
-<div align="center" class="image-credits">L-R: Ania, [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz), Basia (Image: Piotr Szotkowski)</div>
+<div class="image-credits">L-R: Ania, [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz), Basia (Image: Piotr Szotkowski)</div>
 
 __First of all, we wrote a lot of code.__
 
@@ -66,4 +66,4 @@ __Summary__
 Being part of Rails Girls Summer of Code was a great adventure. We strongly recommend to try it. Just get involved: as a student, supervisor, mentor, coach or sponsor and give the best of yourself.
 
 <img src="/img/blog/2015/introducing-girlscoderswarsaw-team.png" alt="Our big team">
-<div align="center" class="image-credits">L-R: Piotr, Tomasz, Ania, Basia, Jarek, Łukasz, Tomek. (Image: Magda, CodeQuest)</div>
+<div class="image-credits">L-R: Piotr, Tomasz, Ania, Basia, Jarek, Łukasz, Tomek. (Image: Magda, CodeQuest)</div>
