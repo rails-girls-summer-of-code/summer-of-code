@@ -15,7 +15,7 @@ G’day!
 We're [Vi](http://adcopywriter.github.io) & [Sarah](http://www.cyberkoi.com).  We're the team that makes up Team Melbourne, the first Australian sponsored team to participate in Rails Girls Summer of Code.  
 
 <img src="/img/blog/2015/team-melbourne-final-infographic.jpeg">
-<div align="center" class="image-credits"> Image: Team Melbourne</div>
+<div class="image-credits"> Image: Team Melbourne</div>
 
 
 From July to September 2015, we created **[an advertising plugin](https://github.com/team-melbourne-rgsoc2015/discourse-adplugin)** for [Discourse](http://discourse.org) that supports Adsense, DoubleClick for Publishers and Amazon Affiliates.  This was our first ever contribution to open source.
@@ -45,14 +45,14 @@ Don't have 13 minutes to listen to the podcast? Below we’ve summarized the ski
 - **Productivity Platforms**: Our amazing coaches introduced us to Slack, Trello, and Daily Stand-Ups. These were effective tools in making sure the project continued to stay on track!
 
 <img src="/img/blog/2015/team-melbourne-team.jpg">
-<div align="center" class="image-credits">Image: Team Melbourne </div>
+<div class="image-credits">Image: Team Melbourne </div>
 
 Exciting News: Vi's business that provides [tutoring for selective school and scholarship tests](https://www.examsuccess.com.au/) is sponsoring for 2016 Rails Girls Summer of Code.
 
 We’d like to thank Rails Girls for giving us the opportunity, Redbubble for being our coaching company and Discourse.org for building something amazing!
 
 <img src="/img/blog/2015/team-melbourne-discourse.gif">
-<div align="center" class="image-credits"> Image: Team Melbourne</div>
+<div class="image-credits"> Image: Team Melbourne</div>
 
 
 **Start using our [Advertising Plugin](https://github.com/team-melbourne-rgsoc2015/discourse-adplugin)! Follow us on [Twitter](https://twitter.com/TeamMelbKoala). Read about our journey on the [Team Blog](http://team-melbourne-rgsoc2015.github.io/).**
