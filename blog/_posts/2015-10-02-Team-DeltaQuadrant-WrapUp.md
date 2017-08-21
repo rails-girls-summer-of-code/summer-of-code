@@ -28,7 +28,7 @@ For our most complex issue, the implementation of a map to show geo-location dat
 <div class="videoWrapper">
 <iframe src="https://player.vimeo.com/video/140902101?color=ff0179"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 </div>
-<div align="center" class="image-credits"> <a href="https://vimeo.com/140902101">Diaspora* Map Demo</a> from <a href="https://vimeo.com/user42699530">Julia</a> on <a href="https://vimeo.com">Vimeo</a>. </div>
+<div class="image-credits"> <a href="https://vimeo.com/140902101">Diaspora* Map Demo</a> from <a href="https://vimeo.com/user42699530">Julia</a> on <a href="https://vimeo.com">Vimeo</a>. </div>
 
 
 ###5 tips from our side:
@@ -48,6 +48,6 @@ For our most complex issue, the implementation of a map to show geo-location dat
 
 
 ![To the Future!](/img/blog/2015/delta-quadrant-wrapup-tothefuture.gif)
-<div align="center" class="image-credits"> (Image: <a href="http://i-amarobot.tumblr.com/post/117556937146" target="_blank">Tumblr</a>) </div>
+<div class="image-credits"> (Image: <a href="http://i-amarobot.tumblr.com/post/117556937146" target="_blank">Tumblr</a>) </div>
 
 **Start using [Diaspora*](https://podupti.me/) & connect with [Julia](https://wk3.org/u/anderspree) and [Maren](https://wk3.org/u/zaziemo).**
