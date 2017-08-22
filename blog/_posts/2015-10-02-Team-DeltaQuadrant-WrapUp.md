@@ -31,7 +31,7 @@ For our most complex issue, the implementation of a map to show geo-location dat
 <p><a href="https://vimeo.com/140902101">Diaspora* Map Demo</a> from <a href="https://vimeo.com/user42699530">Julia</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
-###5 tips from our side:
+### 5 tips from our side:
 
 - If you want to get used to **test-driven development (TDD)** and like playing, try out a TDD approach to implement Conway’s Game of Life through [this tutorial](https://www.youtube.com/watch?v=iLXO2FLPulI). Attention: this tutorial uses the old RSpec Syntax - we translated it to [the new one](https://github.com/TeamDeltaQuadrant/game_of_life).  
 
