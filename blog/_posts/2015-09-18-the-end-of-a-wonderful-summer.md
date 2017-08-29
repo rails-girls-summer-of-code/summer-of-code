@@ -11,7 +11,7 @@ categories:
 ---
 
 <img src="/img/blog/2015/rails-g-enthusiasts-coffee.jpg" alt="Sophia & Boryana & Andrew">
-<div align="center" class="image-credits"> Sophia & Boryana & Andrew Radev, RailsGEnthusiasts Team (Image: Sophia & Boryana & Andrew Radev)</div>
+<div class="image-credits"> Sophia & Boryana & Andrew Radev, RailsGEnthusiasts Team (Image: Sophia & Boryana & Andrew Radev)</div>
 
 #### Hello again from our Team RailsGirlsEnthusiasts
 
@@ -23,7 +23,7 @@ We actually hadn't been prepared for everything that happened...and that is true
 ##### How did these three months just disappeared?
 Well, like it was yesterday when we were just starting :)
 <img src="/img/blog/2015/rails-g-enthusiasts-bugs.jpg" alt="99 little bugs in the code">
-<br><font color="grey"><small><i> Part of the coding process, RailsGEnthusiasts Team (Image: Sophia & Boryana)</i></small></font>
+<div class="image-credits"> Part of the coding process, RailsGEnthusiasts Team (Image: Sophia & Boryana)</div>
 
 ##### What have we achieved during the RGSoC?
 At the beginning, there was a lot of reading, we mean (a lot) * 10 … and nothing left in our heads till the moment we started the real coding process :)
@@ -45,12 +45,12 @@ They gave us not only explanation, they were helping us, pushing us to continue 
 
 3. Aaaaaand **TheOryx** – Thank you that you hosted us during the RGSoC and that this summer was a real one with your wonderful green summer garden and the breathtaking view to the Pancharevo Lake.
 <img src="/img/blog/2015/rails-g-enthusiasts-TheOryx.png" alt="Sophia & Boryana & TheOryx">
-<div align="center" class="image-credits"> Sophia & Boryana & TheOryx crew, RailsGEnthusiasts Team (Image: Sophia & Boryana)</div>
+<div class="image-credits"> Sophia & Boryana & TheOryx crew, RailsGEnthusiasts Team (Image: Sophia & Boryana)</div>
 
 
 4. And we won't forget **InitLab Sofia** which hosted us during the time we were not at TheOryx company.<br>
 <img src="/img/blog/2015/rails-g-enthusiasts-ruby.jpg" alt="Ruby">
-<div align="center" class="image-credits"> A present from InitLab Sofia, RailsGEnthusiasts Team (Image: Sophia & Boryana)</div>
+<div class="image-credits"> A present from InitLab Sofia, RailsGEnthusiasts Team (Image: Sophia & Boryana)</div>
 
 5.  (Oh, God, we feel as if we are on the Oscar's awards ceremony... :)  )**...because now we would like also to turn to all RGSoC organizers:** Without your brilliant idea and hard work to create this wonderful three-month event of coding, we would know almost nothing about how to create a real RoR Project, how to write blocks of code, methods, functions, tests, how to use Git, etc, etc…
 Thank you **Sara, Anika, Laura, Lieke, Verena and all other organizers**, who participate in this great organization. Thank you, you are here for us!
