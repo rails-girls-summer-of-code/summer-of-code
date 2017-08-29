@@ -18,7 +18,7 @@ categories:
   <img src="/img/blog/2015/fanxhe--logo.png" alt="Fanxhe Team" style="height: 300px; width: 300px">
 </div>
 
-<div align="center" class="image-credits">Fanxhe logo by Gustavo Colorado.
+<div class="image-credits">Fanxhe logo by Gustavo Colorado.
       <a href= "https://www.facebook.com/GustavoC2014">FanPageFB</a><br>
       <a href= "https://www.behance.net/GustavoColorado">Behance</a><br> </div>
 
@@ -28,7 +28,7 @@ We are Fany and Anye and together with our coaches, Ignacio and Jonathan, our su
 <div align="center">
   <img src="/img/blog/2015/fanxhe--team-map.png" alt="Fanxhe Team" style="height: 300px; width: 400px">
 </div>
-<div align="center" class="image-credits"> Fanxhe Team around the world.
+<div class="image-credits"> Fanxhe Team around the world.
       <a href= "https://twitter.com/zazvick">By @zazvic</a> </div>
 
 <br>
@@ -98,7 +98,7 @@ It was at one of the gatherings organized by us, the girls who attend to the wor
 <div align="center">
   <img src="/img/blog/2015/fanxhe--codificadas.jpg" alt="Fanxhe Team" style="height: 300px; width: 400px" />
 </div>
-<div align="center" class="image-credits">Codificadas =) </div>
+<div class="image-credits">Codificadas =) </div>
 
 
 Erika and Viviana work at Crowd Interactive and they had just been informed about the Rails Girls Summer of Code, so taking advantage of being at the gathering they transmitted a heartwarming message, offering us full support of Crowd Interactive for any of us interested. They invited us to their office, an appointment for the next day to talk about the summer of code.
@@ -115,7 +115,7 @@ The day that we met to complete our application to participate in the Summer of 
 
 
 <div align="center"><img src="/img/blog/2015/fanxhe--up.gif" alt="Fanxhe Team" style= "width: 150px" height="120px"></div>  
-<div align="center" class="image-credits">(Image: <a href="http://www.vayagif.com" target="_blank">vayagif.com</a>) </div>
+<div class="image-credits">(Image: <a href="http://www.vayagif.com" target="_blank">vayagif.com</a>) </div>
 
 No, we better don’t. "But if what about putting the diminutives of our" names together?
 
@@ -123,7 +123,7 @@ No, we better don’t. "But if what about putting the diminutives of our" names 
 <p align= "center"> <b>Fany + Anye = “FANXHE”</b> </p>
 
 <div align="center"><img src="/img/blog/2015/fanxhe--ok.gif" alt= "Fanxhe Team" style= "width: 150px" height="120px" ></div> 
-<div align="center" class="image-credits"> (Image: <a href="http://www.giphy.com" target="_blank">giphy</a>)</div>
+<div class="image-credits"> (Image: <a href="http://www.giphy.com" target="_blank">giphy</a>)</div>
 
 
 So, “Fanxhe”, it’s just the combination of our nicknames.  
@@ -156,7 +156,7 @@ Do you want to see half a day of Fanxhe Team at RGSoC ?
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wWgvqLD0pWM" frameborder="0" allowfullscreen></iframe>
 </div>
-<div align="center" class="image-credits"><a href= "https://twitter.com/zazvick">By @zazvic</a> </div>
+<div class="image-credits"><a href= "https://twitter.com/zazvick">By @zazvic</a> </div>
 <p align="center">
 
 
