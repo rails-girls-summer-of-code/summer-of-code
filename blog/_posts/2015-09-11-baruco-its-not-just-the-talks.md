@@ -14,7 +14,7 @@ categories:
 Well, it’s after [BaRuCo](http://www.fullstackfest.com/?from_baruco). We came back refreshed, full of new energy to work. We would like to tell you about this conference very subjectively, about our impressions, which consists of four elements: atmosphere, talks, community and Barcelona.
 
 <img src="/img/blog/2015/baruco1.jpg" alt="Full Stack Fest">
-<div align="center" class="image-credits">Full Stack Fest (Image: Ania) </div>
+<div class="image-credits">Full Stack Fest (Image: Ania) </div>
 
 
 __Atmosphere__
@@ -28,14 +28,14 @@ This is one of our thoughts after the conference: even if you can not be at the 
 We also have to mention that we met there a lot of famous people like Ruby chief designer, Yukihiro Matsumoto or Aaron Patterson from Rails Core Team. Yay!
 
 <img src="/img/blog/2015/barucomatz.jpg" alt="With Matz">
-<div align="center" class="image-credits">L-R: Ania, <a href ="https://twitter.com/yukihiro_matz" target="_blank">Yukihiro Matsumoto</a>, Basia (Image: Piotr Szotkowski) </div>
+<div class="image-credits">L-R: Ania, <a href ="https://twitter.com/yukihiro_matz" target="_blank">Yukihiro Matsumoto</a>, Basia (Image: Piotr Szotkowski) </div>
 
 
 <img src="/img/blog/2015/barucoaaron.jpg" alt="With tenderlove">
 <div align="center" class="image-credits">L-R: Ania, <a href="https://twitter.com/tenderlove" target="_blank">Aaron Patterson</a>, Basia (Image: Basia) </div>
 
 <img src="/img/blog/2015/barucolauren.jpg" alt="With devdame">
-<div align="center" class="image-credits"> L-R: <a href="https://twitter.com/devdame" target="_blank">Lauren Scott</a>, Basia (Image: Magda)</div>
+<div class="image-credits"> L-R: <a href="https://twitter.com/devdame" target="_blank">Lauren Scott</a>, Basia (Image: Magda)</div>
 
 __Community__
 
@@ -49,7 +49,7 @@ And Rails Girls community is even better. We met Paulina & Maria - Rails Girls B
 We’ve also met closer our super supervisor Magda and she is the best supervisor ever! We spend a lot of time with her and her colleagues from DaWanda. Thank you guys for a wonderful time and help in understanding talks!
 
 <img src="/img/blog/2015/barucopaellainmaians.jpg" alt="With friends">
-<div align="center" class="image-credits">L-R: Magda (our supervisor), Basia, Luca (DaWanda), Marcin (rebased), Paulina (Rails Girls Barcelona), Tadas (DaWanda), Ania (Image: Sławek) </div>
+<div class="image-credits">L-R: Magda (our supervisor), Basia, Luca (DaWanda), Marcin (rebased), Paulina (Rails Girls Barcelona), Tadas (DaWanda), Ania (Image: Sławek) </div>
 
 __Barcelona__
 
