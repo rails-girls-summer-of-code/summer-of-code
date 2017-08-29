@@ -12,7 +12,7 @@ categories:
 
 ##Introducing Exercistas!
 ![exercistas with mentor and NIRD coaches](/img/blog/2015/exercistas_with_mentor_and_coaches.png "exercistas with mentor and NIRD coaches")
-<div align="center" class="image-credits"> Image: Team Exercistas)</div>
+<div class="image-credits"> Image: Team Exercistas)</div>
 
 ###Who are we?
 **Sarah**: I am a biologist turned bioinformatician turned developer. I studied marine biology ([coral reefs genomics](http://people.oregonstate.edu/~meyere/res.html/ "Integrative Biology | Meyer Lab")) in college and grad school, and eventually decided that computers were more fun than endless nights in the lab. I am the organizer for Geek Girls Carrots Seattle and run a free project-based programming workshop for women, called Code Carrots. I’m originally from France, lived in Texas for a while, and am currently enjoying life in the beautiful Pacific Northwest. Recently, I have been learning to make my own cheese. The way to my heart is through puns, Star Trek quotes, and facts about obscure invertebrates.
@@ -42,7 +42,7 @@ We are currently working on two things: a detailed roadmap of the on-boarding pr
 We're also looking forward to attending conferences. Rails Girls Summer of Code is helping, by giving us tickets to [Madison+ Ruby](http://madisonpl.us/ruby/)! But we still need help with travel and accommodations. If you would be so kind to visit our [GoFundMe](http://www.gofundme.com/exercistas) campaign, we'd really appreciate it. Every bit counts. Sharing is caring, so please share it with your friends. Thanks!
 
 ![exercistas with mentor and NIRD coaches](/img/blog/2015/exercistas_first_day.jpg "exercistas first day at NIRD")
-<div align="center" class="image-credits">(Image: Team Exercistas) </div>
+<div class="image-credits">(Image: Team Exercistas) </div>
 
 Follow us on Twitter at [@exercistas](https://twitter.com/exercistas).  
 Read our [blog](https://exercistas.wordpress.com/) on WordPress.
