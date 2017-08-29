@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 <img src="/img/blog/2015/CG-FirstWeekGH.JPG" alt="Team CocoaGems">
-<br><font color="grey"><small><i> Emma and Karla during the first week in the GitHub office.</i></small></font>
+<div class="image-credits">  Emma and Karla during the first week in the GitHub office.</div>
 
 ## A little bit of background
 
@@ -21,16 +21,16 @@ CocoaGems is a pretty large team. We had the great fortune of having four mentor
 While pairing with our CocoaPods coach Boris Bügling we worked on a CocoaPods plugin called [CocoaPods Label](https://rubygems.org/gems/cocoapods-label). Step by step we created and released our first gem together. We took terms driving, navigating and asking questions. As you fellow developers know, pairing is a great way to practice your patience, asking questions and taking initiative. Communicating about code can be frustrating when you are having trouble explaining what you mean, but it gives you hints about what you need to work on more since the only way to be good at explaining something is to really understand it. It is also pretty epic to put your trust in someone much more experienced to walk you through there ways of thinking and solving problems.
 
 <img src="/img/blog/2015/CG-EBKTwitter.JPG" alt="Team CocoaGems">
-<div align="center" class="image-credits"> Karla, Boris and Emma visiting the Twitter office.</div>
+<div class="image-credits"> Karla, Boris and Emma visiting the Twitter office.</div>
 
 
 We also had more theoretical sessions with our coaches at GitHub about general Computer Science subjects like algorithms, search, sorting, regular expressions, piping etc. As individuals we worked on our own project helping CocoaPods with defined issues. This allowed us to work with projects that inspired us at our own pace. While working on our issues we scheduled tutorial sessions with our coaches and mentors about concepts we needed to understand to be able to solve our issues. As if this wasn’t enough we also worked on our side iOS projects with one of our savant GitHub coaches to better understand CocoaPods audience. We also created a [blog](http://cocoagems.github.io/) together using Jekyll. It is a developer friendly blog tool that allows you to write blog posts in markdown and just push it to your git hub repository to post a new blogpost using GitHub pages.
 
 <img src="/img/blog/2015/CG-3DPrint.JPG" alt="Team CocoaGems">
-<div align="center" class="image-credits">During CodeConf in Nashville we got to take a 3D image. </div>
+<div class="image-credits">During CodeConf in Nashville we got to take a 3D image. </div>
 
 <img src="/img/blog/2015/CG-CodeConf.JPG" alt="Team CocoaGems">
-<div align="center" class="image-credits">We also got some nice t-shirts, had fun and learned a lot. </div>
+<div class="image-credits">We also got some nice t-shirts, had fun and learned a lot. </div>
 
 
 ## What we learned
@@ -59,4 +59,4 @@ I just want to aim a big thank you to everyone who made these three months of im
 
 
 <img src="/img/blog/2015/CG-2ndDinnerCocoaPods.JPG" alt="Team CocoaGems">
-<div align="center" class="image-credits">Members of CocoaPods getting together for dinner after AltConf. Photo by Karla </div>
+<div class="image-credits">Members of CocoaPods getting together for dinner after AltConf. Photo by Karla </div>
