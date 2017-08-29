@@ -14,7 +14,7 @@ Hello! We are [Angela and Lina](https://teams.railsgirlssummerofcode.org/teams/6
 
 
 <img src="/img/blog/2015/introducing-team-binary.jpg" alt="Team Binary" width="600">  
-<div align="center" class="image-credits">The amazing people of Team Binary </div>
+<div class="image-credits">The amazing people of Team Binary </div>
 
 **Why Team Binary?**
 
