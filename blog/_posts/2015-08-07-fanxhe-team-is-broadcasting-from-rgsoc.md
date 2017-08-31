@@ -157,7 +157,6 @@ Do you want to see half a day of Fanxhe Team at RGSoC ?
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wWgvqLD0pWM" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="image-credits"><a href= "https://twitter.com/zazvick">By @zazvic</a> </div>
-<p align="center">
 
 
 ## **If you could code anything in the world, what would it be?**
