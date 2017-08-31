@@ -70,7 +70,7 @@ And what’s next?
 Hopefully, we’ll continue to build our coding skills! We’ve learned a lot of things during those summer months but often, the questions grow at an even faster rate…
 
 <img src="/img/blog/2015/alster-learntocode-graph.jpg" alt="a graph of our learning curve" width="600px">
-<div class="image-credits">hat learning felt like at times... Illustration: Anke </div>
+<div class="image-credits">What learning felt like at times... Illustration: Anke </div>
 
 After RGSoC, Aya will be travelling on to California to attend Draper University and found her first startup! Follow her adventures at [@ajafferson](http://www.twitter.com/ajafferson). Anke ([@ankonym](http://www.twitter.com/ankonym)/[ankonym.de](http://www.ankonym.de)) hopes to continue coding but will be distracted for a while by her side project: Her due date is in December to welcome a member of the next generation of programmers into the world.
 
