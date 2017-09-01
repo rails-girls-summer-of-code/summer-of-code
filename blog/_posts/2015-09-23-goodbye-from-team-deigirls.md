@@ -16,7 +16,7 @@ categories:
 Summer of 2015 is almost ending and, with it, [team DEIGirls](http://railsgirlssummerofcode.org/blog/2015-07-26-meet-team-deigirls/) adventure comes to an end. For 3 months we have been delving into the world of Ruby, learning Ruby on Rails, Lotus, Git and meta-programming with Ruby. It has been 3 awesome months, full of joy, happiness, laughter and some frustration, as well. We meet incredible people, Ruby community is great! And, most of all, we had lots of fun!
 
 <img src="/img/blog/2015/teamDEIGirls_hanging_out.gif">
-<br><font color="grey"><small><i>Waiting for someone to join a call with team DEIGirls(Image: Team DEIGirls)</i></small></font>
+<div class="image-credits"> Waiting for someone to join a call with team DEIGirls(Image: Team DEIGirls)</div>
 
 ###So, who are we?
 
@@ -29,7 +29,7 @@ The project mentors were also always there for us. Luca, the project owner, help
 The last, but not the least, member of our team is our amazing supervisor Alex! Our talks and our weekly catch-up calls are something that we'll surely miss! We always ended up laughing until our stomachs hurt! (and no, it isn't from the cookies!)
 
 <img src="/img/blog/2015/teamDEIGirls_tree.png">
-<br><font color="grey"><small><i>Team DEIGirls family tree (Image: Team DEIGirls)</i></small></font>
+<div class="image-credits"> Team DEIGirls family tree (Image: Team DEIGirls)</div>
 
 ### Our work
 

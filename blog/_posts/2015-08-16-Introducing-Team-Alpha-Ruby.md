@@ -18,8 +18,9 @@ Our team has wonderful support on this journey from our mentor Zachary Scott and
 Furthermore Benedikt Deicke provides additional input and help as our team’s supervisor.
 
 <img src="/img/blog/2015/introducing-team-alpha-ruby.jpg" alt="Team Alpha Ruby" width="600">  
-<font color="grey"><small><i>The amazing members of Team Alpha Ruby - From top left to bottom right:<br />
-Ariane, Ramya, Zach, Barbara and Stella (Photo credit: Team Alpha Ruby)</i></small></font> 
+<div class="image-credits">The amazing members of Team Alpha Ruby - From top left to bottom right:<br />
+Ariane, Ramya, Zach, Barbara and Stella (Photo credit: Team Alpha Ruby) </div>
+
 
 **Why ‘Team Alpha Ruby (α ❤ ✌)’? What does the name mean?**
 
