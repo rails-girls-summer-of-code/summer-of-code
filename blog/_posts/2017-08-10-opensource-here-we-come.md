@@ -60,23 +60,22 @@ He is a doctoral student working in the field of biometrics and machine learning
 
 He is a junior at IIITD, majoring in Computer science, Polygot Programmer, passionate about Opensource, with a side of research. Shiven is a 2016 GSoC intern with Fossasia and worked in Loklak.
 
-
 #### [Aditay Tripathi](https://github.com/Aditay/)
 
 He has just completed his MTech from our college only and did his BTech from NIT Shrinagar. 
 He is an AI enthusiast in Research and applications of Machine learning/deep learning in speech recognition and computer vision. He is well versed with various libraries like Kaldi, Tensorflow, Theano and Keras.
 
-### Mentors
-![image](/img/blog/2017/teamgemini_mentors.jpg)
-<div align="center" class="image-credits"> Our mentors(Photo: twitter)</div>
+### Our Mentors
+![image](/img/blog/2017/gemini_mentors.jpg)
+<div align="center" class="image-credits">Our Mentors(Photo: Github)</div>
 
-#### [Hong phuc dang](https://github.com/hpdang)
+#### [Stefan van der Walt](https://github.com/stefanv)
+He is an assistant researcher at BIDS and a senior lecturer in applied mathematics at Stellenbosch University, South Africa. He has been involved in the development of scientific open source software for more than a decade and enjoys teaching Python at workshops and conferences.  Stéfan is the founder of scikit-image and a contributor to numpy, scipy, and dipy.
 
-Hpdang is internationally educated business professional with focus on open technologies, developer community outreach and business development. She has extensive knowledge and technical expertise in information technologies, Open Source applications and developer community engagement.
+#### [Juan Nunez-Iglesias](https://github.com/jni)
+He is a research scientist at the University of Melbourne, with interests in neuroscience and biological image analysis. He is also a freelance consultant in scientific Python programming, with a particular interest in renewable energy and the environment.Also, he is the author of the book Elegant SciPy, published by O'Reilly media.
 
-#### [Mario Behling](https://github.com/mariobehling)
-
-Mario is the co-founder of Fossasia and the founder of Susi.AI. He works as the Development lead and Fossasia summit organiser. He is also the founder of a startup named awaike. 
+A big thank you to our new mentors for taking us on board at such a short notice!
 
 ### Supervisor 
 
@@ -84,8 +83,10 @@ Mario is the co-founder of Fossasia and the founder of Susi.AI. He works as the 
 
 She is an Open Source enthusiast and works as a Linux kernel engineer at Oracle. She is also a blogger and outreachy alumni. She motivates everyone to get started with linux kernel and also takes up workshops for the same.
 
-## What we’ve done so far and the Road ahead
+## About Scikit-image
+[Scikit-image](http://scikit-image.org/) is an open source image processing library for the Python which includes collection of algorithms for segmentation,color space manipulation, analysis, filtering etc. It's largely written in Python, with some core algorithms written in Cython to achieve performance. Scikit-image is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
-Time indeed flies. We’ve already sifted through the large code base, understood it, made small PRs here and there, learnt git, understood what a frontend architecture like react does and realized the effort a community puts in maintaining a project. It was one hectic month! We are really proud of the progress we’ve made in our open source journey so far.
+## What we’ve done so far and some unexpected events :O 
 
-We aim to solve more complex and core issues now and hope to bring in our own ideas to the project we are working on. Fingers crossed and full steam ahead!
+Time indeed flies. We’ve already sifted through the large code base, understood it, made small PRs here and there, learnt git, understood what a frontend architecture like react does and realized the effort a community puts in maintaining a project. 
+However, between all this work, we realised that the goals of our mentors and that of RGSOC aren't aligned. After some deliberation, our supervisor and RGSOC organisors chose to change our project. Thus we are assigned Scikit-image, our first choice of project in fact :p
