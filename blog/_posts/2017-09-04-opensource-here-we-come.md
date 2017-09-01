@@ -1,8 +1,8 @@
 ---
 title: Open source, here we come!
 layout: post
-created_at: Monday August 10 2017
-permalink: blog/2017-08-10-opensource-here-we-come
+created_at: Monday September 4 2017
+permalink: blog/2017-09-04-opensource-here-we-come
 current: blog
 author: Gemini
 twitter: Team_Gemini_
@@ -36,15 +36,6 @@ categories:
 - Gets her fat from nowhere(she hardly eats anything.. And if she does, she exercises to burn those calories)
 - Wants to know about anything and everything interesting under the sun and gets very excited every time she manages to do this. Her youtube feed is filled with random explanations about random things
 - Wants her life to be one of adventure and magic
-
-# Why Susi AI?
-
-![image](/img/blog/2017/susi-logo.svg)
-<div align="center" class="image-credits"> Susi AI logo</div>
-
-The reason both of us decided to venture into Computer Science was because of our fascination with Artificial Intelligence. For us, making a machine emulate human characteristics is a very intriguing and exciting prospect. This mutual interest in Artificial intelligence led us to immediately gravitate towards the Susi AI Server project from the projects offered by RGSoC. 
-
-[Susi AI](http://chat.susi.ai/overview) is an open source artificial Intelligence for chatbots, personal assistants, help desks. Recognising the need to personalise chatbots Susi also provides a platform to personalise skills to a user’s requirements. Given the advent of intelligent chatbots as a new form of instant services, we are thrilled to have the opportunity to actively contribute to the intelligence behind one ourselves. We are learning and growing with Susi, which itself is a relatively new addition to the Fossasia family. 
 
 ## The Crew
 
@@ -83,6 +74,10 @@ A big thank you to our new mentors for taking us on board at such a short notice
 
 She is an Open Source enthusiast and works as a Linux kernel engineer at Oracle. She is also a blogger and outreachy alumni. She motivates everyone to get started with linux kernel and also takes up workshops for the same.
 
+# Our Project(s)
+
+## About Susi-AI Server
+[Susi AI](http://chat.susi.ai/overview) is an open source artificial Intelligence for chatbots, personal assistants, help desks. Recognising the need to personalise chatbots Susi also provides a platform to personalise skills to a user’s requirements.
 ## About Scikit-image
 [Scikit-image](http://scikit-image.org/) is an open source image processing library for the Python which includes collection of algorithms for segmentation,color space manipulation, analysis, filtering etc. It's largely written in Python, with some core algorithms written in Cython to achieve performance. Scikit-image is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
