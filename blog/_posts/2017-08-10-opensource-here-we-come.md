@@ -66,7 +66,7 @@ He has just completed his MTech from our college only and did his BTech from NIT
 He is an AI enthusiast in Research and applications of Machine learning/deep learning in speech recognition and computer vision. He is well versed with various libraries like Kaldi, Tensorflow, Theano and Keras.
 
 ### Our Mentors
-![image](/img/blog/2017/gemini_mentors.jpg)
+![image](/img/blog/2017/Gemini_mentors.jpg)
 <div align="center" class="image-credits">Our Mentors(Photo: Github)</div>
 
 #### [Stefan van der Walt](https://github.com/stefanv)
