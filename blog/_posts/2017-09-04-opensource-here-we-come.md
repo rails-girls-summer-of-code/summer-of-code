@@ -83,5 +83,5 @@ She is an Open Source enthusiast and works as a Linux kernel engineer at Oracle.
 
 ## What we’ve done so far and some unexpected events :O 
 
-Time indeed flies. We’ve already sifted through the large code base, understood it, made small PRs here and there, learnt git, understood what a frontend architecture like react does and realized the effort a community puts in maintaining a project. 
-However, between all this work, we realised that the goals of our mentors and that of RGSOC aren't aligned. After some deliberation, our supervisor and RGSOC organisors chose to change our project. Thus we are assigned Scikit-image, our first choice of project in fact :p
+Time indeed flies. While working with SusiAI Server, we’ve already sifted through the large code base, understood it, made small PRs here and there, learnt git, understood what a frontend architecture like react does and realized the effort a community puts in maintaining a project. 
+However, between all this work, we realised that the goals of our mentors and that of RGSOC aren't aligned. After some deliberation, our supervisor and RGSOC organisors chose to change our project. Thus, we are now assigned Scikit-image, which was infact our first choice of project :p 
