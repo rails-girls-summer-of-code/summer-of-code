@@ -10,14 +10,14 @@ categories:
 - student-posts
 ---
 
-# Duo of the moment
+## Duo of the moment
 
 ![image](/img/blog/2017/TeamGemini.jpg)
 <div align="center" class="image-credits"> Team Gemini(Image Courtesy: Shagun Kapur)</div>
 
 [Akarsha](https://github.com/aksh98) and [Ramya](https://github.com/meriki) are not your regular individuals, a dash of crazy, a drop of weird and a couple of undiscovered unusual ingredients makes them up.  They can be found studying in the same college of IIIT Delhi and sharing the same hostel room, adding a whole new meaning to birds of a feather flock together. Their acquaintance started with their mutual interest in coding and fascination for artificial intelligence. Slowly but steadily they started bonding and realized that despite one being from North India and the other from South, one being a die hard Korean fan and the other a Game of Thrones fan, they are eerily similar. Their sun signs (which both are extremely fond of) also matched! While looking for the perfect team name, ‘Gemini’ which literally means ‘The Twins’ made perfect sense. In the short span of two years, they have managed to gather all sorts of memories with each other, reading for tests together, doing assignments together, bickering and laughing the next moment, watching youtube videos, heated discussions on random topics or just not seeing eye to eye with one other. They’ve been through it all and vehemently attest that their bond keeps going strong because of all their experiences together.
 
-# Fun facts about the team
+## Fun facts about the team
 
 ### [__Akarsha:__](https://github.com/aksh98)
 
@@ -74,10 +74,11 @@ A big thank you to our new mentors for taking us on board at such a short notice
 
 She is an Open Source enthusiast and works as a Linux kernel engineer at Oracle. She is also a blogger and outreachy alumni. She motivates everyone to get started with linux kernel and also takes up workshops for the same.
 
-# Our Project(s)
+## Our Project(s)
 
 ## About Susi-AI Server
 [Susi AI](http://chat.susi.ai/overview) is an open source artificial Intelligence for chatbots, personal assistants, help desks. Recognising the need to personalise chatbots Susi also provides a platform to personalise skills to a user’s requirements.
+
 ## About Scikit-image
 [Scikit-image](http://scikit-image.org/) is an open source image processing library for the Python which includes collection of algorithms for segmentation,color space manipulation, analysis, filtering etc. It's largely written in Python, with some core algorithms written in Cython to achieve performance. Scikit-image is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
