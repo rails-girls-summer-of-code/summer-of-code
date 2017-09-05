@@ -19,7 +19,7 @@ It's really exciting to see and feel our progress. In the beginning we were gras
 
 Through a glorious combination of working on re-frame's tracing tool, reading other peoples' open source projects, hanging out with our wonderful mentors and coaches, and tinkering with our own side projects, we gathered experience in programming with ClojureScript and re-frame and learned about langugage specific idioms. What we find most valuable though is the great advice we got from our coaches and our mentor. They all have given us so much input for how to become good programmers, not only technically, but especially in terms of finding a good and efficient workflow, addressing problems on a conceptual level and the importance of clear and constructive communication. 
 
-![image](/img/blog/2016/coaching.jpg)
+![image](/img/blog/2017/coaching.jpg)
 <div class="image-credits">coaching with Matt! / Photo by: Chris Sun</div>
 
 We are very thankful to have the opportunity to work together so closely with all of you! A big thank you for all your support!
@@ -32,14 +32,14 @@ We worked on many features for the [tracing tool](https://github.com/Day8/re-fra
 
 In the third week of our project, we went to **EuroClojure**, which took place in Berlin this year. 
 
-![image](/img/blog/2016/euroclojure.png)
+![image](/img/blog/2017/euroclojure.png)
 <div class="image-credits">EuroClojure / Photo by: Chris Sun</div>
 
 It was a great opportunity to connect to people from around the globe some of which are using re-frame in their everyday work. Being at conferences always leaves us very inspired and full of ideas for what to look into next. We also got some feedback and ideas for how re-frame’s developer experience could be improved. In general, people were really excited about our project and some of them met us for lunch in the following weeks to talk about the project in more depth. These meetings were super valuable for us, as we were able to focus on very specific parts of development with re-frame. It's so wonderful to be surrounded by the community in person after chatting over slack and github and twitter!
 
 We also went to the monthly [Clojure Berlin](https://www.meetup.com/Clojure-Berlin) meetups, where we chill with and hear about the projects and intellectual musings of local Clojurians. I love how close the Berlin Clojure community feels, and these meetups often feel more like hangouts than tech events. It's really special.
 
-![image](/img/blog/2016/clojure-meetup.png)
+![image](/img/blog/2017/clojure-meetup.png)
 <div class="image-credits">Clojure Meetup Berlin / Photo by: Chris Sun</div>
 
 
@@ -49,7 +49,7 @@ Open source and learning comes with difficulties along with the good times.
 
 Clojure doesn't have the best documentation, and it's widely known within the community that the beginner experience is rough. The ClojureScript tech stack is so big! It took us the first couple of weeks to properly orient around tools of the ecosystem and the language itself: build tools, development tools, ClojureScript compiler, JavaScript interop, frameworks, libraries, fighting and reconciling with our editors. This is all before writing any code, which can feel really frustrating, because that's what we're here for, right?
 
-![image](/img/blog/2016/cljs-comic.jpg)
+![image](/img/blog/2017/cljs-comic.jpg)
 <div class="image-credits">CLJS Comic / Comic by: Chris Sun</div>
 
 Luckily, the Clojure community is very helpful and social, and sometimes posting in the proper channel of [Clojurians slack](http://clojurians.net) would result in solutions, feedback, encouragement, or a push in the right direction. And of course our coaches and mentors were really eager to help!
