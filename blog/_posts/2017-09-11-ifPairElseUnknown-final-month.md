@@ -47,8 +47,8 @@ __Ruby__ - There are more than one way to solve a problem. Ruby has helped us to
 
 __Rails__ - Rails is a framework which has provided structure and simplified repetitive tasks. It’s also pretty magical.
 
-![Stress releasing](/img/blog/2017/2017-07-20-stress-release.gif)
-<div class="image-credits"><b>Stress releasing.. (Image:  giphy.com)</b></div>
+![Miracle](/img/blog/2017/ifPairElse_miracle.gif)
+<div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
 
 __Javascript__ - Javascript likes its semi-colons ‘;’ and ‘;’! And don’t forget the commas!
 
@@ -82,8 +82,8 @@ Pair programming can be challenging when working remotely. We worked remotely fo
 * Learnt about many wonderful Developer Tools.
 * Ate lots of chocolate.
 
-![Stress releasing](/img/blog/2017/2017-07-20-stress-release.gif)
-<div class="image-credits"><b>Stress releasing.. (Image:  giphy.com)</b></div>
+![Miracle](/img/blog/2017/ifPairElse_celebrate.gif)
+<div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
 
 #### __What's next?__
 
@@ -99,7 +99,7 @@ A __Thank You__ to __[Luís Ferreira](https://twitter.com/zamith)__ for providin
 
 A __Thank You__ to __[Zendesk](https://www.zendesk.com/)__ for providing a welcoming and supportive environment for us to work on our project.
 
-__Thank You__ to our Project mentor __[Julia Nguyen](https://twitter.com/fleurchild)__ it has been a pleasure working on your project and we look forward to continuing our work on [if-me.org,](https://www.if-me.org/). We also want to thank Julia and Bee, for our personalised RGSoC stickers and the wonderful if-me community for their support.
+__Thank You__ to our Project mentor __[Julia Nguyen](https://twitter.com/fleurchild)__ it has been a pleasure working on your project and we look forward to continuing our work on [if-me.org](https://www.if-me.org/). We also want to thank Julia and Bee, for our personalised RGSoC stickers and the wonderful if-me community for their support.
 
 ![ifme stickers](/img/blog/2017/ifPair_ifme_stickers.jpg)
 <div align="center" div class="image-credits">Photo taken by Jenny and Sophie</div>
@@ -108,7 +108,7 @@ __Thank You__ to our RGSoC Supervisor __Vi Nguyen__, it has been a pleasure gett
 
 Lastly, we would like to say a __BIG Thank You__ to the organisers of [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and all the sponsors for making this experience possible. This has been such a wonderful experience, we have enjoyed the opportunity to contribute back to the community in a positive way. This is an experience we will never forget!
 
-### __You can find us on__
+### __You can find here__
 
 __[Twitter](https://twitter.com/ifPairElse)__
 
