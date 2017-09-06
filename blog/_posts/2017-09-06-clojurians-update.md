@@ -1,8 +1,8 @@
 ---
 title: Clojurian's Update - Working on re-frame's Tracing Tool
 layout: post
-created_at: Mon September 4 2017
-permalink: blog/2017-09-04-clojurians-update.md 
+created_at: Wed September 6 2017
+permalink: blog/2017-09-06-clojurians-update.md 
 current: blog
 author: Saskia and Chris
 twitter: saskalii
