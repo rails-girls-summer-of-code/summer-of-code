@@ -93,7 +93,7 @@ We plan to develop on our existing programming skills, with the aim to become fu
 
 #### __Thank You!__
 
-Our summer (winter) of code is coming to an end, but it has been a great pleasure working with our amazing team of coaches. They have all provided us with a wealth of knowledge, which we can take away and implement as we continue to learn. __Thank You__ to our wonderful coaches; __[Adel Smee](https://twitter.com/adelsmee), [Adam Rice](https://twitter.com/HashNotAdam), [Simon Hilderbrandt](https://github.com/simonhildebrandt)__ and __[Tim Moore](https://twitter.com/tmoore)__
+Our summer (winter) of code is coming to an end, but it has been a great pleasure working with our amazing team of coaches. They have all provided us with a wealth of knowledge, which we can take away and implement as we continue to learn. __Thank You__ to our wonderful coaches; __[Adel Smee](https://twitter.com/adelsmee), [Adam Rice](https://twitter.com/HashNotAdam), [Simon Hildebrandt](https://github.com/simonhildebrandt)__ and __[Tim Moore](https://twitter.com/tmoore)__
 
 A __Thank You__ to __[Luís Ferreira](https://twitter.com/zamith)__ for providing awesome support remotely.
 
