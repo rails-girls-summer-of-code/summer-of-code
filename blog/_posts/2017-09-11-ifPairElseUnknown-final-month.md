@@ -48,7 +48,7 @@ __Ruby__ - There are more than one way to solve a problem. Ruby has helped us to
 __Rails__ - Rails is a framework which has provided structure and simplified repetitive tasks. It’s also pretty magical.
 
 ![Miracle](/img/blog/2017/ifPairElse_miracle.gif)
-<div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
+<div align="center" div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
 
 __Javascript__ - Javascript likes its semi-colons ‘;’ and ‘;’! And don’t forget the commas!
 
@@ -82,8 +82,8 @@ Pair programming can be challenging when working remotely. We worked remotely fo
 * Learnt about many wonderful Developer Tools.
 * Ate lots of chocolate.
 
-![Miracle](/img/blog/2017/ifPairElse_celebrate.gif)
-<div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
+![Celebrate!](/img/blog/2017/ifPairElse_celebrate.gif)
+<div align="center" div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
 
 #### __What's next?__
 
@@ -93,7 +93,7 @@ We plan to develop on our existing programming skills, with the aim to become fu
 
 #### __Thank You!__
 
-Our summer (winter) of code is coming to an end, but it has been a great pleasure working with our amazing team of coaches. They have all provided us with a wealth of knowledge, which we can take away and implement as we continue to learn. __Thank You__ to our wonderful coaches; __[Adel Smee](https://twitter.com/adelsmee), [Adam Rice](https://twitter.com/HashNotAdam), [Simon Hilderbrandt](https://au.linkedin.com/in/simonhildebrandt)__ and __[Tim Moore](https://twitter.com/tmoore)__
+Our summer (winter) of code is coming to an end, but it has been a great pleasure working with our amazing team of coaches. They have all provided us with a wealth of knowledge, which we can take away and implement as we continue to learn. __Thank You__ to our wonderful coaches; __[Adel Smee](https://twitter.com/adelsmee), [Adam Rice](https://twitter.com/HashNotAdam), [Simon Hilderbrandt](https://github.com/simonhildebrandt)__ and __[Tim Moore](https://twitter.com/tmoore)__
 
 A __Thank You__ to __[Luís Ferreira](https://twitter.com/zamith)__ for providing awesome support remotely.
 
@@ -108,7 +108,7 @@ __Thank You__ to our RGSoC Supervisor __Vi Nguyen__, it has been a pleasure gett
 
 Lastly, we would like to say a __BIG Thank You__ to the organisers of [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and all the sponsors for making this experience possible. This has been such a wonderful experience, we have enjoyed the opportunity to contribute back to the community in a positive way. This is an experience we will never forget!
 
-### __You can find here__
+### __You can find us here__
 
 __[Twitter](https://twitter.com/ifPairElse)__
 
