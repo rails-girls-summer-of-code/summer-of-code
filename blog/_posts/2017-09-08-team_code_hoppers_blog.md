@@ -26,10 +26,12 @@ In a nutshell, we learnt about coding, teamwork, collaboration and issue resolut
 - We added new features to the new landing page - Cynthia helped alot with this
 - Simon helped us implement the backend [searchKick](https://github.com/ankane/searchkick) functionality
 
-![Cynthia's take!](/img/blog/2017/team_code_hoppers_cynthia.jpg)<font color="grey"><small><i>Rgsoc has been a great experience. I have learnt so much. It has been fun collaborating with my partner, the coaches and our mentor. I hope to continue contributing to open farm</i></small></font>
+![Cynthia's take!](/img/blog/2017/team_code_hoppers_cynthia.jpg)
+<div align="center" class="image-credits">Rgsoc has been a great experience. I have learnt so much. It has been fun collaborating with my partner, the coaches and our mentor. I hope to continue contributing to open farm (Photo by: Cynthia)</div>
 
 
-![Roselyne's take!](/img/blog/2017/team_code_hoppers_roselyne.jpg)<font color="grey"><small><i>This was a fruitful summer and I would love to do it again. The lessons I have carried from this summer will go a long way in accelerating my growth as a software programmer. I have enjoyed the momentum that this summer has brought.</i></small></font>
+![Roselyne's take!](/img/blog/2017/team_code_hoppers_roselyne.jpg)
+<div align="center" class="image-credits">This was a fruitful summer and I would love to do it again. The lessons I have carried from this summer will go a long way in accelerating my growth as a software programmer. I have enjoyed the momentum that this summer has brought. (Photo by: Roselyne)</div>
 
 
 #### We wish to thank…
