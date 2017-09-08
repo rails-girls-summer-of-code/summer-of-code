@@ -1,8 +1,8 @@
 ---
 title: Team ifPairElseUnknown
 layout: post
-created_at: Monday September 11 2017
-permalink: blog/2017-09-11-ifPairElseUnknown-final-month
+created_at: Friday September 8 2017
+permalink: blog/2017-09-8-ifPairElseUnknown-final-month
 current: blog
 author: ifPairElseUnknown
 twitter: IfPairElse
