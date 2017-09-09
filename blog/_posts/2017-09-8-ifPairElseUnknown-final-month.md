@@ -52,7 +52,7 @@ __Rails__ - Rails is a framework which has provided structure and simplified rep
 
 __Javascript__ - Javascript likes its semi-colons ‘;’ and ‘;’! And don’t forget the commas!
 
-__TDD__ - We regularly wrote tests within our code base. When it come to building an application we can’t live without TDD. As we have now a better understanding of TDD, our lives will never the same.
+__TDD__ - We regularly wrote tests within our code base. When it comes to building an application, we can’t live without TDD. As we have now a better understanding of TDD, our lives will never be the same.
 
 There is an endless number of applications and developer tools available to us and the more we learn, the more we realise we don’t know enough and learning never stops.
 
