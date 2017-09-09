@@ -14,7 +14,7 @@ Being at #rgsoc has been one of the most fruitful yet challenging experiences th
 
 #### Our accomplishments so far?
 
-In a nutshell, we learnt about coding, teamwork, collaboration and issue resolution. We even got to learn how to effectively communicate with remote teams across the world, listening and focusing on a common goal, defining tasks and keeping schedules. Well, sometimes not everything went as we had planned and from that we learnt that nothing is exactly perfect and we always have to keep striving to efficiently communicate and resolve our blockers. **It has been an amazing journey!**
+In a nutshell, we learnt about coding, teamwork, collaboration and issue resolution. We even got to learn how to effectively communicate with remote teams across the world, listening and focusing on a common goal, defining tasks and keeping schedules. Well, sometimes not everything went well as we had planned and from that we learnt that nothing is perfect and we always have to keep striving to efficiently communicate and resolve our blockers. **It has been an amazing journey!**
 
 #### Our take from the summer!
 
