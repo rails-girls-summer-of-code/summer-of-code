@@ -40,7 +40,7 @@ In a nutshell, we learnt about coding, teamwork, collaboration and issue resolut
 - OpenFarm designer, [Sophia] - We got to work with Sophia on most designs that were implemented on the OpenFarm project. It felt great to learn about design from a person with a keen eye for design. Thanks Sophia, it was a pleasure to learn from you. 
 - [Travis Foundation](https://twitter.com/travis_fnd) - For organising our program for the entire summer. We remain forever grateful, and assure you that we really did feel the impact of the trust and belief you placed upon us. We plan to continue sharing this experience with interested parties. 
 - We also wish to thanks our coaches - Sigu, William and Emmanuel for the guidance and time they dedicated towards the summer. These great guys  ensured that we resolved some of the issues we encountered during the program.
-- We also wish to thank everyone at the [Rails Girls Summer of Code](https://twitter.com/RailsGirlsSoC) of Code community who made this summer be as smooth, pleasant and awesome. 
+- We also wish to thank everyone at the [Rails Girls Summer of Code](https://twitter.com/RailsGirlsSoC) community who made this summer be as smooth, pleasant and awesome. 
 
 #### So, what’s next?
 
