@@ -42,4 +42,9 @@ To Lucas, our super easy going supervisor who had a very positive attitude and p
 
 We have been assigned our first-choice conference GOTO and are looking forward to it :) !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0YMK4jJ3WRA" frameborder="0" allowfullscreen></iframe>
+## What's next
+
+We will both start as junior in different companies and will continue our coding journey. Here's an all-code-art-creation to not let the inspiration decay after the summer, cheers!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zeNszro5dQ8" frameborder="0" allowfullscreen></iframe>
+<div class="image-credits">live coding laptop band Benoît and the Mandelbrots with Visuals by cappel:nord</div>
