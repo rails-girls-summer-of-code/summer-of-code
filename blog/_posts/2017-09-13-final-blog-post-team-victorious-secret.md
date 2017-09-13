@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 
-![Team Victorious Secret](/img/blog/2017/team_victorious_secret1.jpeg)
+![Team Victorious Secret](/img/blog/2017/team_victorious_secret_1.jpeg)
 <div class="image-credits"><b>Picture Credits: Saumya</b></div>
 
 We just can’t believe that RGSoC is coming to an end. But every end, marks a new beginning. And we hope we will take our experiences forward by contributing to the wonderful communities that we were introduced to during our journey. 
