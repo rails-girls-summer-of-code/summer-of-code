@@ -23,7 +23,7 @@ Our project was based on creating plugins to let the admins back up the informat
 We didn't know how long it would take us to build one plugin. I thought we would have one or two at the end of the summer, but we ended up [enabling 4 possibilities](https://meta.discourse.org/t/new-plugins-for-backups/68018) as well as a base class plugin from which all of them inherit (Google Drive, Nextcloud - Jan from Nextcloud left a message in our repo suggesting it, we were super happy to get it and built it right away! - Box, and a new version of the existent backups to Dropbox by @falco). After this, our mentor @eviltrout found another cool task to give us: downloading these files directly from Discourse and send an email to the user when it's done, which we are on the way of building.
 
 ![Team berlindiamonds](/img/blog/2017/2017-09-12-berlindiamonds.png)
-<div class="image-credits">photo by Markus @ Absolventa</div>
+<div class="image-credits">Github screenshot</div>
 
 We've learnt so many things this summer!: inheritance, injecting code through class_eval and then through event listeners, git git git, a lot of interacting with APIs, the power of gems, how they're built, code structure, the "super" keyword, memoization, triggering Jobs, executing stuff in the console, debugging with puts, byebug, Rails.logger.debug, some testing, drawing routes from the outside, Ember basics... the importance of proper documentation!
 
