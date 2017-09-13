@@ -1,8 +1,8 @@
 ---
-title: “”
+title: “Final Blog- Team Victorious Secret”
 layout: post
-created_at: Tue Sept 12 2017
-permalink: blog/2017-09-06-final-blog-post-team-victorious-secret
+created_at: Wed Sept 13 2017
+permalink: blog/2017-09-13-final-blog-post-team-victorious-secret
 current: blog
 author: Katyayani Singh and Saumya Balodi
 twitter: VictoriuSecret
@@ -10,7 +10,8 @@ categories:
 - student-posts
 ---
 
-![Team Victorious Secret](/img/blog/2017/team_victorious_secret1.jpeg)<font color="grey"><small><i>Picture Credits: Saumya</i></small></font>
+![Team Victorious Secret](/img/blog/2017/team_victorious_secret1.jpeg)
+<div class="image-credits"><b>Picture Credits: Saumya</b></div>
 
 We just can’t believe that RGSoC is coming to an end. But every end, marks a new beginning. And we hope we will take our experiences forward by contributing to the wonderful communities that we were introduced to during our journey. 
 
@@ -25,7 +26,7 @@ RGSoC was mostly about unlearning what we knew, and building a new foundation fo
 * We finally started understanding how JavaScript actually works. It is one thing to be able to put together code to make something work, and it is another thing altogether to actually know exactly why it works. 
 * We were introduced to React. This was the most exciting bit of our summer. Working with something as popular and novel as React was an extraordinary experience.
 * We realized how designers and developers collaborate to build seamless user experiences. Working with the p5.js web editor made us aware of how much work goes into designing the user flow of an application even before the developers start coding. A lot of thinking and rethinking goes into user interactions and the response of the application. A shout out to the brilliant designers and developers of the web editor! Working with you, and learning from your work was truly amazing.
-* A tiny push in times of need can go a long way. Our mentor Cassie and our supervisor Pilar, have been our pillars of strength and support in this entire journey. It is thanks to their help, that we were able pull through testing times. 
+* A tiny push in times of need can go a long way. Our mentor Cassie and our supervisor Pilar, have been our pillars of strength and support in this entire journey. It is thanks to their help, that we were able to pull through testing times. 
 * Pair programming is tonnes of fun, and even more so when you do it with your best friend!
 * Tips and tricks about Git and Github.
 
