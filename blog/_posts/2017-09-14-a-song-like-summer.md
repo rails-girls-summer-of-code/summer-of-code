@@ -11,7 +11,7 @@ categories: student-posts
 
 ## **Spending a song-like summer!**
 
-Our summer is like a song, sometimes we don’t know the lyrics, but we still enjoy the song. 🎶😌 And then we sing the song till we are familiar with the lyrics. Just like that, we were struggling with some concepts but we enjoyed learning and using those concepts successfully. So let’s see how interesting it is so far..
+Our summer is like a song, sometimes we don’t know the lyrics, but we still enjoy the song. 🎶😌 And then we sing the song till we are familiar with the lyrics. Just like that, we were struggling with some concepts but we enjoyed learning and using those concepts in the best way possible. So let’s see how interesting it is so far..
 
 ## How challenging it is?
 
@@ -37,7 +37,7 @@ To overcome situations like above, we helped each other in our learning curve an
 This is our first Open Source project contribution and summer project. So we also had to learn the best practices of contributing to open source projects. 
 
 
-## Learning was our biggest Earning!
+## Learning was our biggest earning!
 
 At first, we were completely new to Git, since it was our very first summer project and we weren't familiar with most of the git concepts. So during the first two weeks, we learned a lot through tutorials and our coaching sessions. So here we are now, playing with Git like Bosses.. 😎
 
@@ -54,20 +54,20 @@ Since we were new to the world of ReactJs, we were struggling to figure out how 
 We got a lot of help from our coaches and our mentor to learn these new things very fast while getting the help from our supervisor to manage the project work. And they were always there when we got stuck with issues in our code or any other thing.
 
 
-* Our mentor, *[Milindu Kumarage](https://lk.linkedin.com/in/agentmilindu)*, Thank you, for your boundless patience with our work and for helping us when we were stuck with the development issues.
+* Our mentor, *[Milindu Kumarage](https://lk.linkedin.com/in/agentmilindu)*, Thank you, for your boundless patience with our work and for helping us when we were stuck with development issues.
 
 * Our supervisor,*[Ramón Huidobro](https://twitter.com/senorhuidobro?lang=en)*, Thank you, for being so flexible when we got problems with managing the time, for guiding us to do the right thing and for motivating us.
 
 * Our lead coach *[Kasun Delgolla](https://lk.linkedin.com/in/kasundananjaya)*, Remote Coach *[Tharindu Delgolla](https://lk.linkedin.com/in/tharindudananjaya)* , Coach *[Imran Hishaam](https://lk.linkedin.com/in/imranhishaam)* , Coach *[Udani Gunasena](https://lk.linkedin.com/in/udanie-gunasena-191b8730)* , Coach *[Anuradh Caldera](https://www.facebook.com/chanakanurad)* and Coach *[Damini Satya](https://github.com/daminisatya)* , thank you all for spending your valuable time, on those valuable coaching sessions and helping us to be better at our work, than we used to be.
 
-* And, of course, a big thank you to everyone from the **Rails Girls Summer of Code Team** who made our summer project a success! Because of you guys we had a great summer which was full of new experiences and awesome memories. 
+* And, of course, a big thank you to everyone from the **Rails Girls Summer of Code Team** who made our summer of code experience, a perfect one! Because of you guys we had a great summer which was full of new experiences and awesome memories. 
 
 ![Coaches](/img/blog/2017/2017-09-14-coaching-sessions.jpg )
 <div class="image-credits"><b>Our coaching sessions. (Image : Kalpani’s phone, Slack and Google hangouts)</b></div>
 
 ## Achievements so far..
 
-So far we've learned many new things about Git, ReactJS, React boilerplates, Redux-saga, Testing react components, API documentations, Swagger and etc. And the best thing is we've already been able to apply most of these concepts successfully. 
+So far we've learned many new things about Git, ReactJS, React boilerplates, Redux-saga, Testing react components, API documentations, Swagger and etc. And the best thing is, we've already been able to apply most of these concepts successfully. 
 
 We used Trello as a project management tool to manage our tasks while Git as a version control system. They made our work more organized. And so far we've developed three components called SearchView, TreeView and DetailView for our file browser and have got **two** of them **merged** already with the FileBrowser container! 😇🎉
 
