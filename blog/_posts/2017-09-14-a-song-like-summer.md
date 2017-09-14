@@ -70,9 +70,10 @@ We used Trello as a project management tool to manage our tasks while Git as a v
 
 So this is how our project work looks like at the moment.
 
-<div class="videoWrapper"><iframe src="https://player.vimeo.com/video/233787118?autoplay=1&color=ff0179" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div>
+<div class="videoWrapper">
+<iframe src="https://player.vimeo.com/video/233787118?autoplay=1&color=ff0179" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <div class="image-credits"><a href="https://vimeo.com/233787118">Team Fusion Project</a> from <a href="https://vimeo.com/user56833959">Janakshi Dulanga</a> on <a href="https://vimeo.com">Vimeo</a>. </div>
-
 
 
 ## Bonding with the Community
@@ -84,20 +85,19 @@ On our RGSoC day-off, after enjoying our little team time with Ice cream session
 ![Day-off](/img/blog/2017/2017-09-14-day-off.jpg )
 <div class="image-credits"><b>A well spent day-off. (Image : Meetup app and Kalpani’s phone)</b></div>
 
+
 ### Next comes the competitions and achievements,
 
 [__Jankashi :__](https://lk.linkedin.com/in/janakshidulanga)   
-Business, Law  Technology conference organized by APIIT -  Presented her work and won the best researcher award for the Technology track.
-19 th National best quality ICT awards 2017( NBQSA 2017) - Selected for the final round. And now waiting for the final results.
-
+* Presented her work at Business, Law  Technology conference organized by APIIT and won the best researcher award for the Technology track.
+* Selected for the final round of 19 th National best quality ICT awards 2017( NBQSA 2017). And now waiting for the final results.
 
 [__Kalpani :__](https://lk.linkedin.com/in/kalpani-bhagya-ranasinghe-256585110)
-SheCoderess v.1.0 -which was a hackathon organized by University of Uwa Wellassa, Sri Lanka. And her team won the first place.
-Hackx – Hackathon which seeks innovative ideas and organized by University of Kelaniya, Sri Lanka. Her team got selected to the final round.
-
+* SheCoderess v.1.0 which was a hackathon organized by University of Uwa Wellassa, Sri Lanka. And her team won the first place.
+* Hackx Hackathon which seeks innovative ideas and organized by University of Kelaniya, Sri Lanka. Her team got selected to the final round.
 
 **Both of us:**
-Hacktitude – Both of us participated for this competition. This is organized by 99x Technologies. Both of us got selected to the final round. 
+* Both of us participated for the Hacktitude competition. This is organized by 99x Technologies. Both of us got selected to the final round. 
 
 
 ## After this summer
@@ -108,7 +108,7 @@ So we think, we can do more after this summer. After RGSoC, we would love to con
 And we must mention about the Conferences! Because we are flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* . We are so excited!
 
 ![Nothing to worry](/img/blog/2017/2017-09-14-when-things-work.gif )
-<div class="image-credits"><b>When everything works fine... (Image : giphy.com)</b></div>
+<div class="image-credits"><b>When everything works fine.. (Image : giphy.com)</b></div>
 
 Last but not the least, we would like to say thanks to  everyone for supporting us throughout this journey. And **THANK YOU RGSoC** for giving us this awesome opportunity!
 
