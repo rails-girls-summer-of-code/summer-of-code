@@ -88,7 +88,7 @@ On our RGSoC day-off, after enjoying our little team time with Ice cream session
 
 ### Next comes the competitions and achievements,
 
-[__Jankashi :__](https://lk.linkedin.com/in/janakshidulanga)   
+[__Janakshi :__](https://lk.linkedin.com/in/janakshidulanga)   
 * Presented her work at Business, Law  Technology conference organized by APIIT and won the best researcher award for the Technology track.
 * Selected for the final round of 19 th National best quality ICT awards 2017( NBQSA 2017). And now waiting for the final results.
 
