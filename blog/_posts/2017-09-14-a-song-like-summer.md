@@ -11,7 +11,7 @@ categories: student-posts
 
 ## **Spending a song-like summer!**
 
-Our summer is like a song, sometimes we don’t know the lyrics, but we still enjoy the song. And then we sing the song till we are familiar with the lyrics. Just like that, we were struggling with some concepts but we enjoyed learning and using those concepts successfully. So let’s see how interesting it is so far..
+Our summer is like a song, sometimes we don’t know the lyrics, but we still enjoy the song. 🎶😌 And then we sing the song till we are familiar with the lyrics. Just like that, we were struggling with some concepts but we enjoyed learning and using those concepts successfully. So let’s see how interesting it is so far..
 
 ## How challenging it is?
 
@@ -21,7 +21,7 @@ So far, throughout the RGSoC journey, we’ve faced many challenges.
 
 **Finding coaches** – This was also not a problem since we first contact our coach Kasun, He helped to find other coaches who can helped us in different perspectives. Thank you Coach Kasun.
 
-**Time management** – Since one of us had to deal with the lectures and we participated in many events like competitions and conferences, together and as individuals apart from RGSOC. So we had to find time to cover those missing hours. Actually we had a great option for that. Working during weekends from home.  But that doesn’t mean we didn’t enjoy our weekend. Visiting your friend’s home during weekends, means, Fun!! It is very relaxing and we enjoying it a lot. And look what we had to deal with.. 
+**Time management** – Since one of us had to deal with the lectures and we participated in many events like competitions and conferences, together and as individuals apart from RGSOC. So we had to find time to cover those missing hours. Actually we had a great option for that. Working during weekends from home.  But that doesn’t mean we didn’t enjoy our weekend. Visiting your friend’s home during weekends, means, Fun!! It is very relaxing and we enjoying it a lot. And look what we had to deal with.. 😹
 
 ![Team Fusion Kitty](/img/blog/2017/2017-09-14-working-from-home.jpg)
 <div class="image-credits"><b>Working from home be like.. (Image : Janakshi’s Tab)</b></div>
@@ -36,7 +36,7 @@ To overcome situations like above, we helped each other in this learning curve a
 
 ## Learning was our biggest Earning!
 
-At first, we were completely new to Git, since it was our very first summer project and we weren't familiar with most of the git concepts. So during the first two weeks, we learned a lot through tutorials and our coaching sessions. So here we are now, playing with Git like Bosses.. 
+At first, we were completely new to Git, since it was our very first summer project and we weren't familiar with most of the git concepts. So during the first two weeks, we learned a lot through tutorials and our coaching sessions. So here we are now, playing with Git like Bosses.. 😎
 
 ![Like a Boss](/img/blog/2017/2017-09-14-like-a-boss.gif )
 <div class="image-credits"><b>The Git Bosses.. (Image : giphy.com)</b></div>
@@ -57,16 +57,16 @@ We got a lot of help from our coaches and our mentor to learn these new things v
 
 **Our lead coach Kasun Delgolla** , **Remote Coach Tharindu Delgolla** , **Coach Imran Hishaam** , **Coach Udanie Gunasena** , **Coach Anuradh Caldera** and **Coach Damini Satya** . Thank you all for spending your valuable time, on those valuable coaching sessions and helping us to be better than we used to be. And a special thanks goes to our coach Kasun for guiding us and checking our progress when needed.
 
-And, of course, a Big thank you to everyone at **Rails Girls Summer of Code** who made this summer possible! Because of you guys we had a great summer which was full of new experiences and awesome memories. 
+And, of course, a Big thank you to everyone at **Rails Girls Summer of Code Team** who made our summer project a success! Because of you guys we had a great summer which was full of new experiences and awesome memories. 
 
 ![Coaches](/img/blog/2017/2017-09-14-coaching-sessions.jpg )
 <div class="image-credits"><b>Our coaching sessions. (Image : Kalpani’s phone, Slack and Google hangouts)</b></div>
 
 ## Achievements so far..
 
-So far we've learned many new things about Git, ReactJS, React boilerplates, Redux-saga, Testing react components, API documentations, Swagger and etc. And the best thing is we've already been able to apply most of these concepts successfully.
+So far we've learned many new things about Git, ReactJS, React boilerplates, Redux-saga, Testing react components, API documentations, Swagger and etc. And the best thing is we've already been able to apply most of these concepts successfully. 
 
-We used Trello as a project management tool to manage our tasks while Git as a version control system. They made our work more organized. And so far we've developed three components called SearchView, TreeView and DetailView for our file browser and have got **two** of them **merged** already with the FileBrowser container!
+We used Trello as a project management tool to manage our tasks while Git as a version control system. They made our work more organized. And so far we've developed three components called SearchView, TreeView and DetailView for our file browser and have got **two** of them **merged** already with the FileBrowser container! 😇🎉
 
 So this is how our project work looks like at the moment.
 
@@ -80,7 +80,7 @@ So this is how our project work looks like at the moment.
 
 We use this summer as a great opportunity to network with the tech community in Sri Lanka. As the first step we participated Business, Law and Technology Conference 2017 – APIIT and Janakshi presented her final year research project and Awarded as the best research paper. 
 
-On our RGSoC day-off, after enjoying our little team time with Ice cream sessions, we participated in Colombo Javascript Meetup at  WSO2 Colombo and learned lots of new things about JSON Web Tokens, Securing NodeJS Rest APIs with JWT and about NodeJS Security. And it was our first Meetup! 
+On our RGSoC day-off, after enjoying our little team time with Ice cream sessions, we participated in Colombo Javascript Meetup at  WSO2 Colombo and learned lots of new things about JSON Web Tokens, Securing NodeJS Rest APIs with JWT and about NodeJS Security. And it was our first Meetup!🎉 
 
 ![Day-off](/img/blog/2017/2017-09-14-day-off.jpg )
 <div class="image-credits"><b>A well spent day-off. (Image : Meetup app and Kalpani’s phone)</b></div>
@@ -105,7 +105,7 @@ On our RGSoC day-off, after enjoying our little team time with Ice cream session
 Thanks to RGSoC, this summer is so far the best summer in our lives. And it has opened lots of doors for us. New opportunities, new friends, new way of thinking and etc. 
 So we think, we can do more after this summer. After RGSoC, we would love to continue our contributions to **OpenDF**. And we are even planning to participate in next year’s RGSoC. See how impressed are we from our first RGSoC experience? And we’ll be joining new meetups and giving our support to the tech community more and more by joining meetups, conferences, competitions and engaging in many more open source projects.
 
-And we must mention about the Conferences! Because we are flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* . We are so excited!
+And we must mention about the Conferences! Because we are flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* .🛫 We are so excited! 😁🎉
 
 ![Nothing to worry](/img/blog/2017/2017-09-14-when-things-work.gif )
 <div class="image-credits"><b>When everything works fine.. (Image : giphy.com)</b></div>
