@@ -105,7 +105,7 @@ On our RGSoC day-off, after enjoying our little team time with Ice cream session
 Thanks to RGSoC, this summer is so far the best summer in our lives. And it has opened lots of doors for us. New opportunities, new friends, new way of thinking and etc. 
 So we think, we can do more after this summer. After RGSoC, we would love to continue our contributions to **OpenDF**. And we are even planning to participate in next year’s RGSoC. See how impressed are we from our first RGSoC experience? And we’ll be joining new meetups and giving our support to the tech community more and more by joining meetups, conferences, competitions and engaging in many more open source projects.
 
-And we must mention about the Conferences! Because we are flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* .🛫 We are so excited! 😁🎉
+And we must mention about the Conferences! Because we will be flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* 🛫 and will be participating in *[DEV DAY 2017](http://www.devday.lk/ )* conference as well. We are so excited! 😁🎉
 
 ![Nothing to worry](/img/blog/2017/2017-09-14-when-things-work.gif )
 <div class="image-credits"><b>When everything works fine.. (Image : giphy.com)</b></div>
