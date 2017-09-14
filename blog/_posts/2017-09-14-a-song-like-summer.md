@@ -51,11 +51,11 @@ Since we were new to the world of ReactJs, we were struggling to figure out how 
 We got a lot of help from our coaches and our mentor to learn these new things very fast while getting the help from our supervisor to manage project work. And they were always there when we got stuck with some issues with our code or any other thing.
 
 
-**Our mentor, Milindu Kumarage**. Thank you, Mentor Milindu, for your boundless patience while we learned the technologies and unlimited helps given by you when we were stuck with PRs.
+Our mentor, *[Milindu Kumarage](https://lk.linkedin.com/in/agentmilindu)*, Thank you, Mentor Milindu, for your boundless patience while we learned the technologies and unlimited helps given by you when we were stuck with PRs.
 
-**Our supervisor, Ramon Huidobro**. Thank you so much Ramon, for being so flexible when we got problems with managing the time, for guiding us to do the right thing and for all of the motivations and advices.
+Our supervisor,*[Ramón Huidobro](https://twitter.com/senorhuidobro?lang=en)*, Thank you so much Ramon, for being so flexible when we got problems with managing the time, for guiding us to do the right thing and for all of the motivations and advices.
 
-**Our lead coach Kasun Delgolla** , **Remote Coach Tharindu Delgolla** , **Coach Imran Hishaam** , **Coach Udanie Gunasena** , **Coach Anuradh Caldera** and **Coach Damini Satya** . Thank you all for spending your valuable time, on those valuable coaching sessions and helping us to be better than we used to be. And a special thanks goes to our coach Kasun for guiding us and checking our progress when needed.
+Our lead coach *[Kasun Delgolla](https://lk.linkedin.com/in/kasundananjaya)*, Remote Coach *[Tharindu Delgolla](https://lk.linkedin.com/in/tharindudananjaya)* , Coach *[Imran Hishaam](https://lk.linkedin.com/in/imranhishaam)* , Coach *[Udani Gunasena](https://lk.linkedin.com/in/udanie-gunasena-191b8730)* , Coach *[Anuradh Caldera](https://www.facebook.com/chanakanurad)* and Coach *[Damini Satya](https://github.com/daminisatya)* . Thank you all for spending your valuable time, on those valuable coaching sessions and helping us to be better than we used to be. And a special thanks goes to our coach Kasun for guiding us and checking our progress when needed.
 
 And, of course, a Big thank you to everyone at **Rails Girls Summer of Code Team** who made our summer project a success! Because of you guys we had a great summer which was full of new experiences and awesome memories. 
 
