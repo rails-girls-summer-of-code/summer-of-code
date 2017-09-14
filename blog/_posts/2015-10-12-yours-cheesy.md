@@ -22,14 +22,15 @@ Our project was to change all of the RGSoC participants lives… aka working on 
 * We left our cheesy mark on the FFaker seeds:
 
 <img src="/img/blog/2015/yours-cheesy-ffaker.png" alt="Oh yeah, cheesy lingo FFaker seeds.">
-<font color="grey"><small><i>Oh yeah, cheesy lingo FFaker seeds.</i></small></font>
+<div class="image-credits"> Oh yeah, cheesy lingo FFaker seeds. </div>
 
 ###Master proof: Supervisor Dashboard
 And let’s not forget about the milestone of milestones… creating a supervisor dashboard!
 Under a namespace dedicated to supervisors, there is a brand new supervisor dashboard to enable them to better monitor their teams. This is how it was and how it looks now:
 
 <img src="/img/blog/2015/yours-cheesy-beforeafter.jpg" alt="Quite the make-over." width="600">
-<font color="grey"><small><i>Quite the make-over, don't you think?</i></small></font>
+<div class="image-credits"> Quite the make-over, don't you think? </div>
+
 
 Look at all the shiny features. They can make notes, check upon their team, send a message to the organisation, read the latest status update of the students and see if they need some TLC, and that all at first glance. We sure hope the supervisors were as content as we were with creating this :)
 
@@ -43,7 +44,8 @@ But we survived and thrived! The third month we worked on the supervisor dashboa
 And we could not have done this without our team of superb coaches, who knew everything from front- to back-end, from Git to Slim back to Javascript and of course Rails. Thank you for your time and dedication:
 
 <img src="/img/blog/2015/yours-cheesy-screenhero.png" alt="Wanna be my screenhero?">
-<font color="grey"><small><i>Wanna be my screenhero?</i></small></font>
+<div class="image-credits"> Wanna be my screenhero? </div>
+
 
 * André Medeiros
 * Thijs Cadier
@@ -57,7 +59,8 @@ You have no idea how much we appreciate what you did for us. Thank you for your 
 Thanks Carsten Zimmerman for being the best and most generous mentor one could wish for. Your instructive code reviews took both our code and our understanding to a higher level.
 
 <img src="/img/blog/2015/yours-cheesy-stats.png" alt="We earned some decent GitHub credibility :)" width="600">
-<font color="grey"><small><i>We earned some decent GitHub credibility :)</i></small></font>
+<div class="image-credits"> We earned some decent GitHub credibility :) </div>
+
 
 Thanks also to Laura, who made herself  available for reviewing and merging our many front-end pull requests - and being enthusiastic about it as well. And of course thanks to supervisors Lieke, who was able to fix two extra coaches on a crucial moment - thanks for your support, and Alexandra, who left a lasting impression on us with just two Skype sessions.
 
@@ -70,4 +73,4 @@ Yours cheesy,
 Maud & Roos
 
 <img src="/img/blog/2015/yours-cheesy-finissage.jpg" alt="Didn't we get amazingly attractive during the summer?" width="600">
-<font color="grey"><small><i>Thanks everybody!</i></small></font>
+<div class="image-credits"> Thanks everybody!</div>

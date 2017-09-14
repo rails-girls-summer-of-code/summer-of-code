@@ -276,12 +276,12 @@
       id: heroku
       url: https://heroku.com
       text: |-
-       <a href="https://heroku.com">Heroku</a>, a Salesforce company and industry pioneer 
-       in platform as a service (PaaS), enables developers to build and run applications 
-       entirely in the cloud, without the need to purchase or maintain any servers or software. 
-       With Heroku you can focus on your app, not your infrastructure. Salesforce supports RGSoC 
-       because we strongly believe in empowering, supporting, and investing in the open source 
-       community for women.
+       <a href="https://heroku.com">Heroku</a>, a Salesforce company and industry pioneer in platform
+        as a service (PaaS), enables developers to build and run applications entirely in the cloud, 
+        without the need to purchase or maintain any servers or software. 
+        With Heroku you can focus on your app, not your infrastructure. 
+        As a long time supporter of the Ruby on Rails community, Heroku is a proud sponsor of Rails Girls Summer of Code, 
+        as we believe in empowering students and giving them the tools and resources they need to be successful in their respective communities.
       years:
         - 2017
     - name: Articulate

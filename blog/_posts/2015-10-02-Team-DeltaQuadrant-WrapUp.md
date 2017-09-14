@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 ![](/img/blog/2015/delta-quadrant-wrapup-janeway.jpg)
-<font color="grey"><small><i>(Image: <a href="http://mistresscara1000.tumblr.com/post/61292922924/our-favourite-captains-expressions-can-sum-up-any" target="_blank">Tumblr</a>)</i></small></font>
+<div align="center" class="image-credits"> (Image: <a href="http://mistresscara1000.tumblr.com/post/61292922924/our-favourite-captains-expressions-can-sum-up-any" target="_blank">Tumblr</a>) </div>
 
 Summer of Code was amazing. Not only in terms of what we learned but also in the amount of support we got from our amazing coaches, the diaspora maintainers, our hosting company, our mentor, our supervisor and the whole RGSoC orga team!
 
@@ -28,10 +28,10 @@ For our most complex issue, the implementation of a map to show geo-location dat
 <div class="videoWrapper">
 <iframe src="https://player.vimeo.com/video/140902101?color=ff0179"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 </div>
-<p><a href="https://vimeo.com/140902101">Diaspora* Map Demo</a> from <a href="https://vimeo.com/user42699530">Julia</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="image-credits"> <a href="https://vimeo.com/140902101">Diaspora* Map Demo</a> from <a href="https://vimeo.com/user42699530">Julia</a> on <a href="https://vimeo.com">Vimeo</a>. </div>
 
 
-###5 tips from our side:
+### 5 tips from our side:
 
 - If you want to get used to **test-driven development (TDD)** and like playing, try out a TDD approach to implement Conway’s Game of Life through [this tutorial](https://www.youtube.com/watch?v=iLXO2FLPulI). Attention: this tutorial uses the old RSpec Syntax - we translated it to [the new one](https://github.com/TeamDeltaQuadrant/game_of_life).  
 
@@ -48,6 +48,6 @@ For our most complex issue, the implementation of a map to show geo-location dat
 
 
 ![To the Future!](/img/blog/2015/delta-quadrant-wrapup-tothefuture.gif)
-<font color="grey"><small><i>(Image: <a href="http://i-amarobot.tumblr.com/post/117556937146" target="_blank">Tumblr</a>)</i></small></font>
+<div class="image-credits"> (Image: <a href="http://i-amarobot.tumblr.com/post/117556937146" target="_blank">Tumblr</a>) </div>
 
 **Start using [Diaspora*](https://podupti.me/) & connect with [Julia](https://wk3.org/u/anderspree) and [Maren](https://wk3.org/u/zaziemo).**

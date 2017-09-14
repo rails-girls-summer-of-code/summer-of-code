@@ -12,7 +12,7 @@ categories:
 
 
 <img src="/img/blog/2015/Introducing-Team-Hackrgirls.jpg" alt="Team Hackrgirls">
-<br><font color="grey"><small><i>(Image: Team Hackrgirls)</i></small></font> 
+<div class="image-credits">(Image: Team Hackrgirls) </div>
 <br><br>
 
 Who are we?

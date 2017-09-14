@@ -15,7 +15,7 @@ categories:
 Strange Loop took place in St. Louis, Missouri. The same county where Ferguson is located. The conference, like the attendees themselves, were anything but conventional. I heard more than a few attendees who described it as a conference with equal amounts of heart and brain. So what makes it so that a conference has head and heart? Speakers who talk about society and about how software affects society – some talked about inclusion, the technical divide, what it means to be a person of color in tech and what we can do about it, and also about cognitive biases. The lightning talks and sessions at Strange Loop were plentiful; by plentiful I mean there was a total of 20 workshops to choose from the day before the conference began, and then there was a total of 36 talks over two days plus 12 evening un-sessions on Friday after day one of the conference. Strange Loop has a wide range of talks, many of them had a inter-disciplinary vibe to them. As an attendee you get exposed to a lot of different languages and techniques.
 
 <img src="/img/blog/2015/CG_SL_preparty.JPG" alt="Team CocoaGems">
-<br><font color="grey"><small><i> The pre-party was held at the City Museum. (Photo: CocoaGems)</i></small></font>
+<div class="image-credits">The pre-party was held at the City Museum. (Photo: CocoaGems)</div>
 
 ## Take Aways
 
@@ -23,10 +23,10 @@ A main take away from Strange Loop was the great value of connecting computer sc
 [Amy Wibowo's](http://www.thestrangeloop.com/2015/sweaters-as-a-service.html) talk was about how she and a group of Airbnb engineers hacked a knitting machine to be computer-controlled so that it could print images in yarn. She and her team learned a great deal of electronics using the problem-solving skills that computer science requires in an engineering day job; by applying these skills to a hobby project, they experienced the joy of being new to something as well as getting yarn print outs.
 
 <img src="/img/blog/2015/CG_SL_chemical.JPG" alt="Team CocoaGems">
-<br><font color="grey"><small><i> Carin Meier talks about Chemical Computing. (Photo: CocoaGems)</i></small></font>
+<div class="image-credits"> Carin Meier talks about Chemical Computing. (Photo: CocoaGems)</div>
 
 <img src="/img/blog/2015/CG_SL_knitting.JPG" alt="Team CocoaGems">
-<br><font color="grey"><small><i> Amy Wibowo shows the yarn print out from the hacked knitting machine. (Photo: CocoaGems)</i></small></font>
+<div class="image-credits">Amy Wibowo shows the yarn print out from the hacked knitting machine. (Photo: CocoaGems)</div>
 
 ## Favorite Talks
 
@@ -36,7 +36,7 @@ Sam Aaron, and *No, Really... Robots and JavaScript?!* by Raquel Vélez. Morgan 
 [Sam Aaron](http://www.thestrangeloop.com/2015/beating-threads---live-coding-with-real-time.html) talked about his invention Sonic Pi which allows him and many more to create music with code live in real time. He created Sonic Pi to teach kids about programming, but the program is really for anyone. We were so inspired that we immediately downloaded it and played with it the same night.
 
 <img src="/img/blog/2015/CG_SL_SonicPi.JPG" alt="Team CocoaGems">
-<br><font color="grey"><small><i> Sam Aaron talks about Sonic Pi. (Photo: CocoaGems)</i></small></font>
+<div class="image-credits"> Sam Aaron talks about Sonic Pi. (Photo: CocoaGems)</div>
 
 <img src="/img/blog/2015/CG_SL_SonicPiPlay.JPG" alt="Team CocoaGems">
-<br><font color="grey"><small><i> A group of us playing with Sonic Pi. (Photo: CocoaGems)</i></small></font>
+<div class="image-credits"> A group of us playing with Sonic Pi. (Photo: CocoaGems)</div>
