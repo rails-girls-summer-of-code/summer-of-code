@@ -64,7 +64,7 @@ We’re happy and proud of our work this summer, and we feel more confident in p
 ## Conracts
 * [__Team__](https://twitter.com/linguistsare)
 * Sasha ([__melanoya__](https://github.com/melanoya))
-* Sasha ([__religofsil__][religofsil](https://github.com/religofsil))
+* Sasha ([__religofsil__](https://github.com/religofsil))
 * [__Kate__](https://github.com/Sereni)
 * [__Ildar__](https://github.com/theotheo)
 * [__Raham__](https://twitter.com/RahamRaf)
