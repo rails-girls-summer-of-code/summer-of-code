@@ -27,8 +27,8 @@ We didn't know how long it would take us to build one plugin. I thought we would
 
 We've learnt so many things this summer: inheritance, injecting code through class_eval and then through event listeners, git git git, a lot of interaction with APIs, the power of gems, how they're built, code structure, the "super" keyword, memoization, triggering Jobs, executing stuff in the console, debugging with puts, byebug, Rails.logger.debug, some testing, drawing routes from the outside, Ember basics and the importance of proper documentation!
 
-![Team berlindiamonds](/img/blog/2017/2017-09-15-berlindiamonds.jpg)
-<div class="image-credits">Absolventa</div>
+![Team berlindiamonds](/img/blog/2017-09-15-berlindiamonds-w-markus.JPG)
+<div class="image-credits">Absolventa - Kaja, Markus and Jen</div>
 
 We also participated in a RG beginners workshop in August, Kaja is part of the organization and proposed me to coach. It was a great feeling to see so many women (around 40) curious to code and many coaches happy to share their skills.
 
