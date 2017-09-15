@@ -28,7 +28,9 @@ Like two Alices in diasporaland, with every issue we embark on an ongoing quest 
 
 Apart from the familiar models, controllers and views, we have encountered, and thereby learned about, lots of other types of files: mailers, presenters, helpers, services, workers, templates, javascript files, specs, factories and more.  
 <div style="text-align:center"><img src ="/img/blog/2017/2017-09-18-codebears1.gif" style="width: 350px;" /></div>   
+
 <div class="image-credits">Gif by [Cineaste](http://cinematografo.tumblr.com/)</div>
+
 
 #### Tutorials, Tutorials, Tutorials
 
@@ -40,7 +42,7 @@ Connecting theory and practice always resulted in a big confusion. Things on dia
 
 The most common sentence called out loud during this summer, by students and coaches alike, while looking at the code is: "This is weird".      
 <div style="text-align:center"><img src ="/img/blog/2017/2017-09-18-codebears2.gif" /></div>  
-<div class="image-credits">Gif source- [GIPHY] (https://giphy.com/gifs/dog-what-confused-h2JpSEKZRbYtO?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)</div>
+<div class="image-credits">Gif source [GIPHY](https://giphy.com/gifs/dog-what-confused-h2JpSEKZRbYtO?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)</div>
 
 #### Play with the code
 
