@@ -10,8 +10,6 @@ categories:
 - student-posts
 ---
 
-# A story of an issue
-
 **No matter if the issue is big or small, complicated or simple, a bug or a feature - in our Summer of Code the issues have a similar cycle. Team "Code Bears" has some important lessons to share after two and a half months of working on [diaspora\*](https://diasporafoundation.org/).**
 
 #### Pick out the issue
@@ -29,24 +27,26 @@ Diaspora\* has a very active community and we had to find out for each issue we 
 Like two Alices in diasporaland, with every issue we embark on an ongoing quest through the intricate and entangled maze called the diaspora source code. It is not your typical MVC app (if that even really exists). Finding the related files to the issue and trying to understand the relationship between them is no less than a superpower one needs to develop.
 
 Apart from the familiar models, controllers and views, we have encountered, and thereby learned about, lots of other types of files: mailers, presenters, helpers, services, workers, templates, javascript files, specs, factories and more.  
-<div style="text-align:center"><img src ="img/blog/2017/2017-09-18-codebears1.gif" style="width: 350px;" /></div>
+<div style="text-align:center"><img src ="/img/blog/2017/2017-09-18-codebears1.gif" style="width: 350px;" /></div>   
+<div class="image-credits">Gif by [Cineaste](http://cinematografo.tumblr.com/)</div>
 
 #### Tutorials, Tutorials, Tutorials
 
-In order to understand all the new terms we learn, we spend quite a lot of time watching and reading tutorials (We find [Lynda[](https://www.lynda.com/), among others, to be an excellent source for beginners tutorials). Overwhelmed by all this new theory, our coaches are very helpful with mediating and explaining new and complicated concepts.
+In order to understand all the new terms we learn, we spend quite a lot of time watching and reading tutorials (We find [Lynda](https://www.lynda.com/), among others, to be an excellent source for beginners tutorials). Overwhelmed by all this new theory, our coaches are very helpful with mediating and explaining new and complicated concepts.
 
 #### Get confused
 
-Connecting theory and practice always, but always, resulted in a big confusion. Things on diaspora almost never work according to theory. We think we figured out where we need to add code, it fails, the error raises some filename we don't know, which leads us to go back to our diasporaland quest, where we don't understand the code, or we find a bunch of new terms, or we can't figure out why this file even exists, and so on.
+Connecting theory and practice always resulted in a big confusion. Things on diaspora almost never work according to theory. At first we have an idea of which code to change, which turns out to be wrong and raises an error in some file we don't know about. This, in turn, leads us back to our diasporaland quest, where we don't understand the code, or we find a bunch of new terms, or we can't figure out why this file even exists, and so on.
 
 The most common sentence called out loud during this summer, by students and coaches alike, while looking at the code is: "This is weird".      
-<div style="text-align:center"><img src ="img/blog/2017/2017-09-18-codebears2.gif" /></div>
+<div style="text-align:center"><img src ="/img/blog/2017/2017-09-18-codebears2.gif" /></div>  
+<div class="image-credits">Gif source- [GIPHY] (https://giphy.com/gifs/dog-what-confused-h2JpSEKZRbYtO?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)</div>
 
 #### Play with the code
 
-Puzzled, with no other choice, we play with the code and see what happens. After realizing we can't really ruin anything as long as we work on our local branch, anything goes.
+Puzzled, with no other choice, we play with the code and see what happens. It became easier to experiment, once we realized we can't really ruin anything, as long as we work on our local branch.
 
-This trial and error process, combined with a pinch of the theoretical understanding we acquire and alongside coaching sessions, leads us to write code in one file, change code in another, delete code in a third file and refactor code in a fourth one. We made a habbit out of checking things in the terminal, rails console and the browser console, inspecting the page and using a debugger.
+This trial and error process, combined with a pinch of the theoretical understanding we acquire and alongside coaching sessions, leads us to write code in one file, change code in another, delete code in a third file and refactor code in a fourth one. We made a habit out of checking things in the terminal, rails console and the browser console, inspecting the page and using a debugger.
 
 This is usually when we make our progress with the issue: typing on our keyboards, while feeling clueless, but seeing stuff happening on our screen - BEST. FEELING. EVER! We are quite sure that after the summer the other engineers in our workspace will really miss the squeaking sounds we make when we get something to work.     
 
@@ -55,7 +55,8 @@ This is usually when we make our progress with the issue: typing on our keyboard
 When we think our code is ready, it's time to open the PR and break out in our git dance. We have a kind of a complicated git setup, with two remote repositories and two local ones, as well as git-flow which requires re-basing and squashing commits. It took us a while to understand what we are doing and dare to push code by ourselves. Common mishaps include, but not limited to, `git reset --hard`, mysterious branch diversions, merge conflicts and the occasional "mind f***" moment. It was hard to keep our `HEAD` in the right place.
 
 Therefore, during the first half of SoC, we had a very helpful weekly git session with one of the coaches. Although we still sometime struggle with git, we now have our own git dance and can handle it quite independently.
-<div style="text-align:center"><img src ="img/blog/2017/2017-09-18-codebears3.png" style="width: 250px;" /></div>
+<div style="text-align:center"><img src ="/img/blog/2017/2017-09-18-codebears3.png" style="width: 250px;" /></div>  
+<div class="image-credits">Image by [@missinformed](https://github.com/git-dance/mactech2016)</div>
 
 #### Code review
 
@@ -95,6 +96,7 @@ This amazing summer would not be amazing without our team and the help of other 
 * Other coaches: **Alon, Andrey, Liron** and **Remi** for helping on specific topics and substituting for coaches on vacation.  
 * Our supervisor: **Fanny**, thank you for caring for our well-being throughout the summer and always being there for questions.
 * Our mentor: **Lisa**, thanks for your availability for questions and tips about diaspora\*.
-* Diaspora community: Thank you for being so responsive and helpful, and for keeping such a pleasant communication with your contributers. Special thanks for members who reviewed patiently and commented on our code- **@Flaburgan, @SuperTux88** and **@svbergerem**.
+* Diaspora community: Thank you for being so responsive and helpful, and for keeping such a pleasant communication with your contributers. Special thanks for members who reviewed patiently and commented on our code- **Flaburgan, SuperTux88** and **svbergerem**.
 * Our coaching company: thank you **SoundCloud** for hosting us and suppling us with a brilliant learning and working atmosphere, as well as amazing coffee.    
-<div style="text-align:center"><img src ="img/blog/2017/2017-09-18-codebears4.png" /></div>
+<div style="text-align:center"><img src ="/img/blog/2017/2017-09-18-codebears4.png" /></div>  
+<div class="image-credits">Image by [MyCuteGraphics](http://www.mycutegraphics.com/)</div>
