@@ -49,22 +49,6 @@ We were selected for the project *[OpenDF](https://github.com/scorelab/OpenDF)* 
 Since we were new to the world of ReactJs, we were struggling to figure out how React works, how to work with react boilerplates, how to test react components, what Redux-saga is and etc. So we learned about each of them while working. And we still do. Thanks to our study hours, our mentor and our coaches, now we can work with react components and understand how it works. From each tutorial, each code reviewing session, each coaching session and from each demo session we learned something new and we could improve our work. 
 
 
-## Helping hands
-
-We got a lot of help from our coaches and our mentor to learn these new things very fast while getting the help from our supervisor to manage the project work. And they were always there when we got stuck with issues in our code or any other thing.
-
-
-* Our mentor, *[Milindu Kumarage](https://lk.linkedin.com/in/agentmilindu)*, Thank you, for your boundless patience with our work and for helping us when we were stuck with development issues.
-
-* Our supervisor,*[Ramón Huidobro](https://twitter.com/senorhuidobro?lang=en)*, Thank you, for being so flexible when we got problems with managing the time, for guiding us to do the right thing and for motivating us.
-
-* Our lead coach *[Kasun Delgolla](https://lk.linkedin.com/in/kasundananjaya)*, Remote Coach *[Tharindu Delgolla](https://lk.linkedin.com/in/tharindudananjaya)* , Coach *[Imran Hishaam](https://lk.linkedin.com/in/imranhishaam)* , Coach *[Udani Gunasena](https://lk.linkedin.com/in/udanie-gunasena-191b8730)* , Coach *[Anuradh Caldera](https://www.facebook.com/chanakanurad)* and Coach *[Damini Satya](https://github.com/daminisatya)* , thank you all for spending your valuable time, on those valuable coaching sessions and helping us to be better at our work, than we used to be.
-
-* And, of course, a big thank you to everyone from the **Rails Girls Summer of Code Team** who made our summer of code experience, a perfect one! Because of you guys we had a great summer which was full of new experiences and awesome memories. 
-
-![Coaches](/img/blog/2017/2017-09-14-coaching-sessions.jpg )
-<div class="image-credits"><b>Our coaching sessions. (Image : Kalpani’s phone, Slack and Google hangouts)</b></div>
-
 ## Achievements so far..
 
 So far we've learned many new things about Git, ReactJS, React boilerplates, Redux-saga, Testing react components, API documentations, Swagger and etc. And the best thing is, we've already been able to apply most of these concepts successfully. 
@@ -103,13 +87,31 @@ On our RGSoC day-off, after enjoying our little team time with ice cream session
 * Both of us participated in the Hacktitude competition. This was organized by 99x Technologies. The best thing is, both of us got selected to the final round too. 😇 
 
 
+## Helping hands
+
+We got a lot of help from our coaches and our mentor to learn these new things very fast while getting the help from our supervisor to manage the project work. And they were always there when we got stuck with issues in our code or any other thing.
+
+
+* Our mentor, *[Milindu Kumarage](https://lk.linkedin.com/in/agentmilindu)*, Thank you, for your boundless patience with our work and for helping us when we were stuck with development issues.
+
+* Our supervisor,*[Ramón Huidobro](https://twitter.com/senorhuidobro?lang=en)*, Thank you, for being so flexible when we got problems with managing the time, for guiding us to do the right thing and for motivating us.
+
+* Our lead coach *[Kasun Delgolla](https://lk.linkedin.com/in/kasundananjaya)*, Remote Coach *[Tharindu Delgolla](https://lk.linkedin.com/in/tharindudananjaya)* , Coach *[Imran Hishaam](https://lk.linkedin.com/in/imranhishaam)* , Coach *[Udani Gunasena](https://lk.linkedin.com/in/udanie-gunasena-191b8730)* , Coach *[Anuradh Caldera](https://www.facebook.com/chanakanurad)* and Coach *[Damini Satya](https://github.com/daminisatya)* , thank you all for spending your valuable time, on those valuable coaching sessions and helping us to be better at our work, than we used to be.
+
+* And, of course, a big thank you to everyone from the **Rails Girls Summer of Code Team** who made our summer of code experience, a perfect one! Because of you guys we had a great summer which was full of new experiences and awesome memories. 
+
+![Coaches](/img/blog/2017/2017-09-14-coaching-sessions.jpg )
+<div class="image-credits"><b>Our coaching sessions. (Image : Kalpani’s phone, Slack and Google hangouts)</b></div>
+
+
+
 ## After this summer
 
 Thanks to RGSoC, this summer is so far the best summer in our lives. And it has opened doors for, new opportunities, new friends, new way of thinking and etc. 
 
 We believe, we can do more after this summer. After RGSoC, we would love to continue our contributions to **OpenDF**. And we are even planning to participate in next year’s RGSoC. See how impressed are we from our first RGSoC experience? 😌 And we’ll be giving our support to the tech community more and more in the future, by joining meetups, conferences, competitions and engaging in many more open source projects.
 
-And we must mention about the Conferences! Because we will be flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* 🛫🇦🇺 and will be participating in *[DEV DAY 2017](http://www.devday.lk/ )* conference 🇱🇰 as well. We are so excited! 😁🎉
+And we must mention about the Conferences! Because we will be flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* 🛫🇦🇺 and will be participating in *[DEV DAY 2017](http://www.devday.lk/ )* 🇱🇰 conference as well. We are so excited! 😁🎉
 
 ![Nothing to worry](/img/blog/2017/2017-09-14-when-things-work.gif )
 <div class="image-credits"><b>When everything works fine.. (Image : giphy.com)</b></div>
