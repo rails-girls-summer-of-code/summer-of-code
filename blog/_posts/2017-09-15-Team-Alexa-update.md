@@ -5,6 +5,7 @@ created_at: Thu September 15 2017
 permalink: blog/2017-09-15-the-end-of-sasha&sasha's-journey
 current: blog
 author: Sasha & Sasha
+twitter: linguistsare
 categories:
 - student-posts
 ---
