@@ -69,7 +69,7 @@ We got a lot of help from our coaches and our mentor to learn these new things v
 
 So far we've learned many new things about Git, ReactJS, React boilerplates, Redux-saga, Testing react components, API documentations, Swagger and etc. And the best thing is, we've already been able to apply most of these concepts successfully. 
 
-We used Trello as a project management tool to manage our tasks while Git as a version control system. They made our work more organized. And so far we've developed three components called SearchView, TreeView and DetailView for our file browser and have got **two** of them **merged** already with the FileBrowser container! 😇🎉
+We used Trello as a project management tool to manage our tasks while Git as a version control system. And we must mention our cool daily logs 😎. There are 55 *[daily logs](https://teams.railsgirlssummerofcode.org/?kind=&team_id=413)* already! 📝✅ They made our work more organized. And so far we've developed three react components called SearchView, TreeView and DetailView for our file browser and have got **two** of them **merged** already with the FileBrowser container! 😇🎉
 
 So this is how our project work looks like, at the moment.
 
@@ -81,9 +81,9 @@ So this is how our project work looks like, at the moment.
 
 ## Bonding with the Community
 
-We used this summer as a great opportunity to network with the tech community in Sri Lanka. As the first step we participated in Business, Law and Technology Conference 2017 – APIIT. And there, Janakshi presented her final year research project and awarded as the best research paper. 
+We used this summer as a great opportunity to network with the tech community in Sri Lanka. As the first step we participated in Business, Law and Technology Conference 2017 – APIIT. And there, Janakshi presented her final year project and was awarded too. 
 
-On our RGSoC day-off, after enjoying our little team time with Ice cream sessions, we participated in Colombo Javascript Meetup at  WSO2 Colombo and learned lots of new things about JSON Web Tokens, Securing NodeJS Rest APIs with JWT and about NodeJS Security. And it was our first Meetup!🎉 
+On our RGSoC day-off, after enjoying our little team time with ice cream sessions, we participated in Colombo Javascript Meetup at  WSO2 Colombo and learned lots of new things about JSON Web Tokens, Securing NodeJS Rest APIs with JWT and about NodeJS Security. And it was our first Meetup!🎉 
 
 ![Day-off](/img/blog/2017/2017-09-14-day-off.jpg )
 <div class="image-credits"><b>A well spent day-off. (Image : Meetup app and Kalpani’s phone)</b></div>
@@ -109,7 +109,7 @@ Thanks to RGSoC, this summer is so far the best summer in our lives. And it has 
 
 We believe, we can do more after this summer. After RGSoC, we would love to continue our contributions to **OpenDF**. And we are even planning to participate in next year’s RGSoC. See how impressed are we from our first RGSoC experience? 😌 And we’ll be giving our support to the tech community more and more in the future, by joining meetups, conferences, competitions and engaging in many more open source projects.
 
-And we must mention about the Conferences! Because we will be flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* 🛫 and will be participating in *[DEV DAY 2017](http://www.devday.lk/ )* conference as well. We are so excited! 😁🎉
+And we must mention about the Conferences! Because we will be flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* 🛫🇦🇺 and will be participating in *[DEV DAY 2017](http://www.devday.lk/ )* conference 🇱🇰 as well. We are so excited! 😁🎉
 
 ![Nothing to worry](/img/blog/2017/2017-09-14-when-things-work.gif )
 <div class="image-credits"><b>When everything works fine.. (Image : giphy.com)</b></div>
