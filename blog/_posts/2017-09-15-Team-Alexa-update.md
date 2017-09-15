@@ -61,7 +61,7 @@ We still have a lot things and features on the site to do, so we would like to c
 We’re happy and proud of our work this summer, and we feel more confident in programming world now. We’re both convinced coding will be the right career choice for us, and we’re thankful for the opportunity to prove ourselves as coders.
 
 
-## Conracts
+## Contacts
 * [__Team__](https://twitter.com/linguistsare)
 * Sasha ([__melanoya__](https://github.com/melanoya))
 * Sasha ([__religofsil__](https://github.com/religofsil))
