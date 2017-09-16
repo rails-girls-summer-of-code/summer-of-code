@@ -1,0 +1,23 @@
+- name: JSFoo
+  id: jsfoo
+  url: https://jsfoo.in/2017/
+
+- name: GOTO Copenhagen
+  id: gotocph
+  url: https://gotocph.com/
+
+- name: GOTO Berlin
+  id: gotoberlin
+  url: https://gotober.com/
+
+- name: dotConferences
+  id: dotconferences
+  url: https://www.dotconferences.com/
+
+- name: RubyConf India
+  id: rubyconfin
+  url: http://rubyconfindia.org/
+
+- name: RubyConf Australia
+  id: rubyconfau
+  url: https://rubyconf.org.au/2018
