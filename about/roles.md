@@ -105,17 +105,6 @@ the roles, doing up the play bills.
 
 Remote Coaches are available for help in a central, public chatroom.
 
-<h3 id="speaker_coach">Speaker Coach</h3>
-
-If you participate in Rails Girls Summer of Code you'll be asked to give a
-lightning talk at a conference (we'll be able to provide some free conference
-tickets, sometimes even full scholarships), at a Rails Girls workshop or your
-local developers meetup.
-
-For this we can put you in touch with experienced conference speakers who
-will review and work with you on your slides, and ideally can meet with you
-to practice your talk with you.
-
 <h3 id="supervisor">Supervisor</h3>
 
 Every team will be assigned a supervisor. Supervisors touch base with their
