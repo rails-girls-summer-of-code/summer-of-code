@@ -84,7 +84,7 @@ Should a coach not be available to help with an issue, students can also reach
 out to remote coaches (see below). Coaches can also be mentors, which is
 explained below.
 
-<h3 id="mentor">Mentor</h3>
+<h3 id="mentor">Mentor / Project Maintainer</h3>
 
 Mentors are experts on the Open Source project the team is working on. Ideally
 they are decision makers, or work closely with decision makers, so they can set
