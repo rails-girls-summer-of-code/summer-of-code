@@ -11,7 +11,7 @@ categories: student-posts
 
 ## **Spending a song-like summer!**
 
-Our summer is like a song, sometimes we don’t know the lyrics, but we still enjoy the song. 🎶😌 And then we sing the song till we are familiar with the lyrics. Just like that, we were struggling with some concepts but we enjoyed learning and using those concepts in the best way possible. So let’s see how interesting it is so far..
+Our summer is like a song, sometimes we don’t know the lyrics, but we still enjoy the song. 🎶😌 And then we sing the song till we are familiar with the lyrics. Just like that, we were struggling with some concepts but we enjoyed learning and using those concepts in the best way possible. So let’s see how interesting our summer song is so far..
 
 ## How challenging it is?
 
@@ -39,7 +39,7 @@ This is our first Open Source project contribution and summer project. So we als
 
 ## Learning was our biggest earning!
 
-At first, we were completely new to Git, since it was our very first summer project and we weren't familiar with most of the git concepts. So during the first two weeks, we learned a lot through tutorials and our coaching sessions. So here we are now, playing with Git like Bosses.. 😎
+At first, we were completely new to Git, since it was our very first summer project and we weren't familiar with most of the git concepts. So during the first two weeks, we learned a lot through tutorials and our coaching sessions. So here we are now, playing with Git in style.. 😎
 
 ![Like a Boss](/img/blog/2017/2017-09-19-like-a-boss.gif )
 <div class="image-credits"><b>The Git Bosses.. (Image : giphy.com)</b></div>
