@@ -15,6 +15,22 @@ layout: bootstrap
           {{ page.author }}
         {% endif %}
       </p>
+      {% if page.categories && page.categories > 0 %}
+        <p class="meta categories">Categories: 
+          {% for category in page.categories %}
+            <span class="tag">
+                {% if forloop.last == true %} 
+                  and 
+                {% else %}
+                  {% if forloop.first == false %}
+                    , 
+                  {% endif %}
+                {% endif %}
+                <a href="/blog/categoryview/#{{ category }}">{{ category }}</a>
+            </span>
+          {% endfor %}
+        </p>
+      {% endif %}
       {{ content }}
       <div class="blog-share">
         <div class="shariff" data-services="[&quot;twitter&quot;,&quot;facebook&quot;,&quot;googleplus&quot;]" data-lang="en"></div>
