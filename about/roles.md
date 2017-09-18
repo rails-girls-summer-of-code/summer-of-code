@@ -90,6 +90,10 @@ Mentors are experts on the Open Source project the team is working on. Ideally
 they are decision makers, or work closely with decision makers, so they can set
 general goals, give directions and provide feedback.
 
+At the beginning of summer Mentors will help students design a roadmap for the 
+project and throughout the project be available to review pull requests, help
+with concepts and generally support the team.
+
 Since students will be supported by coaches in their day-to-day work, the
 workload for mentors is limited. This said, mentors can also assume the role of
 a coach themselves.
