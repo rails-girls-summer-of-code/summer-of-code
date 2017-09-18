@@ -166,4 +166,4 @@ Our <a href="/campaign">crowdfunding campaign</a> is vitally important to
 Summer of Code. Your donation goes directly to participants, and makes a big
 difference to how many can be accepted. If your company cannot sponsor an 
 entire package they can still donate a smaller amount via the campaign.
-Every and any donation counts!.
+Every and any donation counts!
