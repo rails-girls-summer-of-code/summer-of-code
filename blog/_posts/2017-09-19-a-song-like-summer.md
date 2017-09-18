@@ -1,8 +1,8 @@
 ---
 title: 🎶 A Song-like Summer 🌞 
 layout: post
-created_at: Thu Sep 14 2017
-permalink: blog/2017-09-14-a-song-like-summer
+created_at: Tue September 19 2017
+permalink: blog/2017-09-19-a-song-like-summer
 current: blog
 author: Janakshi & Kalpani
 twitter: TeamFusionJK
@@ -23,13 +23,13 @@ So far, throughout the RGSoC journey, we’ve faced many challenges.
 
 **Time management** – Since one of us has to deal with the lectures and we participate in many tech events, together and as individuals apart from RGSOC, we had to find time to cover the working hours that we are going to miss. Actually we had a great option for that. Working during weekends from home.  But that doesn’t mean we didn’t enjoy our weekend. Visiting your friend’s home during weekends, means, Fun!! It is very relaxing and we are enjoying it a lot. And look what we had to deal with.. 😹
 
-![Team Fusion Kitty](/img/blog/2017/2017-09-14-working-from-home.jpg)
+![Team Fusion Kitty](/img/blog/2017/2017-09-19-working-from-home.jpg)
 <div class="image-credits"><b>Working from home be like.. (Image : Janakshi’s Tab)</b></div>
 
 **Learning new technologies and contributing to Open Source Projects** – Since we were new to most of the concepts used in this project, sometimes we were stuck having no clue what to do to solve some problems. So we had to learn them from scratch. 
 This was us when we were stuck, looking miserable..
 
-![Struggling](/img/blog/2017/2017-09-14-stuck-with-coding.jpg )
+![Struggling](/img/blog/2017/2017-09-19-stuck-with-coding.jpg )
 <div class="image-credits"><b>The struggle was real.. (Image : Google images)</b></div>
 
 To overcome situations like above, we helped each other in our learning curve and got lots of help from our coaches, mentor and our supervisor. We worked on many hands-on tutorials together and helped each other to learn fast. So it was not that difficult to complete our learning curve and head back to the implementations. 
@@ -41,7 +41,7 @@ This is our first Open Source project contribution and summer project. So we als
 
 At first, we were completely new to Git, since it was our very first summer project and we weren't familiar with most of the git concepts. So during the first two weeks, we learned a lot through tutorials and our coaching sessions. So here we are now, playing with Git like Bosses.. 😎
 
-![Like a Boss](/img/blog/2017/2017-09-14-like-a-boss.gif )
+![Like a Boss](/img/blog/2017/2017-09-19-like-a-boss.gif )
 <div class="image-credits"><b>The Git Bosses.. (Image : giphy.com)</b></div>
 
 We were selected for the project *[OpenDF](https://github.com/scorelab/OpenDF)* , since both of us were familiar with Java EE and were ready to solve some of the issues with that knowledge. But our mentor had a different plan for us. So we were given the task to develop a file browser using ReactJS. Actually we think it was an opportunity. Because both of us had no clue about developing a react component. Not even a little! But now we can, at least a bit.😅 So our mentor opened a door for us to learn something new.., which we think was a blessing. 
@@ -69,7 +69,7 @@ We used this summer as a great opportunity to network with the tech community in
 
 On our RGSoC day-off, after enjoying our little team time with ice cream sessions, we participated in Colombo Javascript Meetup at  WSO2 Colombo and learned lots of new things about JSON Web Tokens, Securing NodeJS Rest APIs with JWT and about NodeJS Security. And it was our first Meetup!🎉 
 
-![Day-off](/img/blog/2017/2017-09-14-day-off.jpg )
+![Day-off](/img/blog/2017/2017-09-19-day-off.jpg )
 <div class="image-credits"><b>A well spent day-off. (Image : Meetup app and Kalpani’s phone)</b></div>
 
 
@@ -100,7 +100,7 @@ We got a lot of help from our coaches and our mentor to learn these new things v
 
 * And, of course, a big thank you to everyone from the **Rails Girls Summer of Code Team** who made our summer of code experience, a perfect one! Because of you guys we had a great summer which was full of new experiences and awesome memories. 
 
-![Coaches](/img/blog/2017/2017-09-14-coaching-sessions.jpg )
+![Coaches](/img/blog/2017/2017-09-19-coaching-sessions.jpg )
 <div class="image-credits"><b>Our coaching sessions. (Image : Kalpani’s phone, Slack and Google hangouts)</b></div>
 
 
@@ -109,11 +109,11 @@ We got a lot of help from our coaches and our mentor to learn these new things v
 
 Thanks to RGSoC, this summer is so far the best summer in our lives. And it has opened doors for, new opportunities, new friends, new way of thinking and etc. 
 
-We believe, we can do more after this summer. After RGSoC, we would love to continue our contributions to **OpenDF**. And we are even planning to participate in next year’s RGSoC. See how impressed are we from our first RGSoC experience? 😌 And we’ll be giving our support to the tech community more and more in the future, by joining meetups, conferences, competitions and engaging in many more open source projects.
+We believe, we can do more after this summer. After RGSoC, we would love to continue our contributions to **OpenDF**. And we also have a long-term goal to join RGSoC as coaches to help new teams, once we've gathered more experience. See how impressed are we from our first RGSoC experience? 😌 And we’ll be giving our support to the tech community more and more in the future, by joining meetups, conferences, competitions and engaging in many more open source projects.
 
 And we must mention about the Conferences! Because we will be flying to Australia in 2018 to participate in *[RubyConf AU 2018](https://www.rubyconf.org.au/2018 )* 🛫🇦🇺 and will be participating in *[DEV DAY 2017](http://www.devday.lk/ )* 🇱🇰 conference as well. We are so excited! 😁🎉
 
-![Nothing to worry](/img/blog/2017/2017-09-14-when-things-work.gif )
+![Nothing to worry](/img/blog/2017/2017-09-19-when-things-work.gif )
 <div class="image-credits"><b>When everything works fine.. (Image : giphy.com)</b></div>
 
 Last but not the least, we would like to say thanks to everyone for supporting us throughout this journey. And **THANK YOU RGSoC** for giving us this awesome opportunity!
