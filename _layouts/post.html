@@ -20,13 +20,17 @@ layout: bootstrap
           {% for category in page.categories %}
             <span class="tag">
                 {% if forloop.last == true %} 
-                  and 
+                  <span class="lowercase">and</span>
                 {% else %}
                   {% if forloop.first == false %}
                     , 
                   {% endif %}
                 {% endif %}
-                <a href="/blog/categoryview/#{{ category }}">{{ category }}</a>
+                {% if category == 'blog' %}
+                <a href="/blog">{{ category }}</a>
+                {% else %}
+                <a href="/blog/categoryview/#{{ category }}">{{ category | replace:'-',' ' }}</a>
+                {% endif %}
             </span>
           {% endfor %}
         </p>
