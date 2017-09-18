@@ -116,7 +116,7 @@ And we must mention about the Conferences! Because we will be flying to Australi
 ![Nothing to worry](/img/blog/2017/2017-09-19-when-things-work.gif )
 <div class="image-credits"><b>When everything works fine.. (Image : giphy.com)</b></div>
 
-Last but not the least, we would like to say thanks to everyone for supporting us throughout this journey. And **THANK YOU RGSoC** for giving us this awesome opportunity!
+Last but not the least, we would like to say thanks to everyone for supporting us throughout this journey. And **THANK YOU RGSoC** for giving us this awesome opportunity. 😇
 
 Follow us on Twitter at [@TeamFusionJK](https://twitter.com/TeamFusionJK), [@JanakshiDulanga](https://twitter.com/JanakshiDulanga) and [@KbKalpani](https://twitter.com/KbKalpani)
 Read our [blog](https://rgsocteamfusion.wordpress.com/) on WordPress.
