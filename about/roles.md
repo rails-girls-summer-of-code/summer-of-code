@@ -108,7 +108,7 @@ the roles, doing up the play bills.
 <h3 id="remote_coach">Remote Coach</h3>
 
 Remote Coaches are available for help in a central slack channel, which is open to 
-all students. They help participants when their team coaches are not available 
+all students. They assist participants when their team coaches are not available 
 or when they need specific technical help (e.g. help figuring out an error).
 
 <h3 id="supervisor">Supervisor</h3>
@@ -145,13 +145,13 @@ bacon-makers!
 <h3 id="sponsors">Sponsors</h3>
 
 Sponsors make it possible for Rails Girls Summer of Code to create a paid
-program for participants. Sponsors are sourced from all over the world, and
-represent an entire cross section of industry. While Sponsors receive a great
-deal of publicity and public exposure in return for their generous donations
-(usually a package) but most of the time not being involved actively sponsors
-take on a supporting actors role, but quite obviously a very importing one:
-They essentially pay for students so they are able to participate in this
-program.
+program for participants. Sourced from all of the world, sponsors represent
+a wide cross section of industry and allow for students to participate in the 
+program by making generous donations. Though they often receive a great
+deal of publicity and exposure as a result they are not often directly
+involved in the projects themselves but rather take on a more supporting
+role in experience of participants. 
+
 
 <h3 id="coaching_company">Coaching Companies</h3>
 
