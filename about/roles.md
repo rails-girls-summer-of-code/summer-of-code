@@ -107,7 +107,9 @@ the roles, doing up the play bills.
 
 <h3 id="remote_coach">Remote Coach</h3>
 
-Remote Coaches are available for help in a central, public chatroom.
+Remote Coaches are available for help in a central slack channel, which is open to 
+all students. They help participants when their team coaches are not available 
+or when they need specific technical help (e.g. help figuring out an error).
 
 <h3 id="supervisor">Supervisor</h3>
 
