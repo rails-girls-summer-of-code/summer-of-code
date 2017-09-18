@@ -11,13 +11,16 @@ categories: student-posts
 
 ## **Spending a song-like summer!**
 
-Our summer is like a song, sometimes we don’t know the lyrics, but we still enjoy the song. 🎶😌 And then we sing the song till we are familiar with the lyrics. Just like that, we were struggling with some concepts but we enjoyed learning and using those concepts in the best way possible. So let’s see how interesting our summer song is so far..
+Our summer is like a song, sometimes we don’t know the lyrics, but we still enjoy the song. 🎶😌 And then we sing the song till we are familiar with the lyrics. Just like that, we were struggling with some concepts but we enjoyed learning and using those concepts in the best way possible. Just like some songs introduce you to new styles and make you in love with them, our RGSoC journey was a starting point to many important things that made us more passionate about what we do. And even though our summer song is going to end soon, we will always enjoy its music.😇 So let’s see how interesting our summer song is so far..
+
+![Listening to song](/img/blog/2017/2017-09-19-listening-to-music.gif)
+<div class="image-credits"><b>Enjoy the song.. (Image : Her.ie)</b></div>
 
 ## How challenging it is?
 
 So far, throughout the RGSoC journey, we’ve faced many challenges. 
 
-**Finding a place to work** – Actually this was not a challenge at all. We asked from APIIT Sri Lanka, because we always knew, universities will never say “No” to the real need of students, and actually they did say YES.!! So finding the room was a success!
+**Finding a place to work** – This was not a challenge at all. We asked from APIIT Sri Lanka, because we always knew, universities will never say “No” to the real need of students, and they did say YES.!! So finding the room was a success!
 
 **Finding coaches** – This was also not a problem since we first contacted coach Kasun, and he helped us to find the other coaches. Thank you Coach Kasun.
 
@@ -116,7 +119,7 @@ And we must mention about the Conferences! Because we will be flying to Australi
 ![Nothing to worry](/img/blog/2017/2017-09-19-when-things-work.gif )
 <div class="image-credits"><b>When everything works fine.. (Image : giphy.com)</b></div>
 
-Last but not the least, we would like to say thanks to everyone for supporting us throughout this journey. And **THANK YOU RGSoC** for giving us this awesome opportunity. 😇
+Last but not the least, we would like to say thanks to everyone for supporting us throughout this journey. And **THANK YOU RGSoC** for giving us this awesome opportunity. 😇 Thank you all for letting us have a song-like summer. We will always remember our song of RGSoC.. 😌🎶
 
 Follow us on Twitter at [@TeamFusionJK](https://twitter.com/TeamFusionJK), [@JanakshiDulanga](https://twitter.com/JanakshiDulanga) and [@KbKalpani](https://twitter.com/KbKalpani)
 Read our [blog](https://rgsocteamfusion.wordpress.com/) on WordPress.
