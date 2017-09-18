@@ -148,18 +148,17 @@ Sponsors make it possible for Rails Girls Summer of Code to create a paid
 program for participants. Sourced from all of the world, sponsors represent
 a wide cross section of industry and allow for students to participate in the 
 program by making generous donations. Though they often receive a great
-deal of publicity and exposure as a result they are not often directly
-involved in the projects themselves but rather take on a more supporting
-role in experience of participants. 
+deal of publicity and exposure as a result, they are not often directly
+involved in the projects themselves. Instead they take on a more supporting
+role in the experience of participants. 
 
 
 <h3 id="coaching_company">Coaching Companies</h3>
 
-This role is a formalization of a very successful concept from last year:
-Companies that fully host a students team for the duration of their project and
-allow employees to coach them. You can find out more about this initiative
-here: <a href="/guide/coaching-company">Coaching Companies</a>. Sponsors can be coaching
-companies too, as well as vice versa
+A Coaching Company is one that host an entire student team for the duration of 
+their project. In addition, they can allow employees to coach the participants. 
+More information about this initiative is available here: <a href="/guide/coaching-company">Coaching Companies</a>. 
+This role can be combined with the Sponsor role as well.
 
 <h3 id="you">You</h3>
 
