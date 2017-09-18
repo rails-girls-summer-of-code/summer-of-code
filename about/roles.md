@@ -164,6 +164,6 @@ This role can be combined with the Sponsor role as well.
 
 Our <a href="/campaign">crowdfunding campaign</a> is vitally important to
 Summer of Code. Your donation goes directly to participants, and makes a big
-difference to how many can be accepted. If your company cannott sponsor an 
-entire package, they can still donate a smaller amount via our crowdfunding 
-campaign — any donation counts!.
+difference to how many can be accepted. If your company cannot sponsor an 
+entire package they can still donate a smaller amount via the campaign.
+Every and any donation counts!.
