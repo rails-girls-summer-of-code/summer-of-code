@@ -92,7 +92,7 @@ On our RGSoC day-off, after enjoying our little team time with ice cream session
 
 * Participated in SheCoderess v.1.0, which was a hackathon organized by University of Uwa Wellassa, Sri Lanka. And her team won the first place.
 
-* Participating in Hackx competition, which seeks innovative ideas and organized by University of Kelaniya, Sri Lanka. Her team got selected for the final round.
+* Participated in Hackx competition, which was organized by University of Kelaniya, Sri Lanka to seek innovative ideas. Her team got selected for the final round.
 
 
 **Both of us:**
