@@ -61,8 +61,8 @@ __Tip # 5: Do you something you might regret__  In this case, it means volunteer
 
 ### __You can find us here__
 
-__[TeamImpactdevs Twitter](https://twitter.com/TeamImpactdevs)__
+__[@TeamImpactdevs](https://twitter.com/TeamImpactdevs)__
 
-__[Vanessa Tweets](https://twitter.com/vanny_ho)__
+__[@vanny_ho](https://twitter.com/vanny_ho)__
 
-__[Jessica Tweets](https://twitter.com/jessicaleach6)__
+__[@Jessicaleach6](https://twitter.com/jessicaleach6)__
