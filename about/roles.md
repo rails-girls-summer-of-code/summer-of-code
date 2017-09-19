@@ -90,11 +90,11 @@ Mentors are experts on the Open Source project the team is working on. Ideally
 they are decision makers, or work closely with decision makers, so they can set
 general goals, give directions and provide feedback.
 
-At the beginning of summer Mentors will help students design a roadmap for the 
-project and throughout the project be available to review pull requests, help
+At the beginning of summer Mentors help students design a roadmap for the 
+project. They are available throughout the summer to review pull requests, help
 with concepts and generally support the team.
 
-Since students will be supported by coaches in their day-to-day work, the
+Since students are supported by coaches in their day-to-day work, the
 workload for mentors is limited. This said, mentors can also assume the role of
 a coach themselves.
 
@@ -156,7 +156,7 @@ role in the experience of participants.
 <h3 id="coaching_company">Coaching Companies</h3>
 
 A Coaching Company is one that host an entire student team for the duration of 
-their project. In addition, they can allow employees to coach the participants. 
+their project. In addition, they allow employees to coach the participants. 
 More information about this initiative is available here: <a href="/guide/coaching-company">Coaching Companies</a>. 
 This role can be combined with the Sponsor role as well.
 
