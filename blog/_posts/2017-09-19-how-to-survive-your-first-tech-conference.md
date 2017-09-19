@@ -7,7 +7,7 @@ author: Team ImpactDevs
 twitter: teamImpactdevs
 ---
 
-#__A Guide to Surviving Your First Tech Conference__
+###A Guide to Surviving Your First Tech Conference
 
 As coding newbies immersed in the intensive [Rails Summer of Code](https://railsgirlssummerofcode.org/), Jessica and I haven’t had the opportunity or finances to attend too many tech conferences yet.  But the RGSoC program really does encourage participants to attend at least one conference over the course of the summer.  [Fullstack Fest (FSF) 2017](https://2017.fullstackfest.com/agenda/) was the one that we chose to attend during our Rails Girls Summer of Code, and it … was… awesome!
 
@@ -53,8 +53,8 @@ The power of Twitter is amazing these conferences. It’s the medium used to spa
 
 We got to meet with Rails Girls workshop organizers and RGSoC coaches from Berlin, Philadelphia and UK.  A lot of people have been working to build the Rails community in their own cities and wanted to know how our project and careers as junior developers were coming along.  It was the perfect opportunity to break out these fantastic stickers that Jessica had made for our new international Rails friends :)
 
-![teamImpactdevs](img/blog/2017/impact-devs-stickers.png)
-<div align="center" div class="image-credits">How to be an ally stickers - let us know if you'd like some!</div>
+![teamImpactdevs](img/blog/2017/impact-devs-stickers2.jpg)
+<div class="image-credits"> How to be an Ally in Tech stickers - let us know if you want some!</div>
 
 <br>
 __Tip # 5: Do you something you might regret__  In this case, it means volunteer for a lightning talk.  At the end of each 2-day session at FSF,  there were 10 people that volunteered to give 5 min talks about anything and everything.  Some of the organizers encouraged us to give it a shot - but we declined, having never even seen one of these talks before and also feeling like we didn’t have a topic to offer since we were so junior.  But now thinking about it, people at FSF were so interested in our perspectives and experiences that I really do feel like we could have given a great talk.  It was also such a supportive audience that they would have cheered us on even if we had stage fright.  So… until next time!
