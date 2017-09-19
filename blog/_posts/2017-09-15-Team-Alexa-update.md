@@ -38,11 +38,14 @@ For all this time we have added many features to the site:
 * added many dependencies based on the language status
 
 In addition to working on the project, we had a lot of different fun activities.
+
 For example, Sasha’s hair evolution in one month:
+
 <img src="/img/blog/2017/Alexa-Sasha-Collage.jpg" alt="melanoya">
 <div align="center" div class="image-credits"> Sasha's  hair. Photo taken by other Sasha. </div>
 
 We also have attended many meetings of the local Python community (and other programming communities).
+
 <img src="/img/blog/2017/Alexa-meetup-religofsil.jpg" alt="religofsil">
 <div align="center" div class="image-credits"> Sasha at the meetup. Photo taken by Mail.ru photographer. </div>
 
