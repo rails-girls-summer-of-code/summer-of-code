@@ -78,15 +78,26 @@ On our RGSoC day-off, after enjoying our little team time with ice cream session
 
 ### Next comes the competitions and achievements during RGSoC,
 
-[__Janakshi :__](https://lk.linkedin.com/in/janakshidulanga)   
+
+[__Janakshi :__](https://lk.linkedin.com/in/janakshidulanga)
+
+
 * Presented her work at Business, Law  Technology conference organized by APIIT and won the best researcher award for the Technology track.
+
 * Selected for the final round of 19 th National best quality ICT awards 2017( NBQSA 2017). And now she's in the winner circle.
 
+
 [__Kalpani :__](https://lk.linkedin.com/in/kalpani-bhagya-ranasinghe-256585110)
+
+
 * Participated in SheCoderess v.1.0, which was a hackathon organized by University of Uwa Wellassa, Sri Lanka. And her team won the first place.
+
 * Participating in Hackx competition, which seeks innovative ideas and organized by University of Kelaniya, Sri Lanka. Her team got selected for the final round.
 
+
 **Both of us:**
+
+
 * Both of us participated in the Hacktitude competition. This was organized by 99x Technologies. The best thing is, both of us got selected for the final round too. 😇 
 
 
