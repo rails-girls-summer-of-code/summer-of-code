@@ -7,7 +7,7 @@ author: Team ImpactDevs
 twitter: teamImpactdevs
 ---
 
-###A Guide to Surviving Your First Tech Conference
+### A Guide to Surviving Your First Tech Conference
 
 As coding newbies immersed in the intensive [Rails Summer of Code](https://railsgirlssummerofcode.org/), Jessica and I haven’t had the opportunity or finances to attend too many tech conferences yet.  But the RGSoC program really does encourage participants to attend at least one conference over the course of the summer.  [Fullstack Fest (FSF) 2017](https://2017.fullstackfest.com/agenda/) was the one that we chose to attend during our Rails Girls Summer of Code, and it … was… awesome!
 
