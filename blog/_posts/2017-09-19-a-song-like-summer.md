@@ -56,7 +56,7 @@ Since we were new to the world of ReactJs, we were struggling to figure out how 
 
 So far we've learned many new things about Git, ReactJS, React boilerplates, Redux-saga, Testing react components, API documentations, Swagger and etc. And the best thing is, we've already been able to apply most of these concepts successfully. 
 
-We used Trello as a project management tool to manage our tasks while Git as a version control system. And we must mention our cool daily logs 😎. There are 55 *[daily logs](https://teams.railsgirlssummerofcode.org/?kind=&team_id=413)* already! 📝✅ They made our work more organized. And so far we've developed three react components called SearchView, TreeView and DetailView for our file browser and have got **two** of them **merged** already with the FileBrowser container! 😇🎉
+We used Trello as a project management tool to manage our tasks while Git as a version control system. And we must mention our cool daily logs 😎. There are 58 *[daily logs](https://teams.railsgirlssummerofcode.org/?kind=&team_id=413)* already! 📝✅ They made our work more organized. And so far we've developed three react components called SearchView, TreeView and DetailView for our file browser and have got **two** of them **merged** already with the FileBrowser container! 😇🎉
 
 So this is how our project work looks like, at the moment.
 
@@ -68,7 +68,7 @@ So this is how our project work looks like, at the moment.
 
 ## Bonding with the Community
 
-We used this summer as a great opportunity to network with the tech community in Sri Lanka. As the first step we participated in Business, Law and Technology Conference 2017 – APIIT. And there, Janakshi presented her final year project and was awarded too. 
+The motivation you get from RGSoC is remarkable. We used this summer as a great opportunity to network with the tech community in Sri Lanka. As the first step we participated in Business, Law and Technology Conference 2017 – APIIT. And there, Janakshi presented her final year project and was awarded too. Then we participated in few other competitions and achieved some victories too. And these competitions, helped us two, to become a better team. 😇 
 
 On our RGSoC day-off, after enjoying our little team time with ice cream sessions, we participated in Colombo Javascript Meetup at  WSO2 Colombo and learned lots of new things about JSON Web Tokens, Securing NodeJS Rest APIs with JWT and about NodeJS Security. And it was our first Meetup!🎉 
 
@@ -76,18 +76,18 @@ On our RGSoC day-off, after enjoying our little team time with ice cream session
 <div class="image-credits"><b>A well spent day-off. (Image : Meetup app and Kalpani’s phone)</b></div>
 
 
-### Next comes the competitions and achievements,
+### Next comes the competitions and achievements during RGSoC,
 
 [__Janakshi :__](https://lk.linkedin.com/in/janakshidulanga)   
 * Presented her work at Business, Law  Technology conference organized by APIIT and won the best researcher award for the Technology track.
-* Selected for the final round of 19 th National best quality ICT awards 2017( NBQSA 2017). And now waiting for the final results.
+* Selected for the final round of 19 th National best quality ICT awards 2017( NBQSA 2017). And now she's in the winner circle.
 
 [__Kalpani :__](https://lk.linkedin.com/in/kalpani-bhagya-ranasinghe-256585110)
 * Participated in SheCoderess v.1.0, which was a hackathon organized by University of Uwa Wellassa, Sri Lanka. And her team won the first place.
-* Participating in Hackx competition, which seeks innovative ideas and organized by University of Kelaniya, Sri Lanka. Her team got selected to the final round.
+* Participating in Hackx competition, which seeks innovative ideas and organized by University of Kelaniya, Sri Lanka. Her team got selected for the final round.
 
 **Both of us:**
-* Both of us participated in the Hacktitude competition. This was organized by 99x Technologies. The best thing is, both of us got selected to the final round too. 😇 
+* Both of us participated in the Hacktitude competition. This was organized by 99x Technologies. The best thing is, both of us got selected for the final round too. 😇 
 
 
 ## Helping hands
