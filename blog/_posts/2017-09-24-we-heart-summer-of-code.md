@@ -20,7 +20,7 @@ We started the summer enthusiastically, wanting to contribute substantively to B
 Rails Girls Summer of Code taught us a lot about the importance of communication, and perseverance. We have received generous support from the Babel community; nonetheless it was disquieting to be joining an open source community where we couldn’t find any other female members.
 
 [![Madonna, What It Feels like for a Girl ](http://img.youtube.com/vi/VQChkSgPCJ4/0.jpg)](http://www.youtube.com/watch?v=VQChkSgPCJ4)
-###### (Song Credit): Madonna, What It Feels like for a Girl (via YouTube)
+<div class="image-credits">(Song Credit): Madonna, What It Feels like for a Girl (via YouTube)</div><br>
 
 It took us about two months to even approach the non Summer of Code channel in the Babel slack. It’s a nerve-wracking experience jumping in and talking to a community of such impressive developers, but as the saying goes: *be the change in the world you want to see*.
 
@@ -29,7 +29,7 @@ Rails Girls Summer of Code has given us the confidence to be present in the Open
 As mentioned in our first blog post, our aims of the summer were to a) learn a heck of a lot, and b) improve our pingpong skills. Whilst the latter took a complete tumble, the former fuelled our summer and our learning took us in directions we had not envisioned. Whilst we may never be Olympic Ping Pong-ers, we feel like we spent our summer in a far more productive and positive manner, and we honestly feel like we’re leaving here knowing that this is only the beginning for us.
 
 [![Queen, Don't Stop Me Now ](http://img.youtube.com/vi/MHi9mKq0slA/0.jpg)](http://www.youtube.com/watch?v=MHi9mKq0slA)
-###### (Song Credit): Queen, Don't Stop Me Now (via YouTube)
+<div class="image-credits">(Song Credit): Queen, Don't Stop Me Now (via YouTube)</div><br>
 
 As well as working on Babel, we had the opportunity to learn so much more from the Pivots surrounding us. Our Pivotal mentors taught us Pivotal best practices regarding software development and were generous in answering our questions and in running additional mentoring sessions and talks to share their knowledge.  We are so lucky to have had sessions on a range of topics including:
 
@@ -53,12 +53,12 @@ We could not have completed this summer without our supportive and friendly supe
 
 
 [![Destiny's Child, Independent Women ](http://img.youtube.com/vi/0lPQZni7I18/0.jpg)](http://www.youtube.com/watch?v=0lPQZni7I18)
-###### (Song Credit): Destiny's Child, Independent Women (via YouTube)
+<div class="image-credits">(Song Credit): Destiny's Child, Independent Women (via YouTube)</div><br>
 
 This summer, we have both grown and evolved and have learnt about being software developers and team members. Our communication skills have improved tenfold, and we have a better understanding of what it means to be involved in technology teams. We have experienced our own pitfalls, and we had our own barriers, which took awhile to get our heads around (we’re looking at you, pair programming), but it was all part of the crucial learning curve. Whilst there were times we felt we would never work through our issues *(-cough- Git -cough-)*, we have, however, learnt an awful lot about what is needed to try. Rebase. Always rebase when in doubt. And make Bootstrap.
 
 [![The Beatles, We Can Work it Out ](http://img.youtube.com/vi/Qyclqo_AV2M/0.jpg)](http://www.youtube.com/watch?v=Qyclqo_AV2M)
-###### (Song Credit): The Beatles, We Can Work it Out (via YouTube)
+<div class="image-credits">(Song Credit): The Beatles, We Can Work it Out (via YouTube)</div><br>
 
 
 We admit we did not complete as much work with Babel as we had hoped. But that’s okay. We fulfilled our major goal for the summer - to learn and obtain as much knowledge as we could. Contributing to Babel was always an ambitious program for us, and we always knew it would be something that was hard.
@@ -72,7 +72,7 @@ What we learnt, overall, was that there is still so much more that we can do and
 You are the true stars of our summer, and you are continuously changing the world. Thank you for letting us be a part of this narrative for three months :)
 
 [![Fleetwood Mac, Don't Stop (Thinking about Tomorrow) ](http://img.youtube.com/vi/SybgWaQy7_c/0.jpg)](http://www.youtube.com/watch?v=SybgWaQy7_c)
-###### (Song Credit): Fleetwood Mac, Don't Stop (Thinking about Tomorrow) (via YouTube)
+<div class="image-credits">(Song Credit): Fleetwood Mac, Don't Stop (Thinking about Tomorrow) (via YouTube)</div><br>
 
 # What is next for us?
 
