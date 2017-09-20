@@ -18,11 +18,11 @@ Our third month with the RGSoC is already coming to an end, even though it seems
 We worked on a social network for Persian LGBTQI+ community – JoopeA Club. It is a safe space for people of any gender and/or sexual orientation. We were trying to make it a safe space for speakers of any language, because right now JClub is only available in Persian, and we were building support for other languages.
 
 ## What we learned
-* django
-* vcs: Mercurial, some Git
-* about databases
-* time management
-* to compromise
+* Django
+* Vcs: Mercurial, some Git
+* About databases
+* Time management
+* To compromise
 
 ## Challenges we faced
 The most difficult part for us was planning our tasks, and then sticking to our plans. It seemed like the obvious thing to take care of, but most of the tasks took more time than we planned for them. We tried to listen to our coach Katya’s advise and to plan 3x more time than seemed right to us for each task, and sometimes it even worked, but sometimes even that amount of time wasn’t enough. But we think we’ve got better with planning by the end of the summer, so we would probably call it a progress. 
@@ -30,12 +30,12 @@ The most difficult part for us was planning our tasks, and then sticking to our 
 ## What we did
 For all this time we have added many features to the site:
 
-* add language model
-* add language to the language-depended entities:  users, pages, posts and communities
-* users can choose language on registration form
-* users can update their language through settings
-* did our own middleware for language  dynamically changing 
-* added many dependencies based on the language status
+* Add language model
+* Add language to the language-depended entities:  users, pages, posts and communities
+* Users can choose language on registration form
+* Users can update their language through settings
+* Did our own middleware for language  dynamically changing 
+* Added many dependencies based on the language status
 
 In addition to working on the project, we had a lot of different fun activities.
 
