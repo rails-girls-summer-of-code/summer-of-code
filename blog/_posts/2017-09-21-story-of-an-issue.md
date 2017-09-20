@@ -1,8 +1,8 @@
 ---
 title: A story of an issue  
 layout: post
-created_at: Mon Sept 18 2017
-permalink: blog/2017-09-18-story-of-an-issue
+created_at: Thu Sept 21 2017
+permalink: blog/2017-09-21-story-of-an-issue
 current: blog
 author: Neta and Rete
 twitter: ruby_bears
