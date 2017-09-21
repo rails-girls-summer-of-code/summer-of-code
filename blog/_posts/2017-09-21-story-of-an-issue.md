@@ -29,7 +29,7 @@ Like two Alices in diasporaland, with every issue we embark on an ongoing quest 
 Apart from the familiar models, controllers and views, we have encountered, and thereby learned about, lots of other types of files: mailers, presenters, helpers, services, workers, templates, javascript files, specs, factories and more.  
 <div style="text-align:center"><img src ="/img/blog/2017/2017-09-18-codebears1.gif" style="width: 350px;" /></div>   
 
-<div class="image-credits">Gif by [Cineaste](http://cinematografo.tumblr.com/)</div>
+<div align="center" div class="image-credits">Gif by [Cineaste](http://cinematografo.tumblr.com/)</div>
 
 
 #### Tutorials, Tutorials, Tutorials
@@ -58,7 +58,7 @@ When we think our code is ready, it's time to open the PR and break out in our g
 
 Therefore, during the first half of SoC, we had a very helpful weekly git session with one of the coaches. Although we still sometime struggle with git, we now have our own git dance and can handle it quite independently.
 <div style="text-align:center"><img src ="/img/blog/2017/2017-09-18-codebears3.png" style="width: 250px;" /></div>  
-<div class="image-credits">Image by [@missinformed](https://github.com/git-dance/mactech2016)</div>
+<div align="center" div class="image-credits">Image by [@missinformed](https://github.com/git-dance/mactech2016)</div>
 
 #### Code review
 
@@ -101,4 +101,4 @@ This amazing summer would not be amazing without our team and the help of other 
 * Diaspora community: Thank you for being so responsive and helpful, and for keeping such a pleasant communication with your contributers. Special thanks for members who reviewed patiently and commented on our code- **Flaburgan, SuperTux88** and **svbergerem**.
 * Our coaching company: thank you **SoundCloud** for hosting us and suppling us with a brilliant learning and working atmosphere, as well as amazing coffee.    
 <div style="text-align:center"><img src ="/img/blog/2017/2017-09-18-codebears4.png" /></div>  
-<div class="image-credits">Image by [MyCuteGraphics](http://www.mycutegraphics.com/)</div>
+<div align="center" div class="image-credits">Image by [MyCuteGraphics](http://www.mycutegraphics.com/)</div>
