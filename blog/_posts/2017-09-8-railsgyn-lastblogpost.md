@@ -50,10 +50,10 @@ Besides knowledge, the program brought us a lot of local visibility. Due to the 
 ## Contact
 * [__Amanda__](https://github.com/branquinhoaa)
 
-<img src="/img/blog/2017/juhDias.jpg" alt="crying">
+<img src="/img/blog/2017/branquinhoa.jpg">
 <div align="center" div class="image-credits">By: Juliana Dias</div>
 
 * [__Juliana__](https://github.com/juuh42dias)
 
-<img src="/img/blog/2017/branquinhoa.jpg" alt="crying">
+<img src="/img/blog/2017/juhDias.jpg">
 <div align="center" div class="image-credits">By: Juliana Dias</div>
