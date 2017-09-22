@@ -1,8 +1,8 @@
 ---
 title: We ❤️ Rails Girls Summer of Code
 layout: post
-created_at: Sunday 24 September 2017
-permalink: blog/2017-09-24-we-heart-summer-of-code
+created_at: Friday 22 September 2017
+permalink: blog/2017-09-22-we-heart-summer-of-code
 current: blog
 author: Emma Deacon
 twitter: emmamdeacon
