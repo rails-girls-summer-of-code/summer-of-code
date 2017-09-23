@@ -1,8 +1,8 @@
 ---
 title: Act II - Curtain Call For Team 200 OK
 layout: post
-created_at: Wed Sep 20 2017
-permalink: blog/2017-09-20-curtain-call-for-200ok
+created_at: Sat Sep 23 2017
+permalink: blog/2017-09-23-curtain-call-for-200ok
 current: blog
 author: Prachi & Ipshita
 twitter: Team200OK
@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 
-Wow, it’s 20th September already and we just can’t believe that RGSoC is coming to an end. It has been a whirlwind of a summer - with so much learning both in our professional lives and personal. We will sorely miss the daily logs, catching up with each other, the superbly motivating coaching sessions, pair programming, code reviews and weekly sync ups with Mayar, who is the best ~~supervisor~~ team buddy we could have hoped for. 
+Wow, it’s 23th September already and we just can’t believe that RGSoC is coming to an end. It has been a whirlwind of a summer - with so much learning both in our professional lives and personal. We will sorely miss the daily logs, catching up with each other, the superbly motivating coaching sessions, pair programming, code reviews and weekly sync ups with Mayar, who is the best ~~supervisor~~ team buddy we could have hoped for. 
 
 ### The Star of the moment - our project ‘coala’
 
