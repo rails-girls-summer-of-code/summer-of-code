@@ -26,9 +26,13 @@ Our project was writing generic bears for coala. Bears are Python scripts which 
 Linter bears are Python wrappers around existing code linting tools available in other languages, to integrate them into coala, using the coala API. To top it all, the coala docs also provides a comprehensive bear writing guide, which ensured that we could write bears smoothly.
  
 In our second week, we started writing our first linter bears and as the summer draws to a close, we have already worked on several bears including:
+
 - **RubyFlogBear** - Flog is a Ruby gem which performs complexity analysis on Ruby code using the ABC metrics. It is one of the most popularly used tools for measuring Ruby code complexity, or a measure of the amount of ‘pain’ the code is in, in an easy to read ‘torture’ report. RubyFlogBear wraps this gem and integrates it into coala.
+
 - **HAMLLintBear** which wraps around a tool haml-lint that helps keep HAML files clean and readable. This bear is made super-configurable, implementing all the possible flags and functionalities of haml-lint.
+
 - **OclintBear** a static code tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code and looking for potential problems like possible bugs, unused code, code smells and bad practices
+
 - **SpotBugsBear** which statically looks for potential bugs in Java code.
  
 In addition, we also worked on **five other bear related issues** for different coala projects such as **coala-quickstart**, and **corobo**. Apart from this, as per the common coala community practise, we have persistently performed code reviews and helped out new developers to the community, just like we were helped out by others at the beginning of this summer.
