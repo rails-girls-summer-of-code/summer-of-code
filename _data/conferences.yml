@@ -6,9 +6,21 @@
   id: gotocph
   url: https://gotocph.com/
 
+- name: Codemotion Berlin
+  id: codemotionberlin
+  url: http://berlin2017.codemotionworld.com/
+
+- name: Dev Day
+  id: devday
+  url: http://www.devday.lk/
+
 - name: GOTO Berlin
   id: gotoberlin
   url: https://gotober.com/
+
+- name: RubyConf Brazil
+  id: rubyconfbr
+  url: http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/#inscrevase?utm_campaign=Evento&utm_source=Blog&utm_medium=own&utm_content=RailGirls+
 
 - name: dotConferences
   id: dotconferences
