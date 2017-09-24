@@ -114,6 +114,32 @@ A huge **Thank You!** to all conferences who support our students and provide fr
 
   <div class="conference-item">
     <p class="conference-logo">
+      <a href="http://berlin2017.codemotionworld.com/">
+      <img src="/img/blog/2017/conferences/codemoberlin-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://berlin2017.codemotionworld.com/">Codemotion Berlin</a></b> <br>
+      <b>Date: </b>October 12-13, 2017 <br>
+      <b>Location: </b>Berlin, Germany <br>
+      <b>Twitter: </b><a href="https://twitter.com/codemoberlin">@codemoberlin</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://www.devday.lk/">
+      <img src="/img/blog/2017/conferences/devday-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://www.devday.lk/">Dev Day</a></b> <br>
+      <b>Date: </b>November 9, 2017 <br>
+      <b>Location: </b>Colombo, Sri Lanka <br>
+      <b>Twitter: </b><a href="https://twitter.com/devdaysl">@devdaysl</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
       <a href="https://gotober.com/">
       <img src="/img/blog/2017/conferences/goto-berlin-logo.png"></a>
     </p>
@@ -122,6 +148,18 @@ A huge **Thank You!** to all conferences who support our students and provide fr
       <b>Date: </b>November 16-17, 2017 <br>
       <b>Location: </b>Berlin, Germany <br>
       <b>Twitter: </b><a href="https://twitter.com/gotober">@gotober</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/#inscrevase?utm_campaign=Evento&utm_source=Blog&utm_medium=own&utm_content=RailGirls+">
+      <img src="/img/blog/2017/conferences/rubyconf-br-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/#inscrevase?utm_campaign=Evento&utm_source=Blog&utm_medium=own&utm_content=RailGirls+">RubyConf Brazil</a></b> <br>
+      <b>Date: </b>November 17-18, 2017 <br>
+      <b>Location: </b>São Paulo, Brazil <br>
     </p>
   </div>
 
