@@ -1,7 +1,7 @@
 ---
 title: Our IntoxiCODED cloudy summer
 layout: post
-created_at: Thu September 26 2017
+created_at: Tue September 26 2017
 permalink: blog/2017-09-26-Our-IntoxiCODED-cloudy-summer
 current: blog
 author: Codeaholics
