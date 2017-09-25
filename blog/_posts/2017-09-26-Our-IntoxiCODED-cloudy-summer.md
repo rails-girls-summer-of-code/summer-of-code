@@ -20,6 +20,7 @@ Some of the challenges that our team has faced during this period:
 * Before attending RGSoC we barely had any experience with Git on an important open source project as Nextcloud with a lot of people contributing into it. During our journey we made many mistakes and had to do some researches on different Git commands. Thanks to the friendly community over at Nextcloud, we learned many new Git commands, now it's just a matter of remembering them :)
 * We fought a lot with JavaScript and in particular AngularJS. We wanted to work on something new for us and that's why we chose the Contacts App. We were complete beginners on AngularJS and during the first weeks we were mainly focused on reading and watching tutorials.
 * Another challenging thing was working remotely together over different time-zones (6 hours difference) as Jona was attending “Flock to Fedora Conference” in Boston.
+
 ![image](/img/blog/2017/codeaholics_angularJS.jpg)
 <div class="image-credits"> Too much AngularJS, not enough coffee. (Photo: Jona & Xheni, Creative Commons Attribution-Share Alike 4.0 International.)</div>
 
@@ -33,6 +34,7 @@ Despite the challenges we had during our summer, we have learned a lot of new th
 * We learned about vCard format specification.
 * New Git Commands that were really useful for our daily job.
 * Asking for help because the communication is the key to solve some of the issues! There are always people out there willing to help, especially on the Nextcloud IRC channels.
+
 ![image](/img/blog/2017/codeaholics_pairprogramming.jpg)
 <div class="image-credits"> Pair Programming at Open Labs Hackerspace. (Photo: Jona & Xheni, Creative Commons Attribution-Share Alike 4.0 International.)</div>
 
@@ -49,6 +51,7 @@ What will be next? We certainly will continue contributing on other Nextcloud ap
 ### __Girl Power at the Nextcloud conference!__
 
 One of the best things about working on the open source projects are the conferences. [Codeaholics](https://twitter.com/codeaholics_AL) joined the [Nextcloud Conference](https://nextcloud.com/conf/) on 22-29 August in Berlin, Germany. We were the early birds who arrived in the morning on the first day, waiting for other contributors to join the conference.
+
 ![image](/img/blog/2017/codeaholics_nextcloud_conference.jpg)
 <div class="image-credits">Team Codeaholics at Nextcloud Conference. (Photo: Christoph Wurst, Creative Commons Attribution-Share Alike 4.0 International.)</div>
 
@@ -57,11 +60,11 @@ Finally, we had the chance to meet our coaches Morris and Joas in person, our me
 We attended some talks related to the collaboration between Red Hat and Nextcloud, Collabora Online, how the Technical University of Berlin uses Nextcloud, Scalability Recommendations, Security etc.
 
 On the weekend, there were some lightning talks and workshops where we also shared [our experience](https://www.youtube.com/watch?v=OpMtsE_MICs) as RGSoC students with them (a lot of applauses in the end, yaaay)! It was a wonderful conference and a great opportunity to network with the community behind Nextcloud, which makes you feel more motivated to keep contributing.
+And just for the record, coding while drinking Club Mate is one of the best feelings ever. (Try it :P)
+
+
 ![image](/img/blog/2017/codeaholics_nextcloudconference.jpg)
 <div class="image-credits">Nextcloud Conference. (Photo:Raghu Nayyar, Creative Commons Attribution-Share Alike 4.0 International.)</div>
-And just for the record, coding while drinking Club Mate is one of the best feelings ever. (Try it :P)
-![image](/img/blog/2017/codeaholics_clubmate.gif)
-<div class="image-credits"> Nextcloud Party (Photo: Morris Jobke, Creative Commons Attribution-Share Alike 4.0 International.)</div>
 
 During our stay in Berlin we attended the “Open Source Ladies” event together with Jan, which is an event that aims to help women contribute to open source projects and guide them how to join their communities. It was very nice to meet some new enthusiastic Open Source Ladies from Berlin and share our experiences.
 
