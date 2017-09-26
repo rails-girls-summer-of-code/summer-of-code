@@ -63,7 +63,7 @@ On the weekend, there were some lightning talks and workshops where we also shar
 And just for the record, coding while drinking Club Mate is one of the best feelings ever. (Try it :P)
 
 
-![image](/img/blog/2017/codeaholics_nextcloudconference.jpg)
+![image](/img/blog/2017/codeaholics_nextcloud.jpg)
 <div class="image-credits">Nextcloud Conference. (Photo:Raghu Nayyar, Creative Commons Attribution-Share Alike 4.0 International.)</div>
 
 During our stay in Berlin we attended the “Open Source Ladies” event together with Jan, which is an event that aims to help women contribute to open source projects and guide them how to join their communities. It was very nice to meet some new enthusiastic Open Source Ladies from Berlin and share our experiences.
