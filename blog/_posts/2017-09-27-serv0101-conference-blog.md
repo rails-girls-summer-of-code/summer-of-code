@@ -1,6 +1,6 @@
 ---
 title: JSFoo 2017 - Team Serv0101 
-layouts: post
+layout: post
 created_at: Wed Sep 27 2017
 permalink: blog/2017-09-27-serv0101-conference-blog
 current: blog
