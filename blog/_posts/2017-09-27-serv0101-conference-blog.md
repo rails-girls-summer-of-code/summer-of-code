@@ -1,8 +1,8 @@
 ---
 title: JSFoo 2017 - Team Serv0101 
 layouts: post
-created_at: Mon Sep 25 2017
-permalink: blog/2017-09-25-Team-serv0101
+created_at: Wed Sep 27 2017
+permalink: blog/2017-09-27-serv0101-conference-blog
 current: blog
 author: Neha & Rakhi
 categories:
@@ -34,6 +34,7 @@ This year theme was building reliable web apps. Talks happened on these topics a
 * Visualisation and animation on the web using JavaScript
 
 #### Every talk and workshop we attended there was awesome but we found following two very interesting.
+
 **1. Tiny Computers, JavaScript and MIDI by <a href="https://twitter.com/georgemandis">George Mandis</a>**
 
 <img src="/img/blog/2017/2017-09-25-Serv0101-George.jpeg">
