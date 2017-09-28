@@ -1,8 +1,8 @@
 ---
 title: RailsGyn come back to reality.
 layout: post
-created_at: Thu September 27 2017
-permalink: blog/2017-09-27-RailsGyn-come-back-to-reality
+created_at: Thu September 28 2017
+permalink: blog/2017-09-28-RailsGyn-come-back-to-reality
 current: blog
 author: Amanda & Juliana
 twitter: RailsGyn
