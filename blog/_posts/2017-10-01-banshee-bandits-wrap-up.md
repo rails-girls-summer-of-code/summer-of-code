@@ -1,8 +1,8 @@
 ---
 title: Banshee Bandits Wrap Up
 layout: post
-created_at: Tues Sept 30 2017
-permalink: blog/2017-09-30-banshee-bandits-wrap-up
+created_at: Sun Oct 01 2017
+permalink: blog/2017-10-01-banshee-bandits-wrap-up
 current: blog
 author: Shelby & Lillian
 twitter: bansheebandits
