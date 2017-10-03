@@ -1,7 +1,7 @@
 ---
 title: RGSoC- the grand finale
 layout: post
-created_at: Fri September 23 2017
+created_at: Tue October 3 2017
 permalink: blog/2017-10-3-RGSoC- the grand finale
 current: blog
 author: Bundledore
