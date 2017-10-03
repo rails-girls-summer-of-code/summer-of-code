@@ -1,8 +1,8 @@
 ---
-title: RGSoC- the Grand Finale.
+title: RGSoC- the grand finale
 layout: post
 created_at: Fri September 23 2017
-permalink: blog/2017-09-22-RGSoC-the-grand-finale
+permalink: blog/2017-10-3-RGSoC- the grand finale
 current: blog
 author: Bundledore
 twitter: TeamBundledore
@@ -11,7 +11,7 @@ categories:
 ---
 
 <img src="/img/blog/2017/logo_bundledore.jpg" alt="Our logo"/>
-<div align="center" class="image-credits">Our Logo !(created by Amrita Nair and Anagha R)</div>
+<div align="center" class="image-credits">Our Logo (created by Amrita Nair and Anagha R)</div>
 
 It’s September, the long journey which started off on July 1st is about to touch the finish line. We can’t believe that we have reached the final phase. Time flies so quick.
 
@@ -25,7 +25,7 @@ We have been working on  [AFDC](https://leagues.afdc.com/) ( Atlanta Flying Disc
  We had a super cool workplace, the [FOSS](http://foss.amrita.ac.in/) lab in our college where we settle down in the evening (soon after our classes) and continue working till late night. And of course, the coding continues until midnight. We are really grateful to our whole FOSS team and to our friends, who supported us all these days.
 
 <img src="/img/blog/2017/workspace.jpg" alt="Our workspace"/>
-<div align="center" class="image-credits">Our Workspace- the FOSS lab(img credits: Anagha's phone)</div>
+<div align="center" class="image-credits">Our Workspace- the FOSS lab (img credits: Anagha's phone)</div>
 
 
 
@@ -65,7 +65,7 @@ Our next major feature is to implement an Attendance system. Still in the proces
 ## Problems faced:
 
 <img src="/img/blog/2017/confused.gif" alt="Thankyou"/>
-<div align="center" class="image-credits">credits:giphy.com</div>
+<div align="center" class="image-credits">credits: giphy.com</div>
 
 In the initial weeks, we were troubled a lot by Docker issues. We were completely new to the platform and faced difficulty in setting it up. Fixing the issues one by one helped us learn in-depth about Docker. We went through the documentation of Docker a lot of times to figure out the problems we were facing. It really made us appreciate the usefulness of Docker in production. 
 
@@ -73,14 +73,14 @@ In the initial weeks, we were troubled a lot by Docker issues. We were completel
 
 ## What’s next?
 
-We would be continuing our work pattern, working on our skills, exploring new areas, mentoring our juniors. We are planning to attend the [GHCI](https://ghcindia.anitaborg.org/) and [dotCSS, dotJS 2017](https://www.dotcss.io), attend regular meetups of our local community, encouraging more people to take up the work. We are in the process of organising a Rails Girls workshop in our city and we have a lot of support from it by various organizations. 
+We would be continuing our work pattern, working on our skills, exploring new areas, mentoring our juniors. We are planning to attend the [GHCI](https://ghcindia.anitaborg.org/), [dotCSS](https://www.dotcss.io/) and [dotJS](https://www.dotjs.io/), attend regular meetups of our local community, encouraging more people to take up the work. We are in the process of organising a Rails Girls workshop in our city and we have a lot of support from it by various organizations.
 
 ## A final note:
 
 We are really thankful to the whole team of RGSoC for giving us this opportunity to work on the AFDC project. This is a great learning experience for us. Our wholehearted thanks to our panel of coaches, **Alfie** and **Mukesh**, who have supported us in each and every step, our mentor, **Pete** who is always available to help us with our doubts, our supervisor, **Rafal**, who has coordinated the work of the team and always ready with the answers to our queries. Kudos to **Team Bundledore**.
 
 <img src="/img/blog/2017/team_bundledore.jpg" alt="Our team"/>
-<div align="center" class="image-credits">credits:Collage created by Anagha</div>
+<div align="center" class="image-credits">credits: Collage created by Anagha</div>
 
 
 ##### Follow us on:
@@ -94,6 +94,6 @@ We are really thankful to the whole team of RGSoC for giving us this opportunity
 [Amrita H Nair](https://twitter.com/amrtanair)
 
 <img src="/img/blog/2017/thankyou.gif" alt="Thankyou"/>
-<div align="center" class="image-credits">giphy.com</div>
+<div align="center" class="image-credits">credits: giphy.com</div>
 
 
