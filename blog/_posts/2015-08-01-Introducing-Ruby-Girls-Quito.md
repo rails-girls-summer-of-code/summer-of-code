@@ -21,7 +21,7 @@ cryptography.
 <br><br>
 
 <img src ="/img/blog/2015/introducing_quito.jpg" alt="Team Ruby Girls Quito">
-<br><font color="grey"><small><i>Team Ruby Girls Quito! (Image: Ruby Girls Quito)</i></small></font> 
+<div class="image-credits"> Team Ruby Girls Quito! (Image: Ruby Girls Quito)</div>
 <br><br>
 
 **Who we are?**
@@ -61,7 +61,7 @@ proven itself not to be wrong. After all, how can an advice be fallacious if it 
 our silent guardian, our watchful protector: the Dark Knight.
 
 <img src ="/img/blog/2015/batman.jpg" alt="Batman">
-<br><font color="grey"><small><i>yep, that's our coach! (Image: <a href="http://picong101.deviantart.com/" target="_blank">picong101</a>)</i></small></font>
+<div class="image-credits">yep, that's our coach! (Image: <a href="http://picong101.deviantart.com/" target="_blank">picong101</a>) </div>
 
 <br>
 **Why did we apply to the program?**
@@ -114,7 +114,7 @@ the things no one can imagine”
 (Alan Turing)</blockquote> 
 
 <img src ="/img/blog/2015/turing.jpeg" alt="Alan Turing">
-<font color="grey"><small><i>Long life inspiration: Alan Turing (Image: <a href="https://en.wikipedia.org/wiki/Alan_Turing#/media/File:Alan_Turing_Aged_16.jpg" target="_blank">Wikipedia</a></i></small></font>
+<div class="image-credits"> Long life inspiration: Alan Turing (Image: <a href="https://en.wikipedia.org/wiki/Alan_Turing#/media/File:Alan_Turing_Aged_16.jpg" target="_blank">Wikipedia</a></div>
 
 
 -=-=-=-=-=-=-=-=-=-=-=  

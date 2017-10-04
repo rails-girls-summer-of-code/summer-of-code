@@ -84,13 +84,17 @@ Should a coach not be available to help with an issue, students can also reach
 out to remote coaches (see below). Coaches can also be mentors, which is
 explained below.
 
-<h3 id="mentor">Mentor</h3>
+<h3 id="mentor">Mentor / Project Maintainer</h3>
 
 Mentors are experts on the Open Source project the team is working on. Ideally
 they are decision makers, or work closely with decision makers, so they can set
 general goals, give directions and provide feedback.
 
-Since students will be supported by coaches in their day-to-day work, the
+At the beginning of summer Mentors help students design a roadmap for the 
+project. They are available throughout the summer to review pull requests, help
+with concepts and generally support the team.
+
+Since students are supported by coaches in their day-to-day work, the
 workload for mentors is limited. This said, mentors can also assume the role of
 a coach themselves.
 
@@ -103,18 +107,9 @@ the roles, doing up the play bills.
 
 <h3 id="remote_coach">Remote Coach</h3>
 
-Remote Coaches are available for help in a central, public chatroom.
-
-<h3 id="speaker_coach">Speaker Coach</h3>
-
-If you participate in Rails Girls Summer of Code you'll be asked to give a
-lightning talk at a conference (we'll be able to provide some free conference
-tickets, sometimes even full scholarships), at a Rails Girls workshop or your
-local developers meetup.
-
-For this we can put you in touch with experienced conference speakers who
-will review and work with you on your slides, and ideally can meet with you
-to practice your talk with you.
+Remote Coaches are available for help in a central slack channel, which is open to 
+all students. They assist participants when their team coaches are not available 
+or when they need specific technical help (e.g. help figuring out an error).
 
 <h3 id="supervisor">Supervisor</h3>
 
@@ -150,25 +145,25 @@ bacon-makers!
 <h3 id="sponsors">Sponsors</h3>
 
 Sponsors make it possible for Rails Girls Summer of Code to create a paid
-program for participants. Sponsors are sourced from all over the world, and
-represent an entire cross section of industry. While Sponsors receive a great
-deal of publicity and public exposure in return for their generous donations
-(usually a package) but most of the time not being involved actively sponsors
-take on a supporting actors role, but quite obviously a very importing one:
-They essentially pay for students so they are able to participate in this
-program.
+program for participants. Sourced from all of the world, sponsors represent
+a wide cross section of industry and allow for students to participate in the 
+program by making generous donations. Though they often receive a great
+deal of publicity and exposure as a result, they are not often directly
+involved in the projects themselves. Instead they take on a more supporting
+role in the experience of participants. 
+
 
 <h3 id="coaching_company">Coaching Companies</h3>
 
-This role is a formalization of a very successful concept from last year:
-Companies that fully host a students team for the duration of their project and
-allow employees to coach them. You can find out more about this initiative
-here: <a href="/guide/coaching-company">Coaching Companies</a>. Sponsors can be coaching
-companies too, as well as vice versa
+A Coaching Company is one that host an entire student team for the duration of 
+their project. In addition, they allow employees to coach the participants. 
+More information about this initiative is available here: <a href="/guide/coaching-company">Coaching Companies</a>. 
+This role can be combined with the Sponsor role as well.
 
 <h3 id="you">You</h3>
 
 Our <a href="/campaign">crowdfunding campaign</a> is vitally important to
 Summer of Code. Your donation goes directly to participants, and makes a big
-difference to how many can be accepted. If your company can't sponsor an entire
-package, they can still donate via our crowdfunding campaign.
+difference to how many can be accepted. If your company cannot sponsor an 
+entire package they can still donate a smaller amount via the campaign.
+Every and any donation counts!

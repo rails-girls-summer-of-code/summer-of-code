@@ -24,6 +24,7 @@ Additionally, we suggest you to visit a conference. They are an important aspect
 * <a href="#conference">At the Conference</a>
 * <a href="#travel">What About Travel and Accommodation?</a>
 * <a href="#organizers">Infos for Conference Organizers</a>
+* <a href="#conferences">Conference Sponsors in 2017</a>
 
 <h2 id="basics">The Basics</h2>
 The RGSoC orga team is in touch with many conference organizers all over the world. We try to provide free tickets for suitable conferences in your area. We are looking for conferences that are related to your main programming language or are well-fit general topic conferences that are beginner friendly. Additionally, we make sure conferences have a code of conduct in place or otherwise make an effort in creating a harassment-free atmosphere where everyone feels welcome and respected.
@@ -64,7 +65,7 @@ Many companies support their employees in attending conferences. Ask your coache
 <h2 id="organizers">Infos for Conference Organizers</h2>
 You are organizing a conference and want to provide free tickets for Rails Girls Summer of Code students? We will forever keep you in our hearts!
 
-Our students are located all over the world. 2016 teams work on various projects using Ruby/Python/JS and other languages. But we are also looking for general topic developer conferences or full-stack conferences.
+Our students are located all over the world. 2017 teams work on various projects using Ruby/Python/JS and other languages. But we are also looking for general topic developer conferences or full-stack conferences.
 
 There are a few things to consider though:
 
@@ -77,3 +78,135 @@ At the conference, we want our students to hold a lightning talk about their pro
 We are not able to support our students with travel & accommodation. If you have any means to financially support people (e.g. a travel scholarship or a diversity program), please let us know about the details. We will inform the students about how it works for your conference.
 
 Interested? Any further questions? <a href="mailto:contact@rgsoc.org">Write us an email</a> and we can talk about the details.
+
+<h2 id="conferences">Conference Sponsors in 2017</h2>
+
+A huge **Thank You!** to all conferences who support our students and provide free tickets for the 2017 edition.
+
+<section class="conferences-container">
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="https://jsfoo.in/2017/">
+      <img src="/img/blog/2017/conferences/jsfoo-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="https://jsfoo.in/2017/">JSFoo</a></b> <br>
+      <b>Date: </b>September 15-16, 2017 <br>
+      <b>Location: </b>Bangalore, India <br>
+      <b>Twitter: </b><a href="https://twitter.com/jsfoo">@jsfoo</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="https://gotocph.com/">
+        <img src="/img/blog/2017/conferences/goto-cph-logo.png">
+      </a>
+    </p>
+    <p class="conference-text">
+      <b><a href="https://gotocph.com/">GoTo Copenhagen</a></b> <br>
+      <b>Date: </b>October 1-3, 2017 <br>
+      <b>Location: </b> Copenhagen, Denmark <br>
+      <b>Twitter: </b><a href="https://twitter.com/GOTOcph">@GOTOcph</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://berlin2017.codemotionworld.com/">
+      <img src="/img/blog/2017/conferences/codemoberlin-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://berlin2017.codemotionworld.com/">Codemotion Berlin</a></b> <br>
+      <b>Date: </b>October 12-13, 2017 <br>
+      <b>Location: </b>Berlin, Germany <br>
+      <b>Twitter: </b><a href="https://twitter.com/codemoberlin">@codemoberlin</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://www.devday.lk/">
+      <img src="/img/blog/2017/conferences/devday-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://www.devday.lk/">Dev Day</a></b> <br>
+      <b>Date: </b>November 9, 2017 <br>
+      <b>Location: </b>Colombo, Sri Lanka <br>
+      <b>Twitter: </b><a href="https://twitter.com/devdaysl">@devdaysl</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="https://gotober.com/">
+      <img src="/img/blog/2017/conferences/goto-berlin-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="https://gotober.com/">GoTo Berlin</a></b> <br>
+      <b>Date: </b>November 16-17, 2017 <br>
+      <b>Location: </b>Berlin, Germany <br>
+      <b>Twitter: </b><a href="https://twitter.com/gotober">@gotober</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/#inscrevase?utm_campaign=Evento&utm_source=Blog&utm_medium=own&utm_content=RailGirls+">
+      <img src="/img/blog/2017/conferences/rubyconf-br-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/#inscrevase?utm_campaign=Evento&utm_source=Blog&utm_medium=own&utm_content=RailGirls+">RubyConf Brazil</a></b> <br>
+      <b>Date: </b>November 17-18, 2017 <br>
+      <b>Location: </b>São Paulo, Brazil <br>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="https://www.dotconferences.com/">
+      <img src="/img/blog/2017/conferences/dotconf-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="https://www.dotconferences.com/">dotConferences</a></b> <br>
+      <b>DotGo date: </b>November 6, 2017 <br>
+      <b>DotCSS date: </b>November 30, 2017 <br>
+      <b>DotJS date: </b>December 1, 2017 <br>
+      <b>DotSwift date: </b>January 29, 2018 <br>
+      <b>DotAI date: </b>May 31, 2018 <br>
+      <b>DotScale date: </b>June 1, 2018 <br>
+      <b>DotSecurity date: </b>TBA <br>
+      <b>Location: </b>Paris, France <br>
+      <b>Twitter: </b><a href="https://twitter.com/dotconferences">@dotconferences</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://rubyconfindia.org/">
+      <img src="/img/blog/2017/conferences/rubyconf-india-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://rubyconfindia.org/">RubyConf India</a></b> <br>
+      <b>Date: </b>February 9-10, 2018 <br>
+      <b>Location: </b>Bangalore, India <br>
+      <b>Twitter: </b><a href="https://twitter.com/RubyConfIndia">@RubyConfIndia</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="https://rubyconf.org.au/2018">
+        <img src="/img/blog/2017/conferences/rubyconf-au-logo.png">
+      </a>
+    </p>
+    <p class="conference-text">
+      <b><a href="https://rubyconf.org.au/2018">RubyConf Australia</a></b> <br>
+      <b>Date: </b>March 8-9, 2018 <br>
+      <b>Location: </b>Sydney, Australia <br>
+      <b>Twitter: </b> <a href="https://twitter.com/rubyconf_au">@rubyconf_au</a>
+    </p>
+  </div>
+
+</section>

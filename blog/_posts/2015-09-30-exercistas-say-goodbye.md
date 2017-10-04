@@ -13,7 +13,8 @@ categories:
 This summer we pushed, pulled, squashed, force pushed, gave lightning talks, exercised, interviewed, toured, travelled and became official core contributors to exercism. It's all due to Rails Girls Summer of Code and we're so grateful.
 
 <img src="/img/blog/2015/exercistas_first_day.jpg" alt="Exercistas & NIRD" width="600">
-<br><font color="grey"><small><i>(Image: Exercistas)</i></small></font> 
+<div class="image-credits"> (Image: Exercistas)</div>
+
 
 Working out of the NIRD office in Seattle allowed us to learn what it is like to work as part of a team in an office and learn all the tools of working remotely. From time to time, the NIRD staff works remotely and our exercism team spread from the West to East Coasts. We are in Seattle, WA, our supervisor JZ is in L.A., our mentor Katrina is in Texas and of the UX/UI team we are working with, one member is in L.A. and the other in NYC.
 
@@ -24,18 +25,19 @@ That was just the beginning. We toured Julep, Porch, and Facebook, met some of t
 Through RGSoC, we were able to attend the last Madison+ Ruby conference and give a LIGHTNING TALK!
 
 <img src="/img/blog/2015/exercistas-onstage.jpg" alt="Exercistas @ Madison+ Ruby" width="600">
-<br><font color="grey"><small><i>(Image: Exercistas)</i></small></font> 
+<div class="image-credits"> (Image: Exercistas)</div>
 
 At first it was a bit terrifying finding out that we were giving a talk. That’s why we practiced and practiced, gave our talk in front of our coaches, mentor and even a local meetup. The Madison+ Ruby crowd was very supportive, welcoming and seemed to love our talk and exercism. We were also treated like full fledge speakers and received a yummy speaker goodie bag. We even got to meet Anika!
 Attending Madison+ Ruby was a great experience.
 
 <img src="/img/blog/2015/exercistas-anika.jpg" alt="Exercistas <3 Anika" width="600">
-<br><font color="grey"><small><i>(Image: Exercistas)</i></small></font> 
+<div class="image-credits"> (Image: Exercistas)</div>
 
 We ended up doing so much more than we’d planned in our application for RGSoC. We didn’t just restart a conversation about the ease of access of the website for new users, we were able to influence nearly every aspect of the site. 
 
 <img src="/img/blog/2015/exercistas-RGSoC-redesign.jpg" alt="We made this!" width="600">
-<br><font color="grey"><small><i>(Image: Exercistas)</i></small></font> 
+<div class="image-credits"> (Image: Exercistas)</div>
+
 
 ...and that’s just the front page. We submitted a total of 36 pull requests, 29 of which were merged and 7 of which went back to the abyss where they belong.
 
@@ -46,6 +48,7 @@ The two large features we added were information pages showing the languages and
 We surpassed all of our goals for this summer. We never thought we would be able to reach the level of ease we now have with Ruby and exercism after three months. We loved being able to influence the direction the site was taking and having Katrina take our comments and suggestions to heart.
 
 <img src="/img/blog/2015/exercistas-thanks-from-katrina.jpg" alt="Exercistas <3 Katrina" width="600">
-<br><font color="grey"><small><i>(Image: Exercistas)</i></small></font> 
+<div class="image-credits">(Image: Exercistas) </div>
+
 
 Rails Girls, it was a lovely summer, and we are so grateful to have had this opportunity!

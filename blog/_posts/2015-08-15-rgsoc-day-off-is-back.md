@@ -25,7 +25,8 @@ The Day Off will be on August 27th – it's a Thursday. Yay, this almost calls f
 Like last year, there will also be a Day Off on August 27th in Berlin, with a boat party organised by two of our sponsors: [HitFox](http://www.hitfoxgroup.com/) and [SoundCloud](https://soundcloud.com). Just like for the kick-off party, you're welcome to join us if you're in the area (or fly over if you really want to) – we just ask that you let us know in advance, because we have limited space on the boat: we wouldn't want to be crammed like sardines in there ;)  
 
 <img src="/img/blog/2015/rgsoc-day-off.gif">
-<font color="grey"><small><i>(Image: <a href="http://www.buzzfeed.com/rossalynwarren/these-dogs-paddling-at-a-doggy-daycare-pool-party-are-ridicu" target="_blank">Buzzfeed</a>)</i></small></font>  
+<div class="image-credits">(Image: <a href="http://www.buzzfeed.com/rossalynwarren/these-dogs-paddling-at-a-doggy-daycare-pool-party-are-ridicu" target="_blank">Buzzfeed</a>) </div>
+
 
 
 So go and make the best out of your RGSoC Day Off – and feel free to post pictures or tweet about it using the #rgsocdayoff hashtag! <3
