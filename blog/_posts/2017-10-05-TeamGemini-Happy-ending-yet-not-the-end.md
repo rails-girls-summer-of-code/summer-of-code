@@ -20,7 +20,7 @@ We would not be able to thank RGSoC enough for all we learned through this summe
 
 At one such opensource meetup, [Akarsha](https://twitter.com/akarsha98) also met the co-founder of her early-stage startup ‘Invadex’ which she is going to represent in the Alpha program of Web-summit this November which is regarded as the **“The Largest Tech Conference in the World”**. We’ll also organize Django girls, Lisbon to help more girls fall in love with programming and open-source. And because of our exposure with Scikit-Image, [Ramya](https://twitter.com/notrandomatalll) took to research with the Image Analysis and Biometrics lab of our college. This is how Rgsoc helped us kickstart our careers and grow a lot as individuals. 
 
-<iframe src="https://giphy.com/embed/xUPGcxpCV81ebKh7Vu" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-xUPGcxpCV81ebKh7Vu">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/xUPGcxpCV81ebKh7Vu" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-xUPGcxpCV81ebKh7Vu">Source: GIPHY</a></p>
 
 A big big thanks to Rgsoc for giving us the opportunity and for their constant support.
 
@@ -47,9 +47,9 @@ Things we learnt in these 3 months:
 This is not the end, this is definitely not the end!! We are planning to continue to contribute to Scikit-Image. Apart from that, we are super excited to attend [Websummit](https://websummit.com) this November. 
 Andd we are *Organizing [Django Girls Lisbon](https://djangogirls.org/lisbon) on 5th November*. 
 
-<iframe src="https://giphy.com/embed/10UeedrT5MIfPG" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dancing-happy-cartoons-10UeedrT5MIfPG">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/10UeedrT5MIfPG" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dancing-happy-cartoons-10UeedrT5MIfPG">Source: GIPHY</a></p>
 
-See, how happy we are. Yes we are literally dancing like that :D 
+See, how happy we are. :D 
 
 If you are there in Lisbon during that time, come join us! :). Also, next, we’ll organize Django Girls, Delhi in December/January. And next to this, we’ll be going for Rubyconf in February’18. Also, we are now active members of the local communities and we continue to learn and grow; and keep promoting RGSoC wherever we go !! 
 
