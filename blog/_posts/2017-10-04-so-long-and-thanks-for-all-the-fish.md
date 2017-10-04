@@ -1,8 +1,8 @@
 ---
 title: So Long, and Thanks for all the Fish! :D
 layout: post
-created_at: Monday October 02 2017
-permalink: blog/2017-10-02-so-long-and-thanks-for-all-the-fish
+created_at: Wednesday October 04 2017
+permalink: blog/2017-10-04-so-long-and-thanks-for-all-the-fish
 current: blog
 author: prodyoGEEKY
 twitter: prodyogeeky
