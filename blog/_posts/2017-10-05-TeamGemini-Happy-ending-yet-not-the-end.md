@@ -20,7 +20,7 @@ We would not be able to thank RGSoC enough for all we learned through this summe
 
 At one such opensource meetup, [Akarsha](https://twitter.com/akarsha98) also met the co-founder of her early-stage startup ‘[Invadex](invadex.in)’ which she is going to represent in the Alpha program of [Web-summit](www.websummit.com) this November which is regarded as **“The Largest Tech Conference in the World”**. And because of our exposure with Scikit-Image, [Ramya](https://twitter.com/notrandomatalll) decided to pursue research with the Image Analysis and Biometrics lab of our college. This is how Rgsoc helped us kickstart our careers and grow a lot as individuals. 
 
-<iframe src="https://giphy.com/embed/l3q2u6MXJJEKiTZIY" width="700" height="480" style="float:initial" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/l3q2u6MXJJEKiTZIY" width="700" height="480" style="float:initial" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p align="center"><cite>Source: GIPHY</cite></p>
 
 A big big thanks to Rgsoc for giving us the opportunity and for their constant support.
 
@@ -45,9 +45,9 @@ Things we learnt in these 3 months:
 ## Our journey ahead
 
 This is not the end, this is definitely not the end!! We are planning to continue to contribute to Scikit-Image. Apart from that, we are super excited to attend [Websummit](https://websummit.com) this November. 
-Andd we are *Organizing [Django Girls Lisbon](https://djangogirls.org/lisbon) on 5th November* to let more girls fall in love with programming and open-source.. 
+And we are *Organizing [Django Girls Lisbon](https://djangogirls.org/lisbon) on 5th November* to let more girls fall in love with programming and open-source.. 
 
-<iframe src="https://giphy.com/embed/10UeedrT5MIfPG" width="700" height="480" frameBorder="0" style="float:initial" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/10UeedrT5MIfPG" width="700" height="480" frameBorder="0" style="float:initial" class="giphy-embed" allowFullScreen></iframe><p align="center"><cite>Source: GIPHY</cite></p>
 
 See, how happy we are. :D 
 
