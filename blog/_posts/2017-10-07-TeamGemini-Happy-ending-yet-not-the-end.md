@@ -1,8 +1,8 @@
 ---
 title: Happy Ending, yet not the end !
 layout: post
-created_at: Thurs Oct 05 2017
-permalink: blog/2017-10-05-TeamGemini-Happy-ending-yet-not-the-end
+created_at: Sat Oct 07 2017
+permalink: blog/2017-10-07-TeamGemini-Happy-ending-yet-not-the-end
 current: blog
 author: Akarsha and Ramya
 twitter: team_Gemini_
