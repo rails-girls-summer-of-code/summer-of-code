@@ -127,6 +127,19 @@ A huge **Thank You!** to all conferences who support our students and provide fr
 
   <div class="conference-item">
     <p class="conference-logo">
+      <a href="http://events.linuxfoundation.org/events/open-source-summit-europe">
+      <img src="/img/blog/2017/conferences/ossummit-logo.png"></a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://events.linuxfoundation.org/events/open-source-summit-europe">Open Source Summit Europe</a></b> <br>
+      <b>Date: </b>October 23-26, 2017 <br>
+      <b>Location: </b>Prague, Czech Republic <br>
+      <b>Twitter: </b><a href="https://twitter.com/eventsLF">@eventsLF</a>
+    </p>
+  </div>
+
+  <div class="conference-item">
+    <p class="conference-logo">
       <a href="http://www.devday.lk/">
       <img src="/img/blog/2017/conferences/devday-logo.png"></a>
     </p>
