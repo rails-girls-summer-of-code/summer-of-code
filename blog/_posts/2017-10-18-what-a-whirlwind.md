@@ -1,8 +1,8 @@
 ---
 title: Team Impact Devs - What a Whirlwind!
 layout: post
-created_at: Sun Oct 1 2017
-permalink: blog/_posts/2017-10-01-What-a-Whirlwind
+created_at: Wed Oct 18 2017
+permalink: blog/_posts/2017-10-18-What-a-Whirlwind
 author: Team ImpactDevs
 twitter: teamImpactdevs
 ---
