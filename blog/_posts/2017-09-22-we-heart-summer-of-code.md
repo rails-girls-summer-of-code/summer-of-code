@@ -4,8 +4,7 @@ layout: post
 created_at: Friday 22 September 2017
 permalink: blog/2017-09-22-we-heart-summer-of-code
 current: blog
-author: Emma Deacon
-twitter: emmamdeacon
+author: Emma Deacon & Kara de la Marck
 categories:
 - student-posts
 ---
@@ -77,3 +76,11 @@ You are the true stars of our summer, and you are continuously changing the worl
 # What is next for us?
 
 Well, we’re both going to continue to contribute to Open Source. Kara is motivated and inspired to continue contributing to Babel. And we both plan on regularly contributing to other open source projects.  We’re hoping to talk about Rails Girls Summer of Code to everyone and anyone that will listen to us, and maybe - just maybe - improve our ping pong skills :)
+
+<br>
+
+## You can find us here
+
+__[@emmamdeacon](https://twitter.com/emmamdeacon)__
+
+__[@KaraMarck](https://twitter.com/KaraMarck)__
