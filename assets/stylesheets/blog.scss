@@ -7,6 +7,16 @@
       text-decoration: underline;
     }
   }
+  .meta.categories {
+    margin-top:-15px;
+    font-size: 80%;
+    .tag {
+      text-transform:capitalize;
+    }
+    .lowercase {
+      text-transform: lowercase;
+    }
+  }
   img {
     width: 100%;
     height: auto;
