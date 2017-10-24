@@ -5,6 +5,7 @@ created_at: Friday 22 September 2017
 permalink: blog/2017-09-22-we-heart-summer-of-code
 current: blog
 author: Emma Deacon & Kara de la Marck
+twitter: emmamdeacon
 categories:
 - student-posts
 ---

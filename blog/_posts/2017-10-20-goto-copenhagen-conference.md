@@ -58,7 +58,7 @@ Here is Team Pivotal London presenting our work on the final day of the programm
 <img src="/img/blog/2017/team-pivotal-london.jpg" alt="Team Pivotal London loves RGSoC"/>
 <div align="center" class="image-credits">Team Pivotal London ❤️ 's RGSoC (Image Credit: Denise Yu)</div>
 
-Attending GOTO Copenhagen with my RGSoC supervisor, [Inês]((https://twitter.com/ines_opcoelho)), and meeting other RGSoC organisers there such as [Laura](https://twitter.com/@lauralindal), [Nynne](https://twitter.com/nynnest), and Tam was a wonderful way to celebrate the summer's achievements and join the wider RGSoC community!
+Attending GOTO Copenhagen with my RGSoC supervisor, [Inês](https://twitter.com/ines_opcoelho), and meeting other RGSoC organisers there such as [Laura Laugwitz](https://twitter.com/@lauralindal), [Nynne Christoffersen](https://twitter.com/nynnest), and [Tam Eastley](https://github.com/berlintam) was a wonderful way to celebrate the summer's achievements and join the wider RGSoC community!
 
 <img src="/img/blog/2017/rgsoc-organisers-goto-copenhagen.jpg" alt="Rails Girls Summer of Code meeting at GOTO Copenhagen"/>
 <div align="center" class="image-credits">Three generations of Rails Girls Summer of Code participants! (Image Credit: stranger at a pub)</div>
