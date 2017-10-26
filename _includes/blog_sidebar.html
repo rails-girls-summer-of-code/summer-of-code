@@ -44,7 +44,7 @@
         {% if category[0] != 'blog' %}
           <span class="site-tag">
             <li>
-              <a href="#{{ category | first | slugify }}">
+              <a href="/blog/categoryview/#{{ category | first | slugify }}">
                     {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
               </a>
             </li>
