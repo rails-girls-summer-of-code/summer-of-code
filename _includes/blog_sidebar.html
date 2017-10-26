@@ -36,7 +36,22 @@
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
-    <p>See all posts in the <a href="/blog/archive/">archive</a> or <a href="/blog/categoryview">browse by category</a>!</p>
+    <p>See all posts in the <a href="/blog/archive/">archive</a> <!-- or <a href="/blog/categoryview">browse by category</a>!--></p>
+    <h3 class="l-sidebar__heading">Browse by category</h3>
+    {% assign categories = site.categories | sort %}
+      <ul class="list list--none">
+      {% for category in categories %}
+        {% if category[0] != 'blog' %}
+          <span class="site-tag">
+            <li>
+              <a href="#{{ category | first | slugify }}">
+                    {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
+              </a>
+            </li>
+          </span>
+        {% endif %}
+      {% endfor %}
+    </ul>
   </div>
   <section>
     <h3  class="l-sidebar__heading">Latest tweets</h3>
