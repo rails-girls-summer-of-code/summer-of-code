@@ -1,5 +1,5 @@
 ---
-title: JSFoo 2017 - Team Serv0101 
+title: JSFoo 2017 - Team Serv0101
 layout: post
 created_at: Wed Sep 27 2017
 permalink: blog/2017-09-27-serv0101-conference-blog
@@ -7,6 +7,7 @@ current: blog
 author: Neha & Rakhi
 categories:
 - student-posts
+- conferences
 ---
 
 ## Team Serv0101 at JSFoo 2017
@@ -46,7 +47,7 @@ Tiny computers such as the RaspberryPi, Arduino and C.H.I.P. have finally reache
 
 MIDI — a niche protocol that’s been around since 1983 and was originally designed for musical instruments to communicate with one another.
 
-Tiny Computers + JavaScript + MIDI - create great platform for both education and entertainment purposes. 
+Tiny Computers + JavaScript + MIDI - create great platform for both education and entertainment purposes.
 
 **2. Building Immersive Virtual Reality experiences quickly with WebVR by <a href="https://twitter.com/ram_gurumukhi">Ram Vaishnav</a>**
 
