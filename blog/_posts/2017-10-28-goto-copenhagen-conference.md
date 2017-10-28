@@ -1,20 +1,21 @@
 ---
 title: GOTO Copenhagen 🇩🇰
 layout: post
-created_at: Wed Oct 25 2017
-permalink: blog/2017-10-25-KaradelaMarck-GOTO-Copenhagen
+created_at: Sat Oct 28 2017
+permalink: blog/2017-10-28-KaradelaMarck-GOTO-Copenhagen
 current: blog
 author: Kara de la Marck
 twitter: KaraMarck
 categories:
 - student-posts
+- conferences
 ---
 GOTO conferences, “for developers by developers”, are incredible. I had watched [GOTO talks on YouTube](https://www.youtube.com/user/GotoConferences) and was familiar with the quality of the conferences, so when I was offered a ticket to [GOTO Copenhagen](https://gotocph.com/) by Rails Girls Summer of Code, I jumped at the chance to attend!
 
 What made this opportunity extra enjoyable was that my wonderful RGSoC supervisor, [Inês Coelho](https://twitter.com/ines_opcoelho), was also attending the conference, and we were able to finally meet in person! It was so much fun to spend time together exploring Copenhagen and at the conference.
 
 <img src="/img/blog/2017/kara-ines-copenhagen.jpg" alt="Inês and Kara in Copenhagen"/>
-<div align="center" class="image-credits">Image Credit: Inês and Kara</div>
+<div class="image-credits">Image Credit: Inês and Kara</div>
 
 GOTO Copenhagen was a three day conference with each day organised into tracks.
 
@@ -41,7 +42,7 @@ I'm very glad I jumped tracks to watch [Laura Laugwitz's](https://twitter.com/@l
 **Pop quiz!** How many of the women in the slide below can you name?
 
 <img src="/img/blog/2017/laura-laugwitz-talk-goto-copenhagen.jpg" alt="Laura Laugwitz speaking at GOTO Copenhagen"/>
-<div align="center" class="image-credits">Laura Laugwitz speaking at GOTO Copenhagen (Image Credit: Dajana Guenther)</div>
+<div class="image-credits">Laura Laugwitz speaking at GOTO Copenhagen (Image Credit: Dajana Guenther)</div>
 
 *(Answers to the quiz are given at the end of the blog.)*
 
@@ -56,12 +57,12 @@ I feel very grateful to have had the opportunity to attend GOTO Copenhagen thank
 Here is Team Pivotal London presenting our work on the final day of the programme -- and detailing how much we love RGSoC!
 
 <img src="/img/blog/2017/team-pivotal-london.jpg" alt="Team Pivotal London loves RGSoC"/>
-<div align="center" class="image-credits">Team Pivotal London ❤️ 's RGSoC (Image Credit: Denise Yu)</div>
+<div class="image-credits">Team Pivotal London ❤️ 's RGSoC (Image Credit: Denise Yu)</div>
 
 Attending GOTO Copenhagen with my RGSoC supervisor, [Inês](https://twitter.com/ines_opcoelho), and meeting other RGSoC organisers there such as [Laura Laugwitz](https://twitter.com/@lauralindal), [Nynne Christoffersen](https://twitter.com/nynnest), and [Tam Eastley](https://github.com/berlintam) was a wonderful way to celebrate the summer's achievements and join the wider RGSoC community!
 
 <img src="/img/blog/2017/rgsoc-organisers-goto-copenhagen.jpg" alt="Rails Girls Summer of Code meeting at GOTO Copenhagen"/>
-<div align="center" class="image-credits">Three generations of Rails Girls Summer of Code participants! (Image Credit: stranger at a pub)</div>
+<div class="image-credits">Three generations of Rails Girls Summer of Code participants! (Image Credit: stranger at a pub)</div>
 <br>
 
 *Answers to quiz: Ada Lovelace. Grace Hopper. Dorothy Vaughan. Evelyn Boyd Granville. Audrey Tang.*
