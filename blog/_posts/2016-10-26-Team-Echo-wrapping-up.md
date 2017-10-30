@@ -8,6 +8,7 @@ author: Naggita Keziah and Nanjekye Joannah
 twitter: TeamEchoUg
 categories:
 - student-posts
+- conferences
 ---
 
 ### Team Echo: Our RGSoC Landing
@@ -20,7 +21,7 @@ The unforgettable memories of updating teams app, responding to emails and slack
 <br />
 <span class ="image-credits">Team Echo photo (put together by Keziah Naggita)</span>
 
-### Our summer Achievements 
+### Our summer Achievements
 
 The biggest highlight was the fact that RGSoC introduced us to open source software development. We all made our first PRs during RGSoC and have also contributed to other FOSS projects during our summer and intend to continue doing so after such inspired mentorship from [Florian Bruhin](https://twitter.com/the_compiler) and [Kasia jarmołkowicz](https://twitter.com/_idengager) not forgetting our coaches [Wilson Kiggundu](https://twitter.com/WilsonKiggundu) and [Augustine Kisitu](https://twitter.com/austiine04).
 
@@ -129,11 +130,11 @@ We cannot say thank you enough to all the people that made RGSoC 2016 a success,
 
 **RGSoC Sponsors**: Thank you for making it possible for us to ditch everything else for three months and dive full-time into learning! For the swag... you really made these months worth it.
 
-**Our friends and community**: Thank you for bearing with us and supporting us while we were engaged in our RGSoC. You encouraged and pushed us to continue and pursue our dreams. We shall forever be thankful. Innovation Village, we value all your support, your encouragement, the space you gave us to host Rails Girls Kampala and for giving us a chance to speak at your events. 
+**Our friends and community**: Thank you for bearing with us and supporting us while we were engaged in our RGSoC. You encouraged and pushed us to continue and pursue our dreams. We shall forever be thankful. Innovation Village, we value all your support, your encouragement, the space you gave us to host Rails Girls Kampala and for giving us a chance to speak at your events.
 
 ### What are our plans after RGSoC?
 
-We have been started off to FOSS contribution and are not looking back. We are already contributing to other FOSS projects. We shall therefore continue contributing to qutebrowser and other open source projects. We shall also take it upon ourselves to mentor others to begin contributing to open source projects. 
+We have been started off to FOSS contribution and are not looking back. We are already contributing to other FOSS projects. We shall therefore continue contributing to qutebrowser and other open source projects. We shall also take it upon ourselves to mentor others to begin contributing to open source projects.
 
 We shall ensure Rails girls kampala is sustained and all its activities. This shall act as a mentoring platform for even future scholars. We shall finish Rails Girls Kampala 2016 cohort and prepare for the next cohorts.
 
@@ -142,9 +143,3 @@ Keziah will go back to university to finish her final year in software engineeri
 Joannah will continue with her studies in Aeronautical Engineering at the East African School of Aviation in Nairobi, Kenya. Trying to marry code and aviation. She shall continue contributing to FOSS and mentoring others, too.
 
 The RGSoC community we shall still keep in touch because you are an amazing community. Looking forward to future work with you: be it mentoring, coaching, you name it. Always available!!!!
-
-
-
-
-
-

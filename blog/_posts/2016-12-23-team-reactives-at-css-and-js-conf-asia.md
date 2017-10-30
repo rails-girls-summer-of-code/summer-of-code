@@ -8,11 +8,12 @@ author: Team Reactives
 twitter: shwetha_ravi3
 categories:
 - student-posts
+- conferences
 ---
 
 ## Hello RGSoC Blog Readers!
 
-Team Reactives here and we have had the amazing opportunity to attend the JS and CSS conf Asia 2016! Kicking off with CSS conf, the conferences featured the likes of Chris Lilley “the father of SVG (Scalable Vector Graphics)” who talked to us about the evolution of CSS4 colors and author Lea Verou who introduced us to the concept of css variables. 
+Team Reactives here and we have had the amazing opportunity to attend the JS and CSS conf Asia 2016! Kicking off with CSS conf, the conferences featured the likes of Chris Lilley “the father of SVG (Scalable Vector Graphics)” who talked to us about the evolution of CSS4 colors and author Lea Verou who introduced us to the concept of css variables.
 
 ![Can I Use It](/img/blog/2016/team-reactives-cssconf-CanIUseIt.jpg)
 <font color="grey"><small><i>Chris Liley on CSS4 colors - Source: Team Reactives</i></small></font>

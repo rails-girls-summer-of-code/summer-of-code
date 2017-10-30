@@ -6,10 +6,12 @@ permalink: blog/2017-03-15-ruby-conf-australia
 current: blog
 author: Ramya
 twitter: ramya690
-categories: student-posts
+categories:
+- student-posts
+- conferences
 ---
 
-I had the privilege to attend RubyConf held in Melbourne last month as a part of the Rails Girls Summer of Code program. The Venue was set at the Melbourne Convention Hall and it was a great opportunity to meet so many interesting people in the Ruby community. Also a good learning experience. 
+I had the privilege to attend RubyConf held in Melbourne last month as a part of the Rails Girls Summer of Code program. The Venue was set at the Melbourne Convention Hall and it was a great opportunity to meet so many interesting people in the Ruby community. Also a good learning experience.
 
 ![Ruby Conf Australia](/img/blog/2017/2017-03-15-rubyconf-logo-au.jpg)
 <div class="image-credits">photo: RubyConf Australia</div>
@@ -40,5 +42,3 @@ She mentioned: “If nothing bad happens, you don’t have a good story to tell�
 
 
 Apart from all these amazing talks, I enjoyed delicious food, unlimited coffee which was served all day. It was another grateful event. Thanks to all the people who made it possible. And many thanks to the RGSOC committee for sponsoring the tickets.
-
-

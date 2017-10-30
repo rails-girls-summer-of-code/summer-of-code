@@ -93,5 +93,5 @@ Machisté highlighted throughout his talk how there exist
  our team gave input as to how to improve the continuous integration system.
 
  ![Travis CI foundation with current and past RGSoC alumna](/img/blog/2016/Github Universe/travis-ci-foundation-alumna.jpeg) <font><small><i>Photo taken by <a href="https://www.linkedin.com/in/bekkamurphy">Rebekkah Murphy</a></i></small></font>
- 
+
  Thank you Travis foundation for supporting past, current, and future women in Open Source.

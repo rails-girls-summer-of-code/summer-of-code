@@ -8,6 +8,7 @@ author: kindr3d
 twitter: TKindr3d
 categories:
 - student-posts
+- conferences
 ---
 
 ### Team kindr3d @ Beyond Tellerrand 16

@@ -8,6 +8,7 @@ author: Katarzyna and Ula
 twitter: KaUlah_Team
 categories:
 - student-posts
+- conferences
 ---
 
 Rails Girls Summer of Code is over. It was very intensive, with ups and downs time, but thanks to our whole team it was also very successful. For the all summer we were working on GitLab Community Edition which provides Git repository management, code reviews, issue tracking, activity feeds and wikis. We would like to share our experience gained during RGSoC project, what have we learnt, what have we done. This is a short summary of our summer.

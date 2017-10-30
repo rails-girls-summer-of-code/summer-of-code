@@ -6,7 +6,9 @@ permalink: blog/2016-11-01-team-mitpal-connect-tech-2016
 current: blog
 author: Sherri
 twitter: MitPal2016
-categories: student-posts
+categories:
+- student-posts
+- conferences
 ---
 
 Summing up Rails Girls Summer of Code (RGSOC) is not a simple task. True. RGSOC was an opportunity to work on an open source project, but the experience was so much more than that. After 3 months of working together on our project, Open Source Event Management System (OSEM), we had developed our own team vibe. We had our routine down pat. We spent our mornings working through our latest issue. We ate our lunches together outside followed by a walk around the block. These times became as important as our time coding. That was our time to talk about our lives, our interests, experiences, and sometimes fears. We learned a lot about working with Ruby, but we learned even more about ourselves as we worked on our project. Ups, downs, joy, laughter (lots of laughter), learning, frustration, and accomplishment. We went through it all. Together. That was one of the best parts.
@@ -61,6 +63,6 @@ The last tip I have is to take care of yourself. Conferences make for long days.
 
 ## Where Did the Time Go?
 
-Rails Girls Summer of Code flew by so quickly. Too quickly. When we started, there seemed to be so much for us to do and learn. How would we get it all  done? We felt a little wobbly. Unsteady. Not confident in ourselves or our abilities. As the summer moved along we discovered so much about who we are and what we are capable of. We got to know ourselves and each other so well. We had a community of people who cared about us and looked out for us, and we had our team. Team MitPal. We came. We saw. We killed it! 
+Rails Girls Summer of Code flew by so quickly. Too quickly. When we started, there seemed to be so much for us to do and learn. How would we get it all  done? We felt a little wobbly. Unsteady. Not confident in ourselves or our abilities. As the summer moved along we discovered so much about who we are and what we are capable of. We got to know ourselves and each other so well. We had a community of people who cared about us and looked out for us, and we had our team. Team MitPal. We came. We saw. We killed it!
 
 We are so thankful to RGSOC and the whole community of people who made this experience possible. We are stronger and more confident today because of this experience and we are forever greatful.

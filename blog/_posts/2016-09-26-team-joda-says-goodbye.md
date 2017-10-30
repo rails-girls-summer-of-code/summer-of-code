@@ -8,6 +8,7 @@ author: Johanna Lang and Dayana Mick
 twitter: Teamjoda2016
 categories:
 - student-posts
+- conferences
 ---
 
 It has been a summer full of some happy coincidences and one we have just discovered is that apart from having a *Star Wars* related name like the [Coding Padawans](https://twitter.com/code_padawans), we, [Team Joda](https://twitter.com/Teamjoda2016) are writing our blog exactly two years after they published  [it](http://railsgirlssummerofcode.org/blog/code_padawans-2014) 😉 and are getting ready to end our coding journey as [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/) students.

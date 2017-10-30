@@ -8,6 +8,7 @@ author: Taneea S Agrawaal and Vrinda Malhotra
 twitter: Team_Twitches
 categories:
 - student-posts
+- conferences
 ---
 
 
@@ -49,7 +50,7 @@ After the talks were over, a networking session for all attendees of the meetup 
 ### 1st day of the conference:
 The conference kicked off with a keynote by the Ruby creator himself — Yukihiro Matsumoto (popularly known as Matz), where he stressed upon the importance of a community for programmers. The day went by with more enlightening sessions by a variety of speakers from India and abroad. With each new speaker came a new perspective, a new technique, a new way to code. We were so filled with information, we thought our brains would explode!
 As the day neared an end, the time to present came closer.
- 
+
 
 ![Team Twitches](/img/blog/2017/twitches-talk.jpg)
 <div class="image-credits">Our Talk titled "What Does A Programmer Look Like?" (Photo: Team Twitches)</div>
@@ -67,7 +68,7 @@ The second day was even better than the first. We heard talks about chatbots, sk
 
 ### The diverse set of people we met:
 We can’t even begin to describe the number of people we interacted with at the conference! From other student scholars, to people who lived half a world away, we met everyone! And keeping aside the great amount of laughter and fun, the amount of meaningful conversations we had really helped us gain perspective, and made us aware of the different kinds of thought processes, and the different kinds of problems and solutions that people need!
-It was a lesson in Inclusivity and Holistic Approaches 101. We were also pleased to meet one of our remote coaches for the summer, Kashyap, who was instrumental in keeping us focused on the goal. 
+It was a lesson in Inclusivity and Holistic Approaches 101. We were also pleased to meet one of our remote coaches for the summer, Kashyap, who was instrumental in keeping us focused on the goal.
 
 ![Team Twitches](/img/blog/2017/twitches-rgnd.png)
 <div class="image-credits">Rails Girls New Delhi! (Image: Team Twitches/Rails Girls New Delhi)</div>

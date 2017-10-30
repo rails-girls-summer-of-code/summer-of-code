@@ -8,6 +8,7 @@ author: Team Reactives
 twitter: shwetha_ravi3
 categories:
 - student-posts
+- conferences
 ---
 
 ## Hello again RGSoC Blog Readers!
@@ -17,7 +18,7 @@ Shwetha from Team Reactives here and I was excited to experience FOSSASIA at Sin
 ![At the Entrance](/img/blog/2017/team-reactives-fossasia-AttheEntrance.jpg)
 <div class="image-credits">At the entrance - Source: Team Reactives</div>
 
-I was tempted to spend all day at the science centre's famous VR gallery with a full fledged flight simulator where you'll be able to flap and take off just like a bird but was glad I stopped by the Microsoft Mission to Mars workshop by James Lee where I got to learn how to build my very own conversationally intelligent personal chatbot using Microsoft LUIS AI. 
+I was tempted to spend all day at the science centre's famous VR gallery with a full fledged flight simulator where you'll be able to flap and take off just like a bird but was glad I stopped by the Microsoft Mission to Mars workshop by James Lee where I got to learn how to build my very own conversationally intelligent personal chatbot using Microsoft LUIS AI.
 
 ![VR Flight Simuator](/img/blog/2017/team-reactives-fossasia-VRFlightSimulator.jpg)
 <div class="image-credits">Source: <a href="http://www.channelnewsasia.com/image/2336330/1449798532000/large16x9/1010/568/e3-exhibition-at-science-centre-birdly.jpg" target="_blank">Channel News Asia</a></div>

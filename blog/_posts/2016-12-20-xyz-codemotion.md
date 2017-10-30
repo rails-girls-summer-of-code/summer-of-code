@@ -8,6 +8,7 @@ author: Veronika and Daria
 twitter: xyzcoode
 categories:
 - student-posts
+- conferences
 ---
 
 Team XYZ has had the wonderful opportunity to attend the [Codemotion](http://berlin2016.codemotionworld.com/) conference in Berlin, and these are some of the highlights of our experience.
