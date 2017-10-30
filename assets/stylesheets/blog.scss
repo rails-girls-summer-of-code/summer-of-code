@@ -20,6 +20,8 @@
   img {
     width: 100%;
     height: auto;
+    display: block;
+    margin: auto;
   }
   .smaller {
     width: 30%;
@@ -40,6 +42,7 @@
     font-size: 75%;
     margin-top: .5em;
     margin-bottom: 2em;
+    text-align: center;
   }
 
 }
@@ -52,6 +55,8 @@
   }
   img {
     width: 100%;
+    display: block;
+    margin: auto;
   }
   a {
     position: absolute;

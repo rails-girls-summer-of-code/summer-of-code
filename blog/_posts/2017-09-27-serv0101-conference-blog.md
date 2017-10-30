@@ -12,7 +12,7 @@ categories:
 
 ## Team Serv0101 at JSFoo 2017
 <img src="/img/blog/2017/2017-09-25-Serv0101-JSfoo2017.png">
-<div class="image-credits"><center>Screenshot</center></div>
+<div class="image-credits">Screenshot</div>
 JSFoo was launched in 2011 which is India’s first JavaScript conference. The JS community in India has grown phenomenally since then. JavaScript now pervades every aspect of web development – browsers, apps, front-end, backend, mobile and IoT, and there’s always scope to understand new ideas and solutions. The conference explores new ideas, implementing innovative solutions, and learning from experiences, especially negative ones!
 
 JSFoo was two-day conference(15th Sep 2017 - 16th Sep 2017), Bangalore, India.
@@ -39,7 +39,7 @@ This year theme was building reliable web apps. Talks happened on these topics a
 **1. Tiny Computers, JavaScript and MIDI by <a href="https://twitter.com/georgemandis">George Mandis</a>**
 
 <img src="/img/blog/2017/2017-09-25-Serv0101-George.jpeg">
-<div class="image-credits"><center>Photo taken by Neha</center></div>
+<div class="image-credits">Photo taken by Neha</div>
 George Mandis is a main developer of Konami.js. Being a konami js lover it was really nice to see his talk and meet him in person.
 In his JSFoo talk, we explored why MIDI implementation and prevalence in hardware makes uniquely intriguing and accessible platform for creative coding.
 
@@ -69,12 +69,12 @@ The one we used in the workshop is A-Frame. A-Frame is an open-source web framew
 In workshop we learned various concepts & APIs of A-Frame and we also build Hello WebVR which look something like this :)
 
 <img src="/img/blog/2017/2017-09-25-Serv0101-WebVR.jpeg">
-<div class="image-credits"><center>Photo taken by Neha</center></div>
+<div class="image-credits">Photo taken by Neha</div>
 
 #### Enjoyed playing game
 
 <img src="/img/blog/2017/2017-09-25-Serv0101-JSfoo2017-Game.jpg-large">
-<div class="image-credits"><center>Photo taken by Rakhi</center></div>
+<div class="image-credits">Photo taken by Rakhi</div>
 
 At the end of day we all the women gathered around a table and everyone there shared how they started, what they learned from JSFoo and how we can apply for the talk next year in JSFoo. We also shared our experience of RGSoC internship.
 Thanks to Rgsoc for providing us tickets and having us in conference. We really enjoyed being there and had a good experience, we will look forward to attending this conf next year.

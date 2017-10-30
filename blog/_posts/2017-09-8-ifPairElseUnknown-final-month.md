@@ -13,7 +13,7 @@ categories:
 # __Hello World!__
 
 ![Team Banner](/img/blog/2017/ifPairElse_team.png)
-<div align="center" div class="image-credits">Image created by <a href="https://www.if-me.org/">if-me.org</a></div>
+<div class="image-credits">Image created by <a href="https://www.if-me.org/">if-me.org</a></div>
 
 ### __Update on our project__
 
@@ -31,7 +31,7 @@ With the support and guidance of Julia and our coaches we have completed a numbe
 By the end of RGSoC, we will have done:
 
 ![IfPairElse Achivements](/img/blog/2017/ifPairElse_achievements.png)
-<div align="center" div class="image-credits">Created by Sophie McDonald using <a href="https://www.canva.com/">Canva</a></div>
+<div class="image-credits">Created by Sophie McDonald using <a href="https://www.canva.com/">Canva</a></div>
 
 
 #### __What we have learnt__
@@ -39,7 +39,7 @@ By the end of RGSoC, we will have done:
 __Pair Programming__ - Two brains are better than one and four eyes are better than two! We set up our environment with; 2 monitors, 2 keyboards and 2 mice/trackpads which has helped us write efficiently and keep us engaged while pair programming.
 
 ![IfPairElse Pair Programming Setup](/img/blog/2017/IfPairElse_setup.jpg)
-<div align="center" div class="image-credits">Photo taken by Jenny and Sophie</div>
+<div class="image-credits">Photo taken by Jenny and Sophie</div>
 
 __Git__ - The world of Git is never ending. Branches and branches and branches are unlimited and then remembering to merge and rebase and reconnect to the main branch. The Git journey has taken us to many places with a rebase back to home.
 
@@ -48,7 +48,7 @@ __Ruby__ - There are more than one way to solve a problem. Ruby has helped us to
 __Rails__ - Rails is a framework which has provided structure and simplified repetitive tasks. It’s also pretty magical.
 
 ![Miracle](/img/blog/2017/ifPairElse_miracle.gif)
-<div align="center" div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
+<div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
 
 __Javascript__ - Javascript likes its semi-colons ‘;’ and ‘;’! And don’t forget the commas!
 
@@ -66,7 +66,7 @@ Getting the hang of Git was a bit of a challenge. We discovered that we could ca
 Pair programming can be challenging when working remotely. We worked remotely for 9 days and found it challenging because we were both working in different timezones and often had issues with internet connection.  
 
 ![Passion Led Us Here](/img/blog/2017/ifPairElse_quote.jpg)
-<div align="center" div class="image-credits">Photo sourced from <a href="https://stocksnap.io/photo/Y4OWV80EPY">Stocksnap</a></div>
+<div class="image-credits">Photo sourced from <a href="https://stocksnap.io/photo/Y4OWV80EPY">Stocksnap</a></div>
 
 #### __What we have achieved__
 
@@ -83,7 +83,7 @@ Pair programming can be challenging when working remotely. We worked remotely fo
 * Ate lots of chocolate.
 
 ![Celebrate!](/img/blog/2017/ifPairElse_celebrate.gif)
-<div align="center" div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
+<div class="image-credits">Sourced from <a href="https://giphy.com">giphy.com</a></div>
 
 #### __What's next?__
 
@@ -102,7 +102,7 @@ A __Thank You__ to __[Zendesk](https://www.zendesk.com/)__ for providing a welco
 __Thank You__ to our Project mentor __[Julia Nguyen](https://twitter.com/fleurchild)__ it has been a pleasure working on your project and we look forward to continuing our work on [if-me.org](https://www.if-me.org/). We also want to thank Julia and Bee, for our personalised RGSoC stickers and the wonderful if-me community for their support.
 
 ![ifme stickers](/img/blog/2017/ifPair_ifme_stickers.jpg)
-<div align="center" div class="image-credits">Photo taken by Jenny and Sophie</div>
+<div class="image-credits">Photo taken by Jenny and Sophie</div>
 
 __Thank You__ to our RGSoC Supervisor __Vi Nguyen__, it has been a pleasure getting to know you.
 

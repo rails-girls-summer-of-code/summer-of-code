@@ -1,5 +1,5 @@
 ---
-title: RGSoC- the grand finale
+title: RGSoC - the grand finale
 layout: post
 created_at: Tue October 3 2017
 permalink: blog/2017-10-3-RGSoC- the grand finale
@@ -11,7 +11,7 @@ categories:
 ---
 
 <img src="/img/blog/2017/logo_bundledore.jpg" alt="Our logo"/>
-<div align="center" class="image-credits">Our Logo (created by Amrita Nair and Anagha R)</div>
+<div class="image-credits">Our Logo (created by Amrita Nair and Anagha R)</div>
 
 It’s September, the long journey which started off on July 1st is about to touch the finish line. We can’t believe that we have reached the final phase. Time flies so quick.
 
@@ -25,7 +25,7 @@ We have been working on  [AFDC](https://leagues.afdc.com/) ( Atlanta Flying Disc
  We had a super cool workplace, the [FOSS](http://foss.amrita.ac.in/) lab in our college where we settle down in the evening (soon after our classes) and continue working till late night. And of course, the coding continues until midnight. We are really grateful to our whole FOSS team and to our friends, who supported us all these days.
 
 <img src="/img/blog/2017/workspace.jpg" alt="Our workspace"/>
-<div align="center" class="image-credits">Our Workspace- the FOSS lab (img credits: Anagha's phone)</div>
+<div class="image-credits">Our Workspace - the FOSS lab (img credits: Anagha's phone)</div>
 
 
 
@@ -52,24 +52,24 @@ We have been working on  [AFDC](https://leagues.afdc.com/) ( Atlanta Flying Disc
 
 ## Issues worked on:
 
-This summer taught us a lot about the workflow of a project and how priorities change. We started with three issues in the beginning of the summer and now, towards the end, our plan has more or less changed. We integrated the site with it's MailChimp account. This feature interested us a lot because we experimented around with MailChimp and actually sent out a few promotional e-mails(from a dummy account). Now we know how all the popular websites send out all those emails :) 
-Implementing it took a lot of time because with every single line of code we wrote we learnt so much. 
+This summer taught us a lot about the workflow of a project and how priorities change. We started with three issues in the beginning of the summer and now, towards the end, our plan has more or less changed. We integrated the site with it's MailChimp account. This feature interested us a lot because we experimented around with MailChimp and actually sent out a few promotional e-mails(from a dummy account). Now we know how all the popular websites send out all those emails :)
+Implementing it took a lot of time because with every single line of code we wrote we learnt so much.
 
-We also took up the job of porting the project to Bootstrap 3 and making the pages mobile-responsive. That helped us go through the whole project page-by-page giving us a lot of insight into how a Rails application works. 
+We also took up the job of porting the project to Bootstrap 3 and making the pages mobile-responsive. That helped us go through the whole project page-by-page giving us a lot of insight into how a Rails application works.
 
-In the midst of this, we solved many minor issues in the repo. 
+In the midst of this, we solved many minor issues in the repo.
 We lodged a few issues, cleaned up the documentation by relating to the minor difficulties we had in setting up the project on our systems.  
 
-Our next major feature is to implement an Attendance system. Still in the process and loving every moment of it. 
+Our next major feature is to implement an Attendance system. Still in the process and loving every moment of it.
 
 ## Problems faced:
 
 <img src="/img/blog/2017/confused.gif" alt="Thankyou"/>
-<div align="center" class="image-credits">credits: giphy.com</div>
+<div class="image-credits">credits: giphy.com</div>
 
-In the initial weeks, we were troubled a lot by Docker issues. We were completely new to the platform and faced difficulty in setting it up. Fixing the issues one by one helped us learn in-depth about Docker. We went through the documentation of Docker a lot of times to figure out the problems we were facing. It really made us appreciate the usefulness of Docker in production. 
+In the initial weeks, we were troubled a lot by Docker issues. We were completely new to the platform and faced difficulty in setting it up. Fixing the issues one by one helped us learn in-depth about Docker. We went through the documentation of Docker a lot of times to figure out the problems we were facing. It really made us appreciate the usefulness of Docker in production.
 
- In the middle of the SoC, both of our laptops(simultaneously !) crashed due to a kernel version error and hardware issues(keyboard stopped responding). Then came up another error, due to which our console stopped working. Googling about the issue brought us nowhere, everything got messed up. At last with the help of our coaches, we were able to fix the error. The funniest thing is that it was just the matter of changing 2-3 lines of code. 
+ In the middle of the SoC, both of our laptops(simultaneously !) crashed due to a kernel version error and hardware issues(keyboard stopped responding). Then came up another error, due to which our console stopped working. Googling about the issue brought us nowhere, everything got messed up. At last with the help of our coaches, we were able to fix the error. The funniest thing is that it was just the matter of changing 2-3 lines of code.
 
 ## What’s next?
 
@@ -80,7 +80,7 @@ We would be continuing our work pattern, working on our skills, exploring new ar
 We are really thankful to the whole team of RGSoC for giving us this opportunity to work on the AFDC project. This is a great learning experience for us. Our wholehearted thanks to our panel of coaches, **Alfie** and **Mukesh**, who have supported us in each and every step, our mentor, **Pete** who is always available to help us with our doubts, our supervisor, **Rafal**, who has coordinated the work of the team and always ready with the answers to our queries. Kudos to **Team Bundledore**.
 
 <img src="/img/blog/2017/team_bundledore.jpg" alt="Our team"/>
-<div align="center" class="image-credits">credits: Collage created by Anagha</div>
+<div class="image-credits">credits: Collage created by Anagha</div>
 
 
 ##### Follow us on:
@@ -94,6 +94,4 @@ We are really thankful to the whole team of RGSoC for giving us this opportunity
 [Amrita H Nair](https://twitter.com/amrtanair)
 
 <img src="/img/blog/2017/thankyou.gif" alt="Thankyou"/>
-<div align="center" class="image-credits">credits: giphy.com</div>
-
-
+<div class="image-credits">credits: giphy.com</div>
