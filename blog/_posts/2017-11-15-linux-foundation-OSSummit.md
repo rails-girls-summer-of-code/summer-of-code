@@ -12,7 +12,7 @@ categories:
 ---
 Top resources discovered at the Open Source Summit that RGSoC alumni should consider applying to: [Outreachy](https://www.outreachy.org/) and the [Linux Foundation's LiFT scholarship programme](https://training.linuxfoundation.org/free-linux-training/linux-training-scholarship-program)! 🎉
 
-This year the [Linux Foundation’s Open Source Summit Europe](http://events.linuxfoundation.org/events/archive/2017/open-source-summit-europe) took place in beautiful Prague. Fortunately, I was able to attend thanks to RGSoC.
+This year the [Linux Foundation’s Open Source Summit Europe](http://events.linuxfoundation.org/events/archive/2017/open-source-summit-europe) took place in beautiful Prague. Fortunately, thanks to RGSoC, I was able to attend this incredible summit.
 
 The Open Source Summit is [massive](http://events.linuxfoundation.org/events/archive/2017/open-source-summit-europe-/program/schedule), with over a dozen different tracks. In fact, it is a conglomeration of at least [four conferences](http://events.linuxfoundation.org/events/archive/2017/open-source-summit-europe-/program/about): LinuxCon, ContainerCon, CloudOpen and the Open Community Conference. In addition, it is run in conjunction with the Embedded Linux Conference. More than 2,000 technologists attend to share information and learn about the latest in open technologies such as Linux, containers, and cloud computing. On the first day, there was a Women in Open Source lunch, which was a pleasant way to be welcomed and also to network. All members of the RGSoC community who were attending the summit found each other at the lunch:
 
