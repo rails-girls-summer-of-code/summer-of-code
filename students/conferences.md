@@ -222,4 +222,17 @@ A huge **Thank You!** to all conferences who support our students and provide fr
     </p>
   </div>
 
+  <div class="conference-item">
+    <p class="conference-logo">
+      <a href="http://codelandconf.com/">
+        <img src="/img/blog/2017/conferences/codeland-logo.png">
+      </a>
+    </p>
+    <p class="conference-text">
+      <b><a href="http://codelandconf.com/">Codeland</a></b> <br>
+      <b>Date: </b>May 4-5, 2018 <br>
+      <b>Location: </b>New York, US
+    </p>
+  </div>
+
 </section>

@@ -37,3 +37,7 @@
 - name: RubyConf Australia
   id: rubyconfau
   url: https://rubyconf.org.au/2018
+
+- name: Codeland
+  id: codeland
+  url: http://codelandconf.com/
