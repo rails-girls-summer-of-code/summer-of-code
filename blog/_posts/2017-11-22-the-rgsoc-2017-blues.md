@@ -19,7 +19,7 @@ To help us cope, let’s take a little trip down memory lane!
 This year marked the [fifth anniversary of RGSoC](https://railsgirlssummerofcode.org/blog/2017-04-10-5yearsofrgsoc) and the summer went on with a blast! If you don’t believe us, just look at the numbers:
 
 ![2017 RGSoC infographic](/img/blog/2017/2017-11-22-infographic.png)
-<div class="image-credits">RGSoC 2017 in number (Image: Inês Coelho)</div>
+<div class="image-credits">RGSoC 2017 in numbers (Image: Inês Coelho)</div>
 
 We are so proud of our [20 teams](https://railsgirlssummerofcode.org/blog/2017-05-22-teams-2017), the goals they achieved this summer, how they have overcome the obstacles in their paths and how much they have grown! Some of our participants are already working in tech and we couldn’t be happier! 
 
