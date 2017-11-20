@@ -1,8 +1,8 @@
 ---
 title: The Linux Foundation Open Source Summit 🇪🇺
 layout: post
-created_at: Wed Nov 11 2017
-permalink: blog/2017-11-15-KaradelaMarck-Linux-Foundation-OSSummit-Europe
+created_at: Mon Nov 20 2017
+permalink: blog/2017-11-20-KaradelaMarck-Linux-Foundation-OSSummit-Europe
 current: blog
 author: Kara de la Marck
 twitter: KaraMarck
