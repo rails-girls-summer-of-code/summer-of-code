@@ -2,7 +2,7 @@
 title: The RGSoC 2017' blues
 layout: post
 created_at: Fri Nov 24 2017
-permalink: blog/2017-11-22-the-rgsoc-2017-blues
+permalink: blog/2017-11-24-the-rgsoc-2017-blues
 current: blog
 author: Inês Coelho
 twitter: ines_opcoelho
