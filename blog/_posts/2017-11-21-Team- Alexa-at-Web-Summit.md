@@ -1,8 +1,8 @@
 ---
 title: Team Alexa at Web Summit
 layout: post
-created_at: Tue November 21 2017
-permalink: blog/2017-11-21-Team-Alexa-at-Web-Summit
+created_at: Mon November 27 2017
+permalink: blog/2017-11-27-Team-Alexa-at-Web-Summit
 current: blog
 author: Sasha @religofsil
 twitter: linguistsare
@@ -13,7 +13,7 @@ categories:
 Well, a part of team Alexa. Unfortunately, Sasha @melanoya couldn't go. :(
 But she was in my heart the whole time!
 
-A couple of weeks ago I attended Web Summit in Lisbon, Portugal. It is said to be the largest tech conference in the world – this year there were more than 60 thousand attendees, according to the [https://websummit.com/](conference website). I’ve been at meetups and tech conferences before, but never outside Russia, and I definitely have never been at a tech event of this scale.
+A couple of weeks ago I attended Web Summit in Lisbon, Portugal. It is said to be the largest tech conference in the world – this year there were more than 60 thousand attendees, according to the [conference website](https://websummit.com/). I’ve been at meetups and tech conferences before, but never outside Russia, and I definitely have never been at a tech event of this scale.
 
 ## Opening night
 First night of the conference, there was an opening ceremony for the Web Summit, where CEOs of large tech companies and government officials were discussing the need to build relationships between tech and non-tech organisations. There were also talks about the challenges that the industry will face in the next years. I particularly liked Bryan Johnson’s talk about the need to develop some tools to improve our own brain, instead of relying on artificial intelligence.
