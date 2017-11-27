@@ -8,6 +8,7 @@ author: Sasha @religofsil
 twitter: linguistsare
 categories:
 - student-posts
+- conferences
 ---
 
 Well, a part of team Alexa. Unfortunately, Sasha @melanoya couldn't go. :(
