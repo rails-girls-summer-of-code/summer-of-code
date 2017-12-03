@@ -18,7 +18,7 @@ layout: blank
 </head>
 <body>
 
-    <div class="wrapper">
+        <div class="wrapper">
         <div class= "centerWrapper">
 
             <div class="gridWrapper">
@@ -73,8 +73,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="HoneyBadger, fourth time sponsor of RGSoC">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/honeybadger.jpg" title="HoneyBadger, fourth time sponsor of RGSoC">
+                        <img src="img/photos_min/honeybadger.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 HoneyBadger
@@ -134,8 +134,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size5">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="GitHub, our remarkable partner!">
-                        <img src="img/photos_min/heart.png" class="photo_size5">
+                    <a class="sponsorsBox" href="img/photos/github.jpg" title="GitHub, our remarkable partner!">
+                        <img src="img/photos_min/github.jpg" class="photo_size5">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 GitHub
@@ -174,8 +174,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/openSUSE.jpg" title="The caption 1">
+                        <img src="img/photos_min/openSUSE.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Open SUSE
@@ -254,8 +254,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/wooga.jpg" title="The caption 1">
+                        <img src="img/photos_min/wooga.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Wooga
@@ -304,8 +304,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/nextcloud.jpg" title="The caption 1">
+                        <img src="img/photos_min/nextcloud.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 NextCloud
@@ -322,8 +322,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/sentry.jpg" title="The caption 1">
+                        <img src="img/photos_min/sentry.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Sentry
@@ -372,18 +372,18 @@ layout: blank
                     </a>
                 </div>
                 <div class="size2H">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size2H">
+                    <a class="sponsorsBox" href="img/photos/Immobilienscout24.jpg" title="The caption 1">
+                        <img src="img/photos_min/Immobilienscout24.jpg" class="photo_size2H">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                ImmobilienScout 24
+                                Immobilien Scout 24
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/cobot.jpg" title="The caption 1">
+                        <img src="img/photos_min/cobot.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Cobot
@@ -423,8 +423,8 @@ layout: blank
                 </div>
                 <div></div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/microsoft.jpg" title="The caption 1">
+                        <img src="img/photos_min/microsoft.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Microsoft
@@ -485,9 +485,9 @@ layout: blank
                         </div>
                     </a>
                 </div>
-                <div class="size2H">
+                <div class="size2V">
                      <a class="sponsorsBox" href="img/photos/innoQ.jpg" title="The caption 1">
-                        <img src="img/photos_min/innoQ.jpg" class="photo_size2H">
+                        <img src="img/photos_min/innoQ.jpg" class="photo_size2V">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 innoQ
@@ -495,17 +495,29 @@ layout: blank
                         </div>
                     </a>
                 </div>
-                <div class="size3">
-                    <a class="sponsorsBox" href="img/photos/girl.jpg" title="The caption 1">
-                        <img src="img/photos_min/girl.jpg" class="photo_size3">
+                <div class="size1">
+                    <a class="sponsorsBox" href="img/photos/runtastic.jpg" title="The caption 1">
+                        <img src="img/photos_min/runtastic.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
-                            <div class="sponsorName">CONFERENCES</div>
+                            <div class="sponsorName">
+                                Runtastic
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="size3">
+                    <a class="sponsorsBox" href="img/photos/conferences.jpg" title="The caption 1">
+                        <img src="img/photos_min/conferences.jpg" class="photo_size3">
+                        <div class="sponsorNameBox">
+                            <div class="sponsorName">
+                                <img src="img/rgsoc.png" class="photo_size3">
+                            </div>
                         </div>
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/coreOS.jpg" title="The caption 1">
+                        <img src="img/photos_min/coreOS.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Core OS
@@ -542,16 +554,6 @@ layout: blank
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 <img src="img/rgsoc.png" class="photo_size1">
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/runtastic.jpg" title="The caption 1">
-                        <img src="img/photos_min/runtastic.jpg" class="photo_size1">
-                        <div class="sponsorNameBox">
-                            <div class="sponsorName">
-                                Runtastic
                             </div>
                         </div>
                     </a>
@@ -603,8 +605,8 @@ layout: blank
                 <div></div>
                 <div></div>
                 <div class="size2H">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size2H">
+                    <a class="sponsorsBox" href="img/photos/thoughtworks.jpg" title="The caption 1">
+                        <img src="img/photos_min/thoughtworks.jpg" class="photo_size2H">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Thoughtworks
