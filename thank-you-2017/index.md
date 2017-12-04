@@ -16,11 +16,10 @@ layout: blank
     <!-- Theme CSS -->
     <link href="heart.css" rel="stylesheet" type="text/css">
 </head>
+
 <body>
-
-        <div class="wrapper">
+    <div class="wrapper">
         <div class= "centerWrapper">
-
             <div class="gridWrapper">
                 <div></div>
                 <div class="size5">
@@ -224,8 +223,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/egghead.jpg" title="The caption 1">
+                        <img src="img/photos_min/egghead.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 egghead.io
@@ -636,7 +635,6 @@ layout: blank
                     </a>
                 </div>
             </div>
-
         </div>
     </div>
 
@@ -649,4 +647,3 @@ layout: blank
     <!-- Theme JS -->
     <script src="heart.js"></script>
 </body>
-</html>
