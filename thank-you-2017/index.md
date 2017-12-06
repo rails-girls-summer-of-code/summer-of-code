@@ -193,8 +193,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/turing.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/turing.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Turing School
@@ -283,8 +283,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size4">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size4">
+                    <a class="sponsorsBox" href="img/photos/nokia.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/nokia.jpg" class="photo_size4">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 NOKIA
@@ -331,8 +331,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/alterconf.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/alterconf.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 AlterConf
@@ -361,8 +361,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/gitlab.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/gitlab.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 GitLab
@@ -452,8 +452,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size2H">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size2H">
+                    <a class="sponsorsBox" href="img/photos/soundcloud.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/soundcloud.jpg" class="photo_size2H">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Soundcloud
