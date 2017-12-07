@@ -54,8 +54,8 @@ layout: blank
                 </div>
                 <div></div>
                 <div class="size3">
-                    <a class="sponsorsBox" href="img/photos/girl.jpg" title="All the superb persons that donnated to make RGSoC 2017 a reality! (image credits: Rails Girls Summer of Code)">
-                        <img src="img/photos_min/girl.jpg" class="photo_size3">
+                    <a class="sponsorsBox" href="img/photos/donnors.jpg" title="All the superb persons that donnated to make RGSoC 2017 a reality! (image credits: Rails Girls Summer of Code)">
+                        <img src="img/photos_min/donnors.jpg" class="photo_size3">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 <img src="img/rgsoc.png" class="photo_size3">
@@ -103,8 +103,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="REDFIN, silver sponsor of RGSoC 2017 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/redfin.jpg" title="REDFIN, silver sponsor of RGSoC 2017 (image credits: )">
+                        <img src="img/photos_min/redfin.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 REDFIN
@@ -153,8 +153,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/agilebloom.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/agilebloom.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 AgileBloom
@@ -203,8 +203,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/articulate.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/articulate.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Articulate
@@ -313,8 +313,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size5">
-                    <a class="sponsorsBox" href="img/photos/girl.jpg" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/girl.jpg" class="photo_size5">
+                    <a class="sponsorsBox" href="img/photos/general.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/general.jpg" class="photo_size5">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">EVERYONE</div>
                         </div>
@@ -341,11 +341,11 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/exam success.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/exam success.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                ExamSuccess
+                                Exam Success
                             </div>
                         </div>
                     </a>
@@ -540,8 +540,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size3">
-                    <a class="sponsorsBox" href="img/photos/girl.jpg" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/girl.jpg" class="photo_size3">
+                    <a class="sponsorsBox" href="img/photos/team.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/team.jpg" class="photo_size3">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">ORGA</div>
                         </div>
@@ -565,8 +565,8 @@ layout: blank
                 <div></div>
                 <div></div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/bugsnag.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/bugsnag.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Bugsnag
@@ -585,8 +585,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The caption 1 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/planio.jpg" title="The caption 1 (image credits: )">
+                        <img src="img/photos_min/planio.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Planio
