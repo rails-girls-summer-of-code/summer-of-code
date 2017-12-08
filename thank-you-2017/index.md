@@ -416,8 +416,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size3">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="Google Open Soure, gold sponsor, supporting RGSoC since 1st edition! (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size3">
+                    <a class="sponsorsBox" href="img/photos/google.jpg" title="Google Open Soure, gold sponsor, supporting RGSoC since 1st edition! (image credits: Kara de la Marck)">
+                        <img src="img/photos_min/google.jpg" class="photo_size3">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Google Open Soure
