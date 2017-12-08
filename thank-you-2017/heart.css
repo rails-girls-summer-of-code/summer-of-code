@@ -139,7 +139,7 @@ body {
   display: grid;
   grid-gap: var(--gap);
   grid-template-columns: repeat(13, var(--size));
-  grid-template-rows: repeat(13, var(--size));
+  grid-template-rows: repeat(12, var(--size));
   background-color: #fff;
 }
 .sponsorsBox{
@@ -171,7 +171,3 @@ body {
   top:50%;
   transform:translateY(-50%);
 }
-
-
-
-
