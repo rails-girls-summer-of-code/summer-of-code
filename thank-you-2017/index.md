@@ -10,7 +10,7 @@ layout: blank
 
     <title>RGSoC Thank you 2017</title>
 
-    <!-- Bootstrap Core CSS -->
+    <!-- Magnific Popup CSS -->
     <link href="libraries/magnific-popup-1.1.0/magnific-popup.css" rel="stylesheet">
 
     <!-- Theme CSS -->
@@ -18,6 +18,19 @@ layout: blank
 </head>
 
 <body>
+    <div class="header">
+        <h1>
+            Rails Girls Summer of Code
+        </h1>
+    </div>
+    <div class="headerText">
+        <h1>
+            Thank You!
+        </h1>
+        <p>
+            For five years, Rails Girls Summer of Code has been fostering diversity in Open Source. In 2017, we were able to endorse 20 teams of two women (or who identify themselves as such) to work in an Open Source project for 3 months. But we couldn't have done this without the support of our lovely community. Everyone that sponsored our program, donated to our campaign and/or contributed to making this edition of RGSoC: a heartfelt thank you, you are awesome! We couldn't have done this without you! This gift is for you.
+        </p>
+    </div>
     <div class="wrapper">
         <div class= "centerWrapper">
             <div class="gridWrapper">
