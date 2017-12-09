@@ -87,7 +87,7 @@
  * CONFIG
  */
 body {
-  width: 100%;
+  //width: 100%;
   font-family: "Lato", sans-serif;
   line-height: 1.5;
   color: #484848;
@@ -121,10 +121,13 @@ body {
   }
 }
 .headerText {
-  width: calc(13*var(--size) + 12*var(--gap));
   margin: auto;
-  padding: 180px 0 25px 0;
-  //padding: 25px 100px 25px 100px;
+  padding: 180px 10px 25px 10px;
+}
+@media (min-width: 700px) {
+  .headerText {
+    width: calc(13*var(--size) + 12*var(--gap));
+  }
 }
 /**
  * HEART
