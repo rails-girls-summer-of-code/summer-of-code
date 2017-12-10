@@ -36,11 +36,11 @@ layout: blank
             <div class="gridWrapper">
                 <div></div>
                 <div class="size5">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="The astonishing RGSoC partner: Travis CI (image credits: Inês Coelho)">
-                        <img src="img/photos_min/heart.png" class="photo_size5">
+                    <a class="sponsorsBox" href="img/photos/github.jpg" title="GitHub, our remarkable partner! (image credits: Y S Ramya)">
+                        <img src="img/photos_min/github.jpg" class="photo_size5">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                Travis CI
+                                GitHub
                             </div>
                         </div>
                     </a>
@@ -67,8 +67,8 @@ layout: blank
                 </div>
                 <div></div>
                 <div class="size3">
-                    <a class="sponsorsBox" href="img/photos/donors.jpg" title="All the superb persons that donated to make RGSoC 2017 a reality! (image credits: RGSoC)">
-                        <img src="img/photos_min/donors.jpg" class="photo_size3">
+                    <a class="sponsorsBox" href="img/photos/team.jpg" title="Shout-out to everyone that worked behind the scenes to make RGSoC 2017 a reality! (image credits: RGSoC)">
+                        <img src="img/photos_min/team.jpg" class="photo_size3">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 <img src="img/rgsoc.png" class="photo_size3">
@@ -106,25 +106,25 @@ layout: blank
                 </div>
                 <div></div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="Our silver sponsor, Manifold (image credits: RGSoC)">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/sentry.jpg" title="Sentry, second time sponsoring RGSoC! (image credits: Jessica Leach)">
+                        <img src="img/photos_min/sentry.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                Manifold
+                                Sentry
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/redfin.jpg" title="REDFIN, silver sponsor of RGSoC 2017 (image credits: RGSoC)">
-                        <img src="img/photos_min/redfin.jpg" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/APCERA.jpg" title="For the 3rd time, APCERA sponsoring RGSoC! (image credits: Rails Girls Summer of Code)">
+                        <img src="img/photos_min/APCERA.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                REDFIN
+                                APCERA
                             </div>
                         </div>
                     </a>
-                </div> 
+                </div>
                 <div class="size1">
                     <a class="sponsorsBox" href="img/photos/swag2.png" title="Our Swag packages arrive at every corner of the world! (image credits: Mayar Alaa)">
                         <img src="img/photos_min/swag2.png" class="photo_size1">
@@ -136,7 +136,7 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="RGSoC silver sponsor - Spotify (image credits: )">
+                    <a class="sponsorsBox" href="img/photos/heart.png" title="RGSoC bronze sponsor - Spotify (image credits: )">
                         <img src="img/photos_min/heart.png" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
@@ -146,11 +146,11 @@ layout: blank
                     </a>
                 </div>
                 <div class="size5">
-                    <a class="sponsorsBox" href="img/photos/github.jpg" title="GitHub, our remarkable partner! (image credits: Y S Ramya)">
-                        <img src="img/photos_min/github.jpg" class="photo_size5">
+                    <a class="sponsorsBox" href="img/photos/travisci.jpg" title="The astonishing RGSoC partner: Travis CI (image credits: Inês Coelho)">
+                        <img src="img/photos_min/travisci.jpg" class="photo_size5">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                GitHub
+                                Travis CI
                             </div>
                         </div>
                     </a>
@@ -176,21 +176,11 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="RGSoC 2017 bronze sponsor: Bigchain DB (image credits: RGSoC)">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/bigchaindb.jpg" title="RGSoC 2017 bronze sponsor: Bigchain DB (image credits: RGSoC)">
+                        <img src="img/photos_min/bigchaindb.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Bigchain DB
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/openSUSE.jpg" title="Open SUSE's Geeko chameleon, our bronze sponsor (image credits: Jona Azizaj)">
-                        <img src="img/photos_min/openSUSE.jpg" class="photo_size1">
-                        <div class="sponsorNameBox">
-                            <div class="sponsorName">
-                                Open SUSE
                             </div>
                         </div>
                     </a>
@@ -201,6 +191,16 @@ layout: blank
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 DaWanda
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="size1">
+                    <a class="sponsorsBox" href="img/photos/openSUSE.jpg" title="Open SUSE's Geeko chameleon, our bronze sponsor (image credits: Jona Azizaj)">
+                        <img src="img/photos_min/openSUSE.jpg" class="photo_size1">
+                        <div class="sponsorNameBox">
+                            <div class="sponsorName">
+                                Open SUSE
                             </div>
                         </div>
                     </a>
@@ -246,8 +246,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="Actblue, bronze sponsor of RGSoC 2017 (image credits: RGSoC)">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/actblue.jpg" title="Actblue, bronze sponsor of RGSoC 2017 (image credits: Inês Coelho)">
+                        <img src="img/photos_min/actblue.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Actblue
@@ -336,31 +336,21 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/sentry.jpg" title="Sentry, second time sponsoring RGSoC! (image credits: Jessica Leach)">
-                        <img src="img/photos_min/sentry.jpg" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/manifold.jpg" title="Our bronze sponsor, Manifold (image credits: Inês Coelho)">
+                        <img src="img/photos_min/manifold.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                Sentry
+                                Manifold
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/alterconf.jpg" title="AlterConf, bronze sponsor of RGSoC 2017! (image credits: Laura Gaetano)">
-                        <img src="img/photos_min/alterconf.jpg" class="photo_size1">
+                <div class="size2H">
+                    <a class="sponsorsBox" href="img/photos/thoughtworks.jpg" title="Silver sponsor Thoughtworks, supporting RGSoC for the 4th time! (image credits: Nada Ashraf)">
+                        <img src="img/photos_min/thoughtworks.jpg" class="photo_size2H">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                AlterConf
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/exam success.jpg" title="Exam Success, second time sponsoring RGSoC! (image credits: RGSoC)">
-                        <img src="img/photos_min/exam success.jpg" class="photo_size1">
-                        <div class="sponsorNameBox">
-                            <div class="sponsorName">
-                                Exam Success
+                                Thoughtworks
                             </div>
                         </div>
                     </a>
@@ -376,11 +366,11 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/gitlab.jpg" title="GitLab, broze sponsor of RGSoC! (image credits: Carsten Zimmermann)">
-                        <img src="img/photos_min/gitlab.jpg" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/bugsnag.jpg" title="Bugsnag, 3th time sponsor of RGSoC! (image credits: Ana Sofia Pinho)">
+                        <img src="img/photos_min/bugsnag.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                GitLab
+                                Bugsnag
                             </div>
                         </div>
                     </a>
@@ -396,6 +386,16 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
+                    <a class="sponsorsBox" href="img/photos/redfin.jpg" title="REDFIN, bronze sponsor of RGSoC 2017 (image credits: RGSoC)">
+                        <img src="img/photos_min/redfin.jpg" class="photo_size1">
+                        <div class="sponsorNameBox">
+                            <div class="sponsorName">
+                                REDFIN
+                            </div>
+                        </div>
+                    </a>
+                </div> 
+                <div class="size1">
                     <a class="sponsorsBox" href="img/photos/cobot.jpg" title="Our bronze sponsor, Cobot (image credits: Y S Ramya)">
                         <img src="img/photos_min/cobot.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
@@ -405,18 +405,8 @@ layout: blank
                         </div>
                     </a>
                 </div>
-                <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/APCERA.jpg" title="For the 3rd time, APCERA sponsoring RGSoC! (image credits: Rails Girls Summer of Code)">
-                        <img src="img/photos_min/APCERA.jpg" class="photo_size1">
-                        <div class="sponsorNameBox">
-                            <div class="sponsorName">
-                                APCERA
-                            </div>
-                        </div>
-                    </a>
-                </div>
                 <div class="size3">
-                    <a class="sponsorsBox" href="img/photos/google.jpg" title="Google Open Soure, gold sponsor, supporting RGSoC since 1st edition! (image credits: Kara de la Marck)">
+                    <a class="sponsorsBox" href="img/photos/google.jpg" title="Google Open Source, gold sponsor, supporting RGSoC since 1st edition! (image credits: Kara de la Marck)">
                         <img src="img/photos_min/google.jpg" class="photo_size3">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
@@ -447,7 +437,7 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/swag4.png" title="We love to see out teams playing with RGSoC's swag! (image credits: team ImpactDevs)">
+                    <a class="sponsorsBox" href="img/photos/swag4.png" title="We love to see our teams playing with RGSoC's swag! (image credits: team ImpactDevs)">
                         <img src="img/photos_min/swag4.png" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
@@ -457,8 +447,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size3">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="Gold sponsor Mawarebytes, supporting RGSoC for the 3rd time! (image credits: Inês Coelho)">
-                        <img src="img/photos_min/heart.png" class="photo_size3">
+                    <a class="sponsorsBox" href="img/photos/malwarebytes.jpg" title="Gold sponsor Mawarebytes, supporting RGSoC for the 3rd time! (image credits: Inês Coelho)">
+                        <img src="img/photos_min/malwarebytes.jpg" class="photo_size3">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Malwarebytes
@@ -480,8 +470,8 @@ layout: blank
                 <div></div>
                 <div></div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="Nextjournal, our bronze sponsor (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/nextjournal.jpg" title="Nextjournal, our bronze sponsor (image credits: RGSoC)">
+                        <img src="img/photos_min/nextjournal.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Nextjournal
@@ -490,11 +480,11 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="TestPlus GmbH, bronze sponsor of RGSoC 2017 (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/gitlab.jpg" title="GitLab, broze sponsor of RGSoC! (image credits: Carsten Zimmermann)">
+                        <img src="img/photos_min/gitlab.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                TestPlus GmbH
+                                GitLab
                             </div>
                         </div>
                     </a>
@@ -545,8 +535,8 @@ layout: blank
                 <div></div>
                 <div></div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="Solaris Bank, our bronze sponsor (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/solarisbank.jpg" title="Solaris Bank, our bronze sponsor (image credits: RGSoC)">
+                        <img src="img/photos_min/solarisbank.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Solaris Bank
@@ -555,8 +545,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size3">
-                    <a class="sponsorsBox" href="img/photos/team.jpg" title="Shout-out to everyone that worked behind the scenes to make RGSoC 2017 a reality! (image credits: RGSoC)">
-                        <img src="img/photos_min/team.jpg" class="photo_size3">
+                    <a class="sponsorsBox" href="img/photos/donors.jpg" title="All the superb persons that donated to make RGSoC 2017 a reality! (image credits: RGSoC)">
+                        <img src="img/photos_min/donors.jpg" class="photo_size3">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 <img src="img/rgsoc.png" class="photo_size3">
@@ -582,11 +572,11 @@ layout: blank
                 <div></div>
                 <div></div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/bugsnag.jpg" title="Bugsnag, 3th time sponsor of RGSoC! (image credits: Ana Sofia Pinho)">
-                        <img src="img/photos_min/bugsnag.jpg" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/testplus.jpg" title="TestPlus GmbH, bronze sponsor of RGSoC 2017 (image credits: Inês Coelho)">
+                        <img src="img/photos_min/testplus.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                Bugsnag
+                                TestPlus GmbH
                             </div>
                         </div>
                     </a>
@@ -620,12 +610,22 @@ layout: blank
                 <div></div>
                 <div></div>
                 <div></div>
-                <div class="size2H">
-                    <a class="sponsorsBox" href="img/photos/thoughtworks.jpg" title="Silver sponsor Thoughtworks, supporting RGSoC for the 4th time! (image credits: Nada Ashraf)">
-                        <img src="img/photos_min/thoughtworks.jpg" class="photo_size2H">
+                <div class="size1">
+                    <a class="sponsorsBox" href="img/photos/exam success.jpg" title="Exam Success, second time sponsoring RGSoC! (image credits: RGSoC)">
+                        <img src="img/photos_min/exam success.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                Thoughtworks
+                                Exam Success
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="size1">
+                    <a class="sponsorsBox" href="img/photos/alterconf.jpg" title="AlterConf, bronze sponsor of RGSoC 2017! (image credits: Laura Gaetano)">
+                        <img src="img/photos_min/alterconf.jpg" class="photo_size1">
+                        <div class="sponsorNameBox">
+                            <div class="sponsorName">
+                                AlterConf
                             </div>
                         </div>
                     </a>
