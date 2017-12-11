@@ -56,11 +56,11 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/LaunchSchool.jpg" title="Launch School, proud 4th time sponsor of RGSoC (image credits: RGSoC)">
-                        <img src="img/photos_min/LaunchSchool.jpg" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/solarisbank.jpg" title="Solaris Bank, our bronze sponsor (image credits: RGSoC)">
+                        <img src="img/photos_min/solarisbank.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                Launch School
+                                Solaris Bank
                             </div>
                         </div>
                     </a>
@@ -166,21 +166,21 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/agilebloom.jpg" title="Agile Bloom, our bronze sponsor (image credits: RGSoC)">
-                        <img src="img/photos_min/agilebloom.jpg" class="photo_size1">
-                        <div class="sponsorNameBox">
-                            <div class="sponsorName">
-                                Agile Bloom
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="size1">
                     <a class="sponsorsBox" href="img/photos/bigchaindb.jpg" title="RGSoC 2017 bronze sponsor: Bigchain DB (image credits: RGSoC)">
                         <img src="img/photos_min/bigchaindb.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Bigchain DB
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="size1">
+                    <a class="sponsorsBox" href="img/photos/agilebloom.jpg" title="Agile Bloom, our bronze sponsor (image credits: RGSoC)">
+                        <img src="img/photos_min/agilebloom.jpg" class="photo_size1">
+                        <div class="sponsorNameBox">
+                            <div class="sponsorName">
+                                Agile Bloom
                             </div>
                         </div>
                     </a>
@@ -236,21 +236,21 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/egghead.jpg" title="RGSoC 2017 bronze sponsor: egghead.io! (image credits: Lucas Pinto)">
-                        <img src="img/photos_min/egghead.jpg" class="photo_size1">
-                        <div class="sponsorNameBox">
-                            <div class="sponsorName">
-                                egghead.io
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="size1">
                     <a class="sponsorsBox" href="img/photos/ableton.jpg" title="Ableton, Bronze Sponsor of RGSoC 2017 (image credits: RGSoC)">
                         <img src="img/photos_min/ableton.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Ableton
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="size1">
+                    <a class="sponsorsBox" href="img/photos/egghead.jpg" title="RGSoC 2017 bronze sponsor: egghead.io! (image credits: Lucas Pinto)">
+                        <img src="img/photos_min/egghead.jpg" class="photo_size1">
+                        <div class="sponsorNameBox">
+                            <div class="sponsorName">
+                                egghead.io
                             </div>
                         </div>
                     </a>
@@ -535,11 +535,11 @@ layout: blank
                 <div></div>
                 <div></div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/solarisbank.jpg" title="Solaris Bank, our bronze sponsor (image credits: RGSoC)">
-                        <img src="img/photos_min/solarisbank.jpg" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/LaunchSchool.jpg" title="Launch School, proud 4th time sponsor of RGSoC (image credits: RGSoC)">
+                        <img src="img/photos_min/LaunchSchool.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                Solaris Bank
+                                Launch School
                             </div>
                         </div>
                     </a>
