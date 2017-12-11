@@ -105,6 +105,10 @@ body {
   text-transform: uppercase;
   text-align: center;
 }
+.header h1 a {
+  color: white;
+  text-decoration: none;
+}
 @media (max-width: 400px) {
   .header h1 {
     font-size: 34px;

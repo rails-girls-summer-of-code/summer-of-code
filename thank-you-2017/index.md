@@ -20,7 +20,7 @@ layout: blank
 <body>
     <div class="header">
         <h1>
-            Rails Girls Summer of Code
+            <a href="https://railsgirlssummerofcode.org/">Rails Girls Summer of Code</a>
         </h1>
     </div>
     <div class="headerText">
