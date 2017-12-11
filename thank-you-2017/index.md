@@ -28,7 +28,7 @@ layout: blank
             Thank You!
         </h1>
         <p>
-            For five years, Rails Girls Summer of Code has been fostering diversity in Open Source. In 2017, we were able to endorse 20 teams of two women (or who identify themselves as such) to work in an Open Source project for 3 months. But we couldn't have done this without the support of our lovely community. Everyone that sponsored our program, donated to our campaign and/or contributed to making this edition of RGSoC: a heartfelt thank you, you are awesome! We couldn't have done this without you! This gift is for you.
+            For five years, Rails Girls Summer of Code has been fostering diversity in Open Source. In 2017, we enabled 20 teams of two women to work in an Open Source project for 3 months. But we couldn't have done this without the support of our lovely community. Everyone that sponsored our program, donated to our campaign and/or contributed to making this edition of RGSoC: a heartfelt thank you, you are awesome! We couldn't have done this without you! This gift is for you.
         </p>
     </div>
     <div class="wrapper">
