@@ -46,11 +46,11 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="Ableton, Bronze Sponsor of RGSoC 2017 (image credits: RGSoC)">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/actblue.jpg" title="Actblue, bronze sponsor of RGSoC 2017 (image credits: Inês Coelho)">
+                        <img src="img/photos_min/actblue.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                Ableton
+                                Actblue
                             </div>
                         </div>
                     </a>
@@ -136,8 +136,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="RGSoC bronze sponsor - Spotify (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/spotify.jpg" title="RGSoC bronze sponsor - Spotify (image credits: RGSoC)">
+                        <img src="img/photos_min/spotify.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Spotify
@@ -246,11 +246,11 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/actblue.jpg" title="Actblue, bronze sponsor of RGSoC 2017 (image credits: Inês Coelho)">
-                        <img src="img/photos_min/actblue.jpg" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/ableton.jpg" title="Ableton, Bronze Sponsor of RGSoC 2017 (image credits: RGSoC)">
+                        <img src="img/photos_min/ableton.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
-                                Actblue
+                                Ableton
                             </div>
                         </div>
                     </a>
@@ -416,8 +416,8 @@ layout: blank
                     </a>
                 </div>
                 <div class="size1">
-                    <a class="sponsorsBox" href="img/photos/heart.png" title="Basecamp, proud sponsor of RGSoC since our 1st edition! (image credits: )">
-                        <img src="img/photos_min/heart.png" class="photo_size1">
+                    <a class="sponsorsBox" href="img/photos/basecamp.jpg" title="Basecamp, proud sponsor of RGSoC since our 1st edition! (image credits: RGSoC)">
+                        <img src="img/photos_min/basecamp.jpg" class="photo_size1">
                         <div class="sponsorNameBox">
                             <div class="sponsorName">
                                 Basecamp
