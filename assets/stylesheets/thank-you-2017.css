@@ -92,41 +92,9 @@ body {
   line-height: 1.5;
   color: #484848;
 }
-.header {
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  width: 100%; 
-  background-color: #D82222;
-  color: white;
-}
-.header h1 {
-  font-size: 40px;
-  text-transform: uppercase;
-  text-align: center;
-}
-.header h1 a {
-  color: white;
-  text-decoration: none;
-}
-@media (max-width: 400px) {
-  .header h1 {
-    font-size: 34px;
-  }
-}
-@media (min-width: 810px) {
-  .header h1 {
-    font-size: 50px;
-  }
-}
-@media (min-width: 970px) {
-  .header h1 {
-    font-size: 60px;
-  }
-}
 .headerText {
   margin: auto;
-  padding: 180px 10px 25px 10px;
+  padding-bottom: 25px;
 }
 @media (min-width: 700px) {
   .headerText {
@@ -165,7 +133,7 @@ body {
   position:absolute;top:0;
   text-align:center;
   width: 100%;
-  height: calc(100% - 2*var(--gap));
+  height: calc(100%);
   transition:all .35s;
 }
 .sponsorsBox:hover .sponsorNameBox{
