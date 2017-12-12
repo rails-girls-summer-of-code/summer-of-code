@@ -13,7 +13,7 @@ categories:
 For the past five years, every (north hemisphere) summer, RGSoC has been offering the opportunity for women (transgender and cisgender) and non-binary people from all over the world to work on an Open Source project. This wouldn't be possible without the help and love of our wonderful community. 
 
 ![Together we are changing the world!](/img/blog/2017/2017-12-12-change-the-world.jpg)
-<div class="image-credits">Our 20 teams - the lifes we touched on the 2017 edition of RGSoC (Image: Inês Coelho)</div>
+<div class="image-credits">Our 20 teams - the lives we touched on the 2017 edition of RGSoC (Image: Inês Coelho)</div>
 
 ### Our sponsors and donors
 
@@ -27,17 +27,17 @@ And, of course, a huge thank you to all the [conferences](https://railsgirlssumm
 
 ### Our supporting elements
 
-Participating teams are supported throughout the summer by dedicated volunteers. 
+Participating teams are supported throughout the summer by [dedicated volunteers](https://railsgirlssummerofcode.org/about/team). 
 
-There are no words to express our gratitude towards them [all](https://railsgirlssummerofcode.org/about/team): the mentors who guided the work of our teams, the coaches that offered their time and expertise to help our teams, the coaching companies who hosted our teams during the summer, the supervisors who made sure that everything was running smoothly, the trust committee who offered a safe haven to whoever needed it. You are the people who made RGSoC a reality! 
+There are no words to express our gratitude towards them all: the mentors who guided the work of our teams, the coaches that offered their time and expertise to help our teams, the coaching companies who hosted our teams during the summer, the supervisors who made sure that everything was running smoothly, the [trust committee](https://railsgirlssummerofcode.org/about/code-of-conduct/#contact) who offered a safe haven to whoever needed it. 
 
-From the bottom of our hearts: thank you!
+You are the people who made RGSoC a reality! Thank you.
 
 ### Our organizers
 
 Under the hood of RGSoC, there is a melting pot of people from different countries, cultures, backgrounds, beliefs and religions, united with the same purpose: to diversify tech! All year round, these volunteers are here preparing, planning, developing and working on the backend of RGSoC. 
 
-A huge shout-out to our 2017 team: Ana, Anika, Carsten, Inês, Laura, Lucas, Maria, Max, Ramon, Ulrike and Vaishali! 
+A huge shout-out to our 2017 team: Ana Sofia, Anika, Anna, Carsten, Inês, Laura, Lucas, Maria, Max, Ramon, Ulrike and Vaishali! 
 
 Your love and dedication are what makes RGSoC possible year after year.
 
@@ -45,8 +45,6 @@ Your love and dedication are what makes RGSoC possible year after year.
 
 From the bottom of our hearts: thank you! &#x2661;
 
-###### (click on the image for a surprise!)
-
+(click on the image for a surprise!)
 [![Thank you all](/img/blog/2017/2017-12-12-thankyou.gif)](https://railsgirlssummerofcode.org/thank-you-2017)
 <div class="image-credits">Shoutout to everyone that made RGSoC 2017 possible (Image: Inês Coelho)</div>
-
