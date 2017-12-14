@@ -28,29 +28,31 @@ The second keynote was done by **Satyajeet Singh** , who is currently the Head o
 ![Team Fusion at Dev Day 2017](/img/blog/2017/2017-11-18-dev-day-speakers.jpg)
 <div class="image-credits"><b>Dev Day 2017 Speakers (Image : ReadMe)</b></div>
 
+
 Then there was a short tea break with snacks ☕ and next came the parallel sessions. Just like the hall was split in to two for the parallel sessions, we (team fusion) also had to split in to two, so we can attend the sessions , according to our preference. There were 20 parallel sessions in three different tracks namely, DISC (DevOps, IOT, Security, Cloud), ACLA (Architecture, Coding, Lean, Agile), and IDEU (Innovation, Disruptive, Entrepreneurship, UI/UX). And we could attend six parallel sessions altogether. For some of the sessions we attended together, for some, we attended separately. But it was fun , because we could share the interesting points we learned from each of these sessions with each other during our evening tea break, which made
 the evening tea, tastier. ☕😁
 
 And following are the parallel sessions we attended. 👇
 
-*Handling Uncertainty in Data ware housing by **Dinesh Asanka**
+* Handling Uncertainty in Data ware housing by **Dinesh Asanka**
 
-*Demystifying Service Based Architecture – Journey towards micro services and ahead by **Thurupathan Vijayakumar**
+* Demystifying Service Based Architecture – Journey towards micro services and ahead by **Thurupathan Vijayakumar**
 
-*The Electricity Between Us: Humans and Information by **Ben Taylor**
+* The Electricity Between Us: Humans and Information by **Ben Taylor**
 
-*Exploring Narrative techniques for delivering UX Design by **Nivedita Kamat**
+* Exploring Narrative techniques for delivering UX Design by **Nivedita Kamat**
 
-*An introduction to the Microsoft Cognitive Services APIs by **Ben Sadeghi** 
+* An introduction to the Microsoft Cognitive Services APIs by **Ben Sadeghi** 
 
-*Give your app the ability to think, using Azure machine learning, Cognitive Services, and neural networks by **Haritha Thilakarathne** 
+* Give your app the ability to think, using Azure machine learning, Cognitive Services, and neural networks by **Haritha Thilakarathne** 
 
-During each of these interesting session we learned something new. Some topics were totally new to us, yet, were interesting. We learned about Big data, concepts like fuzzy categorization and Box plot method, the importance of using design patterns, data embodiment, how products like Google Home and Cortana are being a part of digitizing the world, the importance of mastering the storytelling for UX design, how important is the user in product development, cognitive services, Microsoft AI, cognitive computing, concepts in Machine Learning and many more. Most of these sessions were not just interesting sessions that gave us lot to learn, but also eye openers for us. 
+During each of these interesting session we learned something new. Some topics were totally new to us, yet, were interesting. We learned about Big data, concepts like fuzzy categorization and Box plot method, the importance of using design patterns, data embodiment, how products like Google Home and Cortana are being a part of digitizing the world, the importance of mastering the storytelling for UX design, how important is the user in product development, cognitive services, Microsoft AI, cognitive computing, concepts in Machine Learning and many more. Most of these sessions were not just interesting sessions that gave us lot to learn, but also eye openers for us. 👀
 
 And we should also mention about the amazing closing keynote done by **Torgier Andrew Waterhouse**, who is currently the Director of Internet & New Media at ICT Norway. He started his keynote explaining us about the possibilities of the technology. Then he raised the question, **“How can we empower each other to be superheroes with technology?”** , which made us think for a while, because why not? 💪🚀 Throughout his talk, he talked about the history of Internet, how it is being an effect on improving the societies, and how important it is for us. And he also said, **"You don’t need permission to put something on the Internet"** meaning we don't need permission to innovate and launch it on the internet, which triggered us to think about our innovative skills. However he also emphasized the fact that we should use internet **correctly**.
 
 ![Team Fusion at Dev Day 2017](/img/blog/2017/2017-11-18-dev-day-moments.jpg)
 <div class="image-credits"><b>Our Dev Day 2017 moments (Image : ReadMe and Janakshi's Phone)</b></div>
+
 
 Apart from these wonderful sessions and tea breaks, we also got the chance to enjoy a wonderful lunch which was full of flavours. 😁 During the lunch break, apart from eating all the good food 🍝🍨🍰, we got the chance to network with lots of new faces for us, yet not so new to the IT Industry. One of them was **Dr. Raomal Perera**, who was also a Dev Day 2017 speaker. It was really nice to talk to him and the other new friends about our experiences and also about their experiences.
 
