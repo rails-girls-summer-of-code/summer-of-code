@@ -1,8 +1,8 @@
 ---
 title: Team Fusion at DEV DAY 2017
 layout: post
-created_at: Sat Nov 18 2017
-permalink: blog/2017-11-18-team-fusion-at-dev-day-2017
+created_at: Fri Dec 15 2017
+permalink: blog/2017-12-15-team-fusion-at-dev-day-2017
 current: blog
 author: Janakshi and Kalpani
 twitter: TeamFusionJK
