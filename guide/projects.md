@@ -88,7 +88,7 @@ Project mentors can submit their projects using our [Teams App](https://teams.ra
 
 * Sign up for the [Teams App](https://teams.railsgirlssummerofcode.org); 
 * you will need to authenticate with GitHub.
-* Click on “Submit your project” in the navigation bar.
+* Click on “Submit your project” under “Summer of Code” in the navigation bar.
 * By default, we assume the submitter is also the primary mentor. If that isn’t the case, enter the name of the primary Mentor, as well as their email address and GitHub handle.
 * Add the project’s name, website, repo and a description: what the project is about, what stage it’s at, and a few words about the team behind it. If your project has additional project coaches to help the students during the program, the project description is where you can add their information.
 * Add features and tasks: outline how you image the students to contribute, features you’re planning to work on, issues that need help.
@@ -102,7 +102,7 @@ Project mentors can submit their projects using our [Teams App](https://teams.ra
 * You can flag your project as “suitable for beginners” by using the available checkbox.
 * Click Submit!
 
-On the “All Projects” page, you can view all submitted projects and their status (proposed, accepted, rejected) as well as edit or delete your own submission.
+On the “<a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">All Projects</a>” page, you can view all submitted projects and their status (proposed, accepted, rejected) as well as edit or delete your own submission.
 After submitting your project, it’s likely that one of the organizers will offer feedback or ask questions. It’s a good idea to keep an eye out for these!
 
 
