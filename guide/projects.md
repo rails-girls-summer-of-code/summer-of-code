@@ -8,11 +8,14 @@ permalink: /guide/projects/
 ---
 <h1>Becoming a Project Mentor</h1>
 
-**All projects for RGSoC 2017 have already been chosen! If you're interested in participating in RGSoC as a project mentor, check back end of 2017.**
+Project Mentors are vital at Rails Girls Summer of Code, as they are the experts on the Open Source project the team is working on and generally the ones to suggest a project for the program.  
 
-You wish to support women working full-time on Open Source projects for three months, want to help newcomers get into Open Source and plan to submit your project?
+Ideally, they are the decision-makers for the project or work closely with the decision-makers. The Project Mentor designs the roadmap for the project, gives directions and provides feedback throughout the program. In their day-to-day work students will be supported by coaches, so the workload for project mentors is limited.  
 
-Here is some general information about your role as a mentor, as well as guidelines for the 2017 submission; RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language!
+Do you work on OSS and would like to support women and non-binary people as they work full-time on your Open Source project for three months? RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language.  
+
+If you want to submit your project, please have a look at the following guidelines for Project Mentors and project submissions.  
+
 
 <br>
 <ul>
@@ -26,82 +29,90 @@ Here is some general information about your role as a mentor, as well as guideli
 
 <h3 id="q1">What is a good project?</h3>
 
-A good Open Source project to propose for RGSoC 2017:
+A good Open Source project to propose for RGSoC:
 
 
-* has at least one [open-source license](https://opensource.org/licenses/alphabetical) (dual, OS/commercial licenses are usually ok but will be looked at on a case-by-case basis)
-* is established enough to allow collaboration (beyond the set-up phase)
-* has a dedicated contact person/maintainer
-* is beginner/junior-friendly (open to newcomers, maintains an inviting, helpful and understanding communication and a non-discriminating environment, etc.)
-* can abide by the rules of our [Code of Conduct](http://railsgirlssummerofcode.org/about/code-of-conduct/)
+* has at least one [open-source license](https://opensource.org/licenses/alphabetical) (dual, OS/commercial licenses are usually ok but will be looked at on a case-by-case basis),
+* is established enough to allow collaboration (beyond the set-up phase),
+* has a dedicated contact person/maintainer,
+* is beginner/junior-friendly (open to newcomers; maintains an inviting, helpful and understanding communication and a non-discriminating environment; etc.),
+* can abide by the rules of our [Code of Conduct](http://railsgirlssummerofcode.org/about/code-of-conduct/) (having your own Code of Conduct or similar guidelines for your project is highly encouraged),
+* has to provide a mentor who will act as an expert in the project’s domain.
 
-Having a Code of Conduct or similar guidelines on your project is encouraged. Projects have to provide a mentor who will act as an expert in the project's domain; however, in their day-to-day work students will be supported by coaches, so the workload for project mentor is limited.
 
-<h3 id="q2">What is a good mentor? What does it entail?</h3>
+<h3 id="q2">What does a good mentor do?</h3>
 
-Mentors are patient, tolerant and open people! Ideally you are already familiar with the [Rails Girls](http://www.railsgirls.com) movement or other newcomer initiatives. You care about diversity and making Open Source projects more accessible to newcomers.
-A mentor is a maintainer of the proposed project (or a core-contributor) and is the dedicated contact person for the team over the summer.
+A mentor is a maintainer of the proposed project (or a core-contributor) and is the dedicated contact person for the team throughout the program.
 
-RGSoC teams have their nuances, but in general a good mentor is one that is approachable and stays informed on the students' progress. Some student teams will reach out to you often, others will do so only when truly stuck. It's important to get a feel for when it's time to check in with the students and see if there's a way you can help.
+Mentors are patient, tolerant and open people. You care about diversity and making Open Source projects more accessible to newcomers. Ideally, you are already familiar with the [Rails Girls](http://www.railsgirls.com) movement or other newcomer initiatives.
+
+RGSoC teams are varied, but in general, a good mentor is one that is approachable and stays on top of the students’ progress. Some student teams will reach out to their mentor often, others will do so only when truly stuck. It’s important to get a feel for when it is time to check in with the students and see if there is a way you can help.
 
 Being a mentor entails:
 
-* providing guidance and feedback concerning your project through the summer
-* helping the students to apply: suggesting and discussing issues or features to work on
-* being in contact with the whole student team throughout the summer
+* Providing guidance and feedback concerning your project throughout the program
+* Helping prospective students apply for the program by suggesting and discussing issues or features for them to work on  
+* Being in contact with the student team throughout the program
 * following the rules of our [Code of Conduct](http://railsgirlssummerofcode.org/about/code-of-conduct/)
 
 
 
 <h3 id="q3">How much time does being a project mentor take?</h3>
 
-Every team and project are different; to have a successful summer sometimes means putting in more or less hours of work. But in general you can expect this:
+Every team and project is different with regard to the hours of work put in. But in general you can expect the following:
 
-* Time at the beginning of the summer to help the team get set up (especially for more challenging projects)
-* Time for you to to get acquainted with the program, the organisers and the core team (onboarding)
-* Email and chat availability July 1st to September 30th
-* 1-3h/week over the course of the program for answering questions and emails, including some time twice a month for  ~1h calls
+* It’ll take some time for you to to get acquainted with the program, the organizers and the core team (onboarding).
+* You’ll invest some time at the beginning of the project to help your team get set up. Especially for more challenging projects, this can take quite a bit of time.
+* You should be available via email and chat from July 1st to September 30th.
+* Over the course of the program, you’ll spend about 1–3 hours per week answering student questions and emails.
+* Twice a month you will be expected to participate in a call which takes approximately 1h.
 
 
 
 <h3 id="q4">Why should I submit my project?</h3>
 
-By submitting your project for Rails Girls Summer of Code, you are allowing your project to be part of a worldwide movement that encourages more diversity in Open Source.  Furthermore you get:
+By submitting your project for Rails Girls Summer of Code you are allowing your project to become part of a worldwide movement that encourages more diversity in Open Source.  
+Furthermore, you will get:
 
-* diverse feedback (eg. suggestions on important/missing features, documentation improvements, a fresh outlook on your project)
-* the possibility to tackle time-consuming issues (eg. implementation of new features)
-* more visibility within the community
-* new contributors who might want to stick around after the summer!
-* all in all: the chance to develop a sustainable Open Source project
+* Diverse feedback, e.g. suggestions on important/missing features, documentation improvements, a fresh outlook on your project
+* The possibility to tackle time-consuming issues that you usually don’t get around to, e.g. implementation of new features
+* More visibility within the community
+* New contributors who might want to stick around after the program
+* All in all: the chance to develop a sustainable Open Source project
+
 
 
 <h3 id="q5">How do I submit my project?</h3>
 
-<br>You have until January 31st, 2017 (23:59:00 UTC) to submit your project on our [Teams App](https://teams.railsgirlssummerofcode.org); you will need to authenticate with GitHub. Once logged in:
+Project mentors can submit their projects using our [Teams App](https://teams.railsgirlssummerofcode.org). The deadline for Rails Girls Summer of Code 2018 is January 24th, 2018 (23:59:00 UTC).
 
+* Sign up for the [Teams App](https://teams.railsgirlssummerofcode.org); 
+* you will need to authenticate with GitHub.
 * Click on “Submit your project” in the navigation bar.
-* By default, we assume the submitter is also the primary mentor. If that isn’t the case, enter the name of the primary Mentor as well as their email address and GitHub handle.
-* Add the project's name, website, repo and a description: what the project is about, what stage it’s at, and maybe something about the team behind it.
-* Add features and tasks: outline how you image the students to contribute, features you're planning to work on, issues that need help.
+* By default, we assume the submitter is also the primary mentor. If that isn’t the case, enter the name of the primary Mentor, as well as their email address and GitHub handle.
+* Add the project’s name, website, repo and a description: what the project is about, what stage it’s at, and a few words about the team behind it. If your project has additional project coaches to help the students during the program, the project description is where you can add their information.
+* Add features and tasks: outline how you image the students to contribute, features you’re planning to work on, issues that need help.
 * Add requirements: describe skills and experience students should bring to work on the project, e.g.
-  * Provide a small example or coding challenge for students to solve upfront.
+  * Provide a small example or coding challenge for students to solve up front.
   * Add links to online courses or katas students should be confident with.
   * Frame possible features students could work on.
-  * ...or just ask the students to contact you for this.
-* Add keywords: this can mean a language, like "Python", framework like "React", but also specific technologies or concepts.
+  * Or just ask the students to contact you for more information about requirements.
+* Add keywords: this can mean a language, like “Python”, a framework like “React”, but also specific technologies or concepts.
 * Add the name of your license in the "license" field.
 * You can flag your project as “suitable for beginners” by using the available checkbox.
 * Click Submit!
 
-On the “All Projects” page, you can view all submitted projects and their status (proposed, accepted, rejected) as well as edit or delete your submission.
+On the “All Projects” page, you can view all submitted projects and their status (proposed, accepted, rejected) as well as edit or delete your own submission.
+After submitting your project, it’s likely that one of the organizers will offer feedback or ask questions. It’s a good idea to keep an eye out for these!
 
-After submitting your project, it's likely that one of the organizers will offer feedback or ask questions. It's a good idea to keep an eye out for these!
 
 
 <h3 id="q6">I'd like to submit my project, but what if I have no time to be a mentor?</h3>
 
-We want to make this clear: for a project to be considered for the program, the students must have someone they can rely on to answer their project-specific questions. As such, we feel that a core contributor of the project fits this role of "project mentor" best.
+For a project to be considered for the program, the students must have someone they can rely on to answer their project-specific questions. As such, we feel that a core contributor of the project fits this role of “project mentor” best.
 
-However we understand that the maintainers of some established projects have busy schedules; which is why we encourage you to ask the community for help! If there are other regular and motivated contributors to your project who you think fit the profile of a good mentor and whom you trust to be experts on the subject, please ask them if they would be interested in being project mentors. If that doesn't work, get in touch with us directly – maybe we can find a solution together.
+However, we understand that the maintainers of some established projects have busy schedules; which is why we encourage you to ask the community for help. If there are other regular and motivated contributors to your project who you think fit the profile of a good mentor and whom you trust to be experts on the subject, please ask them if they would be interested in being project mentors.
 
-<p>If you have any further questions, drop us a line at <a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a>.</p>
+If that doesn’t work, do get in touch with us directly — maybe we can find a solution together.
+
+If you have any further questions, drop us a line at <a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a>.
