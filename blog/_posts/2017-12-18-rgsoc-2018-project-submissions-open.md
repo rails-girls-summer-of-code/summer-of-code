@@ -9,7 +9,8 @@ twitter: kernel_girl
 categories:
 - news
 ---
-![RGSoC 2018 OSS Project Submissions (in ALL languages) are open! (gif by Ana Sofia Pinho)](/img/blog/2017/2017-12-18-rgsoc-2018-project-submissions-open.gif)<font color="grey"><small><i>RGSoC 2018 OSS Project Submissions (in ALL languages) are open! (gif by Ana Sofia Pinho)</i></small></font>
+![RGSoC 2018 OSS Project Submissions (in ALL languages) are open! (gif by Ana Sofia Pinho)](/img/blog/2017/2017-12-18-rgsoc-2018-project-submissions-open.gif)
+<div class="image-credits"><b>RGSoC 2018 OSS Project Submissions (in ALL languages) are open! (gif by Ana Sofia Pinho)</b></div>
 
 Hello awesome mentors!
 
@@ -37,3 +38,4 @@ So, what are you waiting for? Start right now and submit your project [here](htt
 Also, don’t forget to share it on social media to help us make RGSoC 2018 the year with the most diverse selection of projects. May the force be with you! 
 
 ![Image source: giphy.com](https://media.giphy.com/media/l1J9KJE8BKO09QTzW/giphy.gif)
+<div class="image-credits"><b>Image source: giphy.com</b></div>
