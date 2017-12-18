@@ -19,6 +19,9 @@ So if you’re new to Summer of Code and have no idea where you fit into the pro
 
 <ul class="list list--none">
   <li>
+    <a href="#overview">Overview</a>
+  </li>
+  <li>
     <a href="#teams">Teams</a>
     <ul class="list">
       <li><a href="#student">Student</a></li>
@@ -45,6 +48,10 @@ So if you’re new to Summer of Code and have no idea where you fit into the pro
   </li>
 </ul>
 
+<p><div id="overview" class="resize-whitespace">
+<img src="/img/guides/team_structure.jpg">
+</div>
+</p>
 
 <h2 id="teams">Teams</h2>
 
