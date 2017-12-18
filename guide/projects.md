@@ -90,7 +90,7 @@ Project mentors can submit their projects using our [Teams App](https://teams.ra
 * you will need to authenticate with GitHub.
 * Click on “Submit your project” in the navigation bar.
 * By default, we assume the submitter is also the primary mentor. If that isn’t the case, enter the name of the primary Mentor, as well as their email address and GitHub handle.
-* Add the project’s name, website, repo and a description: what the project is about, what stage it’s at, and a few words about the team behind it.
+* Add the project’s name, website, repo and a description: what the project is about, what stage it’s at, and a few words about the team behind it. If your project has additional project coaches, this is the place to add their information.
 * Add features and tasks: outline how you image the students to contribute, features you’re planning to work on, issues that need help.
 * Add requirements: describe skills and experience students should bring to work on the project, e.g.
   * Provide a small example or coding challenge for students to solve up front.
