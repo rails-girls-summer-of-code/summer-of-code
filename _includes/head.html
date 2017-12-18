@@ -30,6 +30,13 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="{{ "/assets/stylesheets/style.css" | prepend: site.baseurl }}">
 
+{% if page.current == 'thankyou2017' %}
+<!-- Magnific Popup CSS -->
+<link href="{{ site.baseurl }}/assets/stylesheets/magnific-popup-1.1.0/magnific-popup.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/stylesheets/thank-you-2017.css" rel="stylesheet" type="text/css">
+{% endif %}
+
+
 {% if page.stripe %}
 <script src="https://checkout.stripe.com/v2/checkout.js"></script>
 {% endif %}
@@ -42,6 +49,11 @@
 <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/pagination.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/stats.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/progress.js"></script>
+{% endif %}
+{% if page.current == 'thankyou2017' %}
+<!-- Plugin JavaScript -->
+<script src="{{ site.baseurl }}/assets/javascripts/magnific-popup-1.1.0/magnific-popup.min.js"></script>
+<script src="{{ site.baseurl }}/assets/javascripts/thank-you-2017.js"></script>
 {% endif %}
 
 <!-- <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/blogroll.js"></script> -->
