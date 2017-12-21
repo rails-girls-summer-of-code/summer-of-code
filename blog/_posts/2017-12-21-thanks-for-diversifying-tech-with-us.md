@@ -1,8 +1,8 @@
 ---
 title: Thanks for diversifying tech with us!
 layout: post
-created_at: Mon December 11 2017
-permalink: blog/2017-12-20-Thanks-for-diversifying-tech-with-us
+created_at: Thu December 21 2017
+permalink: blog/2017-12-21-thanks-for-diversifying-tech-with-us
 current: blog
 author: Inês Coelho
 twitter: ines_opcoelho
