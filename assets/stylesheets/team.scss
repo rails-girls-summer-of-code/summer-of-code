@@ -19,7 +19,9 @@
   border-radius: 50%;
   overflow: hidden;
 }
-.list--team i { margin-right: .2em; }
+.list--team i {
+  margin-right: 0.2em;
+}
 
 /*
  * Team grid
@@ -32,16 +34,22 @@
   margin-right: 2%;
   vertical-align: top;
 }
-.Grid--5 li:nth-child(5n) { margin-right: 0; }
+.Grid--5 li:nth-child(5n) {
+  margin-right: 0;
+}
 
-.color--red { color: #D82222; }
+.color--red {
+  color: #d82222;
+}
 
 .page-team article {
   min-height: 15em;
 }
-.page-team article { min-height: 15em; }
+.page-team article {
+  min-height: 15em;
+}
 .page-team article.is-loading {
-  background-image: url('../../../img/ajax-loader.gif');
+  background-image: url('../../../img/sprites/ajax-loader.gif');
   background-repeat: no-repeat;
   background-position: center;
 }
