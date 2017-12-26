@@ -1,8 +1,8 @@
 ---
 title: Team Bundledore at dotJS and dotCSS 2017
 layout: post
-created_at: Fri Dec 17 2017
-permalink: blog/2017-12-17-team-bundledore-at-dotjs-and-dotcss
+created_at: Tue Dec 26 2017
+permalink: blog/2017-12-26-team-bundledore-at-dotjs-and-dotcss
 current: blog
 author: Amrita
 twitter: TeamBundledore
