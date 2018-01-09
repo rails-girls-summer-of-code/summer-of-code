@@ -31,7 +31,7 @@ Rails Girls Summer of Code is programming language agnostic, and students have c
 
 Since its inception, Rails Girls Summer of Code has been supported by companies like Travis CI, GitHub, Google, GitLab, Envato, Basecamp, and SoundCloud, to name a few. At the same time, thousands of people have backed this initiative individually.
 
-In 2016, Rails Girls Summer of Code launched the #diversifytech campaign, which you can read more about <a href="https://railsgirlssummerofcode.org/blog/2016-04-22-thank-you-lets-diversify-tech target="_blank">here</a>".
+In 2016, Rails Girls Summer of Code launched the #diversifytech campaign, which you can read more about [here](/blog/2016-04-22-thank-you-lets-diversify-tech){:target="_blank"}.
 
 ## Ways to get involved
 There are plenty of ways for companies and individuals to get involved with and support Rails Girls Summer of Code.
