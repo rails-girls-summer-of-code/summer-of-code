@@ -33,9 +33,9 @@ To help you get an idea of how this will affect the rest of the program,  we’v
 
 - How many part-time scholarship slots will be available?
 
-  As this is our first time doing part-time sponsored teams, we want to limit the number of part-time scholarship slots. We plan to
-  offer up to 5 slots this year. As this is something we’re trying for the first time, it will also depend on the type of applications
-  we receive. Let’s see where this takes us for next year!
+  As this is our first time doing part-time sponsored teams, we want to limit the number of part-time scholarship slots. We
+  plan to offer up to 5 slots this year. As this is something we’re trying for the first time, it will also depend on the
+  type of applications we receive. Let’s see where this takes us for next year!
 
 ![RGSoC 2018 Announcements (gif by Ana Sofia Pinho)](/img/blog/2018/2018-01-23-teams-paid-part-time-scholarship.gif)
 <div class="image-credits"><b>Part time paid scholarships (gif by Ana Sofia Pinho)</b></div>
