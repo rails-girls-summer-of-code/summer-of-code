@@ -1,7 +1,7 @@
 ---
 title: Announcing part-time scholarships, project coaches and conference collaboration
 layout: post
-created_at: Tue Jan 01 2018
+created_at: Tue Jan 23 2018
 permalink: blog/2018-01-23-rgsoc-2018-announcements
 current: blog
 author: Vaishali Thakkar
