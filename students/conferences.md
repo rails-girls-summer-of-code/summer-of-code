@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Conferences
+title: Go to a conference!
 class: page page-students-conferences
 current-sub: conferences
 sidebar: content
 permalink: /students/conferences/
 current: students
 ---
-<h1>Go to a conference!</h1>
+<h1>{{page.title}}</h1>
 
 Rails Girls Summer of Code is all about contributing and being part of the Open Source community. We want you, our students, to explore and experience the inspiring vibe of conferences, user groups and meetups.
 

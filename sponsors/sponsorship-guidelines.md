@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sponsors
+title: Sponsorship Guidelines
 class: page page-sponsors
 sidebar: content
 current: sponsors
@@ -8,7 +8,7 @@ stripe: yes
 permalink: sponsorship-guidelines/
 ---
 
-<h1 id="guidelines">Sponsorship Guidelines</h1>
+<h1>{{page.title}}</h1>
 
 Rails Girls Summer of Code has been ongoing since 2013 thanks to the people — both companies and individuals — who are funding the scholarship program. Given the nature of Rails Girls Summer of Code, it is incredibly important to us that our sponsors share our values.  
 

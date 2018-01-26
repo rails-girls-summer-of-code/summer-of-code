@@ -1,6 +1,6 @@
 ---
 layout: campaign
-title: Sponsors
+title: Become a sponsor
 class: page page-get-involved
 current: sponsors
 sponsors: yes
@@ -10,7 +10,7 @@ permalink: /sponsors/packages/
 
 <div class="row">
   <div class="col-md-8 col-md-offset-2">
-    <h1>Become a Sponsor</h1>
+    <h1>{{page.title}}</h1>
     <p>Rails Girls Summer of Code enables women and non-binary people to work on Open Source projects from July to September each year while receiving a monthly scholarship. You can help make this a reality by becoming a Rails Girls Summer of Code sponsor or by donating as an individual.</p>
     <p>We offer various packages with different perks, as outlined below.</p>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What to expect
+title: What to expect during Rails Girls Summer of Code
 class: page page-students-todo
 sidebar: content
 current-sub: things-to-do
@@ -8,7 +8,7 @@ permalink: /students/todo/
 current: students
 ---
 
-<h1>What to expect</h1>
+<h1>{{page.title}}</h1>
 
 The Rails Girls Summer of Code is about supporting the students on their way
 into the Open Source community. Below you'll find everything you will need during the summer. The suggestions and best practices from former years will help you set up a good working environment and support you in having a successful and fulfilling Summer of Code. 
