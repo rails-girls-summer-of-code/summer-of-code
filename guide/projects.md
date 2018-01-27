@@ -84,7 +84,7 @@ Furthermore, you will get:
 
 <h3 id="q5">How do I submit my project?</h3>
 
-Project mentors can submit their projects using our [Teams App](https://teams.railsgirlssummerofcode.org). The deadline for Rails Girls Summer of Code 2018 is January 24th, 2018 (23:59:00 UTC).
+Project mentors can submit their projects using our [Teams App](https://teams.railsgirlssummerofcode.org). The deadline for Rails Girls Summer of Code 2018 is January 28th, 2018 (23:59:00 UTC).
 
 * Sign up for the [Teams App](https://teams.railsgirlssummerofcode.org); 
 * you will need to authenticate with GitHub.
