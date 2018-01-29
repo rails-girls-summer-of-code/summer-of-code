@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rails Girls Summer of Code - Roles
+title: Rails Girls Summer of Code Roles
 class: page page-roles
 sidebar: content
 permalink: /about/roles/
@@ -8,7 +8,7 @@ current: about
 current-sub: roles
 ---
 
-<h1>Rails Girls Summer of Code Roles</h1>
+<h1>{{page.title}}</h1>
 
 While the students are, of course, at the core of Rails Girls Summer of Code, there are plenty of different ways to get involved with the program to help bring more diversity into the Open Source world.  
 
