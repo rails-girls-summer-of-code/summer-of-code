@@ -32,7 +32,7 @@ In order to make this process easier for you, during the month of February we’
 
 <br>
 We welcome all people with non-binary gender identities or who identify as women (transgender or cisgender).   
-RGSoC participants need to be available to work full-time for 3 months (from July 1st to September 30th). 
+RGSoC participants need to be available to work full-time for 3 months (from July 1st to September 30th). Additionally, this year we've introduced a few slots for [part-time teams](https://railsgirlssummerofcode.org/blog/2018-01-23-rgsoc-2018-announcements).
 
 It’s really important for us that the participants have been learning to code continuously for one year and are involved in the community (through meetups, workshops or conferences).
 Participants should also be proficient in English so that they can be better accompanied by everyone in the team.
