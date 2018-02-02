@@ -31,14 +31,16 @@ In order to make this process easier for you, during the month of February we’
 </div>
 
 <br>
-We welcome all people with non-binary gender identities or who identify as women (transgender or cisgender).
-RGSoC participants need to be available to work full-time for 3 months (from July 1st to September 30th). It’s really important for us that the participants have been learning to code continuously for one year and are involved in the community (through meetups, workshops or conferences).
+We welcome all people with non-binary gender identities or who identify as women (transgender or cisgender).   
+RGSoC participants need to be available to work full-time for 3 months (from July 1st to September 30th). 
+
+It’s really important for us that the participants have been learning to code continuously for one year and are involved in the community (through meetups, workshops or conferences).
 Participants should also be proficient in English so that they can be better accompanied by everyone in the team.
 
 ### Find a teammate
 
 <div class="smaller">
-<img src="/img/blog/2018/2018-02-02-rgsoc-applications-are-open-pair.jpg">
+<img src="/img/blog/2018/2018-02-02-rgsoc-applications-are-open-team.jpg">
 </div>
 
 <br>
@@ -56,7 +58,7 @@ Want to find a teammate, but don’t know where to start? Check this [“Finding
 Coaches are software developers that will work with you on a regular basis — 4 to 8 hours a week. Finding coaches, though sometimes difficult, is one of the most important tasks you’ll have in preparation for your application, as they’ll be your main support and will guide you throughout the program. You need to have a minimum of  two and a maximum of four coaches.
 Coaches can be remote, however we strongly advise that you try to find local coaches before looking for remote coaches.
 
-Additionally this year, [project maintainers can add project coaches](https://railsgirlssummerofcode.org/blog/2018-01-23-rgsoc-2018-announcements). These coaches will not count towards your “allocated” amount of coaches. Please note that you’ll be able to add only 4 coaches from this year.  
+Additionally this year, [project maintainers can add project coaches](https://railsgirlssummerofcode.org/blog/2018-01-23-rgsoc-2018-announcements). These coaches will not count towards your “allocated” amount of coaches.
 
 Tips on how to find coaches are in [this guide](http://railsgirlssummerofcode.org/students/finding-your-team/); if you want to send information to a potential coach, you can direct them to [our guide for coaches](http://railsgirlssummerofcode.org/guide/coaching/).
 
