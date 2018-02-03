@@ -188,4 +188,4 @@ If you need help setting up your application, go to the "Help" Section in our te
 
 <h3 id="student-support">More questions?</h3>
 
-If you have more questions on how to apply, you can also hop into our <a href="https://rgsoc-student-application.herokuapp.com/">Student Support Slack channel</a>.
+If you have more questions on how to apply, you can also hop into our <a href="https://rgsoc-application-support.herokuapp.com/">Student Support Slack channel</a>.
