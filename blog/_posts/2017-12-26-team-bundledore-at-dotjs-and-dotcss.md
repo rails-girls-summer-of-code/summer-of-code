@@ -11,8 +11,8 @@ categories:
 - conferences
 ---
 
-![Team Bundledore at dotJS and dotCSS 2017](/img/blog/2017/dotconferences_bundledore.jpeg)
-<div class="image-credits"><b>dotconferences (Image : www.dotconferences.com)</b></div>
+![Team Bundledore at dotJS and dotCSS 2017](/img/blog/2017/bundledore-dotconferences.jpeg)
+<div class="image-credits"><b>dotconferences (Image: www.dotconferences.com)</b></div>
 
 
 According to their website, dotconferences started with a simple idea, “What if we organized a developer conference with the format and the quality standards of TED?”
@@ -22,8 +22,8 @@ When I left India, I did not expect to be giving a presentation and the overflow
 
 ## dotCSS Conference
 
-![Team Bundledore at dotCSS 2017](/img/blog/2017/dotCSS_bundledore.jpg)
-<div class="image-credits"><b>dotconferences (Image : Fickr account of dotconference)</b></div>
+![Team Bundledore at dotCSS 2017](/img/blog/2017/bundledore-dotCSS.jpg)
+<div class="image-credits"><b>dotconferences (Image: Flickr account of dotconference)</b></div>
 
  I had with me a small notebook to jot down important points about the talks during the two days. It helped me to be more attentive and now I have a set of mini projects to work on.  
 
@@ -34,8 +34,8 @@ Another talk that was particularly interesting was on Media queries- Level4. It 
 
 ## dotJS Conference
 
-![Team Bundledore at dotJS 2017](/img/blog/2017/dotJS_bundledore.jpeg)
-<div class="image-credits"><b>dotJS (Image : Amrita's phone)</b></div>
+![Team Bundledore at dotJS 2017](/img/blog/2017/bundledore-dotJS.jpeg)
+<div class="image-credits"><b>dotJS (Image: Amrita's phone)</b></div>
 
 dotJS was way bigger than dotCSS in the sense that there were more people and a lot more companies had their stalls in the venue. I spent some time going around to the companies stall and finding out about what they do. [Lighthouse](https://developers.google.com/web/tools/lighthouse/) had also put up a stall and I had a fun time analyzing the performance of a small static website that I had put up around a year back. The analysis was on the basis of how progressive the app was, on how the app performed and its accessibility. 
 
@@ -43,14 +43,14 @@ There were talks on State management in GraphQL, on Server Side Rendering and on
 
 My favourite by far was by Marcy Sutton, an accessibility advocate. Her talk was on Enabling Users in Client-Rendered Applications.She talked very passionately about how developers generally don't consider differently abled users while designing an app. The talk was on diagnosing accessibility issues in an app and also elaborated on different tools. 
 
-![Team Bundledore at dotJS and dotCSS 2017](/img/blog/2017/Amrita_Bundledore_talk.jpeg)
-<div class="image-credits"><b>Amrita's presenttion (Image : Flickr account of dotconferences)</b></div>
+![Team Bundledore at dotJS and dotCSS 2017](/img/blog/2017/bundledore-Amrita-talk.jpeg)
+<div class="image-credits"><b>Amrita's presentation (Image: Flickr account of dotconferences)</b></div>
 
 My presentation was a part of the overflow lightning talks. I started off by explaining about RGSoC, about how it works.I talked about the issues we, as a team, solved and the features implemented. The slot as only for about 4 minutes so I had to squeeze everything in. I am hoping that I could get my point across!
 
 
-![Team Bundledore at dotJS and dotCSS 2017](/img/blog/2017/dotConferences_Bundledore.jpeg)
-<div class="image-credits"><b>Amrita's presenttion (Image : Amrita's phone)</b></div>
+![Team Bundledore at dotJS and dotCSS 2017](/img/blog/2017/bundledore-dotconferences-presentation.jpeg)
+<div class="image-credits"><b>Amrita's presentation (Image: Amrita's phone)</b></div>
 
 
 I think the array of talks, the food, the venue and the awesome organizers made the conferences a success. A big thank you to all of the organizers who made me feel really welcome :) Thank You RGSoC and thank you dotConferences ! 
