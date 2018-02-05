@@ -21,12 +21,15 @@
 #        - 2016
 #        - 2017
 #        - 2018
+
 #- name: Platinum
 #  title: Platinum Sponsors
 #  sponsors:
+
 #- name: Gold
 #  title: Gold Sponsors
 #  sponsors:
+
 #- name: Silver
 #  title: Silver Sponsors
 #  sponsors:
@@ -36,7 +39,21 @@
 #      #text: |- 
 #      years:
 #        - 2018
+
 #- name: Bronze
 #  title: Bronze Sponsors
 #  sponsors:
+#    - name: Loco2
+#      id:
+#      url:
+#      text: |-
+#     Award-winning <a href="https://loco2.com" target="_blank">Loco2</a> is the only search and 
+#     booking engine for domestic UK train travel that also covers Europe. Loco2 was the first booking 
+#     platform to enable users to buy train tickets for domestic and long-distance travel in 
+#     and around the UK and Europe in a single transaction, and still is today. It launched in 2012. 
+#     We are passionate about promoting diversity in the tech industry and are delighted 
+#     to have the opportunity to support Rail Girls!
+#     years:
+#        - 2018
+
  
