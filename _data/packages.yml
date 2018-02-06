@@ -37,7 +37,7 @@
 #      id: discourse
 #      url: https://www.discourse.org/
 #      text: |- 
-        #Discourse is the 100% open source discussion platform built for the next decade of the Internet. 
+        #<a href="https://www.discourse.org" target="_blank">Discourse</a> is the 100% open source discussion platform built for the next decade of the Internet. 
         #Use it as a mailing list, discussion forum, long-form chat room, and more!
 #      years:
 #        - 2018
