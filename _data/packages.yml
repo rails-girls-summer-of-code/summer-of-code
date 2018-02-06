@@ -44,8 +44,8 @@
 #  title: Bronze Sponsors
 #  sponsors:
 #    - name: Loco2
-#      id:
-#      url:
+#      id: loco2
+#      url: https://loco2.com/
 #      text: |-
 #     Award-winning <a href="https://loco2.com" target="_blank">Loco2</a> is the only search and 
 #     booking engine for domestic UK train travel that also covers Europe. Loco2 was the first booking 
@@ -55,5 +55,4 @@
 #     to have the opportunity to support Rail Girls!
 #     years:
 #        - 2018
-
  
