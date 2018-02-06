@@ -39,4 +39,9 @@
 #- name: Bronze
 #  title: Bronze Sponsors
 #  sponsors:
+#    - name: LOCO2
+#      id: loco2
+#      url: https://loco2.com/
+#      #text: |- 
+#      years:
  
