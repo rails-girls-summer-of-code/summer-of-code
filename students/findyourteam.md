@@ -66,7 +66,7 @@ We require that you work together in the same place for the duration of the prog
 
 A great place to start is, again, local learning groups. Speak to organisers and coaches from the group as they might know of someone who would also be interested in applying. If you regularly attend a study group, try asking there as well.
 
-Another suggestion is to attend and speak to people in your local Ruby meetup group — or other user groups relevant to whichever language prospective projects are in.
+Another suggestion is to attend and speak to people in your local coding-related meetup groups.
 
 If you have no luck or live in an area where there are no learning groups or user groups, ask via the <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">Rails Girls Summer of Code community mailing list</a>, or via <a href="https://www.twitter.com/railsgirlssoc">@RailsGirlsSoC</a> on Twitter. We will happily connect and retweet you!
 
