@@ -76,7 +76,7 @@ If you don’t know **how to go about finding a teammate**, check out our detail
 
 Coaches are developers who help you with your project. They sit down with you at regular intervals, guide you through relevant coding steps and troubleshoot problems you may run into. Consequently, it’s recommended that coaches are based in the same city as the team.  
 
-Based on past experiences, **we recommend 4–8 hours per week of coaching time**. Therefore, we require a minimum of 2 coaches per team so they can share the time commitment. This way, you and your teammate will have more support coverage without exhausting just one coach.
+Based on past experiences, **we recommend 4–8 hours per week of coaching time**. Therefore, we require a minimum of 2 coaches per team, and a maximum of 4, so they can share the time commitment. This way, you and your teammate will have more support coverage without exhausting just one coach.
  
 
 Our **<a href="/guide/coaching/">guide for coaches</a>** will give you insight on what’s required of them and help you explain what is needed to prospective coaches. For further information on how to find coaches, we have also prepared a detailed guide <a href="/students/finding-your-team">here</a>.
@@ -188,4 +188,4 @@ If you need help setting up your application, go to the "Help" Section in our te
 
 <h3 id="student-support">More questions?</h3>
 
-If you have more questions on how to apply, you can also hop into our <a href="https://rgsoc-student-application.herokuapp.com/">Student Support Slack channel</a>.
+If you have more questions on how to apply, you can also hop into our <a href="https://rgsoc-application-support.herokuapp.com/">Student Support Slack channel</a>.
