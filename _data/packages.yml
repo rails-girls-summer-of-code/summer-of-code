@@ -6,14 +6,13 @@
 #      url: http://travis-ci.com
 #      partner: true
 #      text: |-
-#        <a href="https://travis-ci.com" target="_blank">Travis</a> is an Open Source
-#        company, born and raised in beautiful Berlin. Travis CI is their hosted
-#        continuous integration service for the open source community. It is integrated
-#        with GitHub and offers first class support for a ton of programming languages,
-#        like Python, Go, PHP, Java, C++ and of course Ruby. They also launched <a
-#        href="http://foundation.travis-ci.org">Travis Foundation</a>, a non-profit
-#        organisation which aims to make Open Source an even better place. One of their
-#        goals is to make Rails Girls Summer of Code a recurring tradition.
+#        <a href="https://travis-ci.com" target="_blank">Travis CI</a> is a hosted continuous integration service 
+#       created in 2011 to serve the Open Source community from which it began. Integrated with GitHub, 
+#       Travis CI offers first class support to many programming languages including Python, Go, PHP, Java, C++, and Ruby. 
+#       Travis CI also launched <a
+#        href="http://foundation.travis-ci.org">Travis Foundation</a>, a non-profit organization which aims to make 
+#       Open Source a diverse and inclusive place. One of Travis Foundation’s main efforts is Rails Girls Summer of Code which 
+#        helps individuals from underrepresented groups begin their careers in programming. 
 #      years:
 #        - 2013
 #        - 2014
