@@ -81,7 +81,7 @@ Please make sure you have a Twitter account. It can be either your personal one 
 We will use Twitter for some social and fun events. Besides, it’s a great place to get news and updates from the RGSoC world.
 
 <h3>Optional: Your Own Team Blog</h3>     
-f you enjoy writing about stuff that interests you anyway, why not set up a dedicated RGSoC team blog? A blog can be a great place for a more general recap of your project work, reflections about your learning time and experiences, or reports about events you took part in.
+If you enjoy writing about stuff that interests you anyway, why not set up a dedicated RGSoC team blog? A blog can be a great place for a more general recap of your project work, reflections about your learning time and experiences, or reports about events you took part in.
 
 We very much support blogging about your RGSoC experience, but we would also like to state explicitly that a blog is **not mandatory** — aside from the two blog posts every team should contribute to the official RGSoC blog (see below).
 
