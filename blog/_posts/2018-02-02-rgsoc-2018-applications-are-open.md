@@ -15,7 +15,7 @@ categories:
 
 Yes, RGSoC applications for 2018 are officially open! If you want to jumpstart your career as a software developer, or transition to a different language or framework, RGSoC is for you. From July 1st to September 30th, you’ll be working on an Open Source Project with the help of the project maintainer (referred to as mentor), coaches and supervisors. During this time and in order to help you focus on coding and learning, you’ll receive a full-time scholarship.
 
-What follows is an overview of what you need to apply, but make sure you also read our [guides]http://bit.ly/rgsoc-application-guide) carefully, as more detailed information can be found there!
+What follows is an overview of what you need to apply, but make sure you also read our [guides](http://bit.ly/rgsoc-application-guide) carefully, as more detailed information can be found there!
 
 
 ### Additional support for your application
