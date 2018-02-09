@@ -1,25 +1,25 @@
-#- name: Partners
-#  title: Partner Companies
-#  sponsors:
-#    - name: Travis CI
-#      id: travis
-#      url: http://travis-ci.com
-#      partner: true
-#      text: |-
-#        <a href="https://travis-ci.com" target="_blank">Travis CI</a> is a hosted continuous integration service 
-#       created in 2011 to serve the Open Source community from which it began. Integrated with GitHub, 
-#       Travis CI offers first class support to many programming languages including Python, Go, PHP, Java, C++, and Ruby. 
-#       Travis CI also launched <a
-#        href="http://foundation.travis-ci.org">Travis Foundation</a>, a non-profit organization which aims to make 
-#       Open Source a diverse and inclusive place. One of Travis Foundation’s main efforts is Rails Girls Summer of Code which 
-#        helps individuals from underrepresented groups begin their careers in programming. 
-#      years:
-#        - 2013
-#        - 2014
-#        - 2015
-#        - 2016
-#        - 2017
-#        - 2018
+- name: Partners
+  title: Partner Companies
+  sponsors:
+  - name: Travis CI
+    id: travis
+    url: http://travis-ci.com
+    partner: true
+    text: |-
+      <a href="https://travis-ci.com" target="_blank">Travis CI</a> is a hosted continuous integration service 
+      created in 2011 to serve the Open Source community from which it began. Integrated with GitHub, 
+      Travis CI offers first class support to many programming languages including Python, Go, PHP, Java, C++, and Ruby. 
+      Travis CI also launched <a
+      href="http://foundation.travis-ci.org">Travis Foundation</a>, a non-profit organization which aims to make 
+      Open Source a diverse and inclusive place. One of Travis Foundation’s main efforts is Rails Girls Summer of Code which 
+      helps individuals from underrepresented groups begin their careers in programming. 
+    years:
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
 
 #- name: Platinum
 #  title: Platinum Sponsors
@@ -29,31 +29,31 @@
 #  title: Gold Sponsors
 #  sponsors:
 
-#- name: Silver
-#  title: Silver Sponsors
-#  sponsors:
-#    - name: Discourse
-#      id: discourse
-#      url: https://www.discourse.org/
-#      text: |- 
-        #<a href="https://www.discourse.org" target="_blank">Discourse</a> is the 100% open source discussion platform built for the next decade of the Internet. 
-        #Use it as a mailing list, discussion forum, long-form chat room, and more!
-#      years:
-#        - 2018
+- name: Silver
+  title: Silver Sponsors
+  sponsors:
+    - name: Discourse
+      id: discourse
+      url: https://www.discourse.org/
+      text: |-
+        <a href="https://www.discourse.org" target="_blank">Discourse</a> is the 100% open source discussion platform built for the next decade of the Internet. 
+        Use it as a mailing list, discussion forum, long-form chat room, and more!
+      years:
+        - 2018
 
-#- name: Bronze
-#  title: Bronze Sponsors
-#  sponsors:
-#    - name: Loco2
-#      id: loco2
-#      url: https://loco2.com/
-#      text: |-
-#     Award-winning <a href="https://loco2.com" target="_blank">Loco2</a> is the only search and 
-#     booking engine for domestic UK train travel that also covers Europe. Loco2 was the first booking 
-#     platform to enable users to buy train tickets for domestic and long-distance travel in 
-#     and around the UK and Europe in a single transaction, and still is today. It launched in 2012. 
-#     We are passionate about promoting diversity in the tech industry and are delighted 
-#     to have the opportunity to support Rail Girls!
-#     years:
-#        - 2018
+- name: Bronze
+  title: Bronze Sponsors
+  sponsors:
+    - name: Loco2
+      id: loco2
+      url: https://loco2.com/
+      text: |-
+        Award-winning <a href="https://loco2.com" target="_blank">Loco2</a> is the only search and 
+        booking engine for domestic UK train travel that also covers Europe. Loco2 was the first booking 
+        platform to enable users to buy train tickets for domestic and long-distance travel in 
+        and around the UK and Europe in a single transaction, and still is today. It launched in 2012. 
+        We are passionate about promoting diversity in the tech industry and are delighted 
+        to have the opportunity to support RGSoC!
+      years:
+        - 2018
  
