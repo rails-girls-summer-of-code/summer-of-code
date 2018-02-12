@@ -61,7 +61,7 @@ Rails Girls Summer of Code centers around teams. A full team consists of a pair 
 
 Students are, of course, the main characters in this program. They work on Open Source projects full-time, from July to September, to expand their skill set and find their footing as coders. Every other role at Rails Girls Summer of Code is dedicated to supporting these students in completing their projects and generally having a great learning experience.
 
-Students are the only people who will be remunerated if accepted into the program unless they are in a volunteer team.
+Students are the only people who will be remunerated if accepted into the program.
 
 <h3 id="coach">Coach</h3>
 
