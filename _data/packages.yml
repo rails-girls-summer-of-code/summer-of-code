@@ -56,4 +56,20 @@
         to have the opportunity to support RGSoC!
       years:
         - 2018
+
+    - name: Les Tilleuls
+      id: lestilleuls
+      url: 
+      text: |-
+        <a href="https://les-tilleuls.coop" target="_blank">Les-Tilleuls.coop</a> is a French self-managed worker cooperative. 
+        Creators of the API Platform framework, we help our customers leveraging Open Source
+        solutions (API Platform, Symfony, React, Kubernetes, Node, Go...) and offer
+        a broad range of services including development, consulting, training and
+        software architecture. Our company is 100% owned and governed directly by
+        its 25 employees. Respect for others, tolerance and diversity are core
+        values upheld and defended by our employees. It seemed obvious to us to
+        support and mentor the RGSoC program and we would be delighted to give the
+        opportunity for women to work on an open source project.
+      years: 
+        - 2018
  
