@@ -59,7 +59,7 @@
 
     - name: Les Tilleuls
       id: lestilleuls
-      url: 
+      url: https://les-tilleuls.coop/en
       text: |-
         <a href="https://les-tilleuls.coop" target="_blank">Les-Tilleuls.coop</a> is a French self-managed worker cooperative. 
         Creators of the API Platform framework, we help our customers leveraging Open Source
