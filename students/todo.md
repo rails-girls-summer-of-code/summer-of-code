@@ -83,7 +83,7 @@ We will use Twitter for some social and fun events. Besides, it’s a great plac
 <h3>Optional: Your Own Team Blog</h3>     
 If you enjoy writing about stuff that interests you anyway, why not set up a dedicated RGSoC team blog? A blog can be a great place for a more general recap of your project work, reflections about your learning time and experiences, or reports about events you took part in.
 
-We very much support blogging about your RGSoC experience, but we would also like to state explicitly that a blog is **not mandatory** — aside from the two blog posts every team should contribute to the official RGSoC blog (see below).
+We very much support blogging about your RGSoC experience, but we would also like to state explicitly that a blog is **not mandatory** — apart from the two blog posts every team should contribute to the official RGSoC blog (see below).
 
 <h2 id="social-events">Social Events and Conferences</h2>      
 Rails Girls Summer of Code is a community-based program. So, of course, we want to tell the community what happens here. While we naturally want you to focus on your coding, Rails Girls Summer of Code includes getting in touch with the community and spreading the word.
