@@ -20,6 +20,25 @@
       - 2016
       - 2017
       - 2018
+  - name: GitHub
+    id: github
+    url: http://github.com
+    partner: true
+    text: |-
+      <a href="https://github.com" target="_blank">GitHub</a> is how people build software. Millions of individuals and 
+      organizations around the world use GitHub to discover, share, and collaborate on software-from games and experiments 
+      to popular frameworks and leading applications. Together, we're defining how software is built today.
+
+      Whether you use GitHub.com or GitHub Enterprise on your own servers, you can access one of the world's largest 
+      developer communities to build software in the way that works best for you. Choose your deployment option and 
+      integrate your favorite third-party tools into a powerful, collaborative workflow.
+    years:
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
 
 #- name: Platinum
 #  title: Platinum Sponsors
@@ -71,5 +90,21 @@
         support and mentor the RGSoC program and we would be delighted to give the
         opportunity for women to work on an open source project.
       years: 
+        - 2018
+
+    - name: Ableton
+      id: ableton
+      url: https://www.ableton.com/en/about/
+      text: |-
+        <a href="https://www.ableton.com/en/about/">Ableton</a> builds music software
+        and hardware that is used by a community of dedicated musicians, sound
+        designers and artists from across the world. Open source lifts the distinction
+        between producers and consumers of technology, unleashing a creative explosion
+        at the boundary between art and engineering. We support RGSoC because the best
+        results are achieved by richly diverse teams, and thus able to explore problems
+        from a wide set of perspectives.
+      years:
+        - 2016
+        - 2017
         - 2018
  
