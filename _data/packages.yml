@@ -3,7 +3,7 @@
   sponsors:
   - name: Travis CI
     id: travis
-    url: http://travis-ci.com
+    url: https://travis-ci.com
     partner: true
     text: |-
       <a href="https://travis-ci.com" target="_blank">Travis CI</a> is a hosted continuous integration service 
@@ -22,7 +22,7 @@
       - 2018
   - name: GitHub
     id: github
-    url: http://github.com
+    url: https://github.com
     partner: true
     text: |-
       <a href="https://github.com" target="_blank">GitHub</a> is how people build software. Millions of individuals and 
@@ -58,6 +58,21 @@
         <a href="https://www.discourse.org" target="_blank">Discourse</a> is the 100% open source discussion platform built for the next decade of the Internet. 
         Use it as a mailing list, discussion forum, long-form chat room, and more!
       years:
+        - 2018
+    - name: Thoughtworks
+      id: thoughtworks
+      url: https://www.thoughtworks.com
+      text: |-
+        <a href="https://www.thoughtworks.com" target="_blank">ThoughtWorks</a> is a
+        software company and a community of passionate, purpose-led individuals. We
+        think disruptively to deliver technology to address our clients' toughest
+        challenges, all while seeking to revolutionize the IT industry and create
+        positive social change.
+      years:
+        - 2014
+        - 2015
+        - 2016
+        - 2017
         - 2018
 
 - name: Bronze
