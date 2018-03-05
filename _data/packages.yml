@@ -3,7 +3,7 @@
   sponsors:
   - name: Travis CI
     id: travis
-    url: http://travis-ci.com
+    url: https://travis-ci.com
     partner: true
     text: |-
       <a href="https://travis-ci.com" target="_blank">Travis CI</a> is a hosted continuous integration service 
@@ -22,7 +22,7 @@
       - 2018
   - name: GitHub
     id: github
-    url: http://github.com
+    url: https://github.com
     partner: true
     text: |-
       <a href="https://github.com" target="_blank">GitHub</a> is how people build software. Millions of individuals and 
@@ -61,7 +61,7 @@
         - 2018
     - name: Thoughtworks
       id: thoughtworks
-      url: http://www.thoughtworks.com
+      url: https://www.thoughtworks.com
       text: |-
         <a href="https://www.thoughtworks.com" target="_blank">ThoughtWorks</a> is a
         software company and a community of passionate, purpose-led individuals. We
