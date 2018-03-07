@@ -123,3 +123,17 @@
         - 2017
         - 2018
  
+    - name: GitLab
+      id: gitlab
+      url: https://about.gitlab.com
+      text: |-
+        <a href="https://about.gitlab.com/">GitLab</a> is a community project primarily
+        written in Ruby on Rails. Over 1000 people worldwide have contributed! GitLab
+        Inc. is an active participant in this community, and we support organizations
+        and individuals using GitLab.  Our team is distributed across the globe, and
+        we're always growing. We're excited to sponsor RGSoC to
+        help get more women involved in Rails.
+      years:
+        - 2016
+        - 2017
+        - 2018
