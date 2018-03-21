@@ -137,3 +137,26 @@
         - 2016
         - 2017
         - 2018
+    - name: Fedora
+      id: fedora
+      url: https://getfedora.org/
+      text: |-
+        The <a href="https://getfedora.org/">Fedora Project</a> is a community of people 
+        working together to build a free and open source software platform and to collaborate 
+        on and share user-focused solutions built on that platform. 
+      years:
+        - 2018
+    - name: ActBlue
+      id: actblue
+      url: https://actblue.com/
+      text: |-
+        <a href="https://actblue.com">ActBlue</a> builds and powers the premier online
+        fundraising platform for Democratic campaigns, progressive organizations, and
+        charities working to create a better future.
+        We're supporting RGSoC because we want to help
+        women find innovative solutions to the world's biggest problems.
+      years:
+        - 2015
+        - 2016
+        - 2017
+        - 2018
