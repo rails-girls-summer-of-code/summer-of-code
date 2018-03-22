@@ -151,11 +151,10 @@
       id: actblue
       url: https://actblue.com/
       text: |-
-        <a href="https://actblue.com">ActBlue</a> builds and powers the premier online
-        fundraising platform for Democratic campaigns, progressive organizations, and
-        charities working to create a better future.
-        We're supporting RGSoC because we want to help
-        women find innovative solutions to the world's biggest problems.
+        <a href="https://actblue.com">ActBlue</a> builds and maintains a powerful, modern 
+        online fundraising platform for Democratic campaigns, progressive organizations, 
+        and nonprofits working to create a better future. We're supporting RGSoC because 
+        we want to help women find innovative solutions to the world's biggest problems.
       years:
         - 2015
         - 2016
