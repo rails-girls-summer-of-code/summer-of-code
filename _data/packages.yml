@@ -161,3 +161,19 @@
         - 2016
         - 2017
         - 2018
+
+    - name: Bendyworks
+      id: bendyworks
+      url: https://bendyworks.com
+      text: |-
+        <a href="https://bendyworks.com/" target="_blank">Bendyworks</a> delivers
+        high-value consulting, resulting in software that can flex in the face of
+        changing business needs. They are composed exclusively of creative and involved
+        programmers who dedicate themselves to sharing joy and success in their craft.
+        Bendyworks is thrilled to once again support Rails Girls Summer of Code.
+      years:
+        - 2013
+        - 2015
+        - 2016
+        - 2017
+        - 2018
