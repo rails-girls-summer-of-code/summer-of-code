@@ -176,3 +176,20 @@
         - 2016
         - 2017
         - 2018
+
+    - name: Runtastic
+      id: runtastic
+      url: https://runtastic.com/
+      text: |-
+        As Runtastics, we want every individual to live a more aware and active
+        lifestyle with our products, leading to a longer, happier life! Our
+        engineering team with people from <strong>all over the world</strong> plays a vital role
+        in making this a reality. We build large-scale services to support our
+        ever-growing user base of <strong>150+ million</strong> in our mobile apps and on
+        <a href="https://runtastic.com/" target="_blank">Runtastic.com</a>, 
+        leveraging open source technologies.  
+        It's a pleasure for us to get the chance to support the open source
+        community through RGSoC's unique mission.
+      years: 
+        - 2017
+        - 2018
