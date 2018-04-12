@@ -193,3 +193,38 @@
       years: 
         - 2017
         - 2018
+    - name: Basecamp
+      id: basecamp
+      url: https://basecamp.com
+      text: |-
+        <a href="https://basecamp.com/">Basecamp</a> is the world's #1 project
+        management tool. We make it easy for people in different roles with different
+        responsibilities to communicate and work together. Basecamp is proud to support RGSoC 2018 because we believe in fostering a supportive space for
+        women in the open source community. Ruby on Rails is the heart and soul of
+        Basecamp, and we wouldn't exist without contributions from people like 
+        Rails Girls!
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+        - 2017
+        - 2018
+    - name: Wooga
+      id: wooga
+      url: http://www.wooga.com
+      text: |-
+        Founded in 2009, Wooga has become one of the most popular developers of casual 
+        mobile games in the world. Based in Berlin, employees from around the world 
+        develop high quality casual games with engaging stories at the core of the experience. 
+        Wooga's aim is to play a memorable and positive part in people's lives and create 
+        joyful moments they look forward to playing everyday. 
+        Find out more at <a href="http://www.wooga.com/" target="_blank">www.wooga.com</a>.
+
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+        - 2017
+        - 2018
