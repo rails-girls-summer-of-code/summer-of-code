@@ -228,3 +228,19 @@
         - 2016
         - 2017
         - 2018
+    - name: Articulate
+      id: articulate
+      url: https://www.articulate.com
+      text: |-
+        Trusted by 78,000+ organizations worldwide, <a href="https://www.articulate.com/" target="_blank">Articulate</a>
+        software, services, community, and content make it easy to create compelling
+        courses for every device. <a href="https://www.articulate.com/" target="_blank">Articulate</a>
+        360 makes every aspect of e‑learning course development simpler, faster, and
+        less expensive. Articulate 360 has everything course developers need for every
+        aspect of e‑learning course development.
+      years:
+        - 2014
+        - 2015
+        - 2016
+        - 2017
+        - 2018
