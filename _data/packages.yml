@@ -272,3 +272,13 @@
         - 2016
         - 2017
         - 2018
+    - name: Nextcloud 
+      id: nextcloud
+      url: https://nextcloud.com/
+      text: |-
+       <a href="https://nextcloud.com/">Nextcloud</a> is the next generation open source, self-hosted, enterprise-ready file access and communication platform. 
+       Sync your files, contacts, calendars and communicate & collaborate across your devices. 
+       Nextcloud puts you back in control and is built by an open community where you can contribute!
+      years:
+        - 2017
+        - 2018
