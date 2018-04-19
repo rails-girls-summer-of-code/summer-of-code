@@ -272,13 +272,25 @@
         - 2016
         - 2017
         - 2018
+    - name: Contentful 
+      id: contentful
+      url: https://www.contentful.com/
+      text: |-
+        <a href="https://www.contentful.com/">Contentful</a> provides content infrastructure for digital teams to 
+        power websites, apps, and devices. Unlike a CMS, Contentful was built to integrate with the modern software 
+        stack. It offers a central hub for structured content, powerful management and delivery APIs, and a customizable 
+        web app that enable developers and content creators to ship their products faster.  
+        One of our core value as a company is "Learn continuously" so it only makes sense to support those eager to do so. 
+        2018 is the first year we're backing RGSoC but it definitely won't be the last one. 
+      years:
+        - 2018
     - name: Nextcloud 
       id: nextcloud
       url: https://nextcloud.com/
       text: |-
-       <a href="https://nextcloud.com/">Nextcloud</a> is the next generation open source, self-hosted, enterprise-ready file access and communication platform. 
-       Sync your files, contacts, calendars and communicate & collaborate across your devices. 
-       Nextcloud puts you back in control and is built by an open community where you can contribute!
+        <a href="https://nextcloud.com/">Nextcloud</a> is the next generation open source, self-hosted, enterprise-ready file access and communication platform. 
+        Sync your files, contacts, calendars and communicate & collaborate across your devices. 
+        Nextcloud puts you back in control and is built by an open community where you can contribute!
       years:
         - 2017
         - 2018
