@@ -82,4 +82,11 @@ How can you help us make the dreams of these candidates come true by participati
 
 First and foremost, thank you for applying to RGSoC. We wish we could have everyone on board but unfortunately it is not possible. We are honoured that you believe in us and in our program, but please do not give up; your journey in tech and Open Source has just begun!
 
+### And a huge thank you to everyone who made this possible!
+
+Yes, [all of our incredible donors](https://railsgirlssummerofcode.org/campaign/#donors) too!
+
+![RGSoC 2018 Sponsors (image by Ana Sofia Pinho)](/img/blog/2018/2018-04-21-rgsoc-2018-sponsors.png)
+<div class="image-credits"><b>Thankful for RGSoC 2018 Sponsors (image by Ana Sofia Pinho)</b></div>
+
 
