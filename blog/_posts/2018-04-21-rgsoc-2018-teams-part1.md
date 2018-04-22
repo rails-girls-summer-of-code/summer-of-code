@@ -72,7 +72,7 @@ By taking on board these 9 teams, [we have officially passed the 200 RGSoC schol
 
 ### Let’s get these teams sponsored!
 
-How can you help us make the dreams of these candidates come true by participating at RGSoC?
+How can you help us make the dreams of these candidates come true by participating at RGSoC? Besides [donating to our crowdfunding campaign](http://bit.ly/rgsoc-donate) (if you can, of course), it would be great if you helped us with the following:
 
 1. **Talk with your friends and people at work about our program.** Share our [twitter](https://twitter.com/RailsGirlsSoC/status/987757077614514177) and [facebook](https://www.facebook.com/620914904656191/videos/1734881533259517/) posts or even [this video](https://railsgirlssummerofcode.org/blog/2018-02-15-rgsoc-2018-crowdfunding-campaign) about what we have accomplished in the past 5 editions. Let's reach as many people as possible!
 2. **Do you know any companies who might be interested in sponsoring?** Please get in touch with us via email campaign@rgsoc.org.
