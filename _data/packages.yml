@@ -74,6 +74,16 @@
         - 2016
         - 2017
         - 2018
+    - name: RubyMotion
+      id: rubymotion
+      url: http://www.rubymotion.com/
+      text: |-
+        <a href="http://www.rubymotion.com/" target="_blank">RubyMotion</a> gives you the power to build native cross-platform 
+        apps for iOS, Android, and MacOS. Community empowerment is one of the company's core guiding principles. 
+        Supporting RGSoC was simply a no-brainer :-)
+
+      years: 
+        - 2018
 
 - name: Bronze
   title: Bronze Sponsors
@@ -305,6 +315,31 @@
         thousands of organizations. Sentry is excited to support Rails Girls Summer of
         Code and help nurture the next generation of women engineers. We can't wait to
         see what they can do!
+      years:
+        - 2016
+        - 2017
+        - 2018
+    - name: Softwire
+      id: softwire
+      url: https://www.softwire.com/
+      text: |-
+        <a href="https://www.softwire.com/" target="_blank">Softwire</a> is a bespoke
+        software design and development company with offices in London and Manchester.
+        Our brilliant staff have a passion for technology and Open Source (we're keen
+        contributors to 24 Pull Requests) and we're excited to help Rails Girls Summer of Code
+        support women following those same passions.
+      years:
+        - 2016
+        - 2017
+        - 2018
+    - name: openSUSE
+      id: opensuse
+      url: https://www.opensuse.org/
+      text: |-
+        The <a href="https://www.opensuse.org/">openSUSE</a> project is a worldwide
+        effort that promotes the use and development of Linux. openSUSE cares about the
+        Free and Open Source Software community and supports Rails Girls Summer of Code
+        because the FOSS community is a more vibrant community with female coders.
       years:
         - 2016
         - 2017
