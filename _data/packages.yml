@@ -40,9 +40,16 @@
       - 2017
       - 2018
 
-#- name: Platinum
-#  title: Platinum Sponsors
-#  sponsors:
+- name: Platinum
+  title: Platinum Sponsors
+  sponsors:
+    - name: Electra
+      id: electra
+      url: https://electraproject.org/
+      #text: |-
+        #<a href="https://electraproject.org/" target="_blank">Electra</a> 
+      years:
+        - 2018
 
 #- name: Gold
 #  title: Gold Sponsors
