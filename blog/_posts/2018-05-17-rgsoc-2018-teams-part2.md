@@ -2,7 +2,7 @@
 title: Meet RGSoC 2018's Teams
 layout: post
 created_at: Fri May 18 2018
-permalink: blog/2018-05-17-rgsoc-2018-teams-part2
+permalink: blog/2018-05-18-rgsoc-2018-teams-part2
 current: blog
 author: Ana Sofia Pinho
 twitter: anasofiapinho
