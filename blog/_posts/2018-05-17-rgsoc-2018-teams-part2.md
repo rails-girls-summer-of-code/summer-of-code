@@ -15,12 +15,12 @@ categories:
 
 And that’s a wrap! The crowdfunding campaign is officially closed — this means that any money we receive from now on will be used to sponsor next year’s teams — and we are now ready to announce the all of the teams that will be part of RGSoC 2018!
 
-Before we dive into any details regarding this year’s teams, we want to give a heartfelt thank you to all the individual donors (some of you even donated more than once!) and to all the new sponsors that joined us in the past few weeks.
+Before we dive into any details regarding this year’s teams, we want to give a heartfelt **thank you to all the individual donors** (some of you even donated more than once!) **and the new sponsors that joined us in the past few weeks**.
 
 ![The new teams sponsored: Popcorn, DV Team, Sectumsempra and GirlsCode MK (image by multiple people)](/img/blog/2018/2018-05-18-rgsoc-2018-teams-announcement_new-teams-800x640.jpg)
 <div class="image-credits"><b>The new teams sponsored: Popcorn, DV Team, Sectumsempra and GirlsCode MK (image by multiple people)</b></div>
 
-As you know, [we have already announced a cool batch of teams](https://railsgirlssummerofcode.org/blog/2018-04-21-rgsoc-2018-teams-announcement-part1) some time ago and last week we revealed that we were able to [add Team Popcorn as well](https://twitter.com/RailsGirlsSoC/status/992490357723189248). The great news is that during the past few days we raised enough funds to sponsor another 3 teams: GirlsCode MK, DV Team and Sectumsempra. This means that RGSoC 2018 will sponsor 13 teams (7 full-time and 6 part-time) from 9 locations!
+As you know, [we have already announced a cool batch of teams](https://railsgirlssummerofcode.org/blog/2018-04-21-rgsoc-2018-teams-announcement-part1) some time ago and last week we revealed that we were able to [add Team Popcorn as well](https://twitter.com/RailsGirlsSoC/status/992490357723189248). The great news is that during the past few days we raised enough funds to sponsor another 3 teams: GirlsCode MK, DV Team and Sectumsempra. This means that **RGSoC 2018 will sponsor 13 teams (7 full-time and 6 part-time) from 9 locations**.
 
 Thank you again for all your support. Now let’s start the countdown for the Summer of Code!
 
