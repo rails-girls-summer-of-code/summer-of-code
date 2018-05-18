@@ -81,8 +81,15 @@
         <a href="http://www.rubymotion.com/" target="_blank">RubyMotion</a> gives you the power to build native cross-platform 
         apps for iOS, Android, and MacOS. Community empowerment is one of the company's core guiding principles. 
         Supporting RGSoC was simply a no-brainer :-)
-
       years: 
+        - 2018
+    - name: Bitcrowd
+      id: bitcrowd
+      url: https://bitcrowd.net/en
+      #text: |-
+        #<a href="https://bitcrowd.net/en" target="_blank">Bitcrowd</a> 
+      years:
+        - 2017
         - 2018
 
 - name: Bronze
