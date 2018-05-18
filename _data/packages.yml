@@ -81,8 +81,15 @@
         <a href="http://www.rubymotion.com/" target="_blank">RubyMotion</a> gives you the power to build native cross-platform 
         apps for iOS, Android, and MacOS. Community empowerment is one of the company's core guiding principles. 
         Supporting RGSoC was simply a no-brainer :-)
-
       years: 
+        - 2018
+    - name: Bitcrowd
+      id: bitcrowd
+      url: https://bitcrowd.net/en
+      #text: |-
+        #<a href="https://bitcrowd.net/en" target="_blank">Bitcrowd</a> 
+      years:
+        - 2017
         - 2018
 
 - name: Bronze
@@ -342,5 +349,31 @@
         because the FOSS community is a more vibrant community with female coders.
       years:
         - 2016
+        - 2017
+        - 2018
+    - name: Synack
+      id: synack
+      url: https://www.synack.com/
+      text: |-
+        <a href="https://www.synack.com/">Synack</a> is a security startup that has
+        created a unique Crowd Security Intelligence™ platform that delivers the most
+        secure, continuous, scalable, security assessment on the market.  Our team is
+        proud to support Rails Girls Summer of Code and celebrate their efforts
+        promoting diversity and equality in technology.
+      years:
+        - 2015
+        - 2016
+        - 2018
+    - name: Heroku
+      id: heroku
+      url: https://heroku.com
+      text: |-
+       <a href="https://heroku.com">Heroku</a>, a Salesforce company and industry pioneer in platform
+        as a service (PaaS), enables developers to build and run applications entirely in the cloud, 
+        without the need to purchase or maintain any servers or software. 
+        With Heroku you can focus on your app, not your infrastructure. 
+        As a long time supporter of the Ruby on Rails community, Heroku is a proud sponsor of Rails Girls Summer of Code, 
+        as we believe in empowering students and giving them the tools and resources they need to be successful in their respective communities.
+      years:
         - 2017
         - 2018
