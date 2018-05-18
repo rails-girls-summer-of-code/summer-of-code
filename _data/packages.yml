@@ -74,6 +74,22 @@
         - 2016
         - 2017
         - 2018
+    - name: INNOQ
+      id: innoq
+      url: https://www.innoq.com
+      text: |-
+        <a href="https://www.innoq.com" target="_blank">INNOQ</a> is a software consultancy 
+        and delivers successful software solutions, infrastructure and business models. 
+        We value innovative thinking and a passion for software development. We are a supporter 
+        of Rails Girls Summer of Code since 2013 because we want to help increase diversity in 
+        the tech industry and the Open Source community.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+        - 2017
+        - 2018
     - name: RubyMotion
       id: rubymotion
       url: http://www.rubymotion.com/
