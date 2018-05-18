@@ -351,3 +351,16 @@
         - 2016
         - 2017
         - 2018
+    - name: Synack
+      id: synack
+      url: https://www.synack.com/
+      text: |-
+        <a href="https://www.synack.com/">Synack</a> is a security startup that has
+        created a unique Crowd Security Intelligence™ platform that delivers the most
+        secure, continuous, scalable, security assessment on the market.  Our team is
+        proud to support Rails Girls Summer of Code and celebrate their efforts
+        promoting diversity and equality in technology.
+      years:
+        - 2015
+        - 2016
+        - 2018
