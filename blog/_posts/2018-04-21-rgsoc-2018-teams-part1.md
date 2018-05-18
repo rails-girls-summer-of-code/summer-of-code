@@ -2,7 +2,7 @@
 title: And the RGSoC 2018's Teams Are...
 layout: post
 created_at: Sat Apr 21 2018
-permalink: blog/2018-04-21-rgsoc-2018-crowdfunding-campaign
+permalink: blog/2018-04-21-rgsoc-2018-teams-announcement-part1
 current: blog
 author: Ana Sofia Pinho
 twitter: anasofiapinho
