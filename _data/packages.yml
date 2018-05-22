@@ -102,8 +102,9 @@
     - name: Bitcrowd
       id: bitcrowd
       url: https://bitcrowd.net/en
-      #text: |-
-        #<a href="https://bitcrowd.net/en" target="_blank">Bitcrowd</a> 
+      text: |-
+        <a href="https://bitcrowd.net/en" target="_blank">Bitcrowd</a> is a Berlin-based software agency with a strong focus on quality, client-interaction and people.
+        We care about the community and are happy to support RGSoC in diversifying tech!
       years:
         - 2017
         - 2018
