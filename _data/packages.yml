@@ -137,6 +137,21 @@
         - 2016
         - 2017
         - 2018
+    - name: Amazon Web Services
+      id: aws
+      url: https://aws.amazon.com
+      text: |-
+        For more than 11 years, <a href="https://aws.amazon.com">Amazon Web Services</a> has been the world's most 
+        comprehensive and broadly adopted cloud platform. AWS offers over 100 fully featured services for compute, 
+        storage, databases, networking, analytics, machine learning and artificial intelligence (AI), 
+        Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and 
+        application development, deployment, and management from 49 Availability Zones (AZs) across 18 geographic 
+        regions in the U.S., Australia, Brazil, Canada, China, France, Germany, India, Ireland, Japan, Korea, Singapore, and the UK. 
+        AWS services are trusted by millions of active customers around the world-including the fastest-growing startups, 
+        largest enterprises, and leading government agencies-to power their infrastructure, make them more agile, 
+        and lower costs. 
+      years:
+        - 2018
 
 - name: Bronze
   title: Bronze Sponsors
