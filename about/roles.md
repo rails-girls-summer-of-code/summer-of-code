@@ -33,7 +33,6 @@ So if you’re new to Summer of Code and have no idea where you fit into the pro
     <a href="#support">Support and Organization</a>
     <ul class="list">
       <li><a href="#remote_coach">Remote Coach</a></li>
-      <li><a href="#speaker_coach">Speaker Coach</a></li>
       <li><a href="#supervisor">Supervisor</a></li>
       <li><a href="#organizer">Organizer</a></li>
     </ul>
