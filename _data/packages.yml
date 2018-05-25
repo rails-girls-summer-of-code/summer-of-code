@@ -40,9 +40,23 @@
       - 2017
       - 2018
 
-#- name: Platinum
-#  title: Platinum Sponsors
-#  sponsors:
+- name: Platinum
+  title: Platinum Sponsors
+  sponsors:
+    - name: Electra
+      id: electra
+      url: https://electraproject.org/
+      text: |-
+        <a href="https://electraproject.org/" target="_blank">Electra</a> is more than just a cryptocurrency, 
+        it is an open source community-driven project focused on transparency and the needs of the community. 
+        Through the combination of blockchain technology and community, Electra aims to be an ever-evolving 
+        global payment system through the creation of a communal financial ecosystem. The fellowship of any 
+        community is empowered by diversity. Due to diversity and community being so closely intertwined, 
+        RGSoC came to our attention, as our values and our commitment to technological advancement parallel 
+        one another. Both of our projects operate within a talented and diverse set of community members 
+        seeking to involve more people in the world of technology.
+      years:
+        - 2018
 
 #- name: Gold
 #  title: Gold Sponsors
