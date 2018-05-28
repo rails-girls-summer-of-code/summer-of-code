@@ -70,8 +70,7 @@ The most important thing to keep in mind is that all pull requests should be mad
 
 ### Requirements  
 
-Every RGSoC team has to write two blog posts during the summer. **The first blog post** has to be done by **August 14th**; the second blog post should be submitted **by September 30th**.  
-Your team name has been added to two slots in [the editorial calendar](https://docs.google.com/spreadsheets/d/1XT5jSw4urCbRPtTpDpBdzw-S6MuygU5mbaA9tPYG_bc/edit?usp=sharing); please double-check that the date works for you and **make your PR by no later than 12:00 PM UTC on that day**.  
+Every RGSoC team has to write two blog posts during the summer. **The first blog post** has to be done by **July 9th, 2018**; the second blog post should be submitted by **September 17th, 2018**. **Please make your PR by no later than 12:00 PM UTC on that day**.  
 
 ### Creating a new blog post
 
