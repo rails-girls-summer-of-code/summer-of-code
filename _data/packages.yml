@@ -408,3 +408,16 @@
       years:
         - 2017
         - 2018
+    - name: Buffer
+      id: buffer
+      url: https://bufferapp.com
+      text: |-
+        <a href="https://bufferapp.com">Buffer</a> builds tools to help individuals, businesses and publishers
+        build an audience online and engage with followers as effectively as possible. In all things, we aspire 
+        to build equality and unity with our product, within our company, and in the world. Buffer is excited 
+        to support Rails Girls Summer of Code and its mission to bring more underrepresented people into open source! 
+        We believe tech is for everyone, and we build a stronger future when all are welcome.
+      years:
+        - 2015
+        - 2016
+        - 2018
