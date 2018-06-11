@@ -122,6 +122,50 @@
       years:
         - 2017
         - 2018
+    - name: Mapbox
+      id: mapbox
+      url: https://www.mapbox.com
+      text: |-
+        <a href="https://www.mapbox.com">Mapbox</a> is changing the way people move around cities and explore our world. 
+        Through the apps Mapbox powers, we reach more than 300 million people each month. 
+        We've architected the foundational parts of the mapping stack and are now poised for radical growth; 
+        we're looking for diverse team members to build the next layer together. We craft beautiful maps and 
+        developer-friendly location data, APIs, and SDKs so that you're free to focus on designing, building, 
+        and developing your application. Mapbox proudly embraces our open-source roots. 
+        We work in the open and release as much code as possible. We believe it's the right thing for people, 
+        technology, and business.
+      years:
+        - 2015
+        - 2016
+        - 2018
+    - name: Mozilla
+      id: mozilla
+      url: https://www.mozilla.org
+      text: |-
+        At <a href="https://www.mozilla.org">Mozilla</a>, we’re a global community of technologists,
+        thinkers and builders working together so people worldwide can be informed contributors and creators 
+        of the Web. Our mission is to ensure the Internet is a global public resource, open and accessible to all, 
+        where individuals can shape their own experience and are empowered, safe and independent. We support
+        RGSoC to empower more women to be part of our mission.
+      years:
+        - 2016
+        - 2017
+        - 2018
+    - name: Amazon Web Services
+      id: aws
+      url: https://aws.amazon.com
+      text: |-
+        For more than 11 years, <a href="https://aws.amazon.com">Amazon Web Services</a> has been the world's most 
+        comprehensive and broadly adopted cloud platform. AWS offers over 100 fully featured services for compute, 
+        storage, databases, networking, analytics, machine learning and artificial intelligence (AI), 
+        Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and 
+        application development, deployment, and management from 49 Availability Zones (AZs) across 18 geographic 
+        regions in the U.S., Australia, Brazil, Canada, China, France, Germany, India, Ireland, Japan, Korea, Singapore, and the UK. 
+        AWS services are trusted by millions of active customers around the world-including the fastest-growing startups, 
+        largest enterprises, and leading government agencies-to power their infrastructure, make them more agile, 
+        and lower costs. 
+      years:
+        - 2018
 
 - name: Bronze
   title: Bronze Sponsors
