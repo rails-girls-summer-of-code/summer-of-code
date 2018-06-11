@@ -29,7 +29,7 @@ jekyll serve --watch
 ```
 
 #### Note:Ruby Dependencies
-Both .ruby-version and Gemfile handle the Ruby version (2.1.5) for this application. Users with or without a RVM (Ruby Versioning Manager) should be able to interact and contribute to the code base. If running an older local Ruby version on your machine, you may need to `bundle update` to reset Gemfile.lock. 
+Both .ruby-version and Gemfile handle the Ruby version for this application. User who don't use a tool to manage Ruby versions (such as RVM or rbenv) should be able to interact and contribute to the code base. If running an older local Ruby version on your machine, you may need to `bundle update` to reset Gemfile.lock. 
 
 To see the site locally, just head to `http://localhost:4000` in your browser. If you are new to Jekyll, you can find more about it [here](http://jekyllrb.com/docs/home/). Otherwise, you're ready to go!
 
