@@ -20,6 +20,7 @@ The Rails Girls Summer of Code website is built using [Jekyll](https://jekyllrb.
 "Forking" basically just means "making a copy"; this allows you to copy our `summer-of-code` repo (found [here](https://github.com/rails-girls-summer-of-code/summer-of-code)) without affecting it. Follow the instructions on forking a repo and cloning your fork [in the GitHub docs](https://help.github.com/articles/fork-a-repo/). When forking, you might be asked where you want to fork the repository to; select **your own Github profile**.  
 Once you're all set up, you'll have to bundle the gems using bundler and start jekyll:
 
+
 ```
 gem install bundler
 bundle install
@@ -27,15 +28,18 @@ jekyll serve --watch
 
 ```
 
+#### Note:Ruby Dependencies
+Both .ruby-version and Gemfile handle the Ruby version for this application. User who don't use a tool to manage Ruby versions (such as RVM or rbenv) should be able to interact and contribute to the code base. If running an older local Ruby version on your machine, you may need to `bundle update` to reset Gemfile.lock. 
+
 To see the site locally, just head to `http://localhost:4000` in your browser. If you are new to Jekyll, you can find more about it [here](http://jekyllrb.com/docs/home/). Otherwise, you're ready to go!
 
 ## Reporting a bug
 
-Before reporting a bug, please check if it has [already been reported](https://github.com/rails-girls-summer-of-code/summer-of-code/issues?&q=is%3Aissue%20label%3Abug%20). If it hasn't and you want to file [a new bug report](https://github.com/rails-girls-summer-of-code/summer-of-code/issues/new), provide the following information: 
+Before reporting a bug, please check if it has [already been reported](https://github.com/rails-girls-summer-of-code/summer-of-code/issues?&q=is%3Aissue%20label%3Abug%20). If it hasn't and you want to file [a new bug report](https://github.com/rails-girls-summer-of-code/summer-of-code/issues/new), provide the following information:
 
 * Where/on which page did the error happen?
-* How can the error be reproduced? 
-* What was the expected and what the actual behaviour? 
+* How can the error be reproduced?
+* What was the expected and what the actual behaviour?
 * Can you provide an error message or a screenshot that illustrates the problem?  
 
 ## Suggesting a new feature
@@ -45,11 +49,11 @@ As with filing a bug report, before suggesting a new feature or giving feedback 
 
 ## Contributing to an existing issue
 
-You can view all of the currently open issues [on our issue tracker](https://github.com/rails-girls-summer-of-code/summer-of-code/issues). Most are [labeled](#issue-labels), to give you an idea of the sort of contribution that is expected. 
+You can view all of the currently open issues [on our issue tracker](https://github.com/rails-girls-summer-of-code/summer-of-code/issues). Most are [labeled](#issue-labels), to give you an idea of the sort of contribution that is expected.
 
 ### Finding an issue
 
-A good starting point if you're new to open source is the list of `beginner-friendly` [issues](https://github.com/rails-girls-summer-of-code/summer-of-code/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner-friendly). These are issues that don't require much prior knowledge on our program or our website to get started. 
+A good starting point if you're new to open source is the list of `beginner-friendly` [issues](https://github.com/rails-girls-summer-of-code/summer-of-code/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner-friendly). These are issues that don't require much prior knowledge on our program or our website to get started.
 Before getting started, please check that no one else is working on the issue: this will be clear by the assigned user (if there is one) and by the issue's comments/discussion.   
 
 If it seems like no one is working on the issue, great! You've officially found an issue to work on. You can leave a comment mentioning you'd like to work on the issue. Feel free to also leave a comment with your questions if anything is unclear or if you need help: Is the issue still valid? Are there any more detailed specifications to the issue?  
@@ -114,7 +118,7 @@ Please add a line with image credits under each picture, crediting the person wh
 
 ### CSS/inline styles
 
-Where you can, please avoid adding inline styling (e.g. css that changes the color of the font or makes the images a certain size) as that slowly becomes unmanageable. Keep in mind that the website design or layout might change in the future and that the site should be mobile-friendly (i.e. absolute image sizes in pixels are discouraged). 
+Where you can, please avoid adding inline styling (e.g. css that changes the color of the font or makes the images a certain size) as that slowly becomes unmanageable. Keep in mind that the website design or layout might change in the future and that the site should be mobile-friendly (i.e. absolute image sizes in pixels are discouraged).
 
 ### Committing your changes and sending a pull request
 
