@@ -27,18 +27,20 @@ I have had a lot of hobbies and like to experience lots of things at least once.
 I love cooking but favourite is most chinese stir fries.
 
 ##### Morning person or night owl? 
-<br>
-I can be both but not at the same time! If I am inspired or socialising I can stay awake much too late!<br>
-##### Which country is at the top of your must-see countries?
-<br>
-I would love to see all the ancient wonders of the world.<br>
-##### Favourite programming language? 
-<br>
-I don’t think I have a favourite, but easiest to start again is Javascript.<br>
-##### Favourite productivity hack? 
-<br>
-I like to make the most of my time so my favourite to avoid overload is GOOP. Standing for Goal - what is one goal to focus on, Outcome - what does it look like, Obstacles - what obstacles can stand in the way of your goal and Plan - what plan do you have for overcoming those Obstacles.
 
+I can be both but not at the same time! If I am inspired or socialising I can stay awake much too late!
+
+##### Which country is at the top of your must-see countries?
+
+I would love to see all the ancient wonders of the world.
+
+##### Favourite programming language? 
+
+I don’t think I have a favourite, but easiest to start again is Javascript.
+
+##### Favourite productivity hack? 
+
+I like to make the most of my time so my favourite to avoid overload is GOOP. Standing for Goal - what is one goal to focus on, Outcome - what does it look like, Obstacles - what obstacles can stand in the way of your goal and Plan - what plan do you have for overcoming those Obstacles.
 
 ![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK01.jpg)
 <div class="image-credits"> Team GirlsCode MK: Eva and Georgina (Photo taken by Eva)</div>
@@ -51,27 +53,47 @@ Originally from Slovenia, Eva moved to Milton Keynes after living in China for a
 
 _Eva and Georgina met at a GirlsCode MK meetup._
 
-**Hobbies?**
+##### Hobbies?
+
 Indoor climbing, singing in a choir, playing table tennis, juggling, watching basketball (NBA!) and spending time outside with my dog.
-***Favourite dish?*** Pizza!<br>
-**Morning person or night owl?** Morning person. I go to bed at 10pm (at the latest!).<br>
-**Which country is at the top of your must-see countries?** Costa Rica.<br>
-**Favourite programming language?** Javascript.<br>
-**Favourite productivity hack?** Getting at least 8 hours of sleep. Also coffee. Lots of coffee.<br>
-<br>
+
+##### Favourite dish?
+
+Pizza!
+
+##### Morning person or night owl? 
+
+Morning person. I go to bed at 10pm (at the latest!).
+
+##### Which country is at the top of your must-see countries? 
+
+Costa Rica.
+
+##### Favourite programming language? 
+
+Javascript.
+
+##### Favourite productivity hack?
+
+Getting at least 8 hours of sleep. Also coffee. Lots of coffee.
 
 ![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK02.jpg)
 <div class="image-credits"> GirlsCode MK meetups (Photo taken by Eva)</div>
 
-<br>
 ### Coaches and supervisors
 
 On our exciting coding journey, we’ll be joined by a team of enthusiastic, supportive and hopefully (extremely) patient people! <br>
 
-**Coaches:** Rob, Neil, Kalan and PJ<br>
-**Bahmni mentors:** Ivo and Wolf <br>
-**RGSoC supervisor:** Ramón <br>
+ ##### Coaches: 
+ Rob, Neil, Kalan and PJ
+ 
+##### Bahmni mentors:
 
+Ivo and Wolf
+
+##### RGSoC supervisor
+
+Ramón 
 
 
 ## 2. The Place
