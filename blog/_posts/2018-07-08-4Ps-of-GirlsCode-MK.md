@@ -103,7 +103,7 @@ For one of her earlier projects, Georgina built a tribute page for women codebre
 
 
 ![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK03.jpg)
-<div class="image-credits"> Bletchley Park Mansion - the headquarters for British codebreakers during World War II. (Source: Bahmni.org)</div>
+<div class="image-credits"> Bletchley Park Mansion - the headquarters for British codebreakers during World War II. (Source: Wikimedia Commons)</div>
 
 <br>
 
@@ -113,7 +113,7 @@ It’s a live and working app with a huge code base and while it will definitely
 
 
 ![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK04.png)
-<div class="image-credits"> Bahmni (Source: Wikimedia Commons)</div>
+<div class="image-credits"> Bahmni (Source: Bahmni.org)</div>
 
 <br>
 
