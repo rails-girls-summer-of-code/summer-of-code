@@ -84,8 +84,9 @@ Getting at least 8 hours of sleep. Also coffee. Lots of coffee.
 
 On our exciting coding journey, we’ll be joined by a team of enthusiastic, supportive and hopefully (extremely) patient people! <br>
 
- ##### Coaches: 
- Rob, Neil, Kalan and PJ
+##### Coaches: 
+ 
+Rob, Neil, Kalan and PJ
  
 ##### Bahmni mentors:
 
