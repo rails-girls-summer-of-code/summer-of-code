@@ -12,6 +12,7 @@ twitter: GirlsCodeMK
 ## 1. The People
 
 ### Georgina:
+
 My dad is an electrical engineer who loves gadgets and was always buying new technologies that we got to play with at home. I have been using technology for a long time and have a lifelong love of all the great innovations in my lifetime. I am an IT Trainer, qualified teacher, which evolved into developing in visual basic to create solutions for document production. I studied for my degree with the Open University and achieved my BSC (Hons) in IT and Computing to complement my MCSE and other technical qualifications whilst raising my family.
 
 
@@ -31,6 +32,7 @@ With a young family the demands of teaching were not flexible so I started my ow
 <br>
 
 ### Eva:
+
 Originally from Slovenia, Eva moved to Milton Keynes after living in China for a number of years. After working as a teacher, translator, podcast host, project manager and ecommerce manager (not all at the same time!), she has recently found her calling in programming. Since September 2017, Eva has been dedicating most of her waking hours to learning how to program and inspiring other women to do so as well. She founded and hosts GirlsCode MK, beginner friendly meetups and workshops where women of any age, background and skill can come and learn how to code in a welcoming environment.
 
 _Eva and Georgina met at a GirlsCode MK meetup._
