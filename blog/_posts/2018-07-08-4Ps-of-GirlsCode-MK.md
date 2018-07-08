@@ -40,8 +40,8 @@ Originally from Slovenia, Eva moved to Milton Keynes after living in China for a
 _Eva and Georgina met at a GirlsCode MK meetup._
 
 <br>
-__Hobbies?__ Indoor climbing, singing in a choir, playing table tennis, juggling, watching basketball (NBA!) and spending time outside with my dog.<br>
-**Favourite dish?** Pizza!<br>
+***Hobbies?*** Indoor climbing, singing in a choir, playing table tennis, juggling, watching basketball (NBA!) and spending time outside with my dog.<br>
+***Favourite dish?*** Pizza!<br>
 **Morning person or night owl?** Morning person. I go to bed at 10pm (at the latest!).<br>
 **Which country is at the top of your must-see countries?** Costa Rica.<br>
 **Favourite programming language?** Javascript.<br>
