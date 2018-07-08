@@ -118,7 +118,7 @@ It’s a live and working app with a huge code base and while it will definitely
 
 <br>
 
-## The Plan
+## 4. The Plan
 Our primary task is to add a person module to Bahmni. Currently it’s only possible to register people as patients in Bahmni, but we would like to add the functionality of adding persons - for example to register people for pre-screening appointments.
 **Technologies used:** React.js, Node.js, RESTful APIs, PWA
 
