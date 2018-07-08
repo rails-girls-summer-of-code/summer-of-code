@@ -19,7 +19,8 @@ My dad is an electrical engineer who loves gadgets and was always buying new tec
 With a young family the demands of teaching were not flexible so I started my own business, training and working short term contracts for a variety of companies, and developing software. I joined Girls Code MK to gain new skills in a friendly supportive environment where we share tips on coding, this is where I met Eva.
 
 <br>
-_Hobbies?_ I have had a lot of hobbies and like to experience lots of things at least once. I now love badminton which I am part of a milton keynes club, watching films except horror, reading self development books, socialising and networking and of course solving problems with tech.<br>
+###Hobbies? 
+I have had a lot of hobbies and like to experience lots of things at least once. I now love badminton which I am part of a milton keynes club, watching films except horror, reading self development books, socialising and networking and of course solving problems with tech.<br>
 **Favourite dish?** I love cooking but favourite is most chinese stir fries.<br>
 **Morning person or night owl?** I can be both but not at the same time! If I am inspired or socialising I can stay awake much too late!<br>
 **Which country is at the top of your must-see countries?** I would love to see all the ancient wonders of the world.<br>
