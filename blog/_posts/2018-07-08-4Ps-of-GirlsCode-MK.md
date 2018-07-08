@@ -26,6 +26,7 @@ With a young family the demands of teaching were not flexible so I started my ow
 **Favourite programming language?** I don’t think I have a favourite, but easiest to start again is Javascript.<br>
 **Favourite productivity hack?** I like to make the most of my time so my favourite to avoid overload is GOOP. Standing for Goal - what is one goal to focus on, Outcome - what does it look like, Obstacles - what obstacles can stand in the way of your goal and Plan - what plan do you have for overcoming those Obstacles.
 
+
 ![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK01.jpg)
 <div class="image-credits"> Team GirlsCode MK: Eva and Georgina (Photo taken by Eva)</div>
 
@@ -44,6 +45,7 @@ __Hobbies?__ Indoor climbing, singing in a choir, playing table tennis, juggling
 **Which country is at the top of your must-see countries?** Costa Rica.<br>
 **Favourite programming language?** Javascript.<br>
 **Favourite productivity hack?** Getting at least 8 hours of sleep. Also coffee. Lots of coffee.<br>
+
 
 ![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK02.jpg)
 <div class="image-credits"> GirlsCode MK meetups (Photo taken by Eva)</div>
@@ -64,6 +66,7 @@ Our office space couldn’t have been more inspiring! We are based at the heart 
 
 For one of her earlier projects, Georgina built a tribute page for women codebreakers in Bletchley Park ([Codepen link](https://codepen.io/gtl90/pen/opOVvP))
 
+
 ![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK03.jpg)
 <div class="image-credits"> Bletchley Park Mansion - the headquarters for British codebreakers during World War II. (Source: Bahmni.org)</div>
 
@@ -72,6 +75,7 @@ For one of her earlier projects, Georgina built a tribute page for women codebre
 ## 3. The Project
 The project will be working on during the summer is Bahmni, a low-resource hospital management tool based on OpenMRS - an open source, medical record system. Bahmni was started in 2012 and is currently being used in 29 countries around the world!
 It’s a live and working app with a huge code base and while it will definitely be challenging, we’re very excited at the opportunity of making Bahmi better and even more effective.
+
 
 ![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK04.png)
 <div class="image-credits"> Bahmni (Source: Wikimedia Commons)</div>
