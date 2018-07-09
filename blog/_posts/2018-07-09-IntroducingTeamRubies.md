@@ -1,3 +1,4 @@
+
 ---
 title: Introducing Team Rubies:tada:
 layout: post
@@ -9,6 +10,7 @@ twitter: Rubies_11_14
 categories:
 - student-posts
 ---
+
 
 ### **The Journey of a Thousand Miles Begins with One Step**
 #### **And here's how the journey of Team Rubies started!**
