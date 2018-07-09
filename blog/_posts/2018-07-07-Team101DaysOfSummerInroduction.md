@@ -22,7 +22,7 @@ Both of us are undergraduate students at NSIT, Delhi, majoring in Computer Engin
 
 <b>Mentor - Josh Matthews </b>
 
-[__Josh__](https://twitter.com/lastontheboat) is the most experienced person in our team. He has been working with Servo since almost the beginning and considers Servo like his own child. Are we right Josh 😛? Needless to say he is the most helpful person without whom we couldn’t have started with Servo and reach our current state. We really value your efforts.
+[__Josh__](https://twitter.com/lastontheboat) is the most experienced person in our team. He has been working with Servo since almost the beginning and considers Servo like his own child. Are we right Josh 😛? Needless to say he is the most helpful person without whom we couldn’t have started with Servo and reached our current state. We really value your efforts.
 
 <b>Supervisor - Rakhi </b>
 
@@ -34,7 +34,7 @@ Both of us are undergraduate students at NSIT, Delhi, majoring in Computer Engin
 
 [__Manraj__](https://twitter.com/manrajsgrover) is our super senior in college who works as a Software Engineer at Practo. He is a community leader at DuckDuckGo and has a lot of knowledge and experience in Open Source. Since he started the open source community in our college, we were sure he would be as excited as we are, to work with him. It is not of much surprise that he happily agreed to coach us! 💃
 
-Gauri is an experienced Rust programmer who did her internship with Mozilla under the prestigious Outreachy programme. We came to know about her from a previous RGSoC student with Servo who we contacted while we were searching for coaches. She is a happy and a cheerful person indeed. We plan to trouble her with lots of doubts this summer 😜
+Gauri is an experienced Rust programmer who did her internship with Mozilla under the prestigious Outreachy programme. We came to know about her from the RGSoC page itself, where she had mentioned that she wanted to coach a team for Servo. She is a happy and cheerful person indeed. We plan to trouble her with lots of doubts this summer 😜
 
 <b>The journey till now - </b>
 
