@@ -1,14 +1,14 @@
-+---
-+title: Introducing Team Rubies:tada:
-+layout: post
-+created_at: Mon July 09 2018
-+permalink: blog/2018-07-09-introducing-team-rubies
-+current: blog
-+author: Atibhi and Prateksha
-+twitter: Rubies_11_14
-+categories:
-+- student-posts
-+---
+---
+title: Introducing Team Rubies:tada:
+layout: post
+created_at: Mon July 09 2018
+permalink: blog/2018-07-09-introducing-team-rubies
+current: blog
+author: Atibhi and Prateksha
+twitter: Rubies_11_14
+categories:
+- student-posts
+---
 
 ### **The Journey of a Thousand Miles Begins with One Step**
 #### **And here's how the journey of Team Rubies started!**
