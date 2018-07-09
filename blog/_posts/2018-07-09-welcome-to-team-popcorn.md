@@ -16,6 +16,8 @@ categories: student-posts
 
 We are Team Popcorn based in Berlin, Germany. We met through the Women Techmakers community where we were both looking for opportunities to learn programming. Though our backgrounds are different and we don’t always get each other’s jokes, we share a passion for programming. Having both gotten into tech a little later in life and collected many different experiences along the way, we knew RGSoC would be a blast together!
 
+*“You can start late, look different, be uncertain and still succeed.”  - [Misty Copeland](https://twitter.com/mistyonpointe)*
+
 As soon as we decided to apply for the program, we had to start hunting for coaches and a project. We were particularly keen to find other women to mentor us. After looking through the Nextcloud website we found Camila’s profile. We reached out and were delighted when she invited us to a Nextcloud meetup happening that very evening.
 
 As it turns out, this would be a fateful evening for our team because Camila didn’t come alone to the meetup. With her was a little black dog with a big personality. An adorable rescue dog, Popcorn was our mascot during the sometimes frustrating process of setting up our development environments and we had no other choice than to honour her with our team name!
@@ -66,10 +68,6 @@ After the app has been migrated, we will begin to work on enhancements and have 
 You can follow our progress here, on the [updates page](https://teams.railsgirlssummerofcode.org/) and also on our [Twitter](https://twitter.com/TeamPopcornBer)!
 
 Arati & Jessica
-
-
-
-*“You can start late, look different, be uncertain and still succeed.”  - [Misty Copeland](https://twitter.com/mistyonpointe)*
 
 
 
