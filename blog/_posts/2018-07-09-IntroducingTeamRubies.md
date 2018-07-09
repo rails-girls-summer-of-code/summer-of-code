@@ -2,7 +2,7 @@
 ---
 title: Introducing Team Rubies:tada:
 layout: post
-created_at: Mon July 09 2018
+created_at: Mon July-09-2018
 permalink: blog/2018-07-09-introducing-team-rubies
 current: blog
 author: Atibhi and Prateksha
