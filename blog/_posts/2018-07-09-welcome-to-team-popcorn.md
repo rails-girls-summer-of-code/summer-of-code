@@ -36,7 +36,7 @@ I have learned a range of languages including Python, Go, JavaScript and PHP. In
 At our coaching company we have two coaches. Kaja is a Ruby on Rails developer and RGSoC alumni who also had Absolventa as her coaching company. Victor is from Spain and he joined Absolventa as a web developer earlier this year.
 
 **[Markus](https://github.com/axlwaii)**
-Markus was a RGSoC coach last year for Kaja as he also used to work at Absolventa. He now works at a agency in Berlin working with JavaScript and Ruby.
+Markus was a RGSoC coach last year for Kaja when he also worked at Absolventa. He is now working at Nolte & Lauth as a web developer.
 
 **[Lora](https://github.com/lorabv)**
 "Lora Vardarova is a Software Engineer at Zalando. Passionate About Front-End Development, User Experience, and Agile Software Development." ([WTMB Meetup](https://www.meetup.com/Women-Techmakers-Berlin/events/246814497/))
