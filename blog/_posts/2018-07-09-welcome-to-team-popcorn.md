@@ -9,10 +9,11 @@ twitter: TeamPopcornBer
 categories: student-posts
 ---
 
-**Team Popcorn**
-
 ![The warm welcome we recieved from our coaching company [Absolventa]](/img/blog/2018/welcome-teampopcorn.jpg)
 <div class="image-credits"><em>Photo credit: Jessica</em></div>
+
+
+**Team Popcorn**
 
 We are Team Popcorn based in Berlin, Germany. We met through the Women Techmakers community where we were both looking for opportunities to learn programming. Though our backgrounds are different and we don’t always get each other’s jokes, we share a passion for programming. Having both gotten into tech a little later in life and collected many different experiences along the way, we knew RGSoC would be a blast together!
 
@@ -48,6 +49,7 @@ Markus was a RGSoC coach last year for Kaja when he also worked at Absolventa. H
 
 We also are happy to have [Jan](https://github.com/jancborchardt) and [Jona](https://github.com/jonatoni) as our mentors and Neta as our supervisor.
 
+
 **Project: Nextcloud**
 
 [Nextcloud’s website](https://nextcloud.com/) says it best. “Nextcloud offers industry-leading on-premises file sync and online collaboration technology. Our expertise is in combining the convenience and ease of use of consumer-grade solutions like Dropbox and Google Drive with the security, privacy and control business needs.
@@ -59,6 +61,7 @@ Since reaching out to Camila and Jan at the start of our application process for
 
 ![Nextcloud Hackweek](/img/blog/2018/nextcloud-hackweek-teampopcorn.jpeg)
 <div class="image-credits"><em>Photo credit: Nextcloud</em></div>
+
 
 **Roadmap for RGSoC**
 
