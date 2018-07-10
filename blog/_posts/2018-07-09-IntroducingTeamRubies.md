@@ -41,7 +41,7 @@ They had found each other but now they had to find coaches. They found four awes
 
 **Aditya T** - Aditya is their senior at college. He is specialising in Pattern Recognition and Signal Processing. He is presently an Artificial Intelligence developer for Klarity Law and did his GsoC 2017 with Systers.
 
-**Athitya** - To the outside world, he's a Mechie at IIT,Kharagpur.But, with the help of his friends at IITKGP, he codes. He's a wizard with Ruby and did his GSoC 2017 at Ruby Foundation.
+**Athitya** - To the outside world, he's a Mechie at IIT,Kharagpur. But, with the help of his friends at IITKGP, he codes. He's a wizard with Ruby and did his GSoC 2017 at Ruby Foundation. He is interning at Intuit this summer.
 
 **Gaurav** - Gaurav is their super senior at college who interned at Microsoft this summer. He is a coding enthusiast and a proficient web developer. He works on how Machine Perception can help us reach from Artificial Narrow Intelligence to Artificial General Intelligence. He did his GSoC 2017 at Berkman Centre.
 
