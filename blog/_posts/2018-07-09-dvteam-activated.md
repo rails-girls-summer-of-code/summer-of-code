@@ -24,9 +24,13 @@ We started with a selected group of 20.000 out of 200.000 applications in Europe
 
 Skyping with Tobias and Tetiana, gave us the confidence they would have our backs! They not only seem very nice and accessible, but moreover have the attitude and experience needed to guide us through the summer.  
 
+A few weeks later we met our third mentor through the post system in RGSoC.We absolutely loved his passion and diverse knowledge of programming so we both agreed to have him on board!
+
+*Coach 3: Raounak (Full-stack Ruby developer)*
+
 The last RgSoc-coach to join, we met during a recently peer lab, that Violeta organized for Woman Who Code. We really liked her spirits and clarity so just a week before starting the SoC we invited her to be part of it. 
 
-*Coach 3: Cristina (full stack developer)*
+*Coach 4: Cristina (full stack developer)*
 
 We consider ourselves very lucky! As not only do we have gathered a great team of mentors, but also an interesting supervisor Lucas Pinto who has even organized Ruby conferences! 
 
