@@ -53,6 +53,7 @@ Follow us on
 
 ##### Medium
 [DV Team](www.medium.com/@dvteam)
+
 [Diana](https://medium.com/@diana.vile)
 
 ##### Twitter
