@@ -52,17 +52,17 @@ Our summer will be successful, _if_ we achieve the following:
 Follow us on
 
 ##### Medium
-[DV Team](www.medium.com/@dvteam)
+[DV Team](http://www.medium.com/@dvteam)
 
 [Diana](https://medium.com/@diana.vile)
 
 ##### Twitter
-[Violeta](www.twitter.com/artnerdnet)
+[Violeta](http://www.twitter.com/artnerdnet)
 
 ##### Github
 [Living Style Guide](https://github.com/livingstyleguide/livingstyleguide)
-[Violeta](www.github.com/artnerdnet)
-[Diana](www.github.com/dianavile)
+[Violeta](http://www.github.com/artnerdnet)
+[Diana](http://www.github.com/dianavile)
 
 # For a great beginning!
 ![image](https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif)
