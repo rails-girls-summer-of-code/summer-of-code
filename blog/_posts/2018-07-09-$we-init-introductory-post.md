@@ -50,6 +50,9 @@ To be able to work on a project of such reach and impact under the guidance of b
 ### Gregor (Mentor)
 A member of the RGSoC family for a fourth year now, Gregor is one gem of a mentor. We cannot forget how warmly he welcomed us to the community, inviting us for office hours right on day 1 of introduction. Since then, he has been a constant support, has always kept us motivated and has made us feel so comfortable that we feel that we belong with Probot already! <3 
 
+### Bex and Jason (Co-mentors)
+They are both GitHub employees and maintainers of probot for quite some time now. They have been amazing mentors and have always offered helped, generously. :')
+
 ### Divjot (Coach)
 A 2016 batch passout from our college, Divjot is a full-time Software Developer at Swiggy. We wouldn't be exaggerating if we say that he's the absolute best senior one could ask for. From resolving out most messed up javascript doubts in minutes to giving detailed life lessons (and one liners like "Don't worry! If you want to give up, you're doing something right"), he is one person we can always depend on, without a second thought. He's vegan and Pun-jabi, funny and a hard taskmaster, loves JS and cooks amazing food (You've got to check his insta. @bogas04, thank us later for making you famous overnight :D)
 
@@ -64,4 +67,8 @@ A senior year student from our college, Mananpalhas won almost every hackathon h
 
 ### Saptak (Supervisor)
 A graduate from IIIT Allahabad, Saptak is a passioante open source contributor. A GSoC '16 student with FOSSASIA, Saptak is currently working as a Software Developer with Gitcoin. We're super excited to work with him throughout the summer!  
+
+### Say Cheese! 
+
+![Team $we init in one frame](https://drive.google.com/open?id=0B77ZD_RVCT6gZW0yclEzVldyMDcwVDB4UHhOeTI4TkNMMnJF)
 
