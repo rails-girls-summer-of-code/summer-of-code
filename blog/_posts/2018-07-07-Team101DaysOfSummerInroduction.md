@@ -2,12 +2,12 @@
 title: The Beginning
 layout: post
 created_at: Sat 7 Jul 2018
-permalink: blog/2018-07-07-team-101-days-of-summer-intro
+permalink: blog/2018-07-07-Team101DaysOfSummerInroduction
 current: blog
 author: Paavini
 twitter: paavininanda
 categories: 
-- intro
+- student-posts
 ---
 
 
@@ -62,9 +62,7 @@ Ahh, we were so happy :P
 
 ![MissionCompleted](/img/blog/2018/2018-07-07-101Daysgif4.gif)
 <div class="image-credits">Source: Giphy.com</div>
-
-
-
+<br />
 Then we started implementing our own functions in that API. It was interesting to see the code we wrote working in a browser.
 
 By this time we had started feeling a bit confident about writing some code in Rust. We then pinged our mentor Josh to ask for his feedback and we asked him to suggest us some already existing beginner friendly issues in Servo. He was really helpful and guided our baby steps to start with our work. He also made us aware of the type of issues which would help us with our work in RGSoC. We wouldn’t have been able to solve our first issue if we would not have received the help from the community members through the IRC channel of Servo. The people in open source are awesome. We still remember, how we were stuck on a very simple thing and asked silly questions but there were patient people who helped us with all the doubts.
