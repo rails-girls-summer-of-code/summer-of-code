@@ -16,7 +16,7 @@ Hello! We are [Stefanni](https://twitter.com/steff_br) and [Camila](https://twit
 
 #### [Stefanni](http://stefannibrasil.me/)
 
-I am a millennial that likes to how to cook (gasp) and loves coding, cats, playing sports and chocolate. I moved to Vancouver in January because my husband received a job offer to work here and we brought our two cats with us.
+I am a millennial that likes how to cook, loves coding, cats, playing sports and chocolate. I moved to Vancouver in January because my husband received a job offer to work here and we brought our two cats with us.
 My history with Rails Girls began in 2015. Actually, Rails Girls is the reason I decided to start Computer Science college in 2015 ( I only did 1 year and half, now I am studying by myself). I went as a student in the Rails Girls Sao Paulo 2015 workshop and since then I wanted to join the RGSoC, but I never applied.
 I was also a coach on the 2017th edition and it was an amazing experience. The other coach of my group introduced me to the CTO of a Brazilian fintech where later I did a brief software internship before moving to Vancouver. So imagine how happy I was when Ana and Vaishali surprised us announcing that we were selected, Rails Girls has been playing an important role in my tech career!
 
@@ -32,7 +32,7 @@ I learned to code in my early years of graduation and I have a good experience w
 
 Because we are both relatively new to Vancouver, it was difficult to find a teammate here. So we used the RGSoC google groups to search for teammates and there was where we met each other. We went to a coffee shop and discussed about our application and we soon got along, especially because we both have cats =).
 
-Thanks, RGSoc organizers for providing these mediums for us to find a teammate :)
+Thanks, RGSoC organizers for providing these mediums for us to find a teammate :)
 
 ### How is work going?
 
@@ -45,15 +45,15 @@ We also want to thank the [Predictable Revenue](https://predictablerevenue.com/)
 
 ### Meet our Amazing Team
 
-** Coaches: ** 
+**Coaches:** 
 
 Thiago Araujo and Julio Albinati. Thanks for being our coaches, we couldn’t be part of this amazing program without your help.
 
-** Mentor **
+**Mentor:**
 
 One of the reasons we applied to work on Public Lab is because it’s a very inclusive and supportive community. Jeff Warren is always helping us and we are happy to be part of it.
 
-** Supervisor **
+**Supervisor:**
 
 Mayar is our RGSoC’s Buddy and we want to thank you for all your support and advices for us to have a great summer of code.
 
