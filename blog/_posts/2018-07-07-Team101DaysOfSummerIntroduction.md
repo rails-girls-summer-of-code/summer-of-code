@@ -2,7 +2,7 @@
 title: The Beginning
 layout: post
 created_at: Sat 7 Jul 2018
-permalink: blog/2018-07-07-Team101DaysOfSummerInroduction
+permalink: blog/2018-07-07-Team101DaysOfSummerIntroduction
 current: blog
 author: Paavini
 twitter: paavininanda
