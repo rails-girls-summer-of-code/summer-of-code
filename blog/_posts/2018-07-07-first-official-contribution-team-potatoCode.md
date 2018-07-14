@@ -2,7 +2,7 @@
 title: First Week Wrap Up! Team potatoCode
 layout: post
 created_at: Sat Jul 07 2018
-permalink: 2018-07-07-first-official-contribution-team-potatoCode
+permalink: blog/2018-07-07-first-official-contribution-team-potatoCode
 current: blog
 author: Alina Leuca and Sabine van der Eijk
 twitter: alinaleuca
