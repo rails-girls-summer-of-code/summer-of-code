@@ -2,14 +2,14 @@
 title: Introducing Team Barcelona Duo
 layout: post
 created_at: Mon July 09 2018
-permalink: blog/introducing-TeamBarcelonaDuo
+permalink: blog/2018-07-09-introducing-TeamBarcelonaDuo
 current: blog
 author: Lori and Amalia
 twitter: HarlemExpat
 categories:
 - student-posts
 ---
-Hello everyone, we are Lori and Amalia, two amazing ex-sociologist turned programmers. We are Team BarcelonaDuo. We met at [codebar](https://codebar.io/) <br> and are currently organizers there.
+Hello everyone, we are Lori and Amalia, two amazing ex-sociologist turned programmers. We are Team BarcelonaDuo. We met at [codebar](https://codebar.io/) and are currently organizers there.
 
 Codebar is a non-profit organization that runs workshops for underrepresented groups in tech. The aim is to increase interest and diversity in programming.
 
@@ -27,18 +27,16 @@ that I hadn't felt in years -- and I was hooked.
 ![Lori studying code!](/img/blog/2018/BarcelonaDuo5.jpg)
 <div class="image-credits"><b>Lori studying code  (image by Amalia Cardenas)</b></div>
 <br>
-I got a bit more serious about coding a few years latter. I moved to Barcelona, in part for an opportunity to meet other programming hobbyist. I started attending codebar and met
-an amazing group of people who inspired and motivated me to take my coding to a new level.
+I got a bit more serious about coding a few years latter. I moved to Barcelona, in part for an opportunity to meet other programming hobbyist. I started attending codebar and met an amazing group of people who inspired and motivated me to take my coding to a new level.
 
-Since then, I have become one of the organizers. I am really passionate about coding, and I
-want to share this love with others. Through codebar, I help with the organizing and I am currently working with other coaches to improve the python track to make it more project based.
+Since then, I have become one of the organizers. I am really passionate about coding, and I want to share this love with others. Through codebar, I help with the organizing and I am currently working with other coaches to improve the python track to make it more project based.
 
 I love programming and I would like to use this summer to build my skills. After this summer I intend to transition into tech as a developer.
 
 ### Amalia
 I was born in Mexico, but I moved to California when I was 5 years old. I met my partner while living in San Francisco and moved to Barcelona in 2008. I am based in Barcelona but spend part of the year in California and in Greece.
 
-Prior to programming, my background was in research in the media studies/ sociology field. I conducted research on [ alternative economic practices in Catalunya](https://global.oup.com/academic/product/aftermath-9780199658411?cc=ru&lang=en&), the Indignado and Occupy Wallstreet movement, [the banking crisis in Spain and Iceland](http://in3-working-paper-series.uoc.edu/in3/en/index.php/in3-working-paper-series/article/view/1943.html), and I also researched how [trust is built online](http://www.lse.ac.uk/media-and-communications/assets/documents/events/phd-symposium/Brochure-with-abstracts-PhD-Symposium-2014.pdf)
+Prior to programming, my background was in research in the media studies/ sociology field. I conducted research on [ alternative economic practices in Catalunya](https://global.oup.com/academic/product/aftermath-9780199658411?cc=ru&lang=en&), the Indignado and Occupy Wallstreet movement, [the banking crisis in Spain and Iceland](http://in3-working-paper-series.uoc.edu/in3/en/index.php/in3-working-paper-series/article/view/1943.html), and I also researched how [trust is built online](http://www.lse.ac.uk/media-and-communications/assets/documents/events/phd-symposium/Brochure-with-abstracts-PhD-Symposium-2014.pdf).
 
 
 **Why I decided to learn to program**
@@ -60,7 +58,7 @@ Exercism.io is a platform that helps people achieve fluency in a programming lan
 Lori and I will be focusing on mentors, mentor resources, and tooling for mentors. We hope to develop resources that can make the process of giving feedback smoother for mentors and increase the quality of feedback across all of the exercises available on the platform.
 
 
- **Follow us on Twitter:** [@HarlemExpat](https://twitter.com/HarlemExpat), [@anybodycancode1](https://twitter.com/anybodycancode1)
+ **Follow us on Twitter:** [Lori  King](https://twitter.com/HarlemExpat), [Amalia Cardenas](https://twitter.com/anybodycancode1)
 
 **Get to know us better on our blogs:**
 
