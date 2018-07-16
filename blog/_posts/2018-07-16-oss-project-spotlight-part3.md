@@ -1,8 +1,8 @@
 ---
 title: OSS Project Spotlight - Part 3
 layout: post
-created_at: Thu Jul 05 2018
-permalink: blog/2018-07-05-oss-project-spotlight-part3
+created_at: Thu Jul 16 2018
+permalink: blog/2018-07-16-oss-project-spotlight-part3
 current: blog
 author: Ana Sofia Pinho
 twitter: anasofiapinho
@@ -10,7 +10,7 @@ categories:
 - oss-projects
 ---
 
-Welcome to part 3 of our RGSoC OSS Project Spotlights (previous posts here: [part 1](https://railsgirlssummerofcode.org/blog/2018-06-11-oss-project-spotlight-part1) and [part 2](https://railsgirlssummerofcode.org/blog/2018-06-22-oss-project-spotlight-part2))! We’re excited to present 3 awesome projects today:
+Welcome to part 3 of our RGSoC OSS Project Spotlights (previous posts here: [part 1](https://railsgirlssummerofcode.org/blog/2018-06-11-oss-project-spotlight-part1) and [part 2](https://railsgirlssummerofcode.org/blog/2018-06-22-oss-project-spotlight-part2))! We’re excited to present another 3 awesome projects today:
 
 #### <span class="color-red">Servo</span>
 [Website](https://servo.org/) | [Twitter](https://twitter.com/ServoDev)<br>
