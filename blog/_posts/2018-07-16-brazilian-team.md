@@ -1,8 +1,8 @@
 ---
 title: Brazilian Housewives Coding Team Introduction
 layout: post
-created_at: Mon July 09 2018
-permalink: blog/2018-07-07-brazilian-team
+created_at: Mon July 16 2018
+permalink: blog/2018-07-16-brazilian-team
 current: blog
 author: Camila and Stefanni
 twitter: milasouzaaraujo
