@@ -26,7 +26,6 @@ that I hadn't felt in years -- and I was hooked.
 
 ![Lori studying code!](/img/blog/2018/BarcelonaDuo5.jpg)
 <div class="image-credits"><b>Lori studying code  (image by Amalia Cardenas)</b></div>
-<br>
 I got a bit more serious about coding a few years latter. I moved to Barcelona, in part for an opportunity to meet other programming hobbyist. I started attending codebar and met an amazing group of people who inspired and motivated me to take my coding to a new level.
 
 Since then, I have become one of the organizers. I am really passionate about coding, and I want to share this love with others. Through codebar, I help with the organizing and I am currently working with other coaches to improve the python track to make it more project based.
