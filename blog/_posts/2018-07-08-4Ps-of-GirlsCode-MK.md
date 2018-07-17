@@ -2,9 +2,12 @@
 title: Team GirlsCode MK - The 4 Ps of GirlsCode MK
 layout: post
 created_at: Sun Jul 08 2018
-permalink: blog/_posts/2018-07-08-4ps-of-girlscode-mk
-author: Team GirlsCode MK
+permalink: blog/_posts/2018-07-08-4Ps-of-GirlsCode-MK
+current: blog
+author: Eva and Georgina
 twitter: GirlsCodeMK
+categories:
+- student-posts
 ---
 
 # The 4 Ps of GirlsCode MK
@@ -126,9 +129,9 @@ Our primary task is to add a person module to Bahmni. Currently it’s only poss
 
 ## You can follow our journey here:
 
-__[@GirlsCodeMK](https://twitter.com/GirlsCodeMK)__
+__[Eva](https://twitter.com/GirlsCodeMK)__
 
-__[@gthodgkinson](https://twitter.com/gthodgkinson)__
+__[Georgina](https://twitter.com/gthodgkinson)__
 
 
 
