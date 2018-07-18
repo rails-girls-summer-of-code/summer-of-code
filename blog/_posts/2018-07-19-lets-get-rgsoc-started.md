@@ -8,7 +8,7 @@ author: Sujin Lee
 twitter: sujinleeme
 categories:
 - student-posts
----☀
+---️️☀
 
 # Who we are
 <img src="/img/blog/2018/2018-07-19-team-sunshine.jpg" alt="team sunshine photo"/>
@@ -98,8 +98,8 @@ Dohyung is a frontend engineer who has been working on React-Typescript based pr
 ## What do we want to achieve by the end of the summer?
 RGSoC is a shot at life. Again, it is a pleasure to join for Rails Girls Summer of Code program and meet fellow women developers in Open Source Community again. Our primary focus is continuing to learn advanced level of Javascript and growing up to be open source developers! We want to make people recognize the contributions women are making and inspire more women through our lines of code, PRs, and more during RGSoC. If we have a chance, we are willing to give a talk about our open source activities.
 
-## Follow #RGSunshine on twitter
-We share our team news, daily working report, funny moments, achievements, compliments and more using [#RGSunsine](https://twitter.com/hashtag/RGSoCSunshine?src=hash) on Twitter! 💖
+## Follow #RGSoCSunshine on twitter
+We share our team news, daily working report, funny moments, achievements, compliments and more using [#RGSoCSunshine](https://twitter.com/hashtag/RGSoCSunshine?src=hash) on Twitter! 💖
 
 > Keep your face to the sun and you will never see the shadows. - Helen Keller 
 
