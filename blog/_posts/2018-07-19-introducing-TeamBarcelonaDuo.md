@@ -13,7 +13,7 @@ Hello everyone, we are Lori and Amalia, two amazing ex-sociologist turned progra
 
 Codebar is a non-profit organization that runs workshops for underrepresented groups in tech. The aim is to increase interest and diversity in programming.
 
-![Lori and Amalia!](/img/blog/2018/BarcelonaDuo1.png)
+![Lori and Amalia!](/img/blog/2018/2018-07-19-rgsoc-BarcelonaDuo1.png)
 <div class="image-credits"><b>Lori and Amalia at Thoughtworks (image by Amalia Cardenas)</b></div>
 
 
@@ -24,7 +24,7 @@ Scratch and from there they could make interactive stories or games. What I didn
 was that programming involves research, problem solving, and learning -- a type of mental stimulation
 that I hadn't felt in years -- and I was hooked.
 
-![Lori studying code!](/img/blog/2018/BarcelonaDuo5.jpg)
+![Lori studying code!](/img/blog/2018/2018-07-19-rgsoc-BarcelonaDuo5.jpg)
 <div class="image-credits"><b>Lori studying code  (image by Amalia Cardenas)</b></div>
 I got a bit more serious about coding a few years latter. I moved to Barcelona, in part for an opportunity to meet other programming hobbyist. I started attending codebar and met an amazing group of people who inspired and motivated me to take my coding to a new level.
 
@@ -44,7 +44,7 @@ While in graduate school, through my research I started to see how the criteria 
 
 Even though I am not the next Mark Zuckerberg, I want to increase diversity in the tech space and this is why I want to become a better programmer and be part of the programming community. In my spare time, I help organize the codebar Barcelona chapter. Codebar is a non-profit initiative that runs regular programming workshops for underrepresented people in tech.
 
-![Amalia coaching at codebar!](/img/blog/2018/BarcelonaDuo6.jpg)
+![Amalia coaching at codebar!](/img/blog/2018/2018-07-19-rgsoc-BarcelonaDuo6.jpg)
 <div class="image-credits"><b>Amalia coaching at codebar (image by Amalia Cardenas)</b></div>
 <br>
 
