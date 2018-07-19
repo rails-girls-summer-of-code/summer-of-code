@@ -1,13 +1,13 @@
 ---
 title: Meet Team Popcorn
 layout: post
-created_at: Mon July 09 2018
-permalink: blog/2018-07-09-welcome-to-team-popcorn
+created_at: Sat July 21 2018
+permalink: blog/2018-07-21-welcome-to-team-popcorn
 current: blog
 author: Arati and Jessica
 twitter: TeamPopcornBer
 categories: 
--student-posts
+- student-posts
 ---
 
 ![The warm welcome we recieved from our coaching company [Absolventa]](/img/blog/2018/welcome-teampopcorn.jpg)
