@@ -1,8 +1,8 @@
 ---
 title: Introducing Team Barcelona Duo
 layout: post
-created_at: Wed July 18 2018
-permalink: blog/2018-07-18-introducing-TeamBarcelonaDuo
+created_at: Thu July 19 2018
+permalink: blog/2018-07-19-introducing-TeamBarcelonaDuo
 current: blog
 author: Lori and Amalia
 twitter: HarlemExpat
