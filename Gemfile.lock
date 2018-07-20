@@ -125,11 +125,9 @@ PLATFORMS
 
 DEPENDENCIES
   geocoder
-  jekyll
+  github-pages (= 84)
+  jekyll (~> 3.1.6)
   lolize
 
-RUBY VERSION
-   ruby 2.1.5p273
-
 BUNDLED WITH
-   1.16.2
+   1.16.0
