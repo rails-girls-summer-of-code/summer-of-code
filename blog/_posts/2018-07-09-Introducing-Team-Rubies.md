@@ -1,9 +1,8 @@
-
 ---
 title: Introducing Team Rubies:tada:
 layout: post
 created_at: Mon July-09-2018
-permalink: blog/2018-07-09-introducing-team-rubies
+permalink: blog/2018-07-09-Introducing-Team-Rubies
 current: blog
 author: Atibhi and Prateksha
 twitter: Rubies_11_14
@@ -55,7 +54,7 @@ They had chosen their project even before the list of official projects had been
 They could relate to "if-me" and wanted to contribute to the mental health community. Here is their first contact with Julia, their mentor way before the official list was announced.
 
 ![FirstContact](/img/blog/2018/2018-07-09-TeamRubies-FirstContact.png)
-<div class="image-credits"><b>Our first mail to Julia!</b></div>
+<div class="image-credits"><b>Our first mail to Julia!(Credit: Gmail-Atibhi)</b></div>
 
 After this, Julia added them to slack. The slack community was amazing. They had previously worked with Ruby on Rails and wanted to start with ReactJS components in if-me. If-me community helped them learn Javascript and then React. By February,they had submitted their first PR. Yes ! It was in React !
 Apart from the community being so helpful, their mentor Julia had a unique ritual. She would do weekly shout-outs where she would thank people who worked on an issue or helped if-me in any way.
@@ -84,7 +83,7 @@ They thought that their first interview wasn't good enough and this was the fina
 By 19th April they had gone through their proposal multiple times and brushed up their technical knowledge. The interview was scheduled to start at 9 PM and they sat nervously in front of their laptops at 8:30 PM. At 9 PM the interview started. Little did they know that this is what RGSoC meant by "interview".
 
 ![HappyUs](/img/blog/2018/2018-07-09-TeamRubies-HappyUs.jpeg)
-<div class="image-credits"><b>Happy!</b></div>
+<div class="image-credits"><b>Accepted to RGSoC 2018!!(Credit: appear.in-Screenshot)</b></div>
 
 ... a dream that they had been chasing for over 4 months had finally come true. It was no interview, it was the final results. The RGSoC team told them via live call that they were selected.
 ### **The Team**
