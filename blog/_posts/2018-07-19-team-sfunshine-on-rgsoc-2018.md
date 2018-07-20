@@ -13,7 +13,7 @@ categories:
 # Who we are
 <img src="/img/blog/2018/2018-07-19-team-sunshine.jpg" alt="team sunshine photo"/>
 
-안녕하세요(annyeonghaseyo)! We are Sujin and Gyujin from 'Sunshine' team in Seoul, S.Korea. We are working for [Babel.js](https://babeljs.io/), an open source JavaScript transpiler that converts cutting-edge JavaScript into plain old ES5 JavaScript that can run in any browser. 
+안녕하세요(annyeonghaseyo)! We are Sujin and Gyujin from 'Sunshine' team in Seoul, S.Korea. We are working for [Babel.js](https://babeljs.io/), an Open Source JavaScript Transpiler that converts cutting-edge JavaScript into plain old ES5 JavaScript that can run in any browser. 
 
 We are full stack JavaScript developers who have common interests in UI development and interactive interfaces. Before jumping into the programming world, we were artists: Gyujin was a designer and Sujin was a musician. We love art, creativity and technology. Based on both sides of programming and art experiences, we say the process of making graphic design or composing a music piece is very similar to computer programming.
 
@@ -22,7 +22,7 @@ We are full stack JavaScript developers who have common interests in UI developm
 [Sujin](https://twitter.com/sujinleeme) is a graduate student in Seoul National University and she has pursued her passions of music and programming with equal vigor, aiming to make creative work that inspires. Nowadays she is strongly interested in making interactive music applications using machine learning. She leads the Women Who Code Seoul Network and is trying to build a more diverse and inclusive tech community here in Korea. Everywhere she goes she always has a pair of running shoes with her to run.
 
 # How we met
-Last february, as soon as Sujin came across a news about the opening of the Rails Girls Summer of Code Applications, it just stuck in her mind. Sujin was confident that she could get a great opportunity to contribute to a real Open Source project as a member of Open Source ecosystem. After that Sujin searched for a like-minded team mate in Django Girls community in Seoul and Gyujin that's how we got on the same boat. We asked close senior engineers to be our team coaches and everyone eagerly accepted the request and this is how we formed Team Sunshine to start our open source journey. 
+Last february, as soon as Sujin came across a news about the opening of the Rails Girls Summer of Code Applications, it just stuck in her mind. Sujin was confident that she could get a great opportunity to contribute to a real Open Source Software project as a member of Open Source ecosystem. After that Sujin searched for a like-minded team mate in Django Girls community in Seoul and Gyujin that's how we got on the same boat. We asked close senior engineers to be our team coaches and everyone eagerly accepted the request and this is how we formed Team Sunshine to start our open source journey. 
 
 # What brings us to join RGSoC
 It is certain that the numbers for women engineers in the tech industry are already pretty bleak, but the situation is even worse as far as participation in open source projects is concerned. Additionally, we thought there was no room for the entry level of developers in open source projects and we weren't familiar to open source community until we met RGSoC. Unfortunately, we couldn’t meet any woman open source contributor in Korea. We were highly motivated by RGSoC's initiatives to bring more diversity into open source and last RGSoC fellows's successful stories boosted our confidence. And we couldn't be more thrilled to think that our code could be running on millions of computers! Yes, RGSoC is definitly worth it.
@@ -42,9 +42,18 @@ Two weeks later, Ana and Vaishali requested a second round interview because the
 </div>
 
 ## Our Project: Babel.js
+
+<center>
+<img alt="label logo" src="https://cdn-images-1.medium.com/max/1600/1*XmHUL5DeySv_dGmvbPqdDQ.png" width="50%" align="middle"/>
+</center>
+
 Babel is an open-sourced JavaScript compiler that leader companies like Facebook, Netflix, and Spotify and countless others adopt to ship software for the web. Babel not only allows developers to use the latest syntax in older browsers, but even has its role in shaping the future of the language itself due to its adoption in the community. The SPA frameworks like Angular, React, Vue, Ember also use Babel. It's downloaded more than 14 million times a month on npm. Isn't it amazing? ✨
 
 In Bable offical website, there is [Babel REPL](https://babeljs.io/repl/), a playground for ES6; where user can write ES6 code, check the relevant code in ES5; and also the output. 
+
+<center>
+<img src="http://2ality.com/2015/08/getting-started-es6/babel-repl.png"/>
+</center>
 
 Currently, the [Babel core team](https://babeljs.io/team) is going to replace CodeMirror to [Ives'](https://twitter.com/CompuIves) [CodeSandBox](https://codesandbox.io/), the new code online editor. An end goal is to show a different view of the output code: [AST](https://astexplorer.net/), output code, or [time travel](https://github.com/babel/babel-time-travel). We have just started to work for integration time travel in REPL and are going to contribute for UI development with help of our mentors and coaches.
 
@@ -90,7 +99,7 @@ Hyeonsu is a frontend engineer at [Ridi](https://ridicorp.com), an e-book startu
 Joeun is a senior backend engineer of wide experience on online games and advertising companies. Currently, she teaches data science and machine learning using python language to students from beginners to experts. Joeun runs a YouTube channel, '[Today Code](https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg)' featuring short, educational videos focusing on data science topics.
 
 * [Seongjun Kim](https://twitter.com/wagurano)
-Seongjun is a prominent rubyist writing code for world peace, however, he has used java for various type of products in his company. He contributed to make social campaign web platform, (voteaward.com ansim.me by ruby on rails and tries to raise local ruby community.
+Seongjun is a prominent rubyist writing code for world peace, however, he has used java for various type of products in his company. He contributed to make social campaign web platforms, [voteaward.com](https://github.com/peace-code/voteaward) and [ansim.me](Source) by ruby on rails and tries to raise local ruby community.
 
 * [Dohyung Ahn](https://twitter.com/adhrinae)
 Dohyung is a frontend engineer who has been working on React-Typescript based projects recently. He is in [protopie.io](https://www.protopie.io/) now. He has a huge enthusiasm for contributing to open source culture and he is happy to help programmers to not only improving their technical skills, but also products and projects. 
