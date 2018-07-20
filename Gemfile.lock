@@ -125,7 +125,6 @@ PLATFORMS
 
 DEPENDENCIES
   geocoder
-  github-pages
   jekyll
   lolize
 
