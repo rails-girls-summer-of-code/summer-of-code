@@ -1,8 +1,8 @@
 ---
 title: Team GirlsCode MK - The 4 Ps of GirlsCode MK
 layout: post
-created_at: Sun Jul 08 2018
-permalink: blog/_posts/2018-07-08-4Ps-of-GirlsCode-MK
+created_at: Mon Jul 23 2018
+permalink: blog/2018-07-23-4Ps-of-GirlsCode-MK
 current: blog
 author: Eva and Georgina
 twitter: GirlsCodeMK
