@@ -1,8 +1,8 @@
 ---
 title: Meet Team Popcorn
 layout: post
-created_at: Sat July 21 2018
-permalink: blog/2018-07-21-welcome-to-team-popcorn
+created_at: Mon Jul 23 2018
+permalink: blog/2018-07-23-welcome-to-team-popcorn
 current: blog
 author: Arati and Jessica
 twitter: TeamPopcornBer
@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 
-![The warm welcome we recieved from our coaching company [Absolventa]](/img/blog/2018/welcome-teampopcorn.jpg)
+![The warm welcome we recieved from our coaching company [Absolventa]](/img/blog/2018/rgsoc-2018-07-23-welcome-teampopcorn.jpg)
 <div class="image-credits"><em>Photo credit: Jessica</em></div>
 
 
@@ -24,7 +24,7 @@ As soon as we decided to apply for the program, we had to start hunting for coac
 
 As it turns out, this would be a fateful evening for our team because Camila didn’t come alone to the meetup. With her was a little black dog with a big personality. An adorable rescue dog, Popcorn was our mascot during the sometimes frustrating process of setting up our development environments and we had no other choice than to honour her with our team name!
 
-![Popcorn, our mascot](/img/blog/2018/popcorn-mascot-teampopcorn.jpg)
+![Popcorn, our mascot](/img/blog/2018/rgsoc-2018-07-23-popcorn-mascot-teampopcorn.jpg)
 <div class="image-credits"><em>Photo credit: Camila</em></div>
 
 **[Arati]()**
@@ -60,7 +60,7 @@ We chose this project because we both felt it was important to work on a larger 
 
 Since reaching out to Camila and Jan at the start of our application process for RGSoC we have been overwhelmed by the community’s support. We were even invited to join them in Stuttgart for their hackweek!
 
-![Nextcloud Hackweek](/img/blog/2018/nextcloud-hackweek-teampopcorn.jpeg)
+![Nextcloud Hackweek](/img/blog/2018/rgsoc-2018-07-23-nextcloud-hackweek-teampopcorn.jpeg)
 <div class="image-credits"><em>Photo credit: Nextcloud</em></div>
 
 
