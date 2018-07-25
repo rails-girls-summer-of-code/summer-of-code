@@ -1,8 +1,8 @@
 ---
 title: Team GirlsCode MK - The 4 Ps of GirlsCode MK
 layout: post
-created_at: Mon Jul 23 2018
-permalink: blog/2018-07-23-4Ps-of-GirlsCode-MK
+created_at: Wed Jul 25 2018
+permalink: blog/2018-07-25-4Ps-of-GirlsCode-MK
 current: blog
 author: Eva and Georgina
 twitter: GirlsCodeMK
@@ -13,6 +13,9 @@ categories:
 # The 4 Ps of GirlsCode MK
 
 ## 1. The People
+
+![teamGirlsCodeMK](/img/blog/2018/2018-07-25-4ps-of-girlscode-mk-GirlsCodeMK01.jpg)
+<div class="image-credits"> Team GirlsCode MK: Eva and Georgina (Photo taken by Eva)</div>
 
 ### Georgina:
 
@@ -44,9 +47,6 @@ I don’t think I have a favourite, but easiest to start again is Javascript.
 ##### Favourite productivity hack? 
 
 I like to make the most of my time so my favourite to avoid overload is GOOP. Standing for Goal - what is one goal to focus on, Outcome - what does it look like, Obstacles - what obstacles can stand in the way of your goal and Plan - what plan do you have for overcoming those Obstacles.
-
-![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK01.jpg)
-<div class="image-credits"> Team GirlsCode MK: Eva and Georgina (Photo taken by Eva)</div>
 
 <br>
 
@@ -80,7 +80,7 @@ Javascript.
 
 Getting at least 8 hours of sleep. Also coffee. Lots of coffee.
 
-![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK02.jpg)
+![teamGirlsCodeMK](/img/blog/2018/2018-07-25-4ps-of-girlscode-mk-GirlsCodeMK02.jpg)
 <div class="image-credits"> GirlsCode MK meetups (Photo taken by Eva)</div>
 
 ### Coaches and supervisors
@@ -101,23 +101,24 @@ Ramón
 
 
 ## 2. The Place
+
+![teamGirlsCodeMK](/img/blog/2018/2018-07-25-4ps-of-girlscode-mk-GirlsCodeMK03.jpg)
+<div class="image-credits"> Bletchley Park Mansion - the headquarters for British codebreakers during World War II. (Source: Wikimedia Commons)</div>
+
 Our office space couldn’t have been more inspiring! We are based at the heart of Bletchley Park home of the codebreakers.
 
 For one of her earlier projects, Georgina built a tribute page for women codebreakers in Bletchley Park ([Codepen link](https://codepen.io/gtl90/pen/opOVvP))
 
 
-![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK03.jpg)
-<div class="image-credits"> Bletchley Park Mansion - the headquarters for British codebreakers during World War II. (Source: Wikimedia Commons)</div>
-
 <br>
 
 ## 3. The Project
+
+![teamGirlsCodeMK](/img/blog/2018/2018-07-25-4ps-of-girlscode-mk-GirlsCodeMK04.png)
+<div class="image-credits"> Bahmni (Source: Bahmni.org)</div>
+
 The project will be working on during the summer is Bahmni, a low-resource hospital management tool based on OpenMRS - an open source, medical record system. Bahmni was started in 2012 and is currently being used in 29 countries around the world!
 It’s a live and working app with a huge code base and while it will definitely be challenging, we’re very excited at the opportunity of making Bahmi better and even more effective.
-
-
-![teamGirlsCodeMK](/img/blog/2018/2018-07-08-4ps-of-girlscode-mk-GirlsCodeMK04.png)
-<div class="image-credits"> Bahmni (Source: Bahmni.org)</div>
 
 <br>
 
@@ -127,7 +128,7 @@ Our primary task is to add a person module to Bahmni. Currently it’s only poss
 
 <br>
 
-## You can follow our journey here:
+#### You can follow our journey here:
 
 __[Eva](https://twitter.com/GirlsCodeMK)__
 
