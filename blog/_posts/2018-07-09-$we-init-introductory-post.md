@@ -1,3 +1,15 @@
+---
+title: Team $we init - Dreams come true!
+layout: post
+created_at: Wed Jul 09 2018
+permalink: blog/2018-07-09-dreams-come-true-we-init
+current: blog
+author: Rahmeen
+twitter: rahmeen_habib
+categories:
+- student-posts
+---
+
 # Dreams come true !
 
 Heya! We are Rahmeen and Akshita of team $we init. We both study in New Delhi, India, and are working on Probot this summer. 
@@ -71,4 +83,5 @@ A graduate from IIIT Allahabad, Saptak is a passionate open source contributor. 
 ### Say Cheese! 
 
 ![Team $we init in one frame](/img/blog/2018/WeInit.jpg)
+<div class="image-credits"> Team $we init (Collage made by Akshita)</div>
 
