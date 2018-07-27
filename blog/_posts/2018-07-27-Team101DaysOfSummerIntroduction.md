@@ -11,7 +11,7 @@ categories:
 ---
 
 
-![Hurray](/img/blog/2018/2018-07-07-101Daysgif1.gif)
+![Hurray](/img/blog/2018/2018-07-27-101Daysgif1.gif)
 <div class="image-credits">Source: Giphy.com</div>
 
 The summer has begun and the moment for which we had been waiting since the past so many days has come. It is time to get started with RGSoC this year. Let’s familiarise you with our team - 
@@ -42,7 +42,7 @@ We got to know about RGSoC when seniors from our college Prachi and Ipshita got 
 
 So we made sure that we started looking for organisations on time. By mid-January, even before the organisations were finalized, we started making our mind on which project to apply for. We started understanding and making small contributions to our first project. But after few days came the shortlist of projects…….A small set back for us, the project that we wanted to apply for didn’t get selected :( 
 
-![Sad](/img/blog/2018/2018-07-07-101Daysgif2.gif)
+![Sad](/img/blog/2018/2018-07-27-101Daysgif2.gif)
 <div class="image-credits">Source: Giphy.com</div>
 
 But nevermind, we began looking for some other projects. 
@@ -57,10 +57,10 @@ So we decided to get our hands dirty. We implemented our very first API `DOM Dog
 
 Ahh, we were so happy :P
 
-![HappyAgain](/img/blog/2018/2018-07-07-101Daysgif3.gif)
+![HappyAgain](/img/blog/2018/2018-07-27-101Daysgif3.gif)
 <div class="image-credits">Source: Giphy.com</div>
 
-![MissionCompleted](/img/blog/2018/2018-07-07-101Daysgif4.gif)
+![MissionCompleted](/img/blog/2018/2018-07-27-101Daysgif4.gif)
 <div class="image-credits">Source: Giphy.com</div>
 <br />
 Then we started implementing our own functions in that API. It was interesting to see the code we wrote working in a browser.
