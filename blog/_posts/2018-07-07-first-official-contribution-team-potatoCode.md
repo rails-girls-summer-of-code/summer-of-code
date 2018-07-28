@@ -30,7 +30,7 @@ We completed our first little feature -- translation of the app into Dutch, and 
 This was a huge highlight of our week! It was Sabine's first time meeting Eden, and both of our first time meeting Jack. We got to know each other a bit, and it helps us feeling more comfortable with our coaches. We can only hope it makes the coaches more comfortable with us as well! We hope to do this again (maybe once a month?) during the program.
 
 ![image](/img/blog/2018/2018-07-05-potatocode-team.jpg)
-<div class="image-credits">potatoCode team! (Photo: Sabine van der Eijk, Daniel Rigberg, Jack Sacali, Eden Laboda, Alina Leuca)</div>
+<div class="image-credits">potatoCode team! (photo by Alina Leuca and Sabine van der Eijk)</div>
 
 
 <span class="color-red">What comes next</span>
