@@ -40,7 +40,7 @@ We consider ourselves very lucky! As not only do we have gathered a great team o
 ### Living Style Guide
 The Open Source project we have been selected for is Living Style Guide, which helps developers to create front-end style guides easily with SaSS and Markdown. The project is written by Nico Hagenburger in Ruby. It needs to be rewritten to and tested for a Vanilla Javascript version, which will be our main tasks, beside improving the documentation. 
 
-Summer and future Goals
+### Summer and future Goals
 We are looking forward to connect with the RgSoc-community, make our first ever contribution to open source (yay!!), hone our skills and learn many more. We are here to prove ourselves that we can do this! And hope to be ready to find a tech job when the summer is over.
 
 
@@ -72,4 +72,4 @@ Follow us on
 [Diana](http://www.github.com/dianavile)
 
 # For a great beginning!
-![image](https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif)
+![image](https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif "Credit: Giphy")
