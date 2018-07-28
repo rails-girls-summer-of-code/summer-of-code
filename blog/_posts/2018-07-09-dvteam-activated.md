@@ -2,7 +2,7 @@
 title: DV Team Activated!
 layout: post
 created_at: Mon Jul 09 2018
-permalink: blog/2018-07-09-dvteam-activated.md
+permalink: blog/2018-07-09-dvteam-activated
 current: blog
 author: Violeta
 twitter: artnerdnet
