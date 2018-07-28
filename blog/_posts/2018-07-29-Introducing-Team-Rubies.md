@@ -1,8 +1,8 @@
 ---
-title: Introducing Team Rubies:tada:
+title: Introducing Team Rubies
 layout: post
-created_at: Mon July-09-2018
-permalink: blog/2018-07-09-Introducing-Team-Rubies
+created_at: Sun July-29-2018
+permalink: blog/2018-07-29-Introducing-Team-Rubies
 current: blog
 author: Atibhi and Prateksha
 twitter: Rubies_11_14
