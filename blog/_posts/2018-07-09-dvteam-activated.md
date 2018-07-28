@@ -2,11 +2,11 @@
 title: DV Team Activated!
 layout: post
 created_at: Mon Jul 09 2018
-permalink: blog/dvteam_activated
+permalink: blog/2018-07-09-dvteam-activated.md
 current: blog
 author: Violeta
 twitter: artnerdnet
-categories:
+categories: student-posts
 - news
 ---
 
@@ -25,9 +25,9 @@ During the Google Scholarship, we met several times in real life and decided to 
 
 *Coach 2: Tetiana (Ruby developer)*
 
-Skyping with Tobias and Tetiana, gave us the confidence they would have our backs! They not only seem very nice and accessible, but moreover have the attitude and experience needed to guide us through the summer.  
+Skyping with Tobias and Tetiana, gave us the confidence they would have our backs! They not only seem very nice and accessible, but moreover have the attitude and experience needed to guide us through the summer. Tobias is a React developer and mentor who believes in helping juniors grow, Tetiana is a Ruby in Rails expert and team leader (she has always wanted to be part of RGSoC!).
 
-A few weeks later we met our third mentor through the post system in RGSoC.We absolutely loved his passion and diverse knowledge of programming so we both agreed to have him on board!
+A few weeks later we met our third mentor through the post system in RGSoC. We absolutely loved his passion and diverse knowledge of programming so we both agreed to have him on board!
 
 *Coach 3: Raounak (Full-stack Ruby developer)*
 
