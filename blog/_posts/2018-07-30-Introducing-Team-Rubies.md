@@ -12,6 +12,7 @@ categories:
 
 
 ### **The Journey of a Thousand Miles Begins with One Step**
+
 #### **And here's how the journey of Team Rubies started!**
 
 Atibhi had just started learning Ruby on Rails and was googling some random error, when Google redirected her to the official page of RGSoC.
@@ -86,6 +87,8 @@ By 19th April they had gone through their proposal multiple times and brushed up
 <div class="image-credits"><b>Accepted to RGSoC 2018!!(Credit: appear.in-Screenshot)</b></div>
 
 ... a dream that they had been chasing for over 4 months had finally come true. It was no interview, it was the final results. The RGSoC team told them via live call that they were selected.
+
+
 ### **The Team**
 
 ![TheTeam](/img/blog/2018/2018-07-30-TeamRubies-TheTeam.jpeg)
