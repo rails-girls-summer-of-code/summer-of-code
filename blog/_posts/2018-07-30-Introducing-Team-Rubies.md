@@ -92,8 +92,7 @@ By 19th April they had gone through their proposal multiple times and brushed up
 ### **The Team**
 
 ![TheTeam](/img/blog/2018/2018-07-30-TeamRubies-TheTeam.jpeg)
-<div class="image-credits"><b>The Team, Left to Right and Top to Bottom: Julia, Srishti, Camille, Prateksha, Atibhi, Aditya, Gaurav, Nishiki, Alvaro, Athitya, Raounaq (Credits: Slack - Julia, Srishti, Nishiki, Alvaro; GitHub - Camille, Athitya; Google Hangouts - Raounaq )</b></di
-  v>
+<div class="image-credits"><b>The Team, Left to Right and Top to Bottom: Julia, Srishti, Camille, Prateksha, Atibhi, Aditya, Gaurav, Nishiki, Alvaro, Athitya, Raounaq (Credits: Slack - Julia, Srishti, Nishiki, Alvaro; GitHub - Camille, Athitya; Google Hangouts - Raounaq )</b></div>
 
 #### ***Mentors***
 
