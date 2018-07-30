@@ -27,13 +27,13 @@ During the Google Scholarship, we met several times in real life and decided to 
 
 Skyping with Tobias and Tetiana, gave us the confidence they would have our backs! They not only seem very nice and accessible, but moreover have the attitude and experience needed to guide us through the summer. Tobias is a React developer and mentor who believes in helping juniors grow, Tetiana is a Ruby in Rails expert and team leader (she has always wanted to be part of RGSoC!).
 
-A few weeks later we met our third mentor through the post system in RGSoC. We absolutely loved his passion and diverse knowledge of programming so we both agreed to have him on board!
+*Coach 3: Cristina (full stack developer)*
 
-*Coach 3: Raounak (Full-stack Ruby developer)*
+The third RgSoc-coach to join, we met during a recently peer lab, that Violeta organized for Woman Who Code. We really liked her spirits and clarity so just a week before starting the SoC we invited her to be part of it. 
 
-The last RgSoc-coach to join, we met during a recently peer lab, that Violeta organized for Woman Who Code. We really liked her spirits and clarity so just a week before starting the SoC we invited her to be part of it. 
+*Coach 4: Bright (software engineer)*
 
-*Coach 4: Cristina (full stack developer)*
+Bright was introduced to us by Sujin from Team Sunshine when we needed help solving our project's issues. He is very experienced with JavaScript and will be helping us during the summer too! 
 
 We consider ourselves very lucky! As not only do we have gathered a great team of mentors, but also an interesting supervisor Lucas Pinto who has even organized Ruby conferences! 
 
@@ -70,6 +70,12 @@ Follow us on
 [Living Style Guide](https://github.com/livingstyleguide/livingstyleguide)
 [Violeta](http://www.github.com/artnerdnet)
 [Diana](http://www.github.com/dianavile)
+
+##### Coaches
+[Tobi](https://github.com/tobmaster)
+[Tetiana](https://github.com/brytannia)
+[Cristina](https://github.com/cristinaverdi)
+[Bright](https://github.com/benevbright)
 
 # For a great beginning!
 ![image](https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif "Credit: Giphy")
