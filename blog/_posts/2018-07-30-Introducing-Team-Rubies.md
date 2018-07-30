@@ -1,8 +1,8 @@
 ---
 title: Introducing Team Rubies
 layout: post
-created_at: Sun July-29-2018
-permalink: blog/2018-07-29-Introducing-Team-Rubies
+created_at: Sun July-30-2018
+permalink: blog/2018-07-30-Introducing-Team-Rubies
 current: blog
 author: Atibhi and Prateksha
 twitter: Rubies_11_14
@@ -21,7 +21,7 @@ The next step was finding a teammate. She messaged a few people and Prateksha se
 
 Together they embarked on the journey of becoming RGSoC 2018 scholars.
 
-![TeamRub](/img/blog/2018/2018-07-09-TeamRubies.jpeg)
+![TeamRub](/img/blog/2018/2018-07-30-TeamRubies.jpeg)
 <div class="image-credits"><b>Atibhi and Prateksha (Credit: Simran Dokania)</b></div>
 
 
@@ -53,7 +53,7 @@ They had found each other but now they had to find coaches. They found four awes
 They had chosen their project even before the list of official projects had been announced. They were thrilled when their primary choice "if-me" got selected for RGSoC'18.
 They could relate to "if-me" and wanted to contribute to the mental health community. Here is their first contact with Julia, their mentor way before the official list was announced.
 
-![FirstContact](/img/blog/2018/2018-07-09-TeamRubies-FirstContact.png)
+![FirstContact](/img/blog/2018/2018-07-30-TeamRubies-FirstContact.png)
 <div class="image-credits"><b>Our first mail to Julia!(Credit: Gmail-Atibhi)</b></div>
 
 After this, Julia added them to slack. The slack community was amazing. They had previously worked with Ruby on Rails and wanted to start with ReactJS components in if-me. If-me community helped them learn Javascript and then React. By February,they had submitted their first PR. Yes ! It was in React !
@@ -61,12 +61,12 @@ Apart from the community being so helpful, their mentor Julia had a unique ritua
 To know that their contributions were valuable motivated them further.
 Here is how the weekly shout-out looked like !
 
-![WeeklyShout-Out](/img/blog/2018/2018-07-09-TeamRubies-WeeklyShoutouts.png)
+![WeeklyShout-Out](/img/blog/2018/2018-07-30-TeamRubies-WeeklyShoutouts.png)
 <div class="image-credits"><b>Weekly Shout-Out (Credit: Slack-Julia)</b></div>
 
 Moreover, Julia mailed them if-me stickers and a handwritten card !
 
-![StickersCard](/img/blog/2018/2018-07-09-TeamRubies-StickersAndCard.jpeg)
+![StickersCard](/img/blog/2018/2018-07-30-TeamRubies-StickersAndCard.jpeg)
 <div class="image-credits"><b>Stickers and Card (Credit: Atibhi's Phone)</b></div>
 
 They had fallen in love with the community and were thankful to be a part of it. Being RGSoC scholars to work for "if-me" was just the cherry on top !
@@ -82,13 +82,13 @@ Soon it was the time for results! 17th April was finally here! Both of them were
 They thought that their first interview wasn't good enough and this was the final chance for them to redeem themselves.
 By 19th April they had gone through their proposal multiple times and brushed up their technical knowledge. The interview was scheduled to start at 9 PM and they sat nervously in front of their laptops at 8:30 PM. At 9 PM the interview started. Little did they know that this is what RGSoC meant by "interview".
 
-![HappyUs](/img/blog/2018/2018-07-09-TeamRubies-HappyUs.jpeg)
+![HappyUs](/img/blog/2018/2018-07-30-TeamRubies-HappyUs.jpeg)
 <div class="image-credits"><b>Accepted to RGSoC 2018!!(Credit: appear.in-Screenshot)</b></div>
 
 ... a dream that they had been chasing for over 4 months had finally come true. It was no interview, it was the final results. The RGSoC team told them via live call that they were selected.
 ### **The Team**
 
-![TheTeam](/img/blog/2018/2018-07-09-TeamRubies-TheTeam.jpeg)
+![TheTeam](/img/blog/2018/2018-07-30-TeamRubies-TheTeam.jpeg)
 <div class="image-credits"><b>The Team, Left to Right and Top to Bottom: Julia, Srishti, Camille, Prateksha, Atibhi, Aditya, Gaurav, Nishiki, Alvaro, Athitya, Raounaq (Credits: Slack - Julia, Srishti, Nishiki, Alvaro; GitHub - Camille, Athitya; Google Hangouts - Raounaq )</b></di
   v>
 
