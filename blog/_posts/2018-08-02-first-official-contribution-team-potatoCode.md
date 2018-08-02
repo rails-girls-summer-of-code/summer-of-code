@@ -1,14 +1,17 @@
 ---
 title: First Week Wrap Up! Team potatoCode
 layout: post
-created_at: Mon Jul 30 2018
-permalink: blog/2018-07-30-first-official-contribution-team-potatoCode
+created_at: Wed Aug 02 2018
+permalink: blog/2018-08-02-first-official-contribution-team-potatoCode
 current: blog
 author: Alina Leuca and Sabine van der Eijk
 twitter: alinaleuca
 categories:
 - student-posts
 ---
+
+![image](/img/blog/2018/2018-08-02-potatocode-team-alina-sabine.png)
+<div class="image-credits">Alina and Sabine (photo by Alina Leuca and Sabine van der Eijk)</div>
 
 We're well on our way to being a fully-functional team, finally! Today Sabine and I met for the first time to code together and get our wits about the project :) Being part-time comes with its perks, but also its drawbacks.
 
@@ -29,7 +32,7 @@ We completed our first little feature -- translation of the app into Dutch, and 
 
 This was a huge highlight of our week! It was Sabine's first time meeting Eden, and both of our first time meeting Jack. We got to know each other a bit, and it helps us feeling more comfortable with our coaches. We can only hope it makes the coaches more comfortable with us as well! We hope to do this again (maybe once a month?) during the program.
 
-![image](/img/blog/2018/2018-07-05-potatocode-team.jpg)
+![image](/img/blog/2018/2018-08-02-potatocode-team.jpg)
 <div class="image-credits">potatoCode team! (photo by Alina Leuca and Sabine van der Eijk)</div>
 
 
