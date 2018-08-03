@@ -82,6 +82,6 @@ A graduate from IIIT Allahabad, Saptak is a passionate open source contributor. 
 
 ### Say Cheese! 
 
-![Team $we init in one frame](/img/blog/2018/WeInit.jpg)
+![Team $we init in one frame](/img/blog/2018/2018-08-03-rgsoc-WeInit.jpg)
 <div class="image-credits"> Team $we init (Collage made by Akshita)</div>
 
