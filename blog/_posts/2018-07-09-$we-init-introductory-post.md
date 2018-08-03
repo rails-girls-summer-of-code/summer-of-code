@@ -1,8 +1,8 @@
 ---
 title: Team $we init - Dreams come true!
 layout: post
-created_at: Wed Jul 09 2018
-permalink: blog/2018-07-09-dreams-come-true-we-init
+created_at: Fri Aug 03 2018
+permalink: blog/2018-08-03-$we-init-introductory-post
 current: blog
 author: Rahmeen
 twitter: rahmeen_habib
