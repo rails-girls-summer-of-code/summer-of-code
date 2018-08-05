@@ -1,4 +1,16 @@
-﻿**DelSquared: Rails Girls Summer of Code 2018 and Us**
+﻿
+---
+ title: DelSquared: Rails Girls Summer of Code 2018 and Us
+ layout: post
+ created_at: Fri Jul 10 2018
+ permalink: blog/DelSquared_RGSoC_blogpost
+ current: blog
+ author: Arushi
+ twitter: arushi1803
+ categories:
+ - student-posts
+ ---
+ **DelSquared: Rails Girls Summer of Code 2018 and Us**
 **INTRODUCING THE DUO**
 **Arushi Chauhan**
 “Stochastic and predictable. Dreamer and doer. Paradox of certainty.”
@@ -32,4 +44,4 @@ A caffeine and Netflix addict, Siddharth calls himself a ‘ridiculously ridicul
 
 **THE TEAM**
 We form a great, happy go lucky team and having daily conversations on our Telegram group relieves us of the tiredness after a long day’s work. We sometimes check our phones to see 50 odd messages of pure randomness on the group and it is somehow never annoying. 
-We worked together during the application process and all the revisions and the reviews were really smooth. Since the commencement of the internship, Brihi and Shravika have been talking to us about Tessel and the resources we should take a look at. They also talk highly of Kelsey, our mentor, who by the way is an absolute delight. We have had just one call with her till now and have another one scheduled for tomorrow. We are yet to talk to our supervisor, Bhumika, but we have a call scheduled for the end of this week. A horribly timed commitment has impeded our full-fledged start into the internship. However, we aim to compensate for the time lost over the subsequent weeks. Thanks, Vaishali, for granting us this extension :) Finally, a huge shout out to the entire RGSoC team for this wonderful initiative. We are really thrilled to be a part of this extraordinary community. Looking forward to a great summer. Cheers!
+We worked together during the application process and all the revisions and the reviews were really smooth. Since the commencement of the internship, Brihi and Shravika have been talking to us about Tessel and the resources we should take a look at. They also talk highly of Kelsey, our mentor, who by the way is an absolute delight. We have had meetings with Kelsey and our supervisor Bhumika, and we are really thankful for their support and willingness to teach novices like us. A horribly timed commitment has impeded our full-fledged start into the internship. However, we aim to compensate for the time lost over the subsequent weeks. Finally, a huge shout out to the entire RGSoC team for this wonderful initiative. We are really thrilled to be a part of this extraordinary community. Looking forward to a great summer. Cheers!
