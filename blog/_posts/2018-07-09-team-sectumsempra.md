@@ -1,12 +1,13 @@
 ---
-**title:** We solemnly swear we’re upto no good!
-**layout:** post
-**created_at:** Mon Jul 09 2018
-**permalink:** blog/2018-07-09-team-sectumsempra
-**current:** blog
-**author:** Avneet Kaur
-**twitter:** TeamSectumsem18
-**categories:**  student-posts
+title: We solemnly swear we’re upto no good!
+layout: post
+created_at: Mon Jul 09 2018
+permalink: blog/2018-07-09-team-sectumsempra
+current: blog
+author: Avneet Kaur
+twitter: TeamSectumsem18
+categories:
+ - student-posts
 ---
 
 # "We solemnly swear we’re upto no good."
@@ -27,7 +28,7 @@ And hence began our official journey with RGSoC, and while currently working on 
  Footprints, is what we wish to leave behind. :D 
  
  ![Alt Text](https://github.com/avneet14027/images/blob/master/2018-07-09-team-sectumsempra-blog-teampic.jpeg)
-  <div class="image-credits">Source: Self</div>
+  <div class="image-credits">Source: Team Sectumsempra (Avneet's phone camera (Moto G4 Plus))</div>
 
 ## The scholars
 
