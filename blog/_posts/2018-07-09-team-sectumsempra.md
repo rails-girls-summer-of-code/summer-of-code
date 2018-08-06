@@ -28,7 +28,7 @@ And hence began our official journey with RGSoC, and while currently working on 
  Footprints, is what we wish to leave behind. :D 
  
  ![Alt Text](https://github.com/avneet14027/images/blob/master/2018-07-09-team-sectumsempra-blog-teampic.jpeg)
-  <div class="image-credits">Team Sectumsempra - Rupal (left) and Avneet(right) (source: Avneet's phone camera - Moto G4 Plus )</div>
+  <div class="image-credits">Team Sectumsempra - Rupal(left) and Avneet(right) (source: Avneet's phone camera - Moto G4 Plus)</div>
 
 ## The scholars
 
