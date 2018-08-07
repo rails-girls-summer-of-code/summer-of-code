@@ -1,16 +1,14 @@
 ---
-title: We solemnly swear we’re upto no good!
+title: We Solemnly Swear We’re Up To No Good!
 layout: post
-created_at: Mon Jul 09 2018
-permalink: blog/2018-07-09-team-sectumsempra
+created_at: Tue Aug 07 2018
+permalink: blog/2018-08-07-team-sectumsempra
 current: blog
 author: Avneet Kaur
 twitter: TeamSectumsem18
 categories:
  - student-posts
 ---
-
-# "We solemnly swear we’re upto no good."
 
 ## The Beginning: How delayed rewards brought us extra happiness!
 After a thorough application process, a long wait and an interview, we thought we might just be able to make it through, and were eagerly waiting for that one “Welcome to RGSoC” email. In time, an email popped up in our feed which, lured us into thinking we emerged victoriously,  but Alas! When the first round of scholars was announced, we were heart-broken that we didn't make the cut. However, the same email also stated that we were waitlisted candidates, giving us a glimmer of hope. With our fingers crossed, we wished for the best! Almost after another month long wait, we were no less than flabbergasted, when we saw an email from RGSoC, quietly sitting in our inbox, giving us the much awaited news - We were officially in! And we couldn’t contain our excitement thereafter!
@@ -20,15 +18,15 @@ This reminds us of the famous quote from the *Harry Potter series*,
 
 And hence began our official journey with RGSoC, and while currently working on our first task, all we wish for and would work towards is making an impact, and let our work speak for ourselves. We are reminded of a few lines, which we truly resonate with: 
  
->        “Lives of great men, all remind us,
->        That we can make our lives sublime,
->        And departing, leave behind, us, 
->        Footprints, on the sands of time”  
->                    - H.W. Longfellow 
- Footprints, is what we wish to leave behind. :D 
+> *“Lives of great men, all remind us,*<br>
+> *That we can make our lives sublime,*<br>
+> *And departing, leave behind, us,*<br>
+> *Footprints, on the sands of time” — H.W. Longfellow*
+
+Footprints, is what we wish to leave behind. :D 
  
- ![Alt Text](https://github.com/avneet14027/images/blob/master/2018-07-09-team-sectumsempra-blog.jpeg)
-  <div class="image-credits">Team Sectumsempra - Rupal(left) and Avneet(right) (source: Avneet's phone camera - Moto G4 Plus)</div>
+ ![Alt Text](/img/blog/2018/2018-08-07-team-sectumsempra-blog.jpeg)
+  <div class="image-credits">Team Sectumsempra - Rupal (left) and Avneet (right) (source: Avneet's phone camera - Moto G4 Plus)</div>
 
 ## The scholars
 
@@ -51,12 +49,12 @@ But this is just a way to pacify myself and keep dreaming with a head held high.
 ## Our Team
 We are grateful to all coaches and mentors for helping us during the application process.
 
-### Our mentor:
+### Our mentor
 [**Michael Ferguson**](https://github.com/mppf) and [**Ben Albrecht**](https://github.com/ben-albrecht):
 
 We are delighted to have them as our mentors for the project, and hope that under their able guidance, we can have a steep learning curve. 
 
-### Our Coaches:
+### Our Coaches
 We are grateful to them for agreeing to coach us, guide us, and help us grow and learn, as we embark upon this journey. Again, we are extremely thankful to him for all the mentoring at the time of applications.
 
  - [**Louis Jenkins**](https://louisjenkinscs.github.io/): He is a  recent Computer Science graduate from Bloomsburg interests and experience in the low-level areas such as compilers, operating systems, and the design and implementation of high-performance data structures. 
@@ -67,15 +65,16 @@ We are grateful to them for agreeing to coach us, guide us, and help us grow and
 - [**Kushal Singh**](https://in.linkedin.com/in/kushalsingh007): He is currently working as a platform engineer at Direct-I, India, and has previously been part of Google Summer Of Code. 
 - [**Lydia Duncan**](https://www.linkedin.com/in/lydia-duncan-010a7040/): She is currently  a Software Engineer at Cray Inc. and is passionate about programming languages and education
 
-### Our supervisor: 
+### Our supervisor
 - [**Nada Ashraf**](https://github.com/Nada1996) :
 Nada Ashraf has been a past participant in Rails Girls Summer of Code, and we are excited to have her on board as our supervisor.
 
-### Our Project:
+### Our Project
 We would be working on Chapel this summer, which is a parallel programming language. Our primary objective is to work on the Sorting module and writing a parallelised and efficient version of Radix Sort. Also,  we would be working on all other interesting tasks, which comes our way, which would help us to learn a lot overtime.
 
 ## Our goals for the summer 
-### Tinker, Code and Learn! Way to Go girls! 
+
+*Tinker, Code and Learn! Way to Go girls!*
 
 - **Grow as we learn**, and be proficient in Chapel and grasp the concepts of parallel programming. The idea is to make our foundation strong. We want to work towards strengthening our ability to comprehend code and contributing significantly to the project we are working on, so that we can be driven towards continuing our endeavours towards open source even after these 3 months are over.
 - Make it a point to ensure that each and every contribution to our project matter.
@@ -90,9 +89,9 @@ We would be working on Chapel this summer, which is a parallel programming langu
  
  > *"I've always wanted to use that spell." ― Minerva McGonagall, Harry Potter and the Deathly Hallows* 
    
-![Alt Text](https://github.com/avneet14027/images/blob/master/2018-07-09-teamsectumsempra-blog-gif.gif)
+![Alt Text](/img/blog/2018/2018-08-07-teamsectumsempra-blog.gif)
 <div class="image-credits">Source: assets.teanvogue.com</div>
 
-**Looking forward to a funfilled summer,**
+**Looking forward to a fun-filled summer,**
 
 **Team Sectumsempra**
