@@ -1,8 +1,8 @@
 ---
 title: DelSquared-Rails Girls Summer of Code 2018 and Us
 layout: post
-created_at: Fri Jul 10 2018
-permalink: blog/DelSquared_RGSoC_blogpost
+created_at: Fri Aug 10 2018
+permalink: blog/2018-08-10-DelSquared_RGSoC_blogpost
 current: blog
 author: Arushi
 twitter: arushi1803
