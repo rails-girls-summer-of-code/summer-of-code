@@ -11,7 +11,7 @@ categories:
 ---
 ## DelSquared: Rails Girls Summer of Code 2018 and Us
 
-**INTRODUCING THE DUO**
+### INTRODUCING THE DUO
 
 **Arushi Chauhan**
 
@@ -24,7 +24,7 @@ The above nine words describe me succinctly. I am a third year undergraduate stu
 I’m always exploring things I collide with, which is probably the reason for my diverging set of interests. I’m equally passionate about hardware programming, robotics, AI as well as social theories on human technology interaction. I’m a voracious reader, thanks to constant encouragement from my parents and grandfather. I also love to travel, write or indulge myself in a game of chess whenever time permits. I am research oriented and I aim to dive into domains that lie at an intersection of my interests and skill set.
 
 
-**WHAT MADE US CLICK??**
+**What made us click?**
 
 “It was our shared love for rubber bands and capsicums that brought us together.”<br>
 Jokes aside (making good jokes is another skill we are not-so-good at), our decision to form a team was rather a quick one, because we were having our mid semester exams at that time and were quite busy. Since we are both robotics buffs, Tessel piqued our interest, and as Shravika and Brihi had already worked on it the previous summer, it seemed the perfect choice. Living in facing rooms in hostel and sharing the same study group in the first year of college meant we were close enough to tolerate each other’s idiosyncrasies :p
@@ -33,19 +33,19 @@ Filling the application took a lot of painstaking effort and several sleepless n
 
 ## OUR COACHES
 
-**Brihi Joshi and Shravika Mittal  (also Team 276 Lines of Code [2017])**
+### Brihi Joshi and Shravika Mittal  (also Team 276 Lines of Code [2017])
 
 They are our batchmates at our institute and our inspiration for taking on Tessel as our project. Brihi also went to the same school as mine (Sharmistha), while Shravika and I (Arushi) studied in the same school since third grade which explains the camaraderie we share. They have wonderfully supported us, and patiently cleared the silliest of our doubts. We even have plans of working together on the Tessel board over a mini hackathon, as and when time permits.
 Brihi can generally be seen in the library with her laptop, working, and is usually sleep deprived. She works really hard and is a motivation for a lot of young women techies. 
 Shravika is more on the quieter side but she’s a diligent worker herself. She has a serene aura around her and it feels great to talk to her.
 
 
-**Ambar Pal**
+### Ambar Pal
 
 The craziest of the lot, after Sharmistha maybe :P, Ambar is our senior here at our institute and is graduating this year. He is an amazing comic relief under stressful situations. He was of immense help during the application. His hilarious side was heightened during the anxiety that came along with our desperate efforts to submit our application 15 minutes before the first deadline :P He is a great thinker (when he’s not lost) and a programmer, and we hope to seek help from him while approaching a task requiring extensive planning before the actual implementation. He also promised to sing for us in his ‘beautiful’ voice if we got through. We hope he fulfills this responsibility as our coach soon :)
 
 
-**Siddharth Yadav**
+### Siddharth Yadav
 
 A caffeine and Netflix addict, Siddharth calls himself a ‘ridiculously ridiculous geeky geek’. He is our batchmate at our institute. He is either seen spending sleepless nights watching TV shows or sleepless nights coding. He’s a GSoCer 2017. He’s one of those people who would get to a problem and somehow always find a fix to it. I (Sharmistha) worked on a project with him wherein we were to build a prototype of a self driving car. Nothing was working till a night before the presentation but Siddharth pulled an all-nighter and somehow got everything in a working condition. It is an absolute inspiration to work with him and since he’s a hardware buff too, we hope to annoy him whenever we get stuck on something.
 
