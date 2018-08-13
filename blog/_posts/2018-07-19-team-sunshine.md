@@ -2,7 +2,7 @@
 title: Team ☀️ 'Sunshine' on RGSoC 2018!
 layout: post
 created_at: Thu Jul 19 2018
-permalink: blog/2018-07-19-team-sunshine.md
+permalink: blog/2018-07-19-team-sunshine
 current: blog
 author: Sujin Lee
 twitter: sujinleeme
@@ -11,7 +11,7 @@ categories:
 ---
 
 # Who we are
-<img src="/img/blog/2018/2018-07-19-team-sunshine.jpg" alt="team sunshine photo"/>
+![team sunshine photo](/img/blog/2018/2018-07-19-team-sunshine.jpg "team sunshine photo")
 
 안녕하세요(annyeonghaseyo)! We are Sujin and Gyujin from 'Sunshine' team in Seoul, S.Korea. We are working for [Babel.js](https://babeljs.io/), an Open Source JavaScript Transpiler that converts cutting-edge JavaScript into plain old ES5 JavaScript that can run in any browser. 
 
@@ -51,9 +51,7 @@ Babel is an open-sourced JavaScript compiler that leader companies like Facebook
 
 In Bable offical website, there is [Babel REPL](https://babeljs.io/repl/), a playground for ES6; where user can write ES6 code, check the relevant code in ES5; and also the output. 
 
-<center>
-<img src="http://2ality.com/2015/08/getting-started-es6/babel-repl.png"/>
-</center>
+![babel repl](http://2ality.com/2015/08/getting-started-es6/babel-repl.png "babel repl")
 
 Currently, the [Babel core team](https://babeljs.io/team) is going to replace CodeMirror to [Ives'](https://twitter.com/CompuIves) [CodeSandBox](https://codesandbox.io/), the new code online editor. An end goal is to show a different view of the output code: [AST](https://astexplorer.net/), output code, or [time travel](https://github.com/babel/babel-time-travel). We have just started to work for integration time travel in REPL and are going to contribute for UI development with help of our mentors and coaches.
 
@@ -69,7 +67,7 @@ We have regular meeting with all members. Our team has 6 different time zones; S
 
 ## Meet shining our supervisor, mentors, and coaches!
 
-<img src="/img/blog/2018/2018-07-19-team-sunshine-group-call" alt="team sunshine with supervisor, coaches and mentors photo"/>
+![team sunshine with supervisor, coaches and mentors photo](/img/blog/2018/2018-07-19-team-sunshine-group-call.jpg)
 
 We are honored to have the opportunity to join open source community and collaboration with the experts. We are pleased to introduce our supervisor, mentors, and coaches!
 
