@@ -12,10 +12,8 @@ categories:
 
 # Who we are
 
-<center>
-<img alt="team sunshine photo" src="https://sujinlee.me/content/images/2018/07/coding_rgsoc.jpg" width="100%" align="middle"/>
+![team sunshine photo](/img/blog/2018/2018-07-19-team-sunshine.jpg "team sunshine photo")
 <div class="image-credits"><b>Team Sunshine: Sujin Lee & Gyujin Cho (image by Sujin Lee)</b></div>  
-</center>
 
 안녕하세요(annyeonghaseyo)! We are Sujin and Gyujin from 'Sunshine' team in Seoul, S.Korea. We are working for [Babel.js](https://babeljs.io/), an Open Source JavaScript Transpiler that converts cutting-edge JavaScript into plain old ES5 JavaScript that can run in any browser. 
 
@@ -81,7 +79,7 @@ We have regular meeting with all members. Our team has 6 different time zones; S
 ## Meet shining our supervisor, mentors, and coaches!
 
 <center>
-<img alt="team sunshine with supervisor, coaches and mentors photo" src="https://sujinlee.me/content/images/2018/08/repl-example.png" width="80%" align="middle"/>
+<img alt="team sunshine with supervisor, coaches and mentors photo" src="https://sujinlee.me/content/images/2018/07/team-sunshine_first-week-calls.jpg" width="80%" align="middle"/>
 <div class="image-credits"><b>Team Sunshine Collage (image by Ana Sofia Pinho)</b></div>  
 </center>
 
