@@ -12,9 +12,10 @@ categories: student-posts
 
 ## Starting a new adventure with RgSoC and Living Style Guide from coding newbies to professional front-end developers in 11 months.
 
+![image](https://pbs.twimg.com/media/DiX7VAYX4AEMD2v.jpg)
+
 ### Better Together
 November 2017, we started as complete coding newbies, with as little coding knowledge as HTML can be. JavaScript, the word alone, felt like a entire new universe. We can’t even believe how much we have learned in the past 8 months! Coming from a non technical background and being able to code in so little time has been quite a journey. Yet, it made us realize we have definitely unknown abilities and a real passion for programming.
-
 
 We started with a selected group of 20.000 out of 200.000 applications in Europe, Africa and Middle East region. Earning a full Google Scholarship for Front End Web Developer at Udacity was the fruit of this three months of dedication, hard work, discipline, cooperation with peers coders and taking actively part in a huge social community, in order to stand out and win our spot in the top 2.000 students (out of 20.000). We are now about to finish the last part: React.
 
@@ -31,7 +32,7 @@ Skyping with Tobias and Tetiana, gave us the confidence they would have our back
 
 The third RgSoc-coach to join, we met during a recently peer lab, that Violeta organized for Woman Who Code. We really liked her spirits and clarity so just a week before starting the SoC we invited her to be part of it. 
 
-*Coach 4: Bright (software engineer)*
+*Coach 4: Bright (React mobile developer)*
 
 Bright was introduced to us by Sujin from Team Sunshine when we needed help solving our project's issues. He is very experienced with JavaScript and will be helping us during the summer too! 
 
