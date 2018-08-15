@@ -11,7 +11,11 @@ categories:
 ---
 
 # Who we are
-![team sunshine photo](/img/blog/2018/2018-07-19-team-sunshine.jpg "team sunshine photo")
+
+<center>
+<img alt="team sunshine photo" src="https://sujinlee.me/content/images/2018/07/coding_rgsoc.jpg" width="100%" align="middle"/>
+<div class="image-credits"><b>Team Sunshine: Sujin Lee & Gyujin Cho (image by Sujin Lee)</b></div>  
+</center>
 
 안녕하세요(annyeonghaseyo)! We are Sujin and Gyujin from 'Sunshine' team in Seoul, S.Korea. We are working for [Babel.js](https://babeljs.io/), an Open Source JavaScript Transpiler that converts cutting-edge JavaScript into plain old ES5 JavaScript that can run in any browser. 
 
@@ -45,15 +49,24 @@ Two weeks later, Ana and Vaishali requested a second round interview because the
 
 <center>
 <img alt="label logo" src="https://cdn-images-1.medium.com/max/1600/1*XmHUL5DeySv_dGmvbPqdDQ.png" width="50%" align="middle"/>
+<div class="image-credits"><b>Babel official logo (image by babel.js)</b></div>  
 </center>
 
 Babel is an open-sourced JavaScript compiler that leader companies like Facebook, Netflix, and Spotify and countless others adopt to ship software for the web. Babel not only allows developers to use the latest syntax in older browsers, but even has its role in shaping the future of the language itself due to its adoption in the community. The SPA frameworks like Angular, React, Vue, Ember also use Babel. It's downloaded more than 14 million times a month on npm. Isn't it amazing? ✨
 
 In Bable offical website, there is [Babel REPL](https://babeljs.io/repl/), a playground for ES6; where user can write ES6 code, check the relevant code in ES5; and also the output. 
 
-![babel repl](http://2ality.com/2015/08/getting-started-es6/babel-repl.png "babel repl")
+<center>
+<img alt="babel repl" src="https://sujinlee.me/content/images/2018/08/repl-example.png" width="80%" align="middle"/>
+<div class="image-credits"><b>Repl - Babel website (image by Sujin Lee)</b></div>  
+</center>
 
 Currently, the [Babel core team](https://babeljs.io/team) is going to replace CodeMirror to [Ives'](https://twitter.com/CompuIves) [CodeSandBox](https://codesandbox.io/), the new code online editor. An end goal is to show a different view of the output code: [AST](https://astexplorer.net/), output code, or [time travel](https://github.com/babel/babel-time-travel). We have just started to work for integration time travel in REPL and are going to contribute for UI development with help of our mentors and coaches.
+
+<center>
+<img alt="babel join" src="https://sujinlee.me/content/images/2018/07/Screen-Shot-2018-07-17-at-11.06.38-PM.png" width="80%" align="middle"/>
+<div class="image-credits"><b>Join babel team in GitHub (image by Sujin Lee)</b></div>  
+</center>
 
 ## How we work
 We are part-time sponsored team and we meet from 6pm to 10pm at [PeachTree](https://www.coworker.com/south-korea/seoul/peachtree), a co-working space that supports startups via its networks, spaces, amenities and various programs. The name 'PeachTree' comes from the tale of 'Romance of the Three Kingdoms'. Just like how Yubi, Gwanwoo and Jangbi pleged their brotherhood under the peach tree. We hope to cooperate in harmony each other in its space under the peach tree.
@@ -67,7 +80,10 @@ We have regular meeting with all members. Our team has 6 different time zones; S
 
 ## Meet shining our supervisor, mentors, and coaches!
 
-![team sunshine with supervisor, coaches and mentors photo](/img/blog/2018/2018-07-19-team-sunshine-group-call.jpg)
+<center>
+<img alt="team sunshine with supervisor, coaches and mentors photo" src="https://sujinlee.me/content/images/2018/08/repl-example.png" width="80%" align="middle"/>
+<div class="image-credits"><b>Team Sunshine Collage (image by Ana Sofia Pinho)</b></div>  
+</center>
 
 We are honored to have the opportunity to join open source community and collaboration with the experts. We are pleased to introduce our supervisor, mentors, and coaches!
 
