@@ -1,12 +1,13 @@
 ---
 title: New Tech Journey With RGSoC!
-layout:post
-created_at:Fri Jul 13 2018
+layout: post
+created_at: Fri Jul 13 2018
 permalink: blog/2018-07-13-team-akaringular
 current: blog
-author:Rachael Kiteme
-twitter:rachaelkiteme
-categories: student-posts
+author: Rachael Kiteme
+twitter: rachaelkiteme
+categories:
+- student-posts
 ---
 
 
