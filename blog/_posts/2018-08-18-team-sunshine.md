@@ -2,7 +2,7 @@
 title: Team ☀️ 'Sunshine' on RGSoC 2018!
 layout: post
 created_at: Thu Jul 19 2018
-permalink: blog/2018-07-19-team-sunshine
+permalink: blog/2018-08-18-team-sunshine
 current: blog
 author: Sujin Lee
 twitter: sujinleeme
