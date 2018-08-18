@@ -9,7 +9,6 @@ twitter: arushi1803
 categories:
  - student-posts
 ---
-## DelSquared: Rails Girls Summer of Code 2018 and Us
 
 ### INTRODUCING THE DUO
 
