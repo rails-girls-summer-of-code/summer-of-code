@@ -89,17 +89,21 @@ A huge **thank you** to all conferences who supported our students and provided 
 
 <section class="conferences-container">
 
-  {% for conference in data.conferences %}
+  {% for conference in site.data.conferences %}
     <div class="conference-item">
       <p class="conference-logo">
         <a href="{{conference.url}}">
         <img src="{{conference.img}}"></a>
       </p>
       <p class="conference-text">
-        <b><a href="{{conference.url}}">JSFoo</a></b> <br>
-        <b>Date: </b>{{conference.date}} <br>
+        <b><a href="{{conference.url}}">{{conference.name}}</a></b> <br>
+        {% for date in conference.dates %}
+          <b>Date: </b>{{date}} <br>
+        {% endfor %}
         <b>Location: </b>{{conference.location}} <br>
-        <b>Twitter: </b><a href="{{conference.twitter_url}}">@{{conference.twitter_name}}</a>
+        {% if conference.twitter_url %}
+          <b>Twitter: </b><a href="{{conference.twitter_url}}">@{{conference.twitter_name}}</a>
+        {% endif %}
       </p>
     </div>
   {% endfor %}
