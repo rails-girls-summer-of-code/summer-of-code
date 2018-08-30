@@ -9,7 +9,7 @@ twitter: artnerdnet
 categories: student-posts
 ---
 ## Starting a new adventure with RgSoC and Living Style Guide from coding newbies to professional front-end developers in 11 months.
-![Starting the summer](https://pbs.twimg.com/media/DiX7VAYX4AEMD2v.jpg)
+![Starting the summer](http://artnerd.net/images/7452ee6d-ba5c-41b9-8590-dc45c930b256.jpg)
 
 ### Better Together
 November 2017, we started as complete coding newbies, with as little coding knowledge as HTML can be. JavaScript, the word alone, felt like a entire new universe. We can’t even believe how much we have learned in the past 8 months! Coming from a non technical background and being able to code in so little time has been quite a journey. Yet, it made us realize we have definitely unknown abilities and a real passion for programming.
