@@ -89,154 +89,19 @@ A huge **thank you** to all conferences who supported our students and provided 
 
 <section class="conferences-container">
 
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="https://jsfoo.in/2017/">
-      <img src="/img/blog/2017/conferences/jsfoo-logo.png"></a>
-    </p>
-    <p class="conference-text">
-      <b><a href="https://jsfoo.in/2017/">JSFoo</a></b> <br>
-      <b>Date: </b>September 15-16, 2017 <br>
-      <b>Location: </b>Bangalore, India <br>
-      <b>Twitter: </b><a href="https://twitter.com/jsfoo">@jsfoo</a>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="https://gotocph.com/">
-        <img src="/img/blog/2017/conferences/goto-cph-logo.png">
-      </a>
-    </p>
-    <p class="conference-text">
-      <b><a href="https://gotocph.com/">GoTo Copenhagen</a></b> <br>
-      <b>Date: </b>October 1-3, 2017 <br>
-      <b>Location: </b> Copenhagen, Denmark <br>
-      <b>Twitter: </b><a href="https://twitter.com/GOTOcph">@GOTOcph</a>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="http://berlin2017.codemotionworld.com/">
-      <img src="/img/blog/2017/conferences/codemoberlin-logo.png"></a>
-    </p>
-    <p class="conference-text">
-      <b><a href="http://berlin2017.codemotionworld.com/">Codemotion Berlin</a></b> <br>
-      <b>Date: </b>October 12-13, 2017 <br>
-      <b>Location: </b>Berlin, Germany <br>
-      <b>Twitter: </b><a href="https://twitter.com/codemoberlin">@codemoberlin</a>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="http://events.linuxfoundation.org/events/open-source-summit-europe">
-      <img src="/img/blog/2017/conferences/ossummit-logo.png"></a>
-    </p>
-    <p class="conference-text">
-      <b><a href="http://events.linuxfoundation.org/events/open-source-summit-europe">Open Source Summit Europe</a></b> <br>
-      <b>Date: </b>October 23-26, 2017 <br>
-      <b>Location: </b>Prague, Czech Republic <br>
-      <b>Twitter: </b><a href="https://twitter.com/eventsLF">@eventsLF</a>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="http://www.devday.lk/">
-      <img src="/img/blog/2017/conferences/devday-logo.png"></a>
-    </p>
-    <p class="conference-text">
-      <b><a href="http://www.devday.lk/">Dev Day</a></b> <br>
-      <b>Date: </b>November 9, 2017 <br>
-      <b>Location: </b>Colombo, Sri Lanka <br>
-      <b>Twitter: </b><a href="https://twitter.com/devdaysl">@devdaysl</a>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="https://gotober.com/">
-      <img src="/img/blog/2017/conferences/goto-berlin-logo.png"></a>
-    </p>
-    <p class="conference-text">
-      <b><a href="https://gotober.com/">GoTo Berlin</a></b> <br>
-      <b>Date: </b>November 16-17, 2017 <br>
-      <b>Location: </b>Berlin, Germany <br>
-      <b>Twitter: </b><a href="https://twitter.com/gotober">@gotober</a>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/#inscrevase?utm_campaign=Evento&utm_source=Blog&utm_medium=own&utm_content=RailGirls+">
-      <img src="/img/blog/2017/conferences/rubyconf-br-logo.png"></a>
-    </p>
-    <p class="conference-text">
-      <b><a href="http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/#inscrevase?utm_campaign=Evento&utm_source=Blog&utm_medium=own&utm_content=RailGirls+">RubyConf Brazil</a></b> <br>
-      <b>Date: </b>November 17-18, 2017 <br>
-      <b>Location: </b>São Paulo, Brazil <br>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="https://www.dotconferences.com/">
-      <img src="/img/blog/2017/conferences/dotconf-logo.png"></a>
-    </p>
-    <p class="conference-text">
-      <b><a href="https://www.dotconferences.com/">dotConferences</a></b> <br>
-      <b>DotGo date: </b>November 6, 2017 <br>
-      <b>DotCSS date: </b>November 30, 2017 <br>
-      <b>DotJS date: </b>December 1, 2017 <br>
-      <b>DotSwift date: </b>January 29, 2018 <br>
-      <b>DotAI date: </b>May 31, 2018 <br>
-      <b>DotScale date: </b>June 1, 2018 <br>
-      <b>DotSecurity date: </b>TBA <br>
-      <b>Location: </b>Paris, France <br>
-      <b>Twitter: </b><a href="https://twitter.com/dotconferences">@dotconferences</a>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="http://rubyconfindia.org/">
-      <img src="/img/blog/2017/conferences/rubyconf-india-logo.png"></a>
-    </p>
-    <p class="conference-text">
-      <b><a href="http://rubyconfindia.org/">RubyConf India</a></b> <br>
-      <b>Date: </b>February 9-10, 2018 <br>
-      <b>Location: </b>Bangalore, India <br>
-      <b>Twitter: </b><a href="https://twitter.com/RubyConfIndia">@RubyConfIndia</a>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="https://rubyconf.org.au/2018">
-        <img src="/img/blog/2017/conferences/rubyconf-au-logo.png">
-      </a>
-    </p>
-    <p class="conference-text">
-      <b><a href="https://rubyconf.org.au/2018">RubyConf Australia</a></b> <br>
-      <b>Date: </b>March 8-9, 2018 <br>
-      <b>Location: </b>Sydney, Australia <br>
-      <b>Twitter: </b> <a href="https://twitter.com/rubyconf_au">@rubyconf_au</a>
-    </p>
-  </div>
-
-  <div class="conference-item">
-    <p class="conference-logo">
-      <a href="http://codelandconf.com/">
-        <img src="/img/blog/2017/conferences/codeland-logo.png">
-      </a>
-    </p>
-    <p class="conference-text">
-      <b><a href="http://codelandconf.com/">Codeland</a></b> <br>
-      <b>Date: </b>May 4-5, 2018 <br>
-      <b>Location: </b>New York, US
-    </p>
-  </div>
+  {% for conference in data.conferences %}
+    <div class="conference-item">
+      <p class="conference-logo">
+        <a href="{{conference.url}}">
+        <img src="{{conference.img}}"></a>
+      </p>
+      <p class="conference-text">
+        <b><a href="{{conference.url}}">JSFoo</a></b> <br>
+        <b>Date: </b>{{conference.date}} <br>
+        <b>Location: </b>{{conference.location}} <br>
+        <b>Twitter: </b><a href="{{conference.twitter_url}}">@{{conference.twitter_name}}</a>
+      </p>
+    </div>
+  {% endfor %}
 
 </section>
