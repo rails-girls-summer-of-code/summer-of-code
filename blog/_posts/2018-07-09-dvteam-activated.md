@@ -9,8 +9,7 @@ twitter: artnerdnet
 categories: student-posts
 ---
 ## Starting a new adventure with RgSoC and Living Style Guide from coding newbies to professional front-end developers in 11 months.
-![media-credit name="Artnerdnet"]<![media-credit name="Artnerdnet"]<https://pbs.twimg.com/media/DiX7VAYX4AEMD2v.jpg/>[/media-credit]
->[/media-credit]
+![Starting the summer](https://pbs.twimg.com/media/DiX7VAYX4AEMD2v.jpg)
 
 ### Better Together
 November 2017, we started as complete coding newbies, with as little coding knowledge as HTML can be. JavaScript, the word alone, felt like a entire new universe. We can’t even believe how much we have learned in the past 8 months! Coming from a non technical background and being able to code in so little time has been quite a journey. Yet, it made us realize we have definitely unknown abilities and a real passion for programming.
@@ -74,4 +73,4 @@ Follow us on
 [Bright](https://github.com/benevbright)
 
 ### For a great summer!
-![media-credit name="Artnerdnet"]<https://pbs.twimg.com/media/DiX7VAYX4AEMD2v.jpg/>[/media-credit]
+![Better together](https://pbs.twimg.com/media/DiX7VAYX4AEMD2v.jpg)
