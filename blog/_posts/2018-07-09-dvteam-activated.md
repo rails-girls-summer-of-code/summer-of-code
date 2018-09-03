@@ -10,6 +10,7 @@ categories: student-posts
 ---
 ## Starting a new adventure with RgSoC and Living Style Guide from coding newbies to professional front-end developers in 11 months.
 ![Starting the summer](http://artnerd.net/images/7452ee6d-ba5c-41b9-8590-dc45c930b256.jpg)
+<div class="image-credits"><b>Preparing ourselves before the summer begins (image by Diana Vilé)</b></div>
 
 ### Better Together
 November 2017, we started as complete coding newbies, with as little coding knowledge as HTML can be. JavaScript, the word alone, felt like a entire new universe. We can’t even believe how much we have learned in the past 8 months! Coming from a non technical background and being able to code in so little time has been quite a journey. Yet, it made us realize we have definitely unknown abilities and a real passion for programming.
@@ -31,6 +32,8 @@ The third RgSoc-coach to join, we met during a recently peer lab, that Violeta o
 
 *Coach 4: Bright (React mobile developer)*
 Bright was introduced to us by Sujin from Team Sunshine when we needed help solving our project's issues. He is very experienced with JavaScript and will be helping us during the summer too! He is based in Berlin, Germany.
+
+*Coach 5: Tetiana is a Ruby developer and we needed some extra hands on JavaScript, so she introduced as to Bogdan! He is a JavaScript developer based in Kharkiv, Ukraine. He will be helping us close the issues before the summer ends.
 
 We consider ourselves very lucky! As not only do we have gathered a great team of mentors, but also an interesting supervisor Lucas Pinto who has even organized Ruby conferences! 
 
@@ -71,6 +74,8 @@ Follow us on
 [Tetiana](https://github.com/brytannia)
 [Cristina](https://github.com/cristinaverdi)
 [Bright](https://github.com/benevbright)
+[Bogdan](https://github.com/thujone25)
 
 ### For a great summer!
 ![Better together](https://pbs.twimg.com/media/DiX7VAYX4AEMD2v.jpg)
+<div class="image-credits"><b>Pair programming day (image by Violeta)</b></div>
