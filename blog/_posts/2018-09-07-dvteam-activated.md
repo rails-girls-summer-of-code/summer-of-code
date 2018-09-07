@@ -1,19 +1,20 @@
 ---
 title: DV Team Activated!
 layout: post
-created_at: Mon Jul 09 2018
-permalink: blog/2018-07-09-dvteam-activated
+created_at: Fri Sep 7 2018
+permalink: blog/2018-09-07-dvteam-activated
 current: blog
 author: Violeta
 twitter: artnerdnet
 categories: student-posts
 ---
-## Starting a new adventure with RgSoC and Living Style Guide from coding newbies to professional front-end developers in 11 months.
-![Starting the summer](http://artnerd.net/images/7452ee6d-ba5c-41b9-8590-dc45c930b256.jpg)
+### Starting a new adventure with RgSoC and Living Style Guide from coding newbies to professional front-end developers in 11 months.
+![Starting the summer](/img/blog/2018/2018-09-07-rgsoc-dv-team-activated-01.jpg)
 <div class="image-credits"><b>Preparing ourselves before the summer begins (image by Diana Vilé)</b></div>
 
 ### Better Together
 November 2017, we started as complete coding newbies, with as little coding knowledge as HTML can be. JavaScript, the word alone, felt like a entire new universe. We can’t even believe how much we have learned in the past 8 months! Coming from a non technical background and being able to code in so little time has been quite a journey. Yet, it made us realize we have definitely unknown abilities and a real passion for programming.
+
 We started with a selected group of 20.000 out of 200.000 applications in Europe, Africa and Middle East region. Earning a full Google Scholarship for Front End Web Developer at Udacity was the fruit of this three months of dedication, hard work, discipline, cooperation with peers coders and taking actively part in a huge social community, in order to stand out and win our spot in the top 2.000 students (out of 20.000). We are now about to finish the last part: React.
 
 ### RgSoC Coaches & Supervisor
@@ -70,12 +71,12 @@ Follow us on
 
 
 ##### Coaches
-[Tobi](https://github.com/tobmaster)
-[Tetiana](https://github.com/brytannia)
-[Cristina](https://github.com/cristinaverdi)
-[Bright](https://github.com/benevbright)
+[Tobi](https://github.com/tobmaster)   
+[Tetiana](https://github.com/brytannia)   
+[Cristina](https://github.com/cristinaverdi)   
+[Bright](https://github.com/benevbright)   
 [Bogdan](https://github.com/thujone25)
 
 ### For a great summer!
-![Better together](https://pbs.twimg.com/media/DiX7VAYX4AEMD2v.jpg)
+![Better together](/img/blog/2018/2018-09-07-rgsoc-dv-team-activated-02.jpg)
 <div class="image-credits"><b>Pair programming day (image by Violeta)</b></div>
