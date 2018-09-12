@@ -80,7 +80,7 @@ I am also inspired by all our coaches, mentors, supervisors and the RGSoC organi
 Arati & Jessica AKA Team Popcorn
 
 
-![Team Popcorn](/img/blog/2018/team-popcorn.gif)
+![Team Popcorn](/img/blog/2018/rgsoc-2018-17-09-team-popcorn.gif)
 <div class="image-credits"><em>Photo credit: Team Popcorn</em></div>
 
 
