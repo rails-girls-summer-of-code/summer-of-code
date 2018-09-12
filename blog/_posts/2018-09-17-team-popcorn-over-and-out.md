@@ -10,7 +10,11 @@ categories:
 - student-posts
 ---
 
-**:dizzy: Team Popcorn's highlights of the summer of code**
+# :wave: Team Popcorn says Tschüss
+![Popcorn](/img/blog/2018/rgsoc-2018-09-17-popcorn.jpg)
+<div class="image-credits"><em>Photo credit: [illustratedbites](https://illustratedbites.wordpress.com/)</em></div>
+
+## :dizzy: Team Popcorn's top 8 highlights of the summer of code
 
 - coding in person with App Maintainer, 
 - Docker workshop with coach Victor
@@ -23,7 +27,8 @@ categories:
 
 ***
 
-**:wave: Team Popcorn says Tschüss**
+## 🎶 Finding our Rhythem and getting Agile
+
 Team Popcorn was committed from the start to creating a work environment which allowed both Arati and myself to maximise our personal growth and enjoyment of the summer. We held weekly meetings on Monday which we ran in an Agile format to refractor our work flow and analyse how we could improve our productivity but also our experience and allow for personal growth alongside contributing meaningful work to the project. 
 
 One thing we found was that by splitting tasks up into manageable and clear goals we felt a lot more satisfaction having this clear direction and less frustration with our work. At first we started working on our own fork of the project but we quickly moved over to our own branches in the master repository so we could keep our work closer to the master branch. We then refracted further and created issues and made branches for smaller parts of code so we could make more regular PRs.
@@ -32,10 +37,10 @@ We also had to address that we both work differently, have different knowledge a
 
 As the RGSoC is about learning the skills for working in the tech industry we also set up knowledge share sessions with some of our coaches to gain more knowledge on topics ranging from Docker to BEM and CSS structuring. We will also be running a few more before the end of the programme.
 
-
 ***
 
-**:popcorn: Team Popcorn's update titles**
+## :popcorn: Team Popcorn's update titles
+
 For our daily updates we decided to create a format for our titles and turn them into Popcorn flavours, we asked our coaches, mentor, family and well whoever was around to give us three things. The base of our question was a food, a colour and a adjective but we changed it around a little each week :smile:
 
 Here are our top 6 flavours :yum:
@@ -47,11 +52,16 @@ Here are our top 6 flavours :yum:
 - Lime Green Glamorous Praline Pecan Popcorn
 - Thankful #0082C9 Kumquat Popcorn
 
-**Arati**
+***
+
+## :mortar_board: Arati
+
 On this September day, with no distance from the program to provide perspective, I can safely say that the summer of 2018 is going to have repercussions on my work and life for years to come. Though I may not be able to articulate all the changes I have gone through, the degree to which I have been challenged is undeniable. One of the greatest benefits I have observed so far is that RGSOC has helped me become familiar with unfamiliarity. The constant exposure to novelty we have had this summer has proved to me in a clearer way than ever before that the strangeness or discomfort of a new beginning doesn’t last. I can much more easily see past my comfort zone to the day when it turns into a skill or an insight that I get to call mine.
 
+*** 
 
-**:books: Team Popcorn's top resources**
+## :books: Team Popcorn's top resources
+
 - [ohshitgit](http://ohshitgit.com/) *(Helpful git commands)*
 - [Vue-multiselect](https://vue-multiselect.js.org/) *(Multiselect component for Vue framework)*
 - [Bem 101 ](https://css-tricks.com/bem-101/) *(Article about CSS Bem (CSS structuring))*
@@ -59,26 +69,34 @@ On this September day, with no distance from the program to provide perspective,
 - [Code Complete](https://en.wikipedia.org/wiki/Code_Complete) *(book given by coach Lora)*
 - [Dev.to](https://dev.to/) *(blog about software development/watercooler)*
 
+***
 
-**Jessica**
+## :mortar_board: Jessica
+
 I have certainly learnt a lot about programming and contributing to Open Source during the summer, however what was perhaps less expected is that I have also learnt a lot about work flows and team work. Our weekly agile meetings and talking with team mate Arati about how we could streamline our workflow gave me a lot of insight to how this may work in a future work position. Something else that was new to me was working in an office environment, both my previous jobs were more physical and in varying work spaces. I have really enjoyed working at our coaching company ABSOLVENTA’s office and I am incredibly thankful to them for providing us not only with computers and workspaces but also a safe friendly environment to work in.
 
 During the summer of code I was successful in finding a position as a software developer at Ecosia (the search engine that plants trees). I am so happy to be able to continue my journey and thankful to the RGSoC which has helped me so much prepare for this next step.
 
 I am also inspired by all our coaches, mentors, supervisors and the RGSoC organisers to give back to the community. I am already actively involved in the local chapter of PyLadies and as part of my new position will be able to take time to lead community activities. I hope to be able to participate in future RGSoC as a coach or supervisor and support others on their journey into tech!
 
-**:mortar_board: Thanks**
-- Absolventa
-- All coaches
-- All mentors
-- Nextcloud community
-- Bart
-- Friends and family for understanding and support during some challenging times
-- Arati's work for the flexibility in schedule to be able to work and participate in RGSOC at the same time
-- RGSOC and broader community for giving us this opportunity
+***
+
+## :clap: Thanks
+We definitely could not have done this without the support of the following people, thank you for making our summer of code inspirational, productive, and most of all fun!
+
+- Our fantastic coaching company Absolventa
+- All amazing team of coaches: [Lora](https://github.com/lorabv),[Markus](https://github.com/axlwaii),[Camila](https://github.com/camilasan),[Kaja](https://github.com/kajatiger) & [Victor](https://github.com/elalemanyo)
+- Our supervisor Neta
+- And the one and only [@skjnldsv]() for his patience, guidence and friendship!
+- Nextcloud community, espcially Xheni, Jona and Jan
+- Our friends and family for understanding and support during some challenging times
+- Arati's work for being flexibility with her schedule so she was able to work and participate in RGSOC at the same time
+- RGSOC and the broader community for giving us this opportunity
+
+Over and Out! :microphone:
 
 Arati & Jessica AKA Team Popcorn
-
+[@TeamPopcornBer](https://twitter.com/TeamPopcornBer)
 
 ![Team Popcorn](/img/blog/2018/rgsoc-2018-17-09-team-popcorn.gif)
 <div class="image-credits"><em>Photo credit: Team Popcorn</em></div>
