@@ -14,6 +14,7 @@ categories:
 ![Popcorn](/img/blog/2018/rgsoc-2018-09-17-popcorn.jpg)
 <div class="image-credits"><em>Photo credit: https://illustratedbites.wordpress.com/</em></div>
 
+![White space](/img/blog/2018/rgsoc-2018-09-17-whitespace.jpg)
 
 We spent our summer of code working on the [Nextcloud](https://nextcloud.com/) contacts app. Originally built with the Angular.js framework, we supported app maintainer John to migrate it over to Vue.js. With the date for the Beta release now approaching we can report our work has been successful and provided us with a lot of insight and knowledge along the way. Some of our work has also made it into the official [NPM package for Nextcloud vue components](https://www.npmjs.com/package/nextcloud-vue) :tada:
 
@@ -96,7 +97,7 @@ We definitely could not have done this without the support of the following peop
 - Our amazing team of coaches: [Lora](https://github.com/lorabv),[Markus](https://github.com/axlwaii),[Camila](https://github.com/camilasan),[Kaja](https://github.com/kajatiger) & [Victor](https://github.com/elalemanyo)
 - Our supervisor Neta
 - And the one and only [@skjnldsv]() for his patience, guidence and friendship!
-- Nextcloud community, espcially [Xheni](), [Jona](https://github.com/jonatoni), [Jos](https://github.com/jospoortvliet) and [Jan](https://github.com/jancborchardt)
+- Nextcloud community, espcially [Xheni](https://github.com/xh3n1), [Jona](https://github.com/jonatoni), [Jos](https://github.com/jospoortvliet) and [Jan](https://github.com/jancborchardt)
 - Our friends and family for understanding and support during some challenging times
 - Arati's work for being flexible with her schedule so she was able to work and participate in RGSOC at the same time
 - RGSOC and the broader community for giving us this opportunity
