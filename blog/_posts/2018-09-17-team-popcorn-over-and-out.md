@@ -12,7 +12,9 @@ categories:
 
 # :wave: Team Popcorn says Tschüss
 ![Popcorn](/img/blog/2018/rgsoc-2018-09-17-popcorn.jpg)
-<div class="image-credits"><em>Photo credit: [illustratedbites](https://illustratedbites.wordpress.com/)</em></div>
+<div class="image-credits"><em>Photo credit: https://illustratedbites.wordpress.com/</em></div>
+
+We spent our summer of code working on the [Nextcloud](https://nextcloud.com/) contacts app. originally written in Angular.js, we supported App Mantainer John to migrate it over to Vue.js. With the date for the Beta release approaching we can report our work has been successful and provided us with a lot of insight and knowledge along the way. Some of our work has also made it into the official [NPM package for Nextcloud vue components](https://www.npmjs.com/package/nextcloud-vue) :tada:
 
 ## :dizzy: Team Popcorn's top 8 highlights of the summer of code
 
