@@ -12,21 +12,23 @@ categories:
 
 # Little Infinity
 
-_Dear RGSoC,_
-_You gave us forever within the numbered days, and we are grateful <3_
+_Dear RGSoC,_<br />
+_You gave us forever within the numbered days, and we are grateful <3_<br />
 
-![The two of us :D](/img/blog/2018/2018-09-16-we-int-blog2.jpeg)
+![The two of us :D](/img/blog/2018/2018-09-16-we-int-blog2.png)
+<div class="image-credits"> Team $we init (Picture taken by Rahmeen's phone)</div>
 
-_And time the tyrant in whose reign nothing does last,_
-_Much like the deepest bliss and the rarest fix,_
-_This tempestuous timelessness too did pass_
 
-We didn't realise until we started writing this blog that it has been 11 weeks! 
-11 weeks of contributing to Probot, 
-11 weeks of reflecting over every day's work in daily logs, 
-11 weeks of learning to write production code, 
-11 weeks of bonding to a community we'll never let go,
-11 weeks of living our long cherished dream <3
+_And time the tyrant in whose reign nothing does last,_<br />
+_Much like the deepest bliss and the rarest fix,_<br />
+_This tempestuous timelessness too did pass_<br />
+
+We didn't realise until we started writing this blog that it has been 11 weeks! <br />
+11 weeks of contributing to Probot, <br />
+11 weeks of reflecting over every day's work in daily logs, <br />
+11 weeks of learning to write production code, <br />
+11 weeks of bonding to a community we'll never let go,<br />
+11 weeks of living our long cherished dream <3<br />
 
 ## About our work with Probot - 
 
