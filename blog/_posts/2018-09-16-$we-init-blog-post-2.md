@@ -68,16 +68,14 @@ We're already working on boosting the open source culture in our local community
 We're more than happy to help. Feel free to reach out!
 
 #### Twitter
-[Rahmeen](https://twitter.com/rahmeen_habib)
-[Akshita](https://twitter.com/AkshitaAggarw18)
-
+[Rahmeen](https://twitter.com/rahmeen_habib) <br />
+[Akshita](https://twitter.com/AkshitaAggarw18) <br />
 #### Github
-[Rahmeen](https://github.com/Rahmeen14)
-[Akshita](https://github.com/Akshitaag)
-
+[Rahmeen](https://github.com/Rahmeen14) <br />
+[Akshita](https://github.com/Akshitaag) <br />
 #### Medium
-[Rahmeen](https://medium.com/@rahmeen_habib)
-[Akshita](https://medium.com/@aggarwalakshita1)
+[Rahmeen](https://medium.com/@rahmeenhabib) <br />
+[Akshita](https://medium.com/@aggarwalakshita1)<br />
 
 A big thank you to Ana, Vaishali, Gregor, Divjot, Saksham, Prachi, Ipshita, Manish and Manan for making our dream translate to reality. You're all awesome <3 
 Thank you RGSOC for touching our lives making magic happen ❤️
