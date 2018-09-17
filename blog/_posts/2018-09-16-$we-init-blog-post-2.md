@@ -77,5 +77,5 @@ We're more than happy to help. Feel free to reach out!
 [Rahmeen](https://medium.com/@rahmeenhabib) <br />
 [Akshita](https://medium.com/@aggarwalakshita1)<br />
 
-A big thank you to Ana, Vaishali, Gregor, Divjot, Saksham, Prachi, Ipshita, Manish and Manan for making our dream translate to reality. You're all awesome <3 
+A big thank you to Ana, Vaishali, Gregor, Divjot, Saksham, Prachi, Ipshita, Manish, Saptak and Manan for making our dream translate to reality. You're all awesome <3 
 Thank you RGSOC for touching our lives making magic happen ❤️
