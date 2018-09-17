@@ -86,7 +86,7 @@ We all learn at a different pace, in different ways but we all have something to
 
 Georgina has gained in confidence to learn more in the field of software engineering, give more talks and continue to inspire other women and girls into software engineering. The next steps for Georgina, is to attend the React.js conference in Verona in October, look at attending the Node.js conference. Georgina is on the technical path of the toastmaster course to gain more skills in talking in public and to larger audiences. Georgina will also create and pitch her MVP app and present for investment and funding in 2019.
 
-Eva will continue to run girls code MK sessions at bletchley park and apply for different jobs that allow her more flexibility, to work from home so she can walk her dog.
+Eva will continue to divide her time between coding and GirlsCode MK including organising Django Girls MK, CryptoParty MK and Ada Lovelace Wikipedia-edit-a-thon. GirlsCode MK has also been accepted to a local accelerator starting October - so that we can make it even better and bigger in the future! With her new-gained coding skills, Eva has already landed a couple of projects that she will take on after RGSoC. And, of course, there’s Bahmni!
 
 We are both going to do a demo of our project at Thought Works office in London and will be streamed to their Berlin office on 2 November.
 
