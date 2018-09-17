@@ -13,12 +13,10 @@ categories:
 # Little Infinity
 
 _Dear RGSoC,_<br />
-_You gave us forever within the numbered days, and we are grateful <3_<br />
+_You gave us forever within the numbered days, and we are grateful ❤️_<br />
 
 ![The two of us :D](/img/blog/2018/2018-09-16-we-int-blog2.png)
-<div class="image-credits"> Team $we init (Picture taken by Rahmeen's phone)</div>
-
-
+<div class="image-credits"> Team $we init (Picture taken by Rahmeen's phone)</div><br />
 
 _And time the tyrant in whose reign nothing does last,_<br />
 _Much like the deepest bliss and the rarest fix,_<br />
@@ -29,7 +27,7 @@ We didn't realise until we started writing this blog that it has been 11 weeks! 
 11 weeks of reflecting over every day's work in daily logs, <br />
 11 weeks of learning to write production code, <br />
 11 weeks of bonding to a community we'll never let go,<br />
-11 weeks of living our long cherished dream <3<br />
+11 weeks of living our long cherished dream ❤️<br />
 
 ## About our work with Probot 
 
@@ -64,7 +62,7 @@ Prettier enforces a consistent code style across your entire codebase, therby en
 ## What's next?
 
 Probot's going to stay with us, _forever and a day._ We have ideated on future scope of both of our bots (can be found in their respective readmes) and will contibue working on improving them. 
-We're already working on boosting the open source culture in our local community and atleast a dozen juniors and batchmates have already approached us, expressing interest for open source in general and RGSoC in particular. We were impacted by our seniors RGSoC 2017 scholars Prachi and Ipshita <3 and we hope to continue to pass it on so that the legacy continues! :D
+We're already working on boosting the open source culture in our local community and atleast a dozen juniors and batchmates have already approached us, expressing interest for open source in general and RGSoC in particular. We were impacted by our seniors RGSoC 2017 scholars Prachi and Ipshita ❤️ and we hope to continue to pass it on so that the legacy continues! :D
 
 ## Have Questions? 
 We're more than happy to help. Feel free to reach out!
