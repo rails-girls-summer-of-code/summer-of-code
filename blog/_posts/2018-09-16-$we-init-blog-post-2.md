@@ -15,7 +15,7 @@ categories:
 _Dear RGSoC,_
 _You gave us forever within the numbered days, and we are grateful <3_
 
-![The two of us :D](/img/blog/2018/rgsoc-2019-09-15-101daysofsummer-blog2-01.jpeg)
+![The two of us :D](/img/blog/2018/2018-09-16-we-int-blog2.jpeg)
 
 _And time the tyrant in whose reign nothing does last,_
 _Much like the deepest bliss and the rarest fix,_
@@ -31,13 +31,13 @@ We didn't realise until we started writing this blog that it has been 11 weeks!
 ## About our work with Probot - 
 
 - Our main task was to develop bots to automate github workflow using Probot. We developed the following 2 bots!
-	-First timers only bot ![See here](https://github.com/probot/first-timers-only-app)
-	-Enforce template bot ![See here](https://github.com/probot/enforce-template-app)
+	-First timers only bot [See here](https://github.com/probot/first-timers-only-app)
+	-Enforce template bot [See here](https://github.com/probot/enforce-template-app)
 
 ## And we learned... - 
 
 ### Working with the Probot Framework
-![Probot](https://probot.github.io/docs/) is a framework for building GitHub Apps in Node.js. It aims to eliminate all the drudgery–like receiving and validating webhooks, and doing authentication handstands–so you can focus on the features you want to build.
+[Probot](https://probot.github.io/docs/) is a framework for building GitHub Apps in Node.js. It aims to eliminate all the drudgery–like receiving and validating webhooks, and doing authentication handstands–so you can focus on the features you want to build.
 
 ### Working with JSDoc
 JSDoc 3 is an API documentation generator for JavaScript. One can add documentation comments directly to their source code, right alongside the code itself.. Here is the [link to the official docs](http://usejsdoc.org/). This gave us an insight into writing effective comments and we were highly appreciated by our mentors for the code readability.
