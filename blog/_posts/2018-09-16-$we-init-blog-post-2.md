@@ -61,7 +61,7 @@ Prettier enforces a consistent code style across your entire codebase, therby en
 
 ## What's next?
 
-Probot's going to stay with us, _forever and a day._ We have ideated on future scope of both of our bots (can be found in their respective readmes) and will contibue working on improving them. 
+Probot's going to stay with us, _forever and a day._ We have ideated on future scope of both of our bots (can be found in their respective readmes) and will continue working on improving them. 
 We're already working on boosting the open source culture in our local community and atleast a dozen juniors and batchmates have already approached us, expressing interest for open source in general and RGSoC in particular. We were impacted by our seniors RGSoC 2017 scholars Prachi and Ipshita ❤️ and we hope to continue to pass it on so that the legacy continues! :D
 
 ## Have Questions? 
