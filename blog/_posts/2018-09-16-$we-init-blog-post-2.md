@@ -34,7 +34,21 @@ We didn't realise until we started writing this blog that it has been 11 weeks!
 	-First timers only bot ![See here](https://github.com/probot/first-timers-only-app)
 	-Enforce template bot ![See here](https://github.com/probot/enforce-template-app)
 
-## And we learned... - 📝
+## And we learned... - 
+
+### Working with the Probot Framework
+![Probot](https://probot.github.io/docs/) is a framework for building GitHub Apps in Node.js. It aims to eliminate all the drudgery–like receiving and validating webhooks, and doing authentication handstands–so you can focus on the features you want to build.
+
+### Working with JSDoc
+JSDoc 3 is an API documentation generator for JavaScript. One can add documentation comments directly to their source code, right alongside the code itself.. Here is the [link to the official docs](http://usejsdoc.org/). This gave us an insight into writing effective comments and we were highly appreciated by our mentors for the code readability.
+
+### Writing tests using jest
+Effective testing is the key to a successful project. Jest is an effective library for testing JavaScript and hence was our natural choice. Here is the [link to the official docs](https://jestjs.io/).  To find out about how we implemented jest in our code, [refer this](https://github.com/probot/first-timers-only-app/blob/master/test/util.test.js).
+
+### Working with Eslint and Prettier
+ESLint is a tool for identifying and reporting on patterns found in JavaScript code, with the goal of making code more consistent and avoiding bugs. Here is the [link to the official docs](https://eslint.org/).
+Prettier enforces a consistent code style across your entire codebase, therby enhancing code readibilty. Here is the [link to the official docs](https://prettier.io/).
+
 
 ## Quantification in numbers :P
 
@@ -51,12 +65,15 @@ We're already working on boosting the open source culture in our local community
 
 ### Twitter
 [Rahmeen](https://twitter.com/rahmeen_habib)
+[Akshita](https://twitter.com/AkshitaAggarw18)
 
 ### Github
 [Rahmeen](https://github.com/Rahmeen14)
+[Akshita](https://github.com/Akshitaag)
 
 ### Medium
 [Rahmeen](https://medium.com/@rahmeen_habib)
+[Akshita](https://medium.com/@aggarwalakshita1)
 
-A big thank you to Ana, Vaishali, Gregor, Divjot and Prachi for making our dream translate to reality. You're all awesome <3 
+A big thank you to Ana, Vaishali, Gregor, Divjot, Saksham, Prachi, Ipshita, Manish and Manan for making our dream translate to reality. You're all awesome <3 
 Thank you RGSOC for touching our lives making magic happen ❤️
