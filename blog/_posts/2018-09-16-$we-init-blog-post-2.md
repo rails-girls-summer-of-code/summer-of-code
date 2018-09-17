@@ -19,9 +19,10 @@ _You gave us forever within the numbered days, and we are grateful <3_<br />
 <div class="image-credits"> Team $we init (Picture taken by Rahmeen's phone)</div>
 
 
+
 _And time the tyrant in whose reign nothing does last,_<br />
 _Much like the deepest bliss and the rarest fix,_<br />
-_This tempestuous timelessness too did pass_<br />
+_This tempestuous timelessness too did pass._<br />
 
 We didn't realise until we started writing this blog that it has been 11 weeks! <br />
 11 weeks of contributing to Probot, <br />
@@ -30,13 +31,13 @@ We didn't realise until we started writing this blog that it has been 11 weeks! 
 11 weeks of bonding to a community we'll never let go,<br />
 11 weeks of living our long cherished dream <3<br />
 
-## About our work with Probot - 
+## About our work with Probot 
 
 - Our main task was to develop bots to automate github workflow using Probot. We developed the following 2 bots!
-	-First timers only bot [See here](https://github.com/probot/first-timers-only-app)
-	-Enforce template bot [See here](https://github.com/probot/enforce-template-app)
+	- First timers only bot [See here](https://github.com/probot/first-timers-only-app)
+	- Enforce template bot [See here](https://github.com/probot/enforce-template-app)
 
-## And we learned... - 
+## And we learned...
 
 ### Working with the Probot Framework
 [Probot](https://probot.github.io/docs/) is a framework for building GitHub Apps in Node.js. It aims to eliminate all the drudgery–like receiving and validating webhooks, and doing authentication handstands–so you can focus on the features you want to build.
@@ -52,7 +53,7 @@ ESLint is a tool for identifying and reporting on patterns found in JavaScript c
 Prettier enforces a consistent code style across your entire codebase, therby enhancing code readibilty. Here is the [link to the official docs](https://prettier.io/).
 
 
-## Quantification in numbers :P
+## Quantification in numbers
 
 - We created 2 repositories in Probot's beautiful codebase!
 - We made over 50 commits in the two repositories
@@ -65,15 +66,18 @@ Prettier enforces a consistent code style across your entire codebase, therby en
 Probot's going to stay with us, _forever and a day._ We have ideated on future scope of both of our bots (can be found in their respective readmes) and will contibue working on improving them. 
 We're already working on boosting the open source culture in our local community and atleast a dozen juniors and batchmates have already approached us, expressing interest for open source in general and RGSoC in particular. We were impacted by our seniors RGSoC 2017 scholars Prachi and Ipshita <3 and we hope to continue to pass it on so that the legacy continues! :D
 
-### Twitter
+## Have Questions? 
+We're more than happy to help. Feel free to reach out!
+
+#### Twitter
 [Rahmeen](https://twitter.com/rahmeen_habib)
 [Akshita](https://twitter.com/AkshitaAggarw18)
 
-### Github
+#### Github
 [Rahmeen](https://github.com/Rahmeen14)
 [Akshita](https://github.com/Akshitaag)
 
-### Medium
+#### Medium
 [Rahmeen](https://medium.com/@rahmeen_habib)
 [Akshita](https://medium.com/@aggarwalakshita1)
 
