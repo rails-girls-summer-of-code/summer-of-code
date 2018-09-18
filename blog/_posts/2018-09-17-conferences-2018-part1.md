@@ -1,8 +1,8 @@
 ---
 title: Introducing 2018's Conferences
 layout: post
-created_at: Tue Sep 17 2017
-permalink: blog/2017-09-11-conferences-2018-part1
+created_at: Tue Sep 18 2017
+permalink: blog/2017-09-18-conferences-2018
 current: blog
 author: Ana Sofia
 twitter: RailsGirlsSoC
@@ -25,7 +25,7 @@ We will be coming back soon with more conferences! ;)
     <tr>
       <td>
         <a href="https://fullstackfest.com/">
-        <img src="/img/blog/2018/2018-09-17-rgsoc-conferences-FullStackFest-2018.jpg"></a>
+        <img src="/img/blog/2018/2018-09-18-rgsoc-conferences-FullStackFest-2018.jpg"></a>
       </td>
       <td>
         <b>Date: </b> Sep 3-7, 2018 <br>
@@ -43,7 +43,7 @@ We will be coming back soon with more conferences! ;)
     <tr>
       <td>
         <a href="https://2018.reactjsday.it/">
-        <img src="/img/blog/2018/2018-09-17-rgsoc-conferences-reactjsday-2018.png"></a>
+        <img src="/img/blog/2018/2018-09-18-rgsoc-conferences-reactjsday-2018.png"></a>
       </td>
       <td>
         <b>Date: </b> Oct 5, 2018 <br>
@@ -61,7 +61,7 @@ We will be coming back soon with more conferences! ;)
     <tr>
       <td>
         <a href="https://www.mirrorconf.com/">
-        <img src="/img/blog/2018/2018-09-17-rgsoc-conferences-Mirror-Conf-2018.jpg"></a>
+        <img src="/img/blog/2018/2018-09-18-rgsoc-conferences-Mirror-Conf-2018.jpg"></a>
       </td>
       <td>
         <b>Date: </b>Oct 15-19, 2018 <br>
@@ -79,7 +79,7 @@ We will be coming back soon with more conferences! ;)
     <tr>
       <td>
         <a href="https://golab.io/">
-        <img src="/img/blog/2018/2018-09-17-rgsoc-conferences-GoLab-2018.jpg"></a>
+        <img src="/img/blog/2018/2018-09-18-rgsoc-conferences-GoLab-2018.jpg"></a>
       </td>
       <td>
         <b>Date: </b>Oct 22-23, 2018 <br>
@@ -97,7 +97,7 @@ We will be coming back soon with more conferences! ;)
     <tr>
       <td>
         <a href="https://events.linuxfoundation.org/events/open-source-summit-europe-2018/">
-        <img src="/img/blog/2018/2018-09-17-rgsoc-conferences-Open-Source-Summit-2018.jpg"></a>
+        <img src="/img/blog/2018/2018-09-18-rgsoc-conferences-Open-Source-Summit-2018.jpg"></a>
       </td>
       <td>
         <b>Date: </b> Oct 22-24, 2018 <br>
@@ -115,7 +115,7 @@ We will be coming back soon with more conferences! ;)
     <tr>
       <td>
         <a href="https://gotober.com/">
-        <img src="/img/blog/2018/2018-09-17-rgsoc-conferences-GotoBerlin-2018.jpg"></a>
+        <img src="/img/blog/2018/2018-09-18-rgsoc-conferences-GotoBerlin-2018.jpg"></a>
       </td>
       <td>
         <b>Date: </b> Oct 29-Nov 2, 2018 <br>
@@ -132,7 +132,7 @@ We will be coming back soon with more conferences! ;)
     <tr>
       <td>
         <a href="https://ghcindia.anitab.org/">
-        <img src="/img/blog/2018/2018-09-17-rgsoc-conferences-GHCI-2018.jpg"></a>
+        <img src="/img/blog/2018/2018-09-18-rgsoc-conferences-GHCI-2018.jpg"></a>
       </td>
       <td>
         <b>Date: </b> Nov 14-16, 2018 <br>
@@ -156,7 +156,7 @@ Note: even if you can't attend the Grace Hopper Celebration India (GHCI) 18 Care
     <tr>
       <td>
         <a href="https://frontend-conf.fukuoka.jp/">
-        <img src="/img/blog/2018/2018-09-17-rgsoc-conferences-Frontend-Conference-Fukuoka-2018.jpg"></a>
+        <img src="/img/blog/2018/2018-09-18-rgsoc-conferences-Frontend-Conference-Fukuoka-2018.jpg"></a>
       </td>
       <td>
         <b>Date: </b> Dec 8, 2018 <br>
