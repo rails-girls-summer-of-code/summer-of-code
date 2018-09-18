@@ -127,6 +127,10 @@ Sruti
 
 Thank you to our family for their unwavering support and putting up with our mood swings when code wasn’t working or we couldn’t work things out!
 
+![RGSoC Glitters](/img/blog/2018/RGSOC_glitters.jpg)
+
+<div class="image-credits"> Girls Code MK Door Poster(Drawn by Eva's wife - Valerie Benguiat)</div>
+
 #### You can continue to follow our journey after RGSoC here:
 
 **[Eva - Girls Code MK - Twitter](https://twitter.com/GirlsCodeMK)**
