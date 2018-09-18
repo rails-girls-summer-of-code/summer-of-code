@@ -132,3 +132,7 @@ don’t let that hold you back. If you so want something, go get it. Period.
 We feel that we would now be able to make a smooth transition into the world of open source. We are no more dubious of our selves while trying out to figure out how to contribute to open source and whether what we do would be suffice,  we would now definitely just dive right in! 
 And we feel there are no better words to express how we feel for RGSoC than to say.
 > *“There are no goodbyes for us. Wherever you are, you will always be in my heart” ~ Mahatma Gandhi*
+
+Alvida, RGSoC!
+
+![Alt Text](https://github.com/avneet14027/images/blob/master/8cf94510-9dba-0133-a027-0e7c926a42af.gif)
