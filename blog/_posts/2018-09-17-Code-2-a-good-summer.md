@@ -10,35 +10,33 @@ categories:
   - student-posts
 ---
 
-#Code 2 A Good Summer
+- **Heatwave: 2018 was the hottest summer for UK**
 
-##Heatwave: 2018 was the hottest summer for UK
+- **And not just the weather. Girls Code MK was on fire with their Bahmni project.**
 
-##And not just the weather. Girls Code MK was on fire with their Bahmni project.
+- **Lots of learning, fun and motivation for the future**
 
-##Lots of learning, fun and motivation for the future
+#### Quantitative measures of our project
 
-##Quantitative measures of our project
-
-![girlscodemk_infographic](img/blog/2018/girlscodemk_infographic.png)
+![girlscodemk_infographic](/img/blog/2018/girlscodemk_infographic.png)
 
 <div class="image-credits"> Girls Code MK Infographic(Drawn by Georgina Hodgkinson)</div>
 
-##Summary
+## Summary
 
 We have had a great time. We have learnt so much. A 90 day - 3 month sprint to focus has helped us learn far more than if we spent the time doing a course or boot camp. Having a real project, with real problems changes how you learn. It has also gone faster than what we thought. We will now refer to life before and after RGSoC!
 
-##Highlights
+## Highlights
 
 As our infographic shows the quantitative measures of our RGSoc. The qualitative measures have been far greater. We have laughed, we have struggled with problems, we have found out what we are capable of, we have learnt about ourselves as much as code, we have achieved more than we thought we could. We have tasted success of a project that met its objective and we are proud to demo and show others. Our confidence of learning code, talking about technical projects and discussing what problems we are having and also being more comfortable in saying that we don’t know but know how to find out.
 
-##Setting up and improving our working environment
+## Setting up and improving our working environment
 
 We spent time at the beginning of the project setting up how we would work and our working environment. We put our schedules together and worked out the best times for us to meet, work together and zoom or google hangout with our coaches, mentors and supervisors.
 
 At times we needed to refine and change and open communication was our key to a successful team.
 
-##Technologies we have learnt
+## Technologies we have learnt
 
 Agile working with Jira, slack, zoom
 
@@ -46,9 +44,9 @@ React, JavaScript, CSS
 
 Design layouts using inVisionapp
 
-Git, github, Travis CI, Jest,
+Git, github, Travis CI, Jest
 
-##Top resources we would recommend
+### Top resources we would recommend
 
 [React documentation](https://reactjs.org/)
 
@@ -72,7 +70,7 @@ Git, github, Travis CI, Jest,
 
 [Code with mosh react course](https://codewithmosh.com/p/mastering-react)
 
-##Key takeaways
+## Key takeaways
 
 Richard Branson “If somebody offers you an amazing opportunity but you are not sure you can do it, say yes – then learn how to do it later!” So if you are doubting you are good enough. If you get the opportunity say YES and learn how to do it, you won’t regret it!
 
@@ -82,7 +80,7 @@ To learn it takes patience, support and space to grow. We have had all 3 of thes
 
 We all learn at a different pace, in different ways but we all have something to offer and we learn more when we share with each other. RGSoC has a great community and alumni.
 
-##Life after RGSoC
+## Life after RGSoC
 
 Georgina has gained in confidence to learn more in the field of software engineering, give more talks and continue to inspire other women and girls into software engineering. The next steps for Georgina, is to attend the React.js conference in Verona in October, look at attending the Node.js conference. Georgina is on the technical path of the toastmaster course to gain more skills in talking in public and to larger audiences. Georgina will also create and pitch her MVP app and present for investment and funding in 2019.
 
@@ -90,22 +88,27 @@ Eva will continue to divide her time between coding and GirlsCode MK including o
 
 We are both going to do a demo of our project at Thought Works office in London and will be streamed to their Berlin office on 2 November.
 
-##Friends Made
+## Friends Made
 
 Other teams of RGSoC on slack, coaches, mentors and organisers of RGSoC, we have your links on social media and hope to continue to follow you.
 
-##Last post would not be complete without THANK YOUS
+### Last post would not be complete without ...
+
+**THANK YOUS**
 
 Thank you to
 Supervisor:
+
 Ramon who met us weekly, checking in and making sure our welfare was good. He was always positive, we loved his support and smiles on a Monday morning - far better than any coffee!
 
 Mentors:
+
 Ivo - for his unfailing guidance, the right balance of learning but also guiding so we didn’t become overwhelmed. His weekly meetings, feedback on our code and management of the project. His dedication to writing stories and providing us with information even during his wedding season! Congratulations to his friends that got married over summer.
 
 Wolf - for such a warm introduction and getting us started with the Bahmni project especially giving up your lunch times.
 
 Coaches:
+
 Neil - for all his knowledge and his fabulous git workshop
 Kalan - for his guidance especially on testing
 PJ and Rob for helping during girls code sessions.
