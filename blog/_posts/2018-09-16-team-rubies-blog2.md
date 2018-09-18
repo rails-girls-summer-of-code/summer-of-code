@@ -45,6 +45,13 @@ We were completely new to test-driven development and we initially used to write
 
 Initially we used to think our doubts and errors were silly, and that we would be judged for asking such simple questions to our coaches or mentors. Slowly, we learnt that no question is silly, and asking saves a lot of time. 
 
+### **What we have achieved?**
+
+1000+ lines of code written!  
+14 Pull Requests submitted, 8 merged, 4 in progress!   
+23 issues created (for further enhancement of if-me)!  
+7 Pair programming sessions!
+
 ### **The friends we made**
 
 We met such amazing people. We cannot believe we have friends from Korea, Berlin, Delhi, Africa, Spain etc. The love, positivity and goodwill the RGSoC community fosters is just amazing. Special mention to RGSoC Slack. It is our favourite slack channel :)
