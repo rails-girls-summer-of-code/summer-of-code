@@ -31,7 +31,7 @@ Professor Dumbledore sums up the moral of RGSoC in a sentence:
 ### With Love to our supervisor and friend Nada:
 We are ever so grateful for the continuous support of our lovely supervisor Nada. She has been a friend and guide, and we have learnt so much from all that she shared with us. We will definitely miss having our weekly calls and discussions with her. Thank you so much Nada. 
 ### The Chapel Community, Our mentors and coaches:
-We were able to embark on this wonderful journey due to the endeavours an constant encouragement from our mentors Michael and Ben, our forever helpful coaches and guides Louis and Engin, and also our other coaches Ian, Lydia, to whom we are forever grateful. 
+We were able to embark on this wonderful journey due to the endeavours an constant encouragement from our mentors Michael and Ben, our forever helpful coaches and guides Louis and Engin, and also our other lovely coaches Ian and Lydia, to whom we are forever grateful. 
 There were so many times we were stuck and needed guidance, and our mentors and coaches always came to our rescue. They helped us to explore topics, completely unknown to us and devoid of our understanding.  More so, as guides they helped us to tread on the correct path.
 And this is the main reason why our goodbye’s wouldn’t be easy, and our heartfelt gratitude, never enough.
 
@@ -66,7 +66,7 @@ Another important lesson, beautifully summarised by the following quote, gives m
 
 > *“We cannot become what we want to be by remaining what we are” ~Max Depree* 
 
-Every time I tried to work on something new, it did seem difficult at a first glance, but RGSoC has taught me better to not be deceived by the complexity of things, and keep trying. And eventually, it made be believe, that we all have the great potential within us waiting to be unearthed. This summer has been full of life-altering learnings paving a way to continuous improvement and I will strive hard to carry it forward with me.
+Every time I tried to work on something new, it did seem difficult at a first glance, but RGSoC and the Chapel community has taught me better to not be deceived by the complexity of things, and keep trying. And eventually, it made me believe, that we all have the great potential within us waiting to be unearthed. This summer has been full of life-altering learnings paving a way to continuous improvement and I will strive hard to carry it forward with me.
 
 I have emerged as a more confident person than ever. All thanks to the constant encouragement and guidance from the  RGSoC and Chapel community. Thank you! I am eternally grateful. 
 
@@ -107,7 +107,7 @@ least. :D
 - Communicate: Be it the application period or the RGSoC internship period, make sure
 you don’t leave any communication gaps. Be clear with what you want. Be concise while
 asking for favour or help, but ASK! Don’t shy away.
-- Set the bars high for yourselves​: In our experience, we have observed that when it
+- Set the bars high for yourselves: In our experience, we have observed that when it
 comes to career, expectation bar is embarrassingly low for women. And this is majorly
 because why we don’t see ourselves being able to match men. Think that you’ll achieve
 big, and so you will!
@@ -136,3 +136,4 @@ And we feel there are no better words to express how we feel for RGSoC than to s
 Alvida, RGSoC!
 
 ![Alt Text](https://github.com/avneet14027/images/blob/master/8cf94510-9dba-0133-a027-0e7c926a42af.gif)
+<div class="image-credits">Source: Giphy</div>
