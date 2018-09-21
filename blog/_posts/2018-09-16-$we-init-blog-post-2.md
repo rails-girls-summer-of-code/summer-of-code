@@ -2,7 +2,7 @@
 title: Our little infinity - RGSoC 2018!
 layout: post
 created_at: Sun Sept 16 2018
-permalink: blog/2018-08-03-$we-init-blog-post-2
+permalink: blog/2018-09-16-$we-init-blog-post-2
 current: blog
 author: Rahmeen
 twitter: rahmeen_habib
