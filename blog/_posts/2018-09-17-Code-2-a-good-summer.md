@@ -2,7 +2,7 @@
 title: Team GirlsCode MK - Code 2 a good summer
 layout: post
 created_at: Sat Sep 15 2018
-permalink: 2018-07-25-Code-2-a-good-summer
+permalink: blog/2018-09-17-Code-2-a-good-summer
 current: blog
 author: Georgina and Eva
 twitter: GirlsCodeMK
@@ -127,7 +127,7 @@ Sruti
 
 Thank you to our family for their unwavering support and putting up with our mood swings when code wasn’t working or we couldn’t work things out!
 
-![RGSoC Glitters](/img/blog/2018/RGSOC_glitters.jpg)
+![RGSoC Glitters](/img/blog/2018/RGSOC_glitters.JPG)
 
 <div class="image-credits"> Girls Code MK Door Poster(Drawn by Eva's wife - Valerie Benguiat)</div>
 
