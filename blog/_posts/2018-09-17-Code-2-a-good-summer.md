@@ -2,7 +2,7 @@
 title: Team GirlsCode MK - Code 2 a good summer
 layout: post
 created_at: Sat Sep 15 2018
-permalink: blog/2018-07-25-Code-2-a-good-summer
+permalink: 2018-07-25-Code-2-a-good-summer
 current: blog
 author: Georgina and Eva
 twitter: GirlsCodeMK
@@ -115,9 +115,9 @@ PJ and Rob for helping during girls code sessions.
 
 RGSoC Organisers : for setting up RGSoC meetups, organising tickets for conferences, all the admin work that goes into organising these summers. You Rock!!
 
+Ana Sofia
 Anna
-Anna
-Valisha
+Vaishali
 
 Bahmni Project specific - Thoughtworks: For their patience and time for letting us help out on their project that they have a keen interest in.
 
