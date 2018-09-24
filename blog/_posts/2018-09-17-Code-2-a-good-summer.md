@@ -2,7 +2,7 @@
 title: Team GirlsCode MK - Code 2 a good summer
 layout: post
 created_at: Sat Sep 15 2018
-permalink: blog/2018-07-25-Code-2-a-good-summer
+permalink: blog/2018-09-17-Code-2-a-good-summer
 current: blog
 author: Georgina and Eva
 twitter: GirlsCodeMK
@@ -115,9 +115,9 @@ PJ and Rob for helping during girls code sessions.
 
 RGSoC Organisers : for setting up RGSoC meetups, organising tickets for conferences, all the admin work that goes into organising these summers. You Rock!!
 
+Ana Sofia
 Anna
-Anna
-Valisha
+Vaishali
 
 Bahmni Project specific - Thoughtworks: For their patience and time for letting us help out on their project that they have a keen interest in.
 
@@ -127,7 +127,7 @@ Sruti
 
 Thank you to our family for their unwavering support and putting up with our mood swings when code wasn’t working or we couldn’t work things out!
 
-![RGSoC Glitters](/img/blog/2018/RGSOC_glitters.jpg)
+![RGSoC Glitters](/img/blog/2018/RGSOC_glitters.JPG)
 
 <div class="image-credits"> Girls Code MK Door Poster(Drawn by Eva's wife - Valerie Benguiat)</div>
 
