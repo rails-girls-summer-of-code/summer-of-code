@@ -76,10 +76,12 @@ The summer’s over already? Are you kidding me?
 Well, it’s never ‘over’. Not yet.
 
 I had to pinch myself to digest the reality. However, looking back at all the amazing things that had happened in the past three months gives me real chills.
+
 When I applied to RGSoC for the first time, I was this doe-eyed sophomore who was trying to figure out the whole concept of engineering and career options at an academic research institute IIIT Delhi. In awe of the many amazing geeks, coders and passionate BYLDers (development society in my college) I met, I wanted nothing more that to be involved in some such cool communities and be doing some cool projects and become a source of inspiration for others, just like my seniors were for me. I used to feel adrift - not exactly belonging, but still with the faith in myself that I chose what’s right for me.
+
 And then in my second year, I came across the RGSoC community and past scholars. Thence, the journey began.
 
-I still remember the date: 17th May 2018. It was the day when searching and reading through a lot of follow up and rejection emails, after three months long wait, I found my Hogwarts letter.
+I still remember the date: **17th May 2018**. It was the day when searching and reading through a lot of follow up and rejection emails, after three months long wait, I found *my* **Hogwarts letter*.
 
 ![Alt Text](https://github.com/avneet14027/images/blob/master/2018-09-17-giphy1.gif)
 <div class="image-credits">Source: Giphy</div>
@@ -96,7 +98,8 @@ Along with a lot of amazing and thought provoking things we worked on this summe
 I promised myself that I am going to make this summer that best summer of my undergraduate for me. Won’t leave any stone unturned. And, I did. No matter how silly and tiring the tasks were, I sailed through them and did my best.
 
 #### My advice to RGSoC '19 aspirants
-- Network: Meet new people and talk to as many people as you can. You’ll never know
+
+- **Network**: Meet new people and talk to as many people as you can. You’ll never know
 who you’ll run into one day. It might just be your life mentor, your next recruiter, your
 potential thesis advisor, or maybe your “he is the one” person. :P
 Go to conferences, meetups, workshops, attend short talks that your university arranges
@@ -104,26 +107,39 @@ for you. Talk to the speakers over there, ask for their current running projects
 them if they can look at your profile and can recommend you at their company or can
 mentor you. Sounds far-fetched, right? Believe us, this works. It has worked for us, at
 least. :D
-- Communicate: Be it the application period or the RGSoC internship period, make sure
+
+- **Communicate**: Be it the application period or the RGSoC internship period, make sure
 you don’t leave any communication gaps. Be clear with what you want. Be concise while
 asking for favour or help, but ASK! Don’t shy away.
-- Set the bars high for yourselves: In our experience, we have observed that when it
+
+- **Set the bars high for yourselves**: In our experience, we have observed that when it
 comes to career, expectation bar is embarrassingly low for women. And this is majorly
 because why we don’t see ourselves being able to match men. Think that you’ll achieve
 big, and so you will!
+
 Kate Winslet just puts it right:
-[Link](https://www.youtube.com/watch?v=DeRcIf4sZiM)
-- Give back and help others: Peer-support is the key learning from RGSoC program. We
+
+[![Kate Winslet advice to women](http://img.youtube.com/vi/DeRcIf4sZiM/0.jpg)](http://www.youtube.com/watch?v=DeRcIf4sZiM "Kate Winslet advice to women")
+
+- **Give back and help others**: Peer-support is the key learning from RGSoC program. We
 need to have each other’s back. We need to tell each other that “I’m there for you, to
 help you.” And, this is how we grow. TOGETHER.
+
 ![Alt Text](https://github.com/avneet14027/images/blob/master/helping-others.gif)
 <div class="image-credits">Source: Giphy</div>
 
-- YAS Girl, you can do it! The feeling that “I’m not ready. Not just yet” always clouds us
+- **YAS Girl, you can do it!** The feeling that “I’m not ready. Not just yet” always clouds us
 too often. You’ll never be prepared, there’s always be a scope for improvement. But,
 don’t let that hold you back. If you so want something, go get it. Period.
-- Party is must!
-- C’mon, a Dork dance is must. Amy’s style
+
+![Alt Text](https://themotivationmentalist.files.wordpress.com/2014/05/dont-ever-let-someone-tell-you-that-you-cant-do-something.jpg)
+
+- **Party is must!**
+
+![Alt Text](https://github.com/avneet14027/images/blob/master/tenor%20(1).gif)
+<div class="image-credits">Source: Giphy</div>
+
+- **C’mon, a Dork dance is must. Amy’s style**
 
 ![Alt Text](https://github.com/avneet14027/images/blob/master/tenor%20(1).gif)
 <div class="image-credits">Source: Giphy</div>
@@ -133,7 +149,7 @@ We feel that we would now be able to make a smooth transition into the world of 
 And we feel there are no better words to express how we feel for RGSoC than to say.
 > *“There are no goodbyes for us. Wherever you are, you will always be in my heart” ~ Mahatma Gandhi*
 
-Alvida, RGSoC!
+***Alvida, RGSoC!***
 
 ![Alt Text](https://github.com/avneet14027/images/blob/master/8cf94510-9dba-0133-a027-0e7c926a42af.gif)
 <div class="image-credits">Source: Giphy</div>
