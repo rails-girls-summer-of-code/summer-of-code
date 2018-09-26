@@ -28,11 +28,14 @@ Professor Dumbledore sums up the moral of RGSoC in a sentence:
 <div class="image-credits">Our supervisor - Nada (Top), Rupal (bottom left) and Avneet (bottom - right) (source: Screenshot from Hangouts, Avneet's phone camera - Moto G4 Plus)</div>
 
 ## A word of gratitude
+
 ### With Love to our supervisor and friend Nada:
 We are ever so grateful for the continuous support of our lovely supervisor Nada. She has been a friend and guide, and we have learnt so much from all that she shared with us. We will definitely miss having our weekly calls and discussions with her. Thank you so much Nada. 
+
 ### The Chapel Community, Our mentors and coaches:
 We were able to embark on this wonderful journey due to the endeavours an constant encouragement from our mentors Michael and Ben, our forever helpful coaches and guides Louis and Engin, and also our other lovely coaches Ian and Lydia, to whom we are forever grateful. 
 There were so many times we were stuck and needed guidance, and our mentors and coaches always came to our rescue. They helped us to explore topics, completely unknown to us and devoid of our understanding.  More so, as guides they helped us to tread on the correct path.
+
 And this is the main reason why our goodbye’s wouldn’t be easy, and our heartfelt gratitude, never enough.
 
 ![Alt Text](https://github.com/avneet14027/images/blob/master/2018-08-17-team-sectumsempra-blog2-gitter1.jpeg) ![Alt Text](https://github.com/avneet14027/images/blob/master/2018-08-17-team-sectumsempra-blog2-gitter2.jpeg)
@@ -72,6 +75,8 @@ I have emerged as a more confident person than ever. All thanks to the constant 
 
 ### Rupal
 The summer’s over already? Are you kidding me?
+
+![Alt Text](https://github.com/avneet14027/images/blob/master/sectumsem-hagrid-gif.gif)
 
 Well, it’s never ‘over’. Not yet.
 
@@ -136,8 +141,10 @@ don’t let that hold you back. If you so want something, go get it. Period.
 
 - **Party is must!**
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/tenor%20(1).gif)
+
+![Alt Text](https://github.com/avneet14027/images/blob/master/sectumsem-giphy.gif)
 <div class="image-credits">Source: Giphy</div>
+
 
 - **C’mon, a Dork dance is must. Amy’s style**
 
