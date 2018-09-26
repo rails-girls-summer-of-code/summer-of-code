@@ -33,7 +33,7 @@ Professor Dumbledore sums up the moral of RGSoC in a sentence:
 We are ever so grateful for the continuous support of our lovely supervisor Nada. She has been a friend and guide, and we have learnt so much from all that she shared with us. We will definitely miss having our weekly calls and discussions with her. Thank you so much Nada. 
 
 ### The Chapel Community, Our mentors and coaches:
-We were able to embark on this wonderful journey due to the endeavours an constant encouragement from our mentors Michael and Ben, our forever helpful coaches and guides Louis and Engin, and also our other lovely coaches Ian and Lydia, to whom we are forever grateful. 
+We were able to embark on this wonderful journey due to the endeavours an constant encouragement from our mentors Michael and Ben, our forever helpful coaches and guides Louis and Engin, and also our other lovely coaches Ian, Lydia, and Sarthak to whom we are forever grateful. 
 There were so many times we were stuck and needed guidance, and our mentors and coaches always came to our rescue. They helped us to explore topics, completely unknown to us and devoid of our understanding.  More so, as guides they helped us to tread on the correct path.
 
 And this is the main reason why our goodbye’s wouldn’t be easy, and our heartfelt gratitude, never enough.
@@ -77,6 +77,7 @@ I have emerged as a more confident person than ever. All thanks to the constant 
 The summer’s over already? Are you kidding me?
 
 ![Alt Text](https://github.com/avneet14027/images/blob/master/sectumsem-hagrid-gif.gif)
+<div class="image-credits">Source: Giphy</div>
 
 Well, it’s never ‘over’. Not yet.
 
@@ -86,7 +87,7 @@ When I applied to RGSoC for the first time, I was this doe-eyed sophomore who wa
 
 And then in my second year, I came across the RGSoC community and past scholars. Thence, the journey began.
 
-I still remember the date: **17th May 2018**. It was the day when searching and reading through a lot of follow up and rejection emails, after three months long wait, I found *my* **Hogwarts letter*.
+I still remember the date: **17th May 2018**. It was the day when searching and reading through a lot of follow up and rejection emails, after three months long wait, I found *my* **Hogwarts letter**.
 
 ![Alt Text](https://github.com/avneet14027/images/blob/master/2018-09-17-giphy1.gif)
 <div class="image-credits">Source: Giphy</div>
@@ -102,7 +103,7 @@ Along with a lot of amazing and thought provoking things we worked on this summe
 
 I promised myself that I am going to make this summer that best summer of my undergraduate for me. Won’t leave any stone unturned. And, I did. No matter how silly and tiring the tasks were, I sailed through them and did my best.
 
-#### My advice to RGSoC '19 aspirants
+### My advice to RGSoC '19 aspirants
 
 - **Network**: Meet new people and talk to as many people as you can. You’ll never know
 who you’ll run into one day. It might just be your life mentor, your next recruiter, your
@@ -125,6 +126,7 @@ big, and so you will!
 Kate Winslet just puts it right:
 
 [![Kate Winslet advice to women](http://img.youtube.com/vi/DeRcIf4sZiM/0.jpg)](http://www.youtube.com/watch?v=DeRcIf4sZiM "Kate Winslet advice to women")
+<div class="image-credits">Source: Youtube</div>
 
 - **Give back and help others**: Peer-support is the key learning from RGSoC program. We
 need to have each other’s back. We need to tell each other that “I’m there for you, to
@@ -138,6 +140,7 @@ too often. You’ll never be prepared, there’s always be a scope for improveme
 don’t let that hold you back. If you so want something, go get it. Period.
 
 ![Alt Text](https://themotivationmentalist.files.wordpress.com/2014/05/dont-ever-let-someone-tell-you-that-you-cant-do-something.jpg)
+<div class="image-credits">Source: Google Image Search</div>
 
 - **Party is must!**
 
