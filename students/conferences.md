@@ -83,9 +83,9 @@ We are not able to support our students with travel and accommodation. If you ha
 
 Interested? Any further questions? Write us an <a href="mailto:contact@rgsoc.org">email</a> and we can talk about the details.
 
-<h3 id="conferences">Conference Sponsors in 2017</h3>
+<h3 id="conferences">Conference Sponsors in 2018</h3>
 
-A huge **thank you** to all conferences who supported our students and provided free tickets during Rails Girls Summer of Code 2017.
+A huge **thank you** to all conferences who supported our students and provided free tickets during Rails Girls Summer of Code 2018.
 
 <section class="conferences-container">
 
