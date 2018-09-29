@@ -29,7 +29,7 @@ If you’re a conference organizer and interested in supporting our students, pl
 * <a href="#conference">At the Conference</a>
 * <a href="#travel">What About Travel and Accommodation?</a>
 * <a href="#organizers">Infos for Conference Organizers</a>
-* <a href="#conferences">Conference Sponsors in 2017</a>
+* <a href="#conferences">Conference Sponsors in 2018</a>
 
 <h3 id="basics">The Basics</h3>
 The RGSoC orga team is in touch with many conference organizers all over the world and we try to provide free tickets for suitable conferences in your area. A suitable conference is one that is related to your main programming language or a general topic conference that is beginner friendly.
