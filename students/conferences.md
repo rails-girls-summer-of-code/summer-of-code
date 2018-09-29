@@ -93,7 +93,7 @@ A huge **thank you** to all conferences who supported our students and provided 
     <div class="conference-item">
       <p class="conference-logo">
         <a href="{{conference.url}}">
-        <img src="{{conference.img}}"></a>
+        <img width="200" height="200" src="{{conference.img}}"></a>
       </p>
       <p class="conference-text">
         <b><a href="{{conference.url}}">{{conference.name}}</a></b> <br>
