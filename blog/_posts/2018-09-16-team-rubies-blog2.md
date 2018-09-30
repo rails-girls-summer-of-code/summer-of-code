@@ -1,8 +1,8 @@
 ---
 title: Our RGSoC Journey! - Team Rubies
 layout: post
-created_at: Sun Sep 16 2018
-permalink: blog/2018-09-16-team-rubies-blog2
+created_at: Sun Sep 30 2018
+permalink: blog/2018-09-30-team-rubies-blog2
 current: blog
 author: Atibhi and Prateksha
 twitter: Rubies_11_14
