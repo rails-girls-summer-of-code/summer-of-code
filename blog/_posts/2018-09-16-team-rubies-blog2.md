@@ -77,5 +77,5 @@ We met such amazing people. We cannot believe we have friends from Korea, Berlin
 ### **The ending is only a beginning in disguise. What’s next for us ?**
 
 First and foremost, if-me is amazing and we want to be associated with it for as long as possible. We will continue contributing to it and hopefully become mentors for if-me in the next-edition of RGSoC !
-We were the first team from our college to make it into RGSoC, we want to mentor other girls and encourage them to apply to RSoC next year. Other than RGSoC, we want to mentor others through programs like LearnIt girl, GSoC etc.
+We were the first team from our college to make it into RGSoC, we want to mentor other girls and encourage them to apply to RGSoC next year. Other than RGSoC, we want to mentor others through programs like LearnIt girl, GSoC etc.
 We also want to use our learning experience to land awesome internships next year and continue to grow as developers. 
