@@ -33,7 +33,9 @@ We didn't realise until we started writing this blog that it has been 11 weeks! 
 
 - Our main task was to develop bots to automate github workflow using Probot. We developed the following 2 bots!
 	- First timers only bot [See here](https://github.com/probot/first-timers-only-app)
+		- Here's a detailed [blog](https://medium.com/@aggarwalakshita1/automating-github-with-pro-bots-269880a8d22c)
 	- Enforce template bot [See here](https://github.com/probot/enforce-template-app)
+		- Here's a detailed [blog](https://medium.com/@rahmeenhabib/rgsoc-18-with-probot-d57d40e6267b)
 
 ## And we learned...
 
