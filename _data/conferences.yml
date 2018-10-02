@@ -7,6 +7,15 @@
   twitter_url: https://twitter.com/fullstackfest
   twitter_name: fullstackfest
   img: /img/blog/2018/conferences/fullstack.png
+- name: GOTO Berlin 2018
+  id: goto-berlin
+  url: https://gotober.com/
+  dates:
+    - October 29 - November 2, 2018
+  location: Berlin, Germany
+  twitter_url: https://twitter.com/gotober
+  twitter_name: gotober
+  img: /img/blog/2018/conferences/goto_berlin.png
 - name: MirrorConf
   id: mirror-conf
   url: https://www.mirrorconf.com/
