@@ -1,8 +1,8 @@
 ---
 title: Obrigada, Rails Girls Summer of Code!
 layout: post
-created_at: Mon September 17 2018
-permalink: blog/2018-09-17-obrigada-rgsoc
+created_at: Wed October 3 2018
+permalink: blog/2018-10-03-obrigada-rgsoc
 current: blog
 author: Camila and Stefanni
 twitter: milasouzaaraujo
