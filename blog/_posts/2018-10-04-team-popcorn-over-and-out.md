@@ -1,8 +1,8 @@
 ---
 title: Team Popcorn says Tschüss
 layout: post
-created_at: Mon Sept 17 2018
-permalink: blog/2018-07-23-team-popcorn-over-and-out
+created_at: Thu Oct 04 2018
+permalink: blog/2018-10-04-team-popcorn-over-and-out
 current: blog
 author: Arati and Jessica
 twitter: TeamPopcornBer
