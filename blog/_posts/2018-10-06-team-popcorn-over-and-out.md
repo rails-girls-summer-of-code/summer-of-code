@@ -1,8 +1,8 @@
 ---
 title: Team Popcorn says Tschüss
 layout: post
-created_at: Thu Oct 04 2018
-permalink: blog/2018-10-04-team-popcorn-over-and-out
+created_at: Thu Oct 06 2018
+permalink: blog/2018-10-06-team-popcorn-over-and-out
 current: blog
 author: Arati and Jessica
 twitter: TeamPopcornBer
@@ -17,7 +17,7 @@ categories:
 
 We spent our summer of code working on the [Nextcloud](https://nextcloud.com/) contacts app. Originally built with the Angular.js framework, we supported app maintainer John to migrate it over to Vue.js. With the date for the Beta release now approaching we can report our work has been successful and provided us with a lot of insight and knowledge along the way. Some of our work has also made it into the official [NPM package for Nextcloud vue components](https://www.npmjs.com/package/nextcloud-vue) :tada:
 
-## :dizzy: Team Popcorn's top 8 highlights of the summer of code
+##  Team Popcorn's top 8 highlights of the summer of code
 
 - Coding in person with app maintainer John
 - Docker workshop with coach Victor
