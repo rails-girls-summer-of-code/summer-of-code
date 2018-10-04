@@ -1,8 +1,8 @@
 ---
 title: "Feeling adventurous ? become developer : choose another profession"
 layout: post
-created_at: Mon September 17 2018
-permalink: blog/2018-09-17-Hurdles-of-a-beginning-developer
+created_at: Thu Oct 04 2018
+permalink: blog/2018-10-04-Hurdles-of-a-beginning-developer
 current: blog
 author: Sabine van der Eijk and Alina Leuca
 twitter: Sabin_E
