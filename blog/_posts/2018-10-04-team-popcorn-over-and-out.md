@@ -10,7 +10,6 @@ categories:
 - student-posts
 ---
 
-# :wave: Team Popcorn says Tschüss
 ![Popcorn](/img/blog/2018/rgsoc-2018-09-17-popcorn.jpg)
 <div class="image-credits"><em>Photo credit: https://illustratedbites.wordpress.com/</em></div>
 
