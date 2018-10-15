@@ -1,8 +1,8 @@
 ---
 title: Team GirlsCode MK - Code 2 a good summer
 layout: post
-created_at: Sat Sep 15 2018
-permalink: blog/2018-09-17-Code-2-a-good-summer
+created_at: Wed Sep 26 2018
+permalink: blog/2018-09-26-Code-2-a-good-summer
 current: blog
 author: Georgina and Eva
 twitter: GirlsCodeMK
@@ -18,9 +18,9 @@ categories:
 
 #### Quantitative measures of our project
 
-![girlscodemk_infographic](/img/blog/2018/girlscodemk_infographic.png)
+![girlscodemk_infographic](/img/blog/2018/2018-09-26-girlscodemk_infographic.png)
 
-<div class="image-credits"> Girls Code MK Infographic(Drawn by Georgina Hodgkinson)</div>
+<div class="image-credits"> Girls Code MK Infographic (Drawn by Georgina Hodgkinson)</div>
 
 ## Summary
 
@@ -127,9 +127,9 @@ Sruti
 
 Thank you to our family for their unwavering support and putting up with our mood swings when code wasn’t working or we couldn’t work things out!
 
-![RGSoC Glitters](/img/blog/2018/RGSOC_glitters.JPG)
+![RGSoC Glitters](/img/blog/2018/2018-09-26-RGSOC_glitters.jpg)
 
-<div class="image-credits"> Girls Code MK Door Poster(Drawn by Eva's wife - Valerie Benguiat)</div>
+<div class="image-credits"> Girls Code MK Door Poster (Drawn by Eva's wife - Valerie Benguiat)</div>
 
 #### You can continue to follow our journey after RGSoC here:
 
