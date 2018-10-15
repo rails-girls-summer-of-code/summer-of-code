@@ -2,7 +2,7 @@
 title: Summer Down with Over 200 Commits and Over 70 Issues Closed 💻 🎊
 layout: post
 created_at: Wed Sep 05 2018
-permalink: blog/2018-09-05-team-akaringular
+permalink: blog/2018-09-05-akaringular-final-blog
 current: blog
 author: Stellamaris Njage
 twitter: StlMaris
