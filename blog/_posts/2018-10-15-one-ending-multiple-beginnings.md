@@ -1,8 +1,8 @@
 ---
 title: One ending, multiple beginnings
 layout: post
-created_at: Thu Oct 11 2018
-permalink: blog/2018-10-11-one-ending-multiple-beginnings
+created_at: Mon Oct 15 2018
+permalink: blog/2018-10-15-one-ending-multiple-beginnings
 current: blog
 author: Ana Sofia Pinho
 twitter: anasofiapinho
@@ -10,8 +10,8 @@ categories:
 - news
 ---
 
-<iframe src="https://player.vimeo.com/video/265904630" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/265904630">You Are Accepted To RGSoC 2018!</a> from <a href="https://vimeo.com/user51331690">Rails Girls Summer of Code</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/295082877" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/295082877">RGSoC 2018 Moments</a> from <a href="https://vimeo.com/user51331690">Rails Girls Summer of Code</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 We can’t believe time went by so fast, but Rails Girls Summer of Code 2018 is over! And while the program has ended, we know that this is the start of multiple beginnings: It could be a participant’s first time application to a job, receiving their first job offer as a software developer, or  working on a new OSS project.
 
@@ -29,5 +29,5 @@ Another thing: if you'd like to keep in touch with our students, coaches, mentor
 
 ### A heartfelt thank you to our sponsors:
 
-![RGSoC 2018 Sponsors (image by Ana Sofia Pinho)](/img/blog/2018/2018-04-21-rgsoc-2018-sponsors.png)
+![RGSoC 2018 Sponsors (image by Ana Sofia Pinho)](/img/blog/2018/2018-10-15-rgsoc-2018_sponsors-post.jpg)
 <div class="image-credits"><b>RGSoC 2018 Sponsors (image by Ana Sofia Pinho)</b></div>
