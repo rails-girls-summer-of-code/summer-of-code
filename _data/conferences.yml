@@ -1,0 +1,92 @@
+- name: GoTo Copenhagen
+  id: goto-copenhagen
+  url: https://rebased.pl/
+  dates:
+    - October 1-3, 2017
+  location: Copenhagen, Denmark
+  twitter_url: https://twitter.com/GOTOcph
+  twitter_name: GOTOcph
+  img: /img/blog/2017/conferences/goto-cph-logo.png
+- name: Codemotion Berlin
+  id: codemotion-berlin
+  url: http://berlin2017.codemotionworld.com/
+  dates:
+    - October 12-13, 2017
+  location: Berlin, Germany
+  twitter_url: https://twitter.com/codemoberlin
+  twitter_name: codemoberlin
+  img: /img/blog/2017/conferences/codemoberlin-logo.png
+- name: Open Source Summit Europe
+  id: oss-eu
+  url: http://events.linuxfoundation.org/events/open-source-summit-europe
+  dates:
+    - October 23-26, 2017
+  location: Prague, Czech Republic
+  twitter_url: https://twitter.com/eventsLF
+  twitter_name: eventsLF
+  img: /img/blog/2017/conferences/ossummit-logo.png
+- name: Dev Day
+  id: dev-day
+  url: http://www.devday.lk/
+  dates:
+    - November 9, 2017
+  location: Colombo, Sri Lanka
+  twitter_url: https://twitter.com/devdaysl
+  twitter_name: devdaysl
+  img: /img/blog/2017/conferences/devday-logo.png
+- name: GoTo Berlin
+  id: goto-berlin
+  url: http://www.devday.lk/
+  dates:
+    - November 16-17, 2017
+  location: Berlin, Germany
+  twitter_url: https://twitter.com/gotober
+  twitter_name: gotober
+  img: /img/blog/2017/conferences/goto-berlin-logo.png
+- name: RubyConf Brazil
+  id: rubyconf-brazil
+  url: http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/#inscrevase?utm_campaign=Evento&utm_source=Blog&utm_medium=own&utm_content=RailGirls+
+  dates:
+    - November 17-18, 2017
+  location: São Paulo, Brazil
+  img: /img/blog/2017/conferences/rubyconf-br-logo.png
+- name: dotConferences
+  id: dotconf
+  url: https://www.dotconferences.com/
+  dates:
+    - "DotGo date: November 6, 2017"
+    - "DotCSS date: November 30, 2017"
+    - "DotJS date: December 1, 2017"
+    - "DotSwift date: January 29, 2018"
+    - "DotAI date: May 31, 2018"
+    - "DotScale date: June 1, 2018"
+    - "DotSecurity date: TBA"
+  location: Paris, France
+  twitter_url: https://twitter.com/dotconferences
+  twitter_name: dotconferences
+  img: /img/blog/2017/conferences/dotconf-logo.png
+- name: RubyConf India
+  id: rubyconf-india
+  url: http://rubyconfindia.org/
+  dates:
+    - February 9-10, 2018
+  location: Bangalore, India
+  twitter_url: https://twitter.com/RubyConfIndia
+  twitter_name: RubyConfIndia
+  img: /img/blog/2017/conferences/rubyconf-india-logo.png
+- name: RubyConf Australia
+  id: rubyconf-au
+  url: https://rubyconf.org.au/2018
+  dates:
+    - March 8-9, 2018
+  location: Sydney, Australia
+  twitter_url: https://twitter.com/rubyconf_au
+  twitter_name: rubyconf_au
+  img: /img/blog/2017/conferences/rubyconf-au-logo.png
+- name: Codeland
+  id: codeland
+  url: http://codelandconf.com/
+  dates:
+    - May 4-5, 2018
+  location: New York, US
+  img: /img/blog/2017/conferences/codeland-logo.png
