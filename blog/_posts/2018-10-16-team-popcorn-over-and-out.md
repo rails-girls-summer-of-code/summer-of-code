@@ -1,8 +1,8 @@
 ---
 title: Team Popcorn says Tschüss
 layout: post
-created_at: Thu Oct 06 2018
-permalink: blog/2018-10-06-team-popcorn-over-and-out
+created_at: Thu Oct 16 2018
+permalink: blog/2018-10-16-team-popcorn-over-and-out
 current: blog
 author: Arati and Jessica
 twitter: TeamPopcornBer
@@ -43,7 +43,7 @@ As the RGSoC is about learning the skills for working in the tech industry, we a
 
 ***
 
-## :popcorn: Team Popcorn's update titles
+## :sparkles: Team Popcorn's update titles
 
 For our daily updates we decided to create a format for our titles and turn them into popcorn flavours. We asked our coaches, mentor, family and well whoever was around to give us three things. The base of our question was a food, a colour and an adjective but we changed it around a little each week :smile:
 
