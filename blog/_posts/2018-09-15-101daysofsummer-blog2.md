@@ -13,7 +13,7 @@ categories:
 ## Everything is a dream, we can't stop smiling!!!
 ![Happy times!](/img/blog/2018/rgsoc-2019-09-15-101daysofsummer-blog2-01.jpeg)
 <div class="image-credits"><em>In our happy workspace (Photo credits: Nupur's Laptop)</em></div>
-*In our happy workspace (our hostel room :P) with tons of memories from this Summer with Servo and RGSoC ❤️ We wish we had taken a picture with Rakhi and Josh from one of our remote calls :P We’ll take one  soon... ;)*
+(In our happy workspace (our hostel room :P) with tons of memories from this Summer with Servo and RGSoC ❤️ We wish we had taken a picture with Rakhi and Josh from one of our remote calls :P We’ll take one  soon... ;) <br><br>
 
 The summer is about to come to an end and we are already sad about it :( We didn’t even realise how fast all the time escaped while we were busy scratching our heads over hidden surprises in Rust :P It has been the best summer so far <3
 Thanks to Ana, Vaishali and every member of the Rails Girls Summer Of Code organising team who made it possible for us. We couldn’t ever thank enough our wonderful team with our super-excited and super-helpful mentor Josh, extremely lively and cheerful supervisor Rakhi, and the definitely the both of us....
@@ -91,7 +91,7 @@ Every time we faced issues in any of the above, our mentor Josh was there to hel
 
 You can view pull requests made by both of us as well :D 
 - [Nupur's Contributions](https://github.com/servo/servo/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Anupurbaghel+)
-- [Paavini's Contributions](https://github.com/servo/servo/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Apaavininanda+)
+- [Paavini's Contributions](https://github.com/servo/servo/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Apaavininanda+) <br>
 That’s all for now!! (We guess its a good progress indeed! ) <br> <br>
 ![think-gif](/img/blog/2018/rgsoc-2019-09-15-101daysofsummer-blog2-03.gif)
 <div class="image-credits"><b>Gif taken from http://www.reactiongifs.com/thinking-yes/</b></div>
