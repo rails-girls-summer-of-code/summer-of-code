@@ -52,7 +52,7 @@ This was a conference about the framework that our project for RGSoC, Bahmni use
 
 ### Speakers and Schedule
 
-There were so many great speakers, thank you to the organisers @grusp and @\_fevr
+There were so many great speakers, thank you to the organisers [@Grusp](https://twitter.com/grusp)and [@\_fevr](https://twitter.com/__fevr) 
 
 [Great React JS Speaker Video](https://twitter.com/gthodgkinson/status/1051597083457871872)
 
