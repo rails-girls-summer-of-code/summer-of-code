@@ -8,6 +8,7 @@ author: Georgina
 twitter: GirlsCodeMK
 categories:
   - student-posts
+  - conferences
 ---
 
 **YAY I got tickets**
