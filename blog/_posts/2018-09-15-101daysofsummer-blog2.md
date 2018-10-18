@@ -1,17 +1,19 @@
 ---
-title: An enriching journey, Summers’ 2018 :: Team 101 Days of Summer
+title: An enriching journey, Summers’ 2018 - Team 101 Days of Summer
 layout: post
 created_at: Sat Sep 15 2018
 permalink: blog/2018-09-15-101daysofsummer-blog2
 current: blog
 author: Nupur Baghel
 twitter: nupur_baghel
-categories: student-posts
+categories: 
+- student-posts
 ---
 
 ## Everything is a dream, we can't stop smiling!!!
-![In our happy workspace (our hostel room :P) with tons of memories from this Summer with Servo and RGSoC ❤️ We wish we had taken a picture with Rakhi and Josh from one of our remote calls :P We’ll take one  soon... ;)](/img/blog/2018/rgsoc-2019-09-15-101daysofsummer-blog2-01.jpeg)
-
+![Happy times!](/img/blog/2018/rgsoc-2019-09-15-101daysofsummer-blog2-01.jpeg)
+<div class="image-credits"><em>In our happy workspace (Photo credits: Nupur's Laptop)</em></div>
+*In our happy workspace (our hostel room :P) with tons of memories from this Summer with Servo and RGSoC ❤️ We wish we had taken a picture with Rakhi and Josh from one of our remote calls :P We’ll take one  soon... ;)*
 
 The summer is about to come to an end and we are already sad about it :( We didn’t even realise how fast all the time escaped while we were busy scratching our heads over hidden surprises in Rust :P It has been the best summer so far <3
 Thanks to Ana, Vaishali and every member of the Rails Girls Summer Of Code organising team who made it possible for us. We couldn’t ever thank enough our wonderful team with our super-excited and super-helpful mentor Josh, extremely lively and cheerful supervisor Rakhi, and the definitely the both of us....
@@ -43,6 +45,7 @@ And use b directly. * Can be used to dereference as many times as you want.
 ### Match 
 A very good alternative to if else conditions in Rust. An example is -
 ![how to use match example](/img/blog/2018/rgsoc-2019-09-15-101daysofsummer-blog2-02.jpeg)
+<div class="image-credits"><em>Photo credits: Paavini's Laptop</em></div>
 
 ### Borrowing
 Borrow errors and ownership is something that make Rust safer but the errors related to them can be irritating at times. 
@@ -77,16 +80,19 @@ Every time we faced issues in any of the above, our mentor Josh was there to hel
 ## Let us get to know about some statistics now :P
 - In total we got **20 PR’s** merged by the end of RGSoC. Approximately 10 each for the both of us. Hooray!! 
 - We worked on more than **5 algorithms**, to name a few….
-    - updating the source set
-    - reacting to environmental changes
-    - selecting the correct image source
-    - updating image data
-    - reintroduction of parse a sizes attribute
-    - correcting behaviour of currentSrc 
+ - updating the source set
+ - reacting to environmental changes
+ - selecting the correct image source
+ - updating image data
+ - reintroduction of parse a sizes attribute
+ - correcting behaviour of currentSrc 
 - Our code resulted in passing of more than **700 new tests** 😮 Seems unbelievable? Go and search for the word fail at - [click me!](https://github.com/servo/servo/pull/21280/files?utf8=%E2%9C%93&diff=unified)
-- And finally, we wrote more than **800 lines** of code!
+- And finally, we wrote more than **1000 lines** of code!
 
-That’s all for now (We guess its a good progress indeed! ) <br> <br>
+You can view pull requests made by both of us as well :D 
+- [Nupur's Contributions](https://github.com/servo/servo/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Anupurbaghel+)
+- [Paavini's Contributions](https://github.com/servo/servo/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Apaavininanda+)
+That’s all for now!! (We guess its a good progress indeed! ) <br> <br>
 ![think-gif](/img/blog/2018/rgsoc-2019-09-15-101daysofsummer-blog2-03.gif)
 <div class="image-credits"><b>Gif taken from http://www.reactiongifs.com/thinking-yes/</b></div>
 
