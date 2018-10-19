@@ -1,5 +1,5 @@
 ---
-title: “How lucky are we to have something that makes saying goodbye so hard!”
+title: How lucky are we to have something that makes saying goodbye so hard!
 layout: post
 created_at: Thu Oct 18 2018
 permalink: blog/2018-10-18-team-sectumsempra
@@ -9,7 +9,6 @@ twitter: TeamSectumsem18
 categories:
  - student-posts
 ---
-# “How lucky are we to have something that makes saying goodbye so hard!” 
 
 As our RGSoC journey is near its close, we can’t begin to express how heart-wrenching for us, it is going to be to bid our farewell. 
 While RGSoC has been in itself has been a transforming experience, it also more importantly for us, had a greater impact, of validation 
