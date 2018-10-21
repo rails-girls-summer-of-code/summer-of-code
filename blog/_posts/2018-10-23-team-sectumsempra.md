@@ -1,8 +1,8 @@
 ---
 title: How lucky are we to have something that makes saying goodbye so hard!
 layout: post
-created_at: Thu Oct 18 2018
-permalink: blog/2018-10-18-team-sectumsempra
+created_at: Thu Oct 23 2018
+permalink: blog/2018-10-23-team-sectumsempra
 current: blog
 author: Avneet Kaur
 twitter: TeamSectumsem18
