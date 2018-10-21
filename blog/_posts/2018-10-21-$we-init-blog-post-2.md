@@ -72,9 +72,11 @@ We're more than happy to help. Feel free to reach out!
 #### Twitter
 [Rahmeen](https://twitter.com/rahmeen_habib) <br />
 [Akshita](https://twitter.com/AkshitaAggarw18) <br />
+
 #### Github
 [Rahmeen](https://github.com/Rahmeen14) <br />
 [Akshita](https://github.com/Akshitaag) <br />
+
 #### Medium
 [Rahmeen](https://medium.com/@rahmeenhabib) <br />
 [Akshita](https://medium.com/@aggarwalakshita1)<br />
