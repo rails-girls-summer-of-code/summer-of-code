@@ -1,8 +1,8 @@
 ---
 title: Conference Reactjsday Verona
 layout: post
-created_at: Sat Sep 15 2018
-permalink: blog/2018-10-05-conference-reactjsday-verona
+created_at: Wed Oct 24 2018
+permalink: blog/2018-10-24-conference-reactjsday-verona
 current: blog
 author: Georgina
 twitter: GirlsCodeMK
