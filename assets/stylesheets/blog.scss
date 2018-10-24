@@ -17,7 +17,7 @@
       text-transform: lowercase;
     }
   }
-  img {
+  img:not(.emoji) {
     width: 100%;
     height: auto;
     display: block;
@@ -53,7 +53,7 @@
     width: 100%;
     position: relative;
   }
-  img {
+  img:not(.emoji) {
     width: 100%;
     display: block;
     margin: auto;
@@ -100,7 +100,20 @@
   td {
     padding-right: 1em
   }
-  img {
+  img:not(.emoji) {
     width: 200px
+  }
+}
+
+.conference-table-websites {
+  table {
+    margin-top: 2em;
+    margin-bottom: 2em
+  }
+  td {
+    padding-right: 1em
+  }
+  img:not(.emoji) {
+    width: 400px
   }
 }
