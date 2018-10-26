@@ -1,8 +1,8 @@
 ---
 title: The end of the beginning
 layout: post
-created_at: Thurs September 20 2018
-permalink: blog/2018-09-20-BarcelonaDuo-farewell
+created_at: Fri October 26 2018
+permalink: blog/2018-10-26-BarcelonaDuo-farewell
 current: blog
 author: Lori and Amalia
 twitter: HarlemExpat
