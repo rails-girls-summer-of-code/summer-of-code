@@ -4,7 +4,7 @@ layout: post
 created_at: Mon September 17 2018
 permalink: blog/2018-10-23-potatoCode-at-MirrorConf
 current: blog
-author: Sabine van der Eijk and Alina Leuca
+author: Sabine van der Eijk
 twitter: Sabin_E
 categories:
   - student-posts
@@ -13,6 +13,10 @@ categories:
 #### Team potatoCode at 🔮 _the future of the web_ 🔮 MirrorConf
 
 Asked by 🔮[MirrorConf](https://www.mirrorconf.com/) and Rails Girls Summer of Code to attend and speak on the conference in Braga, Portugal. We were excited and full of ideas: our talk would be about beginning devs and what hurdles they can encounter. To begin with, the organisation team did an excellent job in taking care of their speakers and because of this there was a very welcoming atmosphere. We felt very welcome! Our talk was due on the first day of the conference, among other great topics.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uFBDLT7GmbA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="image-credits"> Credits to Mirror Conf potatoCode 🙋‍♀🙋‍♀ Alina & Sabine at 0:44 seconds
+</div>
 
 To kickoff our talk, and out of curiosity, I asked the audience how many of them had just started programming about a year ago, some 30 hands were raised. Then I asked them who wasn't programming at all and another 50/60 hands were raised. So I concluded: "Awesome, I then assume all others are mid-level / senior developers, this talk will be for you!". Total attendees must have been around 250/300.
 
@@ -53,6 +57,10 @@ I think we can't thank the 🔮MirrorConf organisation enough. The team and the 
 
 <img src="/img/blog/2018/2018-10-23-potatoCode-at-MirrorConf-subvisualTeam.jpg" alt="Subvisual Team oganizing MirrorConf">
 <div class="image-credits"> credits to XING Portugal (@XING_pt on twitter October 18) </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/91j7NhcbU5I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="image-credits"> Credits to Mirror Conf find potatoCode Sabine at 0:11 seconds 
+</div>
 
 ---
 
