@@ -6,6 +6,7 @@ sass:
 defaults:
   category: 'news'
 gems:
+  - jemoji
   - jekyll-paginate
   - jekyll-redirect-from
 paginate: 5
