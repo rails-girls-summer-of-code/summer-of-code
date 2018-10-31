@@ -10,7 +10,6 @@ categories:
 - student-posts
 ---
 
-# Summer Down with Over 200 Commits and Over 50 Issues Closed 🎉🎉🎉🎉
 ![Final Pic!](/img/blog/2018/akaringular.jpeg)
 <div class="image-credits"><em>Final blog! (Photo credit: Dickson Otieno)</em></div>
 As we write this blog , we can't help but think of all the amazing things that have happened to us in the past three months. It looks like yesterday when we kicked off RGSoC but in reality it is now 100 days.  RGSOC happened when we were trying to do some soul searching. Figuring out where to start and what to do with our lives. It was a door opener for us. A reason to dive deeper into tech and the open source community. We have made more than 1000 steps in our career growth.
