@@ -98,7 +98,7 @@ The first talk was The Future of AI is Data by Eric Berlow, who is the Co-founde
 
 
 ![Talk](/img/blog/2018/OSSEU10.png)
-<div class="image-credits">Source: Paavini’s camera</div>
+<div class="image-credits">Source: National geographic</div>
 
 
 The left image is an example of predators displaying low mood and high arousal, whereas the right image shows high mood and high arousal. Thus, pictures falling under the category of the right image would be good in simulating a positive mood and should hence be used.
