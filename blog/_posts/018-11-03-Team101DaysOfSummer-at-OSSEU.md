@@ -10,7 +10,7 @@ categories:
 - student-posts
 ---
 
-We Paavini and Nupur as the team “101 days of summer” got the chance to attend Open Source Summit in Edinburgh from 22 October to 24 October. Here is a short summary of our experience- 
+We, Paavini and Nupur as the team “101 days of summer” got the chance to attend Open Source Summit in Edinburgh from 22 October to 24 October. Here is a short summary of our experience- 
 
 ### Day 0 - 21/10/18
 We arrived at the conference two days before the events began to be used to the time lag between Edinburgh and India and also explore the beautiful city of Edinburgh. So by this day, we had already explored a lot. We were super excited for the conference.  
