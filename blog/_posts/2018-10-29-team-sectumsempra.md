@@ -1,8 +1,8 @@
 ---
 title: How lucky are we to have something that makes saying goodbye so hard!
 layout: post
-created_at: Thu Oct 23 2018
-permalink: blog/2018-10-23-team-sectumsempra
+created_at: Thu Oct 29 2018
+permalink: blog/2018-10-29-team-sectumsempra
 current: blog
 author: Avneet Kaur
 twitter: TeamSectumsem18
@@ -23,7 +23,7 @@ RGSoC leaves us with a rich heritage of beautiful memories in their going. It ad
 Professor Dumbledore sums up the moral of RGSoC in a sentence:
 > *“It is our choices, Harry, that show what we truly are, far more than our abilities.”*
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/2018-08-17-team-sectumsempra-blog2-teampic.jpeg)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-blog2-teampic.jpeg)
 <div class="image-credits">Our supervisor - Nada (Top), Rupal (bottom left) and Avneet (bottom - right) (source: Screenshot from Hangouts, Avneet's phone camera - Moto G4 Plus)</div>
 
 ## A word of gratitude
@@ -37,7 +37,7 @@ There were so many times we were stuck and needed guidance, and our mentors and 
 
 And this is the main reason why our goodbye’s wouldn’t be easy, and our heartfelt gratitude, never enough.
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/2018-08-17-team-sectumsempra-blog2-gitter1.jpeg) ![Alt Text](https://github.com/avneet14027/images/blob/master/2018-08-17-team-sectumsempra-blog2-gitter2.jpeg)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-blog2-gitter1.jpeg) ![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-blog2-gitter2.jpeg)
   <div class="image-credits">Words of encouragement from our coaches. They always come to our rescue!(source: Screenshot from our communication with the chapel community on Gitter)</div>
 
 
@@ -50,7 +50,7 @@ The goal of the project was to develop a Parallelized and Distributed Radix Sort
 
 Due to the constant encouragement of our coaches and mentors, we are no longer afraid to ask for help and have learnt that no question asked is silly. They were always ahead of us in extending the helping hand, and responding quickly to our queries on the gitter channel. We learnt about how to collaborate as a team, working on different tasks, while keeping track of the overall progress. We learnt the importance of effective communication and the art of being patient while testing and writing code. We are thankful to them for providing us such a positive environment to be able to learn and grow along the way. 
 
- ![Alt Text](https://github.com/avneet14027/images/blob/master/2018-08-17-team-sectumsempra-blog2-pic2.jpeg)
+ ![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-blog2-pic2.jpeg)
   <div class="image-credits">Team Sectumsempra - Avneet (left) and Rupal (right) (source: Avneet's phone camera - Moto G4 Plus)</div>
 
 ## Our Personal Experiences:
@@ -75,7 +75,7 @@ I have emerged as a more confident person than ever. All thanks to the constant 
 ### Rupal
 The summer’s over already? Are you kidding me?
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/sectumsem-hagrid-gif.gif)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsem-hagrid.gif)
 <div class="image-credits">Source: Giphy</div>
 
 Well, it’s never ‘over’. Not yet.
@@ -88,7 +88,7 @@ And then in my second year, I came across the RGSoC community and past scholars.
 
 I still remember the date: **17th May 2018**. It was the day when searching and reading through a lot of follow up and rejection emails, after three months long wait, I found *my* **Hogwarts letter**.
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/2018-09-17-giphy1.gif)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-giphy1.gif)
 <div class="image-credits">Source: Giphy</div>
 
 And ever since then, the whole period have been very rewarding for me. If I try and put them all (the experience, emotions tagged with each one of them, mistakes and learnings and accomplishments) out here, the list will just go on and on. But don’t worry, I’ll keep it brief for you.
@@ -97,7 +97,7 @@ In addition to giving us great memories to cherish, it also marked the beginning
 
 Along with a lot of amazing and thought provoking things we worked on this summer, one thing I learnt during the program that I wish to share with Y’all: It is okay if you don’t know something in advance, everybody starts as a beginner. It’s more about how willing you’re to learn after that. There have been a lot of ‘trivial’ things (although not-so-trivial for me) that I got to learn this summer. There have been times when I used to feel very small about not knowing something as small as “Git workflow” which, apparently, everybody on the Chapel channel was hella great at. But you know what, chuck those thoughts away and ask for help if you’re feeling stuck.
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/2018-09-17-giphy2.gif)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-giphy2.gif)
 <div class="image-credits">Source: Giphy</div>
 
 I promised myself that I am going to make this summer that best summer of my undergraduate for me. Won’t leave any stone unturned. And, I did. No matter how silly and tiring the tasks were, I sailed through them and did my best.
@@ -131,26 +131,26 @@ Kate Winslet just puts it right:
 need to have each other’s back. We need to tell each other that “I’m there for you, to
 help you.” And, this is how we grow. TOGETHER.
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/helping-others.gif)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-giphy3.gif)
 <div class="image-credits">Source: Giphy</div>
 
 - **YAS Girl, you can do it!** The feeling that “I’m not ready. Not just yet” always clouds us
 too often. You’ll never be prepared, there’s always be a scope for improvement. But,
 don’t let that hold you back. If you so want something, go get it. Period.
 
-![Alt Text](https://themotivationmentalist.files.wordpress.com/2014/05/dont-ever-let-someone-tell-you-that-you-cant-do-something.jpg)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-blog-img-last.jpeg)
 <div class="image-credits">Source: Google Image Search</div>
 
 - **Party is must!**
 
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/sectumsem-giphy.gif)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-giphy4.gif)
 <div class="image-credits">Source: Giphy</div>
 
 
 - **C’mon, a Dork dance is must. Amy’s style**
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/tenor%20(1).gif)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-giphy5.gif)
 <div class="image-credits">Source: Giphy</div>
 
 ### Next Steps
@@ -160,5 +160,5 @@ And we feel there are no better words to express how we feel for RGSoC than to s
 
 ***Alvida, RGSoC!***
 
-![Alt Text](https://github.com/avneet14027/images/blob/master/8cf94510-9dba-0133-a027-0e7c926a42af.gif)
+![Alt Text](/img/blog/2018/2018-10-28-team-sectumsempra-giphy6.gif)
 <div class="image-credits">Source: Giphy</div>
