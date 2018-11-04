@@ -1,8 +1,8 @@
 ---
 title: Team DelSquared-Our Summer of Code, 2018
 layout: post
-created_at: Fri Oct 19 2018
-permalink: blog/2018-19-10-DelSquared_RGSoC_blogpost
+created_at: Sun Nov 4 2018
+permalink: blog/2018-11-04-DelSquared_RGSoC_blogpost
 current: blog
 author: Sharmistha Swasti Gupta
 twitter: SharmisthaSG_
