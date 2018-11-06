@@ -1,8 +1,8 @@
 ---
 title: An enriching journey, Summers’ 2018 - Team 101 Days of Summer
 layout: post
-created_at: Sat Sep 15 2018
-permalink: blog/2018-09-15-101daysofsummer-blog2
+created_at: Tue Nov 06 2018
+permalink: blog/2018-11-06-101daysofsummer-blog2
 current: blog
 author: Nupur Baghel
 twitter: nupur_baghel
