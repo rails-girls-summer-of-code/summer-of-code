@@ -82,9 +82,6 @@ P.S. The quote on the shirt of the scientist above said “I invented the satell
  
 The day ended with the All-Attendee Reception held at the National Museum of Scotland. It was a beautiful place with people dressed in traditional clothes and bagpiper music filling the air. We also got a glimpse of the statue of Dolly, the first cloned sheep.The live performance by the energetic performers further cheered up everyone. We met people from working on linux kernel and media streaming and went back happily to our warm and cozy hotels.
 
-![Live Performance](https://www.instagram.com/stories/highlights/17917470982245763/)
-Well well, this is the original track and not a fast-forwarded one, I swear :P
-
 
 
 ### Day 2 - 22/10/18
