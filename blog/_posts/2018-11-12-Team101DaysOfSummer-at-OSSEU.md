@@ -1,13 +1,14 @@
 ---
 title: OSS EU blog post
 layout: post
-created_at: Sat 3 Nov 2018
-permalink: blog/2018-11-03-Team101DaysOfSummer-at-OSSEU
+created_at: Mon 12 Nov 2018
+permalink: blog/2018-11-12-Team101DaysOfSummer-at-OSSEU
 current: blog
 author: Paavini
 twitter: paavininanda
 categories: 
-- student-posts
+ - student-posts
+ - conferences
 ---
 
 We, Paavini and Nupur as the team “101 days of summer” got the chance to attend Open Source Summit in Edinburgh from 22 October to 24 October. Here is a short summary of our experience- 
