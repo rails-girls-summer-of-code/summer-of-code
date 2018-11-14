@@ -29,7 +29,7 @@ If you’re a conference organizer and interested in supporting our students, pl
 * <a href="#conference">At the Conference</a>
 * <a href="#travel">What About Travel and Accommodation?</a>
 * <a href="#organizers">Infos for Conference Organizers</a>
-* <a href="#conferences">Conference Sponsors in 2017</a>
+* <a href="#conferences">Conference Sponsors in 2018</a>
 
 <h3 id="basics">The Basics</h3>
 The RGSoC orga team is in touch with many conference organizers all over the world and we try to provide free tickets for suitable conferences in your area. A suitable conference is one that is related to your main programming language or a general topic conference that is beginner friendly.
@@ -83,9 +83,9 @@ We are not able to support our students with travel and accommodation. If you ha
 
 Interested? Any further questions? Write us an <a href="mailto:contact@rgsoc.org">email</a> and we can talk about the details.
 
-<h3 id="conferences">Conference Sponsors in 2017</h3>
+<h3 id="conferences">Conference Sponsors in 2018</h3>
 
-A huge **thank you** to all conferences who supported our students and provided free tickets during Rails Girls Summer of Code 2017.
+A huge **thank you** to all conferences who supported our students and provided free tickets during Rails Girls Summer of Code 2018.
 
 <section class="conferences-container">
 
