@@ -1,15 +1,15 @@
 ---
 title: Full Stack Fest in Barcelona
 layout: post
-created_at: Thurs October 20 2018
-permalink: blog/2018-10-20-FullStackFest-Barcelona
+created_at: Fri November 16 2018
+permalink: blog/2018-11-16-FullStackFest-Barcelona
 current: blog
 author: Amalia Cardenas
 twitter: anybodycancode1
 categories:
 - conferences
 ---
-One of the highlights of this summer was attending the Full Stack Fest in Barcelona. The Full Stack Feast is a language agnostic conference that focuses on the future of the web. The conference was outstanding, I learned a lot, met some great people and overall the conference had a positive impact in my personal development.
+One of the highlights of this summer was attending the Full Stack Fest in Barcelona. The Full Stack Fest is a language agnostic conference that focuses on the future of the web. The conference was outstanding, I learned a lot, met some great people and overall the conference had a positive impact in my personal development.
 
 ![Klaus Fleerkötter , Anemari Fiser , and Amalia Cardenas at the Full Stack Feast](/img/blog/2018/2018-10-20-FullStackFeast-AmaliaCardenas-Img1.jpg)
 <div class="image-credits"><b>Klaus Fleerkötter , Anemari Fiser , and Amalia Cardenas at the Full Stack Feast. (Photo taken by Amalia Cardenas)</b></div>
