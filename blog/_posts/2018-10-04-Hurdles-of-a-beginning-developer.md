@@ -50,5 +50,3 @@ Even so, the list of hurdles we encounter as junior developers grows bigger ever
 <div class="image-credits"> Courtesy Forbes Conrad Macau Bridge </div>
 
 Just like we've found solutions to most of these, we're determined to chip at this list one issue at a time, and bungee jump as much as it takes :)
-
-Overall, we had a great smooth time at Rails Girls, with very few hiccups along the way because we were lucky to have our amazing supervisors and mentors. Going forward, I think we'll find that having a network to rely on will be one of the most effective ways to overcome these struggles. We can only hope that one day we'll be at a level where we can provide the same type of support for future aspiring devs!
