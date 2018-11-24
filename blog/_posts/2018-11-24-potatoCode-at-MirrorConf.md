@@ -1,8 +1,8 @@
 ---
 title: "Sharing your knowledge"
 layout: post
-created_at: Sat November 3 2018
-permalink: blog/2018-10-23-potatoCode-at-MirrorConf
+created_at: Sat November 24 2018
+permalink: blog/2018-11-24-potatoCode-at-MirrorConf
 current: blog
 author: Sabine van der Eijk
 twitter: Sabin_E
@@ -14,13 +14,17 @@ categories:
 
 Asked by 🔮[MirrorConf](https://www.mirrorconf.com/) and Rails Girls Summer of Code to attend and speak on the conference in Braga, Portugal. We were excited and full of ideas: our talk would be about beginning devs and what hurdles they can encounter. To begin with, the organisation team did an excellent job in taking care of their speakers and because of this there was a very welcoming atmosphere. We felt very welcome! Our talk was due on the first day of the conference, among other great topics.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uFBDLT7GmbA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### 🔴 \_\_🎬🎥 Click image below to watch video
+
+[![Best of 🔮 MirrorConf 1](http://img.youtube.com/vi/uFBDLT7GmbA/0.jpg)](http://www.youtube.com/watch?v=uFBDLT7GmbA "🔴 Youtube: Best of 🔮 MirrorConf 1")
+
 <div class="image-credits"> Credits to Mirror Conf potatoCode 🙋‍♀🙋‍♀ Alina & Sabine at 0:44 seconds
 </div>
 
 To kickoff our talk, and out of curiosity, I asked the audience how many of them had just started programming about a year ago, some 30 hands were raised. Then I asked them who wasn't programming at all and another 50/60 hands were raised. So I concluded: "Awesome, I then assume all others are mid-level / senior developers, this talk will be for you!". Total attendees must have been around 250/300.
 
-<img src="/img/blog/2018/2018-10-23-potatoCode-at-MirrorConf-AlinaSabineTalk.jpg" alt="Alina & Sabine talk, hurdles of a beginning dev">
+![Alina & Sabine talk, hurdles of a beginning dev](/img/blog/2018/2018-11-24-potatoCode-at-MirrorConf-AlinaSabineTalk.jpg)
+
 <div class="image-credits"> Credits to Experta Global (@ExpertaGlobal on twitter October 18)</div>
 
 ## Everyone can be a good mentor
@@ -36,29 +40,36 @@ What the conference talks all boiled down to, one way or the other, is that deve
 
 > _"Amplify the best of technology and the best of humanity"_ Amber Case
 
-<img src="/img/blog/2018/2018-10-23-potatoCode-at-MirrorConf-AmberCase.jpg" alt="Amplify the best of technology and the best of humanity">
+![Amplify the best of technology and the best of humanity](/img/blog/2018/2018-11-24-potatoCode-at-MirrorConf-AmberCase.jpg)
+
 <div class="image-credits">Credits to Hi Interactive (@hiinteractive on twitter October 19)</div>
 
 The French saying "Noblesse oblige" can help you remind you of your responsibility as a programmer. Nobility obliges could just well be Developers oblige. Developers are more than 'just' code writers, a developer ideally should be fully aware of her/his social responsibilities. By the way it's not obligatory, it's a requirement that every developer should fulfill for a more inclusive web. To quote Vivianne Castillo: _"You can have comfort OR you can have courage. But you can't have them both at the same time. Choose."_. In the spirit of the talks at this conference and of Developers oblige, choose for courage to speak up!
 
 > _"Choose courage over comfort!"_ Vivianne Castillo
 
-<img src="/img/blog/2018/2018-10-23-potatoCode-at-MirrorConf-VivianneCastillo.jpg" alt="Choose courage over comfort! Vivianne Castillo">
+![Choose courage over comfort! Vivianne Castillo](/img/blog/2018/2018-11-24-potatoCode-at-MirrorConf-VivianneCastillo.jpg)
+
 <div class="image-credits"> Credits to Expertera (@ExperteraGlobal on twitter October 18)</div>
 
 > _"Saying NO is a design skill. Asking WHY is a design skill. Rolling your eyes is not a design skill."_ Mike Monteiro
 
-<img src="/img/blog/2018/2018-10-23-potatoCode-at-MirrorConf-MikeMonteiro.jpg" alt="Saying NO is a design skill. Asking WHY is a design skill. Rolling your eyes is not a design skill. Mike Monteiro">
+![Saying NO is a design skill. Asking WHY is a design skill. Rolling your eyes is not a design skill. Mike Monteiro](/img/blog/2018/2018-11-24-potatoCode-at-MirrorConf-MikeMonteiro.jpg)
+
 <div class="image-credits"> Credits to Simona Ritrovato (@strillart on twitter October 19)</div>
 
 ## Obrigada 🔮MirrorConf! 🙋‍♀🙋‍♀
 
 I think we can't thank the 🔮MirrorConf organisation enough. The team and the help we got from Laura, Zemith, José, Joáo, among others of Subvisual was outstanding! Also we would like to explicitly thank Ana Sofia for arranging that we could attend the conference, awesome job! Obrigada! 🙋‍♀🙋‍♀
 
-<img src="/img/blog/2018/2018-10-23-potatoCode-at-MirrorConf-subvisualTeam.jpg" alt="Subvisual Team oganizing MirrorConf">
+![Subvisual Team oganizing MirrorConf](/img/blog/2018/2018-11-24-potatoCode-at-MirrorConf-subvisualTeam.jpg)
+
 <div class="image-credits"> credits to XING Portugal (@XING_pt on twitter October 18) </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/91j7NhcbU5I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### 🔴 \_\_🎬🎥 Click image below to watch video
+
+[![Best of 🔮 MirrorConf 2](http://img.youtube.com/vi/91j7NhcbU5I/0.jpg)](http://www.youtube.com/watch?v=91j7NhcbU5I "🔴 Youtube: Best of 🔮 MirrorConf 2")
+
 <div class="image-credits"> Credits to Mirror Conf find potatoCode Sabine at 0:11 seconds 
 </div>
 
@@ -68,5 +79,6 @@ I think we can't thank the 🔮MirrorConf organisation enough. The team and the 
 
 ###### Sabine van der Eijk & Alina Leuca
 
-<img src="/img/blog/2018/2018-10-23-potatoCode-at-MirrorConf-Alina&Sabine.png" alt="🔮MirrorConf speakers Alina & Sabine">
+![🔮MirrorConf speakers Alina & Sabine](/img/blog/2018/2018-11-24-potatoCode-at-MirrorConf-AlinaSabine.jpg)
+
 <div class="image-credits"> credits to Subvisual, organisation 🔮MirrorConf</div>
