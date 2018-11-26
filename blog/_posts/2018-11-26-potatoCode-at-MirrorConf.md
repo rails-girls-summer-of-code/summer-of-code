@@ -1,13 +1,14 @@
 ---
 title: "Sharing your knowledge"
 layout: post
-created_at: Sat November 24 2018
-permalink: blog/2018-11-24-potatoCode-at-MirrorConf
+created_at: Sat November 26 2018
+permalink: blog/2018-11-26-potatoCode-at-MirrorConf
 current: blog
 author: Sabine van der Eijk
 twitter: Sabin_E
 categories:
   - student-posts
+  - conferences
 ---
 
 #### Team potatoCode at 🔮 _the future of the web_ 🔮 MirrorConf
