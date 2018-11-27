@@ -15,9 +15,7 @@ categories:
 
 Asked by 🔮[MirrorConf](https://www.mirrorconf.com/) and Rails Girls Summer of Code to attend and speak on the conference in Braga, Portugal. We were excited and full of ideas: our talk would be about beginning devs and what hurdles they can encounter. To begin with, the organisation team did an excellent job in taking care of their speakers and because of this there was a very welcoming atmosphere. We felt very welcome! Our talk was due on the first day of the conference, among other great topics.
 
-### 🔴 \_\_🎬🎥 Click image below to watch video
-
-[![Best of 🔮 MirrorConf 1](http://img.youtube.com/vi/uFBDLT7GmbA/0.jpg)](http://www.youtube.com/watch?v=uFBDLT7GmbA "🔴 Youtube: Best of 🔮 MirrorConf 1")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uFBDLT7GmbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="image-credits"> Credits to Mirror Conf potatoCode 🙋‍♀🙋‍♀ Alina & Sabine at 0:44 seconds
 </div>
