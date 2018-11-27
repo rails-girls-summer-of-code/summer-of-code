@@ -65,12 +65,9 @@ I think we can't thank the 🔮MirrorConf organisation enough. The team and the 
 
 <div class="image-credits"> credits to XING Portugal (@XING_pt on twitter October 18) </div>
 
-### 🔴 \_\_🎬🎥 Click image below to watch video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/91j7NhcbU5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Best of 🔮 MirrorConf 2](http://img.youtube.com/vi/91j7NhcbU5I/0.jpg)](http://www.youtube.com/watch?v=91j7NhcbU5I "🔴 Youtube: Best of 🔮 MirrorConf 2")
-
-<div class="image-credits"> Credits to Mirror Conf find potatoCode Sabine at 0:11 seconds 
-</div>
+<div class="image-credits"> Credits to Mirror Conf find potatoCode Sabine at 0:11 seconds </div>
 
 ---
 
