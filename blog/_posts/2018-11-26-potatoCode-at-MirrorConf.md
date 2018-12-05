@@ -15,7 +15,7 @@ categories:
 
 Asked by 🔮[MirrorConf](https://www.mirrorconf.com/) and Rails Girls Summer of Code to attend and speak on the conference in Braga, Portugal. We were excited and full of ideas: our talk would be about beginning devs and what hurdles they can encounter. To begin with, the organisation team did an excellent job in taking care of their speakers and because of this there was a very welcoming atmosphere. We felt very welcome! Our talk was due on the first day of the conference, among other great topics.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uFBDLT7GmbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" title="Youtube video of selected scenes from MirrorConf 2018 (part 1)" src="https://www.youtube.com/embed/uFBDLT7GmbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="image-credits"> Credits to Mirror Conf potatoCode 🙋‍♀🙋‍♀ Alina & Sabine at 0:44 seconds
 </div>
@@ -65,7 +65,7 @@ I think we can't thank the 🔮MirrorConf organisation enough. The team and the 
 
 <div class="image-credits"> credits to XING Portugal (@XING_pt on twitter October 18) </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/91j7NhcbU5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" title="Youtube video of selected scenes from MirrorConf 2018 (part 2)" src="https://www.youtube.com/embed/91j7NhcbU5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="image-credits"> Credits to Mirror Conf find potatoCode Sabine at 0:11 seconds </div>
 
