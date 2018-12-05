@@ -3,7 +3,7 @@
   <ul>
   {% for conference in site.data.conferences %}
     <li>
-      <a href="{{ conference.url }}" class="{{ conference.id }}"></a>
+      <a href="{{ conference.url }}" aria-label="{{ conference.name }} website" class="{{ conference.id }}"></a>
     </li>
   {% endfor %}
   </ul>
