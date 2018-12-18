@@ -2,7 +2,7 @@
 title: RGSoC Teams at GOTO Berlin!
 layout: post
 created_at: Tue Dec 18 2018
-permalink: blog/2018-11-18-team-sectumsempra
+permalink: blog/2018-11-18-RGSoCTeamsGOTOBerlin
 current: blog
 author: Avneet Kaur
 twitter: TeamSectumsem18
