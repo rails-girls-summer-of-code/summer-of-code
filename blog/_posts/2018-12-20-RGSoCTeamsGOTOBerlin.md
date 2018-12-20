@@ -1,7 +1,7 @@
 ---
 title: RGSoC Teams at GOTO Berlin!
 layout: post
-created_at: Tue Dec 20 2018
+created_at: Thu Dec 20 2018
 permalink: blog/2018-12-20-RGSoCTeamsGOTOBerlin
 current: blog
 author: Avneet Kaur
