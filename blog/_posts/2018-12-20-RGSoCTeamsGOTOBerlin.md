@@ -70,6 +70,7 @@ Further we also attended a talk on PoP songs and Machine Learning which was quit
 All the talks we attended gave us a new insight to how technology is being used in various ways and how it is continuously growing. We learned about interesting concepts of frugal innovation, changing the lives of people in developing countries. We also learned about how important it is to start teaching young children to code to prepare them for the future. 
 
 ![Rupal and Avneet with Laura Gaetano, RGSoC organizer](/img/blog/2018/2018-12-20-goToBerlin-TeamSectumsempra3.jpg)
-<div class="image-credits">Avneet (Left), Laura Gaetano(Centre), Avneet (Right) (source: Avneet Kaur)</div>
+<div class="image-credits">Avneet (Left), Laura Gaetano(Centre), Rupal (Right) (source: Avneet Kaur)</div>
+
 
 Interestingly, on our last day in Berlin, we met Laura, one of the RGSoC organizers, and she was really kind to show us around some of the great places in Berlin. We are really grateful to her for that, and my teammate rightly said, "Laura made us feel home in Berlin, and made our trip a memorable experience." All in all, we had a great time at GoTo Berlin conference and we are really thankful to the RgSoC organizers for providing us the opportunity to attend and make memories of a lifetime. It was a great learning experience and we consider ourselves very fortunate to be able to attend the event and also learn so much from the technologists of today. 
