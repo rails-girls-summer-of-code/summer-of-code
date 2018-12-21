@@ -17,6 +17,8 @@ Any company with a respectful and inclusive culture, desk space, a good internet
 
 If you are considering becoming one of our Coaching Companies, this guide will help you figure out what this role entails.
 
+<strong>Note: we're currently getting ready for the next edition of RGSoC, so we don't yet have a timeline or application guidelines for 2019. We'll share more information as soon as possible.</strong>
+
 <h2>Coaching Company Guide</h2>
 
 * <a href="#q3">What does a Coaching Company do?</a>

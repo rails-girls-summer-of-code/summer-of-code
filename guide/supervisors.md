@@ -13,7 +13,9 @@ Each year we are also looking for caring people to supervise 1–2 teams through
 
 Supervisors check in with their teams regularly to see if everything is going smoothly and if there’s anything the team needs help with. The role of Supervisor is non-technical, so you do not have to be a coder to become a supervisor.
 
-If you are thinking of supporting Rails Girls Summer of Code as a Supervisor, the following guidelines should help you make up your mind if this is a good fit for you.
+If you are thinking of supporting Rails Girls Summer of Code as a Supervisor, the following guidelines should help you make up your mind if this is a good fit for you.  
+
+<strong>Note: we're currently getting ready for the next edition of RGSoC, so we don't yet have a timeline or application guidelines for 2019. We'll share more information as soon as possible.</strong>
  
 <h2>Supervisor Guide</h2>
 
