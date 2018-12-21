@@ -24,7 +24,7 @@ Once you're all set up, you'll have to bundle the gems using bundler and start j
 ```
 gem install bundler
 bundle install
-jekyll serve --watch
+bundle exec jekyll serve --watch
 
 ```
 
