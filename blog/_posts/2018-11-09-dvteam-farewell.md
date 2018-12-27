@@ -11,12 +11,12 @@ categories:
 ---
 
 
- __Time's up!__
+# Time's up!
 
-__What an incredible experience!__
+## What an incredible experience!
 While most of people went on summer holidays to unwind, we decided to do the opposite. Working throughout summer, combining our full time job with a part-time Summer of Code experience. After an intensive three months of 60+ hours work, it’s hard to believe this Rails Girls Summer of Code experience is coming to an end. Read what the DV Team learned during this coding summer.
  
-__Living Style Guide - PIMD__
+## Living Style Guide - PIMD
 [Living Style Guide](http://www.livingstyleguide.org) is the Open Source project we have been selected for. It helps developers to create front-end style guides easily with SaSS and Markdown. The project is created by [Nico Hagenburger](http://www.twitter.com/hagenburger) (designer and software programmer) with the help of [Jen Geacone-Cruz](https://twitter.com/anomiseditrix) (Content Director). Our main tasks were linked to the porting of the project from Ruby to JavaScript: to refactor and enhace code, implement plugins, test code in Vanilla Javascript and improving the documentation.
 
 Our main targets:
@@ -26,7 +26,7 @@ Our main targets:
 
 It resulted in a new plugin on npm packages, called PIMD. PIMD stands for “Processing Instructions for Markdown” and is the base for the JavaScript version of LivingStyleGuide – an API to extend Markdown by DOM manipulations as known from the browsers.
 
-__How did we work on it?__
+### How did we work on it?
 Before the project began, we gathered to organize ourselves and created a list of desired outcomes. Our summer would be successful, if we achieved the following:
 
  **July**: plan, learn as much as we can, connect with the RgSoc-community and start contributing to Living Style Guide making our first contribution to open source
@@ -35,12 +35,12 @@ Before the project began, we gathered to organize ourselves and created a list o
  **October**: finish the last issues for PIMD project and hopefully be ready to find and start a new tech job as Junior Front End Web Developers in Barcelona when the summer is over.
  From the beginning, we tried to stay organized and clearly communicate our goals. Yet, with no timeline in hand, opposite time schedules, no real idea about how the code worked and no instructions, we worked on random issues. One month gone, we lost the excitement without the inputs from the mentors. That changed when we discussed it with our supervisor Lucas and met our new mentor Bright. Things went much better from that moment on, we were lucky to have coaches that are very talented, no only in coding but also in explaining and lifting our spirits.
 
-__Daily log__
+### Daily log
 Once the project started, we made a daily log with what we did that day. 
 Each day we had at least one sit-down where we’d ask about each other’s progress and maybe even teach each other what we learned or how to build something. 
 After three months of research, tutorials, building and deploying, we finally built the minimum viable product of our project. The last month, we refactored, tested and added new features to each component.
 
-__Lessons and Challenges: Things we learned along the way__
+## Lessons and Challenges: Things we learned along the way
 One of the best and worst parts of our project is that we were given freedom to build using whatever stack we wanted. It was very freeing and made us feel like our mentor really trusted us with making the right decision.
 
 However, as newbie developers sometimes we would spend days or even weeks researching different technologies, not knowing if we could overcome the steep learning curve. It was a challenge itself to know when to ask questions and ask for help, to manage frustration and to know when to stop and get proper rest.
@@ -49,7 +49,7 @@ The best parts of the experience were the small victories, the aha moments, shar
 
 Spending three months, peppered with lots of success and failure, we loved every minute of it! Which is the best lesson of all from working on the RGSoC project this summer.
 
-__What RGSoC taught us__
+## What RGSoC taught us
 Besides contributing to open-source, we learned new tools and technologies and improved our skill-set. This is how Rgsoc helped us kickstart our careers and grow a lot as individuals.
  *We learned...*
  *…* it is really hard to predict and allocate time for building a new page or feature - because a lot can go wrong, and can totally derail the project. 
@@ -66,13 +66,13 @@ Besides contributing to open-source, we learned new tools and technologies and i
  *…* the importance of paying attention to detail, syntax and style
  *…* how amazing and helpful the dev community can be! 
 
-__Achievements__
+## Achievements
 We learned a lot during summer. Among others how to spent hours working on the same problem, freaked out,miscommunicated, lost our code, worked with complete opposite work schedules, were stuck, tried pair coding, coded alone, changed mentors, shifted projects, went to an incredible JavaScript conference, met awesome people, learned the open-source world, faced our fears and doubts and just kept going. Step-by-step. And our hard work paid off, we are celebrating with a few milestones:
 - The PIMD-project was released as an npm package. 
 - We created a PIMD Live Demo and documentation file. 
 - We implemented new plugins
 
-__Thanks__
+## Thanks
 We would not be able to thank RGSoC enough for all we learned through this summer. A big big thanks to [RGSoC](https://railsgirlssummerofcode.org/) and all the Sponsors for giving us this opportunity and the organizors for their constant support. 
 And of course, this summer would not have been so amazing without...
 
