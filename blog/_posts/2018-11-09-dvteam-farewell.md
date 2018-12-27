@@ -5,6 +5,7 @@ permalink: blog/2018-11-09-dvteam-farewell
 current: blog
 author: Violeta & Diana
 twitter: artnerdnet
+title: DV Team Farewell
 categories:
 - student-posts
 ---
