@@ -1,11 +1,11 @@
 ---
+title: DV Team Farewell
 layout: post
 created_at: Fri Sep 7 2018
 permalink: blog/2018-11-09-dvteam-farewell
 current: blog
 author: Violeta & Diana
 twitter: artnerdnet
-title: DV Team Farewell
 categories:
 - student-posts
 ---
