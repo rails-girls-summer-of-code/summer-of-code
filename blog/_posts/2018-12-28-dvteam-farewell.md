@@ -1,8 +1,8 @@
 ---
 title: DV Team Farewell
 layout: post
-created_at: Fri Sep 7 2018
-permalink: blog/2018-11-09-dvteam-farewell
+created_at: Fri Dec 28 2018
+permalink: blog/2018-12-28-dvteam-farewell
 current: blog
 author: Violeta & Diana
 twitter: artnerdnet
