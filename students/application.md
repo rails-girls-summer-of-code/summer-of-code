@@ -17,6 +17,8 @@ permalink: /students/application/
 
 <p>If you’re thinking about applying for Rails Girls Summer of Code, this guide will tell you everything you need to know. Please read through it carefully to ensure you know about all the requirements of a good and complete application.</p>
 
+<strong>Note: we're currently getting ready for the next edition of RGSoC, so we don't yet have a timeline or application guidelines for 2019 (the guidelines below are from 2018). We'll share more information as soon as possible.</strong>
+
 <ul>
   <li><a href="#eligibility">Who is eligible to apply?</a></li>
   <li><a href="#stipend">How much is the scholarship?</a></li>
