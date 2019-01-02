@@ -66,7 +66,7 @@ Besides contributing to open-source, we learned new tools and technologies and i
  *…* how amazing and helpful the dev community can be!  
 
 ## Achievements
-We learned a lot during summer. Among others how to spent hours working on the same problem, freaked out,miscommunicated, lost our code, worked with complete opposite work schedules, were stuck, tried pair coding, coded alone, changed mentors, shifted projects, went to an incredible JavaScript conference, met awesome people, learned the open-source world, faced our fears and doubts and just kept going. Step-by-step. And our hard work paid off, we are celebrating with a few milestones:
+We learned a lot during summer. Among others how to spent hours working on the same problem, freaked out,miscommunicated, lost our code, worked with complete opposite work schedules, were stuck, tried pair coding, coded alone, changed mentors, shifted projects, went to an incredible JavaScript conference, met awesome people, learned the open-source world, faced our fears and doubts and just kept going. Step-by-step. And our hard work paid off, we are celebrating with a few milestones:  
 - The PIMD-project was released as an npm package.  
 - We created a PIMD Live Demo and documentation file.   
 - We implemented new plugins  
