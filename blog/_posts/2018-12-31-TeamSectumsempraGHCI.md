@@ -1,8 +1,8 @@
 ---
 title: Team Sectumsempra at GHCI 2018!
 layout: post
-created_at: Thu Dec 20 2018
-permalink: blog/2018-12-20-TeamSectumsempraGHCI
+created_at: Mon Dec 31 2018
+permalink: blog/2018-12-31-TeamSectumsempraGHCI
 current: blog
 author: Avneet Kaur
 twitter: TeamSectumsem18
