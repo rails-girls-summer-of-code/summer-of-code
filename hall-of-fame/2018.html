@@ -29,8 +29,8 @@ permalink: hall-of-fame/2018/
   {% for package in site.data.packages-2018 %}
     {% for sponsor in package.sponsors %}
       {% if sponsor.partner == true %}
-      <div class="team-grid-child">
-        {{sponsor.name}}
+      <div class="sponsors-grid-child">
+        <a href="{{sponsor.url}}">{{ sponsor.name }}</a>    
       </div>
       {% endif %}
     {% endfor %}
@@ -56,8 +56,8 @@ permalink: hall-of-fame/2018/
   {% for package in site.data.packages-2018 %}
     {% if package.name contains 'Platinum' %}
       {% for sponsor in package.sponsors %}
-        <div class="team-grid-child">
-          {{sponsor.name}}
+        <div class="sponsors-grid-child">
+          <a href="{{sponsor.url}}">{{ sponsor.name }}</a>    
         </div>
       {% endfor %}
     {% endif %}
