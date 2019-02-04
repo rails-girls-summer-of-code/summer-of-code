@@ -25,6 +25,17 @@ permalink: hall-of-fame/2018/
 </div>
 
 <h3>Partners</h3>
+<div class="main-grid">
+  {% for package in site.data.packages-2018 %}
+    {% for sponsor in package.sponsors %}
+      {% if sponsor.partner == true %}
+      <div class="team-grid-child">
+        {{sponsor.name}}
+      </div>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>
 
 <h3>Statistics</h3>
 <div class="main-grid">
@@ -41,6 +52,17 @@ permalink: hall-of-fame/2018/
 </div>
 
 <h3>Platinum sponsors</h3>
+<div class="main-grid">
+  {% for package in site.data.packages-2018 %}
+    {% if package.name contains 'Platinum' %}
+      {% for sponsor in package.sponsors %}
+        <div class="team-grid-child">
+          {{sponsor.name}}
+        </div>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 <h3>Special moments</h3>
 
