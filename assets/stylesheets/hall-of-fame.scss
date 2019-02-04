@@ -1,6 +1,17 @@
-.team-grid {
+.main-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 10px;
+}
+
+.stats-grid-child {
+  align-self: center;
+  text-align: center;
+}
+
+.statistics {
+  color: $red;
+  font-size: $font-size-h2;
+  font-weight: 700;
 }
 
