@@ -1,0 +1,72 @@
+- name: FullStackFest
+  id: full-stack-fest
+  url: https://fullstackfest.com/
+  dates:
+    - September 3-7, 2018
+  location: Barcelona, Spain
+  twitter_url: https://twitter.com/fullstackfest
+  twitter_name: fullstackfest
+  img: /img/blog/2018/conferences/fullstack.png
+- name: GOTO Berlin 2018
+  id: goto-berlin
+  url: https://gotober.com/
+  dates:
+    - October 29 - November 2, 2018
+  location: Berlin, Germany
+  twitter_url: https://twitter.com/gotober
+  twitter_name: gotober
+  img: /img/blog/2018/conferences/goto_berlin.png
+- name: MirrorConf
+  id: mirror-conf
+  url: https://www.mirrorconf.com/
+  dates:
+    - October 15-19, 2018
+  location: Braga, Portugal
+  twitter_url: https://twitter.com/MirrorConf
+  twitter_name: MirrorConf
+  img: /img/blog/2018/conferences/mirror-conf-square.png
+- name: GoLab
+  id: go-lab
+  url: https://www.golab.io/
+  dates:
+    - October 22-23, 2018
+  location: Florence, Italy
+  twitter_url: https://twitter.com/golab_conf
+  twitter_name: golab_conf
+  img: /img/blog/2018/conferences/golab.jpg
+- name: Open Source Summit Europe
+  id: oss-europe
+  url: https://events.linuxfoundation.org/events/open-source-summit-europe-2018/
+  dates:
+    - October 22-24, 2018
+  location: Edinburgh, UK
+  twitter_url: https://twitter.com/linuxfoundation
+  twitter_name: linuxfoundation
+  img: /img/blog/2018/conferences/oss-europe.png
+- name: reactjsday
+  id: reactjsday
+  url: https://2018.reactjsday.it/
+  dates:
+    - October 5th, 2018
+  location: Verona, Italy
+  twitter_url: https://twitter.com/reactjsday
+  twitter_name: reactjsday
+  img: /img/blog/2018/conferences/reactjsday.jpg
+- name: GHCI, 2018
+  id: ghci
+  url: https://ghcindia.anitab.org/
+  dates:
+    - November 14th - 16th, 2018
+  location: Bangalore, India
+  twitter_url: https://twitter.com/AnitaBorg_India
+  twitter_name: AnitaBorg_India
+  img: /img/blog/2018/conferences/anita_borg.jpg
+- name: Frontend Conference Fukuoka 2018
+  id: frontend-conference-fukuoka
+  url: https://frontend-conf.fukuoka.jp
+  dates:
+    - December 8th, 2018
+  location: Fukuoka, Japan
+  twitter_url: https://twitter.com/fec_fukuoka
+  twitter_name: fec_fukuoka
+  img: /img/blog/2018/conferences/fec_fukuoka.jpg
