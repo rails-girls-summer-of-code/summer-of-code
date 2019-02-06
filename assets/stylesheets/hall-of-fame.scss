@@ -4,6 +4,12 @@
   grid-gap: 10px;
 }
 
+.stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
 .stats-grid-child {
   align-self: center;
   text-align: center;
@@ -15,3 +21,8 @@
   font-weight: 700;
 }
 
+//DEBUG 
+
+.main-grid, .team-grid-child, .sponsors-grid-child, .stats-grid-child {
+  border: solid 1px red;
+}
