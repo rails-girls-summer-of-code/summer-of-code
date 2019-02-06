@@ -10,18 +10,16 @@ permalink: hall-of-fame/2018/
 
 <h3>Teams</h3>
 <div class="main-grid">
+  {% for team in site.data.teams-2018 %}
   <div class="main-grid-child">
-    <h4 class="color-red">Team name</h4>
-    <article>Some team information goes here Some team information goes here Some team information goes here Some team information goes here Some team information goes here</article>
+    <h4 class="color-red">{{ team.name }}</h4>
+    <article>
+      <strong>Students</strong>: {{ team.students }}</br>
+      <strong>Project</strong>: {{ team.project }}</br>
+      <strong>Location</strong>: {{ team.location }}</br>
+    </article>
   </div>
-  <div class="team-grid-child">
-    <h4 class="color-red">Team name</h4>
-    <article>Some team information goes here</article>
-  </div>
-  <div class="team-grid-child">
-    <h4 class="color-red">Team name</h4>
-    <article>Some team information goes here</article>
-  </div>
+  {% endfor %}
 </div>
 
 <h3>Partners</h3>

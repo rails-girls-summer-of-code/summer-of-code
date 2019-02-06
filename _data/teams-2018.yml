@@ -1,0 +1,77 @@
+- name: $we init
+  id: we-init
+  students: Akshita & Rahmeen
+  project: Probot
+  location: New Delhi, India
+
+- name: 101 Days of Summer
+  id: 101-days-of-summer
+  students: Nupur & Paavini
+  project: Servo
+  location: New Delhi, India
+
+- name: Akaringular
+  id: akaringular
+  students: Rachael & StellaMaris
+  project: EBWiki
+  location: Nairobi, Kenya
+
+- name: Barcelona Duo
+  id: barcelona-duo
+  students: Amalia & Lori
+  project: Exercism
+  location: Barcelona, Spain
+
+- name: Brazilian housewives coding
+  id: brazilian-housewives-coding
+  students: Camila & Stefanni
+  project: Public Lab
+  location: Vancouver, Canada
+
+- name: DelSquared
+  id: delsquared
+  students: Arushi & Sharmistha
+  project: Tessel
+  location: New Delhi, India
+
+- name: DV Team
+  id: dv-team
+  students: Diana & Violeta
+  project: LivingStyleGuide
+  location: Barcelona, Spain 
+
+- name: GirlsCode MK
+  id: girlscode-mk
+  students: Eva & Georgina
+  project: Bahmi
+  location: Milton Keynes, UK
+
+- name: Popcorn
+  id: popcorn
+  students: Arati & Jessica
+  project: Nextcloud
+  location: Berlin, Germany
+  
+- name: PotatoCode
+  id: potatocode
+  students: Alina & Sabine
+  project: stretchly
+  location: Amsterdam, Netherlands
+
+- name: Rubies
+  id: rubies
+  students: Atibhi & Prateksha
+  project: if me
+  location: Bangalore, India
+
+- name: Sectumsempra
+  id: sectumsempra
+  students: Avneet & Rupal
+  project: Chapel
+  location: New Delhi, India
+  
+- name: Sunshine
+  id: sunshine
+  students: Gyujin & Sujin
+  project: Babel
+  location: Seoul, South Korea
