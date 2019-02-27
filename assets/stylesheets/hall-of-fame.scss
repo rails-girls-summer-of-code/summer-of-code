@@ -10,6 +10,18 @@
   grid-gap: 10px;
 }
 
+.special-moments {
+  display: grid;
+  grid-template-columns: minmax(50%, 1fr) 1fr;
+  grid-gap: 10px;
+}
+
+.special-moments-child img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .stats-grid-child {
   align-self: center;
   text-align: center;
