@@ -31,10 +31,6 @@
   {% endfor %}
 {% endfor %}
 
-.conferences-container img {
-  width: 200px;
-  height: 200px;
-}
 
 {% for conference in site.data.conferences %}
   .sponsors .{{ conference.id }} {

@@ -16,6 +16,7 @@ Do you work on OSS and would like to support women and non-binary people as they
 
 If you want to submit your project, please have a look at the following guidelines for Project Mentors and project submissions.  
 
+<strong>Note: we're currently getting ready for the next edition of RGSoC, so we don't yet have a timeline or application guidelines for 2019. We'll share more information as soon as possible, but feel free to submit your project in the meanwhile!</strong>
 
 <br>
 <ul>
