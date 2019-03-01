@@ -1,4 +1,4 @@
-<h3 id="sponsors">2018 Sponsors</h3>
+<h3>2018 Sponsors</h3>
 <ul>
 {% for package in site.data.packages %}
   <li class="sponsors {{ package.name | downcase }}">
@@ -7,7 +7,7 @@
     {% for sponsor in package.sponsors %}
       {% capture classes %}{% if sponsor.partner %}{{ sponsor.id }} badge partner{% else %}{{ sponsor.id }}{% endif %}{% endcapture %}
       <li>
-        <a href="{{ sponsor.url }}" class="{{ classes }}">
+        <a href="{{ sponsor.url }}" aria-label="{{ sponsor.name }} website" class="{{ classes }}">
           <ul class="years">
             {% for year in sponsor.years %}
               <li class="year" title="Sponsor in {{ year }}"><i class="fa fa-star"></i></li>
