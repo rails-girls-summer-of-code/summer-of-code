@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+
+    {% include head.html %}
+
+  </head>
+  <body class="{{ page.class }}">
+    <header id="header" class="header" role="banner">
+
+      {% include navigation.html %}
+
+    </header>
+    <main role="main" class="content">
+      <div class="container">
+        {{ content }}
+    </div>
+    </main>
+    {% include footer.html %}
+
+  </body>
+</html>
