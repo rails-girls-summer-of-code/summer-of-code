@@ -15,9 +15,9 @@ Being a Rails Girls Summer of Code Coaching Company is more than just providing 
 
 Any company with a respectful and inclusive culture, desk space, a good internet connection, and a team of developers happy to share their knowledge can make a good Coaching Company. Some select companies who have been Coaching Companies in the past are Absolventa, Travis CI, SoundCloud, NIRD, GitHub, 6Wunderkinder.
 
-If you are considering becoming one of our Coaching Companies, this guide will help you figure out what this role entails.
+If you are considering getting involved in 2019, the information below will help you figure out what this role entails.
 
-<strong>Note: we're currently getting ready for the next edition of RGSoC, so we don't yet have a timeline or application guidelines for 2019. We'll share more information as soon as possible.</strong>
+<strong>Note: This year’s program will look a little different as we <a href="../blog/2019-03-20-the-future-of-rgsoc">focus on our rebranding</a>. For this reason, we will not have any sponsored teams, but we're still committed to connecting volunteers who want to work on open source through our network and social media. If you're interested in supporting a team of volunteers in your local community, send an email to our <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">community mailing list</a> stating that you are offering your space and coaches. You can also spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we’ll retweet and help you connect with prospective students. Don't hesitate to reach out to us <a href="mailto:contact@rgsoc.org">by email</a> if you have any questions!</strong>
 
 <h2>Coaching Company Guide</h2>
 
@@ -26,7 +26,6 @@ If you are considering becoming one of our Coaching Companies, this guide will h
 * <a href="#q5">Where are Coaching Companies located?</a>
 * <a href="#q6">How do we become a Coaching Company?</a>
 * <a href="#q6a">An example of how to become a Coaching Company</a>
-* <a href="#q4b">What if our team is not chosen?</a>
 * <a href="#q7">We have more questions!</a>
 
 
@@ -111,11 +110,6 @@ They linked to a <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-wor
 * Why their company wanted to host a team,
 * What they could offer to students (a desk, a team of coaches, an inclusive, safe space to work in),
 * How applicants could contact them.
-
-<h3 id="q4b">What if our team is not chosen?</h3>
-
-Teams have to apply for Rails Girls Summer of Code and we can usually only fund a small number of teams out of the many applications we get. If your team is not chosen, you are of course still welcome to create your own summer of code with two very passionate people working on a chosen OSS project. We encourage you to take the team on as interns or offer similar positions for the duration of three months.
-
 
 <h2 id="q7">We have more questions!</h2>
 
