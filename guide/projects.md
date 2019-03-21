@@ -16,7 +16,7 @@ Do you work on OSS and would like to support women and non-binary people as they
 
 If you want to submit your project, please have a look at the following guidelines for Project Mentors and project submissions.  
 
-<strong>Note: This year’s program will look a little different as we <a href="../blog/2019-03-20-the-future-of-rgsoc">focus on our rebranding</a>. For this reason, we will not have any sponsored teams, but we're still committed to connecting volunteers who want to work on open source through our network and social media. If you're interested in submitting your project, you can do so <a href="https://teams.railsgirlssummerofcode.org/projects">here</a>. You can also spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we’ll retweet and help you connect with prospective students. Don't hesitate to reach out to us <a href="mailto:contact@rgsoc.org">by email</a> if you have any questions!</strong>
+<strong>Note: This year’s program will look a little different as we <a href="../blog/2019-03-21-the-future-of-rgsoc">focus on our rebranding</a>. For this reason, we will not have any sponsored teams, but we're still committed to connecting volunteers who want to work on open source through our network and social media. If you're interested in submitting your project, you can do so <a href="https://teams.railsgirlssummerofcode.org/projects">here</a>. You can also spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we’ll retweet and help you connect with prospective students. Don't hesitate to reach out to us <a href="mailto:contact@rgsoc.org">by email</a> if you have any questions!</strong>
 
 <br>
 <ul>
