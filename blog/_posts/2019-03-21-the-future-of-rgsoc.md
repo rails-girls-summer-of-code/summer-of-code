@@ -1,8 +1,8 @@
 ---
 title: The future of RGSoC
 layout: post
-created_at: Wed Mar 20 2019
-permalink: blog/2019-03-20-the-future-of-rgsoc
+created_at: Thu Mar 21 2019
+permalink: blog/2019-03-21-the-future-of-rgsoc
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoC
@@ -32,7 +32,7 @@ Do you want to help us? RGSoC was always a community-focused program and as such
 
 [Give us your thoughts](https://rgsoc.typeform.com/to/cUikUg)
 
-But that’s not all. We still want to make sure we connect great and beginner-friendly open source projects with people who want to work on them; our goal is to publish a list of approved open source projects in May that aspiring open source contributors can work on. You can submit your project [here](https://teams.railsgirlssummerofcode.org/projects). We also plan to publish a guide for companies on how to host teams this year. So if you are one of these companies wanting to get involved — [let us know!](mailto:contact@rgsoc.org) We’ll do our best to connect you with people who want to work on open source projects. 
+But that’s not all. We still want to make sure we connect great and beginner-friendly open source projects with people who want to work on them; our goal is to publish a list of approved open source projects in April that aspiring open source contributors can work on. You can submit your project [here](https://teams.railsgirlssummerofcode.org/projects). We also plan to publish a guide for companies on how to host teams this year. So if you are one of these companies wanting to get involved — [let us know!](mailto:contact@rgsoc.org) We’ll do our best to connect you with people who want to work on open source projects. 
 
 We are looking for sponsors who want to fund our rebranding work and keep our organizing team going this year, so that we can soon announce that we will be back in 2020 with a brand new name and ready to change lives again! If you’re interested in supporting us this year, please drop us a line: [campaign@rgsoc.org](mailto:campaign@rgsoc.org)
 
