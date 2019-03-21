@@ -38,11 +38,9 @@ If you have no luck or live in an area where there are no local learning groups 
 
 <h4 id="coach-help">How available should my coaches be? How much should they help?</h4>  
 
-From past experiences, we recommend 4–8 hours of coaching time per week. We require a minimum of 2 coaches per team so they can share the time commitment, and so you and your teammate have more flexible support.
+Coaches should be available to help in case you get stuck with an issue; this doesn’t necessarily have to be in person and can be done via email or a messaging app such as Slack. The actual time investment for a coach varies from team to team, depending on how much time you want to spend on your summer of code. We recommend talking to your coaches and figuring out when and how often you will need them!
 
-Coaches should be available to help during office hours in case you get stuck with an issue. This doesn’t necessarily have to be in person and can be done via email or a messaging app such as Slack.
-
-An important note: Start talking to potential coaches about how they communicate and how you can handle possible situations of stress and/or conflict as a team during your application. This will definitely help you down the road, should any tricky situations arise.
+An important note: Start talking to potential coaches about how they communicate and how you can handle possible situations of stress and/or conflict as a team before your program starts. This will definitely help you down the road, should any tricky situations arise.
 
 <h3 id="teammate">Teammate</h3>
 
@@ -59,8 +57,6 @@ It might be that your future teammate has different skills than you do. Talk abo
 Consider how individual personal situations can have an impact on your work as a team. We strongly suggest mentioning any specific personal circumstance to the extent you feel comfortable, so your teammate can react considerately.
 
 Be aware that people work differently or handle moments of stress in different ways.
-
-We require that you work together in the same place for the duration of the program, so this is also something to consider when trying to find a teammate.
 
 <h4 id="find-teammate">Where do I find a teammate?</h4>
 

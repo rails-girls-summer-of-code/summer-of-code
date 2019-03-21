@@ -14,9 +14,9 @@ Coaches do not have to be experts on the team’s Open Source project but they n
 
 Coaching a team does take quite a bit of time and effort, so coaches must be committed to being available to help their team. However, we absolutely support coaches teaming up and helping their students on a roster.
 
-If you consider becoming a Rails Girls Summer of Code Coach, the following guide will help you figure out if you have what it takes and how you can get involved.
+If you consider becoming a Rails Girls Summer of Code Coach, the following guide will help you figure out if this is something for you and how you can get involved.
 
-<strong>Note: we're currently getting ready for the next edition of RGSoC, so we don't yet have a timeline or application guidelines for 2019. We'll share more information as soon as possible.</strong>
+<strong>Note: This year’s program will look a little different as we <a href="../blog/2019-03-21-the-future-of-rgsoc">focus on our rebranding</a>. For this reason, we will not have any sponsored teams, but we're still committed to connecting volunteers who want to work on open source through our network and social media. If you're interested in supporting a team of volunteers in your community, send an email to our <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">community mailing list</a> stating that you are offering your help as a coach. You can also spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we’ll retweet and help you connect with prospective students. Don't hesitate to reach out to us <a href="mailto:contact@rgsoc.org">by email</a> if you have any questions!</strong>
 
 <h2>Coach Guide</h2>
 
@@ -75,7 +75,7 @@ The short answer is: Yes — if it’s the right choice for everyone involved!
 
 We highly recommend that students and coaches spend their Summer of Code in the same location, ideally sharing one workspace. We believe that sitting together in front of a screen with your team to help them solve problems or explain concepts is often more beneficial (and easier), both for the students and the coaches.
 
-However, sometimes this just isn't possible — and that's when remote coaching becomes a good alternative solution and we’ll try our best to make this possible for our teams.
+However, sometimes this just isn't possible — and that's when remote coaching becomes a good alternative solution.
 
 
 <h3 id="what">What will I be doing as a coach?</h3>
@@ -89,26 +89,15 @@ It is important for coaches to teach the process of programming — showing them
 
 Coaches should spend time with their students, guiding them through the relevant coding steps (e.g. by asking mindful questions). Every project is different and requires different methods; just make sure your students really understand what you are trying to teach them, at the risk of not being <abbr title="Don't Repeat Yourself">DRY</abbr> :)
 
-Please be aware that being an RGSoC Coach is a commitment that should not be taken lightly. This role comes with a lot of responsibility you need to be certain you can handle. Your support is essential for teams to succeed!
-
 
 <h3 id="expertise">Should I have in-depth knowledge of the project(s) chosen by my team?</h3>
 
-In-depth knowledge of the project(s) chosen by your team is not required. However, we do expect you to have some expertise in the technologies used in the project. We also recommend getting acquainted with the project’s technical design and codebase once your team is accepted to the program.
+In-depth knowledge of the project(s) chosen by your team is not required. However, it would make sense for you to have some expertise in the technologies used in the project. We also recommend getting acquainted with the project’s technical design and codebase.
 
 
 <h3 id="time">How much time does coaching take?</h3>
 
-<p>The actual time investment varies from team to team, but this is a general idea of how much time you will need to invest:</p>
-
-* 1-2 hours a day during office hours
-* Availability via chat or email, for important/urgent matters
-
-During the period of Summer of Code (July–September), we recommend setting aside around 1–2 hours a day of time spent with the team in person (face-to-face), plus being available via chat or email for questions that may arise throughout the day. Where it makes sense, in-person coaching can also be done “blocked” on a whole day or afternoon a week, making it easier for you to integrate it with your day-to-day work.
-
-Coaches are not expected to work together with their students full-time. But from a student’s perspective, it is best for them and their progress if they have a coach at hand most of the time, as they will constantly run into problems they need help with. This is why we recommend that coaching is shared among a few coaches. Each team must have at least 2 coaches but is allowed to have more.
-
-We also encourage you to ask your company to become a <a href="http://railsgirlssummerofcode.org/guide/coaching-company/">Coaching Company</a>.
+<p>The actual time investment varies from team to team, depending on how much time your prospective students want to spend on their summer of code. We recommend talking to them and figuring out when and how often they will need you!</p>
 
 
 <h3 id="register">Ways to find a team and register as a coach</h3>
@@ -119,7 +108,7 @@ We also encourage you to ask your company to become a <a href="http://railsgirls
 * Write an email on the <a href="https://groups.google.com/forum/#!forum/rails-girls-summer-of-code-community">RGSoC community mailing list</a>
 * Spread the word on Twitter
 
-As a first step, you should register as a coach <a href="https://teams.railsgirlssummerofcode.org/">on our Teams app</a>; just log in with GitHub and, under “My Account > Edit”, select what you’re interested in helping with: as a coach or as a remote coach/helpdesk.
+As a first step, you can register as a coach <a href="https://teams.railsgirlssummerofcode.org/">on our Teams app</a>; log in with GitHub and, under “My Account > Edit”, select what you’re interested in helping with: as a coach or as a remote coach/helpdesk.
 
 If you don't know any students yet, reach out to your local female developer initiatives like <a href="http://railsgirls.com/">Rails Girls</a>, <a href="http://www.pyladies.com/">PyLadies</a> or whatever is available in your city and fits your technology stack. There you can get to know students and other coaches. We also recommend reaching out to local developer user groups, as well as study groups if there are any in your area.
 

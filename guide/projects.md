@@ -12,11 +12,11 @@ Project Mentors are vital at Rails Girls Summer of Code, as they are the experts
 
 Ideally, they are the decision-makers for the project or work closely with the decision-makers. The Project Mentor designs the roadmap for the project, gives directions and provides feedback throughout the program. In their day-to-day work students will be supported by coaches, so the workload for project mentors is limited.  
 
-Do you work on OSS and would like to support women and non-binary people as they work full-time on your Open Source project for three months? RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language.  
+Do you work on OSS and would like to support women and non-binary people as they work on your open source project for three months? RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language.  
 
 If you want to submit your project, please have a look at the following guidelines for Project Mentors and project submissions.  
 
-<strong>Note: we're currently getting ready for the next edition of RGSoC, so we don't yet have a timeline or application guidelines for 2019. We'll share more information as soon as possible, but feel free to submit your project in the meanwhile!</strong>
+<strong>Note: This year’s program will look a little different as we <a href="../blog/2019-03-21-the-future-of-rgsoc">focus on our rebranding</a>. For this reason, we will not have any sponsored teams, but we're still committed to connecting volunteers who want to work on open source through our network and social media. If you're interested in submitting your project, you can do so <a href="https://teams.railsgirlssummerofcode.org/projects">here</a>. You can also spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we’ll retweet and help you connect with prospective students. Don't hesitate to reach out to us <a href="mailto:contact@rgsoc.org">by email</a> if you have any questions!</strong>
 
 <br>
 <ul>
@@ -64,11 +64,9 @@ Every team and project is different with regard to the hours of work put in. But
 
 * It’ll take some time for you to to get acquainted with the program, the organizers and the core team (onboarding).
 * You’ll invest some time at the beginning of the project to help your team get set up. Especially for more challenging projects, this can take quite a bit of time.
-* You should be available via email and chat from July 1st to September 30th.
+* You should be available via email and chat from July 1st to September 30th (or for the period the team decides to participate).
 * Over the course of the program, you’ll spend about 1–3 hours per week answering student questions and emails.
 * Twice a month you will be expected to participate in a call which takes approximately 1h.
-
-
 
 <h3 id="q4">Why should I submit my project?</h3>
 
@@ -82,16 +80,16 @@ Furthermore, you will get:
 * All in all: the chance to develop a sustainable Open Source project
 
 
-
 <h3 id="q5">How do I submit my project?</h3>
 
-Project mentors can submit their projects using our [Teams App](https://teams.railsgirlssummerofcode.org). The deadline for Rails Girls Summer of Code 2018 is January 28th, 2018 (23:59:00 UTC).
+Project mentors can submit their projects using our [Teams App](https://teams.railsgirlssummerofcode.org). We've set the deadline for this year's program to April 22nd, 2019 (23:59:00 UTC) to give us some time to look at the submissions and publish a comprehensive list of projects.
 
 * Sign up for the [Teams App](https://teams.railsgirlssummerofcode.org); 
 * you will need to authenticate with GitHub.
 * Click on “Submit your project” under “Summer of Code” in the navigation bar.
-* By default, we assume the submitter is also the primary mentor. If that isn’t the case, enter the name of the primary Mentor, as well as their email address and GitHub handle.
-* Add the project’s name, website, repo and a description: what the project is about, what stage it’s at, and a few words about the team behind it. If your project has additional project coaches to help the students during the program, the project description is where you can add their information.
+* By default, we assume the submitter is also the primary mentor. If that isn’t the case, enter the name of the primary Mentor, as well as their email address and GitHub handle. 
+* Add the project’s name, website, repo and a description: what the project is about, what stage it’s at, and a few words about the team behind it. If your project has additional project coaches to help the students during the program, the project description is where you can add their information.  
+* For the purpose of this year's program and to make sure prospective participants can get in touch with you, please **add your preferred contact information (e.g. an email address)** to the project's description.  
 * Add features and tasks: outline how you image the students to contribute, features you’re planning to work on, issues that need help.
 * Add requirements: describe skills and experience students should bring to work on the project, e.g.
   * Provide a small example or coding challenge for students to solve up front.
@@ -104,7 +102,9 @@ Project mentors can submit their projects using our [Teams App](https://teams.ra
 * Click Submit!
 
 On the “<a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">All Projects</a>” page, you can view all submitted projects and their status (proposed, accepted, rejected) as well as edit or delete your own submission.
-After submitting your project, it’s likely that one of the organizers will offer feedback or ask questions. It’s a good idea to keep an eye out for these!
+After submitting your project, it’s likely that one of the organizers will offer feedback or ask questions. It’s a good idea to keep an eye out for these!  
+
+
 
 
 
