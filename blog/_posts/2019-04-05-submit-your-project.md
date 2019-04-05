@@ -24,7 +24,7 @@ Are you a project maintainer with some time to support open source newcomers? Th
 - Click on “Submit your project” under “Summer of Code” in the navigation bar
 - Enter the name and information of the primary mentor
 - Add the project’s name, website, repo and a description
-- To make sure prospective participants can get in touch with you, please add your preferred contact information (e.g. an email address) to the project’s description
+- **To make sure prospective participants can get in touch with you, please add your preferred contact information (e.g. an email address) to the project’s description**
 - Add features, tasks and requirements
 - Add keywords, the name of your license, and a link to your Code of Conduct
 - Flag your project as “suitable for beginners” if necessary
