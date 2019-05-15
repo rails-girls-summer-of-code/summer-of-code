@@ -137,6 +137,7 @@ DEPENDENCIES
   geocoder
   github-pages
   jekyll
+  jekyll-redirect-from
   lolize
 
 RUBY VERSION
