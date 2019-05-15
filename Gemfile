@@ -4,4 +4,5 @@ gem 'jekyll'
 gem 'github-pages'
 gem 'geocoder'
 gem 'lolize', :require => 'lolize/auto'
+gem 'jekyll-redirect-from'
 
