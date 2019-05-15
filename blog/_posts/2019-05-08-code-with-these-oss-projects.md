@@ -2,7 +2,7 @@
 title: Code with these open source projects this season
 layout: post
 created_at: Wed May 08 2019
-perma**Link**: blog/2019-05-08-code-with-these-oss-projects
+permalink: blog/2019-05-08-code-with-these-oss-projects
 current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoC
