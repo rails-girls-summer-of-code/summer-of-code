@@ -9,7 +9,7 @@ permalink: /students/application/
 
 <h1>{{page.title}}</h1>
 
-Note: <strong>There will be no RGSoC in 2019</strong> as we <a href="../blog/2019-03-21-the-future-of-rgsoc">focus on our rebranding</a> and a restructuring of the program. Even though we will not organise a 2019 edition, we're still committed to connecting contributors from underrepresented groups who want to work on open source through our network and social media. If you're interested in contributing to open source, we've shared an overview of interesting projects submitted to us <a href="https://railsgirlssummerofcode.org/code-with-these-oss-projects/">on our blog</a>. If you are looking for other people to code with, you can also spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we’ll retweet and help you connect with prospective team mates or coaches. Don't hesitate to reach out to us <a href="mailto:contact@rgsoc.org">by email</a> if you have any questions!
+Note: <strong>There will be no RGSoC in 2019</strong> as we <a href="/../blog/2019-03-21-the-future-of-rgsoc">focus on our rebranding</a> and a restructuring of the program. Even though we will not organise a 2019 edition, we're still committed to connecting contributors from underrepresented groups who want to work on open source through our network and social media. If you're interested in contributing to open source, we've shared an overview of interesting projects submitted to us <a href="/../blog/2019-05-08-code-with-these-oss-projects">on our blog</a>. If you are looking for other people to code with, you can also spread the word by mentioning us on Twitter (<a href="http://www.twitter.com/RailsGirlsSoC">@RailsGirlsSoC</a>); we’ll retweet and help you connect with prospective team mates or coaches. Don't hesitate to reach out to us <a href="mailto:contact@rgsoc.org">by email</a> if you have any questions!
 
 <ul>
   <li><a href="#period">When does RGSoC take place?</a></li>
@@ -20,7 +20,7 @@ Note: <strong>There will be no RGSoC in 2019</strong> as we <a href="../blog/201
 
 <h3 id="period">When does RGSoC take place?</h3>
 
-**RGSoC will not happen in 2019**. We do provide <a href="https://railsgirlssummerofcode.org/code-with-these-oss-projects/">a list of projects</a> for you to contribute to at your own pace (alone or with team mates). We will not be able to offer support in the form of supervisors or organisers, but we will try to use our network to help you find a team and make this a great experience!  
+**RGSoC will not happen in 2019**. We do provide <a href="/../blog/2019-05-08-code-with-these-oss-projects">a list of projects</a> for you to contribute to at your own pace (alone or with team mates). We will not be able to offer support in the form of supervisors or organisers, but we will try to use our network to help you find a team and make this a great experience!  
 You're welcome to use our <a href="https://teams.railsgirlssummerofcode.org/">teams app</a> to create a team, but this is of course not necessary.    
 
 <h3 id="eligibility">Who is eligible to participate?</h3>
