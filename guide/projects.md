@@ -9,7 +9,7 @@ permalink: /guide/projects/
 <h1>Becoming a Project Mentor</h1>
   
 
-Note: <strong>There will be no RGSoC this year</strong> as we <a href="../blog/2019-03-21-the-future-of-rgsoc">focus on our rebranding</a> and a restructuring of the program. Even though we will not organise a 2019 edition, we're still committed to connecting contributors from underrepresented groups who want to work on open source through our network and social media. If you're interested in supporting new contributors and getting your project added to our <a href="https://railsgirlssummerofcode.org/code-with-these-oss-projects/">project list</a>, please <a href="mailto:contact@rgsoc.org">send us an email</a>.
+Note: <strong>There will be no RGSoC in 2019</strong> as we <a href="../blog/2019-03-21-the-future-of-rgsoc">focus on our rebranding</a> and a restructuring of the program. Even though we will not organise a 2019 edition, we're still committed to connecting contributors from underrepresented groups who want to work on open source through our network and social media. If you're interested in supporting new contributors and getting your project added to our <a href="https://railsgirlssummerofcode.org/code-with-these-oss-projects/">project list</a>, please <a href="mailto:contact@rgsoc.org">send us an email</a>.
 
 <br>
 <ul>
