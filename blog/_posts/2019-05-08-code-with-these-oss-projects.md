@@ -66,6 +66,10 @@ Even though we’re not organising RGSoC in 2019 in order to focus on our rebran
 **Technologies**: Javascript, NodeJS  
 **Link**: [https://teams.railsgirlssummerofcode.org/projects/232-mathball](https://teams.railsgirlssummerofcode.org/projects/232-mathball)  
 
+**Name**: MentorFix  
+**Technologies**: NodeJS, JavaScript, MongoDB, React  
+**Link**: [https://teams.railsgirlssummerofcode.org/projects/252-mentorfix](https://teams.railsgirlssummerofcode.org/projects/252-mentorfix)  
+
 **Name**: Nextcloud  
 **Technologies**: PHP, Javascript, jQuery, HTML, CSS, SQL, Android  
 **Link**: [https://teams.railsgirlssummerofcode.org/projects/249-nextcloud](https://teams.railsgirlssummerofcode.org/projects/249-nextcloud)  
