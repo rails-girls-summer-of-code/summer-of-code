@@ -33,5 +33,5 @@ Unfortunately, we will not be offering scholarships in 2019, as we don't have th
 
 <h3 id="student-support">More questions?</h3>
 
-If you have more questions on RGSoC or our list of projects, you can also hop into our <a href="https://rgsoc-application-support.herokuapp.com/">Student Support Slack channel</a> or <a href="mailto:contact@rgsoc.org">send us an email</a>.
+If you have more questions on RGSoC or our list of projects, you can also <a href="mailto:contact@rgsoc.org">send us an email</a>.
 
