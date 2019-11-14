@@ -64,7 +64,7 @@ The program is open to anyone who identifies as female or non-binary, is 18 year
 
 Students are the only people who will be remunerated if accepted into the program.
 
-<a href="/students/application">Become a student</a>: Take the first step in your coding career.
+<a href="/students">Become a student</a>: Take the first step in your coding career.
 
 <h3 id="coach">Coach</h3>
 
