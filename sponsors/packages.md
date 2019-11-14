@@ -36,46 +36,87 @@ permalink: /sponsors/packages/
 <div class="row">
   <div class="col-md-8 col-md-offset-2">
 
-    <h3>Innovator</h3>
-
-    <ul>
-      <li>Knowing you’re making a real difference to people’s lives and the tech community</li>
-      <li>Lots of tweet love from RGSoC and project teams</li>
-      <li>Your logo (small) in the footer of our <a href="/">homepage</a></li>
-      <li>Listing on the RGSoC <a href="/sponsors">sponsors page</a> (linked to frequently in communication)</li>
-      <li>Your stickers and other small swag sent out to all Students (see below)</li>
-      <li>Presentation of your company sent to participants in our <em>Sponsor Opportunity Newsletter</em></li>
-    </ul>
-
-    <h3>Pioneer</h3>
-
-    <ul>
-      <li>Knowing you’re making a real difference to people’s lives and the tech community</li>
-      <li>Lots of tweet love from RGSoC and project teams</li>
-      <li>Social media mentions by RGSoC and our friends at <a href="https://foundation.travis-ci.org/">Travis Foundation</a> when your sponsorship is confirmed</li>
-      <li>Your logo (medium) in the footer of our <a href="/">homepage</a></li>
-      <li>Listing on the RGSoC <a href="/sponsors">sponsors page</a> (linked to frequently in communication)</li>
-      <li>Your stickers and other small swag sent out to all Students (see below)</li>
-      <li>Presentation of your company sent to participants in our <em>Sponsor Opportunity Newsletter</em></li>
-      <li>Your testimonial in our press kit</li>
-      <li>Your logo included in our Pitch Deck</li>
-    </ul>
-
-    <h3>Trailblazer</h3>
-
-    <ul>
-      <li>Knowing you’re making a real difference to people’s lives and the tech community</li>
-      <li>Lots of tweet love from RGSoC and project teams</li>
-      <li>Social media mentions by RGSoC and our friends at <a href="https://foundation.travis-ci.org/">Travis Foundation</a> when your sponsorship is confirmed</li>
-      <li>Plenty of social media noise and recognition among the extensive community of our program partner, <a href="https://travis-ci.com/">Travis CI</a></li>
-      <li>Your logo (large) in the footer of our <a href="/">homepage</a></li>
-      <li>Listing on the RGSoC <a href="/sponsors">sponsors page</a> (linked to frequently in communication)</li>
-      <li>All your swag included in support packages sent to Students, e.g. stickers, pens, t-shirts, mugs, tote bags, notepads (see below)</li>
-      <li>Presentation of your company sent to participants in our <em>Sponsor Opportunity Newsletter</em></li>
-      <li>Your testimonial in our press kit</li>
-      <li>Your logo included in our Pitch Deck</li>
-      <li>Your logo pride of place in presentations about RGSoC (alongside our Partners)</li>
-    </ul>
+  <h2>Benefits for sponsors</h2>
+<table style="width:100%">
+  <tr>
+    <th>Benefit</th>
+    <th>Innovator</th>
+    <th>Pioneer</th>
+    <th>Trailblazer</th>
+  </tr>
+  <tr>
+    <td>Knowing you’re making a real difference to people’s lives and the tech community</td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+  <tr>
+    <td>Lots of tweet love from RGSoC and project teams</td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+    <tr>
+    <td>Social media mentions by RGSoC and our friends at <a href="https://foundation.travis-ci.org/">Travis Foundation</a> when your sponsorship is confirmed</td>
+    <td></td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+    <tr>
+    <td>Plenty of social media noise and recognition among the extensive community of our program partner, <a href="https://travis-ci.com/">Travis CI</a></td>
+    <td></td>
+    <td></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+    <tr>
+    <td>Your logo in the footer of our <a href="/">homepage</a></td>
+    <td align="center"><b>small</b></td>
+    <td align="center"><b>medium</b></td>
+    <td align="center"><b>large</b></td>
+    </tr>
+    <tr>
+    <td>Listing on the RGSoC <a href="/sponsors">sponsors page</a> (linked to frequently in communication)</td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+    <tr>
+    <td>Your stickers and other small swag sent out to all students</td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+    <tr>
+    <td>All your swag included in support packages sent to Students (e.g. t-shirts, mugs, tote bags, notepads)</td>
+    <td></td>
+    <td></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+    <tr>
+    <td>Presentation of your company sent to participants in our <i>Sponsor Opportunity Newsletter</i></td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+    <tr>
+    <td>Your testimonial in our press kit</td>
+    <td></td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+    <tr>
+    <td>Your logo included in our <a href="https://speakerdeck.com/alicetragedy/rgsoc-2018-sponsor-pitch" target="_blank">Pitch Deck</a></td>
+    <td></td>
+    <td align="center"><b>&#10003;</b></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+    <tr>
+    <td>Your logo pride of place in presentations about RGSoC (alongside our Partners)</td>
+    <td></td>
+    <td></td>
+    <td align="center"><b>&#10003;</b></td>
+  </tr>
+</table>
 
     <p>Logos and links on the website will be sorted by package size and confirmation date of the donation.</p>
 
@@ -104,7 +145,7 @@ permalink: /sponsors/packages/
     <p>Rails Girls Summer of Code is here to support women and non-binary people on their way into Open Source. Please see our <a href="/sponsorship-guidelines/">Sponsorship Guidelines</a> for further information on our values.</p>
 
     <h2>Partner Company Package</h2>
-    <p>To find out more about the option for becoming a partner company and what partner companies do, please <a href="mailto:campaign@rgsoc.org">write us an email</a>.</p>
+    <p>If you're interested in becoming a partner company and would like to discuss what this might look like, please <a href="mailto:campaign@rgsoc.org">write us an email</a>.</p>
 
   </div>
 </div>
