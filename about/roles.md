@@ -10,11 +10,9 @@ current-sub: roles
 
 <h1>{{page.title}}</h1>
 
-While the students are, of course, at the core of Rails Girls Summer of Code, there are plenty of different ways to get involved with the program to help bring more diversity into the Open Source world.  
+While the students are, of course, at the core of Rails Girls Summer of Code, there are plenty of ways for you to get involved with the program and help bring more diversity to Open Source.
 
-Whether you want to learn, teach, offer non-technical support to teams or support the program financially — there is a place for you and your skills in Rails Girls Summer of Code.  
-
-So if you’re new to Summer of Code and have no idea where you fit into the program, take a look at our list of roles. This should be a handy starting point to help you understand who does what, and where you might fit in based on your skill set.  
+Our role descriptions are a handy starting point to help you understand who does what, and where you might fit in based on your skill set or interests.
 
 
 <ul class="list list--none">
@@ -40,9 +38,9 @@ So if you’re new to Summer of Code and have no idea where you fit into the pro
   <li>
     <a href="#financial">Financial</a>
     <ul class="list">
-      <li><a href="#sponsors">Sponsor</a></li>
-      <li><a href="#coaching_company">Coaching Company</a></li>
-      <li><a href="#you">You</a></li>
+      <li><a href="#sponsors">Sponsors</a></li>
+      <li><a href="#coaching_companies">Coaching Companies</a></li>
+      <li><a href="#donors">Donors</a></li>
     </ul>
   </li>
 </ul>
@@ -54,38 +52,49 @@ So if you’re new to Summer of Code and have no idea where you fit into the pro
 
 <h2 id="teams">Teams</h2>
 
-Rails Girls Summer of Code centers around teams. A full team consists of a pair of students, two or more coaches and a project mentor.
+RGSoC centers around teams. A full team consists of a pair of students, two or more coaches and a project mentor.
+
+Every other role at Rails Girls Summer of Code is dedicated to supporting students in completing their projects and enjoying a great learning experience.
 
 <h3 id="student">Student</h3>
 
-Students are, of course, the main characters in this program. They work on Open Source projects full-time, from July to September, to expand their skill set and find their footing as coders. Every other role at Rails Girls Summer of Code is dedicated to supporting these students in completing their projects and generally having a great learning experience.
+Students work in teams of 2 on an Open Source project full-time for 3 months, from July to September. By offering students a monthly stipend during this time, we aim to provide career-changers and those just starting in the technical field opportunities to develop their skills and find a footing as coders.
+
+The program is open to anyone who identifies as female or non-binary, is 18 years old or over, and can code to an advanced-beginner level.  In 2018, we began offering places for part-time teams with paid stipends instead of selecting volunteer teams. You will be able to choose your preference for full- or part-time when applying.
 
 Students are the only people who will be remunerated if accepted into the program.
 
+<a href="/students">Become a student</a>: Take the first step in your coding career.
+
 <h3 id="coach">Coach</h3>
 
-Coaches are experienced developers who work closely with the students. They help their students learn and accomplish their project tasks on a daily basis.
+Coaches are experienced developers who work closely with a pair of students. They help their students learn and accomplish project tasks, supporting them in their day-to-day work.
 
-Ideally, students and coaches share the same office space. Some companies will allow employees to spend a predetermined amount of time on coaching during business hours.
+Coaches do not have to be experts on the Open Source project, but they do need to be able to support their students’ learning process, and have the skills to understand the project and the mentor’s directions.
 
-Since coaching can take up a lot of time, coaches often team up and work in a roster to provide students with the best support possible. Coaches can also simultaneously be Mentors.
+This can take up a lot of time. Coaches often team up and work in a roster to provide students with the best possible support.
 
-Coaches do not have to be experts on the team’s Open Source project, but they do need to
+Ideally, students and their coach(es) share the same office space. Some companies allow employees to spend a predetermined amount of time on coaching during business hours.  Should a coach not be available to help with an issue, students can always reach out to a team of <a href="#remote_coach">remote coaches</a>.
+
+Coaches can simultaneously be mentors. Their employer may also wish to be a <a href="#coaching_companies">coaching company</a>.
+
+<a href="/guide/coaching/">Become a Coach</a>: Achieve greatness; work side-by-side with students on their project.
+
+<h3 id="mentor">Mentor</h3>
+
+Sometimes known as a project maintainer, this is the perfect role if you are a core contributor to a great Open Source project and want to give students the opportunity to work on it.
+
+A mentor’s workload is not as extensive as the coaches who directly support students. That said, you will play an essential part, guiding them when it comes to the project itself, as you are:
 <ul>
-  <li>be able to support their student's learning process,</li>
-  <li>have the skills to understand the project and the mentor’s directions</li>
+  <li>experts on the team’s Open Source project</li>
+  <li>the decision-makers behind the project (or working closely with decision-makers)</li>
+  <li>in a position to set general goals for the project, give directions and provide feedback</li>
+  <li>available throughout the summer to review pull requests, help with concepts and generally support the team</li>
 </ul>
 
-Should a coach not be available to help with an issue, students can always reach out to a team of Remote Coaches.
+At the beginning of the program, mentors help students design a roadmap for the project. Mentors can also assume the role of a coach.
 
-<h3 id="mentor">Mentor / Project Maintainer</h3>
-
-Mentors are experts on the Open Source project the team is working on. Ideally, they are the decision-makers behind the project or work closely with the decision-makers. They should be in a position to set general goals for the student project, give directions and provide feedback.
-
-At the beginning of the program, Mentors help students design a roadmap for the project. They are available throughout the summer to review pull requests, help with concepts and generally support the team.
-
-Since students are supported by coaches in their day-to-day work, the workload for mentors is limited. That said, mentors can also assume the role of a Coach themselves.
-
+<a href="/guide/projects/">Become a Mentor</a>: Support underrepresented people's work in Open Source.
 
 <h2 id="support">Support and Organization</h2>
 
@@ -93,40 +102,65 @@ These roles take care of running the program as a whole and make sure the teams 
 
 <h3 id="remote_coach">Remote Coach</h3>
 
-Remote Coaches are available for help in a central Slack channel, which is open to all students. They assist participants when their team coaches are not available or when they need specific technical help (e.g. help figuring out an error).
+Students can reach out to a team of remote coaches via a central Slack channel when:
+<ul>
+  <li>a local (team) coach is unavailable</li>
+  <li>they need specific technical help (e.g. figuring out an error)</li>
+</ul>
+
+This channel will be open to all students.
 
 <h3 id="supervisor">Supervisor</h3>
 
-Every team of Students, Coaches and Mentors will be assigned a Supervisor. Supervisors regularly touch base with their teams to see how everyone is doing and if there is anything the team needs help with.
+Every team (made up of two students, plus the coach(es) and a mentor/project maintainer) is assigned a supervisor.  They are the link between the team and the program organizers.
 
-Supervisors check up on the team’s work progress via the [team log](/students/log)) and generally motivate them through the rough coding patches they will inevitably experience.  
-In rare cases, there may be a need to escalate issues to the organizer team, e.g. when a team has halted work completely.
+It’s the perfect role if you’re skilled at providing moral support and are keen to help 1 or 2 teams with their organizational and non-coding issues, such as scheduling blog posts.
 
-A supervisor can be responsible for more than one team.
+Supervisors check up on the work progress via the [team log](/students/log) and regularly communicate with their teams to:
+<ul>
+  <li>see how everyone is doing</li>
+  <li>ask if there is anything they need help with</li>
+  <li>motivate them through the rough patches they will inevitably experience</li>
+</ul>
+
+In rare cases, the Supervisor may need to escalate issues to the organizer team, e.g. when work has halted completely.
+
+<a href="/guide/supervisors/">Become a Supervisor</a>: The perfect role for a people person with a penchant for programming.
 
 <h3 id="organizer">Organizer</h3>
 
-Organizers are a pretty multi-skilled group of people. They are developers, designers, content writers, community managers and business owners all volunteering their time. They keep the website up-and-running, sponsors rolling in, and keep everything working smoothly.
+In the past, our team of organizers has been made up of a pretty multi-skilled bunch: developers, designers, content writers, community managers, business owners… you name it!
 
-Organizers are the ones who answer your emails, select applicants, monitor the social feeds, contributing their unique skill set to an aspect of the organizational workload.
+Each playing to their strengths, meeting the needs of the organizational workload, they keep the website up-and-running and sponsors rolling in, they answer your emails, select suitable projects and applicants, they create the graphics and monitor social media feeds, interview applicants (and break the good news when someone is successful) and basically ensure everything runs smoothly.
+
+If this sounds like your kind of thing, [drop us an email](mailto:contact@rgsoc.org) and let us know how you’d like to be involved.
 
 <h2 id="financial">Financial</h2>
 
-Without the financial support of generous donors, Rails Girls Summer of Code simply could not take place each year.
+Without the resources and financial support provided by our generous sponsors and donors, Rails Girls Summer of Code simply could not take place. 
+
+Your incredible donations make it possible for us to offer students a supportive working environment and paid scholarships. This means they can participate in the program and focus on learning without having to worry about how they’ll pay their bills.
 
 <h3 id="sponsors">Sponsors</h3>
 
-Sponsors make it possible for Rails Girls Summer of Code to create a paid program for participants. Sourced from all over the world, sponsors represent a wide cross-section of the tech industry. Their generous donations allow students to participate in the program and focus on learning — without having to worry about how they should keep paying their bills.
+Sourced from all over the world, Sponsors represent a wide cross-section of the tech industry and support our mission of empowering women and non-binary people working on Open Source projects.
 
-Sponsors receive a great deal of publicity and exposure as a result of the program but are not often directly involved in the projects themselves. 
+Sponsors receive a great deal of publicity and exposure as a result of the program but are not often directly involved in the projects themselves.
 
+<a href="/sponsors/packages/">Become a Sponsor</a>: We have a package to suit your budget.
 
-<h3 id="coaching_company">Coaching Companies</h3>
+<h3 id="coaching_companies">Coaching Companies</h3>
 
-A Coaching Company hosts an entire student team for the duration of the program, providing them with office space and a supportive work environment. In addition, they allow their employees to coach the participants on company time. This role can be combined with the Sponsor role.
+A coaching company hosts an entire student team for the duration of the program, providing them with office space and a supportive work environment. They allow their employees to coach participants on company time.
 
-<h3 id="you">You</h3>
+This can, of course, be combined with the sponsor role.
 
-Our <a href="/campaign">crowdfunding campaign</a> is a vital part of Rails Girls Summer of Code. Your donation goes directly to participants and makes a big difference in regard to how many teams can be accepted into the program.
+<h3 id="donors">Donors</h3>
 
-We have had many donations from individuals but this is also a good option for some companies who want to help out. If, for example, your company cannot sponsor an entire package they can still donate a smaller amount via the campaign. Every and any donation counts!
+Crowdfunding is vital to the success of RGSoC. Our official campaign is open between January and April, but donations can be accepted at any time. We invite you to contribute whatever you can.
+
+100% of donations directly fund participants’ stipends.  Put simply: the more we raise, the more teams can be accepted onto the program.
+
+We’re equally delighted with donations from individuals or companies not wishing to purchase a sponsorship package.
+
+<a href="/campaign">Become a Donor</a>: Help make RGSoC a reality.
