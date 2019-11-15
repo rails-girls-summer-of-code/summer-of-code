@@ -105,7 +105,7 @@ permalink: /sponsors/packages/
     <td align="center"><b>&#10003;</b></td>
   </tr>
     <tr>
-    <td>Your logo included in our <a href="https://speakerdeck.com/alicetragedy/rgsoc-2018-sponsor-pitch" target="_blank">Pitch Deck</a></td>
+    <td>Your logo included in our <a href="https://speakerdeck.com/alicetragedy/rgsoc-2018-sponsor-pitch">Pitch Deck</a></td>
     <td></td>
     <td align="center"><b>&#10003;</b></td>
     <td align="center"><b>&#10003;</b></td>
