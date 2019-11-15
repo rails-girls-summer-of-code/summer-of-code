@@ -1,0 +1,35 @@
+- name: Partners
+  title: Partner Companies
+  sponsors:
+  - name: Travis CI
+    id: travis
+    url: https://travis-ci.com
+    partner: true
+    text: |-
+      <a href="https://travis-ci.com" target="_blank">Travis CI</a> is a hosted continuous integration service 
+      created in 2011 to serve the Open Source community from which it began. Integrated with GitHub, 
+      Travis CI offers first class support to many programming languages including Python, Go, PHP, Java, C++, and Ruby. 
+      Travis CI also launched <a
+      href="http://foundation.travis-ci.org">Travis Foundation</a>, a non-profit organization which aims to make 
+      Open Source a diverse and inclusive place. One of Travis Foundation’s main efforts is Rails Girls Summer of Code which 
+      helps individuals from underrepresented groups begin their careers in programming. 
+    years:
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2020
+
+- name: Trailblazer
+  title: Trailblazer Sponsors
+  sponsors:
+
+- name: Pioneer
+  title: Pioneer Sponsors
+  sponsors:
+
+- name: Innovator
+  title: Innovator Sponsors
+  sponsors:
