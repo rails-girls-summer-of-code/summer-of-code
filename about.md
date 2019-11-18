@@ -10,7 +10,7 @@ scribble: scribble6
 
 # {{page.title}}
 
-Rails Girls Summer of Code is an [award-winning](/blog/2016-06-01-ruby-heroes-2016) global fellowship program aimed at bringing more diversity into Open Source. It welcomes all women and non-binary applicants who want to gain a footing in the world of coding and further expand their knowledge and skills. The focus is on advanced-beginners who want to enter programming full-time.
+Rails Girls Summer of Code is an <a href="/blog/2016-06-01-ruby-heroes-2016" target="_blank">award-winning</a> global fellowship program aimed at bringing more diversity into Open Source. It welcomes all women and non-binary applicants who want to gain a footing in the world of coding and further expand their knowledge and skills. The focus is on advanced-beginners who want to enter programming full-time.
 
 As a fellowship program, successful applicants are paid a monthly stipend, from July to September. This breaks down all-too-common financial barriers, allowing students to work on a worthwhile Open Source project.
 
@@ -18,7 +18,7 @@ Working in two-person teams, students are supported by a mentor directly involve
 
 ## Help make Open Source a better place for everyone
 
-Rails Girls Summer of Code wants to bring more diversity into Open Source. According to GitHub’s 2017 [Open Source Survey](https://opensourcesurvey.org/2017/) “[t]he gender imbalance in open source remains profound... just 3% are women and 1% are non-binary”.
+Rails Girls Summer of Code wants to bring more diversity into Open Source. According to GitHub’s 2017 <a href="https://opensourcesurvey.org/2017/" target="_blank">Open Source Survey</a> “[t]he gender imbalance in open source remains profound... just 3% are women and 1% are non-binary”.
 
 To encourage more diversity, the tech environment needs to be less toxic to women, non-binary people and other minorities. Adhering to and respecting the program’s [Code of Conduct](/about/code-of-conduct) is essential for anyone participating in Rails Girls Summer of Code. This ensures the program is a safe space for everyone involved.
 
@@ -52,6 +52,6 @@ If you have any questions regarding project ideas, coaching, or getting involved
 
 Got questions about sponsorship?  We’d be happy to help.  Simply email [campaign@rgsoc.org](mailto:campaign@rgsoc.org).
 
-Social Media: Follow Rails Girls Summer of Code on [Twitter](https://twitter.com/RailsGirlsSoC) and like our [Facebook page](https://www.facebook.com/pages/Rails-Girls-Summer-of-Code/620914904656191).
+Social Media: Follow Rails Girls Summer of Code on <a href="https://twitter.com/RailsGirlsSoC" target="_blank">Twitter</a> and like our <a href="https://www.facebook.com/pages/Rails-Girls-Summer-of-Code/620914904656191" target="_blank">Facebook page</a>.
 
-Social Coding: You can also find us on [GitHub](https://github.com/rails-girls-summer-of-code).
+Social Coding: You can also find us on <a href="https://github.com/rails-girls-summer-of-code" target="_blank">GitHub</a>.
