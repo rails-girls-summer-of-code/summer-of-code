@@ -24,7 +24,7 @@ To encourage more diversity, the tech environment needs to be less toxic to wome
 
 ## Who is behind Rails Girls Summer of Code
 
-RGSoC is a project run by not-for-profit organization [Travis Foundation](https://foundation.travis-ci.org/){:target="_blank"_}. It operates solely on the generous donations of sponsors and individuals from the community.
+RGSoC is a project run by not-for-profit organization [Travis Foundation](https://foundation.travis-ci.org/). It operates solely on the generous donations of sponsors and individuals from the community.
 
 The scholarship program started in 2013. Since then, RGSoC has supported 205 students working in 81 sponsored teams and 28 volunteering teams. In 2018 we welcomed our first part-time teams.
 
@@ -54,4 +54,4 @@ Got questions about sponsorship?  We’d be happy to help.  Simply email [campai
 
 Social Media: Follow Rails Girls Summer of Code on [Twitter](https://twitter.com/RailsGirlsSoC){:target="_blank"_} and like our [Facebook page](https://www.facebook.com/pages/Rails-Girls-Summer-of-Code/620914904656191){:target="_blank"_}.
 
-Social Coding: You can also find us on [GitHub](https://github.com/rails-girls-summer-of-code){:target="_blank"_}.
+Social Coding: You can also find us on [GitHub](https://github.com/rails-girls-summer-of-code).
