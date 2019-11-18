@@ -1,4 +1,4 @@
-<h3>2018 Sponsors</h3>
+<h3>2020 Sponsors</h3>
 <ul>
 {% for package in site.data.packages %}
   <li class="sponsors {{ package.name | downcase }}">
@@ -20,7 +20,11 @@
   </li>
 {% endfor %}
 <p>Note: the stars on the logos represent the number of RGSoC editions supported by the sponsor</p>
-{% if site.data.conferences %}
-  {% include conferences_footer.html %}
-{% endif %}
+  
+  <!-- <section>
+    {% if site.data.conferences %}
+    {% include conferences_footer.html %}
+    {% endif %}
+  </section> -->
+
 </ul>
