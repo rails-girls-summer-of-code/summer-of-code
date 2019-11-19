@@ -7,7 +7,7 @@ current: coaching
 permalink: /guide/coaching/
 ---
 
-<h1>Becoming a Rails Girls Summer of Code Coach</h1>
+<h1>Becoming a Coach</h1>
 
 Our coaches are the first line of support, working closely with student teams. As experienced developers, you help students learn and accomplish project tasks, supporting them, and deal with issues and questions that arise in their day-to-day work.
 
