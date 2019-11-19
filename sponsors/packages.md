@@ -12,6 +12,7 @@ permalink: /sponsors/packages/
   <div class="col-md-8 col-md-offset-2">
     <h1>{{page.title}}</h1>
     <p>Rails Girls Summer of Code enables women and non-binary people to work on Open Source projects from July to September each year while receiving a monthly scholarship. You can help make this a reality by becoming a Rails Girls Summer of Code sponsor or by donating as an individual.</p>
+    
     <p>Our various sponsorship packages are detailed below.</p>
 
     <h2>Why you should become a sponsor</h2>
@@ -21,6 +22,7 @@ permalink: /sponsors/packages/
     {% include sponsor_benefits.html %}
 
     <h2>Sponsorship Packages</h2>
+    
     <p>Supporting RGSoC enables our students to dedicate themselves to their Open Source learning projects full-time because their living expenses are covered by a monthly stipend. As a sponsor, you play a crucial part in making this happen, funding the budget pool from which the selected students will be paid.</p>
 
     <p>If you would like to know more about RGSoC or present our program to your company, you can also take a look at this <a href="https://speakerdeck.com/alicetragedy/rgsoc-2018-sponsor-pitch">pitch deck</a>.</p>
@@ -43,7 +45,7 @@ permalink: /sponsors/packages/
 
     <p>If you send us your swag, we will include it in a “care package” that will be sent out to each student. Innovator and Pioneer sponsors are very welcome to send stickers or other small items that fit into an envelope. Trailblazer sponsors may send additional swag (e.g. pens, notebooks, webcam covers or other things that fit nicely with a Summer of Code learning project).</p>
 
-    <h3>Your company in the <em>Sponsor opportunity Newsletter</em></h3>
+    <h3>Your company in the Sponsor Opportunity Newsletter</h3>
 
     <p>You may want to offer opportunities to our students such as (but not limited to) internships, interviews, special use of your services, invitations to events etc.</p>
 
@@ -62,7 +64,7 @@ permalink: /sponsors/packages/
     <p>Rails Girls Summer of Code is here to support women and non-binary people on their way into Open Source. Please see our <a href="/sponsorship-guidelines/">Sponsorship Guidelines</a> for further information on our values.</p>
 
     <h2>Partner Company Package</h2>
-    <p>If you're interested in becoming a partner company and would like to discuss what this might look like, please <a href="mailto:campaign@rgsoc.org">write us an email</a>.</p>
+    <p>If you're interested in becoming a partner company and would like to discuss what this might look like, please <a href="mailto:campaign@rgsoc.org">email us</a>.</p>
 
   </div>
 </div>
