@@ -10,32 +10,30 @@ permalink: sponsorship-guidelines/
 
 <h1>{{page.title}}</h1>
 
-Rails Girls Summer of Code has been ongoing since 2013 thanks to the people — both companies and individuals — who are funding the scholarship program. Given the nature of Rails Girls Summer of Code, it is incredibly important to us that our sponsors share our values.  
+We have been able to hold 6 cycles of Rails Girls Summer of Code (RGSoC) since the program started in 2013 thanks to the people — both companies and individuals — who fund the scholarship program.
 
-We are looking for sponsors who want to support minorities in the tech industry and specifically want to help more women and non-binary people get into Open Source. They should share our goals to make it easier for underrepresented people to join the community, be visible and speak up. Rails Girls Summer of Code and its sponsors aim to create a safe space for women and non-binary people to learn and advance their skills.  
+It is incredibly important that sponsors share our values.
 
-## What does this mean for potential sponsors?
+We welcome sponsors who want to support minorities in the tech industry and specifically to help more women and non-binary people get into Open Source.
 
-The image and track record of a sponsoring company should not conflict with our values. While we can’t know all the facts about every company, we expect them to be examples of ethical practices and their track record to speak for itself.
+They should believe in our goals to make it easier for underrepresented people to join the community, be visible and speak up. RGSoC and its sponsors aim to create a safe space for women and non-binary people to learn and advance their skills.
 
-If there are conflicts with our values we will discuss them on a case-by-case basis and take action where necessary. If a company is known to not support minorities in tech or has had other issues of discrimination, it is likely not the right fit for Rails Girls Summer of Code. If we see companies, who happen to have a bad track record, trying hard to improve and become a good fit, we are very much open to considering them.
+## What we look for in potential sponsors
 
-We review sponsor companies along the following principles:
+The image and track record of a sponsoring company should complement, not conflict with, our values. While we can’t know all the facts about every company, we expect them to be examples of ethical practices and their track record to speak for itself.
 
-+ Does the company reflect the values of Rails Girls Summer of Code?
+If we have any concerns we will discuss them on a case-by-case basis and take action where necessary. If a company is known to not support minorities in tech or has had other issues of discrimination, it is likely not the right fit for Rails Girls Summer of Code. However, if we see companies who, despite having a bad track record, are trying hard to improve and become a good fit, we are very much open to considering them.
 
-+ Do they have a strong track record in supporting women and non-binary people in technology?
+We review sponsors using some core principles. Namely, we ask ourselves whether the company:
+* reflects the values of Rails Girls Summer of Code
+* has a strong track record in supporting women and non-binary people in technology
+* has a good track record as a fair employer
+* has a background of supporting other events and/or groups who foster inclusion of women and people identifying as non-binary
+* shows a sincere and sustainable effort in handling and overcoming a situation which conflicts with our values
 
-+ Do they have a good track record in the community as a fair employer?
+Occasionally, this can mean we regretfully need to reject a company as a sponsor.
 
-+ Do they have a background of supporting other events and/or groups, who foster inclusion of women and non-binary people?
-
-+ Does the company show a sincere and sustainable effort in handling and overcoming a situation which conflicts with our values?
-
-This can also mean rejecting a company as a sponsor, as we have done before and might do again in the future.
-
-## Information on VAT and Tax Deductability
-
+## Information on VAT and Tax Deductibility
 
 ### For sponsors based in Germany:
 If you enter Germany into the ‘Country’ field of the donation form, we will show you a field to ask if VAT is a recoverable tax for you. If you answer ‘yes’, we will add the 19% VAT to your contribution.
@@ -51,11 +49,9 @@ We don’t really know about tax laws everywhere in the world but according to o
 
 ## Cancellation Policy
 
-If for some unforeseen reason the Rails Girls Summer of Code program can’t go ahead as planned, sponsors will be offered a refund of their donation.
+If for some unforeseen reason RGSoC cannot go ahead as planned, sponsors will be offered a refund of their donation.
 
 
 ## Left-over money
 
-Any money left over from the campaign will be saved for next year’s Rails Girls Summer of Code. Should there be no Summer of Code in the following year, the RGSoC organization will decide how to best spend any leftover donation money on other non-profit initiatives.
-
-
+Any money leftover from the campaign will be saved for next year’s Rails Girls Summer of Code. Should there be no RGSoC in the following year, the organization will decide how to best spend any leftover donation money on other non-profit initiatives.
