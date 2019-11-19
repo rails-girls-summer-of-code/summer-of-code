@@ -34,7 +34,7 @@ permalink: /sponsors/packages/
 
   <h2>Benefits for sponsors</h2>
 
-    {% include _includes/sponsorship_table.html %}
+    {% include sponsorship_table.html %}
 
 
     <p>Logos and links on the website will be sorted by package size and confirmation date of the donation.</p>
