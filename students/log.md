@@ -29,8 +29,8 @@ What issues do we need help with?
 ### Writing your Daily Log
 
 To enter these:
-login into the [Teams App](https://teams.railsgirlssummerofcode.org/)
-go to Status Updates (top of the page)
+* login into the [Teams App](https://teams.railsgirlssummerofcode.org/)
+* go to Status Updates (top of the page)
 
 ### Tips
 
