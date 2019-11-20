@@ -29,8 +29,14 @@ permalink: /sponsors/packages/
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-12">
     {% include sponsor_packages.html %}
+  </div>
+</div>
 
+<div class="row">
+  <div class="col-md-8 col-md-offset-2">
 
   <h2>Benefits for sponsors</h2>
 
