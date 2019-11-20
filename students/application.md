@@ -43,11 +43,13 @@ Our goal is to support and encourage underrepresented people in open source.
 All people with non-binary gender identities or who identify as female (transgender or cisgender) are welcome to apply.
 
 Further to this, we look for applicants:
-* who are involved with, or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, or similar initiatives
-* with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples
-* who can spend 3 months (July to September 2020) working full-time on their Open Source project of choice
-* who are proficient (spoken and written) in English. You will be communicating with several people from different countries, writing daily logs and blog posts, and English is our common language of communication
-* who have never participated in our program as a sponsored team before
+<ul>
+  <li> who are involved with, or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, or similar initiatives</li>
+  <li>with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples</li>
+  <li>who can spend 3 months (July to September 2020) working full-time on their Open Source project of choice</li>
+  <li>who are proficient (spoken and written) in English. You will be communicating with several people from different countries, writing daily logs and blog posts, and English is our common language of communication</li>
+  <li>who have never participated in our program as a sponsored team before</li>
+</ul>
 
 You do not have to be a University student or graduate to apply. We expect most applicants will be aged 18 or over but there is no upper age limit.
 
@@ -59,7 +61,7 @@ The scholarship will be based on where you live, your set expenses, and any spec
 
 <h4 id="teammate">A teammate
 
-A team requires 2 students working from the same city, so you’ll need to find someone to pair with before submitting your application.
+<p>A team requires 2 students working from the same city, so you’ll need to find someone to pair with before submitting your application.</p>
 
 It is important that you can work well together. You will be working very closely for three months, planning team goals together, and the first line of support for one another.
 
