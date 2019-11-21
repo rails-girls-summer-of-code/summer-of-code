@@ -9,8 +9,6 @@ permalink: /students/application/
 
 <h1>{{page.title}}</h1>
 
-<img src="/img/guides/howtoapply_2016.png" srcset="/img/guides/howtoapply_2016_mobile.png 500w, /img/guides/howtoapply_2016.png 1200w">
-
 <p>This guide gives you all the information you need when applying for Rails Girls Summer of Code. Please read this carefully to familiarise yourself with what makes a good and complete application.</p>
 
 <ul>
