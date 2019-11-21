@@ -9,11 +9,7 @@ permalink: /students/application/
 
 <h1>{{page.title}}</h1>
 
-
-<p><div class="resize-whitespace">
 <img src="/img/guides/howtoapply_2016.png" srcset="/img/guides/howtoapply_2016_mobile.png 500w, /img/guides/howtoapply_2016.png 1200w">
-</div>
-</p>
 
 <p>This guide gives you all the information you need when applying for Rails Girls Summer of Code. Please read this carefully to familiarise yourself with what makes a good and complete application.</p>
 
@@ -36,6 +32,7 @@ permalink: /students/application/
 <li><a href="#send">Submit your application</a></li>
 <li><a href="#questions">Still got questions?</a></li>
 </ul>
+
 
 <h3 id="period">When does RGSoC take place?</h3>
 
