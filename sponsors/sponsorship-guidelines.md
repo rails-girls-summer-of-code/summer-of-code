@@ -25,11 +25,13 @@ The image and track record of a sponsoring company should complement, not confli
 If we have any concerns we will discuss them on a case-by-case basis and take action where necessary. If a company is known to not support minorities in tech or has had other issues of discrimination, it is likely not the right fit for Rails Girls Summer of Code. However, if we see companies who, despite having a bad track record, are trying hard to improve and become a good fit, we are very much open to considering them.
 
 We review sponsors using some core principles. Namely, we ask ourselves whether the company:
-* reflects the values of Rails Girls Summer of Code
-* has a strong track record in supporting women and non-binary people in technology
-* has a good track record as a fair employer
-* has a background of supporting other events and/or groups who foster inclusion of women and people identifying as non-binary
-* shows a sincere and sustainable effort in handling and overcoming a situation which conflicts with our values
+<ul>
+<li>reflects the values of Rails Girls Summer of Code
+<li>has a strong track record in supporting women and non-binary people in technology
+<li>has a good track record as a fair employer
+<li>has a background of supporting other events and/or groups who foster inclusion of women and people identifying as non-binary
+<li>shows a sincere and sustainable effort in handling and overcoming a situation which conflicts with our values
+</ul>
 
 Occasionally, this can mean we regretfully need to reject a company as a sponsor.
 
