@@ -31,7 +31,6 @@ permalink: /students/application/
 <li><a href="#questions">Still got questions?</a></li>
 </ul>
 
-
 <h3 id="period">When does RGSoC take place?</h3>
 
 <p>A RGSoC season runs for three months, between July and September.</Zp>
@@ -145,7 +144,7 @@ The following factors can also strengthen your application:
 <li>Choice of project - we can often only assign one team to each project. The more teams that choose the same project, the stiffer the competition may be. You can see how many teams applied to which projects <a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">here</a> and we recommend you select a second choice.</li>
 </ul>
 
-<h3 id="during"Requirements during the program</h3>
+<h3 id="during">Requirements during the program</h3>
 
 RGSoC focuses on students learning to code but is also a community event. Along with this application guide, please also read about <a href="http://railsgirlssummerofcode.org/students/todo" target="_blank">what will be asked of you</a> during the program.
 
@@ -173,14 +172,14 @@ If you have any questions about the above list, please <a href="mailto:contact@r
 
 Here is a basic checklist for your application:
 <ul class="list--none">
-<li><span class="glyphicon glyphicon-unchecked"></span>Have you read, and fully understood, this guide?</li>
-<li><span class="glyphicon glyphicon-unchecked"></span>Can you commit to working on your project full time for 3 months (July-Sept)?</li>
-<li><span class="glyphicon glyphicon-unchecked"></span>Have you found a teammate?</li>
-<li><span class="glyphicon glyphicon-unchecked"></span>Has your team selected a project?</li>
-<li><span class="glyphicon glyphicon-unchecked"></span>Have you gotten in touch with the mentor of the project you have selected?</li>
-<li><span class="glyphicon glyphicon-unchecked"></span>Has your team found at least two coaches who will commit to helping you?</li>
-<li><span class="glyphicon glyphicon-unchecked"></span>Has your team found a suitable workspace for the duration of the program?</li>
-<li><span class="glyphicon glyphicon-unchecked"></span>Do you agree with and meet all of the requirements listed above?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Have you read, and fully understood, this guide?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Can you commit to working on your project full time for 3 months (July-Sept)?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Have you found a teammate?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Has your team selected a project?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Have you gotten in touch with the mentor of the project you have selected?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Has your team found at least two coaches who will commit to helping you?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Has your team found a suitable workspace for the duration of the program?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Do you agree with and meet all of the requirements listed above?</li>
 </ul>
 
 If you can answer “yes” to all these questions, you’re ready to apply.
