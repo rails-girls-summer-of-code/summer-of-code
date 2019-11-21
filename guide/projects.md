@@ -36,7 +36,7 @@ Mentors are vital to the program, as they:
 <li>ideally are (or work closely with) the decision-makers for the project</li>
 </ul>
 
-The workload for project mentors is less intense than for Ccaches, who support students in their day-to-day work.
+The workload for project mentors is less intense than for coaches, who support students in their day-to-day work.
 
 Please note that we aim to fund the RGSoC program through sponsorship and public donations. If you or your company are able to contribute, this would obviously be very much appreciated but is not a requirement of participation for project mentors.
 
