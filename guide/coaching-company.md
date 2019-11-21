@@ -62,11 +62,13 @@ In fact, we explicitly encourage companies from all over the world to get involv
 <h3 id="q6">How do we become a coaching company?</h3>
 
 To become a coaching company you first have to register your company and your coaches on our <a href="https://teams.railsgirlssummerofcode.org">Teams App</a>. Then there are several ways you can connect with prospective students:
-* Actively look for a team in your city by reaching out to your local Rails Girls chapter (or Pyladies, WomenWhoCode, BlackGirlsCode, PHPwomen, etc.)
-* Let development communities, such as your local user groups, know that you’re willing to host a team
-* Spread the word by mentioning @RailsGirlsSoC on Twitter; we’ll retweet and help you connect with prospective students
-* Write a blog post to get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a team. We’re happy to share your post on our social networks to help you find a team!
-* Students looking for a coaching company can also find you in the Teams App
+<ul>
+  <li>Actively look for a team in your city by reaching out to your local Rails Girls chapter (or Pyladies, WomenWhoCode, BlackGirlsCode, PHPwomen, etc.)</li>
+  <li>Let development communities, such as your local user groups, know that you’re willing to host a team</li>
+  <li>Spread the word by mentioning @RailsGirlsSoC on Twitter; we’ll retweet and help you connect with prospective students</li>
+  <li>Write a blog post to get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a team. We’re happy to share your post on our social networks to help you find a team!</li>
+  <li>Students looking for a coaching company can also find you in the Teams App</li>
+</ul>
 
 <h3 id="q6a">An example of how to become a coaching company</h3>
 
@@ -74,7 +76,7 @@ Absolventa, a Berlin-based company which hosted a team during RGSoC 2013, wanted
 
 They tweeted about their intentions, including information about where they are located and which languages they can coach in:
 
-<blockquote class="twitter-tweet" lang="en"> Berlin-based team applying with a Ruby project for this year’s <a href="https://twitter.com/RailsgirlsSoc">@RailsGirlsSoC?</a> We want to be your coaching company! <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/">http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/</a>&mdash; Carsten Zimmermann (@carpgezwitscher) <a href="https://twitter.com/carpgezwitscher/status/702878302642507776">February 25, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Berlin-based team applying with a Ruby project for this year’s <a href="https://twitter.com/RailsGirlsSoC?ref_src=twsrc%5Etfw">@RailsGirlsSoC</a>? We want to be your coaching company! <a href="https://t.co/rXoThwlt22">https://t.co/rXoThwlt22</a></p>&mdash; prw-r--r- 1 carsten  zimmermann 0 (@carpgezwitscher) <a href="https://twitter.com/carpgezwitscher/status/702878302642507776?ref_src=twsrc%5Etfw">February 25, 2016</a></blockquote>
 
 They linked to a <a href="http://devnull.absolventa.de/2016/02/25/we-want-to-work-with-you-during-rgsoc-2016/">more detailed blog post</a> including the following details:
 
