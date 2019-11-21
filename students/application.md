@@ -15,7 +15,7 @@ This guide gives you all the information you need when applying for Rails Girls 
 <li><a href="#period">When does RGSoC take place?</a></li>
 <li><a href="#eligibility">Who is eligible to participate?</a></li>
 <li><a href="#stipend">How much is the scholarship?</a></li>
-<li><a href="#need">What you need to apply</a>
+<li><a href="#need">What you need to apply</a></li>
   <ul>
     <li><a href="#teammate">A teammate</a></li>
     <li><a href="#coach">Coaches</a></li>
