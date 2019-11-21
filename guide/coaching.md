@@ -54,10 +54,12 @@ Should a coach not be available to help with a specific issue, students can also
 <h3 id="why">Why should I be a coach?</h3>
 
 Coaching is extremely rewarding. There are a lot of good reasons to become a coach. For example, we firmly believe that it will help you:
-* give back to the community by empowering women and non-binary people to contribute to open source
-* share your knowledge
-* reflect on concepts you tend to take for granted
-* help you grow as a developer, improve the way you write code and benefit your work as a programmer
+<ul>
+<li>give back to the community by empowering women and non-binary people to contribute to open source</li>
+<li>share your knowledge</li>
+<li>reflect on concepts you tend to take for granted</li>
+<li>help you grow as a developer, improve the way you write code and benefit your work as a programmer</li>
+</ul>
 
 Above all, it will be incredibly satisfying for you to see the happy faces of your students when they succeed and reach their goals.
 
@@ -71,10 +73,12 @@ However, where this just isn’t possible remote coaching becomes a good alterna
 
 <h3 id="what">What will I be doing as a coach?</h3>
 
-* Going over the technical basics if needed
-* Guiding students through coding steps
-* Showing them how to debug and troubleshoot
-* Showing students ways to find solutions
+<ul>
+<li>Going over the technical basics if needed</li>
+<li>Guiding students through coding steps</li>
+<li>Showing them how to debug and troubleshoot</li>
+<li>Showing students ways to find solutions</li>
+</ul>
 
 It is important for coaches to teach the process of programming — showing students the way to a solution rather than just telling them the answer. This may sometimes require going over the basics, teaching them how to debug and troubleshoot, or discussing concepts on paper.
 
@@ -93,9 +97,11 @@ We also recommend getting acquainted with the project’s technical design and c
 <h3 id="time">How much time does coaching take?</h3>
 
 The actual time required for each team varies but as a general rule you will need to invest:
-* 1-2 hours a day during office hours for face-to-face support
-* time ad hoc via chat or email for questions and important/urgent matters
-
+<ul>
+<li>1-2 hours a day during office hours for face-to-face support</li>
+<li>time ad hoc via chat or email for questions and important/urgent matters</li>
+</ul>
+  
 Where it makes sense, in-person coaching can also be “blocked” during a whole day or afternoon a week, making it easier for you to integrate it with your day-to-day work.
 
 Coaches are not expected to work together with their students full-time. But from a student’s perspective, it is best for them and their progress if they have a coach at hand most of the time, as they will constantly run into issues they need help with. This is why we recommend sharing the responsibilities among a minimum of 2 coaches.
@@ -106,18 +112,22 @@ Could you ask your company to become a [Coaching Company](/guide/coaching-compan
 
 How to register as a coach
 Register as a coach on our [Teams app](https://teams.railsgirlssummerofcode.org/):
-* Log in with [GitHub](https://github.com/)
-* Under “My Account” choose “Edit”
-* Select what you’re interested in: helping as a coach or as a remote coach/providing helpdesk support
+<ul>
+<li>Log in with [GitHub](https://github.com/)</li>
+<li>Under “My Account” choose “Edit”</li>
+<li>Select what you’re interested in: helping as a coach or as a remote coach/providing helpdesk support</li>
+</ul>
 
 <h3 id="team">Ways to find a team</h3>
 
 If you don’t yet know anyone who would make a suitable student, these ideas could help:
-* Reach out to local [Rails Girls](http://railsgirls.com/)/[PyLadies](http://www.pyladies.com/)/WomenWhoCode/BlackGirlsCode, PHPwomen, etc. chapters
-* Get in touch with local developer user groups, initiatives, and study groups to let them know you’re willing to host a team
-* Spread the word by mentioning @RailsGirlsSoC on [Twitter](http://www.twitter.com/RailsGirlsSoC) stating that you are offering your space and coaches (remember to introducing yourself, specifying your areas of expertise and location); we’ll retweet and help you connect with prospective students
-* Write a blog post to get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a team
-* Students looking for a coaching company can also find you in the [Teams app](https://teams.railsgirlssummerofcode.org/)
+<ul>
+<li>Reach out to local [Rails Girls](http://railsgirls.com/)/[PyLadies](http://www.pyladies.com/)/WomenWhoCode/BlackGirlsCode, PHPwomen, etc. chapters</li>
+<li>Get in touch with local developer user groups, initiatives, and study groups to let them know you’re willing to host a team</li>
+<li>Spread the word by mentioning @RailsGirlsSoC on [Twitter](http://www.twitter.com/RailsGirlsSoC) stating that you are offering your space and coaches (remember to introducing yourself, specifying your areas of expertise and location); we’ll retweet and help you connect with prospective students</li>
+<li>Write a blog post to get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a team</li>
+<li>Students looking for a coaching company can also find you in the [Teams app](https://teams.railsgirlssummerofcode.org/)</li>
+</ul>
 
 <h3 id="questions">Still got questions?</h3>
 
