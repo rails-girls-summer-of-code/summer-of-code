@@ -106,14 +106,14 @@ Where it makes sense, in-person coaching can also be “blocked” during a whol
 
 Coaches are not expected to work together with their students full-time. But from a student’s perspective, it is best for them and their progress if they have a coach at hand most of the time, as they will constantly run into issues they need help with. This is why we recommend sharing the responsibilities among a minimum of 2 coaches.
 
-Could you ask your company to become a [Coaching Company](/guide/coaching-company)?
+Could you ask your company to become a <a href="/guide/coaching-company" target="_blank">Coaching Company</a>?
 
 <h3 id="register">How to register as a coach</h3>
 
 How to register as a coach
-Register as a coach on our [Teams app](https://teams.railsgirlssummerofcode.org/):
+Register as a coach on our <a href="https://teams.railsgirlssummerofcode.org/" target="_blank">Teams app</a>:
 <ul>
-<li>Log in with [GitHub](https://github.com/)</li>
+<li>Log in with <a href="https://github.com/" target="_blank">GitHub</a></li>
 <li>Under “My Account” choose “Edit”</li>
 <li>Select what you’re interested in: helping as a coach or as a remote coach/providing helpdesk support</li>
 </ul>
@@ -122,13 +122,13 @@ Register as a coach on our [Teams app](https://teams.railsgirlssummerofcode.org/
 
 If you don’t yet know anyone who would make a suitable student, these ideas could help:
 <ul>
-<li>Reach out to local [Rails Girls](http://railsgirls.com/)/[PyLadies](http://www.pyladies.com/)/WomenWhoCode/BlackGirlsCode, PHPwomen, etc. chapters</li>
+<li>Reach out to local <a href="http://railsgirls.com/" target="_blank">Rails Girls</a>, <a href="http://www.pyladies.com/" target="_blank">PyLadies</a>, WomenWhoCode, BlackGirlsCode, PHPwomen, etc. chapters</li>
 <li>Get in touch with local developer user groups, initiatives, and study groups to let them know you’re willing to host a team</li>
-<li>Spread the word by mentioning @RailsGirlsSoC on [Twitter](http://www.twitter.com/RailsGirlsSoC) stating that you are offering your space and coaches (remember to introducing yourself, specifying your areas of expertise and location); we’ll retweet and help you connect with prospective students</li>
+<li>Spread the word by mentioning @RailsGirlsSoC on <a href="http://www.twitter.com/RailsGirlsSoC" target="_blank">Twitter</a> stating that you are offering your space and coaches (remember to introducing yourself, specifying your areas of expertise and location); we’ll retweet and help you connect with prospective students</li>
 <li>Write a blog post to get the word out about you wanting to become a coaching company: talk about your dev team, the work environment, and your motivations for wanting to host a team</li>
-<li>Students looking for a coaching company can also find you in the [Teams app](https://teams.railsgirlssummerofcode.org/)</li>
+<li>Students looking for a coaching company can also find you in the <a href="https://teams.railsgirlssummerofcode.org/" target="_blank">Teams app</a></li>
 </ul>
 
 <h3 id="questions">Still got questions?</h3>
 
-Drop us a line at [contact@rgsoc.org](mailto:contact@rgsoc.org).
+Drop us a line at <a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a>.
