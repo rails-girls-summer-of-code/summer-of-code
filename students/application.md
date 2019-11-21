@@ -9,50 +9,54 @@ permalink: /students/application/
 
 <h1>{{page.title}}</h1>
 
-<img src="/img/guides/howtoapply_2016.png" alt="RGSoC application process" style="width:500px;height:263px;">
 
-This guide gives you all the information you need when applying for Rails Girls Summer of Code. Please read this carefully to familiarise yourself with what makes a good and complete application.
+<p><div class="resize-whitespace">
+<img src="/img/guides/howtoapply_2016.png" srcset="/img/guides/howtoapply_2016_mobile.png 500w, /img/guides/howtoapply_2016.png 1200w">
+</div>
+</p>
+
+<p>This guide gives you all the information you need when applying for Rails Girls Summer of Code. Please read this carefully to familiarise yourself with what makes a good and complete application.</p>
 
 <ul>
-  <li><a href="#period">When does RGSoC take place?</a></li>
-  <li><a href="#eligibility">Who is eligible to participate?</a></li>
-  <li><a href="#stipend">How much is the scholarship?</a></li>
-  <li><a href="#need">What you need to apply</a>
-    <ul>
-      <li><a href="#teammate">A teammate</a></li>
-      <li><a href="#coach">Coaches</a></li>
-      <li><a href="#office">A place to work</a></li>
-      <li><a href="#motivate">Abilities</a></li>
-      <li><a href="#project">A project</a></li>
-    </ul>
-  <li><a href="#apply">Placing your application</a></li>
-  <li><a href="#selection">Selection and judging</a></li>
-  <li><a href="#during">Requirements during the program</a></li>
-  <li><a href="#checklist">Before you apply: the checklist</a></li>
-  <li><a href="#send">Submit your application</a></li>
-  <li><a href="#questions">Still got questions?</a></li>
+<li><a href="#period">When does RGSoC take place?</a></li>
+<li><a href="#eligibility">Who is eligible to participate?</a></li>
+<li><a href="#stipend">How much is the scholarship?</a></li>
+<li><a href="#need">What you need to apply</a>
+  <ul>
+    <li><a href="#teammate">A teammate</a></li>
+    <li><a href="#coach">Coaches</a></li>
+    <li><a href="#office">A place to work</a></li>
+    <li><a href="#motivate">Abilities</a></li>
+    <li><a href="#project">A project</a></li>
+  </ul>
+<li><a href="#apply">Placing your application</a></li>
+<li><a href="#selection">Selection and judging</a></li>
+<li><a href="#during">Requirements during the program</a></li>
+<li><a href="#checklist">Before you apply: the checklist</a></li>
+<li><a href="#send">Submit your application</a></li>
+<li><a href="#questions">Still got questions?</a></li>
 </ul>
 
 <h3 id="period">When does RGSoC take place?</h3>
 
-A RGSoC season runs for three months, between July and September.
+<p>A RGSoC season runs for three months, between July and September.</Zp>
 
 <h3 id="eligibility">Who is eligible to participate?</h3>
 
-Our goal is to support and encourage underrepresented people in open source.
+<p>Our goal is to support and encourage underrepresented people in open source.</p>
 
-All people with non-binary gender identities or who identify as female (transgender or cisgender) are welcome to apply.
+<p>All people with non-binary gender identities or who identify as female (transgender or cisgender) are welcome to apply.</p>
 
-Further to this, we look for applicants:
+<p>Further to this, we look for applicants:</p>
 <ul>
-  <li> who are involved with, or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, or similar initiatives</li>
-  <li>with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples</li>
-  <li>who can spend 3 months (July to September 2020) working full-time on their Open Source project of choice</li>
-  <li>who are proficient (spoken and written) in English. You will be communicating with several people from different countries, writing daily logs and blog posts, and English is our common language of communication</li>
-  <li>who have never participated in our program as a sponsored team before</li>
+<li> who are involved with, or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, or similar initiatives</li>
+<li>with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples</li>
+<li>who can spend 3 months (July to September 2020) working full-time on their Open Source project of choice</li>
+<li>who are proficient (spoken and written) in English. You will be communicating with several people from different countries, writing daily logs and blog posts, and English is our common language of communication</li>
+<li>who have never participated in our program as a sponsored team before</li>
 </ul>
 
-You do not have to be a University student or graduate to apply. We expect most applicants will be aged 18 or over but there is no upper age limit.
+<p>You do not have to be a University student or graduate to apply. We expect most applicants will be aged 18 or over but there is no upper age limit.</p>
 
 <h3 id="stipend">How much is the scholarship?</h3>
  
@@ -104,18 +108,18 @@ At the bottom of this guide you will find a checklist to make sure that you have
 
 Before applying, you need to create a team:
 <ol>
-  <li>go to the <a href="https://teams.railsgirlssummerofcode.org/teams" target="_blank">Teams page</a></li>
-  <li>click on “New Team”</li>
-  <li>add your team members (teammate and coaches)</li>
-  <li>save your team</li>
-  <li>clicking “Apply now” in the navigation to visit the application form.</li>
+<li>go to the <a href="https://teams.railsgirlssummerofcode.org/teams" target="_blank">Teams page</a></li>
+<li>click on “New Team”</li>
+<li>add your team members (teammate and coaches)</li>
+<li>save your team</li>
+<li>clicking “Apply now” in the navigation to visit the application form.</li>
 </ol>
 
 The application form is split into three sections, where you will be asked:
 <ol>
-  <li>questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. You and your teammate will fill in this information separately</li>
-  <li>to select your chosen (and second choice) project from a drop-down menu</li>
-  <li>about your team setup. Do this together as a team</li>
+<li>questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. You and your teammate will fill in this information separately</li>
+<li>to select your chosen (and second choice) project from a drop-down menu</li>
+<li>about your team setup. Do this together as a team</li>
 </ol>
 
 Second choice of project is not mandatory but useful in case we cannot offer you your first choice.
@@ -138,12 +142,12 @@ Applications are reviewed on a case-by-case basis by a group of people in the co
 
 The following factors can also strengthen your application:
 <ul>
-  <li>Community involvement - this is important. The more you are involved, the better.</li>
-  <li>Experience - show us you have a background in programming and working in a team. We don’t expect you to be an expert, but knowledge of some basic concepts and practices is an advantage.</li>
-  <li>Concise code examples - the best-case scenario is linking to a completed coding challenge provided by your mentor (if provided). Links to good and somewhat laconic examples of code written by you are a good option, too.</li>
-  <li>Prior accomplishments - ever built something cool? Proud of your achievements? Made something small but functioning for fun? Tell us. Your ability to work and achieve matters.</li>
-  <li>Strong local support - while we don’t require you to have local coaches, having support on-hand makes your team stronger and your 3 months more productive. However, we understand that not all locations make it easy to find local coaches. If this is the case for you, please tell us as we’ll take this into account in the reviewing stage.</li>
-  <li>Choice of project - we can often only assign one team to each project. The more teams that choose the same project, the stiffer the competition may be. You can see how many teams applied to which projects <a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">here</a> and we recommend you select a second choice.</li>
+<li>Community involvement - this is important. The more you are involved, the better.</li>
+<li>Experience - show us you have a background in programming and working in a team. We don’t expect you to be an expert, but knowledge of some basic concepts and practices is an advantage.</li>
+<li>Concise code examples - the best-case scenario is linking to a completed coding challenge provided by your mentor (if provided). Links to good and somewhat laconic examples of code written by you are a good option, too.</li>
+<li>Prior accomplishments - ever built something cool? Proud of your achievements? Made something small but functioning for fun? Tell us. Your ability to work and achieve matters.</li>
+<li>Strong local support - while we don’t require you to have local coaches, having support on-hand makes your team stronger and your 3 months more productive. However, we understand that not all locations make it easy to find local coaches. If this is the case for you, please tell us as we’ll take this into account in the reviewing stage.</li>
+<li>Choice of project - we can often only assign one team to each project. The more teams that choose the same project, the stiffer the competition may be. You can see how many teams applied to which projects <a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">here</a> and we recommend you select a second choice.</li>
 </ul>
 
 <h3 id="during"Requirements during the program</h3>
@@ -152,16 +156,16 @@ RGSoC focuses on students learning to code but is also a community event. Along 
 
 Students have to agree with the following requirements and, in case of being selected, must sign a written agreement:
 <ul>
-  <li>Participate full-time from 01 July to 30 September 2020</li>
-  <li>Continuously work on the chosen and approved Open Source project</li>
-  <li>Keep track of your work with a short, <a href="https://railsgirlssummerofcode.org/students/log" target="_blank">daily summary</a></li>
-  <li>Keep regular contact with your supervisor and mentor</li>
-  <li>Abide by rules for reaction times for communication</li>
-  <li>Provide an email address and Twitter account (handle) for social and promotional events</li>
-  <li>Participate in non-coding related RGSoC community events (e.g. the all-team chat)</li>
-  <li>Agree to team information being published on the RGSoC website, blog and social media channels (e.g. team introduction, team blog posts, project updates)</li>
-  <li>Provide and allow publication of a form of visual representation (photograph) of yourself</li>
-  <li>In case of participation in a conference where tickets are provided by RGSoC: Hold a lightning talk about your project and/or write a blog post about the conference.</li>
+<li>Participate full-time from 01 July to 30 September 2020</li>
+<li>Continuously work on the chosen and approved Open Source project</li>
+<li>Keep track of your work with a short, <a href="https://railsgirlssummerofcode.org/students/log" target="_blank">daily summary</a></li>
+<li>Keep regular contact with your supervisor and mentor</li>
+<li>Abide by rules for reaction times for communication</li>
+<li>Provide an email address and Twitter account (handle) for social and promotional events</li>
+<li>Participate in non-coding related RGSoC community events (e.g. the all-team chat)</li>
+<li>Agree to team information being published on the RGSoC website, blog and social media channels (e.g. team introduction, team blog posts, project updates)</li>
+<li>Provide and allow publication of a form of visual representation (photograph) of yourself</li>
+<li>In case of participation in a conference where tickets are provided by RGSoC: Hold a lightning talk about your project and/or write a blog post about the conference.</li>
 </ul>
 
 Where possible, Rails Girls Summer of Code will assist and support you with any of these requirements.
@@ -174,14 +178,14 @@ If you have any questions about the above list, please <a href="mailto:contact@r
 
 Here is a basic checklist for your application:
 <ul class="list--none">
-  <li><span class="glyphicon glyphicon-unchecked"></span>Have you read, and fully understood, this guide?</li>
-  <li><span class="glyphicon glyphicon-unchecked"></span>Can you commit to working on your project full time for 3 months (July-Sept)?</li>
-  <li><span class="glyphicon glyphicon-unchecked"></span>Have you found a teammate?</li>
-  <li><span class="glyphicon glyphicon-unchecked"></span>Has your team selected a project?</li>
-  <li><span class="glyphicon glyphicon-unchecked"></span>Have you gotten in touch with the mentor of the project you have selected?</li>
-  <li><span class="glyphicon glyphicon-unchecked"></span>Has your team found at least two coaches who will commit to helping you?</li>
-  <li><span class="glyphicon glyphicon-unchecked"></span>Has your team found a suitable workspace for the duration of the program?</li>
-  <li><span class="glyphicon glyphicon-unchecked"></span>Do you agree with and meet all of the requirements listed above?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span>Have you read, and fully understood, this guide?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span>Can you commit to working on your project full time for 3 months (July-Sept)?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span>Have you found a teammate?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span>Has your team selected a project?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span>Have you gotten in touch with the mentor of the project you have selected?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span>Has your team found at least two coaches who will commit to helping you?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span>Has your team found a suitable workspace for the duration of the program?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span>Do you agree with and meet all of the requirements listed above?</li>
 </ul>
 
 If you can answer “yes” to all these questions, you’re ready to apply.
