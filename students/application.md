@@ -10,6 +10,7 @@ permalink: /students/application/
 <h1>{{page.title}}</h1>
 
 This guide gives you all the information you need when applying for Rails Girls Summer of Code. Please read this carefully to familiarise yourself with what makes a good and complete application.
+
 <ul>
 <li><a href="#period">When does RGSoC take place?</a></li>
 <li><a href="#eligibility">Who is eligible to participate?</a></li>
@@ -29,7 +30,6 @@ This guide gives you all the information you need when applying for Rails Girls 
 <li><a href="#send">Submit your application</a></li>
 <li><a href="#questions">Still got questions?</a></li>
 </ul>
-<br>
 
 <h3 id="period">When does RGSoC take place?</h3>
 
