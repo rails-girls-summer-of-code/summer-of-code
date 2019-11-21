@@ -16,6 +16,7 @@ permalink: /students/application/
 <li><a href="#eligibility">Who is eligible to participate?</a></li>
 <li><a href="#stipend">How much is the scholarship?</a></li>
 <li><a href="#need">What you need to apply</a>
+  
   <ul>
     <li><a href="#teammate">A teammate</a></li>
     <li><a href="#coach">Coaches</a></li>
@@ -23,6 +24,7 @@ permalink: /students/application/
     <li><a href="#motivate">Abilities</a></li>
     <li><a href="#project">A project</a></li>
   </ul>
+  
 <li><a href="#apply">Placing your application</a></li>
 <li><a href="#selection">Selection and judging</a></li>
 <li><a href="#during">Requirements during the program</a></li>
@@ -30,6 +32,8 @@ permalink: /students/application/
 <li><a href="#send">Submit your application</a></li>
 <li><a href="#questions">Still got questions?</a></li>
 </ul>
+
+<br>
 
 <h3 id="period">When does RGSoC take place?</h3>
 
