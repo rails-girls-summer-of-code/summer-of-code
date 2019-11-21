@@ -36,9 +36,11 @@ Are you a people-person? One of the most important things a supervisor does is p
 Supervisors act as the “glue” between the Rails Girls Summer of Code organizational team and the individual teams (students, coaches, and project mentors) they are assigned to. Their purpose is to regularly communicate with coaches and students and make sure everything is running smoothly.
 
 Supervisors can be responsible for more than one team. They check up on the work progress via the <a href="/students/log">team log</a> and regularly communicate with their teams to:
-* see how everyone is doing
-* ask if there is anything they need help with
-* motivate them through the rough patches they will inevitably experience
+<ul>
+<li>see how everyone is doing</li>
+<li>ask if there is anything they need help with</li>
+<li>motivate them through the rough patches they will inevitably experience</li>
+</ul>
 
 We suggest arranging for a short video call once a week to update and discuss anything that might arise. Supervisors should continuously monitor the students and their progress. This includes checking the daily log and making sure that things are progressing as planned.
 
