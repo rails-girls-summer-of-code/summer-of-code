@@ -38,6 +38,8 @@ Mentors are vital to the program, as they:
 
 The workload for project mentors is less intense than for Ccaches, who support students in their day-to-day work.
 
+Please note that we aim to fund the RGSoC program through sponsorship and public donations. If you or your company are able to contribute, this would obviously be very much appreciated but is not a requirement of participation for project mentors.
+
 <h3 id="q2">What makes a good mentor?</h3>
 
 Mentors are patient, tolerant and open people. You care about diversity and making Open Source projects more accessible to newcomers. Ideally, you are already familiar with the Rails Girls movement or other newcomer initiatives.
