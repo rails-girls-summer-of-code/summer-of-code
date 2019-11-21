@@ -11,6 +11,7 @@ permalink: /students/application/
 
 <p>This guide gives you all the information you need when applying for Rails Girls Summer of Code. Please read this carefully to familiarise yourself with what makes a good and complete application.</p>
 
+<p>
 <ul>
 <li><a href="#period">When does RGSoC take place?</a></li>
 <li><a href="#eligibility">Who is eligible to participate?</a></li>
@@ -32,12 +33,13 @@ permalink: /students/application/
 <li><a href="#send">Submit your application</a></li>
 <li><a href="#questions">Still got questions?</a></li>
 </ul>
+</p>
 
 <br>
 
 <h3 id="period">When does RGSoC take place?</h3>
 
-<p>A RGSoC season runs for three months, between July and September.</Zp>
+<p>A RGSoC season runs for three months, between July and September.</p>
 
 <h3 id="eligibility">Who is eligible to participate?</h3>
 
