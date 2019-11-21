@@ -9,15 +9,12 @@ permalink: /students/application/
 
 <h1>{{page.title}}</h1>
 
-<p>This guide gives you all the information you need when applying for Rails Girls Summer of Code. Please read this carefully to familiarise yourself with what makes a good and complete application.</p>
-
-<p>
+This guide gives you all the information you need when applying for Rails Girls Summer of Code. Please read this carefully to familiarise yourself with what makes a good and complete application.
 <ul>
 <li><a href="#period">When does RGSoC take place?</a></li>
 <li><a href="#eligibility">Who is eligible to participate?</a></li>
 <li><a href="#stipend">How much is the scholarship?</a></li>
 <li><a href="#need">What you need to apply</a>
-  
   <ul>
     <li><a href="#teammate">A teammate</a></li>
     <li><a href="#coach">Coaches</a></li>
@@ -25,7 +22,6 @@ permalink: /students/application/
     <li><a href="#motivate">Abilities</a></li>
     <li><a href="#project">A project</a></li>
   </ul>
-  
 <li><a href="#apply">Placing your application</a></li>
 <li><a href="#selection">Selection and judging</a></li>
 <li><a href="#during">Requirements during the program</a></li>
@@ -33,21 +29,19 @@ permalink: /students/application/
 <li><a href="#send">Submit your application</a></li>
 <li><a href="#questions">Still got questions?</a></li>
 </ul>
-</p>
-
 <br>
 
 <h3 id="period">When does RGSoC take place?</h3>
 
-<p>A RGSoC season runs for three months, between July and September.</p>
+A RGSoC season runs for three months, between July and September.
 
 <h3 id="eligibility">Who is eligible to participate?</h3>
 
-<p>Our goal is to support and encourage underrepresented people in open source.</p>
+Our goal is to support and encourage underrepresented people in open source.
 
-<p>All people with non-binary gender identities or who identify as female (transgender or cisgender) are welcome to apply.</p>
+All people with non-binary gender identities or who identify as female (transgender or cisgender) are welcome to apply.
 
-<p>Further to this, we look for applicants:</p>
+Further to this, we look for applicants:
 <ul>
 <li> who are involved with, or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, or similar initiatives</li>
 <li>with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples</li>
@@ -56,7 +50,7 @@ permalink: /students/application/
 <li>who have never participated in our program as a sponsored team before</li>
 </ul>
 
-<p>You do not have to be a University student or graduate to apply. We expect most applicants will be aged 18 or over but there is no upper age limit.</p>
+You do not have to be a University student or graduate to apply. We expect most applicants will be aged 18 or over but there is no upper age limit.
 
 <h3 id="stipend">How much is the scholarship?</h3>
  
