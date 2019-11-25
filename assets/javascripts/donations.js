@@ -46,10 +46,9 @@ $.extend(Donations.Data, {
     development: 'http://localhost:3000/donations.json'
   },
   PACKAGES: {
-    'Platinum':  7500,
-    'Gold':      5000,
-    'Silver':    2500,
-    'Bronze':    1000
+    'Trailblazer':  5000,
+    'Pioneer':      2500,
+    'Innovator':    1000
   },
   PARTNERS: [
     {
