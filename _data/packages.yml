@@ -30,6 +30,23 @@
 #  title: Pioneer Sponsors
 #  sponsors:
 
-#- name: Innovator
-#  title: Innovator Sponsors
-#  sponsors:
+- name: Innovator
+  title: Innovator Sponsors
+  sponsors:
+ - name: Honeybadger
+      id: honeybadger
+      url: https://www.honeybadger.io
+      text: |-
+        <a href="https://www.honeybadger.io" target="_blank">Honeybadger</a> is the
+        best exception monitoring service on the planet — in fact, it’s so awesome,
+        you’ll want to get more errors in your application just so you can use it more!
+        Built on Rails, it helps developers deliver great experiences to their users.
+        We at Honeybadger love the open source community, and we are happy to sponsor
+        RGSoC to help make that community even better.
+      years:
+        - 2013
+        - 2014
+        - 2016
+        - 2017
+        - 2018
+        - 2020
