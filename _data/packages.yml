@@ -22,15 +22,15 @@
       - 2018
       - 2020
 
-#- name: Trailblazer
+#- name: Gold
 #  title: Trailblazer Sponsors
 #  sponsors: 
 
-#- name: Pioneer
+#- name: Silver
 #  title: Pioneer Sponsors
 #  sponsors: 
 
-- name: Innovator
+- name: Bronze
   title: Innovator Sponsors
   sponsors: 
   - name: Honeybadger
