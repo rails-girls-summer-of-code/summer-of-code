@@ -33,7 +33,7 @@
 - name: Innovator
   title: Innovator Sponsors
   sponsors:
-- name: Honeybadger
+  - name: Honeybadger
       id: honeybadger
       url: https://www.honeybadger.io
       text: |-
