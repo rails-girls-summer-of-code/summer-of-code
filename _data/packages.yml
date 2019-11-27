@@ -1,6 +1,6 @@
 - name: Partners
   title: Partner Companies
-  sponsors:
+  sponsors: 
   - name: Travis CI
     id: travis
     url: https://travis-ci.com
@@ -13,7 +13,7 @@
       href="http://foundation.travis-ci.org">Travis Foundation</a>, a non-profit organization which aims to make 
       Open Source a diverse and inclusive place. One of Travis Foundation’s main efforts is Rails Girls Summer of Code which 
       helps individuals from underrepresented groups begin their careers in programming. 
-    years:
+    years: 
       - 2013
       - 2014
       - 2015
@@ -24,15 +24,15 @@
 
 #- name: Trailblazer
 #  title: Trailblazer Sponsors
-#  sponsors:
+#  sponsors: 
 
 #- name: Pioneer
 #  title: Pioneer Sponsors
-#  sponsors:
+#  sponsors: 
 
 - name: Innovator
   title: Innovator Sponsors
-  sponsors:
+  sponsors: 
   - name: Honeybadger
       id: honeybadger
       url: https://www.honeybadger.io
@@ -43,7 +43,7 @@
         Built on Rails, it helps developers deliver great experiences to their users.
         We at Honeybadger love the open source community, and we are happy to sponsor
         RGSoC to help make that community even better.
-      years:
+      years: 
         - 2013
         - 2014
         - 2016
