@@ -22,18 +22,10 @@
       - 2018
       - 2020
 
-#- name: Trailblazer
-#  title: Trailblazer Sponsors
-#  sponsors:
-
-#- name: Pioneer
-#  title: Pioneer Sponsors
-#  sponsors:
-
 - name: Innovator
   title: Innovator Sponsors
   sponsors:
-  - name: Honeybadger
+    - name: Honeybadger
       id: honeybadger
       url: https://www.honeybadger.io
       text: |-
@@ -50,3 +42,11 @@
         - 2017
         - 2018
         - 2020
+
+#- name: Trailblazer
+#  title: Trailblazer Sponsors
+#  sponsors:
+
+#- name: Pioneer
+#  title: Pioneer Sponsors
+#  sponsors:
