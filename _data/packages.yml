@@ -22,10 +22,34 @@
       - 2018
       - 2020
 
-#- name: Gold
-#  title: Trailblazer Sponsors
-#  sponsors: 
-#
+- name: Gold
+  title: Trailblazer Sponsors
+  sponsors: 
+    - name: Discourse
+      id: discourse
+      url: https://www.discourse.org/
+      text: |-
+        <a href="https://www.discourse.org" target="_blank">Discourse</a> is the 100% open source discussion platform built for the next decade of the Internet. 
+        Use it as a mailing list, discussion forum, long-form chat room, and more!
+      years:
+        - 2018
+    - name: Thoughtworks
+      id: thoughtworks
+      url: https://www.thoughtworks.com
+      text: |-
+        <a href="https://www.thoughtworks.com" target="_blank">ThoughtWorks</a> is a
+        software company and a community of passionate, purpose-led individuals. We
+        think disruptively to deliver technology to address our clients' toughest
+        challenges, all while seeking to revolutionize the IT industry and create
+        positive social change.
+      years:
+        - 2014
+        - 2015
+        - 2016
+        - 2017
+        - 2018
+        - 2020
+
 #- name: Silver
 #  title: Pioneer Sponsors
 #  sponsors: 
@@ -50,3 +74,22 @@
       - 2017
       - 2018
       - 2020
+      
+    - name: INNOQ
+      id: innoq
+      url: https://www.innoq.com
+      text: |-
+        <a href="https://www.innoq.com" target="_blank">INNOQ</a> is a software consultancy 
+        and delivers successful software solutions, infrastructure and business models. 
+        We value innovative thinking and a passion for software development. We are a supporter 
+        of Rails Girls Summer of Code since 2013 because we want to help increase diversity in 
+        the tech industry and the Open Source community.
+      years:
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+        - 2017
+        - 2018
+        - 2020
+        
