@@ -120,30 +120,30 @@
 }
 
 
-#sponsors .gold h4 {
+#sponsors .trailblazer h4 {
   top: 125px;
 }
-.sponsors.gold a {
+.sponsors.trailblazer a {
   width: 250px;
   height: 131px;
 }
 @media screen and (min-width: 340px) {
-  .sponsors.gold a {
+  .sponsors.trailblazer a {
     width: 320px;
     height: 131px;
   }
 }
-#sponsors .silver h4 {
+#sponsors .pioneer h4 {
   top: 87px;
 }
-.sponsors.silver a {
+.sponsors.pioneer a {
   width: 235px;
   height: 93px;
 }
-#sponsors .bronze h4 {
+#sponsors .innovator h4 {
   top: 70px;
 }
-.sponsors.bronze a {
+.sponsors.innovator a {
   width: 184px;
   height: 75px;
 }
@@ -180,11 +180,11 @@
     margin: 3px 0px;
   }
 }
-.sponsors.bronze .years {
+.sponsors.innovator .years {
   bottom: -7px;
   right: 6px;
 }
-.sponsor.bronze .year {
+.sponsor.innovator .year {
   font-size: 9px;
 }
 
