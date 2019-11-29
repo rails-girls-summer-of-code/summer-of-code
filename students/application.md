@@ -50,12 +50,14 @@ Further to this, we look for applicants:
 <ul>
 <li> who are involved with, or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, or similar initiatives</li>
 <li>with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples</li>
-<li>who can spend 3 months (July to September 2020) working full-time on their Open Source project of choice</li>
+<li>who can spend 3 months (July to September 2020) working full- or part-time on their Open Source project of choice</li>
 <li>who are proficient (spoken and written) in English. You will be communicating with several people from different countries, writing daily logs and blog posts, and English is our common language of communication</li>
 <li>who have never participated in our program as a sponsored team before</li>
 </ul>
 
 You do not have to be a University student or graduate to apply. We expect most applicants will be aged 18 or over but there is no upper age limit.
+
+The definition of full-time is for student teams to work roughly 40 hours on their projects each week. Part-time teams would commit about half that, at 20 hours a week, but would be a little more flexible depending on the jobs involved in the project, their availability and other responsibilities.
 
 <h3 id="stipend">How much is the scholarship?</h3>
  
@@ -155,7 +157,7 @@ RGSoC focuses on students learning to code but is also a community event. Along 
 
 Students have to agree with the following requirements and, in case of being selected, must sign a written agreement:
 <ul>
-<li>Participate full-time from 01 July to 30 September 2020</li>
+<li>Participate full-time (40 hours per week) or part-time (roughly 20 hours per week) from 01 July to 30 September 2020</li>
 <li>Continuously work on the chosen and approved Open Source project</li>
 <li>Keep track of your work with a short, <a href="https://railsgirlssummerofcode.org/students/log" target="_blank">daily summary</a></li>
 <li>Keep regular contact with your supervisor and mentor</li>
@@ -178,7 +180,7 @@ If you have any questions about the above list, please <a href="mailto:contact@r
 Here is a basic checklist for your application:
 <ul class="list--none">
 <li><span class="glyphicon glyphicon-unchecked"></span> Have you read, and fully understood, this guide?</li>
-<li><span class="glyphicon glyphicon-unchecked"></span> Can you commit to working on your project full time for 3 months (July-Sept)?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Can you commit to working on your project full- or part-time for 3 months (July-Sept)?</li>
 <li><span class="glyphicon glyphicon-unchecked"></span> Have you found a teammate?</li>
 <li><span class="glyphicon glyphicon-unchecked"></span> Has your team selected a project?</li>
 <li><span class="glyphicon glyphicon-unchecked"></span> Have you gotten in touch with the mentor of the project you have selected?</li>
