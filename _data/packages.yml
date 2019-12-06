@@ -28,8 +28,9 @@
     id: discourse
     url: https://www.discourse.org/
     text: |-
-      <a href="https://www.discourse.org" target="_blank">Discourse</a> is the 100% open source discussion platform built for the next decade of the Internet. 
-      Use it as a mailing list, discussion forum, long-form chat room, and more!
+      <a href="https://www.discourse.org" target="_blank">Discourse</a> is the 100% open source discussion platform built for the next decade of the Internet.
+      Built with Rails and JavaScript, it can be used as a mailing list, discussion forum, long-form chat room, and more!
+      We're huge fans of the Rails Girls Summer of Code program and would love to help them bring more diversity into Open Source and make it a more inclusive place for everyone.
     years:
       - 2018
       - 2020
