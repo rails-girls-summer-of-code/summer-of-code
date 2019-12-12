@@ -78,3 +78,21 @@
       - 2018
       - 2020
      
+  - name: Wooga
+    id: wooga
+    url: http://www.wooga.com
+    text: |-
+      Founded in 2009, Wooga has become one of the most popular developers of casual 
+      mobile games in the world. Based in Berlin, employees from around the world 
+      develop high quality casual games with engaging stories at the core of the experience. 
+      Wooga's aim is to play a memorable and positive part in people's lives and create 
+      joyful moments they look forward to playing everyday. 
+      Find out more at <a href="http://www.wooga.com/" target="_blank">www.wooga.com</a>.
+    years:
+      - 2013
+      - 2014
+      - 2015
+      - 2016
+      - 2017
+      - 2018
+      - 2020
