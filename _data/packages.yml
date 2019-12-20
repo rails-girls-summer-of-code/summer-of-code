@@ -114,3 +114,15 @@
       - 2017
       - 2018
       - 2020
+
+  - name: Fedora
+    id: fedora
+    url: https://getfedora.org/
+    text: |-
+      The <a href="https://getfedora.org/">Fedora Project</a> is a community of people 
+      working together to build a free and open source software platform and to collaborate 
+      on and share user-focused solutions built on that platform. Or, in plain English, 
+      we make an operating system and we make it easy for you do useful stuff with it.
+    years:
+      - 2018
+      - 2020
