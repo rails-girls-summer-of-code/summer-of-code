@@ -26,6 +26,8 @@ permalink: /sponsors/packages/
     <p>Supporting RGSoC enables our students to dedicate themselves to their Open Source learning projects full-time because their living expenses are covered by a monthly stipend. As a sponsor, you play a crucial part in making this happen, funding the budget pool from which the selected students will be paid.</p>
 
     <p>If you would like to know more about RGSoC or present our program to your company, you can also take a look at our most recent <a href="https://speakerdeck.com/travisfoundation/rgsoc-2020-sponsor-pitch" target="_blank">pitch deck</a>.</p>
+    
+    <p>Download a copy of the <a href="sponsors/2020 RGSoC Sponsorship Prospectus.pdf" target="_blank">Sponsorship Prospectus</a>.</p>
   </div>
 </div>
 
