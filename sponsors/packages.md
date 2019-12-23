@@ -27,7 +27,7 @@ permalink: /sponsors/packages/
 
     <p>If you would like to know more about RGSoC or present our program to your company, you can also take a look at our most recent <a href="https://speakerdeck.com/travisfoundation/rgsoc-2020-sponsor-pitch" target="_blank">pitch deck</a>.</p>
     
-    <p>Download a copy of the <a href="https://github.com/rails-girls-summer-of-code/summer-of-code/blob/gh-pages/sponsors/2020%20RGSoC%20Sponsorship%20Prospectus.pdf" target="_blank">Sponsorship Prospectus</a>.</p>
+    <p>Download a copy of the <a href="https://drive.google.com/a/travis-ci.org/file/d/1iuhhUTrtGONoBFlZgsF6qf1ZJgCwlwRL/view?usp=sharing" target="_blank">Sponsorship Prospectus</a>.</p>
   </div>
 </div>
 
