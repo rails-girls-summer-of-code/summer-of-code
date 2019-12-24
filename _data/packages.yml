@@ -140,3 +140,19 @@
     years:
       - 2018
       - 2020
+
+- name: In-kind
+  title: In-kind Sponsors
+  sponsors:
+  - name: Sticker Mule
+    id: stickermule
+    url: http://stickermule.com/supports/rgsoc20-sponsorship
+    text: |-
+      <a href="http://stickermule.com/supports/rgsoc20-sponsorship" target="_blank">Sticker Mule</a> is the
+      fastest and easiest way to buy custom printed products. Thousands of people trust
+      us to make kick ass stickers, labels, magnets, badges & more. Order in seconds and
+      get free online proofs, free shipping and super fast turnaround. We love the open
+      source community, and we're happy to help Rails Girls Summer of Code program to bring
+      more diversity into it!
+    years:
+      - 2020
