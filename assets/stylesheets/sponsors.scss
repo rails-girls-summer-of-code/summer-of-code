@@ -148,10 +148,16 @@
   height: 75px;
 }
 #sponsors .conferences h4,
+#sponsors .in-kind h4,
 #sponsors .companies h4 {
   top: 60px;
 }
 .sponsors.conferences a {
+  width: 151px;
+  height: 61px;
+  background-size: 151px;
+}
+.sponsors.in-kind a {
   width: 151px;
   height: 61px;
   background-size: 151px;
