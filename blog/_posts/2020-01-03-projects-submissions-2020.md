@@ -12,7 +12,7 @@ categories:
 
 <img src="/img/blog/2020/2020_Projects_Open.gif" alt="Project Season Open" style="width:600px;height:338px;">
 
-Are you working on an Open Source project you think would be perfect for a coding near-beginner to work on? What luck! RGSoC is accepting **project submissions** for the 2020 season starting from **07 January 2020** 😄
+Are you working on an Open Source project you think would be perfect for a coding near-beginner to work on? What luck! RGSoC is accepting **project submissions** for the 2020 season starting from **06 January 2020** 😄
 
 Simply apply in the [Teams App](https://teams.railsgirlssummerofcode.org/) before **9am, Monday 10 February 2020** CET.
 
