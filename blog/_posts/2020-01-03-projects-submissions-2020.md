@@ -10,26 +10,30 @@ categories:
  - news
 ---
 
-Are you working on an Open Source project you think would be perfect for a coding near-beginner to work on? What luck! RGSoC is accepting **project submissions** for the 2020 season from 07 January 2020 😄
+<img src="/img/blog/2020/2020_Projects_Open.gif" alt="Project Season Open" style="width:600px;height:338px;">
 
-Simply apply in the [Teams App](https://teams.railsgirlssummerofcode.org/) before 9am, Monday 10 February 2020 CET.
+Are you working on an Open Source project you think would be perfect for a coding near-beginner to work on? What luck! RGSoC is accepting **project submissions** for the 2020 season starting from **07 January 2020** 😄
+
+Simply apply in the [Teams App](https://teams.railsgirlssummerofcode.org/) before **9am, Monday 10 February 2020** CET.
 
 ## Get familiar with the basics
 
 What makes a really good RGSoC project? Full details are available on our [mentors page](https://railsgirlssummerofcode.org/guide/projects/), which we recommend you read before applying.
 
 There are some basic requirements. Keep in mind every project needs:
-* a mentor, the dedicated contact person for the team throughout the program
-* [coaches](https://railsgirlssummerofcode.org/guide/coaching/) (min 2, max 4) who offer students all-important day-to-day support
-* to be beginner-/junior-friendly
-* at least one open-source license
-* to abide by the RGSoC [Code of Conduct](https://railsgirlssummerofcode.org/about/code-of-conduct/)
+<ul>
+<li> a mentor, the dedicated contact person for the team throughout the program</li>
+<li> <a href="https://railsgirlssummerofcode.org/guide/coaching/" target="_blank">coaches</a> (min 2, max 4) who offer students all-important day-to-day support</li>
+<li> to be beginner-/junior-friendly</li>
+<li> at least one open-source license</li>
+<li> to abide by the RGSoC <a href="https://railsgirlssummerofcode.org/about/code-of-conduct/" target="_blank">Code of Conduct</a></li>
+</ul>
 
 One thing you don’t need to worry about is using Rails. Despite the name, Rails Girls Summer of Code is programming language agnostic. Former projects have used Python, Rust, and Javascript, to name a few.
 
 ## What next?
 
-After the deadline (9am, Monday 10 February 2020 CET, remember), our team will look through all the submissions and announce successful projects in early February. While not every project will be chosen for the program, we value every entry. The sheer variety of projects makes RGSoC such a rich and rewarding experience.
+After the deadline (9am, **Monday 10 February 2020** CET, remember), our team will look through all the submissions and announce successful projects in early February. While not every project will be chosen for the program, we value every entry. The sheer variety of projects makes RGSoC such a rich and rewarding experience.
 
 Selected projects should shout about it on [Twitter](https://twitter.com/RailsGirlsSoC) and [Facebook](https://www.facebook.com/Rails-Girls-Summer-of-Code-620914904656191/). It’s a superb way to connect with students and get some love for your project.
 
@@ -37,7 +41,7 @@ In February, potential student contributors will have the chance to apply for th
 
 ## Using the Teams App
 
-Sure, you know your way around a computer. Even so, we want to make it easy for you to apply with this step-by-step guide on how to add projects to the Teams App. Did we mention the deadline for 2020 submissions is 9am, Monday 10 February 2020 CET?
+Sure, you know your way around a computer. Even so, we want to make it easy for you to apply with this step-by-step guide on how to add projects to the Teams App. Did we mention the deadline for submissions is 9am, **Monday 10 February 2020** CET?
 
 * Sign up for the [Teams App](https://teams.railsgirlssummerofcode.org/)
 * Authenticate with [GitHub](https://github.com/) (you’ll need an account)
@@ -60,6 +64,8 @@ Sure, you know your way around a computer. Even so, we want to make it easy for 
 * Click Submit
 
 Well done! You’ve taken the first step to becoming an RGSoC legend.
+
+You can also see a walkthrough of this process on our [Help page](https://teams.railsgirlssummerofcode.org/pages/help)
 
 ## Still got questions?
 
