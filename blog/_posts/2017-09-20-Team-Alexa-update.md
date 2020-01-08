@@ -2,7 +2,7 @@
 title: The end of Sasha&Sasha's journey
 layout: post
 created_at: Wed September 20 2017
-permalink: blog/2017-09-20-the-end-of-sasha&sasha's-journey
+permalink: blog/2017-09-20-the-end-of-sasha-and-sashas-journey
 current: blog
 author: Sasha & Sasha
 twitter: linguistsare
