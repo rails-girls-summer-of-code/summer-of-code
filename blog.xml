@@ -23,7 +23,7 @@ layout: null
       <uri>http://twitter.com/{{ post.twitter }}</uri>
       {% endif %}
     </author>
-    <link href="http://railsgirlssummerofcode.org{{ post.url }}"/>
+    <link href="http://railsgirlssummerofcode.org{{ post.url | uri_escape }}"/>
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>http://railsgirlssummerofcode.org{{ post.id }}</id>
