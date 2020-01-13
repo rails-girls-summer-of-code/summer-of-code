@@ -167,3 +167,12 @@
       more diversity into it!
     years:
       - 2020
+        - name: kiuwan
+    id: kiuwan
+    url: https://www.kiuwan.com/
+    text: |-
+      <a href="https://www.kiuwan.com/" target="_blank">kiuwan</a> is a software as a service (SaaS) Static
+      Application Security (SAST) and Software Composition Analysis (SCA) tool specializing in software analytics,
+      quality and security measurement and management for a wide range of software languages and normative standards.
+    years:
+      - 2020
