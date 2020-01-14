@@ -152,6 +152,24 @@
       - 2018
       - 2020
 
+  - name: NEW WORK SE
+    id: new-work-se
+    url: https://www.new-work.se/en/
+    text: |-
+      <a href="https://www.new-work.se/en/">NEW WORK SE</a> offers a wide range of brands,
+      products and services for a better working life. By doing so, NEW WORK SE is continuing
+      its success story that reaches back almost 16 years. The professional network was
+      founded as openBC and has since evolved into NEW WORK SE by democratising professional
+      networks in German-speaking countries. The company changed its name to XING in 2006 and
+      then to NEW WORK SE in 2019. This most recent name change reflects the company's commitment
+      to a better working life as the New Work movement represents the main driver of all the
+      company's undertakings is a community of people working together to build a free and open
+      source software platform and to collaborate on and share user-focused solutions built on
+      that platform. Or, in plain English, we make an operating system and we make it easy for
+      you do useful stuff with it.
+    years:
+      - 2020
+
 - name: In-kind
   title: In-kind Sponsors
   sponsors:
