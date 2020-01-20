@@ -1,6 +1,5 @@
 ---
 title: Alumni Interview: Keziah Naggita
-class: page blog
 layout: post
 created_at: Fri January 10 2020
 permalink: blog/2020-01-20-alumni-interview-keziah
@@ -8,7 +7,7 @@ current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoC
 categories:
-- alumna-series
+ - alumna-series
 ---
 
 ![](/img/blog/2020/Alumni-Interview-Keziah.png)
