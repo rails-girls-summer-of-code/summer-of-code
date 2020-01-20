@@ -1,7 +1,7 @@
 ---
-title: Alumni Interview: Ipshita Chatterjee
+title: Alumni Interview with Ipshita Chatterjee
 layout: post
-created_at: Weds January 15 2020
+created_at: Weds Jan 15 2020
 permalink: blog/2020-02-17-alumni-interview-ipshita
 current: blog
 author: RGSoC Team
