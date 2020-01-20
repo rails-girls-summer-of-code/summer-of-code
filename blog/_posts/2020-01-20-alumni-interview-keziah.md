@@ -1,7 +1,7 @@
 ---
-title: Alumni Interview: Keziah Naggita
+title: Alumni Interview with Keziah Naggita
 layout: post
-created_at: Fri January 10 2020
+created_at: Fri Jan 10 2020
 permalink: blog/2020-01-20-alumni-interview-keziah
 current: blog
 author: RGSoC Team
