@@ -33,7 +33,7 @@ Visit our <a href="https://railsgirlssummerofcode.org/campaign/">donation page</
 
 Over the next few months we’ll be sharing some personal stories in a new series of <a href="https://railsgirlssummerofcode.org/blog/categoryview/#alumna-series">Alumni Interviews</a>. These first-hand accounts are in former students' own words and shine a light on how big an impact our humble program makes 😊
 
-We also want to hear your reasons for supporting RGSoC 2020. Use the hashtag <a href="https://twitter.com/search?q=%23donatebecause&src=typed_query">#donatebecause</a> and **you** could be the reason someone else joins our incredible community. Who knows that that might lead to for future student teams.
+We also want to hear your reasons for supporting RGSoC 2020. Use the hashtag <a href="https://twitter.com/search?q=%23donatebecause&src=typed_query">#donatebecause</a> and **you** could be the reason someone joins our incredible community. 
 
 ### Thank you
 
