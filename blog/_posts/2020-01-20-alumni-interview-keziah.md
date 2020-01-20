@@ -1,5 +1,6 @@
 ---
 title: Alumni Interview: Keziah Naggita
+class: page blog
 layout: post
 created_at: Fri January 10 2020
 permalink: blog/2020-01-20-alumni-interview-keziah
