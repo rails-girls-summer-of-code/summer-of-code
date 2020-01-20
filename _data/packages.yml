@@ -75,11 +75,27 @@
     id: bitcrowd
     url: https://bitcrowd.net/en
     text: |-
-      <a href="https://bitcrowd.net/en" target="_blank">Bitcrowd</a> is a Berlin-based software agency with a strong focus on quality, client-interaction and people.
+      <a href="https://bitcrowd.net/en" target="_blank">Bitcrowd</a> is a Berlin-based
+      software agency with a strong focus on quality, client-interaction and people.
       We care about the community and are happy to support RGSoC in diversifying tech!
     years:
       - 2017
       - 2018
+      - 2020
+
+  - name: Kickstarter
+    id: kickstarter
+    url: https://www.kickstarter.com/
+    text: |-
+      <a href="https://www.kickstarter.com/" target="_blank">Kickstarter</a>'s mission is
+      to help bring creative projects to life. As a Public Benefit Corporation, we measure
+      our success as a company by how well we achieve that mission, not by the size of our
+      profits. We empower artists, musicians, filmmakers, designers, coders, hackers, and
+      other creators to find the resources and support they need to make their ideas a
+      reality-and we've seen that diverse teams are key to making strong creative work. We
+      value diversity on our own team and we support Rails Girls Summer of Code to encourage
+      diversity throughout the tech community.
+    years:
       - 2020
 
 - name: Innovator
