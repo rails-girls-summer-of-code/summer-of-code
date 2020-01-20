@@ -1,6 +1,5 @@
 ---
 title: Alumni Interview: Ipshita Chatterjee
-class: page blog
 layout: post
 created_at: Weds January 15 2020
 permalink: blog/2020-02-17-alumni-interview-ipshita
@@ -8,7 +7,7 @@ current: blog
 author: RGSoC Team
 twitter: RailsGirlsSoC
 categories:
-- alumna-series
+ - alumna-series
 ---
 
 ![](/img/blog/2020/Alumni-Interview-Ipshita.png)
