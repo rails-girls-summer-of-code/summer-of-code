@@ -1,7 +1,7 @@
 ---
 title: Crowdfunding Commences
 layout: post
-created_at: Fri Jan 17 2020
+created_at: Fri Jan 24 2020
 permalink: blog/2020-01-24-crowdfunding-campaign-2020
 current: blog
 author: RGSoC Team
