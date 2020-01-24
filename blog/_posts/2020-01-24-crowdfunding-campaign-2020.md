@@ -1,5 +1,5 @@
 ---
-title: Crowdfunding Commences
+title: Crowdfunding for 2020 scholarships has commenced
 layout: post
 created_at: Fri Jan 24 2020
 permalink: blog/2020-01-24-crowdfunding-campaign-2020
