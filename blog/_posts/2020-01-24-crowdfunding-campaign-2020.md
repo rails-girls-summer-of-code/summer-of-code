@@ -10,8 +10,8 @@ categories:
  - news
 ---
 
-<iframe src="https://player.vimeo.com/video/385291213" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://player.vimeo.com/video/385291213">RGSoC 2020’s Crowdfunding Campaign is now Open!</a> from <a href="https://vimeo.com/user51331690">Rails Girls Summer of Code</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/385291213?amp;loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<!--<p><a href="https://player.vimeo.com/video/385291213">RGSoC 2020’s Crowdfunding Campaign is now Open!</a> from <a href="https://vimeo.com/user51331690">Rails Girls Summer of Code</a> on <a href="https://vimeo.com">Vimeo</a>.</p>-->
 
 There is already so much buzz around the program this year. With student teams coming together, coaches signing up to help, and mentors submitting projects it gets more exciting by the day.
 
