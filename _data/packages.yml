@@ -201,7 +201,11 @@
     id: planetargon
     url: http://www.planetargon.com/
     text: |-
-      Coming soon...
+      [Planet Argon](https://www.planetargon.com/) is a Portland, Oregon-based agency that
+      focuses on existing Ruby on Rails applications. We support companies through ongoing
+      app support and maintenance, [Rails upgrade consulting](https://www.planetargon.com/services/rails-upgrade-kickoff), and more.
+      As an active member of the Rails ecosystem since 2004, we're excited to give back to
+      the community through Rails Girls Summer of Code.
     years:
       - 2016
       - 2020
