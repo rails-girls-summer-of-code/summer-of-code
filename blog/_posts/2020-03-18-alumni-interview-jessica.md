@@ -10,7 +10,7 @@ categories:
  - alumna-series
 ---
  
-![](/img/blog/2020/Alumni-Interview-JessicaG.png)
+![](/img/blog/2020/Alumni-Interview-Jessica.png)
  
 > **“My claim to fame is making coffee for the late Christopher Lee!”**
  
