@@ -22,7 +22,7 @@ Even if making hot beverages for Saruman himself doesn’t impress you, the foll
 I consider myself a self-taught/community taught developer. After leaving my job at Barn Coffee Roasters in 2017 (and having some much needed time off!) I decided to start my path to becoming a programmer. I had done a very small amount of HTML and worked with flash animations during my art foundation at Leeds art college and my partner works in games who was very supportive and encouraged me to try programming. I started with online courses, mainly web technology and then started to explore a couple of other languages such as Python and GO.
  
 <h4>Did you always plan a career in tech? </h4>
-<p>Absolutely not! This is my third professional career and I have had a number of other work experiences. Changing careers is incredibly nerve-racking I was fortunate to have a supportive partner and family as well as being able to gain support from the German government. At first, I thought it would be starting from scratch and that I had nothing to take with me from my past work but that couldn't be further from the truth!</p>
+<p>Absolutely not! This is my third professional career and I have had a number of other work experiences. Changing careers is incredibly nerve-racking. I was fortunate to have a supportive partner and family as well as being able to gain support from the German government. At first, I thought it would be starting from scratch and that I had nothing to take with me from my past work but that couldn't be further from the truth!</p>
  
 <p>Both my previous careers have fed in some obvious ways (time management/organisation) to the more abstract like documentation structure and production workflows.</p>
  
