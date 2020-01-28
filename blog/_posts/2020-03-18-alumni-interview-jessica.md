@@ -45,7 +45,7 @@ The big difference between doing RGSoC over working on my own projects was the c
 <p>Having support within the company really motivates me to keep improving my skill set and I love hearing about the tree planting projects we are partnering with.</p>
  
 <h4>How did your participation in RGSoC help you get to where you are today? </h4>
-Straight after the scholarship I started an internship at Ecosia (where I now work). Having the scholarship on my CV definitely helped prove I was capable of collaborative development work. Additionally Ecosia were just moving their front end code over to VUE.js which I had spent the scholarship working in. Having built a support network via the scholarship through our coaches and my teammate Arati, I felt really confident and ready to start my first job.
+Straight after the scholarship I started an internship at Ecosia (where I now work). Having the scholarship on my CV definitely helped prove I was capable of collaborative development work. Additionally, Ecosia was just moving their front end code over to VUE.js which I had spent the scholarship working in. Having built a support network via the scholarship through our coaches and my teammate Arati, I felt really confident and ready to start my first job.
  
 <h4>Do you still do any programming? </h4>
 Outside of programing at work I am involved in a couple of local community groups including PyLadies, Women Who GO and Open Source Diversity. I also have a couple of side projects for my personal learning. It's definitely important to have a balance and I try to make sure I also have offline time where I can. Then I love to read, go to the sauna and go for walks.
