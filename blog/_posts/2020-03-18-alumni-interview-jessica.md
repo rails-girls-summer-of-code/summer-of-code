@@ -14,7 +14,7 @@ categories:
  
 > **“My claim to fame is making coffee for the late Christopher Lee!”**
  
-Jessica Greene has been living in Berlin for 10 years. After five years in the film & television industry and a stint as a Barista, she took the leap into coding and has since gone on to work as a back-end focused software engineer at Ecosia, the search engine that plants trees.
+Jessica Greene has been living in Berlin for 10 years. After five years in the film & television industry and a stint as a Barista, she took the leap into coding and has since gone on to work as a backend-focused software engineer at Ecosia, the search engine that plants trees.
  
 Even if making hot beverages for Saruman himself doesn’t impress you, the following interview detailing Jessica’s time working on the <a href=" https://nextcloud.com/"> Nextcloud </a> project during our last edition of RGSoC in 2018 is bound to.
  
