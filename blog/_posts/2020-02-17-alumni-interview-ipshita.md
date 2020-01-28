@@ -14,27 +14,27 @@ categories:
 
 In the second of our series of Alumni Interviews, Ipshita Chatterjee from New Delhi tells us how the experience of working on <a href="https://coala.io/">coala</a> with RGSoC 2017 helped jump-start her career as a software engineer. Now working as a member of Technical Staff for Adobe, Ipshita is still passionate about diversity in technology and has some brilliant advice for new students.
 
-**When did you first become interested in programming?**
+<h4>When did you first become interested in programming?</h4>
 
 My first brush with Computer Science was at age 13 when I took an HTML elective in high school. The power of a few simple lines of code to create beautiful web pages fascinated me immensely and motivated me to pursue a career in programming.
 
 I pursued a Bachelor of Engineering degree in Computer Engineering at the Netaji Subhas University of Technology at the University of Delhi, which subsequently led to my first job in the tech industry.
 
-**Did you always plan to have a career in tech?**
+<h4>Did you always plan to have a career in tech?</h4>
 
 Computer Science, to me, is empowering - a tool with which we can forge and transform our future. The sheer transformational power of technology, in impacting lives all over the world captivated me from a very young age. I have planned to pursue a career in this field ever since.
 
-**So, what was your RGSoC project all about?**
+<h4>So, what was your RGSoC project all about?</h4>
 
 I worked on writing linter bears for coala, a platform-agnostic static analyzer - a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use. At the end of the summer, I was able to introduce the support for HAML linting to coala, adding to the vast repertoire of languages supported by the tool.
 
-**Which skills did you find most useful during RGSoC?**
+<h4>Which skills did you find most useful during RGSoC?</h4>
 
 RGSoC is a program that calls for technical and non-technical skills in equal measure, as it is effectively a preview of what a software development job looks like. Coding, testing, documenting, reviewing and technical design skills are essential for working on an open source project for three months.
 
 In addition, project management skills like breaking down large goals into smaller, incremental tasks, tracking daily progress, effective and open communication, and collaboration with your team and the larger open source community are key to a successful summer.
 
-**What challenges did you encounter during the program?**
+<h4>What challenges did you encounter during the program?</h4>
 
 The entire experience of RGSoC, right from the application phase, has been a steep and enriching learning curve. RGSoC was my first foray into open source development and through the application process, I learnt to venture out of my comfort zone and tackle new challenges.
 
@@ -44,14 +44,18 @@ Initially, I was skeptical and hesitant to ask for help, but through the summer,
 
 RGSoC made me realize the power of communication and community. I learnt to establish open and honest channels of communication, and respect and incorporate diverse perspectives. The learnings from this program have proved extremely useful for my professional and personal growth.
 
-**What do you do in your current job role?**
+<h4>What do you do in your current job role?</h4>
 
 I currently work in a software engineering role at Adobe, on a vast array of cloud technologies. A typical day comprises of coding, testing, debugging, collaborations with my teammates and learning more about the tools and technologies in use in the cloud computing world.
 
-**How did your participation in RGSoC help you get to where you are today?**
+<h4>How did your participation in RGSoC help you get to where you are today?</h4>
 
 RGSoC has been a life-altering experience for me and I am indebted to it for the connections and opportunities it has given me. Being a part of this wonderful community, working towards promoting diversity in technology, a cause that is very close to my heart, has been immensely fulfilling. Through RGSoC, I have been able to forge meaningful professional connections all over the world and use these learnings to kickstart my career in technology.
 
-**Do you have any advice for new RGSoC students and for women and non-binary people who wish to work in tech?**
+<h4>Do you have any advice for new RGSoC students and for women and non-binary people who wish to work in tech?</h4>
 
 Do not be afraid to venture out of your comfort zone and try new things! It is often intimidating to see other people's accomplishments, but everything, big and small, starts with the first step. No question is too trivial and don't hesitate to ask for help. You'll be amazed at how much you can achieve.
+
+<h3>Supporting coders of the future</h3>
+
+If you’ve been inspired by Ipshita’s story and would like to help more beginner coders get started in open source, why not <a href="https://railsgirlssummerofcode.org/campaign/">donate to the RGSoC crowdfunding campaign</a>? 100% goes towards supporting future RGSoC student teams and bringing more diversity to tech.
