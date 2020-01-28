@@ -9,9 +9,9 @@ twitter: RailsGirlsSoC
 categories:
  - alumna-series
 ---
- 
-![](/img/blog/2020/Alumni-Interview-JessicaG.png)
- 
+
+![](/img/blog/2020/Alumni-Interview-Jessica-bw.png)
+
 > **“My claim to fame is making coffee for the late Christopher Lee!”**
  
 Jessica Greene has been living in Berlin for 10 years. After five years in the film & television industry and a stint as a Barista, she took the leap into coding and has since gone on to work as a backend-focused software engineer at Ecosia, the search engine that plants trees.
