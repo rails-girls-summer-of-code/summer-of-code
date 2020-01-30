@@ -8,7 +8,7 @@ permalink: /guide/projects/
 ---
 <h1>Becoming a Project Mentor</h1>
   
-Do you work on OSS and would like to support women and non-binary people as they work full-time on your Open Source project for three months? RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language.
+Do you work on OSS and would like to support women and non-binary people as they work full-time on your open source project for three months? RGSoC is a remote and distributed program, so you can get involved from anywhere, as long as you have access to the internet. We welcome project submissions in any programming language.
 
 If you want to submit your project, please have a look at the following guidelines for project mentors and project submissions.
 
@@ -30,7 +30,7 @@ Mentors are vital to the program, as they:
 <li>are generally the ones to suggest a project</li>
 <li>are the maintainer (or a core-contributor) of the project</li>
 <li>are the dedicated contact person for the team throughout the program</li>
-<li>are the experts on the Open Source project the team works on</li>
+<li>are the experts on the open source project the team works on</li>
 <li>design the roadmap for the project</li>
 <li>give directions and provides feedback throughout the program</li>
 <li>ideally are (or work closely with) the decision-makers for the project</li>
@@ -42,7 +42,7 @@ Please note that we aim to fund the RGSoC program through sponsorship and public
 
 <h3 id="q2">What makes a good mentor?</h3>
 
-Mentors are patient, tolerant and open people. You care about diversity and making Open Source projects more accessible to newcomers. Ideally, you are already familiar with the Rails Girls movement or other newcomer initiatives.
+Mentors are patient, tolerant and open people. You care about diversity and making open source projects more accessible to newcomers. Ideally, you are already familiar with the Rails Girls movement or other newcomer initiatives.
 
 RGSoC teams are varied. In general, a good mentor is approachable and stays on top of the students’ progress.
 
@@ -60,7 +60,7 @@ As a mentor, you are prepared to:
 
 Every team and project is different with regard to the hours of work put in. But in general you can expect the following:
 <ul>
-<li>It’ll take some time for you to to get acquainted with the program, the Organizers and the core team (onboarding)</li>
+<li>It’ll take some time for you to get acquainted with the program, the Organizers and the core team (onboarding)</li>
 <li>You’ll invest some time at the beginning of the project to help your team get set up. Especially for more challenging projects, this can take quite a bit of time</li>
 <li>You should be available via email and chat from July 1st to September 30th</li>
 <li>Over the course of the program, you’ll spend about 1–3 hours per week answering student questions and emails</li>
@@ -75,7 +75,7 @@ However, we understand that the maintainers of some established projects have bu
 
 <h3 id="q5">What is a good project?</h3>
 
-A good Open Source project to propose for RGSoC:
+A good open source project to propose for RGSoC:
 <ul>
 <li>has at least one <a href="https://opensource.org/licenses/alphabetical" target="_blank">open-source license</a> (dual, OS/commercial licenses are usually ok but will be looked at on a case-by-case basis)</li>
 <li>is established enough to allow collaboration (beyond the set-up phase)</li>
@@ -88,14 +88,14 @@ A good Open Source project to propose for RGSoC:
 
 <h3 id="q6">Why should I submit my project?</h3>
 
-By submitting your project for Rails Girls Summer of Code you are allowing your project to become part of a worldwide movement that encourages more diversity in Open Source.
+By submitting your project for Rails Girls Summer of Code you are allowing your project to become part of a worldwide movement that encourages more diversity in open source.
 Furthermore, you will get:
 <ul>
 <li>the possibility to tackle time-consuming issues that you usually don’t get around to, e.g. implementation of new features</li>
 <li>diverse feedback, e.g. suggestions on important/missing features, documentation improvements, a fresh outlook on your project, etc.</li>
 <li>more visibility within the community</li>
 <li>new contributors who might want to stick around after the program</li>
-<li>all in all, the chance to develop a sustainable Open Source project</li>
+<li>all in all, the chance to develop a sustainable open source project</li>
 </ul>
 
 <h3 id="q7">How do I submit my project?</h3>
