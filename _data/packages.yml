@@ -226,6 +226,20 @@
       - 2016
       - 2020
 
+  - name: Cobot 
+    id: cobot
+    url: https://www.cobot.me
+    text: |-
+     <a href="https://www.cobot.me">Cobot</a> is the leading management platform for coworking spaces. Our software help 
+     spaces ranging from small creative shared studios in Berlin over rural workspaces 
+     in the countryside of France to large hubs with thousands of people in New Delhi or San Francisco.
+     At Cobot we value diversity in all aspects of our team and are committed towards 
+     closing the gender gap in the tech industry which is why we are proud to support RGSoC.
+    years:
+      - 2017
+      - 2018
+      - 2020
+
 - name: In-kind
   title: In-kind Sponsors
   sponsors:
