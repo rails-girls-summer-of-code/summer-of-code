@@ -55,4 +55,4 @@ Persevere! It is nerve-racking to get into any new industry and it is different 
  
 <h3>Supporting RGSoC students</h3>
 
-If you’ve been inspired by Jessica’s story and would like to help more beginner coders get started and bring more diversity to open source, you can <a href="https://railsgirlssummerofcode.org/campaign/"> donate to the RGSoC crowdfunding campaign</a>. Every cent goes towards funding RGSoC student scholarships. And it'll make you feel good, we promise.
+If you’ve been inspired by Jessica’s story and would like to help more beginner coders get started and bring more diversity to open source, you can <a href="https://railsgirlssummerofcode.org/campaign/">donate to the RGSoC crowdfunding campaign</a>. Every cent goes towards funding RGSoC student scholarships. And it'll make you feel good, we promise.
