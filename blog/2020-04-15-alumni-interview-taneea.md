@@ -12,7 +12,7 @@ categories:
  
 ![](/img/blog/2020/Alumni-Interview-Taneea.png)
  
-<p>We are proud to share our interview with RGSoC 2016 alumni Taneea, an Electronics and Communication graduate from IIIT-Delhi who now works as a Technical Analyst at Goldman Sachs in Bangalore, India.</p>
+<p>We are proud to share our interview with RGSoC 2016 alumni Taneea, an Electronics and Communication graduate from IIIT-Delhi who now works as a Technical Analyst at Goldman Sachs in Bengaluru, India.</p>
 
 <p>As a self-confessed geek, hacker, coder, and hardcore Artidote fan, Taneea likes nothing more than whiling away the day solving interesting problems, equipped with just a laptop, snacks and a cup of coffee. Leading local meetups for women in tech, and as a valued member of the 2020 Orga team, Taneea hopes to touch lives and make a difference to the world through her work and expression.</p>
  
