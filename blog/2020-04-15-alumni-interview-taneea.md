@@ -64,4 +64,4 @@ categories:
 
 <h3>Supporting RGSoC students</h3>
 
-<p>More than 200 students have participated in Rails Girls Summer of Code so far. Please <a href="https://railsgirlssummerofcode.org/campaign/">donate to the crowdfunding campaign</a> and create more chancers for coders like Taneea to get started in tech.</p>
+<p>More than 200 students have participated in Rails Girls Summer of Code so far. Please <a href="https://railsgirlssummerofcode.org/campaign/">donate to the crowdfunding campaign</a> and create more chances for coders like Taneea to get started in tech.</p>
