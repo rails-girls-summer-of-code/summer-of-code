@@ -38,12 +38,10 @@
     id: basecamp
     url: https://basecamp.com
     text: |-
-      <a href="https://basecamp.com/">Basecamp</a> is the world's #1 project
-      management tool. We make it easy for people in different roles with different
-      responsibilities to communicate and work together. Basecamp is proud to support RGSoC 2020 because we believe in fostering a supportive space for
-      women in the open source community. Ruby on Rails is the heart and soul of
-      Basecamp, and we wouldn't exist without contributions from people like 
-      Rails Girls!
+      <a href="https://basecamp.com/">Basecamp</a> is the world's #1 project management tool. We make it easy for people
+      in different roles with different responsibilities to communicate and work together. Basecamp is proud to support
+      RGSoC 2020 because we believe in fostering a supportive space for women in the open source community. Ruby on Rails
+      is the heart and soul of Basecamp, and we wouldn't exist without contributions from people like Rails Girls!
     years:
       - 2013
       - 2014
@@ -51,6 +49,18 @@
       - 2016
       - 2017
       - 2018
+      - 2020
+
+  - name: Linux Professional Institute
+    id: linux-professional-institute
+    url: https://www.lpi.org/
+    text: |-
+      <a href="https://www.lpi.org/">Linux Professional Institute</a> (LPI) is the global certification standard and career
+      support organization for open source professionals. With more than 175,000 certification holders, it's the world's first
+      and largest vendor-neutral Linux and open source certification body. LPI has certified professionals in over 180 countries,
+      delivers exams in multiple languages, and has hundreds of training partners. We promote the use of open source by elevating
+      the people who work with it. And we'd love to see more women and diversity in IT. That's why we love Rails Girls Summer of Code!
+    years:
       - 2020
 
 - name: Pioneer
