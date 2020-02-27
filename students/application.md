@@ -38,7 +38,7 @@ This guide gives you all the information you need when applying for Rails Girls 
 
 <h3 id="period">When does RGSoC take place?</h3>
 
-A RGSoC season runs for three months, between July and September.
+A RGSoC season runs for a full three months, between the first working weekday in July and the last one in September. <b>In 2020, this is 01 July-30 September.</b>
 
 <h3 id="eligibility">Who is eligible to participate?</h3>
 
@@ -50,7 +50,7 @@ Further to this, we look for applicants:
 <ul>
 <li> who are involved with, or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, or similar initiatives</li>
 <li>with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples</li>
-<li>who can spend 3 months (July to September 2020) working full- or part-time on their Open Source project of choice</li>
+<li>who can spend 3 months (July, August and September) working full- or part-time on their Open Source project of choice</li>
 <li>who are proficient (spoken and written) in English. You will be communicating with several people from different countries, writing daily logs and blog posts, and English is our common language of communication</li>
 <li>who have never participated in our program as a sponsored team before</li>
 </ul>
