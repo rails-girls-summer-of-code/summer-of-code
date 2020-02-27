@@ -85,6 +85,8 @@ Our <a href="https://railsgirlssummerofcode.org/guide/coaching" target="_blank">
 
 You will need an environment suitable for working on your project for 3 months. This could be your home, a co-working space, your current work office or a <a href="https://railsgirlssummerofcode.org/guide/coaching-company" target="_blank">coaching company</a>. As long as you are safe and productive, you can choose where you will work.
 
+If you’re not able to find a coaching company or coworking space, universities can also be a good option.
+
 Working at a desk next to your teammate and coaches is beneficial. Having access to a team of coaches who can share the load is ideal.
 
 <h4 id="motivate">The ability to self-manage and motivate</h4>
