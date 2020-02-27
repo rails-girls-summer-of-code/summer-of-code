@@ -28,8 +28,7 @@ RGSoC offers a:
 * 3-month community-funded scholarship (01 July - 30 September 2020)
 * network of mentors, coaches, and supervisors who offer code-based and non-technical support throughout the program
 * choice of incredible open source projects to contribute to while you learn
-*
-*
+* chance to kick-start (or change into) a career in programming career with valuable experience on your CV/resume
 
 Sounds good, eh?
 
