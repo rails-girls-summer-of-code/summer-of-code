@@ -10,7 +10,7 @@ categories:
  - news
 ---
 
-![RGSoC 2020 Applications are now open! (illustration by Rebecca Conrad and Ana Sofia Pinho)](/img/blog/2020/2020-Apps-Open-GIF.gif)
+![RGSoC 2020 Applications are now open!](/img/blog/2020/2020-Apps-Open-GIF.gif)
 <div class="image-credits"><b>RGSoC 2020 student applications are now open! (thanks to Rebecca Conrad for the original illustrations)</b></div>
 
 It has been a bumper year for project submissions. Our dedicated volunteer reviewers (thanks, team) have spent the past few weeks, in a haze of caffeine, reading, evaluating and discussing all 48 proposals and have just finished making their (often taxing) decisions. Phew!
@@ -19,7 +19,7 @@ We thank everyone who entered a project. While we cannot take them all to the ne
 
 ### Students, start prepping!
 
-Now for some really exciting news. **RGSoC applications officially start on Monday, 02 March 2020.**
+Now for some really exciting news. **RGSoC student applications have officially started on Monday, 02 March 2020.**
 
 Here’s your chance to join a global movement that champions underrepresented groups in the field of tech. If you identify as female or non-binary, have at least 12 months’ experience of coding, and possess a passion to progress as a developer then you’re in the right place!
 
@@ -64,19 +64,107 @@ Your coaches should be able to advise which projects would be good for you to ch
 
 Here’s a brief list of the projects to whet your appetite:
 
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* Name: [adaboost](https://teams.railsgirlssummerofcode.org/projects/315-adaboost)
+<p>Technologies: machine-learning-algorithms, cpp11, google-test, cuda boost-python</p>
+
+* Name: [Backend and middleware for meeting rooms management system](https://teams.railsgirlssummerofcode.org/projects/365-backend-and-middleware-for-meeting-rooms-management-system)
+<p>Technologies: Python</p>
+
+* Name: [Bench-routes](https://teams.railsgirlssummerofcode.org/projects/308-bench-routes-production-grade-monitoring-benchmarks-and-alerting)
+<p>Technologies: Benchmarking, ChartJS, Golang, Monitoring, React, Scalability, Web-Sockets</p>
+
+* Name: [code curious workshop organising app](https://teams.railsgirlssummerofcode.org/projects/367-code-curious-workshop-organising-app)
+<p>Technologies: Ruby, HTML, CSS, Javascript</p>
+
+* Name: [Community App Boilerplate](https://teams.railsgirlssummerofcode.org/projects/320-community-app-boilerplate)
+<p>Technologies: Flutter, Dart, Firebase, Git, UI/UX</p>
+
+* Name: [ContriFOSS-Website](https://teams.railsgirlssummerofcode.org/projects/362-contrifoss-website)
+<p>Technologies: Python, Django, React, SQL, Git</p>
+
+* Name: [Cosmos](https://teams.railsgirlssummerofcode.org/projects/303-cosmos)
+<p>Technologies: browser extensions, c++, computer science, java, python</p>
+
+* Name: [Codeuino](https://teams.railsgirlssummerofcode.org/projects/319-dashboard-management-system-for-codeuino-s-new-design-initiative)
+<p>Technologies: UI/UX, React, MongoDB, Angular, databases, Javascript, Nodejs, web-development</p>
+
+* Name: [data science in clojure](https://teams.railsgirlssummerofcode.org/projects/369-data-science-in-clojure)
+<p>Technologies: clojure, R, data science, data visualization</p>
+
+* Name: [Deep Editing](https://teams.railsgirlssummerofcode.org/projects/353-deep-editing)
+<p>Technologies: css, flask, git, html, java script, python, tensorflow</p>
+
+* Name: [EBWiki](https://teams.railsgirlssummerofcode.org/projects/372-ebwiki)
+<p>Technologies: UI, UX, dev ops, ruby, ruby on rails, web dev</p>
+
+* Name: [H2](https://teams.railsgirlssummerofcode.org/projects/359-h2)
+<p>Technologies: typescript, javascript, electron, tensorflow</p>
+
+* Name: [if-me.org](https://teams.railsgirlssummerofcode.org/projects/299-if-me-org-mental-health-communication-app) | Mental health communication app
+<p>Technologies: Ruby on Rails, React, Postgres, HTML, SCSS, CSS, Flow, Storybook, Rspec, Capybara, Jest, Enzyme, Webpack</p>
+
+* Name: [Ignitus](https://teams.railsgirlssummerofcode.org/projects/314-ignitus)
+<p>Technologies: React, Redux, Redux-Sagas, Heroku, Docker, Node.js, Redis, Emotion, Prop-Types, MongoDB, Mongoose, Travis, Sketch, Figma, InVision, Framer</p>
+
+* Name: [Improve Servo's web compatibility](https://teams.railsgirlssummerofcode.org/projects/305-improve-servo-s-web-compatibility)
+<p>Technologies: Rust</p>
+
+* Name: [Improve the desks control system for coworking](https://teams.railsgirlssummerofcode.org/projects/366-improve-the-desks-control-system-for-the-coworking)
+<p>Technologies: Bootstrap, Flask, Jinja, LGPD, MySQL, Python, SQLAlchemy</p>
+
+* Name: [Kaocha](https://teams.railsgirlssummerofcode.org/projects/318-kaocha)
+<p>Technologies: clojure, testing, functional programming</p>
+
+* Name: [LatexGo](https://teams.railsgirlssummerofcode.org/projects/370-latexgo)
+<p>Technologies: nodejs, emscripten, latex</p>
+
+* Name: [Learning Equality Community Portal](https://teams.railsgirlssummerofcode.org/projects/355-le-community-portal)
+<p>Technologies: Django, JavaScript, Python, Vue</p>
+
+* Name: [Mentor Mentee Platform](https://teams.railsgirlssummerofcode.org/projects/304-mentor-mentee-platform)
+<p>Technologies: CSS, Database, Design, Education, Figma, Git, Github, HTML, JavaScript, Node, Progressive Web App, Rails, React, Ruby, Storybook, UI/UX</p>
+
+* Name: [Mentorfix](https://teams.railsgirlssummerofcode.org/projects/309-mentorfix)
+<p>Technologies: Javascript, React, NodeJS, GraphQL, MongoDB, SASS Semantic, UI</p>
+
+* Name: [Metro App](https://teams.railsgirlssummerofcode.org/projects/368-metro-app)
+<p>Technologies: Flutter, Dart, Firebase, Git, UI/UX</p>
+
+* Name: [napari](https://teams.railsgirlssummerofcode.org/projects/361-napari)
+<p>Technologies: python, image, visualization, n-dimensional, array, qt, GUI, OpenGL</p>
+
+* Name: [PyDataStructs](https://teams.railsgirlssummerofcode.org/projects/260-pydatastructs)
+<p>Technologies: data-structures, algorithms, python3</p>
+
+* Name: [Rokono Control](https://teams.railsgirlssummerofcode.org/projects/371-rokono-control)
+<p>Technologies: C#, CSS, HTML, Javascrip, Syncfusion, asp.net core</p>
+
+* Name: [Ruby 2D](https://teams.railsgirlssummerofcode.org/projects/364-ruby-2d)
+<p>Technologies: C, gaming, graphics, ios, opengl, ruby, tvos, webassembly</p>
+
+* Name: [RubyX](https://teams.railsgirlssummerofcode.org/projects/354-rubyx)
+<p>Technologies: assembler, compiler, computer science, performance, ruby</p>
+
+* Name: [Sathi - Voice Enabled Chatbot](https://teams.railsgirlssummerofcode.org/projects/316-sathi-voice-enabled-chatbot)
+<p>Technologies: Machine Learning, Image Processing, GitHub, Natural Language Processing (NLP), Information Retrieval, Python, HTML, CSS, JS</p>
+
+* Name: [ScienceMotions](https://teams.railsgirlssummerofcode.org/projects/297-sciencemotions)
+<p>Technologies: JavaScript, CSS, Animation, Webpack, Rails, Rspec, React</p>
+
+* Name: [scikit-image](https://teams.railsgirlssummerofcode.org/projects/360-scikit-image)
+<p>Technologies: Python, image analysis, image processing, array</p>
+
+* Name: [Stretchly](https://teams.railsgirlssummerofcode.org/projects/356-stretchly)
+<p>Technologies: nodejs, electronjs, css, html, javascript</p>
+
+* Name: [Vanilla Framework](https://teams.railsgirlssummerofcode.org/projects/306-vanilla-framework)
+<p>Technologies: SASS, SCSS, HTML, JavaScript, Flask, Python</p>
+
+* Name: [Water Monitoring System](https://teams.railsgirlssummerofcode.org/projects/293-water-monitoring-system)
+<p>Technologies: Arduino, CSS, HTML, IoT, JavaScript, NodeJS</p>
+
+* Name: [Wiki Education Dashboard](https://teams.railsgirlssummerofcode.org/projects/307-wiki-education-dashboard-make-the-survey-system-fast-and-usable)
+<p>Technologies: Rails, React, Ruby, Wikipedia, performance</p>
 
 ### Volunteer reviewers
 In 2018, we received 195 applications from student teams. We hope to have even half that number again this year, but it also means there is a lot of work ahead of us. It takes time to read and review all those applications, and we can’t do it without help.
