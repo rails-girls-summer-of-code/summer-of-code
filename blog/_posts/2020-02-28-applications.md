@@ -58,11 +58,20 @@ Your application can be saved as a draft for you to continue and submit any time
 
 ### Your choice of projects
 
-We’ve got a whole host of delectable [open source projects](https://teams.railsgirlssummerofcode.org/projects) for you to choose from this year.
+We’ve got a whole host of delectable [open source projects](https://teams.railsgirlssummerofcode.org/projects) for you to choose from this year. A list of projects and links to read more about each one is included below. We're now [crowdfunding](https://railsgirlssummerofcode.org/campaign/) to ensure as many student teams and projects can partificapte in RGSoC starting in July.
 
 Your coaches should be able to advise which projects would be good for you to choose, considering the languages they involve and difficulty level of the tasks. Of course, it’s also important the project interests you, so always keep that in mind.
 
-Here’s a brief list of the projects to whet your appetite:
+### Volunteer reviewers
+In 2018, we received 195 applications from student teams. We hope to have even half that number again this year, but it also means there is a lot of work ahead of us. It takes time to read and review all those applications, and we can’t do it without help.
+
+If you are interested in joining our reviewer team, then please email us on [contact@rgsoc.org](mailto:contact@rgsoc.org). (As much as we appreciate all offers, in the interest of being fair applicants cannot also be reviewers.)
+
+Good luck for your applications. We can’t wait to read them!
+
+### Projects
+
+Here’s a brief list of all the selected projects to whet your appetite:
 
 * Name: [adaboost](https://teams.railsgirlssummerofcode.org/projects/315-adaboost)
 <p>Technologies: machine-learning-algorithms, cpp11, google-test, cuda boost-python</p>
@@ -165,10 +174,3 @@ Here’s a brief list of the projects to whet your appetite:
 
 * Name: [Wiki Education Dashboard](https://teams.railsgirlssummerofcode.org/projects/307-wiki-education-dashboard-make-the-survey-system-fast-and-usable)
 <p>Technologies: Rails, React, Ruby, Wikipedia, performance</p>
-
-### Volunteer reviewers
-In 2018, we received 195 applications from student teams. We hope to have even half that number again this year, but it also means there is a lot of work ahead of us. It takes time to read and review all those applications, and we can’t do it without help.
-
-If you are interested in joining our reviewer team, then please email us on [contact@rgsoc.org](mailto:contact@rgsoc.org). (As much as we appreciate any offers, in the interest of being fair applicants cannot be reviewers.)
-
-Good luck for your applications. We can’t wait to read them!
