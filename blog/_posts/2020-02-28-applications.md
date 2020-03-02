@@ -24,10 +24,15 @@ Now for some really exciting news. **RGSoC student applications have officially 
 Here’s your chance to join a global movement that champions underrepresented groups in the field of tech. If you identify as female or non-binary, have at least 12 months’ experience of coding, and possess a passion to progress as a developer then you’re in the right place!
 
 RGSoC offers a:
+
 * unique opportunity to learn while making valuable OS contributions
+
 * 3-month community-funded scholarship (01 July - 30 September 2020)
+
 * network of mentors, coaches, and supervisors who offer code-based and non-technical support throughout the program
+
 * choice of incredible open source projects to contribute to while you learn
+
 * chance to kick-start (or change into) a career in programming career with valuable experience on your CV/resume
 
 Sounds good, eh?
