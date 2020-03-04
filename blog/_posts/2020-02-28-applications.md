@@ -51,10 +51,15 @@ While we’d prefer to offer a place to everyone, the number of scholarships rel
 ](https://railsgirlssummerofcode.org/campaign/). Who wouldn’t be tempted to see their name in lights in exchange for a small donation? Well, on the RGSoC website, anyway.
 
 To help you make a stronger application, think about including details of:
+
 * how long you have been coding and what you already (like to) contribute to
+
 * any communities you are involved with, such as meetups, workshops or conferences
+
 * dreams, goals, long term plans
+
 * details you may have discussed with the project maintainer/mentor that led you to choose the RGSoC project(s) in your application
+
 * experience of co-working (good and bad - especially if you resolved any issues)
 
 It’s best to start filling the application form early, even if you’re still searching for [coaches](https://railsgirlssummerofcode.org/guide/coaching/) and/or a [working space](https://railsgirlssummerofcode.org/guide/coaching-company/).
