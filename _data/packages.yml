@@ -264,6 +264,15 @@
       - 2018
       - 2020
 
+  - name: Liefery
+    id: liefery
+    url: https://www.liefery.com
+    text: |-
+      <a href="https://www.softwire.com/" target="_blank">Liefery</a> is inventing the future of
+      last mile logistics. Come join us!
+    years:
+      - 2020
+
 - name: In-kind
   title: In-kind Sponsors
   sponsors:
