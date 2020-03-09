@@ -36,7 +36,7 @@ categories:
 <h4>Q4. How do I find a teammate?</h4>
 <p>It is usually preferred to team up with someone you have coded with before or someone you are comfortable working with. In case you haven’t worked with someone before, you can look for teammates in your college or in local communities that you are part of. Also, Twitter can be a good source for finding teammates.</p>
 
-<p>This link details how to use Twitter for finding a teammate: <a href="https://railsgirlssummerofcode.org/students/finding-your-team/#find-teammate target="_blank">https://railsgirlssummerofcode.org/students/finding-your-team/</a></p>
+<p>This link details how to use Twitter for finding a teammate: <a href="https://railsgirlssummerofcode.org/students/finding-your-team/#find-teammate" target="_blank">https://railsgirlssummerofcode.org/students/finding-your-team/</a></p>
 
 <h4>Q5. How do I find coaches?</h4>
 <p>A coach can be any person who is willing to guide you through the application and the coding period. It is advisable to look for coaches with whom you can meet offline as this eases the process of seeking help. That doesn’t mean you shouldn’t look for remote coaches at all. In my case, I chose my college seniors as coaches as they were easily approachable (2 seniors helped us remotely and 2 of them locally). Again, you can look for coaches in your college as well as your local community. There are lots of people out there ready to help. All you have to do is ask. You can approach people on LinkedIn, Twitter, etc and ask them for help.</p>
@@ -65,9 +65,10 @@ c. about your team setup. Do this together as a team</blockquote>
 
 <p>An important part of application writing is to make sure to get it reviewed by someone (this could be your coaches, seniors, etc.). Getting the application reviewed enables the resolving of grammatical errors along with getting a third-person opinion on your essays.</p>
 
-  <li>Choose whether you wish to work full-time or part-time. From the RGSoC website:</li></ol>
+  <li>Choose whether you wish to work full-time or part-time. From the RGSoC website:</li>
 
 <blockquote>During your application, you will have the option to select whether you are applying as a full- or part-time student, or both. Both are subject to the same selection process and adhere to the same guidelines. If selected, part-time teams receive the same support and opportunities but the monthly stipend reflects the difference in project working hours.</blockquote>
+</ol>
 
 <h4>Q8. I am a beginner in programming. Should I participate?</h4>
 <p>RGSoC includes projects of varying levels of difficulty as well as projects of various different programming languages. This is done to ensure that people with varying skill-sets and expertise can contribute. Also, things can be learned along the way. Make sure that you being a beginner in programming shouldn’t stop you from participating.</p>
@@ -75,9 +76,9 @@ c. about your team setup. Do this together as a team</blockquote>
 <h4>Q9. My teammate and I have different skill-sets. How should we decide on one project?</h4>
 <p>In my case, I was fortunate enough to find a team-mate who wanted to work with the same programming language. But if that’s not the case with you, there isn’t much to worry about. Usually, a number of projects require working with more than 1 language, so you can choose one of them. If that’s not the case, one of you can help the other to learn a specific language and then contribute. After all, one of the aims of RGSoC is to learn new things.</p>
 
-<p>More details can be found on the official website of <a href="https://railsgirlssummerofcode.org/ target="_blank">RGSoC</a>.</p>
+<p>More details can be found on the official website of <a href="https://railsgirlssummerofcode.org/" target="_blank">RGSoC</a>.</p>
 
 <p>All the best with the application process!</p>
 
 <hr>
-<p><a href="https://github.com/Akshitaag" target="_blank">Akshita Aggarwal</a> is a former RGSoC student (2018 edition). This blog post originally appeared at <a href="https://medium.com/@aggarwalakshita1/what-and-hows-of-rgsoc-d4ee14f29a0e target="_blank">https://medium.com/@aggarwalakshita1/what-and-hows-of-rgsoc-d4ee14f29a0e</a> on 16 December 2019.</p>
+<p><a href="https://github.com/Akshitaag" target="_blank">Akshita Aggarwal</a> is a former RGSoC student (2018 edition). This blog post originally appeared at <a href="https://medium.com/@aggarwalakshita1/what-and-hows-of-rgsoc-d4ee14f29a0e" target="_blank">https://medium.com/@aggarwalakshita1/what-and-hows-of-rgsoc-d4ee14f29a0e</a> on 16 December 2019.</p>
