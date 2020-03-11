@@ -29,6 +29,7 @@ This guide gives you all the information you need when applying for Rails Girls 
     <li><a href="#project">A project</a></li>
   </ul>
 <li><a href="#apply">Placing your application</a></li>
+<li><a href="#contribute">Contributions before July</a></li>
 <li><a href="#selection">Selection and judging</a></li>
 <li><a href="#during">Requirements during the program</a></li>
 <li><a href="#checklist">Before you apply: the checklist</a></li>
@@ -136,6 +137,14 @@ We’d recommend team members not to fill out the application form at the same t
 If you have any queries about the application process, please <a href="mailto:contact@rgsoc.org">send us an email</a>.
 
 Please note, applications sent after the deadline cannot be considered for judging.
+
+<h3 id="contribute">Contributions before July</h3>
+
+RGSoC is all about community. Students develop as coders with the support of a network (mentor, coaches, supervisor, etc.). As such, you do not need to start contributing before July. In fact, many RGSoC applicants will only have the opportunity to contribute during the planned 3 month period (July-September) when awarded a scholarship.
+
+Some project mentors may give you a chance to contribute early to get a sense of the codebase. However, this is not a requirement. Many RGSoC mentors actually prefer to wait until a team is assigned to their project before making a roadmap, assigning tasks, and starting contributions.
+
+Before asking a mentor about contributing early, please check if they have already given details or answered a question about it in the project details or comments in the <a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">Teams App</a>.
 
 <h3 id="selection">Selection and judging</h3>
 
