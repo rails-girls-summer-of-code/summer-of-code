@@ -119,6 +119,13 @@ Before applying, you need to create a team:
 <li>clicking “Apply now” in the navigation to visit the application form.</li>
 </ol>
 
+When you have found coaches, you need to add them to your team as follows:
+<ul>
+<li>Click "Add a Member" on your team page in the <a href="https://teams.railsgirlssummerofcode.org/teams" target="_blank">Teams App</a></li>
+<li>Add your coach's GitHub handle and choose "coach" for the role</li>
+<li>Save</li>
+</ul>
+
 The application form is split into three sections, where you will be asked:
 <ol>
 <li>questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. You and your teammate will fill in this information separately</li>
