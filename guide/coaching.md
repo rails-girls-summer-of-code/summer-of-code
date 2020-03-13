@@ -110,12 +110,19 @@ Could you ask your company to become a <a href="/guide/coaching-company" target=
 
 <h3 id="register">How to register as a coach</h3>
 
-How to register as a coach
-Register as a coach on our <a href="https://teams.railsgirlssummerofcode.org/" target="_blank">Teams app</a>:
+To register as a coach on our <a href="https://teams.railsgirlssummerofcode.org/" target="_blank">Teams app</a>:
 <ul>
 <li>Log in with <a href="https://github.com/" target="_blank">GitHub</a></li>
 <li>Under “My Account” choose “Edit”</li>
 <li>Select what you’re interested in: helping as a coach or as a remote coach/providing helpdesk support</li>
+<li>Important: make sure you have added an email address to your profile</li>
+</ul>
+
+When you have found a team, ask one of the student applicants to add you as a coach. To do this, they must:
+<ul>
+<li>Click "Add a Member" on their team page in the <a href="https://teams.railsgirlssummerofcode.org/teams" target="_blank">Teams App</a></li>
+<li>Add your GitHub handle and choose "coach" for the role</li>
+<li>Save</li>
 </ul>
 
 <h3 id="team">Ways to find a team</h3>
