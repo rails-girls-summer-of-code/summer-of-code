@@ -23,25 +23,25 @@ We have gathered together some of the most popular questions asked during the ap
 * <a href="#code">What are the coding requirements?</a>
 
 <h3 id="start">Please help me to get started/guide me</h3>
-<p>We see a lot of applicants asking this in the comments section of projects. Please do not ask mentors how to get started.</p>
+<p>We see a lot of applicants asking this in the comments section of projects. Please do not ask mentors how to get started, but you are welcome to contact them with more specific questions about their project.</p>
 
-<p>All the information on how to apply to RGSoC is at <a href="https://railsgirlssummerofcode.org/students" target="_blank">https://railsgirlssummerofcode.org/students</a>.</p>
+<p>All the information on how to get started (i.e. apply to RGSoC) is at <a href="https://railsgirlssummerofcode.org/students" target="_blank">https://railsgirlssummerofcode.org/students</a>.</p>
 
 <p>RGSoC officially starts on 01 July. Making contributions isn't necessary until you are accepted to the program (unless the project mentor recommends otherwise).</p>
 
 <h3 id="contributions">Contributing before July</h3>
-<p>RGSoC is all about community. Students develop as coders with the support of a network (mentor, coaches, supervisor, etc.). As such, you do not need to start contributing before July. In fact, many RGSoC applicants will only have the opportunity to contribute during the planned 3 month period (July-September) when awarded a scholarship.</p>
+<p>RGSoC is all about community. Students develop as coders with the support of a network (mentor, coaches, supervisor, etc.). Many RGSoC applicants will only have the opportunity to contribute during the planned 3 month period (July-September) when awarded a scholarship.</p>
 
-<p>Some project mentors may give you a chance to contribute early to get a sense of the codebase, or to provide a coding challenge for your application. However, early contributions are not a requirement for RGSoC. In fact, most mentors actually prefer to wait until a team is assigned to their project before assigning tasks.</p>
+<p>Some project mentors may give you a chance to contribute early to get a sense of the codebase, or to provide a coding challenge for your application. However, unlike other coding programs, early contributions are not a requirement for RGSoC. In fact, most mentors actually prefer to wait until a team is assigned to their project before assigning tasks.</p>
 
 <p>Before asking a mentor about contributing early, please check if they have already given details or answered a question about it in the project details or comments section in the <a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">Teams App</a>.</p>
 
 <h3 id="male">Can "boys" take part?</h3>
-<p>We relish diversity and strive to build and nurture an inclusive community. However, RGSoC scholarships support female and non-binary coders. We offer these scholarships to provide opportunities for people underrepresented in tech to gain valuable experience and develop associated skills.</p>
+<p>We relish diversity and strive to build and nurture an inclusive community. However, RGSoC scholarships exclusively support female and non-binary coders. We offer these scholarships to provide opportunities for people underrepresented in tech to gain valuable experience and develop associated skills.</p>
 
 <p>People who identify as male are not accepted on the program as <b>students</b>.</p>
 
-<p>However, there is no such selection criteria for other roles, including mentors, coaches, supervisors, and the organizer team. Anyone identifying as male is encouraged to be part of RGSoC in roles other than a student. All the information for these different roles can be found on our <a href="https://railsgirlssummerofcode.org/about/roles/" target="_blank">Roles page</a>.</p>
+<p>However, there is no such restriction for other roles, including mentors, coaches, supervisors, and the organizer team. Anyone identifying as male is positively encouraged to be part of RGSoC in roles other than as a student. All the information for these different roles can be found on our <a href="https://railsgirlssummerofcode.org/about/roles/" target="_blank">Roles page</a>.</p>
 
 <h3 id="projects">Can you give me some info about the projects?</h3>
 <p>All the current projects and the languages they are using can be seen on our <a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">Projects page</a>.</p>
@@ -61,12 +61,12 @@ We have gathered together some of the most popular questions asked during the ap
 <h3 id="form">Do we have to fill in the form together or separately?</h3>
 <p>Both student applicants will need to fill in the 'About Yourself' section separately. Please do the rest of the application together if you can.</p>
 
-<p>If you write any of it separately, please sdo so at a different time to your teammate to ensure you don't lose any data. Applications can be saved in draft form and continued at any time.</p>
+<p>If you write any of it separately, please do so at a different time to your teammate to ensure you don't lose any data. Applications can be saved in draft form and continued at any time.</p>
 
 <h3 id="mentors">Do teams need to find mentors?</h3>
 <p>To apply to RGSoC, you will need a teammate and at least 2 coaches.</p>
 
-<p>You do <b>not</b> need to find a mentor. In RGSoC terms, this is the maintainer who submitted their project for the program. This mentor will be part of the team working on their project.</p>
+<p>You do <b>not</b> need to find a mentor. In RGSoC terms, this is the maintainer who submitted their project for the program. This mentor will be part of the team guiding you during the program.</p>
 
 <h3 id="code">What are the coding requirements?</h3>
 <p>RGSoC is aimed at experienced beginner-level coders. Our <a href="https://railsgirlssummerofcode.org/students/application/#eligibility" target="_blank">guide to eligibility</a> provides some information about the level of coding you require, including "at least a year’s experience of continuous learning".</p>
