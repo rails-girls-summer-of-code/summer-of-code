@@ -13,6 +13,7 @@ current: students
 We have gathered together some of the most popular questions asked during the application stage. Please check through these first before contacting project mentors.
 
 * <a href="#start">Please help me to get started/guide me</a>
+* <a href="#id">Why am I getting a 404 error when confirming my email ID?</a>
 * <a href="#contributions">Contributing before July</a>
 * <a href="#male">Can "boys" take part?</a>
 * <a href="#projects">Can you give me some info about the projects?</a>
@@ -28,6 +29,16 @@ We have gathered together some of the most popular questions asked during the ap
 <p>All the information on how to get started (i.e. apply to RGSoC) is at <a href="https://railsgirlssummerofcode.org/students" target="_blank">https://railsgirlssummerofcode.org/students</a>.</p>
 
 <p>RGSoC officially starts on 01 July. Making contributions isn't necessary until you are accepted to the program (unless the project mentor recommends otherwise).</p>
+
+<h3 id="id">Why am I getting a 404 error when confirming my email ID?</h3>
+<p>The 'page is missing' error usually occurs because one or more of the following pieces of information is missing from a profile:
+<ul>
+  <li>email address</li>
+  <li>country</li>
+  <li>city</li>
+</ul>
+
+To avoid the error, please ensure you enter these details when creating your profile. If you do encounter the error, <b>please send the details above and a link to your profile page</b> to <a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a></p>
 
 <h3 id="contributions">Contributing before July</h3>
 <p>RGSoC is all about community. Students develop as coders with the support of a network (mentor, coaches, supervisor, etc.). Many RGSoC applicants will only have the opportunity to contribute during the planned 3 month period (July-September) when awarded a scholarship.</p>
