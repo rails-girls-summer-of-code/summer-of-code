@@ -78,7 +78,7 @@ For further information on finding a teammate we have prepared a <a href="https:
 
 Coaches are developers who sit down with you, guide you through relevant coding steps and troubleshoot with you at regular intervals. Ideally they are based in the same city as your team.
 
-We recommend 4-8 hours per week of coaching time. This requires a minimum of 2 coaches so they can share the time commitment, and provide you and your teammate with more flexible support.
+We recommend 4-8 hours per week of coaching time. <b>This requires a minimum of 2 coaches</b> so they can share the time commitment, and provide you and your teammate with more flexible support.
 
 Our <a href="https://railsgirlssummerofcode.org/guide/coaching" target="_blank">guide for coaches</a> will help to give you insight on what is required of them, and help you to explain this to prospective coaches. For further information on how to find coaches, we have also prepared a <a href="https://railsgirlssummerofcode.org/students/finding-your-team" target="_blank">a detailed guide</a>.
 
@@ -119,7 +119,7 @@ Before applying, you need to create a team:
 <li>clicking “Apply now” in the navigation to visit the application form.</li>
 </ol>
 
-When you have found coaches, you need to add them to your team as follows:
+<b>For your application to be valid, you need at least 2 confirmed coaches on your team.</b> When you have found coaches, add them to your team as follows:
 <ul>
 <li>Click "Add a Member" on your team page in the <a href="https://teams.railsgirlssummerofcode.org/teams" target="_blank">Teams App</a></li>
 <li>Add your coach's GitHub handle and choose "coach" for the role</li>
