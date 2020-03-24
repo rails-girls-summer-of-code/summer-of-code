@@ -10,6 +10,8 @@ categories:
  - guest-posts
 ---
 
+![](/img/blog/2020/2020-03-24-Guest-Blog-Breaking-Barriers.png)
+
 <p>Hands up anyone reading this who has ever felt a pang of apprehension over contributing to an open source project. Quite a few of us. Despite the community being so welcoming and supportive, it can be daunting to get started with your first few pull requests.</p>
 
 <p>Today, guest blogger and RGSoC Alumni Taneea shares the benefit of first-hand experience. Here, she provides encouraging nuggets of inspiration for anyone needing to put the doubts aside and explains how RGSoC can help you get started in FOSS.</p>
