@@ -28,10 +28,11 @@ permalink: /sponsors/packages/
     <p>If you would like to know more about RGSoC or present our program to your company, you can also take a look at our most recent <a href="https://speakerdeck.com/travisfoundation/rgsoc-2020-sponsor-pitch" target="_blank">pitch deck</a>.</p>
     
     <p>Download a copy of the <a href="https://drive.google.com/a/travis-ci.org/file/d/1iuhhUTrtGONoBFlZgsF6qf1ZJgCwlwRL/view?usp=sharing" target="_blank">Sponsorship Prospectus</a>.</p>
+    
+    <p>If you would like to sponsor RGSoC 2020, please <a href="mailto:campaign@rgsoc.org">email us</a> to arrange an invoice to be raised for your donation. We'd love to hear from you. 🙌</p>
+    
   </div>
 </div>
-
-    <p>If you would like to sponsor RGSoC 2020, please <a href="mailto:campaign@rgsoc.org">email us</a> to arrange an invoice to be raised for your donation. We'd love to hear from you. 🙌</p>
 
 <!--
 <div class="row">
@@ -39,10 +40,10 @@ permalink: /sponsors/packages/
     {% include sponsor_packages.html %}
   </div>
 </div>
+-->
 
 <div class="row">
   <div class="col-md-12">
--->
 
   <h2>Benefits for sponsors</h2>
 
