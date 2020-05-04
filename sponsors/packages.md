@@ -31,7 +31,7 @@ permalink: /sponsors/packages/
   </div>
 </div>
 
-  <p>If you would like to sponsor RGSoC 2020, please <a href="mailto:campaign@rgsoc.org">email us</a> to arrange an invoice to be raised for your donation. We'd love to hear from you.</p>🙌
+    <p>If you would like to sponsor RGSoC 2020, please <a href="mailto:campaign@rgsoc.org">email us</a> to arrange an invoice to be raised for your donation. We'd love to hear from you. 🙌</p>
 
 <!--
 <div class="row">
@@ -39,8 +39,7 @@ permalink: /sponsors/packages/
     {% include sponsor_packages.html %}
   </div>
 </div>
--->
-<!--
+
 <div class="row">
   <div class="col-md-12">
 -->
