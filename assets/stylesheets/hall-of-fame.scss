@@ -1,0 +1,34 @@
+.main-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.special-moments {
+  display: grid;
+  grid-template-columns: minmax(50%, 1fr) 1fr;
+  grid-gap: 10px;
+}
+
+.special-moments-child img, .main-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.stats-grid-child {
+  align-self: center;
+  text-align: center;
+}
+
+.statistics {
+  color: $red;
+  font-size: $font-size-h2;
+  font-weight: 700;
+}
